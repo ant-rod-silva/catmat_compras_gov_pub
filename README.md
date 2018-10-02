@@ -1,4 +1,4 @@
-# catmat - API de Compras Governamentais 
+# CATMAT - Catálogo de Materiais - API de Compras Governamentais 
 
 Catálogo de materiais obtidos da API de Compras Governamentais em formato cvs - http://compras.dados.gov.br/docs/materiais/v1/materiais.html
 
@@ -7,7 +7,7 @@ Os dados foram extraídos nos dias 01 e 02 de outubro de 2018
 #### Grupos:
 
 ```
-10: ARMAMENTO: 189 itens
+10: ARMAMENTO: **189 itens**
 11: MATERIAIS BÉLICOS NUCLEARES: 25 itens
 12: EQUIPAMENTOS DE TIRO: 23 itens
 13: MUNIÇÕES E EXPLOSIVOS: 105 itens
