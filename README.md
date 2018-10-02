@@ -87,3 +87,6 @@ Os dados foram extraídos nos dias 01 e 02 de outubro de 2018
 - 96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS: **364 itens**
 - 99: DIVERSOS: **2305 itens**
 
+#### Exemplo de busca por grupo
+
+http://compras.dados.gov.br/materiais/v1/materiais.html?grupo=10
