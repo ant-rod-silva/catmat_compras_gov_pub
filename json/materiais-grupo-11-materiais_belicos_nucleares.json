@@ -1,0 +1,227 @@
+[
+  {
+    "Código do Item": 46248,
+    "Descrição do Item": "SECOES DE OGIVAS , SECOES DE OGIVAS NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1110: PROJÉTEIS NUCLEARES",
+    "PDM": "11973: SECOES DE OGIVAS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46256,
+    "Descrição do Item": "SECOES DE CORPO , SECOES DE CORPO NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1110: PROJÉTEIS NUCLEARES",
+    "PDM": "11972: SECOES DE CORPO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46264,
+    "Descrição do Item": "SECOES DE BASE , SECOES DE BASE NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1110: PROJÉTEIS NUCLEARES",
+    "PDM": "11970: SECOES DE BASE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46302,
+    "Descrição do Item": "SECOES DE CARCACAS , SECOES DE CARCACAS NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1125: CARGAS NUCLEARES DE DEMOLIÇÃO",
+    "PDM": "11971: SECOES DE CARCACAS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46337,
+    "Descrição do Item": "ESPOLETAS , ESPOLETAS NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1135: DISPOSITIVOS DE DETONAÇÃO E DISPARO DE ARMAMENTO",
+    "PDM": "07034: ESPOLETAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46353,
+    "Descrição do Item": "ESPOLETA DE DISPARO , ESPOLETA DE DISPARO NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1135: DISPOSITIVOS DE DETONAÇÃO E DISPARO DE ARMAMENTO",
+    "PDM": "07026: ESPOLETA DE DISPARO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46361,
+    "Descrição do Item": "FONTES DE ENERGIA PARA DETONACAO E DISPARO , FONTES DE ENERGIA PARA DETONACAO E DISPA NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1135: DISPOSITIVOS DE DETONAÇÃO E DISPARO DE ARMAMENTO",
+    "PDM": "07722: FONTES DE ENERGIA PARA DETONACAO E DISPARO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46388,
+    "Descrição do Item": "UNIDADES CONSUMIVEIS DE DETONACAO E DISPARO DE ARMAS NUCLEARES , UNIDADES CONSUMIVEIS DE DETONACAO E DISP NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1135: DISPOSITIVOS DE DETONAÇÃO E DISPARO DE ARMAMENTO",
+    "PDM": "13195: UNIDADES CONSUMIVEIS DE DETONACAO E DISPARO DE ARMAS NUCLEARES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46418,
+    "Descrição do Item": "SISTEMAS DE ARMAR E DETONAR VEICULOS ESPACIAIS NUCLEARES DE REENTRADA , SISTEMAS DE ARMAR E DETONAR VEICULOS ESP NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1135: DISPOSITIVOS DE DETONAÇÃO E DISPARO DE ARMAMENTO",
+    "PDM": "12167: SISTEMAS DE ARMAR E DETONAR VEICULOS ESPACIAIS NUCLEARES DE REENTRADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46442,
+    "Descrição do Item": "REBOQUES ESPECIAIS PARA ARMAMENTO NUCLEAR , REBOQUES ESPECIAIS PARA ARMAMENTO NUCLEA NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1190: EQUIPAMENTO ESPECIALIZADO DE MANUSEIO E ENSAIO DE  ARMAMENTONUCLEAR",
+    "PDM": "11469: REBOQUES ESPECIAIS PARA ARMAMENTO NUCLEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46450,
+    "Descrição do Item": "ESTROPOS PARA ARMAMENTO NUCLEAR , ESTROPOS PARA ARMAMENTO NUCLEAR NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1190: EQUIPAMENTO ESPECIALIZADO DE MANUSEIO E ENSAIO DE  ARMAMENTONUCLEAR",
+    "PDM": "07194: ESTROPOS PARA ARMAMENTO NUCLEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46493,
+    "Descrição do Item": "EQUIPAMENTOS OPERACIONAIS DE REGULAGEM DE ARMAMENTO NUCLEAR , EQUIPAMENTOS OPERACIONAIS DE REGULAGEM D NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1190: EQUIPAMENTO ESPECIALIZADO DE MANUSEIO E ENSAIO DE  ARMAMENTONUCLEAR",
+    "PDM": "06861: EQUIPAMENTOS OPERACIONAIS DE REGULAGEM DE ARMAMENTO NUCLEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46507,
+    "Descrição do Item": "SUPORTES PARA ARMAMENTO NUCLEAR , SUPORTES PARA ARMAMENTO NUCLEAR NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1190: EQUIPAMENTO ESPECIALIZADO DE MANUSEIO E ENSAIO DE  ARMAMENTONUCLEAR",
+    "PDM": "12429: SUPORTES PARA ARMAMENTO NUCLEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191105,
+    "Descrição do Item": "BOMBAS NUCLEARES , BOMBAS NUCLEARES NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1105: BOMBAS NUCLEARES",
+    "PDM": "16672: BOMBAS NUCLEARES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191110,
+    "Descrição do Item": "PROJÉTEIS NUCLEARES , PROJÉTEIS NUCLEARES NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1110: PROJÉTEIS NUCLEARES",
+    "PDM": "16673: PROJÉTEIS NUCLEARES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191115,
+    "Descrição do Item": "OGIVAS NUCLEARES E SEÇÕES DE OGIVAS NUCLEARES , OGIVAS NUCLEARES E SEÇÕES DE OGIVAS NUCL NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1115: OGIVAS NUCLEARES E SEÇÕES DE OGIVAS NUCLEARES",
+    "PDM": "16674: OGIVAS NUCLEARES E SEÇÕES DE OGIVAS NUCLEARES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191120,
+    "Descrição do Item": "BOMBAS NUCLEARES DE PROFUNDIDADE , BOMBAS NUCLEARES DE PROFUNDIDADE NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1120: BOMBAS NUCLEARES DE PROFUNDIDADE",
+    "PDM": "16675: BOMBAS NUCLEARES DE PROFUNDIDADE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191125,
+    "Descrição do Item": "CARGAS NUCLEARES DE DEMOLIÇÃO , CARGAS NUCLEARES DE DEMOLIÇÃO NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1125: CARGAS NUCLEARES DE DEMOLIÇÃO",
+    "PDM": "16676: CARGAS NUCLEARES DE DEMOLIÇÃO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191127,
+    "Descrição do Item": "FOGUETES NUCLEARES , FOGUETES NUCLEARES NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1127: FOGUETES NUCLEARES",
+    "PDM": "16677: FOGUETES NUCLEARES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191130,
+    "Descrição do Item": "CONJUNTOS DE CONVERSÃO PARA ARMAMENTO NUCLEAR , CONJUNTOS DE CONVERSÃO PARA ARMAMENTO NU NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1130: CONJUNTOS DE CONVERSÃO PARA ARMAMENTO NUCLEAR",
+    "PDM": "16678: CONJUNTOS DE CONVERSÃO PARA ARMAMENTO NUCLEAR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191135,
+    "Descrição do Item": "DISPOSITIVOS DE DETONAÇÃO E DISPARO DE ARMAMENTO NUCLEAR , DISPOSITIVOS DE DETONAÇÃO E DISPARO DE A NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1135: DISPOSITIVOS DE DETONAÇÃO E DISPARO DE ARMAMENTO",
+    "PDM": "16679: DISPOSITIVOS DE DETONAÇÃO E DISPARO DE ARMAMENTO NUCLEAR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191140,
+    "Descrição do Item": "COMPONENTES NUCLEARES , COMPONENTES NUCLEARES NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1140: COMPONENTES NUCLEARES",
+    "PDM": "16680: COMPONENTES NUCLEARES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191145,
+    "Descrição do Item": "COMPONENTES EXPLOSIVOS E PIROTÉCNICOS DE ARMAMENTO NUCLEAR , COMPONENTES EXPLOSIVOS E PIROTÉCNICOS DE NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1145: COMPONENTES EXPLOSIVOS E PIROTÉCNICOS DE ARMAMENTO NUCLEAR",
+    "PDM": "16681: COMPONENTES EXPLOSIVOS E PIROTÉCNICOS DE ARMAMENTO NUCLEAR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191190,
+    "Descrição do Item": "EQUIPAMENTO ESPECIALIZADO DE MANUSEIO E ENSAIO DE ARMAMENTONUCLEAR , EQUIPAMENTO ESPECIALIZADO DE MANUSEIO E NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1190: EQUIPAMENTO ESPECIALIZADO DE MANUSEIO E ENSAIO DE  ARMAMENTONUCLEAR",
+    "PDM": "16682: EQUIPAMENTO ESPECIALIZADO DE MANUSEIO E ENSAIO DE  ARMAMENTONUCLEAR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191195,
+    "Descrição do Item": "MATERIAL BÉLICO NUCLEAR DIVERSOS , MATERIAL BÉLICO NUCLEAR DIVERSOS NOME",
+    "Grupo": "11: MATERIAIS BÉLICOS NUCLEARES",
+    "Classe": "1195: MATERIAL BÉLICO NUCLEAR DIVERSOS",
+    "PDM": "16683: MATERIAL BÉLICO NUCLEAR DIVERSOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  }
+]
