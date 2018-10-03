@@ -94,3 +94,7 @@ http://compras.dados.gov.br/materiais/v1/materiais.html?grupo=10
 #### Ferramenta usada para remover os espaços em branco desnecessários
 
 https://www.textfixer.com/tools/remove-white-spaces.php
+
+#### Ferramenta usada para converter csv para json
+
+https://www.csvjson.com/csv2json
