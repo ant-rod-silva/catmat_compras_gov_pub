@@ -1,0 +1,2423 @@
+[
+  {
+    "Código do Item": 507,
+    "Descrição do Item": "LANCHA DE TRANSPORTE DE PASSAGEIRO , LANCHA DE TRANSPORTE DE PASSAGEIRO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1910: NAVIOS PARA TRANSPORTE DE PASSAGEIRO E DE TROPA",
+    "PDM": "08697: LANCHA DE TRANSPORTE DE PASSAGEIRO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 515,
+    "Descrição do Item": "NAVIO DE PASSAGEIRO , NAVIO DE PASSAGEIRO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1910: NAVIOS PARA TRANSPORTE DE PASSAGEIRO E DE TROPA",
+    "PDM": "10054: NAVIO DE PASSAGEIRO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 523,
+    "Descrição do Item": "NAVIO DE ALOJAMENTO , NAVIO DE ALOJAMENTO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1910: NAVIOS PARA TRANSPORTE DE PASSAGEIRO E DE TROPA",
+    "PDM": "10050: NAVIO DE ALOJAMENTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 531,
+    "Descrição do Item": "PEQUENA EMBARCACAO COM PROPULSAO PROPRIA , PEQUENA EMBARCACAO COM PROPULSAO PROPRIA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "10641: PEQUENA EMBARCACAO COM PROPULSAO PROPRIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 540,
+    "Descrição do Item": "NAVIO PETROLEIRO , NAVIO PETROLEIRO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1915: NAVIOS TANQUES E CARGUEIROS",
+    "PDM": "10061: NAVIO PETROLEIRO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 558,
+    "Descrição do Item": "NAVIO PROPANEIRO , NAVIO PROPANEIRO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1915: NAVIOS TANQUES E CARGUEIROS",
+    "PDM": "10062: NAVIO PROPANEIRO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 566,
+    "Descrição do Item": "NAVIO GRANELEIRO , NAVIO GRANELEIRO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1915: NAVIOS TANQUES E CARGUEIROS",
+    "PDM": "10058: NAVIO GRANELEIRO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 574,
+    "Descrição do Item": "NAVIO DE CARGA MISTA ( MINERIO / PETROLEO ) , NAVIO DE CARGA MISTA ( MINERIO / PETROLE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1915: NAVIOS TANQUES E CARGUEIROS",
+    "PDM": "10052: NAVIO DE CARGA MISTA ( MINERIO / PETROLEO )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 582,
+    "Descrição do Item": "NAVIO DE CARGA SECA , NAVIO DE CARGA SECA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1915: NAVIOS TANQUES E CARGUEIROS",
+    "PDM": "10053: NAVIO DE CARGA SECA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 590,
+    "Descrição do Item": "CHATA PARA CARGA SECA , CHATA PARA CARGA SECA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1930: BATELOES E CHATAS PARA CARGAS",
+    "PDM": "04865: CHATA PARA CARGA SECA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 604,
+    "Descrição do Item": "CHATA DE CARGA , CHATA DE CARGA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1930: BATELOES E CHATAS PARA CARGAS",
+    "PDM": "04864: CHATA DE CARGA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 612,
+    "Descrição do Item": "BATELAO DE CARGA SECA , BATELAO DE CARGA SECA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1930: BATELOES E CHATAS PARA CARGAS",
+    "PDM": "03451: BATELAO DE CARGA SECA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 620,
+    "Descrição do Item": "BATELAO DE CARGA LIQUIDA , BATELAO DE CARGA LIQUIDA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1930: BATELOES E CHATAS PARA CARGAS",
+    "PDM": "03450: BATELAO DE CARGA LIQUIDA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 639,
+    "Descrição do Item": "EMBARCACAO REBOCADORA , EMBARCACAO REBOCADORA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "06513: EMBARCACAO REBOCADORA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 647,
+    "Descrição do Item": "PONTAO ESTAQUEADOR , PONTAO ESTAQUEADOR NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1945: PONTÕES E DOCAS FLUTUANTES",
+    "PDM": "10999: PONTAO ESTAQUEADOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 655,
+    "Descrição do Item": "CHALUPA , CHALUPA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "04808: CHALUPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 663,
+    "Descrição do Item": "DRAGA SEM CASCO , DRAGA SEM CASCO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1955: DRAGAS",
+    "PDM": "06402: DRAGA SEM CASCO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 671,
+    "Descrição do Item": "NAVIO OFICINA , NAVIO OFICINA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "10060: NAVIO OFICINA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 680,
+    "Descrição do Item": "DRAGA , DRAGA DE ALTO - MAR NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1955: DRAGAS",
+    "PDM": "06400: DRAGA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 698,
+    "Descrição do Item": "NAVIO AUXILIAR , NAVIO AUXILIAR NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "10048: NAVIO AUXILIAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 701,
+    "Descrição do Item": "DRAGA FLUTUANTE , DRAGA FLUTUANTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1955: DRAGAS",
+    "PDM": "06401: DRAGA FLUTUANTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 710,
+    "Descrição do Item": "NAVIO BALIZADOR , NAVIO BALIZADOR NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "10049: NAVIO BALIZADOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 728,
+    "Descrição do Item": "NAVIO FAROLEIRO , NAVIO FAROLEIRO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "10057: NAVIO FAROLEIRO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 736,
+    "Descrição do Item": "NAVIO LIGEIRO , NAVIO LIGEIRO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "10059: NAVIO LIGEIRO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 744,
+    "Descrição do Item": "EMBARCACAO LANCADORA DE CABO , EMBARCACAO LANCADORA DE CABO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "06512: EMBARCACAO LANCADORA DE CABO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 752,
+    "Descrição do Item": "EMBARCACAO DE COMBATE A INCENDIO , EMBARCACAO DE COMBATE A INCENDIO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "06509: EMBARCACAO DE COMBATE A INCENDIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 760,
+    "Descrição do Item": "BATELAO PARA TRANSPORTE DE CARGA , BATELAO PARA TRANSPORTE DE CARGA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1930: BATELOES E CHATAS PARA CARGAS",
+    "PDM": "03458: BATELAO PARA TRANSPORTE DE CARGA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 779,
+    "Descrição do Item": "BATELAO DEPOSITO , BATELAO DEPOSITO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1930: BATELOES E CHATAS PARA CARGAS",
+    "PDM": "03453: BATELAO DEPOSITO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 833,
+    "Descrição do Item": "CABREA FLUTUANTE , CABREA FLUTUANTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "04061: CABREA FLUTUANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 850,
+    "Descrição do Item": "BATELAO MISTURADOR DE CONCRETO , BATELAO MISTURADOR DE CONCRETO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "03457: BATELAO MISTURADOR DE CONCRETO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 868,
+    "Descrição do Item": "BATELAO DE COMBATE A INCENDIO , BATELAO DE COMBATE A INCENDIO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "03452: BATELAO DE COMBATE A INCENDIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 876,
+    "Descrição do Item": "BATELAO LAMEIRO , BATELAO LAMEIRO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "03456: BATELAO LAMEIRO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 884,
+    "Descrição do Item": "BATELAO BOMBEADOR , BATELAO BOMBEADOR NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "03449: BATELAO BOMBEADOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 906,
+    "Descrição do Item": "CASA DE FORÇA FLUTUANTE , CASA DE FORCA FLUTUANTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "04679: CASA DE FORÇA FLUTUANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 914,
+    "Descrição do Item": "BATELAO FRIGORIFICO , BATELAO FRIGORIFICO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "03454: BATELAO FRIGORIFICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 922,
+    "Descrição do Item": "BATELAO GUINDASTE , BATELAO GUINDASTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "03455: BATELAO GUINDASTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 949,
+    "Descrição do Item": "GUINDASTE MONTADO EM BATELAO , GUINDASTE MONTADO EM BATELAO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "08155: GUINDASTE MONTADO EM BATELAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 973,
+    "Descrição do Item": "PEQUENA EMBARCACAO - SEM PROPULSAO PROPRIA , PEQUENA EMBARCACAO - SEM PROPULSAO PROPR NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "10640: PEQUENA EMBARCACAO - SEM PROPULSAO PROPRIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 981,
+    "Descrição do Item": "ESCALER SALVA - VIDAS , ESCALER SALVA - VIDAS NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "06905: ESCALER SALVA - VIDAS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 31631,
+    "Descrição do Item": "ALOJAMENTO FLUTUANTE , ALOJAMENTO FLUTUANTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1945: PONTÕES E DOCAS FLUTUANTES",
+    "PDM": "02358: ALOJAMENTO FLUTUANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 31658,
+    "Descrição do Item": "DIQUE FLUTUANTE , DIQUE FLUTUANTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1950: DIQUES FLUTUANTES",
+    "PDM": "06246: DIQUE FLUTUANTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48011,
+    "Descrição do Item": "NAVIO EMPURRADOR DE EMBARCACAO , NAVIO EMPURRADOR DE EMBARCACAO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "10056: NAVIO EMPURRADOR DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48020,
+    "Descrição do Item": "NAVIO QUEBRA - GELO , NAVIO QUEBRA - GELO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "10063: NAVIO QUEBRA - GELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48038,
+    "Descrição do Item": "NAVIO TENDER ( BOIA ) , NAVIO TENDER ( BOIA ) NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "10064: NAVIO TENDER ( BOIA )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48046,
+    "Descrição do Item": "NAVIO DE BUSCA SUBMARINA , NAVIO DE BUSCA SUBMARINA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "10051: NAVIO DE BUSCA SUBMARINA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48054,
+    "Descrição do Item": "NAVIO DE SALVAMENTO SUBMARINO , NAVIO DE SALVAMENTO SUBMARINO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "10055: NAVIO DE SALVAMENTO SUBMARINO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48062,
+    "Descrição do Item": "CHATA PARA TRANSPORTE DE AERONAVE , CHATA PARA TRANSPORTE DE AERONAVE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1930: BATELOES E CHATAS PARA CARGAS",
+    "PDM": "04866: CHATA PARA TRANSPORTE DE AERONAVE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48070,
+    "Descrição do Item": "CHATA PARA TRANSPORTE DE VEICULO , CHATA PARA TRANSPORTE DE VEICULO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1930: BATELOES E CHATAS PARA CARGAS",
+    "PDM": "04867: CHATA PARA TRANSPORTE DE VEICULO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48089,
+    "Descrição do Item": "CHATA COM GUINDASTE , CHATA COM GUINDASTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "04863: CHATA COM GUINDASTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48097,
+    "Descrição do Item": "BALAO DE BARRAGEM ( MARINHA ) , BALAO DE BARRAGEM ( MARINHA ) NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "03234: BALAO DE BARRAGEM ( MARINHA )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48100,
+    "Descrição do Item": "EMBARCACAO CATAPULTA , EMBARCACAO CATAPULTA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "06508: EMBARCACAO CATAPULTA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48119,
+    "Descrição do Item": "EMBARCACAO DE TESTE DE TORPEDO , EMBARCACAO DE TESTE DE TORPEDO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "06511: EMBARCACAO DE TESTE DE TORPEDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48127,
+    "Descrição do Item": "EMBARCACAO - OFICINA MECANICA , EMBARCACAO - OFICINA MECANICA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "06507: EMBARCACAO - OFICINA MECANICA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48135,
+    "Descrição do Item": "VEDETA ( LANCHA ) , VEDETA ( LANCHA ) NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "13334: VEDETA ( LANCHA )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48143,
+    "Descrição do Item": "EMBARCACAO SALVA - VIDAS DE AERONAVE , EMBARCACAO SALVA - VIDAS DE AERONAVE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "06514: EMBARCACAO SALVA - VIDAS DE AERONAVE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48151,
+    "Descrição do Item": "IATE , IATE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "08273: IATE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48160,
+    "Descrição do Item": "PONTAO DE RAMPA , PONTAO DE RAMPA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1945: PONTÕES E DOCAS FLUTUANTES",
+    "PDM": "10998: PONTAO DE RAMPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48178,
+    "Descrição do Item": "CAIXAO FLUTUANTE ( DOCAS ) , CAIXAO FLUTUANTE ( DOCAS ) NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1945: PONTÕES E DOCAS FLUTUANTES",
+    "PDM": "04179: CAIXAO FLUTUANTE ( DOCAS )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48186,
+    "Descrição do Item": "EMBARCACAO DE COMERCIO , EMBARCACAO DE COMERCIO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1990: EMBARCACOES DIVERSAS",
+    "PDM": "06510: EMBARCACAO DE COMERCIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 87947,
+    "Descrição do Item": "BARCO DE PESCA COM CAMARA FRIGORIFICA , BARCO DE PESCA COM CAMARA FRIGORIFICA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1920: NAVIOS PESQUEIROS",
+    "PDM": "03341: BARCO DE PESCA COM CAMARA FRIGORIFICA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 87955,
+    "Descrição do Item": "BARCO A VELA DE COMPETICAO ESPORTIVA , BARCO A VELA DE COMPETICAO ESPORTIVA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1990: EMBARCACOES DIVERSAS",
+    "PDM": "03339: BARCO A VELA DE COMPETICAO ESPORTIVA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 87963,
+    "Descrição do Item": "LANCHA DE COMPETICAO ESPORTIVA , LANCHA DE COMPETICAO ESPORTIVA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1990: EMBARCACOES DIVERSAS",
+    "PDM": "08696: LANCHA DE COMPETICAO ESPORTIVA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 87971,
+    "Descrição do Item": "BARCO REMO , BARCO A REMO PARA COMPETICAO ESPORTIVA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1990: EMBARCACOES DIVERSAS",
+    "PDM": "03338: BARCO REMO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 87980,
+    "Descrição do Item": "CANOA COMPETIÇÃO ESPORTIVA , CANOA PARA COMPETICAO ESPORTIVA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1990: EMBARCACOES DIVERSAS",
+    "PDM": "04428: CANOA COMPETIÇÃO ESPORTIVA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89532,
+    "Descrição do Item": "BARCA FIBRA DE MADEIRA , BARCA FIBRA DE MADEIRA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "03329: BARCA FIBRA DE MADEIRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89540,
+    "Descrição do Item": "BARCA MADEIRA GRANDE PORTE , BARCA MADEIRA GRANDE PORTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "03332: BARCA MADEIRA GRANDE PORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89559,
+    "Descrição do Item": "BARCA MADEIRA MEDIO PORTE , BARCA MADEIRA MEDIO PORTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "03333: BARCA MADEIRA MEDIO PORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89583,
+    "Descrição do Item": "BARCA MADEIRA PEQUENO PORTE , BARCA MADEIRA PEQUENO PORTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03334: BARCA MADEIRA PEQUENO PORTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89591,
+    "Descrição do Item": "BARCO MADEIRA , BARCO MADEIRA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03343: BARCO MADEIRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89613,
+    "Descrição do Item": "LANCHA FIBRA DE MADEIRA , LANCHA FIBRA DE MADEIRA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08698: LANCHA FIBRA DE MADEIRA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89621,
+    "Descrição do Item": "LANCHA MADEIRA GRANDE PORTE , LANCHA MADEIRA GRANDE PORTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08701: LANCHA MADEIRA GRANDE PORTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89656,
+    "Descrição do Item": "LANCHA MADEIRA MEDIO PORTE , LANCHA MADEIRA MEDIO PORTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08702: LANCHA MADEIRA MEDIO PORTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89664,
+    "Descrição do Item": "LANCHA MADEIRA PEQUENO PORTE , LANCHA MADEIRA PEQUENO PORTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "08703: LANCHA MADEIRA PEQUENO PORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89680,
+    "Descrição do Item": "BARCA METALICA GRANDE PORTE , BARCA METALICA GRANDE PORTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "03335: BARCA METALICA GRANDE PORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89702,
+    "Descrição do Item": "BARCA METALICA MEDIO PORTE , BARCA METALICA MEDIO PORTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "03336: BARCA METALICA MEDIO PORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89729,
+    "Descrição do Item": "BARCA METÁLICA PEQUENO PORTE , BARCA METALICA PEQUENO PORTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03337: BARCA METÁLICA PEQUENO PORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89753,
+    "Descrição do Item": "LANCHA METALICA GRANDE PORTE , LANCHA METALICA GRANDE PORTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08704: LANCHA METALICA GRANDE PORTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89761,
+    "Descrição do Item": "LANCHA , LANCHA METALICA MEDIO PORTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08705: LANCHA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89788,
+    "Descrição do Item": "LANCHA METALICA PEQUENO PORTE , LANCHA METALICA PEQUENO PORTE NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "08706: LANCHA METALICA PEQUENO PORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89796,
+    "Descrição do Item": "VOADEIRA , VOADEIRA NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "13476: VOADEIRA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89818,
+    "Descrição do Item": "BARCA ALUMÍNIO , BARCA ALUMINIO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "03328: BARCA ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89826,
+    "Descrição do Item": "BARCO ALUMÍNIO , BARCO ALUMINIO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89850,
+    "Descrição do Item": "LANCHA A MOTOR , LANCHA ALUMINIO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "08695: LANCHA A MOTOR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89869,
+    "Descrição do Item": "BARCA FIBRA DE VIDRO , BARCA FIBRA DE VIDRO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "03330: BARCA FIBRA DE VIDRO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89877,
+    "Descrição do Item": "BARCO FIBRA VIDRO , BARCO FIBRA VIDRO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03342: BARCO FIBRA VIDRO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 89893,
+    "Descrição do Item": "LANCHA FIBRA VIDRO , LANCHA FIBRA VIDRO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "08699: LANCHA FIBRA VIDRO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 123706,
+    "Descrição do Item": "PEQUENA EMBARCACAO - COM PROPULSAO PROPRIA ( JET SKI ) , PEQUENA EMBARCACAO - COM PROPULSAO PROPR NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "10639: PEQUENA EMBARCACAO - COM PROPULSAO PROPRIA ( JET  SKI )",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150137,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , COMPONENTES EMBARCAÇÃO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150520,
+    "Descrição do Item": "LANCHA A MOTOR , LANCHA A MOTOR NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "08695: LANCHA A MOTOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150933,
+    "Descrição do Item": "BARCO REMO , BARCO REMO NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1990: EMBARCACOES DIVERSAS",
+    "PDM": "03338: BARCO REMO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191905,
+    "Descrição do Item": "NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE , NAVIOS DE GUERRA E EMBARCACOES DE DESEMB NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "16767: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191910,
+    "Descrição do Item": "NAVIOS PARA TRANSPORTE DE PASSAGEIRO E TROPA , NAVIOS PARA TRANSPORTE DE PASSAGEIRO E T NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1910: NAVIOS PARA TRANSPORTE DE PASSAGEIRO E DE TROPA",
+    "PDM": "16768: NAVIOS PARA TRANSPORTE DE PASSAGEIRO E TROPA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191915,
+    "Descrição do Item": "NAVIOS TANQUES E CARGUEIROS , NAVIOS TANQUES E CARGUEIROS NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1915: NAVIOS TANQUES E CARGUEIROS",
+    "PDM": "16769: NAVIOS TANQUES E CARGUEIROS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191920,
+    "Descrição do Item": "NAVIOS PESQUEIROS , NAVIOS PESQUEIROS NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1920: NAVIOS PESQUEIROS",
+    "PDM": "16770: NAVIOS PESQUEIROS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191925,
+    "Descrição do Item": "NAVIOS DE SERVICOS ESPECIAIS , NAVIOS DE SERVICOS ESPECIAIS NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1925: NAVIOS DE SERVICOS ESPECIAIS",
+    "PDM": "16771: NAVIOS DE SERVICOS ESPECIAIS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191930,
+    "Descrição do Item": "BATELOES E CHATAS PARA CARGAS , BATELOES E CHATAS PARA CARGAS NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1930: BATELOES E CHATAS PARA CARGAS",
+    "PDM": "16772: BATELOES E CHATAS PARA CARGAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191935,
+    "Descrição do Item": "BATELOES E CHATAS PARA FINS ESPECIAIS , BATELOES E CHATAS PARA FINS ESPECIAIS NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1935: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "PDM": "16773: BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191940,
+    "Descrição do Item": "EMBARCAÇÕES PEQUENAS , EMBARCAÇÕES PEQUENAS NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "16774: EMBARCAÇÕES PEQUENAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191945,
+    "Descrição do Item": "PONTÕES E DOCAS FLUTUANTES , PONTÕES E DOCAS FLUTUANTES NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1945: PONTÕES E DOCAS FLUTUANTES",
+    "PDM": "16775: PONTÕES E DOCAS FLUTUANTES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191950,
+    "Descrição do Item": "DIQUES FLUTUANTES , DIQUES FLUTUANTES NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1950: DIQUES FLUTUANTES",
+    "PDM": "16776: DIQUES FLUTUANTES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191955,
+    "Descrição do Item": "DRAGAS , DRAGAS NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1955: DRAGAS",
+    "PDM": "16777: DRAGAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191990,
+    "Descrição do Item": "EMBARCACOES DIVERSAS , EMBARCACOES DIVERSAS NOME",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1990: EMBARCACOES DIVERSAS",
+    "PDM": "16778: EMBARCACOES DIVERSAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225851,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 5 M, BOCA 1,40 M, PONTAL 0,53 M, POTÊNCIA INSTALADA 40 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225852,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 6 M, BOCA 1,40 M, PONTAL 0,53 M, POTÊNCIA INSTALADA 40 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225853,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 5,50 M, BOCA 1,40 M, PONTAL 0,53 M, POTÊNCIA INSTALADA 40 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225854,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 5 M, BOCA 1,30 M, PONTAL 0,45 M, POTÊNCIA INSTALADA 15 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225855,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 4,50 M, BOCA 1,30 M, PONTAL 0,45 M, POTÊNCIA INSTALADA 15 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225856,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 3,50 M, BOCA 1,30 M, PONTAL 0,45 M, POTÊNCIA INSTALADA 15 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225857,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 3 M, BOCA 1,30 M, PONTAL 0,45 M, POTÊNCIA INSTALADA 15 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225858,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 4 M, BOCA 1,30 M, PONTAL 0,45 M, POTÊNCIA INSTALADA 15 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225859,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 6 M, BOCA 1,30 M, PONTAL 0,45 M, POTÊNCIA INSTALADA 25 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225860,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 5,50 M, BOCA 1,30 M, PONTAL 0,45 M, POTÊNCIA INSTALADA 25 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225861,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 8 M, BOCA 1,30 M, PONTAL 0,45 M, POTÊNCIA INSTALADA 30 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225862,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 5,50 M, BOCA 1,30 M, PONTAL 0,45 M, POTÊNCIA INSTALADA 30 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225863,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 7 M, BOCA 1,30 M, PONTAL 0,45 M, POTÊNCIA INSTALADA 30 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225865,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 9 M, BOCA 1,30 M, PONTAL 0,45 M, POTÊNCIA INSTALADA 35 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225866,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 9 M, BOCA 1,30 M, PONTAL 0,45 M, POTÊNCIA INSTALADA 40 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225867,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 5 M, BOCA 1,30 M, PONTAL 0,50 M, POTÊNCIA INSTALADA 25 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225868,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 4,50 M, BOCA 1,30 M, PONTAL 0,50 M, POTÊNCIA INSTALADA 25 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225869,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 6 M, BOCA 1,30 M, PONTAL 0,50 M, POTÊNCIA INSTALADA 25 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225870,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 5,50 M, BOCA 1,30 M, PONTAL 0,50 M, POTÊNCIA INSTALADA 25 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225871,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 8 M, BOCA 1,30 M, PONTAL 0,50 M, POTÊNCIA INSTALADA 30 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225872,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 7 M, BOCA 1,30 M, PONTAL 0,50 M, POTÊNCIA INSTALADA 30 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225873,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 9 M, BOCA 1,30 M, PONTAL 0,50 M, POTÊNCIA INSTALADA 30 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225874,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 5 M, BOCA 1,30 M, PONTAL 0,53 M, POTÊNCIA INSTALADA 30 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225875,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 4,50 M, BOCA 1,30 M, PONTAL 0,53 M, POTÊNCIA INSTALADA 30 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225876,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 6 M, BOCA 1,30 M, PONTAL 0,53 M, POTÊNCIA INSTALADA 30 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225877,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 8 M, BOCA 1,30 M, PONTAL 0,53 M, POTÊNCIA INSTALADA 30 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225878,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 5,50 M, BOCA 1,30 M, PONTAL 0,53 M, POTÊNCIA INSTALADA 30 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225879,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 7 M, BOCA 1,30 M, PONTAL 0,53 M, POTÊNCIA INSTALADA 30 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225880,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 9 M, BOCA 1,30 M, PONTAL 0,53 M, POTÊNCIA INSTALADA 30 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225881,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 5 M, BOCA 1,30 M, PONTAL 0,37 M, POTÊNCIA INSTALADA 7,50 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225882,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 5 M, BOCA 1,30 M, PONTAL 0,37 M, POTÊNCIA INSTALADA PROPULSÃO A REMO, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225883,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 4,50 M, BOCA 1,30 M, PONTAL 0,37 M, POTÊNCIA INSTALADA 7,50 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225884,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 4,50 M, BOCA 1,30 M, PONTAL 0,37 M, POTÊNCIA INSTALADA PROPULSÃO A REMO, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225885,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 5,50 M, BOCA 1,30 M, PONTAL 0,37 M, POTÊNCIA INSTALADA 7,50 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225886,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 5,50 M, BOCA 1,30 M, PONTAL 0,37 M, POTÊNCIA INSTALADA PROPULSÃO A REMO, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225887,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 6 M, BOCA 1,30 M, PONTAL 0,37 M, POTÊNCIA INSTALADA 4 HP, MATERIAL TANQUE NÃO APLICÁVEL, CAPACIDADE TANQUE NÃO APLICÁVEL L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225888,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 8 M, BOCA 1,70 M, PONTAL 0,68 M, POTÊNCIA INSTALADA 60 HP, MATERIAL TANQUE ALUMÍNIO, CAPACIDADE TANQUE 60 L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225889,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 7 M, BOCA 1,70 M, PONTAL 0,68 M, POTÊNCIA INSTALADA 60 HP, MATERIAL TANQUE ALUMÍNIO, CAPACIDADE TANQUE 60 L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225890,
+    "Descrição do Item": "BARCO ALUMÍNIO , MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 9 M, BOCA 1,70 M, PONTAL 0,68 M, POTÊNCIA INSTALADA 60 HP, MATERIAL TANQUE ALUMÍNIO, CAPACIDADE TANQUE 60 L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225891,
+    "Descrição do Item": "DRAGA FLUTUANTE , MATERIAL CASCO FERRO, COMPRIMENTO 26,90 M, BOCA 9,50 M, PONTAL 2,10 M, CALADO 1,10 M, POTÊNCIA INSTALADA SEM PROPULSOR, ARQUEAÇÃO 73 TON",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1955: DRAGAS",
+    "PDM": "06401: DRAGA FLUTUANTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225892,
+    "Descrição do Item": "DRAGA FLUTUANTE , MATERIAL CASCO FERRO, COMPRIMENTO 21 M, BOCA 8,50 M, PONTAL 1,90 M, CALADO 1 M, POTÊNCIA INSTALADA SEM PROPULSOR, ARQUEAÇÃO 46 TON",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1955: DRAGAS",
+    "PDM": "06401: DRAGA FLUTUANTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225893,
+    "Descrição do Item": "DRAGA , MATERIAL CASCO FERRO, COMPRIMENTO 15,50 M, BOCA 5 M, PONTAL 2,60 M, CALADO 1,25 M, POTÊNCIA INSTALADA 730 HP, ARQUEAÇÃO 25 TON",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1955: DRAGAS",
+    "PDM": "06400: DRAGA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226166,
+    "Descrição do Item": "LANCHA , ACESSÓRIOS PISO ANTIDERRAPANTE/CAIXA GELO/PLATAFORMA PROA/, CARACTERÍSTICAS ADICIONAIS CADEIRA GIRATÓRIA PROA/TANQUE COMBUSTÍVEL 55 L/, MATERIAL CASCO ALUMÍNIO LIGA NAVAL, COMPRIMENTO 5 M, BOCA 1,50 M, PONTAL 0,60 M, CALADO 0,22 M, POTÊNCIA MÁXIMA MOTOR 40 HP, PESO 150 KG, QUANTIDADE PASSAGEIRO 5 UN",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08705: LANCHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226168,
+    "Descrição do Item": "LANCHA , ACESSÓRIOS PISO ANTIDERRAPANTE/VIVEIRO ISCA/SUPORTE BATERIA/, CARACTERÍSTICAS ADICIONAIS CADEIRA GIRATÓRIA PROA, MATERIAL CASCO ALUMÍNIO LIGA NAVAL, COMPRIMENTO 5 M, BOCA 1,70 M, PONTAL 0,60 M, CALADO 0,22 M, POTÊNCIA MÁXIMA MOTOR 70 HP, PESO 210 KG, QUANTIDADE PASSAGEIRO 5 UN",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08705: LANCHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226170,
+    "Descrição do Item": "LANCHA , ACESSÓRIOS PISO ANTIDERRAPANTE/VIVEIRO ISCA/SUPORTE BATERIA/, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL, MATERIAL CASCO ALUMÍNIO LIGA NAVAL, COMPRIMENTO 5,30 M, BOCA 1,80 M, PONTAL 0,70 M, CALADO 0,28 M, POTÊNCIA MÁXIMA MOTOR 75 HP, PESO 260 KG, QUANTIDADE PASSAGEIRO 5 UN",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08705: LANCHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226173,
+    "Descrição do Item": "LANCHA , ACESSÓRIOS CONSOLE COM PÁRA-BRISA/TANQUE COMBUSTÍVEL 90 L/, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL, MATERIAL CASCO ALUMÍNIO LIGA NAVAL, COMPRIMENTO 5,80 M, BOCA 2,80 M, PONTAL 0,80 M, CALADO 0,27 M, POTÊNCIA MÁXIMA MOTOR 160 HP, PESO 380 KG, QUANTIDADE PASSAGEIRO 6 UN",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08705: LANCHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226175,
+    "Descrição do Item": "LANCHA , ACESSÓRIOS CONSOLE COM PÁRA-BRISA/TANQUE COMBUSTÍVEL 90 L/, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL, MATERIAL CASCO ALUMÍNIO LIGA NAVAL, COMPRIMENTO 5,87 M, BOCA 1,80 M, PONTAL 0,70 M, CALADO 0,28 M, POTÊNCIA MÁXIMA MOTOR 90 HP, PESO 300 KG, QUANTIDADE PASSAGEIRO 6 UN",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08705: LANCHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226177,
+    "Descrição do Item": "LANCHA , ACESSÓRIOS POLTRONAS ESTOFADAS/ESCADA POPA/CAIXA TÉRMICA POPA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL, MATERIAL CASCO ALUMÍNIO LIGA NAVAL, COMPRIMENTO 7,83 M, BOCA 2,20 M, PONTAL 1,10 M, CALADO 0,43 M, POTÊNCIA MÁXIMA MOTOR 250 HP, PESO 600 KG, QUANTIDADE PASSAGEIRO 10 UN",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08705: LANCHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226178,
+    "Descrição do Item": "LANCHA , ACESSÓRIOS CAIXA ÂNCORA/CABO PROA/CAIXA PEIXE COM TAMPA/, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL, MATERIAL CASCO FIBRA VIDRO, COMPRIMENTO 4,68 M, BOCA 1,94 M, PONTAL 0,70 M, CALADO 0,28 M, POTÊNCIA MÁXIMA MOTOR 40 HP, PESO 180 KG, QUANTIDADE PASSAGEIRO 5 UN",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08705: LANCHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226179,
+    "Descrição do Item": "LANCHA , ACESSÓRIOS CUNHOS EM NÁILON PARA AMARRAÇÃO/PUXADOR INOX PROA/, CARACTERÍSTICAS ADICIONAIS PAINEL FIBRA CARBONO/LONA COBERTURA/HÉLICE INOX/, MATERIAL CASCO FIBRA VIDRO, COMPRIMENTO 6,90 M, BOCA 2,20 M, PONTAL 1,54 M, CALADO 0,30 M, POTÊNCIA MÁXIMA MOTOR 225 HP, PESO 650 KG, QUANTIDADE PASSAGEIRO 8 UN",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08705: LANCHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264422,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO PAINEL 1 EM PLÁSTICO REFORÇADO COM FIBRA DE VIDRO, REFERÊNCIA FABRIL SBP-411, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264423,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO PAINEL 2 EM PLÁSTICO REFORÇADO COM FIBRA DE VIDRO, REFERÊNCIA FABRIL SBP-415, USO VEDAÇÃO DE EMERGÊNCIA, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264424,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO PAINEL 3 EM PLÁSTICO REFORÇADO COM FIBRA DE VIDRO, REFERÊNCIA FABRIL SBP-416, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264426,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO PAINEL 4 EM PLÁSTICO REFORÇADO COM FIBRA DE VIDRO, REFERÊNCIA FABRIL SBP-421, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264427,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO PAINEL 5 EM PLÁSTICO REFORÇADO COM FIBRA DE VIDRO, REFERÊNCIA FABRIL SBP-422, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264428,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO PAINEL 6 EM PLÁSTICO REFORÇADO COM FIBRA DE VIDRO, REFERÊNCIA FABRIL SBP-423, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264429,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO PAINEL ARTICULADO, REFERÊNCIA FABRIL SBP-424, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264430,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO PLACA IDENTIFICAÇÃO, REFERÊNCIA FABRIL SBP-511, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264431,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO QUILHA RÍGIDA EM FIBRA DE VIDRO REFORÇADA, REFERÊNCIA FABRIL SBQ-429, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264432,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO PINO CÔNICO GRANDE, REFERÊNCIA FABRIL SBA-508, USO VEDAÇÃO DE EMERGÊNCIA, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264433,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO PINO CÔNICO MÉDIO, REFERÊNCIA FABRIL SBA-507, USO VEDAÇÃO DE EMERGÊNCIA, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264434,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO PINO CÔNICO PEQUENO, REFERÊNCIA FABRIL SBA-505, USO VEDAÇÃO DE EMERGÊNCIA, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264445,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ALÇA AÇO INOXIDÁVEL, UBOLT, REFERÊNCIA FABRIL SBA-501, USO REBOQUE E IÇAMENTO, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264446,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO BOLSA COR VERDE, REFERÊNCIA FABRIL SBB-416, USO TRANSPORTE EMBARCAÇÃO, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264447,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO BOLSA COR VERDE, REFERÊNCIA FABRIL SBB-417, USO TRANSPORTE 6 REMOS DE 1,40 M, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264448,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO BOLSA COR VERDE, REFERÊNCIA FABRIL SBB-418, USO TRANSPORTE CONJUNTO PAINÉIS DO ESTRADO, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264449,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ALÇA TRANSPORTE, REFERÊNCIA FABRIL SBA-509, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264450,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO CORREIA, REFERÊNCIA FABRIL SBA-510, USO FIXAÇÃO TANQUE COMBUSTÍVEL, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264569,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO FOLE DE ENCHIMENTO P/5 L COM ADAPTADOR E MANGUEIRA, REFERÊNCIA FABRIL SBF-419, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264570,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO MANGUEIRA, REFERÊNCIA FABRIL SBM-330, USO SISTEMA DE ENCHIMENTO AUTOMÁTICO, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264587,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO VÁLVULA ENCHIMENTO / ESVAZIAMENTO, REFERÊNCIA FABRIL SBV-407, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264588,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO VÁLVULA SOBREPRESSÃO, REFERÊNCIA FABRIL SBV-408, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264589,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO VÁLVULA DRENAGEM ÁGUA, REFERÊNCIA FABRIL SBA-500, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264590,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO BUJÃO VÁLVULA DRENAGEM ÁGUA, REFERÊNCIA FABRIL SBA-502, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264591,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO TECIDO HYPALON COR VERDE FLORESTA, REFERÊNCIA FABRIL LR-980405A, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264592,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO TECIDO HYPALON COR PRETA, REFERÊNCIA FABRIL STYLE 18493, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264594,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO VÁLVULA DISPARO, REFERÊNCIA FABRIL SBV-329, USO SISTEMA DE ENCHIMENTO AUTOMÁTICO, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264595,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO COLA, REFERÊNCIA FABRIL FA4844 N, USO REPARO EMERGÊNCIA, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264596,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO CATALIZADOR COLA, REFERÊNCIA FABRIL FA4844 A, USO REPARO EMERGÊNCIA, APLICAÇÃO BOTE DE ASSALTO BRASTECH SEATECH MOD. SB-600",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 273203,
+    "Descrição do Item": "BARCO MADEIRA , COMPRIMENTO TOTAL APROXIMADAMENTE 8 M, BOCA 2,80 M, PONTAL 0,90 M, CALADO CARREGADO 0,5 M, POTÊNCIA MOTOR 15 HP, APLICAÇÃO PESCA, CARACTERÍSTICAS ADICIONAIS CONTORNO 4,60M",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03343: BARCO MADEIRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 274384,
+    "Descrição do Item": "BARCO MADEIRA , CAPACIDADE PASSAGEIRO 14, COMPRIMENTO TOTAL 9 M, BOCA 2,80 OU SUPERIOR M, PONTAL 0,90 OU SUPERIOR M, POTÊNCIA MOTOR 18 OU SUPERIOR HP, APLICAÇÃO PESCA, CARACTERÍSTICAS ADICIONAIS ÁREA NAVEGAÇÃO INTERNA PARA 1 TRIPULANTE, ARQUEA-, TIPO PESQUEIRO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03343: BARCO MADEIRA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 274385,
+    "Descrição do Item": "BARCO ALUMÍNIO , CARACTERÍSTICAS ADICIONAIS FUNDO FECHADO COM SOLDA MIG, ESTRUTURA MONTADA COM, MATERIAL CASCO CHAPA DURALUMÍNIO NAVAL HD34, COMPRIMENTO 7 M, BOCA 1,40 M, POTÊNCIA INSTALADA 25 HP, CAPACIDADE TANQUE 24 L, ROTAÇÃO MOTOR 4.500 A 5.500 RPM",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 274503,
+    "Descrição do Item": "BARCO MADEIRA , PESO 27,5 KG, COMPRIMENTO TOTAL 6 M, BOCA 1,15 M, POTÊNCIA MOTOR 8 HP, APLICAÇÃO PESCA, CARACTERÍSTICAS ADICIONAIS CASCO EM MADEIRA, PARTIDA MANUAL 2 TEMPOS, ALTERNA",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03343: BARCO MADEIRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 275029,
+    "Descrição do Item": "BARCO ALUMÍNIO , CARACTERÍSTICAS ADICIONAIS PARA 5 PASSAGEIROS, CALADO 0,15 M, MATERIAL CASCO DURALUMÍNIO DE LIGA NAVAL, COMPRIMENTO 6 M, BOCA 1,50 M, PONTAL 0,55 M",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291000,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO RESINA POLIÉSTER ISOFTÁLICA, USO MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291001,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO MANTA FIBRA VIDRO, USO MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291002,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO DILUENTES/SOLVENTES/MONÔMERO DE ESTIRENO, USO MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291003,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO GEL-COAT/COR CINZA, USO MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291005,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ADESIVO LÍQUIDO MARROM, REFERÊNCIA FABRIL CPS - 590/680, USO COLAGENS MADEIRA/COMPENSADO NAVAL À PROVA D'ÁGUA/, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291006,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ADESIVO LÍQUIDO BRANCO, REFERÊNCIA FABRIL CPS - 2500/3500, USO COLAGEM ARTEFATOS MADEIRA/ALTA RESISTÊNCIA TÉRMICA, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291008,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO VERDUGO, USO PROTEÇÃO CASCO EMBARCAÇÃO EM NEOPRENE REFORÇO BAR-, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291075,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ORTOFITÁLICA, USO MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291076,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO CATALIZADOR/PERÓXIDO DE MEKP, USO MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291077,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO COBALTO LÍQUIDO USADO COMO ACELERADOR, USO MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291655,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO RESINA DE POLIÉSTER ORTOFITÁLICA, USO MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291659,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO MANTA FIBRA VIDRO/300 G/M2, USO MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291849,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ÂNODO SACRIFÍCIO, USO MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO EIXO 1 1/2 POL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292183,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO VOLANTE, USO MANUTENÇÃO EMBARCAÇÃO, APLICAÇÃO LANCHA, CARACTERÍSTICAS ADICIONAIS TERMO PLÁSTICO/COR BRANCA/DIÂMETRO 35CM/FURO MOR-",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 295244,
+    "Descrição do Item": "BARCO ALUMÍNIO , CARACTERÍSTICAS ADICIONAIS 5 PASSAGEIROS, 1 PAR DE REMOS, SISTEMA PARTIDA ELÉ, MATERIAL CASCO DURALUMÍNIO / ALUMÍNIO 5052 H34, COMPRIMENTO 6 M, BOCA 1,50 M, POTÊNCIA INSTALADA 40 HP, CAPACIDADE TANQUE 45 L",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 295494,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO BOMBA D'ÁGUA, USO BOMBEAR ÁGUA SALGADA, APLICAÇÃO LANCHA, CARACTERÍSTICAS ADICIONAIS COM SAÍDA DE 1 1/2 POLEGADA",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296378,
+    "Descrição do Item": "DRAGA , CARACTERÍSTICAS ADICIONAIS CAPACIDADE COLETA 3,54ML E PESO 4,5KG, MATERIAL CASCO AÇO INOX, COMPRIMENTO 150 MM, BOCA 150 MM, PONTAL 150 MM, COMPONENTES GUINCHO INOX, ROLDANA NÁILON E SUPORTE EMBARCAÇÃO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1955: DRAGAS",
+    "PDM": "06400: DRAGA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 301819,
+    "Descrição do Item": "BARCO MADEIRA , COMPRIMENTO TOTAL 15,40 M, BOCA 4 M, PONTAL MÍNIMO 1 M, CARACTERÍSTICAS ADICIONAIS 1 CONVESE CONTÍNUO E 1 TOLDO CONTÍNUO, TIPO BALEEIRA",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03343: BARCO MADEIRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 305401,
+    "Descrição do Item": "BARCO ALUMÍNIO , CARACTERÍSTICAS ADICIONAIS SOLDADO, CHAPA DE 2 MM, ESTRADO DE ALUMÍNIO ANTIDE, MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 6 M, BOCA APROXIMADAMENTE 1,35 M",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 305402,
+    "Descrição do Item": "BARCO ALUMÍNIO , CARACTERÍSTICAS ADICIONAIS SOLDADO, CHAPA DE 2 MM, ESTRADO DE ALUMÍNIO ANTIDE, MATERIAL CASCO ALUMÍNIO, COMPRIMENTO 7 M, BOCA APROXIMADAMENTE 1,35 M",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310216,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO LONA METÁLICA, APLICAÇÃO CABRESTANTE DE VANTE NAVIO, CARACTERÍSTICAS ADICIONAIS P/FREIO MECÂNICO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310359,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO SELO INFLÁVEL, REFERÊNCIA FABRIL H70006-1-3, USO LINHA DE EIXO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310360,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO SELO VEDAÇÃO, REFERÊNCIA FABRIL H70006-4-2, USO LINHA DE EIXO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310363,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ANEL ADAPTADOR, REFERÊNCIA FABRIL H70006-1-2, USO LINHA DE EIXO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310366,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO CORPO BORRACHA BODY NON SPLIT, REFERÊNCIA FABRIL H70006-2-1, USO LINHA DE EIXO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310367,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO FACE SELO DE PARTIDA, REFERÊNCIA FABRIL H70006-5, USO LINHA DE EIXO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 311360,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO POLIÉSTER COM BAIXA VISCOSIDADE, USO ISOLAMENTO INDUSTRIAL DE BAIXA TEMPERATURA, APLICAÇÃO INDÚSTRIA NAVAL, CARACTERÍSTICAS ADICIONAIS VISCOSIDADE BROOKFIELD A 25°C, UMIDADE KARL FICHER",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 311363,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO DIFENILMETANO DILSOCIANATO LÍQUIDO, USO OBTENÇÃO DE ESPUMA DE POLIURETANO EM SISTEMA BI-CO, APLICAÇÃO INDÚSTRIA NAVAL, CARACTERÍSTICAS ADICIONAIS VISCOSIDADE BROOKFIELD A 25°C (CP) - 160 A 240, NC, COR MARROM",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 313009,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO SOBRESSALENTE, REFERÊNCIA FABRIL K105/1, APLICAÇÃO BANCADA PNEUMÁTICA, CARACTERÍSTICAS ADICIONAIS KIT REPARO P/VÁLVULA CONTROLADORA DE ALTA PRESSÃO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 313010,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO SOBRESSALENTE, REFERÊNCIA FABRIL K105/1, APLICAÇÃO BANCADA PNEUMÁTICA, CARACTERÍSTICAS ADICIONAIS KIT REPARO P/VÁLVULA CONTROLADORA ALTA PRESSÃOTI",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 313013,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO SOBRESSALENTE, REFERÊNCIA FABRIL K165, APLICAÇÃO BANCADA PNEUMÁTICA, CARACTERÍSTICAS ADICIONAIS KIT REPARO P/VÁLVULA CONTROLADORA ALTA PRESSÃO TI",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 313014,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO SOBRESSALENTE, REFERÊNCIA FABRIL K165, APLICAÇÃO BANCADA PNEUMÁTICA, CARACTERÍSTICAS ADICIONAIS KIT REPARO P/VÁLVULA CONTROLADORA ALTA PRESSÃO TIP",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 313077,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO SOBRESSALENTE, REFERÊNCIA FABRIL K105/2, APLICAÇÃO BANCADA PNEUMÁTICA, CARACTERÍSTICAS ADICIONAIS KIT REPARO P/VÁLVULA CONTROLADORA ALTA PRESSÃO TI",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 316888,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ISOGEL ESTABILIZADO, USO PROTEÇÃO CASCO, APLICAÇÃO INDÚSTRIA NAVAL, CARACTERÍSTICAS ADICIONAIS BASE, ACABAMENTO ADITIVADO C/ NEOPENTILGLICOL, COM, COR BRANCA",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 316889,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ISOGEL ESTABILIZADO, USO PROTEÇÃO CASCO, APLICAÇÃO INDÚSTRIA NAVAL, CARACTERÍSTICAS ADICIONAIS BASE, ACABAMENTO ADITIVADO C/ NEOPENTILGLICOL, COM, COR CINZA MUNSEL N.8",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317692,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO CONJUNTO, USO FIXAÇÃO ISOLAMENTO TÉRMICO, CARACTERÍSTICAS ADICIONAIS AÇO BAIXO CARBONO 4,8 X 34MM E ANEL CERÂMICO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317693,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO CONJUNTO, USO FIXAÇÃO ISOLAMENTO TÉRMICO, CARACTERÍSTICAS ADICIONAIS AÇO BAIXO CARBONO 4,8 X 139MM E ANEL CERÂMICO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317694,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO CONJUNTO, USO FIXAÇÃO ISOLAMENTO TÉRMICO, CARACTERÍSTICAS ADICIONAIS AÇO BAIXO CARBONO 4,8 X 149MM E ANEL CERÂMICO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317697,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO HASTE ROSCADA EM AÇO MOLIBDÊNIO VANÁDIO, CARACTERÍSTICAS ADICIONAIS 22,2MM X 1,0M; ROSCA TOTAL WHITWORTH; ROLADA A FRI",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322640,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO SEDE VÁLVULA DE DESCARGA, REFERÊNCIA FABRIL 1314340, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322641,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO GUIA VÁLVULA, REFERÊNCIA FABRIL 9Y1847, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322643,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO JUNTAS BOMBA DE ÓLEO, REFERÊNCIA FABRIL 1975345, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322644,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO INDICADOR, REFERÊNCIA FABRIL 4W0511, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322645,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO JUNTAS DE CAMISA, REFERÊNCIA FABRIL 6V3774, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322646,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO MOLA, REFERÊNCIA FABRIL 252760, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322647,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO TUBO SANFONADO, REFERÊNCIA FABRIL 7E5580, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322649,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO JUNTAS DE DESCARGA, REFERÊNCIA FABRIL 2129535, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322650,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO JUNTAS FRONTAL, REFERÊNCIA FABRIL 1457813, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322654,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO MANCAL, REFERÊNCIA FABRIL 7N5244, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322656,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO JUNTAS RESFRIADOR ÓLEO, REFERÊNCIA FABRIL 6V5949, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322657,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO SEDE DE VÁLVULA, REFERÊNCIA FABRIL 1302608, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322660,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO JUNTAS TURBO CARREGADOR, REFERÊNCIA FABRIL 2153485, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322665,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO INDICADOR, REFERÊNCIA FABRIL 4W2683, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322666,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO MANCAL, REFERÊNCIA FABRIL 1W6005, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322668,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO JUNTAS AFTER COOLER, REFERÊNCIA FABRIL 6V8062, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322733,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO JUNTAS BOMBA D´ÁGUA, REFERÊNCIA FABRIL 2225153, APLICAÇÃO REBOCADOR \"INTRÉPIDO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 323661,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO LONA METÁLICA, CARACTERÍSTICAS ADICIONAIS P/FREIO MECÂNICO, LARGURA 3 POL, ESPESSURA 5/16 POL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 328621,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO CONJUNTO, REFERÊNCIA FABRIL ZFF0.19, USO FIXAÇÃO ISOLAMENTO TÉRMICO, CARACTERÍSTICAS ADICIONAIS AÇO BAIXO CARBONO 4,8 X 84MM E ANEL CERÂMICO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 331964,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ADESIVO CONDUTIVO, REFERÊNCIA FABRIL TRAFFIC ELS, USO COLAGEM DE PLACAS DE PISO VINÍLICO, APLICAÇÃO FORRAÇÃO E ISOLAMENTO DE EMBARCAÇÃO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 332194,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO CHAVE DE BATERIA, USO INSTALAÇÃO SISTEMA ELÉTRICO, APLICAÇÃO LANCHA, CARACTERÍSTICAS ADICIONAIS CHAVE ELÉTRICA FACA",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 340023,
+    "Descrição do Item": "LANCHA , ACESSÓRIOS FAROL CONTROLE REMOTO/PILOTO AUTOMÁTICO/RADAR/PILO, CARACTERÍSTICAS ADICIONAIS PARCIALMENTE BLINDADA NÍVEL 3/MODELO PH480PB/2 MO-, MATERIAL CASCO FIBRA VIDRO/FIBRA ARAMIDA, COMPRIMENTO 14,40 M, CALADO 1,20 M, POTÊNCIA MÁXIMA MOTOR 626 HP, QUANTIDADE PASSAGEIRO 15 UN",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08705: LANCHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 343778,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO AZEITE DE PEIXE, USO POLIMENTO DE HÉLICE DE NAVIO, APLICAÇÃO INDÚSTRIA NAVAL",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 344323,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO BOMBA ELÉTRICA 12 V, USO ESGOTO, APLICAÇÃO EMBARCAÇÃO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347089,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ESTOJO, TIPO ROSCA WHIT, DIÂMETRO 12,70 MM, COMPRIMENTO 88,90 MM, USO FIXAÇÃO ISOLAMENTO TÉRMICO, MATERIAL AÇO CROMO VANÁDIO ASTM A-193 GRB-16",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347090,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ESTOJO, TIPO ROSCA WHIT, DIÂMETRO 15,80 MM, COMPRIMENTO 101,60 MM, USO FIXAÇÃO ISOLAMENTO TÉRMICO, MATERIAL AÇO CROMO VANÁDIO ASTM A-193 GRB-16",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347091,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ESTOJO, TIPO ROSCA WHIT, DIÂMETRO 15,80 MM, COMPRIMENTO 152,40 MM, USO FIXAÇÃO ISOLAMENTO TÉRMICO, MATERIAL AÇO CROMO VANÁDIO ASTM A-193 GRB-16",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347092,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ESTOJO, TIPO ROSCA WHIT, DIÂMETRO 19 MM, COMPRIMENTO 101,60 MM, USO FIXAÇÃO ISOLAMENTO TÉRMICO, MATERIAL AÇO CROMO VANÁDIO ASTM A-193 GRB-16",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347093,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ESTOJO, TIPO ROSCA WHIT, DIÂMETRO 19 MM, COMPRIMENTO 139,70 MM, USO FIXAÇÃO ISOLAMENTO TÉRMICO, MATERIAL AÇO CROMO VANÁDIO ASTM A-193 GRB-16",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347094,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ESTOJO, TIPO ROSCA WHIT, DIÂMETRO 25,40 MM, COMPRIMENTO 177,80 MM, USO FIXAÇÃO ISOLAMENTO TÉRMICO, MATERIAL AÇO CROMO VANÁDIO ASTM A-193 GRB-16",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347220,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ESTOJO, DIÂMETRO 4,80 MM, COMPRIMENTO 59 MM, USO FIXAÇÃO ISOLAMENTO TÉRMICO, MATERIAL AÇO CARBONO GALVANIZADO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347302,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ESTOJO, DIÂMETRO 4,80 MM, COMPRIMENTO 25 MM, USO FIXAÇÃO ISOLAMENTO TERMO ACÚSTICO, MATERIAL AÇO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347503,
+    "Descrição do Item": "LANCHA , CARACTERÍSTICAS ADICIONAIS 2300 RPM/12,10 LITROS DESLOCAMENTO/INJEÇÃO DIRETA, MATERIAL CASCO FIBRA VIDRO, COMPRIMENTO 17,68 M, BOCA 4,83 M, CALADO 1,27 M, POTÊNCIA MÁXIMA MOTOR 775 HP, PESO 25 T, QUANTIDADE PASSAGEIRO 14 UN",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08705: LANCHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 350010,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO LONA METÁLICA, USO FREIO MECÂNICO, LARGURA 4 POL, ESPESSURA 5/16 POL, MATERIAL LONA",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 351837,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO LONA METÁLICA, COMPRIMENTO 4 M, USO FREIO MECÂNICO, APLICAÇÃO CABRESTANTE DE VANTE NAVIO, LARGURA 100 MM, ESPESSURA 9,50 MM, MATERIAL LONA",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 353031,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ESTOJO, DIÂMETRO 4,80 MM, COMPRIMENTO 150 MM, USO FIXAÇÃO ISOLAMENTO TÉRMICO, CARACTERÍSTICAS ADICIONAIS COM ANEL CERÂMICO, MATERIAL AÇO INOXIDÁVEL AISI-304",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 355579,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO MOTOR PARTIDA, USO EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS MOTOR MARCA MWM, SÉRIE 229, DE 3 CILINDROS, MATERIAL METÁLICO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 358480,
+    "Descrição do Item": "BARCO ALUMÍNIO , CARACTERÍSTICAS ADICIONAIS MODELO KARIB 600 BA, CAPACIDADE PASSAGEIROS 5, CAPACIDADE CARGA 0,640 T, MATERIAL CASCO ALUMÍNIO NAVAL, COMPRIMENTO 5,90 M, BOCA 1,40 M, PONTAL 0,55 M",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "03340: BARCO ALUMÍNIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 362359,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ESTOJO, DIÂMETRO 7,90 MM, COMPRIMENTO 92 MM, USO FIXAÇÃO ISOLAMENTO TERMO ACÚSTICO, MATERIAL AÇO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 362360,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO ESTOJO, COMPRIMENTO 35 MM, USO FABRICAÇÃO, INSTALAÇÃO E REPAROS, MATERIAL ALUMÍNIO SOLDÁVEL M8",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 365991,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO LONA METÁLICA, COMPRIMENTO 4 M, USO FREIO MECÂNICO, APLICAÇÃO CABRESTANTE DE VANTE NAVIO, LARGURA 3 POL, ESPESSURA 1/2 POL, MATERIAL LONA",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 405567,
+    "Descrição do Item": "COMPONENTE EMBARCAÇÃO , TIPO CAIXA DE DERIVAÇÃO ESTANQUE, REFERÊNCIA FABRIL TENSÃO: 500 VOLTS E 30 AMPERES, USO INSTALAÇÃO SISTEMA ELÉTRICO, CARACTERÍSTICAS ADICIONAIS TERMINAL COM 4 BORNES E PRENSA CABOS, COR CINZA CLARO, MATERIAL LATÃO",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1940: EMBARCAÇÕES PEQUENAS",
+    "PDM": "17605: COMPONENTE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430256,
+    "Descrição do Item": "LANCHA , ACESSÓRIOS ÂNCORA DE 10KG, CAIXA DE FERRAMENTA P/MANUTENÇÃO, CARACTERÍSTICAS ADICIONAIS MOTOR A DIESEL/CABEÇO DUPLO DE ATRACAÇÃO, MATERIAL CASCO AÇO, COMPRIMENTO 8 M, BOCA 2,53 M, POTÊNCIA MÁXIMA MOTOR 60 HP, QUANTIDADE PASSAGEIRO 20 UN",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08705: LANCHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430257,
+    "Descrição do Item": "LANCHA , ACESSÓRIOS ÂNCORA DE 10KG, CAIXA DE FERRAMENTA P/MANUTENÇÃO, CARACTERÍSTICAS ADICIONAIS MOTOR A DIESEL/CABEÇO DUPLO DE ATRACAÇÃO, MATERIAL CASCO AÇO, COMPRIMENTO 11 M, BOCA 2,53 M, POTÊNCIA MÁXIMA MOTOR 100 HP, QUANTIDADE PASSAGEIRO 33 UN",
+    "Grupo": "19: NAVIOS, PEQUENAS EMBARCACOES, PONTOES E DIQUES FLUTUANTES",
+    "Classe": "1905: NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "PDM": "08705: LANCHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  }
+]
