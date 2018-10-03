@@ -1,0 +1,3638 @@
+[
+  {
+    "Código do Item": 4219,
+    "Descrição do Item": "AMARRA - MARINHA , AMARRA - MARINHA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "02391: AMARRA - MARINHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5436,
+    "Descrição do Item": "CORRENTE DE ARAME , CORRENTE DE ARAME NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05905: CORRENTE DE ARAME",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5460,
+    "Descrição do Item": "CORRENTE COM SOLDA , CORRENTE COM SOLDA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05901: CORRENTE COM SOLDA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5487,
+    "Descrição do Item": "CORRENTE SEM SOLDA , CORRENTE SEM SOLDA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05911: CORRENTE SEM SOLDA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5509,
+    "Descrição do Item": "CORRENTE SOLDADA , CORRENTE NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05899: CORRENTE SOLDADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5525,
+    "Descrição do Item": "OLHAL , ELO DE CORRENTE DE CARGA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5541,
+    "Descrição do Item": "QUARTEL DE AMARRA , QUARTEL DE AMARRA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "11364: QUARTEL DE AMARRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5568,
+    "Descrição do Item": "CORRENTE DE ACO , CORRENTE DE ACO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05903: CORRENTE DE ACO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5576,
+    "Descrição do Item": "CABO AÇO , CABO DE ACO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5592,
+    "Descrição do Item": "CONJUNTO DE CORRENTE , CONJUNTO DE CORRENTE NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05708: CONJUNTO DE CORRENTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5614,
+    "Descrição do Item": "CONJUNTO DE CABO DE ACO , CONJUNTO DE CABO DE ACO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05701: CONJUNTO DE CABO DE ACO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5630,
+    "Descrição do Item": "CABO DE ACO POLIDO , CABO DE ACO POLIDO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04013: CABO DE ACO POLIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5657,
+    "Descrição do Item": "CABO DE ACO GALVANIZADO , CABO DE ACO GALVANIZADO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04011: CABO DE ACO GALVANIZADO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5789,
+    "Descrição do Item": "ADRICA DE BANDEIRA , ADRICA DE BANDEIRA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "02119: ADRICA DE BANDEIRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5800,
+    "Descrição do Item": "EMENDA DE CABO DE FIBRA , EMENDA DE CABO DE FIBRA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "06522: EMENDA DE CABO DE FIBRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5827,
+    "Descrição do Item": "ENFRECHADURA , ENFRECHADURA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "06563: ENFRECHADURA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5843,
+    "Descrição do Item": "CABO DE AÇO PARA REBOQUE , CABO DE ACO PARA REBOQUE NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04012: CABO DE AÇO PARA REBOQUE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5860,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , CABO DE AMARRACAO DE EMBARCACAO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5886,
+    "Descrição do Item": "RABICHO , RABICHO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "11382: RABICHO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5894,
+    "Descrição do Item": "CABO TEXTIL , CABO TEXTIL NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04060: CABO TEXTIL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5924,
+    "Descrição do Item": "CORDA , CORDA DE NAILON ( NYLON ) NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5940,
+    "Descrição do Item": "CORDEL DE FIBRA , CORDEL DE FIBRA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05869: CORDEL DE FIBRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5959,
+    "Descrição do Item": "TERMINAL DE CABO DE ACO , TERMINAL DE CABO DE ACO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "12650: TERMINAL DE CABO DE ACO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5967,
+    "Descrição do Item": "TERMINAL DE CABO DE FIBRA , TERMINAL DE CABO DE FIBRA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "12651: TERMINAL DE CABO DE FIBRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5983,
+    "Descrição do Item": "BRAÇADEIRA CABO AÇO , ABRACADEIRA DE CABO DE ACO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "01223: BRAÇADEIRA CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5991,
+    "Descrição do Item": "GANCHO DE CARGA , GANCHO DE CARGA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "07914: GANCHO DE CARGA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 15814,
+    "Descrição do Item": "CORRENTE DE ACO , CORRENTE DE ACO 1 NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05903: CORRENTE DE ACO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 22756,
+    "Descrição do Item": "EMENDA PARA CORRENTE , EMENDA PARA CORRENTE NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "06524: EMENDA PARA CORRENTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 31267,
+    "Descrição do Item": "BARBANTE , BARBANTE NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 31313,
+    "Descrição do Item": "CABO DE FIBRA , CABO DE FIBRA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04027: CABO DE FIBRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 31321,
+    "Descrição do Item": "CABO DE CORDOALHA , CABO DE CORDOALHA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04024: CABO DE CORDOALHA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 37532,
+    "Descrição do Item": "CORRENTE PARA CARGA DE ARAME , CORRENTE PARA CARGA DE ARAME NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05908: CORRENTE PARA CARGA DE ARAME",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 37540,
+    "Descrição do Item": "ELO PARA CORRENTE , ELO PARA CORRENTE NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "06490: ELO PARA CORRENTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 37559,
+    "Descrição do Item": "PRENDEDOR PARA CORRENTE , PRENDEDOR PARA CORRENTE NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "11169: PRENDEDOR PARA CORRENTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 37567,
+    "Descrição do Item": "CORDA DE SISAL , CORDA DE SISAL NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05856: CORDA DE SISAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 37575,
+    "Descrição do Item": "CORDA FIBRA , CORDA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05852: CORDA FIBRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 37583,
+    "Descrição do Item": "CORDOALHA , CORDOALHA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05871: CORDOALHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 37605,
+    "Descrição do Item": "CORDOALHA DE COBRE DE PUXAMENTO DE CABO , CORDOALHA DE COBRE DE PUXAMENTO DE CABO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05876: CORDOALHA DE COBRE DE PUXAMENTO DE CABO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 37613,
+    "Descrição do Item": "CORDOALHA DE ACO , CORDOALHA DE ACO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05872: CORDOALHA DE ACO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 37621,
+    "Descrição do Item": "CORDOALHA DE ACO DE PUXAMENTO DE CABO , CORDOALHA DE ACO DE PUXAMENTO DE CABO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05873: CORDOALHA DE ACO DE PUXAMENTO DE CABO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 37630,
+    "Descrição do Item": "CABO DE FIBRA , CABO DE FIBRA 1 NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04027: CABO DE FIBRA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 37648,
+    "Descrição do Item": "BARBANTE ALGODÃO , BARBANTE DE ALGODAO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 37656,
+    "Descrição do Item": "BARBANTE DE SISAL , BARBANTE DE SISAL NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03325: BARBANTE DE SISAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 37664,
+    "Descrição do Item": "BARBANTE ALGODÃO , CADARCO TUBULAR DE ALGODAO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 37672,
+    "Descrição do Item": "FITILHO , FITILHO DE PLASTICO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 47309,
+    "Descrição do Item": "ANEL GUIA , ANEL GUIA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "02503: ANEL GUIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 47317,
+    "Descrição do Item": "GARRA DE CORDOALHA , GARRA DE CORDOALHA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "07929: GARRA DE CORDOALHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 47333,
+    "Descrição do Item": "SAPATILHA DE CABO / CORDA , SAPATILHA DE CABO / CORDA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "11940: SAPATILHA DE CABO / CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 47341,
+    "Descrição do Item": "GRAMPO PARA CABO , GRAMPO PARA CABO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "08074: GRAMPO PARA CABO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 47350,
+    "Descrição do Item": "PRESILHA DE CABO / CORDA , PRESILHA DE CABO / CORDA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "11203: PRESILHA DE CABO / CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 47368,
+    "Descrição do Item": "ESTICADOR DE CABO ( TENSOR ) , ESTICADOR DE CABO ( TENSOR ) NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "07133: ESTICADOR DE CABO ( TENSOR )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 52752,
+    "Descrição do Item": "CABO AÇO , CABO DE ACO 1 NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 61603,
+    "Descrição do Item": "TIRANTE , TIRANTE NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "12783: TIRANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 71510,
+    "Descrição do Item": "CORDÃO ARREMATE , CORDAO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05858: CORDÃO ARREMATE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 74420,
+    "Descrição do Item": "ANEL GUIA DE CORDA , ANEL GUIA DE CORDA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "02504: ANEL GUIA DE CORDA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 108294,
+    "Descrição do Item": "PINGENTE PARA ICAMENTO / SUSPENSAO / MOVIMENTACAO DE CARGA , PINGENTE PARA ICAMENTO / SUSPENSAO / MOV NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "10738: PINGENTE PARA ICAMENTO / SUSPENSAO / MOVIMENTACAO DE CARGA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 108308,
+    "Descrição do Item": "CORDA DE POLIESTER , CORDA DE POLIESTER NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05855: CORDA DE POLIESTER",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 108804,
+    "Descrição do Item": "CORRENTE PARA ELEVACAO / SUSPENSAO DE CARGA , CORRENTE PARA ELEVACAO / SUSPENSAO DE CA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05909: CORRENTE PARA ELEVACAO / SUSPENSAO DE CARGA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 108812,
+    "Descrição do Item": "ACESSORIO PARA LINGA DE CORRENTE , ACESSORIO PARA LINGA DE CORRENTE NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "01717: ACESSORIO PARA LINGA DE CORRENTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 108820,
+    "Descrição do Item": "CORRENTE PARA TALHA - ELETRICA / PNEUMATICA / MA-NUAL , CORRENTE PARA TALHA - ELETRICA / PNEUMA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05910: CORRENTE PARA TALHA -  ELETRICA / PNEUMATICA / MA-NUAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 122904,
+    "Descrição do Item": "FIXADOR CARGA , FIXADOR CARGA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "07617: FIXADOR CARGA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 127680,
+    "Descrição do Item": "CORRENTE - GALVANIZADA , CORRENTE - GALVANIZADA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05900: CORRENTE - GALVANIZADA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 131261,
+    "Descrição do Item": "ACESSORIO / PECA - AMARRACAO NAVIO / PLATAFORMA , ACESSORIO / PECA - AMARRACAO NAVIO / PLA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "01660: ACESSORIO / PECA - AMARRACAO NAVIO / PLATAFORMA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 151061,
+    "Descrição do Item": "CORDA , CORDA NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 194010,
+    "Descrição do Item": "CORRENTES E CABOS DE AÇO , CORRENTES E CABOS DE AÇO NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "16931: CORRENTES E CABOS DE AÇO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 194020,
+    "Descrição do Item": "FIO , CABOS DE FIBRA, CORDOALHAS E BARBANTES NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "16932: FIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 194030,
+    "Descrição do Item": "ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES , ACESSÓRIOS PARA CORDAS, CABOS E CORRENTE NOME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "16933: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 206992,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 6 UN, ACABAMENTO SUPERFICIAL ENCERADO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 206993,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 6 UN, ACABAMENTO SUPERFICIAL CRÚ",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 206994,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 8 UN, ACABAMENTO SUPERFICIAL ENCERADO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 206995,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 8 UN, ACABAMENTO SUPERFICIAL CRÚ",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 206996,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 4 UN, ACABAMENTO SUPERFICIAL ENCERADO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 206997,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 4 UN, ACABAMENTO SUPERFICIAL CRÚ",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228471,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 8 MM, PONTO RUPTURA 350 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228472,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TRANÇADA (16 PERNAS), DIÂMETRO 8 MM, PONTO RUPTURA 240 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228473,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 8 MM, PONTO RUPTURA 545 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228474,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TRANÇADA (16 PERNAS), DIÂMETRO 10 MM, PONTO RUPTURA 310 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228475,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 12 MM, PONTO RUPTURA 770 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228476,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TRANÇADA (16 PERNAS), DIÂMETRO 12 MM, PONTO RUPTURA 429 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228477,
+    "Descrição do Item": "CORDA , MATERIAL NAILON, TIPO TORCIDA (3 PERNAS), DIÂMETRO 8 MM, PONTO RUPTURA 1.346 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228478,
+    "Descrição do Item": "CORDA , MATERIAL NAILON, TIPO TORCIDA (3 PERNAS), DIÂMETRO 10 MM, PONTO RUPTURA 2.080 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228479,
+    "Descrição do Item": "CORDA , MATERIAL NAILON, TIPO TORCIDA (3 PERNAS), DIÂMETRO 12 MM, PONTO RUPTURA 2.998 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228480,
+    "Descrição do Item": "CORDA , MATERIAL NAILON, TIPO TRANÇADA (16 PERNAS), DIÂMETRO 10 MM, PONTO RUPTURA 2.080 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228481,
+    "Descrição do Item": "CORDA , MATERIAL NAILON, TIPO TRANÇADA (16 PERNAS), DIÂMETRO 12 MM, PONTO RUPTURA 2.998 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228482,
+    "Descrição do Item": "CORDA , MATERIAL NAILON, TIPO TRANÇADA (16 PERNAS), DIÂMETRO 8 MM, PONTO RUPTURA 1.346 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228483,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 10 MM, PONTO RUPTURA 545 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 229632,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA (16 PERNAS), DIÂMETRO 8 MM, PONTO RUPTURA 515 KGF, COR BRANCA, APLICAÇÃO AMARRAÇÕES E IÇAMENTOS DE CARGAS EM GERAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 229634,
+    "Descrição do Item": "CORDA , MATERIAL NAILON, TIPO TORCIDA (3 PERNAS), DIÂMETRO 12,70 MM, PONTO RUPTURA 699 KGF, COR AZUL, APLICAÇÃO AMARRAÇÕES E IÇAMENTOS DE CARGAS EM GERAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231381,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO DINÂMICA, DIÂMETRO 11 MM, PONTO RUPTURA 2.500 KGF, APLICAÇÃO ESCALADA OU DESCIDA TIPO \"RAPPEL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231382,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO DINÂMICA, DIÂMETRO 13 MM, PONTO RUPTURA 2.500 KGF, APLICAÇÃO ESCALADA OU DESCIDA TIPO \"RAPPEL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231383,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO DINÂMICA, DIÂMETRO 10 MM, PONTO RUPTURA 2.500 KGF, APLICAÇÃO ESCALADA OU DESCIDA TIPO \"RAPPEL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231384,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO DINÂMICA, DIÂMETRO 12 MM, PONTO RUPTURA 2.500 KGF, APLICAÇÃO ESCALADA OU DESCIDA TIPO \"RAPPEL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231385,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO DINÂMICA, DIÂMETRO 9 MM, PONTO RUPTURA 2.500 KGF, APLICAÇÃO ESCALADA OU DESCIDA TIPO \"RAPPEL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231386,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO ESTÁTICA, DIÂMETRO 11 MM, PONTO RUPTURA 2.500 KGF, APLICAÇÃO ESCALADA OU DESCIDA TIPO \"RAPPEL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231387,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO ESTÁTICA, DIÂMETRO 13 MM, PONTO RUPTURA 2.500 KGF, APLICAÇÃO ESCALADA OU DESCIDA TIPO \"RAPPEL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231388,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO ESTÁTICA, DIÂMETRO 10 MM, PONTO RUPTURA 2.500 KGF, APLICAÇÃO ESCALADA OU DESCIDA TIPO \"RAPPEL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231389,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO ESTÁTICA, DIÂMETRO 12 MM, PONTO RUPTURA 2.500 KGF, APLICAÇÃO ESCALADA OU DESCIDA TIPO \"RAPPEL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231390,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO ESTÁTICA, DIÂMETRO 9 MM, PONTO RUPTURA 2.500 KGF, APLICAÇÃO ESCALADA OU DESCIDA TIPO \"RAPPEL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237331,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 8 UN, ACABAMENTO SUPERFICIAL CRÚ, COR AZUL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237332,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 8 UN, ACABAMENTO SUPERFICIAL CRÚ, COR VERDE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237333,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 8 UN, ACABAMENTO SUPERFICIAL CRÚ, COR VERMELHO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237334,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 8 UN, ACABAMENTO SUPERFICIAL CRÚ, COR AMARELO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 238905,
+    "Descrição do Item": "BARBANTE , MATERIAL POLIETILENO, COR BRANCA, DIÂMETRO 10 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 238910,
+    "Descrição do Item": "CORDA , MATERIAL POLIÉSTER, TIPO TRANÇADA (12 PERNAS), DIÂMETRO 3 MM, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 239445,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA (16 PERNAS), DIÂMETRO 12 MM, PONTO RUPTURA 1790 KGF, COR AZUL, APLICAÇÃO AMARRAÇÕES E IÇAMENTOS DE CARGAS EM GERAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 239446,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA (16 PERNAS), DIÂMETRO 8 MM, PONTO RUPTURA 900 KGF, COR AZUL, APLICAÇÃO AMARRAÇÕES E IÇAMENTOS DE CARGAS EM GERAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240205,
+    "Descrição do Item": "CORRENTE SOLDADA , MATERIAL FERRO, TRATAMENTO SUPERFICIAL GALVANIZADO, FORMATO ELOS REDONDO, BITOLA 1/4 P0L, APLICAÇÃO SUSTENTAÇÃO LUMINÁRIA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05899: CORRENTE SOLDADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240704,
+    "Descrição do Item": "FITILHO , COR CINZA, PESO 1.200 G",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240893,
+    "Descrição do Item": "BRAÇADEIRA CABO AÇO , MATERIAL AÇO, USO AMARRAÇÃO CABOS E CORRENTES",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "01223: BRAÇADEIRA CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243667,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 12 UN, ACABAMENTO SUPERFICIAL CRÚ",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 244248,
+    "Descrição do Item": "ANEL GUIA , MATERIAL AÇO GALVANIZADO, DIÂMETRO INTERNO 25 MM, BITOLA 3/16 POL, CARACTERÍSTICAS ADICIONAIS EXTREMIDADE AUTO-ATARRAXANTE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "02503: ANEL GUIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 248478,
+    "Descrição do Item": "FITILHO , COR BRANCA, PESO 1.200 G",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 250028,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 3 MM, APLICAÇÃO AVIÁRIO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 250651,
+    "Descrição do Item": "ANEL GUIA , MATERIAL AÇO GALVANIZADO, DIÂMETRO INTERNO 40 MM, BITOLA 3/16 POL, CARACTERÍSTICAS ADICIONAIS EXTREMIDADE AUTO-ATARRAXANTE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "02503: ANEL GUIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 250652,
+    "Descrição do Item": "ANEL GUIA , MATERIAL AÇO GALVANIZADO, DIÂMETRO INTERNO 60 MM, BITOLA 3/16 POL, CARACTERÍSTICAS ADICIONAIS EXTREMIDADE AUTO-ATARRAXANTE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "02503: ANEL GUIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 253934,
+    "Descrição do Item": "RABICHO , MATERIAL METAL, DIÂMETRO 1/2 POL, COMPRIMENTO 40 CM, APLICAÇÃO LAVATÓRIO, CARACTERÍSTICAS ADICIONAIS FLEXÍVEL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "11382: RABICHO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254473,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 8 UN, ACABAMENTO SUPERFICIAL TORCIDOS, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254764,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 1/2 POL, COR BRANCA, APLICAÇÃO AMARRAÇÕES E IÇAMENTOS DE CARGAS EM GERAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 255362,
+    "Descrição do Item": "CORDA , MATERIAL NAILON, TIPO TORCIDA (3 PERNAS), DIÂMETRO 1/4 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 255363,
+    "Descrição do Item": "CORDA , MATERIAL NAILON, TIPO TORCIDA (3 PERNAS), DIÂMETRO 2 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263471,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 6 MM, APLICAÇÃO MÚLTIPLO USO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264916,
+    "Descrição do Item": "CABO DE FIBRA , MATERIAL FIBRA DE VIDRO, BITOLA 1/4 POL, APLICAÇÃO ENROLAMENTO DE MOTORES",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04027: CABO DE FIBRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264976,
+    "Descrição do Item": "GRAMPO PARA CABO , MATERIAL AÇO GALVANIZADO, TIPO USO CABO AÇO, BITOLA 3/8 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "08074: GRAMPO PARA CABO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265143,
+    "Descrição do Item": "CABO DE FIBRA , MATERIAL FIBRA DE VIDRO, APLICAÇÃO MEDIDAS TOPOGRÁFICAS E DE AGRIMENSURA, TIPO TRENA SEM TRAVA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04027: CABO DE FIBRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265149,
+    "Descrição do Item": "CABO AÇO , APRESENTAÇÃO ARAME, TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO 3 FIOS TRANÇADOS, BITOLA 22, APLICAÇÃO LACRES E USO GERAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265150,
+    "Descrição do Item": "CABO AÇO , APRESENTAÇÃO ARAME, TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO 3 FIOS TRANÇADOS, BITOLA 26, APLICAÇÃO LACRES E USO GERAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265151,
+    "Descrição do Item": "CABO AÇO , APRESENTAÇÃO ARAME, TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO 2 FIOS TRANÇADOS, BITOLA 26, APLICAÇÃO LACRES E USO GERAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265806,
+    "Descrição do Item": "BRAÇADEIRA CABO AÇO , MATERIAL AÇO, USO AMARRAÇÃO CABOS E CORRENTES, TRATAMENTO SUPERFICIAL GALVANIZADO, BITOLA 3/8 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "01223: BRAÇADEIRA CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 266208,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO COM ALMA DE SISAL, BITOLA 3/4\" POL, APLICAÇÃO PERFURAÇÃO POÇO TUBULAR",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 266209,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO COM ALMA DE SISAL, BITOLA 3/8\" POL, APLICAÇÃO PERFURAÇÃO POÇO TUBULAR",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 266826,
+    "Descrição do Item": "CABO AÇO , APRESENTAÇÃO ARAME, TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO COM ALMA DE SISAL, BITOLA 1/2 POL, APLICAÇÃO PERFURAÇÃO POÇO TUBULAR",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267128,
+    "Descrição do Item": "CABO AÇO , APRESENTAÇÃO ARAME, TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO 3 FIOS TRANÇADOS, BITOLA 0,05 MM, APLICAÇÃO LACRES E USO GERAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 268926,
+    "Descrição do Item": "CORDÃO ARREMATE , MATERIAL NÁILON, COR BRANCA, APLICAÇÃO CONFECÇÃO DE BANNER",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05858: CORDÃO ARREMATE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 273066,
+    "Descrição do Item": "CABO AÇO , APRESENTAÇÃO ARAME, TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO ALMA DE FIBRA, BITOLA 1/4 POL, APLICAÇÃO ESQUADRIA DE JANELA, CARACTERÍSTICAS ADICIONAIS 6 PERNAS FIOS DE ARAME POR PERNA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 275134,
+    "Descrição do Item": "CORDÃO ARREMATE , MATERIAL SILICONE, APLICAÇÃO CRACHÁ, CARACTERÍSTICAS ADICIONAIS SELADO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05858: CORDÃO ARREMATE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282970,
+    "Descrição do Item": "BARBANTE , MATERIAL POLIETILENO, COR CINZA, DIÂMETRO 10 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 283495,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 10 UN, ACABAMENTO SUPERFICIAL CRÚ",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 287553,
+    "Descrição do Item": "CORRENTE SOLDADA , MATERIAL FERRO, TRATAMENTO SUPERFICIAL GALVANIZADO, BITOLA Nº 40, COMPRIMENTO 6 M",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05899: CORRENTE SOLDADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 288218,
+    "Descrição do Item": "FITILHO , COR CINZA, PESO 1.000 G",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 289552,
+    "Descrição do Item": "FITILHO , COR BRANCA, PESO 1.000 G",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291567,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO COM ALMA DE SISAL, BITOLA 3/16 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291924,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 2 1/2 POL, PONTO RUPTURA 5.372 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 20 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291925,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 2 POL, PONTO RUPTURA 3.496 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 16 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291926,
+    "Descrição do Item": "CORDA , MATERIAL NAILON, TIPO TRANÇADO ( 8 PERNAS ), DIÂMETRO 6 POL, PONTO RUPTURA 41.998 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 48 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291927,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADO ( 8 PERNAS ), DIÂMETRO 2 POL, PONTO RUPTURA 3.496 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 18 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291979,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO TRANÇADO ( 8 PERNAS ), DIÂMETRO 4 POL, PONTO RUPTURA 19.979 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 32 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291983,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO TORCIDA (3 PERNAS), DIÂMETRO 32 MM, PONTO RUPTURA 2.079 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 10 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291984,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 76 MM, PONTO RUPTURA 7.594 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 24 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292023,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 1/2 POL, PONTO RUPTURA 270 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 4 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292032,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO TORCIDA (3 PERNAS), DIÂMETRO 1 POL, PONTO RUPTURA 1.345 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 8 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292033,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO TORCIDA (3 PERNAS), DIÂMETRO 2 2/12 POL, PONTO RUPTURA 8.297 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 20 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292036,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 1 1/2 POL, PONTO RUPTURA 2.029 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 12 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292038,
+    "Descrição do Item": "CORDA , MATERIAL POLIAMIDA, TIPO TRANÇADO ( 8 PERNAS ), DIÂMETRO 25 MM, CARACTERÍSTICAS ADICIONAIS DN 8 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292041,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO TORCIDA (3 PERNAS), DIÂMETRO 1/2 POL, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 4 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292045,
+    "Descrição do Item": "CORDA , MATERIAL SISAL, TIPO TORCIDA (3 PERNAS), DIÂMETRO 1 POL, PONTO RUPTURA 482 KGF, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 8 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292048,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 1 POL, PONTO RUPTURA 960 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 8 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292051,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO TORCIDA (3 PERNAS), DIÂMETRO 2 POL, PONTO RUPTURA 5.290 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 16 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292053,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO TORCIDA (3 PERNAS), DIÂMETRO 1 1/2 POL, PONTO RUPTURA 2.997 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, DN 12 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292110,
+    "Descrição do Item": "FIO , MATERIAL LINHO CÂNHAMO, DIÂMETRO 0,80 A 1,20 MM, COR BRANCA, APLICAÇÃO VELA DE EMBARCAÇÃO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "16932: FIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292116,
+    "Descrição do Item": "FIO , MATERIAL LINHO CÂNHAMO, DIÂMETRO 7/8 POL, COR BRANCA, APLICAÇÃO VELA DE EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS MERLIM 9 FIOS",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "16932: FIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292117,
+    "Descrição do Item": "BARBANTE , MATERIAL CÂNHAMO, CARACTERÍSTICAS ADICIONAIS CLASSE \"A\" TORCIDO COM 3 CORDÕES",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292624,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 10 UN, ACABAMENTO SUPERFICIAL TORCIDOS, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293342,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL POLIAMIDA, TIPO TORCIDO, BITOLA 1 1/2 POL, CARACTERÍSTICAS ADICIONAIS TRÊS CORDÕES, SEM ALMA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293815,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 19 MM, PONTO RUPTURA 6.000 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293816,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 16 MM, PONTO RUPTURA 4.000 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293845,
+    "Descrição do Item": "FITILHO , COR BRANCA, PESO 1.200 G, MATERIAL PLÁSTICO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293846,
+    "Descrição do Item": "FITILHO , COR CINZA, PESO 1.200 G, MATERIAL PLÁSTICO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293847,
+    "Descrição do Item": "FITILHO , COR BRANCA, PESO 1.000 G, MATERIAL PLÁSTICO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293848,
+    "Descrição do Item": "FITILHO , COR CINZA, PESO 1.000 G, MATERIAL PLÁSTICO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293865,
+    "Descrição do Item": "FITILHO , COR AZUL, MATERIAL TECIDO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293866,
+    "Descrição do Item": "FITILHO , COR VERDE, MATERIAL TECIDO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293867,
+    "Descrição do Item": "FITILHO , COR BRANCA, MATERIAL TECIDO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293868,
+    "Descrição do Item": "FITILHO , COR AMARELA, MATERIAL TECIDO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293869,
+    "Descrição do Item": "FITILHO , COR VERMELHA, MATERIAL TECIDO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293870,
+    "Descrição do Item": "FITILHO , COR ROSA, MATERIAL TECIDO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 294027,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 8 MM, PONTO RUPTURA 2000 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 294710,
+    "Descrição do Item": "BARBANTE , MATERIAL POLIPROPILENO, DIÂMETRO 1,5 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 295014,
+    "Descrição do Item": "RABICHO , MATERIAL METAL, DIÂMETRO 1/2 POL, COMPRIMENTO 40 CM, APLICAÇÃO LAVATÓRIO, CARACTERÍSTICAS ADICIONAIS RÍGIDO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "11382: RABICHO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 295559,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO TORCIDA (3 PERNAS), DIÂMETRO 1 1/2 POL, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, POLIAMIDA MULTI-FILAMENTO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 295561,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO TORCIDA (3 PERNAS), DIÂMETRO 2 POL, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, POLIAMIDA MULTI-FILAMENTO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 295562,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO TRANÇADO ( 8 PERNAS ), DIÂMETRO 4 POL, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 METROS, POLIAMIDA MULTI-FILAMENTO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 295568,
+    "Descrição do Item": "CORRENTE SOLDADA , CARGA ADMISSÍVEL 320 KG, CARACTERÍSTICAS ADICIONAIS COM SOLDA, MATERIAL FERRO, TRATAMENTO SUPERFICIAL GALVANIZADO, FORMATO ELOS REDONDO, BITOLA 3/16 POL, APLICAÇÃO SUSTENTAÇÃO LUMINÁRIA, COMPRIMENTO 32 MM, LARGURA 19 MM, PESO 0,45 KG/M",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05899: CORRENTE SOLDADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 295616,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL GALVANIZADO POLIDO, BITOLA 1/4 POL, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 7 E PESO APROXIMADO 0,14 KG/M",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296224,
+    "Descrição do Item": "CABO AÇO , APRESENTAÇÃO ARAME, TRATAMENTO SUPERFICIAL GALVANIZADO, BITOLA 3/8\", APLICAÇÃO GUINCHO, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 19 AF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296459,
+    "Descrição do Item": "CORRENTE SOLDADA , CARGA ADMISSÍVEL 6.000 KG, ESPESSURA 35 MM, DIÂMETRO INTERNO ELO TRANSVERSAL 140 MM, DIÂMETRO INTERNO ELO LONGITUDINAL 250 MM, PESO DO ELO 5,80 KG, MATERIAL AÇO, APLICAÇÃO FUNDEAR BÓIA SINALIZAÇÃO NÁUTICA, COMPRIMENTO 100 M",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05899: CORRENTE SOLDADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296986,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TRANÇADO, BITOLA 8 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296987,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TRANÇADO, BITOLA 12 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296988,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TORCIDO, BITOLA 3/4 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296989,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL SISAL, TIPO TORCIDO, BITOLA 5/8 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299312,
+    "Descrição do Item": "BARBANTE , MATERIAL NÁILON, COR CINZA, DIÂMETRO 10 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299425,
+    "Descrição do Item": "ANEL GUIA , MATERIAL AÇO GALVANIZADO, BITOLA 2 POL, CARACTERÍSTICAS ADICIONAIS EXTREMIDADE AUTO-ATARRAXANTE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "02503: ANEL GUIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299720,
+    "Descrição do Item": "RABICHO , MATERIAL PVC - CLORETO DE POLIVINILA, DIÂMETRO 1/2 POL, COMPRIMENTO 50 CM, APLICAÇÃO CAIXA DE DESCARGA, CARACTERÍSTICAS ADICIONAIS FLEXÍVEL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "11382: RABICHO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 301538,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 1 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 301539,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA, DIÂMETRO 1,5 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 303478,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 2 UN, ACABAMENTO SUPERFICIAL CRÚ",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 303537,
+    "Descrição do Item": "BARBANTE , MATERIAL JUTA, COR NATURAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 303922,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TRANÇADO, BITOLA 3 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 303923,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TRANÇADO, BITOLA 5 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 303924,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TRANÇADO, BITOLA 4 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 304239,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TRANÇADO, BITOLA 6 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 304241,
+    "Descrição do Item": "CORDA , MATERIAL 100% POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 1,5 MM, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 304242,
+    "Descrição do Item": "CORDA , MATERIAL 100% POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 2 MM, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 304243,
+    "Descrição do Item": "CORDA , MATERIAL 100% POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 4 MM, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 304409,
+    "Descrição do Item": "FITILHO , PESO 1.000 G, MATERIAL PLÁSTICO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 305241,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO DINÂMICA, DIÂMETRO 10,50 MM, COR AZUL, APLICAÇÃO ESCALADA OU DESCIDA TIPO \"RAPPEL\", CARACTERÍSTICAS ADICIONAIS FORÇA IMPACTO 10,50 KN, ELONGAÇÃO 7,30%",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 305684,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 11 UN, ACABAMENTO SUPERFICIAL CRÚ",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 306694,
+    "Descrição do Item": "CORDA , MATERIAL ALGODÃO, TIPO TRANÇADA, DIÂMETRO 50 MM, COR VINHO, CARACTERÍSTICAS ADICIONAIS PONTEIRAS EM LATÃO, COMPRIMENTO 150 CM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 306725,
+    "Descrição do Item": "BARBANTE , MATERIAL ALGODÃO, COR NATURAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 306873,
+    "Descrição do Item": "CABO AÇO , BITOLA 5/16\", CARACTERÍSTICAS ADICIONAIS REVESTIDO EM PVC PRETO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 306888,
+    "Descrição do Item": "OLHAL , MATERIAL AÇO CARBONO 1045, TIPO PARAFUSO (SUSPENSÃO), TRATAMENTO SUPERFICIAL GALVANIZADO, COMPRIMENTO ROSCA 22 MM, PASSO 2, CARGA MÁXIMA VERTICAL 240 A 340 KG, ÂNGULO 45 GRA, NORMAS TÉCNICAS NBR 8.159/84 E DIN 580",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 306909,
+    "Descrição do Item": "GRAMPO PARA CABO , MATERIAL AÇO GALVANIZADO, TIPO USO CABO AÇO, BITOLA 3/16 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "08074: GRAMPO PARA CABO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307447,
+    "Descrição do Item": "OLHAL , CARACTERÍSTICAS ADICIONAIS ROSCA TOTAL M-12, MATERIAL AÇO CARBONO 1045, TIPO PARAFUSO (SUSPENSÃO), TRATAMENTO SUPERFICIAL GALVANIZADO, COMPRIMENTO ROSCA 22 MM, PASSO 2, CARGA MÁXIMA VERTICAL 240 A 340 KG, ÂNGULO 45 GRA, NORMAS TÉCNICAS NBR 8.159/84 E DIN 580",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307482,
+    "Descrição do Item": "OLHAL , CARACTERÍSTICAS ADICIONAIS ROSCA TOTAL M-14, MATERIAL AÇO CARBONO 1045, TIPO PARAFUSO (SUSPENSÃO), TRATAMENTO SUPERFICIAL GALVANIZADO, COMPRIMENTO ROSCA 28 MM, PASSO 2, CARGA MÁXIMA VERTICAL 350 A 490 KG, ÂNGULO 45 GRA, NORMAS TÉCNICAS NBR 8.159/84 E DIN 580",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307483,
+    "Descrição do Item": "OLHAL , CARACTERÍSTICAS ADICIONAIS ROSCA TOTAL M-16, MATERIAL AÇO CARBONO 1045, TIPO PARAFUSO (SUSPENSÃO), TRATAMENTO SUPERFICIAL GALVANIZADO, COMPRIMENTO ROSCA 30 MM, PASSO 2, CARGA MÁXIMA VERTICAL 500 A 700 KG, ÂNGULO 45 GRA, NORMAS TÉCNICAS NBR 8.159/84 E DIN 580",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307484,
+    "Descrição do Item": "OLHAL , CARACTERÍSTICAS ADICIONAIS ROSCA TOTAL M-16, MATERIAL AÇO CARBONO 1045, TIPO PARAFUSO (SUSPENSÃO), TRATAMENTO SUPERFICIAL GALVANIZADO, COMPRIMENTO ROSCA 45 MM, PASSO 2, CARGA MÁXIMA VERTICAL 500 A 700 KG, ÂNGULO 45 GRA, NORMAS TÉCNICAS NBR 8.159/84 E DIN 580",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307485,
+    "Descrição do Item": "OLHAL , CARACTERÍSTICAS ADICIONAIS ROSCA TOTAL M-20, MATERIAL AÇO CARBONO 1045, TIPO PARAFUSO (SUSPENSÃO), TRATAMENTO SUPERFICIAL GALVANIZADO, COMPRIMENTO ROSCA 30 MM, PASSO 2,5, CARGA MÁXIMA VERTICAL 830 A 1.200 KG, ÂNGULO 45 GRA, NORMAS TÉCNICAS NBR 8.159/84 E DIN 580",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 308529,
+    "Descrição do Item": "OLHAL , CARACTERÍSTICAS ADICIONAIS ROSCA TOTAL 1/2 POL UNC, MATERIAL AÇO CARBONO 1045, TIPO PARAFUSO (SUSPENSÃO), TRATAMENTO SUPERFICIAL GALVANIZADO, COMPRIMENTO ROSCA 22 MM, PASSO 13, CARGA MÁXIMA VERTICAL 240 A 340 KG, ÂNGULO 45 GRA, NORMAS TÉCNICAS NBR 8.159/84 E DIN 580",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 308630,
+    "Descrição do Item": "OLHAL , MATERIAL AÇO CARBONO 1045, TIPO PARAFUSADO, TRATAMENTO SUPERFICIAL ZINCADO, CARGA MÁXIMA VERTICAL 5.000 DAN, ÂNGULO 90 GRA, NORMAS TÉCNICAS NBR 8.159",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 308670,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL GALVANIZADO, BITOLA 1/4, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO IPS 1 X 7, REGULAR A DIREITA, PRÉ-FO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310391,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TORCIDO, BITOLA 18 X 57 MM, CARACTERÍSTICAS ADICIONAIS 3 PERNAS, COR BRANCA ADUCHA APROXIMADAMENTE 220 ME",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310777,
+    "Descrição do Item": "CABO AÇO , APRESENTAÇÃO ARAME, TRATAMENTO SUPERFICIAL GALVANIZADO, BITOLA 8 MM, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 37, ALMA DE FIBRA, TORÇÃO REGULA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312416,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 10 MM, APLICAÇÃO MÚLTIPLO USO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312475,
+    "Descrição do Item": "CABO AÇO , APRESENTAÇÃO ARAME, TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO ALMA DE FIBRA, BITOLA 26 MM, APLICAÇÃO TESTE DE CARGA E MANOBRA DE PESO, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 37, TORÇÃO REGULA A DIREITA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312476,
+    "Descrição do Item": "CABO AÇO , APRESENTAÇÃO ARAME, TRATAMENTO SUPERFICIAL POLIDO, TIPO ALMA DE FIBRA, BITOLA 3/4\" POL, APLICAÇÃO TESTE DE CARGA E MANOBRA DE PESO, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 37, FLEXÍVEL, PRÉ FORMADO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312863,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TRANÇADO, BITOLA 60 MM, CARACTERÍSTICAS ADICIONAIS 8 PERNAS, ADUCHA C/ 220 METROS APROXIMADAMENTE, CARGA RUPTURA 68,800 KG",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314347,
+    "Descrição do Item": "CORDA , MATERIAL SISAL, TIPO TORCIDA (3 PERNAS), DIÂMETRO 1 POL, PONTO RUPTURA 482 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 315178,
+    "Descrição do Item": "BARBANTE , MATERIAL ALGODÃO, COR NATURAL, CARACTERÍSTICAS ADICIONAIS TORCIDO Nº 3",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 315478,
+    "Descrição do Item": "BARBANTE , MATERIAL SEDA TRANÇADA, COR BRANCA, DIÂMETRO 2 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317205,
+    "Descrição do Item": "CORDA , MATERIAL ELÁSTICO, APLICAÇÃO CARRINHO TRANSPORTE PROCESSO, CARACTERÍSTICAS ADICIONAIS GANCHO NAS EXTREMIDADES, COMPRIMENTO 150 CM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317705,
+    "Descrição do Item": "GRAMPO PARA CABO , MATERIAL AÇO FORJADO GALVANIZADO, TIPO USO CABO AÇO, BITOLA 3/8 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "08074: GRAMPO PARA CABO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317727,
+    "Descrição do Item": "CORDÃO ARREMATE , MATERIAL POLIÉSTER TRANÇADO, COR AZUL, APLICAÇÃO CRACHÁ, CARACTERÍSTICAS ADICIONAIS TIPO RABO DE RATO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05858: CORDÃO ARREMATE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317991,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TORCIDO, BITOLA 3/4 POL, CARACTERÍSTICAS ADICIONAIS 3 PERNAS, DIÂMETRO 6 MM, ADUCHA COM 220 METROS",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318033,
+    "Descrição do Item": "CABO AÇO , APRESENTAÇÃO ARAME, TRATAMENTO SUPERFICIAL POLIDO, TIPO ALMA DE FIBRA, BITOLA 1/4 POL, APLICAÇÃO MANOBRA DE PESO, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 19, FLEXÍVEL, PRÉ-FORMADO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318281,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TORCIDO, BITOLA 10 X 32 MM, CARACTERÍSTICAS ADICIONAIS 3 PERNAS, ADUCHA COM 220 M, PESO 14,30 KG",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318857,
+    "Descrição do Item": "BARBANTE , MATERIAL RÁFIA, COR BRANCA, CARACTERÍSTICAS ADICIONAIS FIBRA NATURAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319342,
+    "Descrição do Item": "CABO AÇO , APRESENTAÇÃO ARAME, TRATAMENTO SUPERFICIAL GALVANIZADO, BITOLA 9,50 MM, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 37, ALMA DE FIBRA, TORÇÃO REGULA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319344,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL POLIETILENO, TIPO TORCIDO, BITOLA 3/4 POL, CARACTERÍSTICAS ADICIONAIS TRÊS CORDÕES, SEM ALMA, COR AZUL, DIÂMETRO 6 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319349,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL SISAL, TIPO TORCIDO, BITOLA 1 1/2 POL, CARACTERÍSTICAS ADICIONAIS TRÊS CORDÕES, SEM ALMA, DIÂMETRO 12 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319563,
+    "Descrição do Item": "OLHAL , MATERIAL FERRO FUNDIDO NODULAR, TIPO PARAFUSADO, TRATAMENTO SUPERFICIAL GALVANIZAÇÃO POR IMERSÃO A QUENTE, COMPRIMENTO ROSCA 16 MM, CARGA MÁXIMA VERTICAL 6.800 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319582,
+    "Descrição do Item": "CORDA , MATERIAL SEDA, DIÂMETRO 6 MM, APLICAÇÃO AMARRAÇÃO DE CARGAS",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 320509,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO TRANÇADA, DIÂMETRO 10 MM, APLICAÇÃO MÚLTIPLO USO, COMPRIMENTO 150 M",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 321975,
+    "Descrição do Item": "GRAMPO PARA CABO , MATERIAL AÇO CARBONO FORJADO, TIPO USO CABO AÇO, BITOLA 1/2 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "08074: GRAMPO PARA CABO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322156,
+    "Descrição do Item": "BARBANTE , MATERIAL POLIETILENO, COR MARROM, CARACTERÍSTICAS ADICIONAIS LARGO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322283,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL POLIDO, TIPO ALMA DE FIBRA, BITOLA 1/2 POL, APLICAÇÃO MANOBRA DE PESO, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 37, FLEXÍVEL, PRÉ FORMADO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322286,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL POLIDO, TIPO ALMA DE FIBRA, BITOLA 38 MM, APLICAÇÃO MANOBRA DE PESO, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 37, TRAÇÃO 80/200 KG/MM2",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322287,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL POLIDO, TIPO ALMA DE FIBRA, BITOLA 12,7 MM, APLICAÇÃO MANOBRA DE PESO, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 19, TRAÇÃO 140/160 KG/MM2",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 323158,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TORCIDO, BITOLA 127 MM, CARACTERÍSTICAS ADICIONAIS 3 PERNAS, COMPRIMENTO 33 M, CARGA RUPTURA 30.000 KG",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 323412,
+    "Descrição do Item": "FITILHO , COR AMARELA, PESO 1.000 G, MATERIAL PLÁSTICO, TIPO FINO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 323414,
+    "Descrição do Item": "FITILHO , COR GRAFITE, PESO 1.000 G, MATERIAL PLÁSTICO, TIPO GROSSO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325007,
+    "Descrição do Item": "CORDÃO ARREMATE , MATERIAL POLIÉSTER TRANÇADO, COR BRANCA, APLICAÇÃO CRACHÁ, CARACTERÍSTICAS ADICIONAIS TIPO RABO DE RATO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05858: CORDÃO ARREMATE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325436,
+    "Descrição do Item": "CABO AÇO , TIPO ALMA DE FIBRA, BITOLA 5/8 POL, CARACTERÍSTICAS ADICIONAIS 6 CORDÕES X 18 FIOS CONTINUO EM ROLO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325548,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , CIRCUNFERÊNCIA 38 MM, MATERIAL NÁILON, TIPO TORCIDO, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 220 M, PESO 20,70 KG, DIÂMETRO 12 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 326412,
+    "Descrição do Item": "CORDA , MATERIAL POLIÉSTER, TIPO TRANÇADA, DIÂMETRO 12 MM, COR AMARELA E PRETA, CARACTERÍSTICAS ADICIONAIS MULTIFILAMENTO, COMPRIMENTO 70 M",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 326498,
+    "Descrição do Item": "OLHAL , ESPESSURA 16 MM, ABERTURA 36 MM, MATERIAL AÇO CARBONO FORJADO E GALVANIZADO, COMPRIMENTO ROSCA 19 MM, NORMAS TÉCNICAS NBR 6.323",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 327080,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TORCIDO, BITOLA 16 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 328879,
+    "Descrição do Item": "GRAMPO PARA CABO , MATERIAL AÇO GALVANIZADO, TIPO USO CABO AÇO, BITOLA 5/16 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "08074: GRAMPO PARA CABO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 329396,
+    "Descrição do Item": "CORDÃO ARREMATE , MATERIAL POLIÉSTER, APLICAÇÃO CRACHÁ, CARACTERÍSTICAS ADICIONAIS PERSONALIZADO EM SERIGRAFIA DUPLA FACE, SEM RELEVO, ACABAMENTO IMPRESSÃO EM UMA COR, COM PRENDEDOR",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05858: CORDÃO ARREMATE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 332625,
+    "Descrição do Item": "CORDA , MATERIAL ELÁSTICO, APLICAÇÃO CARRINHO TRANSPORTE PROCESSO, CARACTERÍSTICAS ADICIONAIS GANCHO NAS EXTREMIDADES, COMPRIMENTO APROXIMADAMENTE 130 CM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 333315,
+    "Descrição do Item": "FITILHO , MATERIAL POLIETILENO, CARACTERÍSTICAS ADICIONAIS DOBRADO, LARGURA 7 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 334507,
+    "Descrição do Item": "CORDA , MATERIAL SEDA, DIÂMETRO 14 MM, APLICAÇÃO AMARRAÇÃO DE CARGAS",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 335076,
+    "Descrição do Item": "ANEL GUIA , MATERIAL AÇO GALVANIZADO, DIÂMETRO INTERNO 40 MM, BITOLA 4,5 MM, CARACTERÍSTICAS ADICIONAIS BASE PARA FIXAÇÃO POR PARAFUSO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "02503: ANEL GUIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 335077,
+    "Descrição do Item": "ANEL GUIA , MATERIAL AÇO GALVANIZADO, DIÂMETRO INTERNO 60 MM, BITOLA 4,5 MM, CARACTERÍSTICAS ADICIONAIS BASE PARA FIXAÇÃO POR PARAFUSO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "02503: ANEL GUIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 336315,
+    "Descrição do Item": "CORDA , MATERIAL SISAL, TIPO TORCIDA (3 PERNAS), DIÂMETRO 10 MM, APLICAÇÃO AMARRAÇÕES E IÇAMENTOS DE CARGAS EM GERAL, CARACTERÍSTICAS ADICIONAIS CIRCUNFERÊNCIA 31,7 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 336321,
+    "Descrição do Item": "CORDA , DIÂMETRO NOMINAL 52 MM, MATERIAL POLIPROPILENO, TIPO TRANÇADO ( 8 PERNAS ), PONTO RUPTURA 31.500 KG, APLICAÇÃO ESPIA DE PORTA BATEL, CARACTERÍSTICAS ADICIONAIS ABUCHA COM 220 METROS",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 336411,
+    "Descrição do Item": "CORDA , DIÂMETRO NOMINAL 64 MM, MATERIAL POLIPROPILENO, TIPO TRANÇADO ( 8 PERNAS ), PONTO RUPTURA 41.200 KG, APLICAÇÃO ESPIA DE PORTA BATEL, CARACTERÍSTICAS ADICIONAIS ADUCHA COM 200 METROS",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 336420,
+    "Descrição do Item": "CORDÃO ARREMATE , MATERIAL POLIÉSTER, COR VERDE, APLICAÇÃO CRACHÁ, CARACTERÍSTICAS ADICIONAIS JACARÉ COM 10 MM DE LARGURA, ACABAMENTO CHAPA METÁLICA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05858: CORDÃO ARREMATE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 336924,
+    "Descrição do Item": "RABICHO , MATERIAL METAL, DIÂMETRO 3/4 POL, COMPRIMENTO 50 CM, APLICAÇÃO CAIXA DE DESCARGA, CARACTERÍSTICAS ADICIONAIS FLEXÍVEL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "11382: RABICHO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338240,
+    "Descrição do Item": "CORDÃO ARREMATE , MATERIAL POLIÉSTER, COR AZUL, APLICAÇÃO CRACHÁ, CARACTERÍSTICAS ADICIONAIS 90CM X 9MM, DIZERES AMARELO, CONFORME MODELO, ACABAMENTO METAIS NIQUELADOS, PRENDEDOR JACARÉ",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05858: CORDÃO ARREMATE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338464,
+    "Descrição do Item": "CORDA , MATERIAL POLIÉSTER, TIPO TRANÇADO (66 PERNAS), DIÂMETRO 11,5 MM, APLICAÇÃO MÚLTIPLO USO, CARACTERÍSTICAS ADICIONAIS SEMI-ESTÁTICO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338465,
+    "Descrição do Item": "CORDA , MATERIAL POLIÉSTER, TIPO TRANÇADO (6 PERNAS), DIÂMETRO 12,5 MM, APLICAÇÃO MÚLTIPLO USO, CARACTERÍSTICAS ADICIONAIS ESTÁTICA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338466,
+    "Descrição do Item": "CORDA , MATERIAL POLIAMIDA, TIPO TRANÇADO (TIPO \"A\"), DIÂMETRO 11 MM, APLICAÇÃO MÚLTIPLO USO, CARACTERÍSTICAS ADICIONAIS SEMI-ESTÁTICO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338690,
+    "Descrição do Item": "CORDA , MATERIAL SISAL, TIPO CEIFADEIRA, APLICAÇÃO AMARRAÇÕES EM GERAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338803,
+    "Descrição do Item": "CORDA , MATERIAL SISAL, TIPO TORCIDA (1 PERNA), COR AMARELA, APLICAÇÃO AMARRAÇÕES EM GERAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339923,
+    "Descrição do Item": "CORDA , MATERIAL SISAL, TIPO CEIFADEIRA, DIÂMETRO 3 MM, COR AMARELA, APLICAÇÃO AMARRAÇÕES EM GERAL, CARACTERÍSTICAS ADICIONAIS 100% NATURAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 343020,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 4 UN, ACABAMENTO SUPERFICIAL TORCIDOS, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 343311,
+    "Descrição do Item": "BRAÇADEIRA CABO AÇO , MATERIAL NYLON, CARACTERÍSTICAS ADICIONAIS CABO UTP, COR PRETA, DIMENSÕES 4 X 250 MM, RETAR-",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "01223: BRAÇADEIRA CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 343435,
+    "Descrição do Item": "CABO DE FIBRA , MATERIAL FIBRA DE VIDRO, BITOLA 25 MM, APLICAÇÃO ENROLAMENTO DE MOTORES",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04027: CABO DE FIBRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 343459,
+    "Descrição do Item": "BRAÇADEIRA CABO AÇO , MATERIAL AÇO, TRATAMENTO SUPERFICIAL GALVANIZADO, BITOLA 1 POL, CARACTERÍSTICAS ADICIONAIS CHAVETA E ELETROCALHA DE 100 X 50 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "01223: BRAÇADEIRA CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 343764,
+    "Descrição do Item": "CABO AÇO , TIPO ALMA DE FIBRA, BITOLA 5/16 POL, CARACTERÍSTICAS ADICIONAIS TORÇÃO REGULAR À DIREITA, FORMAÇÃO 6 X 7, CARGA DE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 343765,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO ALMA DE FIBRA, BITOLA 3/8 POL, CARACTERÍSTICAS ADICIONAIS TORÇÃO REGULAR A DIREITA, FORMAÇÃO 6 X 7, CARGA DE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 343766,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO ALMA DE FIBRA, BITOLA 5/16 POL, CARACTERÍSTICAS ADICIONAIS TORÇÃO REGULAR À DIREITA, FORMAÇÃO 6 X 7, CARGA DE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 343992,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 3/8 POL, PONTO RUPTURA 362 KGF, COR BRANCA, APLICAÇÃO AMARRAÇÕES EM GERAL, CARACTERÍSTICAS ADICIONAIS MULTIFILAMENTO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 344831,
+    "Descrição do Item": "CORDA , MATERIAL SISAL, TIPO TORCIDA, DIÂMETRO 19 MM, PONTO RUPTURA 1.500 KG, COR BEGE, APLICAÇÃO SALVAMENTO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 344833,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA, DIÂMETRO 12 MM, PONTO RUPTURA 1.300 KG, COR PRETA, APLICAÇÃO SALVAMENTO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345736,
+    "Descrição do Item": "CORDA , MATERIAL 100% POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 20 MM, COR AZUL CLARA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345976,
+    "Descrição do Item": "FITILHO , COR BRANCA, MATERIAL POLIPROPILENO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346415,
+    "Descrição do Item": "GRAMPO PARA CABO , MATERIAL AÇO GALVANIZADO, TIPO USO CABO AÇO, BITOLA 1/2 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "08074: GRAMPO PARA CABO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347790,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , COMPRIMENTO 220 M, MATERIAL POLIPROPILENO, TIPO TRANÇADO, BITOLA 16 MM, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347878,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 10 MM, PONTO RUPTURA 1.360 KGF, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347880,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 5/8 POL, PONTO RUPTURA 2.331 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS 3 PERNAS",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347882,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 3/4 POL, PONTO RUPTURA 2.560 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS 3 PERNAS",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348661,
+    "Descrição do Item": "GRAMPO PARA CABO , MATERIAL AÇO GALVANIZADO, TIPO USO CABO AÇO, BITOLA 5/8 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "08074: GRAMPO PARA CABO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348761,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL POLIPROPILENO, TIPO TORCIDO, BITOLA 5/8 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 349283,
+    "Descrição do Item": "OLHAL , CARACTERÍSTICAS ADICIONAIS 5/8 POL SUSPENSÃO, MATERIAL AÇO CARBONO 1045, TIPO PORCA, TRATAMENTO SUPERFICIAL GALVANIZADO, NORMAS TÉCNICAS DIN 582",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 349729,
+    "Descrição do Item": "PRESILHA DE CABO / CORDA , MATERIAL NYLON / PLÁSTICO, TAMANHO 10 CM, APLICAÇÃO FIXAR/PRENDER CABOS DE COMPUTADORES",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "11203: PRESILHA DE CABO / CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 349730,
+    "Descrição do Item": "PRESILHA DE CABO / CORDA , MATERIAL NYLON / PLÁSTICO, TAMANHO 15 CM, APLICAÇÃO FIXAR/PRENDER CABOS DE COMPUTADORES",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "11203: PRESILHA DE CABO / CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 352609,
+    "Descrição do Item": "CORDA , MATERIAL SEDA, TIPO TRANÇADA, DIÂMETRO 12 MM, PONTO RUPTURA 1000 KGF, APLICAÇÃO ANCORAR VOADEIRAS, CARACTERÍSTICAS ADICIONAIS DUAS CAPAS, RESISTENTE À UMIDADE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 352610,
+    "Descrição do Item": "CORDA , MATERIAL SEDA, TIPO TRANÇADA, DIÂMETRO 10 MM, PONTO RUPTURA 700 KGF, APLICAÇÃO ANCORAR VOADEIRAS, CARACTERÍSTICAS ADICIONAIS DUAS CAPAS, RESISTENTE À UMIDADE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 352613,
+    "Descrição do Item": "CORDA , MATERIAL SEDA, TIPO TRANÇADA, DIÂMETRO 7 MM, PONTO RUPTURA 400 KGF, APLICAÇÃO ANCORAR VOADEIRAS, CARACTERÍSTICAS ADICIONAIS DUAS CAPAS, RESISTENTE À UMIDADE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 352614,
+    "Descrição do Item": "CORDA , MATERIAL SEDA, TIPO TRANÇADA, DIÂMETRO 20 MM, PONTO RUPTURA 1700 KGF, APLICAÇÃO ANCORAR VOADEIRAS, CARACTERÍSTICAS ADICIONAIS DUAS CAPAS, RESISTENTE À UMIDADE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 353552,
+    "Descrição do Item": "CORDÃO ARREMATE , MATERIAL 100% POLIPROPILENO, COR BRANCA, APLICAÇÃO CRACHÁ",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05858: CORDÃO ARREMATE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 353571,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 6 MM, PONTO RUPTURA 396 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS RESISTENTE AO ATRITO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 354050,
+    "Descrição do Item": "CABO AÇO , TIPO ALMA DE FIBRA, BITOLA 3/32 POL, APLICAÇÃO ESQUADRIA DE JANELA, CARACTERÍSTICAS ADICIONAIS 6 CORDÕES X 18 FIOS CONTINUO EM ROLO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 356071,
+    "Descrição do Item": "CORRENTE SOLDADA , CARACTERÍSTICAS ADICIONAIS RESISTêNCIA A RUPTURA (MíNIMA) 550 KG, MATERIAL FERRO GALVANIZADO, FORMATO ELOS CURTO E SOLDADO, BITOLA 1/4 POL, COMPRIMENTO 42 CM, LARGURA 24 CM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05899: CORRENTE SOLDADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 356134,
+    "Descrição do Item": "GRAMPO PARA CABO , MATERIAL AÇO, TIPO USO CABO AÇO, BITOLA 1/8 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "08074: GRAMPO PARA CABO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 356717,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL POLIDO, TIPO ALMA DE FIBRA, BITOLA 3/16 POL, APLICAÇÃO MANOBRA DE PESO, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 37, FLEXÍVEL, PRÉ FORMADO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 356718,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL POLIDO, TIPO ALMA DE FIBRA, BITOLA 1/8 POL, APLICAÇÃO MANOBRA DE PESO, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 37, FLEXÍVEL, PRÉ FORMADO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 356719,
+    "Descrição do Item": "GRAMPO PARA CABO , MATERIAL AÇO GALVANIZADO, TIPO USO CABO AÇO, BITOLA 1/4 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "08074: GRAMPO PARA CABO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 359330,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL POLIPROPILENO, TIPO TRANÇADO, BITOLA 10 MM, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 359331,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL POLIPROPILENO, TIPO TRANÇADO, BITOLA 1/2 POL, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 360744,
+    "Descrição do Item": "OLHAL , MATERIAL AÇO CARBONO, TRATAMENTO SUPERFICIAL GALVANIZAÇÃO POR IMERSÃO A QUENTE, COMPRIMENTO ROSCA 16 MM, CARGA MÁXIMA VERTICAL 6.800 KGF, NORMAS TÉCNICAS ABNT PB-215",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 362050,
+    "Descrição do Item": "CORDA , MATERIAL POLIAMIDA, TIPO TRANÇADA, DIÂMETRO 3/8 POL, PONTO RUPTURA 1.300 KGF, COR AZUL, APLICAÇÃO AMARRAÇÕES EM GERAL, CARACTERÍSTICAS ADICIONAIS ESTÁTICA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 363575,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 5 MM, PONTO RUPTURA 410 KGF, COR AZUL, CARACTERÍSTICAS ADICIONAIS COM PROTEÇÃO UV",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 363576,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 5 MM, PONTO RUPTURA 410 KGF, COR VERDE, CARACTERÍSTICAS ADICIONAIS COM PROTEÇÃO UV",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 363577,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 5 MM, PONTO RUPTURA 410 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS COM PROTEÇÃO UV",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 363578,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 5 MM, PONTO RUPTURA 410 KGF, COR PRETA, CARACTERÍSTICAS ADICIONAIS COM PROTEÇÃO UV",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 363579,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 5 MM, PONTO RUPTURA 410 KGF, COR AMARELA, CARACTERÍSTICAS ADICIONAIS COM PROTEÇÃO UV",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364564,
+    "Descrição do Item": "OLHAL , CARACTERÍSTICAS ADICIONAIS PARAFUSO, MATERIAL AÇO CARBONO, TRATAMENTO SUPERFICIAL GALVANIZAÇÃO POR IMERSÃO A QUENTE, COMPRIMENTO ROSCA 15,80 MM, CARGA MÁXIMA VERTICAL 50 KN",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364565,
+    "Descrição do Item": "OLHAL , CARACTERÍSTICAS ADICIONAIS PARAFUSO, MATERIAL AÇO CARBONO, TRATAMENTO SUPERFICIAL GALVANIZAÇÃO POR IMERSÃO A QUENTE, COMPRIMENTO ROSCA 16 MM, CARGA MÁXIMA VERTICAL 6.800 KGF, NORMAS TÉCNICAS ABNT PB-215",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364584,
+    "Descrição do Item": "OLHAL , CARACTERÍSTICAS ADICIONAIS ROSCA BSW, 2 PORCAS QUADRADAS, MATERIAL AÇO CARBONO, TIPO PARAFUSO 5/8 POL, TRATAMENTO SUPERFICIAL GALVANIZAÇÃO POR IMERSÃO A QUENTE, COMPRIMENTO ROSCA 20 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364799,
+    "Descrição do Item": "OLHAL , CARACTERÍSTICAS ADICIONAIS COM PORCA, ROSCA TOTAL UNC, COMPRIMENTO TOTAL 650 MM, MATERIAL AÇO CARBONO, TIPO PARAFUSO 5/8 POL, TRATAMENTO SUPERFICIAL GALVANIZAÇÃO POR IMERSÃO A QUENTE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 365370,
+    "Descrição do Item": "CORDA , MATERIAL SEDA, DIÂMETRO 8 MM, APLICAÇÃO AMARRAÇÃO DE CARGAS",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 366126,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO ALMA DE FIBRA, BITOLA 3/4 POL, APLICAÇÃO MANOBRA DE PESO, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 37, TRAÇÃO 80/200 KG/MM2",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 366194,
+    "Descrição do Item": "BRAÇADEIRA CABO AÇO , MATERIAL AÇO, BITOLA 3/8 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "01223: BRAÇADEIRA CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 366230,
+    "Descrição do Item": "CORRENTE SOLDADA , CARACTERÍSTICAS ADICIONAIS RESISTÊNCIA RUPTURA MÍNIMA 1.400 KG, MATERIAL FERRO, TRATAMENTO SUPERFICIAL ZINCADO, FORMATO ELOS CURTO E SOLDADO, BITOLA 3/16 POL, COMPRIMENTO 33 MM, LARGURA 18 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05899: CORRENTE SOLDADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 366232,
+    "Descrição do Item": "CORRENTE SOLDADA , CARACTERÍSTICAS ADICIONAIS RESISTÊNCIA RUPTURA MÍNIMA 3.200 KG, MATERIAL FERRO, TRATAMENTO SUPERFICIAL ZINCADO, FORMATO ELOS CURTO E SOLDADO, BITOLA 3/8 POL, COMPRIMENTO 53 MM, LARGURA 35 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "05899: CORRENTE SOLDADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 366250,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO TRANÇADO ( 8 PERNAS ), DIÂMETRO 5 MM, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 367244,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TORCIDO, BITOLA 2 1/2 POL, CARACTERÍSTICAS ADICIONAIS 3 PERMAS",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 367854,
+    "Descrição do Item": "CABO AMARRAÇÃO DE EMBARCAÇÃO , MATERIAL NÁILON, TIPO TORCIDO, BITOLA 2 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "04014: CABO AMARRAÇÃO DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 367916,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO P-1, BITOLA 5/8 POL, APLICAÇÃO MANOBRA DE PESO, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 19, FLEXÍVEL, PRÉ-FORMADO, COMPRIMENTO 2 M, FORMATO LAÇO PRESILHADO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 368229,
+    "Descrição do Item": "SAPATILHA DE CABO / CORDA , MATERIAL AÇO GALVANIZADO, BITOLA 3/4 POL, APLICAÇÃO MARINHARIA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "11940: SAPATILHA DE CABO / CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 370130,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL GALVANIZADO, BITOLA 5/8 POL, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 1 X 25, TRAÇÃO 18.685 KGF, COMPRIMENTO 50 M",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 370131,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL GALVANIZADO, BITOLA 5/8 POL, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6 X 25, TRAÇÃO 18.685 KGF, COMPRIMENTO 30 M",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 371210,
+    "Descrição do Item": "BARBANTE , MATERIAL NÁILON, COR NATURAL, DIÂMETRO Nº 3, CARACTERÍSTICAS ADICIONAIS ENCERADO, CARGA RUPTURA 20 KG",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 371562,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 14 MM, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 371664,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 13 MM, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 371665,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 20 MM, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 371666,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 20 MM, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 371907,
+    "Descrição do Item": "FITILHO , PESO 800 G, MATERIAL NYLON",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 372683,
+    "Descrição do Item": "OLHAL , MATERIAL AÇO CARBONO 1015, TIPO PARAFUSO (SUSPENSÃO), TRATAMENTO SUPERFICIAL GALVANIZAÇÃO ELETROLÍTICA, COMPRIMENTO ROSCA 13 MM, PASSO 1,25, CARGA MÁXIMA VERTICAL 95 A 140 KGF, NORMAS TÉCNICAS NBR 8.159/84 E DIN 580",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 372729,
+    "Descrição do Item": "OLHAL , CARACTERÍSTICAS ADICIONAIS FATOR DE SEGURANÇA 5 X A CARGA DE TRABALHO, ROSCA TOTAL M 22, CARGA TRABALHO 1.100 A 1.500 KGF, MATERIAL AÇO CARBONO 1015, TIPO PARAFUSO (SUSPENSÃO), TRATAMENTO SUPERFICIAL GALVANIZAÇÃO ELETROLÍTICA A FOGO, COMPRIMENTO ROSCA 36 MM, PASSO 2,5, NORMAS TÉCNICAS NBR 8.159/84 E DIN 580",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 372892,
+    "Descrição do Item": "OLHAL , MATERIAL AÇO CARBONO 1015, TIPO PARAFUSO (SUSPENSÃO), TRATAMENTO SUPERFICIAL GALVANIZAÇÃO ELETROLÍTICA, COMPRIMENTO ROSCA 18 MM, PASSO 1,50, CARGA MÁXIMA VERTICAL 170 A 230 KGF, NORMAS TÉCNICAS NBR 8.159/84 E DIN 580",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373158,
+    "Descrição do Item": "OLHAL , CARACTERÍSTICAS ADICIONAIS FATOR DE SEGURANÇA 5 X A CARGA DE TRABALHO, ROSCA TOTAL M 24, CARGA TRABALHO 1.270 A 1.800 KGF, MATERIAL AÇO CARBONO 1015, TIPO PARAFUSO (SUSPENSÃO), TRATAMENTO SUPERFICIAL GALVANIZAÇÃO ELETROLÍTICA A FOGO, COMPRIMENTO ROSCA 36 MM, PASSO 3, NORMAS TÉCNICAS NBR 8.159",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373159,
+    "Descrição do Item": "OLHAL , CARACTERÍSTICAS ADICIONAIS FATOR DE SEGURANÇA 5 X A CARGA DE TRABALHO, ROSCA TOTAL M 30, CARGA TRABALHO 2.600 A 3.000 KGF, MATERIAL AÇO CARBONO 1015, TIPO PARAFUSO (SUSPENSÃO), TRATAMENTO SUPERFICIAL GALVANIZAÇÃO ELETROLÍTICA A FOGO, COMPRIMENTO ROSCA 45 MM, PASSO 3,50, NORMAS TÉCNICAS NBR 8.159",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373774,
+    "Descrição do Item": "FITILHO , COR VERDE, MATERIAL POLIETILENO E POLIPROPILENO, TIPO FIO 04/20",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373820,
+    "Descrição do Item": "GRAMPO PARA CABO , MATERIAL FERRO FUNDIDO NODULAR, TIPO USO CABO AÇO, BITOLA 1/2 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "08074: GRAMPO PARA CABO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373821,
+    "Descrição do Item": "GRAMPO PARA CABO , MATERIAL FERRO FUNDIDO NODULAR, TIPO USO CABO AÇO, BITOLA 3/4 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "08074: GRAMPO PARA CABO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373822,
+    "Descrição do Item": "GRAMPO PARA CABO , MATERIAL FERRO FUNDIDO NODULAR, TIPO USO CABO AÇO, BITOLA 5/8 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "08074: GRAMPO PARA CABO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374679,
+    "Descrição do Item": "CORDA , MATERIAL SEDA, TIPO TRANÇADA, DIÂMETRO 4 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 375763,
+    "Descrição do Item": "FITILHO , COR MARROM, MATERIAL TECIDO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 375764,
+    "Descrição do Item": "FITILHO , COR PRATA, MATERIAL TECIDO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 375765,
+    "Descrição do Item": "FITILHO , COR DOURADO, MATERIAL TECIDO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 376001,
+    "Descrição do Item": "CORDÃO ARREMATE , MATERIAL POLIÉSTER, COR AZUL, APLICAÇÃO CRACHÁ, CARACTERÍSTICAS ADICIONAIS COM PRENDEDOR TIPO JACARÉ E ARGOLA, ACABAMENTO IMPRESSÃO SERIGRÁFICA, DUPLA FACE E EMBORRACHADO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05858: CORDÃO ARREMATE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 379323,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO 6 FIOS TRANÇADOS COM ALMA DE FIBRA, BITOLA 3/32 POL, APLICAÇÃO LACRES E USO GERAL, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO 6X7, COBERTURA PLÁSTICA TRANSPARENTE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 380826,
+    "Descrição do Item": "FITILHO , COR VERDE E AMARELO, MATERIAL POLIÉSTER",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 382828,
+    "Descrição do Item": "CORDÃO ARREMATE , MATERIAL POLIÉSTER, COR CINZA, CARACTERÍSTICAS ADICIONAIS 90CM X 1CM, FECHO PRESILHA METAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05858: CORDÃO ARREMATE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 384293,
+    "Descrição do Item": "CORDA , MATERIAL SISAL, TIPO TORCIDA (3 PERNAS), DIÂMETRO 14 MM, COR AMARELA, APLICAÇÃO AMARRAÇÕES E IÇAMENTOS DE CARGAS EM GERAL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 385480,
+    "Descrição do Item": "CORDA , MATERIAL SEDA, TIPO TRANÇADA, DIÂMETRO 10 MM, CARACTERÍSTICAS ADICIONAIS RESISTENTE A UMIDADE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 385481,
+    "Descrição do Item": "CORDA , MATERIAL SEDA, TIPO TRANÇADA, DIÂMETRO 12 MM, CARACTERÍSTICAS ADICIONAIS RESISTENTE A UMIDADE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 385628,
+    "Descrição do Item": "CABO AÇO , TIPO 3 FIOS, BITOLA 1,50 MM, APLICAÇÃO HASTEAR BANDEIRA, CARACTERÍSTICAS ADICIONAIS REVESTIMENTO PLÁSTICO TRANSPARENTE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 388638,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 1/2 POL, PONTO RUPTURA 2.200 KGF, CARACTERÍSTICAS ADICIONAIS COM PROTEÇÃO UV",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 388643,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 1/2 POL, PONTO RUPTURA 1.500 KGF, CARACTERÍSTICAS ADICIONAIS COM PROTEÇÃO UV",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 388645,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 5/8 POL, PONTO RUPTURA 2.750 KGF, CARACTERÍSTICAS ADICIONAIS COM PROTEÇÃO UV",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 388781,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 5/8 POL, PONTO RUPTURA 3.700 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 388782,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA (3 PERNAS), DIÂMETRO 3/4 POL, PONTO RUPTURA 4.800 KGF",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 389302,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TORCIDA, DIÂMETRO 3/4 POL, PONTO RUPTURA 3.400 KGF, COR BRANCA, CARACTERÍSTICAS ADICIONAIS COM PROTEÇÃO UV",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 391381,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 5 MM, PONTO RUPTURA 330 KGF, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 391382,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA (3 PERNAS), DIÂMETRO 1/2 POL, PONTO RUPTURA 1.660 KGF, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 392035,
+    "Descrição do Item": "CABO AÇO , TIPO ESPIRALADO, BITOLA 10 MM, APLICAÇÃO REDE ESGOTO, CARACTERÍSTICAS ADICIONAIS PARA MÁQUINA DESENTUPIDORA RIKO RK-25, COMPRIMENTO 12 M",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 392610,
+    "Descrição do Item": "CORDÃO ARREMATE , MATERIAL POLIÉSTER, COR PRETA, APLICAÇÃO CRACHÁ, CARACTERÍSTICAS ADICIONAIS COM PRESILHA TIPO JACARÉ/9MM DE LARGURA/SEM PERSON",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05858: CORDÃO ARREMATE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 394800,
+    "Descrição do Item": "FITILHO , COR PRETA, MATERIAL POLIPROPILENO, TIPO FINO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 395933,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 22 MM, PONTO RUPTURA 5.150 KGF, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 396054,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 3,50 MM, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 396292,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO CEIFADEIRA, DIÂMETRO 2,6 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 397734,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TRANÇADA, DIÂMETRO 1/2 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 397735,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TRANÇADA, DIÂMETRO 3/4 POL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 397736,
+    "Descrição do Item": "CORDA , MATERIAL NÁILON, TIPO ESTÁTICA, DIÂMETRO 12 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 397962,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TRANÇADA, DIÂMETRO 1/2 POL, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 397963,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TRANÇADA, DIÂMETRO 3/4 POL, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 397964,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TRANÇADA, DIÂMETRO 1/8 POL, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 399045,
+    "Descrição do Item": "FITILHO , MATERIAL POLIETILENO E POLIPROPILENO, TIPO FIO 04/20",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 402738,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL SILICONIZADO, AUTOCLAVÁVEL, TIPO COMPATÍVEL COM EQUIPAMENTO BIPOLAR, COMPRIMENTO COMPRIMENTO MÍNIMO DE 3 M",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 403133,
+    "Descrição do Item": "CORDA , MATERIAL POLIAMIDA, TIPO TRANÇADA, DIÂMETRO 10,20 MM, PONTO RUPTURA 740 KG, COR AZUL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 403335,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO COM ALMA DE SISAL, BITOLA 5/16 POL, APLICAÇÃO ATERRAMENTO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 403336,
+    "Descrição do Item": "CABO AÇO , TRATAMENTO SUPERFICIAL GALVANIZADO, TIPO COM ALMA DE SISAL, BITOLA 1/4 POL, APLICAÇÃO ATERRAMENTO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4010: CORRENTES E CABOS DE AÇO",
+    "PDM": "04010: CABO AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 404269,
+    "Descrição do Item": "CORDA , MATERIAL SEDA, TIPO TRANÇADA, DIÂMETRO 3 MM, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 410611,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 30 MM, COR VERMELHO, CARACTERÍSTICAS ADICIONAIS FINALIZADOR PONTEIRA DOURADA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 411789,
+    "Descrição do Item": "CORDA , MATERIAL 100% POLIPROPILENO, TIPO TRANÇADA, DIÂMETRO 3 MM, PONTO RUPTURA 110 KGF, COR AZUL, APLICAÇÃO USO GERAL, CARACTERÍSTICAS ADICIONAIS ALMA EM POLIÉSTER",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 412098,
+    "Descrição do Item": "FITILHO , COR VARIADA, MATERIAL POLIPROPILENO, TIPO FINO, CARACTERÍSTICAS ADICIONAIS LARGURA: 0,50 CM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 412489,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TRANÇADA, DIÂMETRO 4,50 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 416792,
+    "Descrição do Item": "BARBANTE , MATERIAL SISAL, COR NATURAL, DIÂMETRO 1,50 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 420719,
+    "Descrição do Item": "BARBANTE , MATERIAL NÁILON, COR CINZA, DIÂMETRO 1,60 MM",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 420835,
+    "Descrição do Item": "FITILHO , PESO 1.000 G, MATERIAL POLIPROPILENO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 422260,
+    "Descrição do Item": "CORDA , MATERIAL POLIETILENO, TIPO TORCIDA, DIÂMETRO 10 MM, CARACTERÍSTICAS ADICIONAIS COM GANCHOS NAS PONTAS",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 432375,
+    "Descrição do Item": "BARBANTE , MATERIAL ALGODÃO, COR LARANJA, DIÂMETRO 4 MM, CARACTERÍSTICAS ADICIONAIS TORCIDO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "03324: BARBANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 433252,
+    "Descrição do Item": "FITILHO , COR VERMELHA, MATERIAL PLÁSTICO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "07613: FITILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 434857,
+    "Descrição do Item": "OLHAL , ESPESSURA 0,90 CM, COMPRIMENTO TOTAL 1,40 CM, MATERIAL PLÁSTICO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4030: ACESSÓRIOS PARA CORDAS, CABOS E CORRENTES",
+    "PDM": "06488: OLHAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 434866,
+    "Descrição do Item": "CORDA , MATERIAL POLIPROPILENO, TIPO TORCIDA, DIÂMETRO 1,5 MM, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 435053,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 8 UN, ACABAMENTO SUPERFICIAL CRÚ, COR BRANCA",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 441619,
+    "Descrição do Item": "CORDA , MATERIAL POLIÉSTER, TIPO TRANÇADA, DIÂMETRO 10 MM, PONTO RUPTURA 650 KGF, COR BRANCA, APLICAÇÃO AMARRAÇÕES E IÇAMENTOS DE CARGAS EM GERAL, CARACTERÍSTICAS ADICIONAIS ALMA EM POLIÉSTER",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "05854: CORDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 442732,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 6 UN, ACABAMENTO SUPERFICIAL CRÚ, COR AZUL",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 442733,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 6 UN, ACABAMENTO SUPERFICIAL CRÚ, COR VERDE",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 442734,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 6 UN, ACABAMENTO SUPERFICIAL CRÚ, COR VERMELHO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 442735,
+    "Descrição do Item": "BARBANTE ALGODÃO , QUANTIDADE FIOS 6 UN, ACABAMENTO SUPERFICIAL CRÚ, COR AMARELO",
+    "Grupo": "40: CORDAS, CABOS, CORRENTES E SEUS ACESSÓRIOS",
+    "Classe": "4020: CABOS DE FIBRA, CORDOALHAS E BARBANTES",
+    "PDM": "00080: BARBANTE ALGODÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  }
+]
