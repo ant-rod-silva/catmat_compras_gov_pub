@@ -1,0 +1,3278 @@
+[
+  {
+    "Código do Item": 2941,
+    "Descrição do Item": "BAUXITA , BAUXITA NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9610: MINÉRIOS",
+    "PDM": "03486: BAUXITA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 2950,
+    "Descrição do Item": "MINERIO DE FERRO , MINERIO DE FERRO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9610: MINÉRIOS",
+    "PDM": "09769: MINERIO DE FERRO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 2968,
+    "Descrição do Item": "MINERIO NAO FERROSO , MINERIO NAO FERROSO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9610: MINÉRIOS",
+    "PDM": "09770: MINERIO NAO FERROSO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 2984,
+    "Descrição do Item": "MICA NAO BENEFICIADA , MICA NAO BENEFICIADA NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "09715: MICA NAO BENEFICIADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3000,
+    "Descrição do Item": "DOLOMITA , DOLOMITA NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "06379: DOLOMITA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3018,
+    "Descrição do Item": "AMIANTO EM ESTADO BRUTO , AMIANTO EM ESTADO BRUTO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "02402: AMIANTO EM ESTADO BRUTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3026,
+    "Descrição do Item": "PETRÓLEO CRU , PETROLEO CRU NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "10695: PETRÓLEO CRU",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3034,
+    "Descrição do Item": "GRAFITE , GRAFITE NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3042,
+    "Descrição do Item": "CAULIM (VER SILICATO DE ALUMÍNIO) , CAULIM NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "04708: CAULIM (VER SILICATO DE ALUMÍNIO)",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3050,
+    "Descrição do Item": "CALCÁRIO , CALCARIO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "04210: CALCÁRIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3069,
+    "Descrição do Item": "XISTO BETUMINOSO , XISTO BETUMINOSO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "13491: XISTO BETUMINOSO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3085,
+    "Descrição do Item": "FERRO - NIQUEL , FERRO - NIQUEL NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9610: MINÉRIOS",
+    "PDM": "07397: FERRO - NIQUEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3093,
+    "Descrição do Item": "FERRO - SILÍCIO , FERRO - SILICIO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9610: MINÉRIOS",
+    "PDM": "07398: FERRO - SILÍCIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3107,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , FERRO - GUSA NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3115,
+    "Descrição do Item": "LINGOTE DE FERRO , LINGOTE DE FERRO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "08859: LINGOTE DE FERRO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3123,
+    "Descrição do Item": "LINGOTE DE ACO , LINGOTE DE ACO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "08858: LINGOTE DE ACO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3131,
+    "Descrição do Item": "TARUGO DE FERRO , TARUGO DE FERRO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12557: TARUGO DE FERRO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3140,
+    "Descrição do Item": "TARUGO DE AÇO , TARUGO DE ACO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3158,
+    "Descrição do Item": "LINGOTE DE MATERIAL METALICO NAO FERROSO , LINGOTE DE MATERIAL METALICO NAO FERROSO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9650: REFINADOS E PRODUTOS SEMI-ACABADOS DE  METAIS  BÁSICOS  NÃO FERROSOS",
+    "PDM": "08860: LINGOTE DE MATERIAL METALICO NAO FERROSO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3166,
+    "Descrição do Item": "TARUGO METÁLICO , TARUGO DE MATERIAL METALICO NAO FERROSO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3182,
+    "Descrição do Item": "BARRA DE METAL PRECIOSO NA FORMA PRIMARIA , BARRA DE METAL PRECIOSO NA FORMA PRIMARI NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9660: METAIS PRECIOSOS EM SUAS FORMAS PRIMÁRIAS",
+    "PDM": "03382: BARRA DE METAL PRECIOSO NA FORMA PRIMARIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3190,
+    "Descrição do Item": "LINGOTE DE METAL PRECIOSO NA FORMA PRIMARIA , LINGOTE DE METAL PRECIOSO NA FORMA PRIMA NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9660: METAIS PRECIOSOS EM SUAS FORMAS PRIMÁRIAS",
+    "PDM": "08861: LINGOTE DE METAL PRECIOSO NA FORMA PRIMARIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3204,
+    "Descrição do Item": "SUCATA DE ACO ESPECIAL , SUCATA DE ACO ESPECIAL NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9670: SUCATA DE FERRO E DE AÇO",
+    "PDM": "12291: SUCATA DE ACO ESPECIAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3212,
+    "Descrição do Item": "SUCATA DE LATAO , SUCATA DE LATAO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9680: SUCATA DE METAIS NÃO FERROSOS",
+    "PDM": "12296: SUCATA DE LATAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3220,
+    "Descrição do Item": "SUCATA DE BRONZE , SUCATA DE BRONZE NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9680: SUCATA DE METAIS NÃO FERROSOS",
+    "PDM": "12293: SUCATA DE BRONZE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3239,
+    "Descrição do Item": "SUCATA - CHUMBO , SUCATA - CHUMBO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9680: SUCATA DE METAIS NÃO FERROSOS",
+    "PDM": "12289: SUCATA - CHUMBO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3247,
+    "Descrição do Item": "SUCATA DE COBRE , SUCATA DE COBRE NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9680: SUCATA DE METAIS NÃO FERROSOS",
+    "PDM": "12294: SUCATA DE COBRE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3255,
+    "Descrição do Item": "SUCATA DE ZINCO , SUCATA DE ZINCO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9680: SUCATA DE METAIS NÃO FERROSOS",
+    "PDM": "12297: SUCATA DE ZINCO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 3263,
+    "Descrição do Item": "SUCATA DE ALUMINIO , SUCATA DE ALUMINIO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9680: SUCATA DE METAIS NÃO FERROSOS",
+    "PDM": "12292: SUCATA DE ALUMINIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56995,
+    "Descrição do Item": "CHUMBO , CHUMBO ( MINERIO ) NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9610: MINÉRIOS",
+    "PDM": "04971: CHUMBO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 57002,
+    "Descrição do Item": "METAL PRECIOSO , METAL PRECIOSO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9610: MINÉRIOS",
+    "PDM": "09683: METAL PRECIOSO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 57037,
+    "Descrição do Item": "ASBESTO , ASBESTO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "03082: ASBESTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 57045,
+    "Descrição do Item": "ARGILA , ARGILA NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "02986: ARGILA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 57053,
+    "Descrição do Item": "BARRA FERRO E ACO , BARRA DE FERRO E ACO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "03365: BARRA FERRO E ACO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 57061,
+    "Descrição do Item": "BLOCO DE FERRO E ACO , BLOCO DE FERRO E ACO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "03605: BLOCO DE FERRO E ACO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 57070,
+    "Descrição do Item": "BLOCO DE FERRO E ACO EM ESTADO BRUTO , BLOCO DE FERRO E ACO EM ESTADO BRUTO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "03606: BLOCO DE FERRO E ACO EM ESTADO BRUTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 57088,
+    "Descrição do Item": "BARRA DE FERRO E ACO EM BRUTO , BARRA DE FERRO E ACO EM BRUTO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "03366: BARRA DE FERRO E ACO EM BRUTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 57100,
+    "Descrição do Item": "TIRA DE FERRO E ACO PARA TUBO , TIRA DE FERRO E ACO PARA TUBO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12775: TIRA DE FERRO E ACO PARA TUBO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 57118,
+    "Descrição do Item": "BARRA DE FERRO E ACO REDONDA PARA TUBO SEM COSTURA , BARRA DE FERRO E ACO REDONDA PARA TUBO S NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "03368: BARRA DE FERRO E ACO REDONDA PARA TUBO SEM COSTURA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 57126,
+    "Descrição do Item": "BARRA DE FERRO E ACO PARA LAMINA , BARRA DE FERRO E ACO PARA LAMINA NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "03367: BARRA DE FERRO E ACO PARA LAMINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 61883,
+    "Descrição do Item": "URANIO , URANIO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9610: MINÉRIOS",
+    "PDM": "13199: URANIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 73709,
+    "Descrição do Item": "AMIANTO , AMIANTO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "02401: AMIANTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 74349,
+    "Descrição do Item": "AMIANTO EM PO , AMIANTO EM PO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "02404: AMIANTO EM PO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 93491,
+    "Descrição do Item": "SUCATA DE FERRO , SUCATA DE FERRO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9670: SUCATA DE FERRO E DE AÇO",
+    "PDM": "12295: SUCATA DE FERRO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 93505,
+    "Descrição do Item": "SUCATA DE ACO COMUM , SUCATA DE ACO COMUM NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9670: SUCATA DE FERRO E DE AÇO",
+    "PDM": "12290: SUCATA DE ACO COMUM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 104604,
+    "Descrição do Item": "AREIA - FILTRACAO DE AGUA , AREIA - FILTRACAO DE AGUA NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "02981: AREIA - FILTRACAO DE AGUA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 133027,
+    "Descrição do Item": "TUBO DE LATAO , TUBO DE LATAO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9650: REFINADOS E PRODUTOS SEMI-ACABADOS DE  METAIS  BÁSICOS  NÃO FERROSOS",
+    "PDM": "13063: TUBO DE LATAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 133159,
+    "Descrição do Item": "BOBINA - ACO INOXIDAVEL , BOBINA - ACO INOXIDAVEL NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "03633: BOBINA - ACO INOXIDAVEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 141399,
+    "Descrição do Item": "PÓ METÁLICO , PO ACO RAPIDO ATOMIZADO A AGUA NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "10926: PÓ METÁLICO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150827,
+    "Descrição do Item": "SELO SEGURANÇA , SELO SEGURANÇA NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9650: REFINADOS E PRODUTOS SEMI-ACABADOS DE  METAIS  BÁSICOS  NÃO FERROSOS",
+    "PDM": "17840: SELO SEGURANÇA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 199620,
+    "Descrição do Item": "MINERAIS NATURAIS E SINTÉTICOS , MINERAIS NATURAIS E SINTÉTICOS NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "17336: MINERAIS NATURAIS E SINTÉTICOS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 199630,
+    "Descrição do Item": "ADITIVOS METÁLICOS E LIGAS BÁSICAS , ADITIVOS METÁLICOS E LIGAS BÁSICAS NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9630: ADITIVOS METÁLICOS E LIGAS BÁSICAS",
+    "PDM": "17337: ADITIVOS METÁLICOS E LIGAS BÁSICAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 199640,
+    "Descrição do Item": "PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE FERRO E DEAÇO , PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁR NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "17338: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E  DEAÇO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 199650,
+    "Descrição do Item": "REFINADOS E PRODUTOS SEMI-ACABADOS DE METAIS BÁSICOS NÃOFERROSOS , REFINADOS E PRODUTOS SEMI-ACABADOS DE NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9650: REFINADOS E PRODUTOS SEMI-ACABADOS DE  METAIS  BÁSICOS  NÃO FERROSOS",
+    "PDM": "17339: REFINADOS E PRODUTOS SEMI-ACABADOS  DE  METAIS  BÁSICOS  NÃOFERROSOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 199670,
+    "Descrição do Item": "SUCATA DE FERRO E DE AÇO , SUCATA DE FERRO E DE AÇO NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9670: SUCATA DE FERRO E DE AÇO",
+    "PDM": "17341: SUCATA DE FERRO E DE AÇO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 199680,
+    "Descrição do Item": "SUCATA DE METAIS NÃO FERROSOS , SUCATA DE METAIS NÃO FERROSOS NOME",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9680: SUCATA DE METAIS NÃO FERROSOS",
+    "PDM": "17342: SUCATA DE METAIS NÃO FERROSOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 230652,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 0,50 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 232154,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 0,70 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 232155,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 0,90 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 232763,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , TIPO CA-60, DIÂMETRO 5,00 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 232920,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO INOXIDÁVEL 304L, FORMATO REDONDO, DIÂMETRO 31,75 MM, COMPRIMENTO 6000 MM, APLICAÇÃO LABORATÓRIO EM MÁQUINA DE ENSAIO E SIMULAÇÃO DE",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 233607,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 145 MM, COMPRIMENTO 300 MM, APLICAÇÃO CONFECÇÃO DE CADINHOS, APRESENTAÇÃO TARUGO USINADO, GRAU MSP7 ISOSTÁTICO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 235298,
+    "Descrição do Item": "PÓ METÁLICO , TIPO AÇO INOXIDÁVEL, COMPOSIÇÃO QUÍMICA 1%C,17%C,0,75MO(MÁX.),1%SI(MÁX.),1%MN(MÁX.)+FE, TAMANHO MÉDIO PARTÍCULAS 12 MICRONS, APLICAÇÃO MOLDAGEM POR INJEÇÃO, CARACTERÍSTICAS ADICIONAIS ATOMIZADO A GÁS, NORMA TÉCNICA AISI 440C",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "10926: PÓ METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 235299,
+    "Descrição do Item": "PÓ METÁLICO , TIPO AÇO INOXIDÁVEL, COMPOSIÇÃO QUÍMICA 0,12%C(MAX.),17%CR,1%MO,1%SI(MAX.),1%MN(MAX.)+FE, TAMANHO MÉDIO PARTÍCULAS 12 MICRONS, APLICAÇÃO MOLDAGEM POR INJEÇÃO, CARACTERÍSTICAS ADICIONAIS ATOMIZADO A GÁS, NORMA TÉCNICA AISI 434",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "10926: PÓ METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 235300,
+    "Descrição do Item": "PÓ METÁLICO , TIPO AÇO FERRAMENTA, COMPOSIÇÃO QUÍMICA 1%C,4,2%CR,1,9%V,5%MO,6%W<0,4%SI(MAX.),0,4%MN(MAX), TAMANHO MÉDIO PARTÍCULAS 12 MICRONS, APLICAÇÃO MOLDAGEM POR INJEÇÃO, CARACTERÍSTICAS ADICIONAIS ATOMIZADO A GÁS, NORMA TÉCNICA AISI M2",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "10926: PÓ METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 235301,
+    "Descrição do Item": "PÓ METÁLICO , TIPO AÇO FERRAMENTA, COMPOSIÇÃO QUÍMICA 1,55%C,4,5%CR,4,75%V,1%MO,12,5%W,0,3%SI,0,4%MN,5%, TAMANHO MÉDIO PARTÍCULAS 12 MICRONS, APLICAÇÃO MOLDAGEM POR INJEÇÃO, CARACTERÍSTICAS ADICIONAIS ATOMIZADO A GÁS, NORMA TÉCNICA AISI T15",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "10926: PÓ METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237659,
+    "Descrição do Item": "CALCÁRIO DOLOMITICO , ASPECTO FÍSICO PO, COR BRANCA, GRANULOMETRIA 98 PER, COMPOSIÇÃO ÓXIDO DE CÁLCIO, DE MAGNESIO E MATERIAL INERTE., USO CORREÇÃO DO SOLO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "15160: CALCÁRIO DOLOMITICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237660,
+    "Descrição do Item": "CALCÁRIO DOLOMITICO , ASPECTO FÍSICO PO, COR BRANCA, GRANULOMETRIA 99 PER, COMPOSIÇÃO ÓXIDO DE CÁLCIO, DE MAGNESIO E MATERIAL INERTE., USO CORREÇÃO DO SOLO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "15160: CALCÁRIO DOLOMITICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237661,
+    "Descrição do Item": "CALCÁRIO DOLOMITICO , ASPECTO FÍSICO PO, COR BRANCA, GRANULOMETRIA 100 PER, COMPOSIÇÃO ÓXIDO DE CÁLCIO, DE MAGNESIO E MATERIAL INERTE., USO CORREÇÃO DO SOLO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "15160: CALCÁRIO DOLOMITICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237852,
+    "Descrição do Item": "TERRA DIATOMÁCEA , ASPECTO FÍSICO PO, TIPO AREIA, COR CINZA CLARO, COMPOSIÇÃO PARTÍCULAS INERTES, PUREZA MÍNIMA 90 PER, USO FILTRAGEM, SOLUBILIDADE INSOLÚVEL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "15176: TERRA DIATOMÁCEA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243251,
+    "Descrição do Item": "GRAFITE , COMPRIMENTO 180 MM, APRESENTAÇÃO BLOCO, GRAU MSP7 ISOSTÁTICO, LARGURA 180 MM, ALTURA 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 251355,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , TIPO CA-60, DIÂMETRO 5/16 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 251607,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , TIPO CA-50, DIÂMETRO 5/16 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252013,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 1 POL, COMPRIMENTO 1500 MM, APLICAÇÃO CONFECÇÃO PEÇAS PARA CÉLULA PRODUÇÃO RADIOFÁRMACOS",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252768,
+    "Descrição do Item": "CALCÁRIO DOLOMITICO , ASPECTO FÍSICO PO, COMPOSIÇÃO PRNT ACIMA DE 90%, USO CORREÇÃO DO SOLO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "15160: CALCÁRIO DOLOMITICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252853,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, DIÂMETRO 19 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252854,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, DIÂMETRO 76 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252855,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, DIÂMETRO 64 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252856,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, DIÂMETRO 25,4 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252857,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, DIÂMETRO 38 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252858,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, DIÂMETRO 50,8 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252860,
+    "Descrição do Item": "TARUGO , MATERIAL BRONZE, DIÂMETRO 76 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252861,
+    "Descrição do Item": "TARUGO , MATERIAL BRONZE, DIÂMETRO 64 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252862,
+    "Descrição do Item": "TARUGO , MATERIAL BRONZE, DIÂMETRO 38 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254485,
+    "Descrição do Item": "AREIA - FILTRACAO DE AGUA , MATERIAL AREIA QUARTZOSA, TAMANHO EFETIVO 0,4 A 0,42 MM, APLICAÇÃO FILTRAÇÃO ÁGUA",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "02981: AREIA - FILTRACAO DE AGUA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 255612,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , TIPO CA-50, DIÂMETRO 1/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 255613,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , TIPO CA-50, DIÂMETRO 3/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 256001,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , TIPO CA-50, DIÂMETRO 3,4 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 256992,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , TIPO CA-50, DIÂMETRO 3/16 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265651,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 0,70 MM, APLICAÇÃO LAPISEIRA",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 266534,
+    "Descrição do Item": "GRAFITE , COMPRIMENTO 130 MM, APRESENTAÇÃO BLOCO, GRAU MSP7 ISOSTÁTICO, LARGURA 130 MM, ALTURA 150 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 266603,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 80 MM, COMPRIMENTO 150 MM, APLICAÇÃO CONFECÇÃO DE CADINHOS, APRESENTAÇÃO TARUGO USINADO, GRAU MSP7 ISOSTÁTICO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 266604,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 130 MM, COMPRIMENTO 150 MM, APLICAÇÃO CONFECÇÃO DE CADINHOS, APRESENTAÇÃO TARUGO USINADO, GRAU MSP7 ISOSTÁTICO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 266605,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 170 MM, COMPRIMENTO 300 MM, APLICAÇÃO CONFECÇÃO DE CADINHOS, APRESENTAÇÃO TARUGO USINADO, GRAU MSP7 ISOSTÁTICO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 270736,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , TIPO CA-50, DIÂMETRO 3/8 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 271181,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, DIÂMETRO 1 CM, COMPRIMENTO 100 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 271182,
+    "Descrição do Item": "TARUGO , MATERIAL CHUMBO, DIÂMETRO 1 CM, COMPRIMENTO 100 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 271183,
+    "Descrição do Item": "TARUGO , MATERIAL COBRE, DIÂMETRO 1 CM, COMPRIMENTO 100 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 271701,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , TIPO CA-50, DIÂMETRO 1/2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 272776,
+    "Descrição do Item": "CINTA ISOLANTE , MATERIAL ALUMÍNIO, ESPESSURA 0,5 MM, LARGURA 13 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9650: REFINADOS E PRODUTOS SEMI-ACABADOS DE  METAIS  BÁSICOS  NÃO FERROSOS",
+    "PDM": "17839: CINTA ISOLANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 272788,
+    "Descrição do Item": "SELO SEGURANÇA , MATERIAL ALUMINIO, ESPESSURA 1 MM, LARGURA 13 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9650: REFINADOS E PRODUTOS SEMI-ACABADOS DE  METAIS  BÁSICOS  NÃO FERROSOS",
+    "PDM": "17840: SELO SEGURANÇA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 278438,
+    "Descrição do Item": "TARUGO , MATERIAL FERRO, DIÂMETRO 1 CM, COMPRIMENTO 10 CM, APLICAÇÃO USO LABORATORIAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 280737,
+    "Descrição do Item": "SELO SEGURANÇA , MATERIAL FELTRO PRENSADO, ESPESSURA 4 MM, DIÂMETRO INTERNO 7 MM, DIÂMETRO EXTERNO 8 MM, COMPATIBILIDADE MOTOR PNEUMÁTICO DA MARCA MIDAS REX, APLICAÇÃO RETENÇÃO DE MICRO-PARTÍCULAS",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9650: REFINADOS E PRODUTOS SEMI-ACABADOS DE  METAIS  BÁSICOS  NÃO FERROSOS",
+    "PDM": "17840: SELO SEGURANÇA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 281391,
+    "Descrição do Item": "BARRA FERRO E ACO , TIPO CHATA, LARGURA 1/2 POL, COMPRIMENTO 6 M, ESPESSURA 3 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "03365: BARRA FERRO E ACO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282772,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 4340, DIÂMETRO 7 1/2 POL, COMPRIMENTO 170 MM, CARACTERÍSTICAS ADICIONAIS LAMINADO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282974,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, DIÂMETRO 32 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 284546,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 1/2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 284547,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 3/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 284548,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 1/2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 284549,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 3/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 284550,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 1 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 284551,
+    "Descrição do Item": "TARUGO , MATERIAL PVC, FORMATO REDONDO, DIÂMETRO 1/2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 284552,
+    "Descrição do Item": "TARUGO , MATERIAL PVC, FORMATO REDONDO, DIÂMETRO 3/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 284553,
+    "Descrição do Item": "TARUGO , MATERIAL PVC, FORMATO REDONDO, DIÂMETRO 1 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 284554,
+    "Descrição do Item": "TARUGO , MATERIAL PVC, FORMATO REDONDO, DIÂMETRO 2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 287759,
+    "Descrição do Item": "SELO SEGURANÇA , MATERIAL POLISTER CROMADO, CARACTERÍSTICAS ADICIONAIS COM A DESCRIÇÃO: POLÍCIA FEDERAL, DIAS DO MÊS, ME, ALTURA 30 MM, COMPRIMENTO 141 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9650: REFINADOS E PRODUTOS SEMI-ACABADOS DE  METAIS  BÁSICOS  NÃO FERROSOS",
+    "PDM": "17840: SELO SEGURANÇA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 288889,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 110 MM, COMPRIMENTO 60 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291376,
+    "Descrição do Item": "TARUGO , MATERIAL CELERON, FORMATO REDONDO, DIÂMETRO 2 1/4 POL, COMPRIMENTO 100 CM, APLICAÇÃO MANUTENÇÃO DE EMBARCAÇÃO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291673,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 2 POL, COMPRIMENTO 100 CM, APLICAÇÃO USO LABORATORIAL, NORMAS TÉCNICAS NBR 5595",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291674,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 3 POL, COMPRIMENTO 100 CM, APLICAÇÃO USO LABORATORIAL, NORMAS TÉCNICAS NBR 5595",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291675,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 4 POL, COMPRIMENTO 100 CM, APLICAÇÃO USO LABORATORIAL, NORMAS TÉCNICAS NBR 5595",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291684,
+    "Descrição do Item": "TARUGO , MATERIAL PVC, FORMATO REDONDO, DIÂMETRO 4 POL, COMPRIMENTO 100 CM, APLICAÇÃO USO LABORATORIAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292022,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , TIPO CA-60, DIÂMETRO 4,2 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 294414,
+    "Descrição do Item": "CINTA ISOLANTE , MATERIAL ALUMÍNIO CORRUGADO, ESPESSURA 0,15 MM, LARGURA 910 MM, APLICAÇÃO ISOLAMENTO TUBULAÇÃO CENTRAL AR CONDICIONADO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9650: REFINADOS E PRODUTOS SEMI-ACABADOS DE  METAIS  BÁSICOS  NÃO FERROSOS",
+    "PDM": "17839: CINTA ISOLANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 294439,
+    "Descrição do Item": "CINTA ISOLANTE , MATERIAL POLIPEX, ESPESSURA 25 MM, LARGURA 1000 MM, APLICAÇÃO CENTRAL AR CONDICIONADO, USO ISOLANTE TÉRMICO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9650: REFINADOS E PRODUTOS SEMI-ACABADOS DE  METAIS  BÁSICOS  NÃO FERROSOS",
+    "PDM": "17839: CINTA ISOLANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 294544,
+    "Descrição do Item": "SELO SEGURANÇA , MATERIAL FIBRA CILÍNDRICA, COMPATIBILIDADE MOTOR PNEUMÁTICO DA MARCA MIDAS REX, APLICAÇÃO RETENÇÃO PARTÍCULAS EM CAMPO CIRÚRGICO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9650: REFINADOS E PRODUTOS SEMI-ACABADOS DE  METAIS  BÁSICOS  NÃO FERROSOS",
+    "PDM": "17840: SELO SEGURANÇA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297625,
+    "Descrição do Item": "GRAFITE , APLICAÇÃO TRATAMENTO DE SEMENTES NA AGRICULTURA, APRESENTAÇÃO PÓ",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298645,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 30 MM, COMPRIMENTO 3000 MM, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298648,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 50 MM, COMPRIMENTO 1500 MM, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298651,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 100 MM, COMPRIMENTO 1000 MM, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298652,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 100 MM, COMPRIMENTO 100 MM, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298655,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 150 MM, COMPRIMENTO 500 MM, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298656,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 200 MM, COMPRIMENTO 500 MM, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298659,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 50 MM, COMPRIMENTO 1000 MM, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298660,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 30 MM, COMPRIMENTO 1000 MM, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298662,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 70 MM, COMPRIMENTO 500 MM, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298663,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 100 MM, COMPRIMENTO 500 MM, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298664,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 150 MM, COMPRIMENTO 500 MM, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298677,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 70 MM, COMPRIMENTO 1500 MM, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298921,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 3/8 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298922,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 1/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298923,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 1/2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298924,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 3/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298925,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 7/8 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298926,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 5/8 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299005,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 2 1/2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299006,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299063,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO CROMO 4340, FORMATO REDONDO, DIÂMETRO 1 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299064,
+    "Descrição do Item": "TARUGO , MATERIAL NÁILON PRETO, FORMATO REDONDO, DIÂMETRO 2 POL, COMPRIMENTO 30 CM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299065,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 3/4 POL, COMPRIMENTO 30 CM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299066,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 1 POL, COMPRIMENTO 30 CM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299067,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 2 POL, COMPRIMENTO 30 CM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 300104,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 58 MM, COMPRIMENTO 150 MM, APLICAÇÃO CONFECÇÃO DE CADINHOS, APRESENTAÇÃO TARUGO USINADO, GRAU GRÃO FINO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 302392,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO INOX AISI 304, DIÂMETRO 1/4 POL, COMPRIMENTO 6000 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 302394,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO INOX AISI 304, DIÂMETRO 8 MM, COMPRIMENTO 6000 MM, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 305609,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL AÇO INOXIDÁVEL AISI 1020, FORMATO CILÍNDRICO, DIÂMETRO 1/2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 305610,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL AÇO INOXIDÁVEL AISI 1020, FORMATO CILÍNDRICO, DIÂMETRO 3/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 305611,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL AÇO INOXIDÁVEL AISI 1020, FORMATO CILÍNDRICO, DIÂMETRO 1 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 306101,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 3 POL, COMPRIMENTO 30 CM, APLICAÇÃO USO LABORATORIAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307828,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO INOX AISI 304, FORMATO REDONDO, DIÂMETRO 1 1/4\" POL, APLICAÇÃO MANUTENÇÃO DE EMBARCAÇÃO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307829,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO INOX AISI 304, FORMATO REDONDO, DIÂMETRO 1 1/2\" POL, APLICAÇÃO MANUTENÇÃO DE EMBARCAÇÃO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307830,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO INOX AISI 304, FORMATO REDONDO, DIÂMETRO 4 POL, APLICAÇÃO MANUTENÇÃO DE EMBARCAÇÃO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307832,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 2 1/2 POL, APLICAÇÃO MANUTENÇÃO DE EMBARCAÇÃO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307833,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 1 1/4 POL, APLICAÇÃO MANUTENÇÃO DE EMBARCAÇÃO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307834,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 1 3/4 POL, APLICAÇÃO MANUTENÇÃO DE EMBARCAÇÃO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307835,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 1 1/2\" POL, APLICAÇÃO MANUTENÇÃO DE EMBARCAÇÃO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307836,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 2 POL, APLICAÇÃO MANUTENÇÃO DE EMBARCAÇÃO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314363,
+    "Descrição do Item": "CHUMBO , ASPECTO FÍSICO SÓLIDO, APRESENTAÇÃO BARRA, PONTO DE FUSÃO 70 °C, TIPO USO MOLDAR BLINDAGEM, APLICAÇÃO PROTEÇÃO PACIENTE EM TRATAMENTO DE RADIOTERAPIA",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9610: MINÉRIOS",
+    "PDM": "04971: CHUMBO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 315398,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 130 MM, COMPRIMENTO 500 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 315399,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 60 MM, COMPRIMENTO 500 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 316695,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 20 MM, COMPRIMENTO 600 MM, APLICAÇÃO USO LABORATORIAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318031,
+    "Descrição do Item": "CALCÁRIO DOLOMITICO , ASPECTO FÍSICO PÓ, COMPOSIÇÃO PRNT 65 A 75 PER, USO CORREÇÃO ACIDEZ DO SOLO, CARACTERÍSTICAS ADICIONAIS ENSACADO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "15160: CALCÁRIO DOLOMITICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318035,
+    "Descrição do Item": "TARUGO , MATERIAL BRONZE, DIÂMETRO 25,4 MM, COMPRIMENTO 500 MM, APLICAÇÃO USINAGEM EM GERAL, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318053,
+    "Descrição do Item": "TARUGO , MATERIAL BRONZE, DIÂMETRO 101,60 MM, COMPRIMENTO 500 MM, APLICAÇÃO USINAGEM EM GERAL, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318054,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, DIÂMETRO 115 MM, COMPRIMENTO 500 MM, APLICAÇÃO USINAGEM EM GERAL, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318081,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, DIÂMETRO 64 MM, COMPRIMENTO 500 MM, APLICAÇÃO USINAGEM EM GERAL, FORMATO SEÇÃO CIRCULAR",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 321679,
+    "Descrição do Item": "CALCÁRIO DOLOMITICO , ASPECTO FÍSICO PÓ, COR BRANCA, COMPOSIÇÃO ADUBO CALCÁRIO, ÓXIDO DE MAGNÉSIO > 12%, USO CORREÇÃO ACIDEZ DO SOLO, CARACTERÍSTICAS ADICIONAIS ENSACADO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "15160: CALCÁRIO DOLOMITICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 321776,
+    "Descrição do Item": "GRAFITE , COMPRIMENTO 400 MM, APLICAÇÃO CONFECÇÃO DE JUNTAS, FITAS, GAXETAS, APRESENTAÇÃO PLACA, LARGURA 400 MM, ALTURA 12 MM, CARACTERÍSTICAS ADICIONAIS PARA ALTA TEMPERATURA C/ RESISTÊNCIA DE 600 PSI",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 323279,
+    "Descrição do Item": "CHUMBO , ASPECTO FÍSICO SÓLIDO, APRESENTAÇÃO BARRA, PONTO DE FUSÃO 70 °C, TIPO USO BLINDAGEM, APLICAÇÃO BLINDAGEM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9610: MINÉRIOS",
+    "PDM": "04971: CHUMBO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 324277,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 0,50 MM, APLICAÇÃO LAPISEIRA",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 324704,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 25 MM, COMPRIMENTO 0,5 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 324705,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 45 MM, COMPRIMENTO 0,5 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 324706,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 16 MM, COMPRIMENTO 0,5 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 324707,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 20 MM, COMPRIMENTO 0,5 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 324708,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 30 MM, COMPRIMENTO 0,5 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 324709,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 35 MM, COMPRIMENTO 0,5 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325033,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 1020",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325034,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO AISI 316",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 326189,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 4340, DIÂMETRO 180 MM, COMPRIMENTO 350 MM, CARACTERÍSTICAS ADICIONAIS DESGASEIFICADO A VÁCUO, NORMALIZADO, REDUÇÃO 4:1",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 326190,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 1 1/2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 326194,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 1 1/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 326195,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 3/8 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 326196,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 1 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 329188,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 40 MM, COMPRIMENTO 0,5 M, APLICAÇÃO USO LABORATORIAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 329649,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 13 MM, COMPRIMENTO 0,5 M, APLICAÇÃO USO LABORATORIAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 335187,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 1/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 335188,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 5/8 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 335189,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 1 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 335270,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 5/16 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 337451,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL LATÃO, FORMATO CILÍNDRICO, DIÂMETRO 9/16 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 337452,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL LATÃO, FORMATO CILÍNDRICO, DIÂMETRO 2 1/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 337453,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 5/16 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 337454,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 9/16 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 337455,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 1 1/8 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 337456,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL LATÃO, FORMATO QUADRADO, DIÂMETRO 1/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 337720,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , TIPO CA-50, DIÂMETRO 5/8 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338496,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO INOXIDÁVEL 304, DIÂMETRO 31,75 MM, COMPRIMENTO 1000 MM, FORMATO REDONDO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338505,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO INOXIDÁVEL 304, DIÂMETRO 57,15 MM, COMPRIMENTO 1000 MM, FORMATO REDONDO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339311,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO LAMINADO, DIÂMETRO 76 MM, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339659,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 100 MM, COMPRIMENTO 250 MM, APLICAÇÃO USO LABORATORIAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339851,
+    "Descrição do Item": "CHUMBO , ASPECTO FÍSICO SÓLIDO, APRESENTAÇÃO TUBO, APLICAÇÃO BLINDAGEM, CARACTERÍSTICAS ADICIONAIS PINTADO COR BRANCA E DIMENSÕES 110 X 126 X 100MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9610: MINÉRIOS",
+    "PDM": "04971: CHUMBO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 340436,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 25,4 CM, COMPRIMENTO 10 CM, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 341271,
+    "Descrição do Item": "TERRA DIATOMÁCEA , ASPECTO FÍSICO PO, COR BRANCA, COMPOSIÇÃO PARTÍCULAS INERTES, USO FILTRAGEM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "15176: TERRA DIATOMÁCEA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 342342,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 7 1/2 POL, COMPRIMENTO 300 MM, APLICAÇÃO USO LABORATORIAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 343409,
+    "Descrição do Item": "TARUGO , MATERIAL PLÁSTICO, FORMATO REDONDO, DIÂMETRO 10 MM, COR PRETA OU BRANCA",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 343600,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 145 MM, COMPRIMENTO 308 MM, APRESENTAÇÃO TARUGO USINADO BRUTO, GRAU MSP7 ISOSTÁTICO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 344872,
+    "Descrição do Item": "TARUGO , MATERIAL POLIETILENO, FORMATO REDONDO, DIÂMETRO 10 MM, COR PRETA",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347813,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 1020, DIÂMETRO 100 MM, COMPRIMENTO 125 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347814,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 1020, DIÂMETRO 66 MM, COMPRIMENTO 1,5 MM, CARACTERÍSTICAS ADICIONAIS TREFILADO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347815,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 1020, DIÂMETRO 165 MM, COMPRIMENTO 700 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348584,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL AÇO SAE 1020, FORMATO CILÍNDRICO, DIÂMETRO 100 MM, COMPRIMENTO 125 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348586,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL AÇO INOXIDÁVEL, FORMATO CILÍNDRICO, DIÂMETRO 1 POL, COMPRIMENTO 10 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348587,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL AÇO INOXIDÁVEL, FORMATO CILÍNDRICO, DIÂMETRO 31/2 POL, COMPRIMENTO 1 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348588,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL BRONZE, FORMATO CILÍNDRICO, DIÂMETRO 52 MM, COMPRIMENTO 220 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348589,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL BRONZE, FORMATO CILÍNDRICO, DIÂMETRO 110 MM, COMPRIMENTO 220 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348590,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL BRONZE, FORMATO CILÍNDRICO, DIÂMETRO 3 POL, COMPRIMENTO 4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348648,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO QUADRADO, DIÂMETRO 7/8 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348677,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO INOXIDÁVEL, FORMATO REDONDO, DIÂMETRO 3 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348788,
+    "Descrição do Item": "TARUGO , MATERIAL PVC, FORMATO REDONDO, DIÂMETRO 3 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 349250,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 1020, DIÂMETRO 3/4 POL, COMPRIMENTO 1 M, CARACTERÍSTICAS ADICIONAIS LISO, FORMATO REDONDO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 349251,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 1020, DIÂMETRO 3 POL, COMPRIMENTO 0,3 M, CARACTERÍSTICAS ADICIONAIS LISO, FORMATO REDONDO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 349417,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO CARBONO SAE 1020, FORMATO REDONDO, DIÂMETRO 4 POL, COMPRIMENTO 0,5 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 349440,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL AÇO SAE 1020, FORMATO REDONDO, DIÂMETRO 8 POL, COMPRIMENTO 0,20 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 349441,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL AÇO SAE 1020, FORMATO REDONDO, DIÂMETRO 5 POL, COMPRIMENTO 0,20 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 349445,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 3/4 POL, COMPRIMENTO 0,50 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 349541,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL AÇO SAE 1045, FORMATO CILÍNDRICO, DIÂMETRO 1 POL, COMPRIMENTO 6 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 349562,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO QUADRADO, DIÂMETRO 9/16 POL, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 349921,
+    "Descrição do Item": "CINTA ISOLANTE , MATERIAL AÇO INOXIDÁVEL, ESPESSURA 0,74 MM, LARGURA 12,75 MM, APLICAÇÃO FIXAÇÃO DE CALHAS ISOLANTE, NORMAS TÉCNICAS ASTMA 304",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9650: REFINADOS E PRODUTOS SEMI-ACABADOS DE  METAIS  BÁSICOS  NÃO FERROSOS",
+    "PDM": "17839: CINTA ISOLANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 350042,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 1/2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 350043,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 1 1/2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 350044,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 1 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 350047,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL AÇO INOXIDÁVEL AISI 304, FORMATO REDONDO, DIÂMETRO 1/8 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 350048,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL AÇO INOXIDÁVEL AISI 304, FORMATO REDONDO, DIÂMETRO 1 1/2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 350049,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL AÇO INOXIDÁVEL AISI 304, FORMATO REDONDO, DIÂMETRO 1 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 350050,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 1/8 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 350273,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL COBRE, FORMATO REDONDO, DIÂMETRO 2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 350274,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 350275,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL AÇO INOXIDÁVEL AISI 304, FORMATO REDONDO, DIÂMETRO 2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 352563,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO AISI 316, DIÂMETRO 1 POL, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 352660,
+    "Descrição do Item": "CHUMBO , ASPECTO FÍSICO SÓLIDO, APRESENTAÇÃO TUBO, APLICAÇÃO PESO PARA REDE DE PESCA, CARACTERÍSTICAS ADICIONAIS DIÂMETRO NOMINAL: EXTERNO 8 MM X INTERNO 5MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9610: MINÉRIOS",
+    "PDM": "04971: CHUMBO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 354327,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO INOXIDÁVEL POLIDO, DIÂMETRO 19/16 POL, COMPRIMENTO 3,50 M, CARACTERÍSTICAS ADICIONAIS TREFILADO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 354664,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , TIPO CA-60, DIÂMETRO 7/32 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 355943,
+    "Descrição do Item": "TARUGO , MATERIAL CELERON, FORMATO REDONDO, DIÂMETRO 1 1/4 POL, APLICAÇÃO MANUTENÇÃO DE EMBARCAÇÃO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 357262,
+    "Descrição do Item": "SELO SEGURANÇA , MATERIAL VOID, CARACTERÍSTICAS ADICIONAIS IMPRESSÃO DE HOLOGRAMA, LARGURA 4 CM, COMPRIMENTO 4 CM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9650: REFINADOS E PRODUTOS SEMI-ACABADOS DE  METAIS  BÁSICOS  NÃO FERROSOS",
+    "PDM": "17840: SELO SEGURANÇA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 358489,
+    "Descrição do Item": "TARUGO , MATERIAL POLIETILENO, FORMATO REDONDO, DIÂMETRO 80 MM, APLICAÇÃO USINAGEM EM GERAL, COR BRANCA",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 358658,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 3 1/2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 358659,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 9/16 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 358794,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL COBRE ELETROLÍTICO, FORMATO REDONDO, DIÂMETRO 3/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 358795,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL COBRE ELETROLÍTICO, FORMATO REDONDO, DIÂMETRO 3/4 POL, COMPRIMENTO 500 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 358796,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL COBRE ELETROLÍTICO, FORMATO REDONDO, DIÂMETRO 5/8 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 358797,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL COBRE ELETROLÍTICO, FORMATO REDONDO, DIÂMETRO 1 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 358941,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL BRONZE FOSFOROSO, FORMATO REDONDO, DIÂMETRO 4 POL, COMPRIMENTO 500 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 358950,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 20 MM, APLICAÇÃO FABRICAÇÃO DE BUCHAS, COR BRANCA",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 359029,
+    "Descrição do Item": "CHUMBO , ASPECTO FÍSICO SÓLIDO, APRESENTAÇÃO FITA, LARGURA 1. 1/2 POL, ESPESSURA 1/8 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9610: MINÉRIOS",
+    "PDM": "04971: CHUMBO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 361323,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 0,60 MM, APLICAÇÃO LAPISEIRA",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364045,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 0,7 MM, APLICAÇÃO LAPISEIRA, CARACTERÍSTICAS ADICIONAIS TIPO: HB",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364046,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 0,5 MM, APLICAÇÃO LAPISEIRA, CARACTERÍSTICAS ADICIONAIS TIPO: HB",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364047,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 0,9 MM, APLICAÇÃO LAPISEIRA, CARACTERÍSTICAS ADICIONAIS TIPO: HB",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364327,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 0,7 MM, APLICAÇÃO LAPISEIRA, CARACTERÍSTICAS ADICIONAIS TIPO: 2B",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364566,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 80 MM, COMPRIMENTO 0,5 M, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364567,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 10 MM, COMPRIMENTO 0,5 M, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364568,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 40 MM, COMPRIMENTO 0,5 M, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364569,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 15 MM, COMPRIMENTO 0,5 M, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364570,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 6 MM, COMPRIMENTO 0,5 M, APLICAÇÃO USINAGEM EM GERAL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364758,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL BRONZE FOSFOROSO, FORMATO REDONDO, DIÂMETRO 47,62 MM, COMPRIMENTO 500 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 366094,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL BRONZE, FORMATO CILÍNDRICO, DIÂMETRO 1 1/4 POL, COMPRIMENTO 2,20 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 366124,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL BRONZE, FORMATO CILÍNDRICO, DIÂMETRO 1 POL, COMPRIMENTO 2,20 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 366142,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, DIÂMETRO 30 MM, COMPRIMENTO 300 MM, FORMATO SEÇÃO CILÍNDRICO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373235,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 130 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373806,
+    "Descrição do Item": "PÓ METÁLICO , COMPOSIÇÃO QUÍMICA WC-17CO, TAMANHO MÉDIO PARTÍCULAS -45 A +15 MICRONS, CARACTERÍSTICAS ADICIONAIS ESFÉRICA AGLOMERADA E SINTETIZADA",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "10926: PÓ METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373807,
+    "Descrição do Item": "PÓ METÁLICO , COMPOSIÇÃO QUÍMICA 75CR3C2 25NICR (20-20), TAMANHO MÉDIO PARTÍCULAS -45 A +15 MICRONS, CARACTERÍSTICAS ADICIONAIS ESFÉRICA AGLOMERADA E SINTETIZADA",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "10926: PÓ METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373852,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 1020, DIÂMETRO 1 1/4 POL, COMPRIMENTO 0,50 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374105,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 65 MM, COMPRIMENTO 500 MM, APLICAÇÃO CONFECÇÃO DE CADINHOS, APRESENTAÇÃO TARUGO USINADO, CARACTERÍSTICAS ADICIONAIS QUALIDADE 6503",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374923,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 1/2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 375874,
+    "Descrição do Item": "TARUGO , MATERIAL CELERON A BASE DE TECIDO DE ALGODÃO E RESINA, FORMATO REDONDO, DIÂMETRO 100 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 378073,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 1 1/2 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 378383,
+    "Descrição do Item": "TARUGO , MATERIAL ALUMÍNIO, FORMATO REDONDO, DIÂMETRO 10 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 384006,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 0,5 MM, APLICAÇÃO LAPISEIRA, CARACTERÍSTICAS ADICIONAIS TIPO: 2B",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 387217,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , TIPO CA-50, DIÂMETRO 4,2 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 391060,
+    "Descrição do Item": "CALCÁRIO DOLOMITICO , ASPECTO FÍSICO PÓ, COMPOSIÇÃO PRNT ACIMA DE 80%",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "15160: CALCÁRIO DOLOMITICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 395267,
+    "Descrição do Item": "CHUMBO , ASPECTO FÍSICO SÓLIDO, APRESENTAÇÃO FITA, LARGURA 3,50 CM, ESPESSURA 3 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9610: MINÉRIOS",
+    "PDM": "04971: CHUMBO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 395551,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 0,9 MM, APLICAÇÃO LAPISEIRA, CARACTERÍSTICAS ADICIONAIS TIPO: 2B",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 397355,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO INOXIDÁVEL 304, DIÂMETRO 1 POL, COMPRIMENTO 1 M, CARACTERÍSTICAS ADICIONAIS TREFILADO, FORMATO REDONDO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 397356,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO INOXIDÁVEL 304, DIÂMETRO 1 1/2 POL, COMPRIMENTO 1 M, CARACTERÍSTICAS ADICIONAIS TREFILADO, FORMATO REDONDO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 397357,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO INOXIDÁVEL 304, DIÂMETRO 2 POL, COMPRIMENTO 1 M, CARACTERÍSTICAS ADICIONAIS TREFILADO, FORMATO REDONDO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 397482,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO INOXIDÁVEL 304, DIÂMETRO 3/4 POL, COMPRIMENTO 1 M, CARACTERÍSTICAS ADICIONAIS TREFILADO, FORMATO REDONDO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 401260,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO SEXTAVADO, DIÂMETRO 1 1/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 401741,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 1 POL, COMPRIMENTO 1500 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 402207,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO INOXIDÁVEL 304, DIÂMETRO 6 MM, COMPRIMENTO 3,50 M, CARACTERÍSTICAS ADICIONAIS TREFILADO, FORMATO REDONDO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 402221,
+    "Descrição do Item": "CALCÁRIO DOLOMITICO , ASPECTO FÍSICO PÓ, COR BRANCA, COMPOSIÇÃO 30,3% CACO3, 22,4% MGCO3, PRNT > 95%, PN > 109%, USO CORREÇÃO ACIDEZ DO SOLO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "15160: CALCÁRIO DOLOMITICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 402953,
+    "Descrição do Item": "CALCÁRIO DOLOMITICO , ASPECTO FÍSICO PÓ, COMPOSIÇÃO PRNT MÍNIMO DE 90%",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "15160: CALCÁRIO DOLOMITICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 406461,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 1045, DIÂMETRO 4 POL, COMPRIMENTO 500 MM, FORMATO REDONDO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 406462,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 1045, DIÂMETRO 2 1/4 POL, COMPRIMENTO 500 MM, FORMATO REDONDO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 417035,
+    "Descrição do Item": "FERRO CONSTRUÇÃO CIVIL , TIPO CA-50, DIÂMETRO 8 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "07396: FERRO CONSTRUÇÃO CIVIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 423325,
+    "Descrição do Item": "CALCÁRIO DOLOMITICO , ASPECTO FÍSICO PÓ, COMPOSIÇÃO PRNT MÍNIMO DE 80%",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "15160: CALCÁRIO DOLOMITICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 424074,
+    "Descrição do Item": "LIGA METÁLICA , COMPOSIÇÃO LIGA DE OURO E ALUMÍNIO, CONCENTRAÇÃO NA PROPORÇÃO DE 1/99, FORMA FÍSICA EM FIO",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9630: ADITIVOS METÁLICOS E LIGAS BÁSICAS",
+    "PDM": "19378: LIGA METÁLICA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 424075,
+    "Descrição do Item": "LIGA METÁLICA , COMPOSIÇÃO LIGA DE OURO E ALUMÍNIO, CONCENTRAÇÃO NA PROPORÇÃO DE 1/99, FORMA FÍSICA EM FOLHA",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9630: ADITIVOS METÁLICOS E LIGAS BÁSICAS",
+    "PDM": "19378: LIGA METÁLICA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 428907,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, FORMATO REDONDO, DIÂMETRO 22 MM, COMPRIMENTO 5 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 429220,
+    "Descrição do Item": "GRAFITE , DIÂMETRO 0,03 MM, APLICAÇÃO LAPISEIRA",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "08053: GRAFITE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430551,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 4340, DIÂMETRO 7/8 POL, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430552,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 4340, DIÂMETRO 9,52 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430553,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 4340, DIÂMETRO 5/8 POL, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430554,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO SAE 4340, DIÂMETRO 3/8 POL, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430950,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL BRONZE FOSFOROSO, DIÂMETRO 12,70 MM, COMPRIMENTO 500 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430951,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL BRONZE FOSFOROSO, DIÂMETRO 19,50 MM, COMPRIMENTO 500 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430952,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL BRONZE FOSFOROSO, DIÂMETRO 25,40 MM, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430953,
+    "Descrição do Item": "TARUGO , MATERIAL BRONZE FOSFOROSO, DIÂMETRO 25,4 MM, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430955,
+    "Descrição do Item": "TARUGO , MATERIAL CELERON, DIÂMETRO 6,35 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430956,
+    "Descrição do Item": "TARUGO , MATERIAL CELERON, DIÂMETRO 12,70 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430957,
+    "Descrição do Item": "TARUGO , MATERIAL CELERON, DIÂMETRO 19,05 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430958,
+    "Descrição do Item": "TARUGO , MATERIAL CELERON, DIÂMETRO 31,80 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430959,
+    "Descrição do Item": "TARUGO , MATERIAL NÁILON, DIÂMETRO 5/8 POL, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430960,
+    "Descrição do Item": "TARUGO , MATERIAL NÁILON, DIÂMETRO 1/2 POL, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430961,
+    "Descrição do Item": "TARUGO , MATERIAL NÁILON, DIÂMETRO 1 POL, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430962,
+    "Descrição do Item": "TARUGO , MATERIAL NÁILON, DIÂMETRO 1 1/2 POL, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430963,
+    "Descrição do Item": "TARUGO , MATERIAL NÁILON, DIÂMETRO 2 POL, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430964,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, DIÂMETRO 7/8 POL, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430965,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, DIÂMETRO 5/8 POL, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430966,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, DIÂMETRO 3/8 POL, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430967,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, DIÂMETRO 3/4 POL, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430968,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, DIÂMETRO 1/2 POL, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430969,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, DIÂMETRO 1 POL, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430970,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, DIÂMETRO 1 1/2 POL, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 430971,
+    "Descrição do Item": "TARUGO , MATERIAL TEFLON, DIÂMETRO 2 POL, COMPRIMENTO 300 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431000,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO SAE 4340, FORMATO REDONDO, DIÂMETRO 31,75 MM, COMPRIMENTO 6000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431001,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO SAE 4340, FORMATO REDONDO, DIÂMETRO 1 POL, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431002,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO SAE 4340, FORMATO REDONDO, DIÂMETRO 1 1/2 POL, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431003,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO SAE 4340, FORMATO REDONDO, DIÂMETRO 2 POL, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431004,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO PRATA TUNGSTENADO, FORMATO REDONDO, DIÂMETRO 5 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431005,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO PRATA TUNGSTENADO, FORMATO REDONDO, DIÂMETRO 6 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431006,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO PRATA TUNGSTENADO, FORMATO REDONDO, DIÂMETRO 8 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431007,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO PRATA TUNGSTENADO, FORMATO REDONDO, DIÂMETRO 10 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431008,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO PRATA TUNGSTENADO, FORMATO REDONDO, DIÂMETRO 19 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431009,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO PRATA TUNGSTENADO, FORMATO REDONDO, DIÂMETRO 16 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431010,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO PRATA TUNGSTENADO, FORMATO REDONDO, DIÂMETRO 12 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431011,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO PRATA TUNGSTENADO, FORMATO REDONDO, DIÂMETRO 20 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431013,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO PRATA TUNGSTENADO, FORMATO REDONDO, DIÂMETRO 25 MM, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431162,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL BRONZE FOSFOROSO, FORMATO REDONDO, DIÂMETRO 9,20 MM, COMPRIMENTO 500 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431168,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL SILÍCIO GRÁU METALÚRGICO, FORMATO REDONDO, DIÂMETRO 4 POL, COMPRIMENTO 0,30 M",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431234,
+    "Descrição do Item": "TARUGO , MATERIAL BRONZE FÓSFORO, FORMATO REDONDO, DIÂMETRO 9,20 MM, COMPRIMENTO 500 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431873,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL AÇO INOXIDÁVEL AISI 1045, DIÂMETRO 2 1/2 POL, COMPRIMENTO 1.000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431902,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO INOX 4140, DIÂMETRO 1 1/4 POL, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431903,
+    "Descrição do Item": "TARUGO , MATERIAL AÇO INOX 4340, DIÂMETRO 1 1/4 POL, COMPRIMENTO 1000 MM",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 432874,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL BRONZE, FORMATO REDONDO, DIÂMETRO 1 3/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 432875,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL COBRE, FORMATO REDONDO, DIÂMETRO 1 3/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 432878,
+    "Descrição do Item": "TARUGO METÁLICO , MATERIAL COBRE, FORMATO QUADRADO, COMPRIMENTO 1 3/4 POL, LARGURA 1 3/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12559: TARUGO METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 432879,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO REDONDO, DIÂMETRO 1 3/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 432880,
+    "Descrição do Item": "TARUGO , MATERIAL LATÃO, FORMATO QUADRADO, COMPRIMENTO 1 3/4 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "14486: TARUGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 433253,
+    "Descrição do Item": "TARUGO DE AÇO , MATERIAL CROMO VANÁDIO, DIÂMETRO 5/8 POL",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "12556: TARUGO DE AÇO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 433421,
+    "Descrição do Item": "TERRA DIATOMÁCEA , ASPECTO FÍSICO PÓ, TIPO AREIA, COR BRANCA, COMPOSIÇÃO AL2O3 1,0%; CAO 6,73%; FE2O3 0,46%; NA2O+K2O 1,88%",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "15176: TERRA DIATOMÁCEA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 438765,
+    "Descrição do Item": "LIGA METÁLICA , COMPOSIÇÃO LIGA DE ALUMíNIO-NÍQUEL, CONCENTRAÇÃO PUREZA MÍNIMA 99%, FORMA FÍSICA CATALIZADOR SÓLIDO COMPOSTO POR GRÃOS",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9630: ADITIVOS METÁLICOS E LIGAS BÁSICAS",
+    "PDM": "19378: LIGA METÁLICA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 439130,
+    "Descrição do Item": "PÓ METÁLICO , TIPO AÇO INOXIDÁVEL AISI 316L, COMPOSIÇÃO QUÍMICA 16-18% CR, 10.0-14.0% NI, 2.0-3.0% MO, 2.00% MAX,, CARACTERÍSTICAS ADICIONAIS ATOMIZADO A GÁS, NORMA TÉCNICA AISI 316L",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "10926: PÓ METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 439131,
+    "Descrição do Item": "PÓ METÁLICO , TIPO LIGA DE COBALTO-CROMO, COMPOSIÇÃO QUÍMICA BAL CO, 27.0-30.0% CR,5.0-7.0% MO,1.00% MAX MN,1%, TAMANHO MÉDIO PARTÍCULAS 15 A 45 MÍCRONS, CARACTERÍSTICAS ADICIONAIS ATOMIZADO A GÁS",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9640: PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E DE AÇO",
+    "PDM": "10926: PÓ METÁLICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 445129,
+    "Descrição do Item": "ARGILA , COR VERMELHA",
+    "Grupo": "96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS",
+    "Classe": "9620: MINERAIS NATURAIS E SINTÉTICOS",
+    "PDM": "02986: ARGILA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  }
+]

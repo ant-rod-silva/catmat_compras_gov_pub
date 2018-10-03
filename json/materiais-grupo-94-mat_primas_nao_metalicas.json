@@ -1,0 +1,1064 @@
+[
+  {
+    "Código do Item": 1821,
+    "Descrição do Item": "ALGODAO EM ESTADO BRUTO , ALGODAO EM ESTADO BRUTO NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "02294: ALGODAO EM ESTADO BRUTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1880,
+    "Descrição do Item": "CAULE DE FUMO , CAULE DE FUMO NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "04707: CAULE DE FUMO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1902,
+    "Descrição do Item": "PENA , PENA NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9430: MATÉRIAS-PRIMAS DIVERSAS DE ORIGEM ANIMAL, NÃO COMESTÍVEIS",
+    "PDM": "10608: PENA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1929,
+    "Descrição do Item": "CRINA DE CAVALO , CRINA DE CAVALO NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9430: MATÉRIAS-PRIMAS DIVERSAS DE ORIGEM ANIMAL, NÃO COMESTÍVEIS",
+    "PDM": "05965: CRINA DE CAVALO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 15407,
+    "Descrição do Item": "SUCATA NAO METALICA EXCETO TEXTIL , SUCATA NAO METALICA EXCETO TEXTIL NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "12298: SUCATA NAO METALICA EXCETO TEXTIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 19500,
+    "Descrição do Item": "PENA BENEFICIADA , PENA BENEFICIADA NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9430: MATÉRIAS-PRIMAS DIVERSAS DE ORIGEM ANIMAL, NÃO COMESTÍVEIS",
+    "PDM": "10609: PENA BENEFICIADA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56715,
+    "Descrição do Item": "FIBRA VEGETAL / PIACAVA , FIBRA VEGETAL / PIACAVA NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "07415: FIBRA VEGETAL / PIACAVA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56740,
+    "Descrição do Item": "MATERIA PRIMA VEGETAL PARA FABRICAR PERFUME , MATERIA PRIMA VEGETAL PARA FABRICAR PERF NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "09435: MATERIA PRIMA VEGETAL PARA FABRICAR PERFUME",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56758,
+    "Descrição do Item": "TABACO NAO MANUFATURADO , TABACO NAO MANUFATURADO NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "12452: TABACO NAO MANUFATURADO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56766,
+    "Descrição do Item": "LÃ ANIMAL , LA ANIMAL NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "08584: LÃ ANIMAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56774,
+    "Descrição do Item": "SEDA DE ORIGEM ANIMAL , SEDA DE ORIGEM ANIMAL NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "11976: SEDA DE ORIGEM ANIMAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56782,
+    "Descrição do Item": "FIBRA TEXTIL LUSTROSA , FIBRA TEXTIL LUSTROSA NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "07414: FIBRA TEXTIL LUSTROSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56790,
+    "Descrição do Item": "SEDA ARTIFICIAL ( RAYON ) , SEDA ARTIFICIAL ( RAYON ) NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "11975: SEDA ARTIFICIAL ( RAYON )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56804,
+    "Descrição do Item": "FIBRA SINTÉTICA , FIBRA SINTETICA - NAILON ( NYLON ) NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "07413: FIBRA SINTÉTICA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56812,
+    "Descrição do Item": "PENUGEM EM ESTADO NATURAL , PENUGEM EM ESTADO NATURAL NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9430: MATÉRIAS-PRIMAS DIVERSAS DE ORIGEM ANIMAL, NÃO COMESTÍVEIS",
+    "PDM": "10635: PENUGEM EM ESTADO NATURAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56820,
+    "Descrição do Item": "MARFIM , MARFIM NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9430: MATÉRIAS-PRIMAS DIVERSAS DE ORIGEM ANIMAL, NÃO COMESTÍVEIS",
+    "PDM": "09379: MARFIM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56880,
+    "Descrição do Item": "BORRACHA IN NATURA , BORRACHA IN NATURA NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9440: MATÉRIAS-PRIMAS DIVERSAS, FLORESTAIS E AGRÍCOLAS",
+    "PDM": "03813: BORRACHA IN NATURA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 74730,
+    "Descrição do Item": "BÁLSAMO-DO-PERU , BALSAMO - DO - PERU NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "03263: BÁLSAMO-DO-PERU",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 74748,
+    "Descrição do Item": "BÁLSAMO - TRANQÜILO , BALSAMO - TRANQUILO NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "03264: BÁLSAMO - TRANQÜILO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 74756,
+    "Descrição do Item": "BÁLSAMO - DE - TOLÚ , BALSAMO - DE - TOLU NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "03261: BÁLSAMO - DE - TOLÚ",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 93467,
+    "Descrição do Item": "PLÁSTICO , PLASTICO RECICLAVEL NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 99775,
+    "Descrição do Item": "BOBINA DE POLIETILENO , BOBINA DE POLIETILENO ( PE ) NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "03640: BOBINA DE POLIETILENO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 104639,
+    "Descrição do Item": "CÁPSULA GELATINOSA , CAPSULA GELATINOSA NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 105023,
+    "Descrição do Item": "ALGODAO EM FARDO , ALGODAO EM FARDO NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "02295: ALGODAO EM FARDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 109096,
+    "Descrição do Item": "MADEIRA - TORA , MADEIRA - TORA NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9440: MATÉRIAS-PRIMAS DIVERSAS, FLORESTAIS E AGRÍCOLAS",
+    "PDM": "09009: MADEIRA - TORA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 111678,
+    "Descrição do Item": "LATEX DE BORRACHA , LATEX DE BORRACHA NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9440: MATÉRIAS-PRIMAS DIVERSAS, FLORESTAIS E AGRÍCOLAS",
+    "PDM": "08733: LATEX DE BORRACHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 111724,
+    "Descrição do Item": "BORRACHA IN NATURA - BENEFICIADA , BORRACHA IN NATURA - BENEFICIADA NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9440: MATÉRIAS-PRIMAS DIVERSAS, FLORESTAIS E AGRÍCOLAS",
+    "PDM": "03814: BORRACHA IN NATURA - BENEFICIADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 126500,
+    "Descrição do Item": "POLEN , POLEN NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "10946: POLEN",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150488,
+    "Descrição do Item": "PÓ DE BORRACHA , PÓ DE BORRACHA NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9440: MATÉRIAS-PRIMAS DIVERSAS, FLORESTAIS E AGRÍCOLAS",
+    "PDM": "19118: PÓ DE BORRACHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150847,
+    "Descrição do Item": "FIBRA SINTÉTICA , FIBRA SINTÉTICA NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "07413: FIBRA SINTÉTICA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150879,
+    "Descrição do Item": "PLÁSTICO , PLÁSTICO NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 199410,
+    "Descrição do Item": "MATÉRIAS-PRIMAS DE ORIGEM VEGETAL , MATÉRIAS-PRIMAS DE ORIGEM VEGETAL NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "17321: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 199420,
+    "Descrição do Item": "FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS , FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "17322: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 199430,
+    "Descrição do Item": "MATÉRIAS-PRIMAS DIVERSAS DE ORIGEM ANIMAL, NÃO COMESTÍVEIS , MATÉRIAS-PRIMAS DIVERSAS DE ORIGEM ANIMA NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9430: MATÉRIAS-PRIMAS DIVERSAS DE ORIGEM ANIMAL, NÃO COMESTÍVEIS",
+    "PDM": "17323: MATÉRIAS-PRIMAS DIVERSAS DE ORIGEM ANIMAL, NÃO COMESTÍVEIS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 199440,
+    "Descrição do Item": "MATÉRIAS-PRIMAS DIVERSAS, FLORESTAIS E AGRÍCOLAS , MATÉRIAS-PRIMAS DIVERSAS, FLORESTAIS E A NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9440: MATÉRIAS-PRIMAS DIVERSAS, FLORESTAIS E AGRÍCOLAS",
+    "PDM": "17324: MATÉRIAS-PRIMAS DIVERSAS, FLORESTAIS E AGRÍCOLAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 199450,
+    "Descrição do Item": "RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS , RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEI NOME",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "17325: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227477,
+    "Descrição do Item": "POLVAROMA , APRESENTAÇÃO GRANEL, TIPO USO MATÉRIA PRIMA PARA USO FARMACÊUTICO, SABOR LARANJA, SOLUBILIDADE SOLÚVEL ÁGUA/PARCIALMENTE SOLÚVEL CLOROFÓRMIO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "13805: POLVAROMA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227478,
+    "Descrição do Item": "POLVAROMA , APRESENTAÇÃO GRANEL, TIPO USO MATÉRIA PRIMA PARA USO FARMACÊUTICO, SABOR MORANGO, SOLUBILIDADE SOLÚVEL ÁGUA/PARCIALMENTE SOLÚVEL CLOROFÓRMIO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "13805: POLVAROMA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227479,
+    "Descrição do Item": "POLVAROMA , APRESENTAÇÃO GRANEL, TIPO USO MATÉRIA PRIMA PARA USO FARMACÊUTICO, SABOR ABACAXI, SOLUBILIDADE SOLÚVEL ÁGUA/PARCIALMENTE SOLÚVEL CLOROFÓRMIO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "13805: POLVAROMA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227480,
+    "Descrição do Item": "POLVAROMA , APRESENTAÇÃO GRANEL, TIPO USO MATÉRIA PRIMA PARA USO FARMACÊUTICO, SABOR BANANA, SOLUBILIDADE SOLÚVEL ÁGUA/PARCIALMENTE SOLÚVEL CLOROFÓRMIO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "13805: POLVAROMA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 251197,
+    "Descrição do Item": "POLVAROMA , APRESENTAÇÃO PÓ AMRELADO, SABOR LARANJA, APLICAÇÃO FABRICAÇÃO DE MEDICAMENTO DE USO HUMANO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "13805: POLVAROMA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 255835,
+    "Descrição do Item": "POLIDIETANOLAMIDA , ASPECTO FÍSICO LÍQUIDO VISCOSO, COR AMARELA, TIPO USO MATÉRIA-PRIMA UTILIZADA COMO COMPONENTE NA FABRICA, CARACTERÍSTICAS ADICIONAIS EXTRAÍDO DO ÁCIDO GRAXO DO COCO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "16494: POLIDIETANOLAMIDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257501,
+    "Descrição do Item": "PLÁSTICO , TIPO MATERIAL PLÁSTICO IMPERMEÁVEL, MATERIAL PLÁSTICO FILME DE PVC(POLÍMERO TERMOPLÁSTICO), ESPESSURA 0,10 MM, TRANSMITÂNCIA OPACO, COR BRANCA, LARGURA 1,40 M, TIPO USO HOSPITALAR, APLICAÇÃO REVESTIMENTO DE COLCHÕES E TRAVESSEIROS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257502,
+    "Descrição do Item": "PLÁSTICO , TIPO MATERIAL PLÁSTICO PERFUMADO, MATERIAL PLÁSTICO FILME DE PVC(POLÍMERO TERMOPLÁSTICO), ESPESSURA 0,08 MM, TRANSMITÂNCIA OPACO, LARGURA 1,40 M, TIPO USO HOSPITALAR, APLICAÇÃO CONFECÇÃO DE CAPAS PARA COLHÃO PIRAMIDAL",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 259704,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 50 M, TIPO MATERIAL PLÁSTICO IMPERMEÁVEL, TRANSMITÂNCIA TRANSPARENTE, COR INCOLOR, LARGURA 46 CM, APLICAÇÃO PROTEÇÃO SUPERFÍCIES E OBJETOS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267156,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 100 M, MATERIAL LISOLENE, COR BRANCA, LARGURA 1,40 M, TIPO USO DECORAÇÃO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267288,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 50 M, TIPO MATERIAL PLÁSTICO IMPERMEÁVEL, TRANSMITÂNCIA TRANSPARENTE, COR INCOLOR, LARGURA 1,40 M, APLICAÇÃO PROTEÇÃO SUPERFÍCIES E OBJETOS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267608,
+    "Descrição do Item": "BOBINA DE POLIETILENO , COR BRANCA, ESPESSURA 0,6 CM, COMPRIMENTO 50 M",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "03640: BOBINA DE POLIETILENO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267886,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 100 M, MATERIAL LISOLENE, COR AMARELO CLARO, LARGURA 1,40 M, TIPO USO DECORAÇÃO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 272263,
+    "Descrição do Item": "CÁPSULA GELATINOSA , MATERIAL GELATINA, CAPACIDADE 500 MG, COMPRIMENTO 2,3 CM, COR AZUL, APLICAÇÃO MEDICAMENTO, USO LABORATÓRIO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 272374,
+    "Descrição do Item": "CÁPSULA GELATINOSA , MATERIAL GELATINA, CAPACIDADE 400 MG, COMPRIMENTO 2,00 CM, COR AZUL, APLICAÇÃO MEDICAMENTO, USO LABORATÓRIO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 272375,
+    "Descrição do Item": "CÁPSULA GELATINOSA , MATERIAL GELATINA, CAPACIDADE 300 MG, COMPRIMENTO 1,80 CM, COR AZUL, APLICAÇÃO MEDICAMENTO, USO LABORATÓRIO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 272376,
+    "Descrição do Item": "CÁPSULA GELATINOSA , MATERIAL GELATINA, CAPACIDADE 250 MG, COMPRIMENTO 1,70 CM, COR AZUL, APLICAÇÃO MEDICAMENTO, USO LABORATÓRIO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 272377,
+    "Descrição do Item": "CÁPSULA GELATINOSA , MATERIAL GELATINA, CAPACIDADE 180 MG, COMPRIMENTO 1,60 CM, COR AZUL, APLICAÇÃO MEDICAMENTO, USO LABORATÓRIO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 273754,
+    "Descrição do Item": "PLÁSTICO , TAMANHO Nº 30, TIPO MATERIAL PLÁSTICO IMPERMEÁVEL, TRANSMITÂNCIA TRANSPARENTE, COR INCOLOR, LARGURA 1,40 M, APLICAÇÃO PROTEÇÃO SUPERFÍCIES E OBJETOS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 275968,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 70 M, MATERIAL PLÁSTICO TRANSPARENTE, ESPESSURA 0,60 MM, LARGURA 1,40 M, APLICAÇÃO TOLDO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 281468,
+    "Descrição do Item": "CÁPSULA GELATINOSA , CARACTERÍSTICAS ADICIONAIS Nº 1, TIPO SNAP-FIT, CAPACIDADE 0,5 ML, ASPECTO FÍSICO DURA COM DUPLO FECHAMENTO, SOLUBILIDADE INSOLÚVEL EM ÁGUA FRIA, ÁLCOOL ETÍLICO, CLOROFÓR-",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 281469,
+    "Descrição do Item": "CÁPSULA GELATINOSA , CARACTERÍSTICAS ADICIONAIS Nº 0, TIPO SNAP-FIT, CAPACIDADE 0,68 ML, ASPECTO FÍSICO DURA COM DUPLO FECHAMENTO, SOLUBILIDADE INSOLÚVEL EM ÁGUA FRIA, ÁLCOOL, CLOROFÓRMIO, SOLÚ-",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 281488,
+    "Descrição do Item": "BÁLSAMO - DE - TOLÚ , ASPECTO FÍSICO LÍQUIDO CASTANHO ESCURO, ODOR SEMELHANTE A CANELA,, ÍNDICE REFRAÇÃO 1.351 A 25 °C, SOLUBILIDADE SOLÚVEL EM ÁLCOOL; INSOLÚVEL EM ÁGUA",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "03261: BÁLSAMO - DE - TOLÚ",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282984,
+    "Descrição do Item": "CÁPSULA GELATINOSA , MATERIAL GELATINA, CAPACIDADE 200 MG, COMPRIMENTO 1,80 CM, COR AZUL, APLICAÇÃO MEDICAMENTO, USO LABORATÓRIO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291617,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 50 M, TIPO MATERIAL MANTA PLÁSTICA, COR VERDE, LARGURA 138 CM, TIPO USO REVESTIMENTO, APLICAÇÃO REVESTIMENTO CAPAS LIVROS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292821,
+    "Descrição do Item": "PLÁSTICO , ESPESSURA 0,10 MM, COR VERMELHO, LARGURA 1,40 M, TIPO USO MARCAÇÃO DE MUDAS, APLICAÇÃO CONFECÇÃO DE ETIQUETAS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292881,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 50 M, TIPO MATERIAL MANTA PLÁSTICA, COR BRANCA, LARGURA 138 CM, TIPO USO REVESTIMENTO, APLICAÇÃO CAPA DE LIVRO E PRANCHETA DE DESENHO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 300666,
+    "Descrição do Item": "PLÁSTICO , MATERIAL PLÁSTICO LEITOSO, ESPESSURA 0,20 MM, COR BRANCA, LARGURA 1,40 M, APLICAÇÃO PROTEÇÃO SUPERFÍCIES E OBJETOS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 308480,
+    "Descrição do Item": "MADEIRA - TORA , TIPO MADEIRA MAÇARANDUBA, COMPRIMENTO MÍNIMO DE 4,8 M, DIÂMETRO MÍNIMO DE 2 M, APLICAÇÃO ESTRUTURA EMBARCAÇÕES",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9440: MATÉRIAS-PRIMAS DIVERSAS, FLORESTAIS E AGRÍCOLAS",
+    "PDM": "09009: MADEIRA - TORA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 311003,
+    "Descrição do Item": "PLÁSTICO , TIPO MATERIAL PLÁSTICO IMPERMEÁVEL, ESPESSURA 1,50 MM, TRANSMITÂNCIA TRANSPARENTE, COR INCOLOR, LARGURA 2 M, APLICAÇÃO PROTEÇÃO SUPERFÍCIES E OBJETOS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 315531,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 50 M, TIPO MATERIAL MANTA PLÁSTICA, COR PRETA, LARGURA 138 CM, TIPO USO REVESTIMENTO, APLICAÇÃO REVESTIMENTO CAPAS LIVROS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 316240,
+    "Descrição do Item": "BORRACHA IN NATURA - BENEFICIADA , APRESENTAÇÃO TIRA ESPONJOSA, COMPRIMENTO 38,1 MM, LARGURA 19 MM, COR PRETA, APLICAÇÃO FABRICAÇÃO DE TAMPAS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9440: MATÉRIAS-PRIMAS DIVERSAS, FLORESTAIS E AGRÍCOLAS",
+    "PDM": "03814: BORRACHA IN NATURA - BENEFICIADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318434,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 50 M, TIPO MATERIAL MANTA PLÁSTICA, COR PRETA, LARGURA 1,38 CM, TIPO USO REVESTIMENTO, APLICAÇÃO REVESTIMENTO CAPAS LIVROS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318578,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 30 M, ESPESSURA 0,60 MM, TRANSMITÂNCIA TRANSPARENTE, LARGURA 1,40 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325823,
+    "Descrição do Item": "TURFA , ASPECTO FÍSICO PÓ GRANULADO, COMPOSIÇÃO MUSGO NATURAL, COR MARROM ESCURO, APLICAÇÃO ABSORÇÃO ÓLEO E HIDROCARBONETOS, CARACTERÍSTICAS ADICIONAIS TRITURADA, SECA E DESIDRATADA PROCESSO INDUSTRIAL",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "18907: TURFA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 329241,
+    "Descrição do Item": "BORRACHA IN NATURA - BENEFICIADA , APRESENTAÇÃO TIRA ESPONJOSA, COMPRIMENTO 12,70 MM, LARGURA 9,50 MM, COR PRETA, APLICAÇÃO REPARO DE VIGIAS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9440: MATÉRIAS-PRIMAS DIVERSAS, FLORESTAIS E AGRÍCOLAS",
+    "PDM": "03814: BORRACHA IN NATURA - BENEFICIADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 330583,
+    "Descrição do Item": "BÁLSAMO - TRANQÜILO , COMPOSIÇÃO ÓLEO DE MEIMENDRO COMPOSTO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "03264: BÁLSAMO - TRANQÜILO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 330588,
+    "Descrição do Item": "BÁLSAMO-DO-PERU , COMPOSIÇÃO ÓLEO ESSENCIAL CINAMEINA, RESINA ESCURA E PERUVIOL, ASPECTO FÍSICO LÍQUIDO OLEOSO, COMPONENTES COMPOSTO DE BENZOATO E CINAMATO DE BENZOÍLA, OUTROS COMPONENTES ALÉM DE ÉSTERES DO ÁCIDO CINÂMICO E BENZÓICO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "03263: BÁLSAMO-DO-PERU",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339441,
+    "Descrição do Item": "TURFA , ASPECTO FÍSICO PÓ GRANULADO, COMPOSIÇÃO MUSGO NATURAL, COR MARROM, APLICAÇÃO ABSORÇÃO ÓLEO E HIDROCARBONETOS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9410: MATÉRIAS-PRIMAS DE ORIGEM VEGETAL",
+    "PDM": "18907: TURFA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339709,
+    "Descrição do Item": "BORRACHA IN NATURA - BENEFICIADA , APRESENTAÇÃO MANTA, COMPRIMENTO 1.610 MM, LARGURA 800 MM, COR PRETA, APLICAÇÃO PROTEÇÃO DE BANCADA ELETRÔNICA, ESPESSURA 3 MM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9440: MATÉRIAS-PRIMAS DIVERSAS, FLORESTAIS E AGRÍCOLAS",
+    "PDM": "03814: BORRACHA IN NATURA - BENEFICIADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 343654,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 1,60 M, TIPO MATERIAL PLÁSTICO IMPERMEÁVEL, TRANSMITÂNCIA TRANSPARENTE, COR INCOLOR, LARGURA 1,30 M, APLICAÇÃO PROTEÇÃO SUPERFÍCIES E OBJETOS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 372498,
+    "Descrição do Item": "CÁPSULA GELATINOSA , CARACTERÍSTICAS ADICIONAIS FECHAMENTO CONI-SNAP, CAPACIDADE 150 A 300 MG, COMPRIMENTO 1,70 CM, APLICAÇÃO MEDICAMENTO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 372971,
+    "Descrição do Item": "CÁPSULA GELATINOSA , CARACTERÍSTICAS ADICIONAIS Nº 00, TIPO SNAP-FIT, CAPACIDADE 0,95 ML, ASPECTO FÍSICO DURA COM DUPLO FECHAMENTO, SOLUBILIDADE INSOLÚVEL EM ÁGUA FRIA, ÁLCOOL, CLOROFÓRMIO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 372972,
+    "Descrição do Item": "CÁPSULA GELATINOSA , CARACTERÍSTICAS ADICIONAIS Nº 4, TIPO SNAP-FIT, CAPACIDADE 0,21 ML, ASPECTO FÍSICO DURA COM DUPLO FECHAMENTO, SOLUBILIDADE INSOLÚVEL EM ÁGUA FRIA, ÁLCOOL, CLOROFÓRMIO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 372973,
+    "Descrição do Item": "CÁPSULA GELATINOSA , CARACTERÍSTICAS ADICIONAIS Nº 3, TIPO SNAP-FIT, CAPACIDADE 0,30 ML, ASPECTO FÍSICO DURA COM DUPLO FECHAMENTO, SOLUBILIDADE INSOLÚVEL EM ÁGUA FRIA, ÁLCOOL, CLOROFÓRMIO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 372974,
+    "Descrição do Item": "CÁPSULA GELATINOSA , CARACTERÍSTICAS ADICIONAIS Nº 2, TIPO SNAP-FIT, CAPACIDADE 0,37 ML, ASPECTO FÍSICO DURA COM DUPLO FECHAMENTO, SOLUBILIDADE INSOLÚVEL EM ÁGUA FRIA, ÁLCOOL, CLOROFÓRMIO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 381283,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 55 CM, MATERIAL POLIETILENO, TRANSMITÂNCIA TRANSPARENTE, COR INCOLOR, LARGURA 46 CM, TIPO USO EMBALAGEM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 387148,
+    "Descrição do Item": "PLÁSTICO , MATERIAL PLÁSTICO TUBULAR, ESPESSURA 0,30 MM, TRANSMITÂNCIA TRANSPARENTE, COR INCOLOR, LARGURA 1 M",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 387202,
+    "Descrição do Item": "PLÁSTICO , MATERIAL PLÁSTICO TUBULAR, ESPESSURA 0,30 MM, TRANSMITÂNCIA TRANSPARENTE, COR PRETA, LARGURA 1 M",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 387227,
+    "Descrição do Item": "PLÁSTICO , MATERIAL PLÁSTICO TUBULAR, ESPESSURA 0,30 MM, TRANSMITÂNCIA TRANSPARENTE, COR INCOLOR, LARGURA 1,20 M",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 387228,
+    "Descrição do Item": "PLÁSTICO , MATERIAL PLÁSTICO TUBULAR, ESPESSURA 0,30 MM, TRANSMITÂNCIA TRANSPARENTE, COR INCOLOR, LARGURA 1,40 M",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 387229,
+    "Descrição do Item": "PLÁSTICO , MATERIAL PLÁSTICO TUBULAR, ESPESSURA 0,30 MM, TRANSMITÂNCIA TRANSPARENTE, COR INCOLOR, LARGURA 0,20 M",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 387246,
+    "Descrição do Item": "PLÁSTICO , MATERIAL PLÁSTICO TUBULAR IMPERMEÁVEL, ESPESSURA 0,30 MM, TRANSMITÂNCIA TRANSPARENTE, COR INCOLOR, LARGURA 0,40 M",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 387247,
+    "Descrição do Item": "PLÁSTICO , MATERIAL PLÁSTICO TUBULAR IMPERMEÁVEL, ESPESSURA 0,30 MM, TRANSMITÂNCIA TRANSPARENTE, COR INCOLOR, LARGURA 0,60 M",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 387248,
+    "Descrição do Item": "PLÁSTICO , MATERIAL PLÁSTICO TUBULAR IMPERMEÁVEL, ESPESSURA 0,30 MM, TRANSMITÂNCIA TRANSPARENTE, COR INCOLOR, LARGURA 0,80 M",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 395735,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 70 CM, CARACTERÍSTICAS ADICIONAIS COM DESENHO TIPO RENDA, COR BRANCA, LARGURA 45 CM, TIPO USO REVESTIMENTO, APLICAÇÃO FORRO PARA CARRINHO DE SERVIÇO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 396797,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 2 M, CARACTERÍSTICAS ADICIONAIS COMPOSIÇÃO:POLIETILENO,POLIPROPILENO,FIBRA NATURAL, MATERIAL PLÁSTICO RECICLADO, ESPESSURA 100 MM, COR NOGUEIRA, LARGURA 10 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 396798,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 4 M, CARACTERÍSTICAS ADICIONAIS COMPOSIÇÃO:POLIETILENO,POLIPROPILENO,FIBRA NATURAL, MATERIAL PLÁSTICO RECICLADO, ESPESSURA 25 MM, COR NOGUEIRA, LARGURA 30 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 396799,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 4 M, CARACTERÍSTICAS ADICIONAIS COMPOSIÇÃO:POLIETILENO,POLIPROPILENO,FIBRA NATURAL, MATERIAL PLÁSTICO RECICLADO, ESPESSURA 25 MM, COR NOGUEIRA, LARGURA 10 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 396800,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 3,50 M, CARACTERÍSTICAS ADICIONAIS COMPOSIÇÃO:POLIETILENO,POLIPROPILENO,FIBRA NATURAL, MATERIAL PLÁSTICO RECICLADO, ESPESSURA 25 MM, COR NOGUEIRA, LARGURA 10 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 396801,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 3,33 M, CARACTERÍSTICAS ADICIONAIS COMPOSIÇÃO:POLIETILENO,POLIPROPILENO,FIBRA NATURAL, MATERIAL PLÁSTICO RECICLADO, ESPESSURA 30 MM, COR PRETA, LARGURA 10 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 396806,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 4 M, CARACTERÍSTICAS ADICIONAIS COMPOSIÇÃO POLIETILENO,POLIPROPILENO,FIBRA NATURAL, MATERIAL PLÁSTICO RECICLADO, ESPESSURA 25 MM, COR NOGUEIRA, LARGURA 30 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 396807,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 3,50 M, CARACTERÍSTICAS ADICIONAIS COMPOSIÇÃO POLIETILENO,POLIPROPILENO,FIBRA NATURAL, MATERIAL PLÁSTICO RECICLADO, ESPESSURA 25 MM, COR NOGUEIRA, LARGURA 10 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 396894,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 41 CM, CARACTERÍSTICAS ADICIONAIS COMPOSIÇÃO:POLIETILENO,POLIPROPILENO,FIBRA NATURAL, MATERIAL PLÁSTICO RECICLADO, ESPESSURA 30 MM, COR NOGUEIRA, LARGURA 30 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 396910,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 3,40 M, CARACTERÍSTICAS ADICIONAIS COMPOSIÇÃO POLIETILENO,POLIPROPILENO,FIBRA NATURAL, MATERIAL PLÁSTICO RECICLADO, ESPESSURA 50 MM, COR VERDE, LARGURA 27 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 396911,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 4 M, CARACTERÍSTICAS ADICIONAIS COMPOSIÇÃO POLIETILENO,POLIPROPILENO,FIBRA NATURAL, MATERIAL PLÁSTICO RECICLADO, ESPESSURA 50 MM, COR VERDE, LARGURA 27 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 396912,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 4 M, CARACTERÍSTICAS ADICIONAIS COMPOSIÇÃO POLIETILENO,POLIPROPILENO,FIBRA NATURAL, MATERIAL PLÁSTICO RECICLADO, ESPESSURA 30 MM, COR NOGUEIRA, LARGURA 14 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 396917,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 5 M, CARACTERÍSTICAS ADICIONAIS COMPOSIÇÃO POLIETILENO,POLIPROPILENO,FIBRA NATURAL, MATERIAL PLÁSTICO RECICLADO, ESPESSURA 30 MM, COR NOGUEIRA, LARGURA 30 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 396918,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 2 M, CARACTERÍSTICAS ADICIONAIS COMPOSIÇÃO POLIETILENO,POLIPROPILENO,FIBRA NATURAL, MATERIAL PLÁSTICO RECICLADO, ESPESSURA 30 MM, COR NOGUEIRA, LARGURA 30 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 396930,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 40 CM, CARACTERÍSTICAS ADICIONAIS COMPOSIÇÃO POLIETILENO,POLIPROPILENO,FIBRA NATURAL, MATERIAL PLÁSTICO RECICLADO, ESPESSURA 30 MM, COR NOGUEIRA, LARGURA 30 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 399645,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 1 M, MATERIAL VINIL, TRANSMITÂNCIA TRANSPARENTE, COR INCOLOR, LARGURA 1 M",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 400508,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 50 M, MATERIAL MANTA PLÁSTICA, COR VERDE CLARO, LARGURA 138 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 400509,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 50 M, MATERIAL MANTA PLÁSTICA, COR AZUL CLARO, LARGURA 138 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 403968,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 11 MM, MATERIAL POLIURETANO, LARGURA 11 MM, APLICAÇÃO MÁQUINA SELADORA",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 406836,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 50 M, COR PRETA, LARGURA 138 CM, APLICAÇÃO REVESTIMENTO CAPAS LIVROS",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 440659,
+    "Descrição do Item": "PLÁSTICO , MATERIAL LISOLENE, ESPESSURA 0,10 MM, COR VARIADA, LARGURA 1,38 M",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 440660,
+    "Descrição do Item": "PLÁSTICO , MATERIAL LISOLENE, ESPESSURA 0,20 MM, COR VARIADA, LARGURA 1,38 M",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 444519,
+    "Descrição do Item": "CÁPSULA GELATINOSA , CARACTERÍSTICAS ADICIONAIS CONFORME MODELO DO ÓRGÃO, MATERIAL POLIETILENO, CAPACIDADE 1 G, COMPRIMENTO 18 MM, APLICAÇÃO MEDICAMENTO, ASPECTO FÍSICO GELATINOSA",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 445178,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 0,60 CM, MATERIAL ACETATO, ESPESSURA 0,25 MM, TRANSMITÂNCIA TRANSPARENTE, LARGURA 0,60 CM",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 445254,
+    "Descrição do Item": "PLÁSTICO , COMPRIMENTO 60 CM, MATERIAL ACETATO, ESPESSURA 0,03 MM, TRANSMITÂNCIA TRANSPARENTE, LARGURA 60 CM, TIPO USO ARTESANATO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9450: RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS",
+    "PDM": "10893: PLÁSTICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 445259,
+    "Descrição do Item": "CÁPSULA GELATINOSA , CAPACIDADE 0,30 ML, COMPRIMENTO 16,20 MM, COR, APLICAÇÃO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 445260,
+    "Descrição do Item": "CÁPSULA GELATINOSA , CAPACIDADE 0,21 ML, COMPRIMENTO MM, COR BRANCA OPACO, APLICAÇÃO",
+    "Grupo": "94: MATÉRIAS-PRIMAS NAO METÁLICAS",
+    "Classe": "9420: FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS",
+    "PDM": "04497: CÁPSULA GELATINOSA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  }
+]

@@ -1,0 +1,4502 @@
+[
+  {
+    "Código do Item": 4987,
+    "Descrição do Item": "PERFUME , PERFUME NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "10663: PERFUME",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5037,
+    "Descrição do Item": "CREME DE BARBA , CREME DE BARBA NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "05959: CREME DE BARBA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5045,
+    "Descrição do Item": "TALCO PARA BARBA , TALCO PARA BARBA NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "12489: TALCO PARA BARBA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5053,
+    "Descrição do Item": "PREPARADO PARA BARBA , PREPARADO PARA BARBA NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11199: PREPARADO PARA BARBA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5061,
+    "Descrição do Item": "DENTIFRÍCIO , DENTIFRICIO ( CREME / PASTA DE DENTE ) NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "06061: DENTIFRÍCIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5070,
+    "Descrição do Item": "ESMALTE DE UNHA , ESMALTE DE UNHA NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06970: ESMALTE DE UNHA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5088,
+    "Descrição do Item": "SABONETE , SABONETE NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5096,
+    "Descrição do Item": "FIO DENTAL , FIO DENTAL NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5100,
+    "Descrição do Item": "ESCOVA CABELO , ESCOVA DE CABELO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06938: ESCOVA CABELO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5126,
+    "Descrição do Item": "ESCOVA DENTAL , ESCOVA DE DENTE NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5142,
+    "Descrição do Item": "LIMA UNHA , LIMA PARA UNHA NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "08839: LIMA UNHA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5169,
+    "Descrição do Item": "ALICATE PARA CUTICULA , ALICATE PARA CUTICULA NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02316: ALICATE PARA CUTICULA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5177,
+    "Descrição do Item": "PENTE DE CABELO , PENTE DE CABELO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10630: PENTE DE CABELO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5193,
+    "Descrição do Item": "LÂMINA BARBEAR , LAMINA DE BARBEAR NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "08612: LÂMINA BARBEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5207,
+    "Descrição do Item": "APARELHO BARBEAR DESCARTÁVEL , APARELHO PARA BARBEAR DESCARTAVEL NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02821: APARELHO BARBEAR DESCARTÁVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5215,
+    "Descrição do Item": "DESODORANTE , DESODORANTE DE USO PESSOAL NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "06110: DESODORANTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5240,
+    "Descrição do Item": "TOALHA DE PAPEL , TOALHA PAPEL - MAO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5258,
+    "Descrição do Item": "LENCO DE PAPEL , LENCO DE PAPEL NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08768: LENCO DE PAPEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 5282,
+    "Descrição do Item": "PAPEL HIGIÊNICO , PAPEL HIGIENICO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 18767,
+    "Descrição do Item": "ESCOVA BANHO , ESCOVA DE BANHO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06937: ESCOVA BANHO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 19208,
+    "Descrição do Item": "LIXA UNHA , LIXA DE UNHA NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "08896: LIXA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 23167,
+    "Descrição do Item": "FIO DENTAL , FIO DENTAL 1 NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 27332,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , GUARDANAPO DE PAPEL NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 30384,
+    "Descrição do Item": "CAPA CORTE CABELO , ARTIGO DE HIGIENE PESSOAL NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "03071: CAPA CORTE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 30503,
+    "Descrição do Item": "ARTIGO DE TOUCADOR PARA EMBELEZAMENTO , ARTIGO DE TOUCADOR PARA EMBELEZAMENTO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "03076: ARTIGO DE TOUCADOR PARA EMBELEZAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 47961,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , ABSORVENTE HIGIENICO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 54941,
+    "Descrição do Item": "ESCOVA ROUPA , ESCOVA DE ROUPA NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06946: ESCOVA ROUPA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 55980,
+    "Descrição do Item": "CREME DEPILATORIO , CREME DEPILATORIO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "05960: CREME DEPILATORIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 55999,
+    "Descrição do Item": "COLÔNIA TOALETE , COLONIA DE TOALETE NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "05367: COLÔNIA TOALETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56006,
+    "Descrição do Item": "MAQUIAGEM , AGUA DE COLONIA NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "02160: MAQUIAGEM",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56014,
+    "Descrição do Item": "SABAO DE BARBA , SABAO DE BARBA NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11862: SABAO DE BARBA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56022,
+    "Descrição do Item": "ESCOVA UNHA , ESCOVA DE UNHAS NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06947: ESCOVA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56030,
+    "Descrição do Item": "ARTIGO DE MANICURE , ARTIGO DE MANICURE NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "03072: ARTIGO DE MANICURE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56049,
+    "Descrição do Item": "ARTIGO DE PEDICURE , ARTIGO DE PEDICURE NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "03073: ARTIGO DE PEDICURE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56065,
+    "Descrição do Item": "PAPEL DE USO EM ATIVIDADES DE TOUCADOR , PAPEL DE USO EM ATIVIDADES DE TOUCADOR NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10370: PAPEL DE USO EM ATIVIDADES DE TOUCADOR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56073,
+    "Descrição do Item": "PAPEL DE USO FACIAL , PAPEL DE USO FACIAL NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10371: PAPEL DE USO FACIAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 60615,
+    "Descrição do Item": "XAMPU , XAMPU NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "13484: XAMPU",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 61158,
+    "Descrição do Item": "TALCO DE TOUCADOR , TALCO DE TOUCADOR NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "12487: TALCO DE TOUCADOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 61697,
+    "Descrição do Item": "TOUCA BANHO , TOUCA DE BANHO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12849: TOUCA BANHO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 65447,
+    "Descrição do Item": "CONDICIONADOR CABELOS , CONDICIONADOR DE CABELO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "05541: CONDICIONADOR CABELOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 65455,
+    "Descrição do Item": "FITA DENTAL , FITA DENTAL NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07576: FITA DENTAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 65463,
+    "Descrição do Item": "ALICATE PARA CORTAR UNHA , ALICATE PARA CORTAR UNHA NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02315: ALICATE PARA CORTAR UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 65471,
+    "Descrição do Item": "TESOURA MANICURE , TESOURA - MANICURE NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12682: TESOURA MANICURE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 67270,
+    "Descrição do Item": "LOCAO DE BARBA , LOCAO DE BARBA NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "08900: LOCAO DE BARBA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 69868,
+    "Descrição do Item": "NAVALHA , NAVALHA DE BARBEAR NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10045: NAVALHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 71234,
+    "Descrição do Item": "GEL PARA TOUCADOR , GEL PARA TOUCADOR NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "07954: GEL PARA TOUCADOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 72400,
+    "Descrição do Item": "PINCEL , PINCEL DE BARBA NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10733: PINCEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 73733,
+    "Descrição do Item": "APARELHO DE BARBEAR ELETRICO , APARELHO DE BARBEAR ELETRICO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02678: APARELHO DE BARBEAR ELETRICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 74390,
+    "Descrição do Item": "ALICATE DE MANICURE , ALICATE DE MANICURE NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02310: ALICATE DE MANICURE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 74527,
+    "Descrição do Item": "APARELHO BARBEAR , APARELHO DE BARBEAR DE LAMINA DESCARTAVE NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02676: APARELHO BARBEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 75965,
+    "Descrição do Item": "APARELHO DE BARBEAR DESCARTAVEL , APARELHO DE BARBEAR DESCARTAVEL NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "02677: APARELHO DE BARBEAR DESCARTAVEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 98639,
+    "Descrição do Item": "SABONETE LÍQUIDO , SABONETE LIQUIDO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 98736,
+    "Descrição do Item": "CONJUNTO HIGIENE , CONJUNTO DE INSTRUMENTO / SUPRIMENTO ODO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "05729: CONJUNTO HIGIENE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 104450,
+    "Descrição do Item": "HASTE FLEXÍVEL , HASTE FLEXIVEL COM PONTA DE ALGODAO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "08178: HASTE FLEXÍVEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 104477,
+    "Descrição do Item": "LOCAO PARA LIMPEZA DE PELE , LOCAO PARA LIMPEZA DE PELE NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "08902: LOCAO PARA LIMPEZA DE PELE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 119938,
+    "Descrição do Item": "ROLO PARA CABELO , CONJUNTO ( KIT ) HIGIENE PESSOAL NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "05662: ROLO PARA CABELO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 131792,
+    "Descrição do Item": "TESOURA CORTE CABELO , TESOURA - CORTE DE CABELO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12681: TESOURA CORTE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 133000,
+    "Descrição do Item": "CHAPA ALISAR CABELO , CHAPA ALISAR CABELO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "04813: CHAPA ALISAR CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150224,
+    "Descrição do Item": "DESODORIZADOR SANITÁRIO , DESODORIZADOR SANITÁRIO NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "14305: DESODORIZADOR SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150694,
+    "Descrição do Item": "DESODORANTE , DESODORANTE NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "06110: DESODORANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150809,
+    "Descrição do Item": "CONJUNTO HIGIENE , CONJUNTO HIGIENE NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "05729: CONJUNTO HIGIENE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 151042,
+    "Descrição do Item": "LENÇO DESCARTÁVEL , LENÇO DESCARTÁVEL NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "15570: LENÇO DESCARTÁVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 151065,
+    "Descrição do Item": "HASTE FLEXÍVEL , HASTE FLEXÍVEL NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "08178: HASTE FLEXÍVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 151072,
+    "Descrição do Item": "MAQUIAGEM , MAQUIAGEM NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "02160: MAQUIAGEM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 198520,
+    "Descrição do Item": "SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS , SABONETES, ARTIGOS PARA BARBEAR E DENTIF NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "17286: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 198530,
+    "Descrição do Item": "ARTIGOS PARA HIGIENE PESSOAL , ARTIGOS PARA HIGIENE PESSOAL NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "17287: ARTIGOS PARA HIGIENE PESSOAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 198540,
+    "Descrição do Item": "ARTIGOS DE PAPEL PARA HIGIENE , ARTIGOS DE PAPEL PARA HIGIENE NOME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "17288: ARTIGOS DE PAPEL PARA HIGIENE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224564,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 14 CM, COMPRIMENTO 14 CM, COR BRANCA, TIPO FOLHAS DUPLA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224565,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 14 CM, COMPRIMENTO 14 CM, COR BRANCA, TIPO FOLHAS SIMPLES, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224567,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 22 CM, COMPRIMENTO 22 CM, COR BRANCA, TIPO FOLHAS DUPLA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224569,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 23,50 CM, COMPRIMENTO 23,50 CM, COR BRANCA, TIPO FOLHAS DUPLA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224570,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 33 CM, COMPRIMENTO 33 CM, COR BRANCA, TIPO FOLHAS DUPLA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224617,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA SIMPLES, QUANTIDADE TOALHA 60 UN, COMPRIMENTO 22 CM, LARGURA 20 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS COM DESENHOS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224618,
+    "Descrição do Item": "XAMPU , TIPO USO DIÁRIO, APRESENTAÇÃO XAMPU 1 X 1, APLICAÇÃO CABELOS NORMAIS, CARACTERÍSTICAS ADICIONAIS COM VITAMINA B5",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "13484: XAMPU",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224619,
+    "Descrição do Item": "XAMPU , TIPO USO DIÁRIO, APRESENTAÇÃO XAMPU 1 X 1, APLICAÇÃO CABELOS OLEOSOS, CARACTERÍSTICAS ADICIONAIS COM VITAMINA B5",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "13484: XAMPU",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224620,
+    "Descrição do Item": "XAMPU , TIPO USO DIÁRIO, APRESENTAÇÃO XAMPU 1 X 1, APLICAÇÃO CABELOS SECOS, CARACTERÍSTICAS ADICIONAIS COM VITAMINA B5",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "13484: XAMPU",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224621,
+    "Descrição do Item": "XAMPU , TIPO USO DIÁRIO, APRESENTAÇÃO XAMPU 1 X 1, APLICAÇÃO CABELOS PERMANENTES, CARACTERÍSTICAS ADICIONAIS COM VITAMINA B5",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "13484: XAMPU",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224622,
+    "Descrição do Item": "XAMPU , TIPO USO DIÁRIO, APRESENTAÇÃO XAMPU E CONDICIONAODR 2 X 1, APLICAÇÃO CABELOS NORMAIS, CARACTERÍSTICAS ADICIONAIS COM VITAMINA B5",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "13484: XAMPU",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224623,
+    "Descrição do Item": "XAMPU , TIPO USO DIÁRIO, APRESENTAÇÃO XAMPU E CONDICIONAODR 2 X 1, APLICAÇÃO CABELOS SECOS, CARACTERÍSTICAS ADICIONAIS COM VITAMINA B5",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "13484: XAMPU",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224624,
+    "Descrição do Item": "XAMPU , TIPO USO DIÁRIO, APRESENTAÇÃO XAMPU E CONDICIONAODR 2 X 1, APLICAÇÃO CABELOS PERMANENTES, CARACTERÍSTICAS ADICIONAIS COM VITAMINA B5",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "13484: XAMPU",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224625,
+    "Descrição do Item": "XAMPU , TIPO USO DIÁRIO, APRESENTAÇÃO XAMPU E CONDICIONAODR 2 X 1, APLICAÇÃO CABELOS OLEOSOS, CARACTERÍSTICAS ADICIONAIS COM VITAMINA B5",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "13484: XAMPU",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224638,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 30 M, LARGURA 10 CM, TIPO PICOTADO, QUANTIDADE FOLHAS DUPLA, COR BRANCA, CARACTERÍSTICAS ADICIONAIS COM PERFUME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224639,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 30 M, LARGURA 10 CM, TIPO PICOTADO, QUANTIDADE FOLHAS SIMPLES, COR BRANCA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224640,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 300 M, LARGURA 10 CM, TIPO GOFRADO, QUANTIDADE FOLHAS SIMPLES, COR BRANCA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224641,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 500 M, LARGURA 10 CM, TIPO LISO, QUANTIDADE FOLHAS SIMPLES, COR BRANCA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224642,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 800 M, LARGURA 10 CM, TIPO GOFRADO, QUANTIDADE FOLHAS SIMPLES, COR BRANCA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224643,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 0,214 M, LARGURA 11 CM, TIPO INTERCALADO, QUANTIDADE FOLHAS DUPLA, COR BRANCA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224644,
+    "Descrição do Item": "ALICATE DE MANICURE , MATERIAL AÇO CARBONO, TRATAMENTO SUPERFICIAL FORJADO E NIQUELADO, TIPO 4 1/8 POL, TAMANHO 10 CM, APLICAÇÃO CUTÍCULAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02310: ALICATE DE MANICURE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224645,
+    "Descrição do Item": "ALICATE DE MANICURE , MATERIAL AÇO CARBONO, TRATAMENTO SUPERFICIAL FORJADO E NIQUELADO, TIPO 4 1/8 POL, TAMANHO 10 CM, APLICAÇÃO UNHAS DAS MÃOS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02310: ALICATE DE MANICURE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224730,
+    "Descrição do Item": "PENTE DE CABELO , MATERIAL PLÁSTICO, MODELO COM CABO E DENTES, TAMANHO GRANDE, TIPO DENTES PRÓXIMOS, FINALIDADE ALISAR FIOS E COMBATER ELETRICIDADE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10630: PENTE DE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224731,
+    "Descrição do Item": "HASTE FLEXÍVEL , MATERIAL HASTE PLÁSTICO, TIPO HASTE COM RANHURAS, MATERIAL PONTA ALGODÃO, APLICAÇÃO HIGIENE PESSOAL, CARACTERÍSTICAS ADICIONAIS ALGODÃO COM TRATAMENTO ESPECIAL ANTIGERMES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "08178: HASTE FLEXÍVEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224732,
+    "Descrição do Item": "ESMALTE DE UNHA , TIPO TRATAMENTO, CAPACIDADE 14,70 ML, COR INCOLOR, CARACTERÍSTICAS ADICIONAIS BASE UNHAS FRACAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06970: ESMALTE DE UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224733,
+    "Descrição do Item": "ESMALTE DE UNHA , TIPO TRATAMENTO, CAPACIDADE 14,70 ML, COR INCOLOR, CARACTERÍSTICAS ADICIONAIS EXTRABRILHO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06970: ESMALTE DE UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224781,
+    "Descrição do Item": "FITA DENTAL , MATERIAL RESINA TERMOPLÁSTICA E CERA, FORMATO ACHATADO, COMPRIMENTO 50 M, MODELO COM ESSÊNCIA, APLICAÇÃO LIMPEZA ENTRE DENTES COM REMOÇÃO DE PLACAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07576: FITA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224782,
+    "Descrição do Item": "TOUCA BANHO , MATERIAL PLÁSTICO, TAMANHO GRANDE, TIPO DESCARTÁVEL, COR INCOLOR, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12849: TOUCA BANHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224783,
+    "Descrição do Item": "TOUCA BANHO , MATERIAL PLÁSTICO, TAMANHO MÉDIO, TIPO DESCARTÁVEL, COR INCOLOR, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12849: TOUCA BANHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224784,
+    "Descrição do Item": "TOUCA BANHO , MATERIAL PLÁSTICO, TAMANHO PEQUENO, TIPO DESCARTÁVEL, COR INCOLOR, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12849: TOUCA BANHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224785,
+    "Descrição do Item": "CONDICIONADOR CABELOS , TIPO USO DIÁRIO, APLICAÇÃO CABELOS NORMAIS, CARACTERÍSTICAS ADICIONAIS COM VITAMINA B5",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "05541: CONDICIONADOR CABELOS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224786,
+    "Descrição do Item": "CONDICIONADOR CABELOS , TIPO USO DIÁRIO, APLICAÇÃO CABELOS SECOS, CARACTERÍSTICAS ADICIONAIS COM VITAMINA B5",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "05541: CONDICIONADOR CABELOS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224787,
+    "Descrição do Item": "CONDICIONADOR CABELOS , TIPO USO DIÁRIO, APLICAÇÃO CABELOS COM PERMANENTE, CARACTERÍSTICAS ADICIONAIS COM VITAMINA B5",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "05541: CONDICIONADOR CABELOS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224788,
+    "Descrição do Item": "PINCEL , MATERIAL CABO PLÁSTICO, COR AZUL, TIPO CERDAS NATURAL, NÍVEL ESPUMA BAIXO, CARACTERÍSTICAS ADICIONAIS CERDAS MÉDIAS E NÃO IRRITA A PELE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10733: PINCEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224789,
+    "Descrição do Item": "PINCEL , MATERIAL CABO PLÁSTICO, COR MARROM, TIPO CERDAS NATURAL, NÍVEL ESPUMA BAIXO, CARACTERÍSTICAS ADICIONAIS CERDAS MÉDIAS E NÃO IRRITA A PELE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10733: PINCEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224790,
+    "Descrição do Item": "PINCEL , MATERIAL CABO PLÁSTICO, COR MARFIM, TIPO CERDAS NATURAL, NÍVEL ESPUMA BAIXO, CARACTERÍSTICAS ADICIONAIS CERDAS MÉDIAS E NÃO IRRITA A PELE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10733: PINCEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224791,
+    "Descrição do Item": "PINCEL , MATERIAL CABO PLÁSTICO, COR MARFIM, TIPO CERDAS NATURAL, NÍVEL ESPUMA MÉDIO, CARACTERÍSTICAS ADICIONAIS CERDAS MÉDIAS E NÃO IRRITA A PELE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10733: PINCEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224792,
+    "Descrição do Item": "APARELHO BARBEAR , TIPO LÂMINA DESCARTÁVEL, MATERIAL LÂMINA AÇO, TIPO LÂMINA NÃO APLICÁVEL, QUANTIDADE LÂMINAS 2 UN, MATERIAL CABO PLÁSTICO, TIPO CABO LONGO/ARREDONDADO E COM FRISOS, COR AZUL, CARACTERÍSTICAS ADICIONAIS FITA LUBRIFICANTE COR VERDE ENRIQUECIDA ALOE VERA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02676: APARELHO BARBEAR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224793,
+    "Descrição do Item": "APARELHO BARBEAR , TIPO LÂMINA DESCARTÁVEL, MATERIAL LÂMINA AÇO, TIPO LÂMINA FLUTUANTE, QUANTIDADE LÂMINAS 2 UN, MATERIAL CABO PLÁSTICO E METAL, TIPO CABO ANATÔMICO COM ESTRIAS DE BORRACHA, COR PRATA, CARACTERÍSTICAS ADICIONAIS COM FITA LUBRIFICANTE E MICROTENSORES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02676: APARELHO BARBEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224794,
+    "Descrição do Item": "APARELHO BARBEAR , TIPO APARELHO DESCARTÁVEL, MATERIAL LÂMINA AÇO, TIPO LÂMINA NÃO APLICÁVEL, QUANTIDADE LÂMINAS 1 UN, MATERIAL CABO PLÁSTICO, TIPO CABO RETO, COR BRANCA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02676: APARELHO BARBEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224931,
+    "Descrição do Item": "ESCOVA UNHA , MATERIAL CORPO PLÁSTICO, MATERIAL CERDAS NÁILON, TIPO DUPLA FACE, COR CORPO AZUL, COR CERDAS BRANCA, CARACTERÍSTICAS ADICIONAIS COM PINDURADOR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06947: ESCOVA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224932,
+    "Descrição do Item": "ESCOVA UNHA , MATERIAL CORPO PLÁSTICO, MATERIAL CERDAS NÁILON, TIPO DUPLA FACE, COR CORPO VERDE, COR CERDAS BRANCA, CARACTERÍSTICAS ADICIONAIS COM PINDURADOR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06947: ESCOVA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224933,
+    "Descrição do Item": "ESCOVA UNHA , MATERIAL CORPO PLÁSTICO, MATERIAL CERDAS NÁILON, TIPO MONOFACE, COR CORPO AZUL, COR CERDAS BRANCA, CARACTERÍSTICAS ADICIONAIS MEIA ALÇA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06947: ESCOVA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224934,
+    "Descrição do Item": "ESCOVA UNHA , MATERIAL CORPO PLÁSTICO, MATERIAL CERDAS NÁILON, TIPO MONOFACE, COR CORPO VERDE, COR CERDAS BRANCA, CARACTERÍSTICAS ADICIONAIS MEIA ALÇA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06947: ESCOVA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224935,
+    "Descrição do Item": "ESCOVA UNHA , MATERIAL CORPO PLÁSTICO, MATERIAL CERDAS NÁILON, TIPO MONOFACE, COR CORPO AZUL, COR CERDAS BRANCA, CARACTERÍSTICAS ADICIONAIS COM ALÇA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06947: ESCOVA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224936,
+    "Descrição do Item": "ESCOVA UNHA , MATERIAL CORPO PLÁSTICO, MATERIAL CERDAS NÁILON, TIPO MONOFACE, COR CORPO VERDE, COR CERDAS BRANCA, CARACTERÍSTICAS ADICIONAIS COM ALÇA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06947: ESCOVA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224937,
+    "Descrição do Item": "ESCOVA UNHA , MATERIAL CORPO PLÁSTICO, MATERIAL CERDAS NÁILON, TIPO MONOFACE, COR CORPO VERDE, COR CERDAS NÃO APLICÁVEL, CARACTERÍSTICAS ADICIONAIS COM ALÇA E CERDAS COLORIDAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06947: ESCOVA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224938,
+    "Descrição do Item": "ESCOVA UNHA , MATERIAL CORPO MADEIRA, MATERIAL CERDAS NÁILON, TIPO DUPLA FACE, COR CORPO NATURAL, COR CERDAS BRANCA, CARACTERÍSTICAS ADICIONAIS COM SALVA-UNHAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06947: ESCOVA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224939,
+    "Descrição do Item": "ESCOVA UNHA , MATERIAL CORPO MADEIRA, MATERIAL CERDAS NÁILON, TIPO MONOFACE, COR CORPO NATURAL, COR CERDAS BRANCA, CARACTERÍSTICAS ADICIONAIS COM SALVA-UNHAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06947: ESCOVA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224940,
+    "Descrição do Item": "ESCOVA UNHA , MATERIAL CORPO PLÁSTICO, MATERIAL CERDAS NÁILON, TIPO MONOFACE, COR CORPO PRATA, COR CERDAS BRANCA, CARACTERÍSTICAS ADICIONAIS COM ALÇA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06947: ESCOVA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224941,
+    "Descrição do Item": "TESOURA CORTE CABELO , MATERIAL AÇO INOXIDÁVEL, TIPO 3 5/8 POL, TAMANHO 9 CM, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12681: TESOURA CORTE CABELO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224942,
+    "Descrição do Item": "TESOURA CORTE CABELO , MATERIAL AÇO INOXIDÁVEL, TIPO 4 1/2 POL, TAMANHO 11 CM, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12681: TESOURA CORTE CABELO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224943,
+    "Descrição do Item": "TESOURA CORTE CABELO , MATERIAL AÇO INOXIDÁVEL, TIPO 7 1/2 POL, TAMANHO 19 CM, CARACTERÍSTICAS ADICIONAIS COM ANÉIS DE BORRACHA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12681: TESOURA CORTE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224944,
+    "Descrição do Item": "TESOURA CORTE CABELO , MATERIAL AÇO INOXIDÁVEL, TIPO 5 3/8 POL, TAMANHO 13 CM, CARACTERÍSTICAS ADICIONAIS COM DESCANSO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12681: TESOURA CORTE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224945,
+    "Descrição do Item": "TESOURA CORTE CABELO , MATERIAL AÇO INOXIDÁVEL, TIPO 6 1/4 POL, TAMANHO 15 CM, CARACTERÍSTICAS ADICIONAIS DESBASTAR COM DESCANSO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12681: TESOURA CORTE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224946,
+    "Descrição do Item": "TESOURA CORTE CABELO , MATERIAL AÇO INOXIDÁVEL, TIPO 6 1/4 POL, TAMANHO 15 CM, CARACTERÍSTICAS ADICIONAIS DESBARTAR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12681: TESOURA CORTE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224947,
+    "Descrição do Item": "TESOURA CORTE CABELO , MATERIAL AÇO INOXIDÁVEL, TIPO 5 3/4 POL, TAMANHO 14 CM, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12681: TESOURA CORTE CABELO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224948,
+    "Descrição do Item": "TESOURA CORTE CABELO , MATERIAL AÇO INOXIDÁVEL, TIPO 5 POL, TAMANHO 12 CM, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12681: TESOURA CORTE CABELO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224949,
+    "Descrição do Item": "ESCOVA ROUPA , MATERIAL CORPO MADEIRA, TRATAMENTO SUPERFICIAL ENVERNIZADO, MATERIAL CERDAS SINTÉTICO, COR CERDAS BRANCA E MARROM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06946: ESCOVA ROUPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224950,
+    "Descrição do Item": "FIO DENTAL , MATERIAL FIO TEXTURIZADO, COMPRIMENTO 40 M, TIPO ANTITÁRTARO, SABOR NEUTRO, CARACTERÍSTICAS ADICIONAIS REMOVE 72% PLACA BACTERIANA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224951,
+    "Descrição do Item": "FIO DENTAL , MATERIAL FIO POLITETRAFLUORETILENO, COMPRIMENTO 40 M, TIPO EXTRADESLIZANTE, SABOR NEUTRO, CARACTERÍSTICAS ADICIONAIS PESSOAS COM ESPAÇAMENTO ESTREITO ENTRE OS DENTES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224952,
+    "Descrição do Item": "FIO DENTAL , MATERIAL FIO RESINA TERMOPLÁSTICA, COMPRIMENTO 50 M, TIPO NÃO APLICÁVEL, SABOR MENTA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224953,
+    "Descrição do Item": "FIO DENTAL , MATERIAL RESINA TERMOPLÁSTICA/CERA E ESSÊNCIA, COMPRIMENTO 50 M, TIPO EXTRAFINO, SABOR NEUTRO, CARACTERÍSTICAS ADICIONAIS FORMATO MAIS FINO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224954,
+    "Descrição do Item": "FIO DENTAL , MATERIAL FIO TEXTURIZADO, COMPRIMENTO 40 M, TIPO NÃO APLICÁVEL, SABOR TUTTI-FRUTTI, CARACTERÍSTICAS ADICIONAIS COLORIDO E REMOVE 72% PLACA BACTERIANA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224955,
+    "Descrição do Item": "FIO DENTAL , MATERIAL RESINA TERMOPLÁSTICA/CERA E ESSÊNCIA, COMPRIMENTO 50 M, TIPO REGULAR, SABOR NEUTRO, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224956,
+    "Descrição do Item": "TESOURA MANICURE , MATERIAL AÇO INOXIDÁVEL, MODELO RETO, TIPO 3 1/2 POL, TAMANHO 9 CM, APLICAÇÃO CUTÍCULAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12682: TESOURA MANICURE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224957,
+    "Descrição do Item": "TESOURA MANICURE , MATERIAL AÇO INOXIDÁVEL, MODELO RETO, TIPO 3 5/8 POL, TAMANHO 9 CM, APLICAÇÃO UNHAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12682: TESOURA MANICURE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224958,
+    "Descrição do Item": "TESOURA MANICURE , MATERIAL AÇO INOXIDÁVEL, MODELO CURVO, TIPO 3 1/2 POL, TAMANHO 9 CM, APLICAÇÃO CUTÍCULAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12682: TESOURA MANICURE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 224959,
+    "Descrição do Item": "TESOURA MANICURE , MATERIAL AÇO INOXIDÁVEL, MODELO CURVO, TIPO 3 5/8 POL, TAMANHO 9 CM, APLICAÇÃO UNHAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12682: TESOURA MANICURE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225318,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS CABO COM CURVA ACENTUADA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL, TIPO CERDAS PONTAS ARREDONDADAS, MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABO ANATÔMICO, TIPO CABEÇA PEQUENO, FORMATO CABEÇA TRIANGULAR, MODELO MACIO, COR AZUL, APLICAÇÃO ADULTO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225319,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS CABO COM CURVA ACENTUADA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL, TIPO CERDAS PONTAS ARREDONDADAS, MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABO ANATÔMICO, TIPO CABEÇA PEQUENO, FORMATO CABEÇA TRIANGULAR, MODELO MACIO, COR VERDE, APLICAÇÃO ADULTO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225320,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS CABO COM CURVA ACENTUADA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL, TIPO CERDAS PONTAS ARREDONDADAS, MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABO ANATÔMICO, TIPO CABEÇA PEQUENO, FORMATO CABEÇA TRIANGULAR, MODELO MACIO, COR BRANCA, APLICAÇÃO ADULTO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225321,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS CABO COM CURVA ACENTUADA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL, TIPO CERDAS PONTAS ARREDONDADAS, MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABO ANATÔMICO, TIPO CABEÇA PEQUENO, FORMATO CABEÇA TRIANGULAR, MODELO MACIO, COR VERMELHA, APLICAÇÃO ADULTO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225322,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS CABO NÃO APLICÁVEL, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL, TIPO CERDAS CORTE ZIQUE-ZAQUE, MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABO RETO, TIPO CABEÇA PEQUENO/COMPACTO E INCLINADO, FORMATO CABEÇA TRIANGULAR, MODELO MÉDIO, COR AZUL, APLICAÇÃO ADULTO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225323,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS CABO NÃO APLICÁVEL, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL, TIPO CERDAS CORTE ZIQUE-ZAQUE, MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABO RETO, TIPO CABEÇA PEQUENO/COMPACTO E INCLINADO, FORMATO CABEÇA TRIANGULAR, MODELO MÉDIO, COR VERDE, APLICAÇÃO ADULTO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225324,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS CABO NÃO APLICÁVEL, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL, TIPO CERDAS CORTE ZIQUE-ZAQUE, MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABO RETO, TIPO CABEÇA PEQUENO/COMPACTO E INCLINADO, FORMATO CABEÇA TRIANGULAR, MODELO MÉDIO, COR VERMELHA, APLICAÇÃO ADULTO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225325,
+    "Descrição do Item": "ESCOVA CABELO , MATERIAL MADEIRA, MATERIAL CERDAS NÁILON, TIPO CERDAS VAZADAS, MODELO PARTE FRONTAL VAZADA, DIÂMETRO 6,50 CM, APLICAÇÃO CABELOS COMPRIDOS, CARACTERÍSTICAS ADICIONAIS FUROS NO CABO E CERDAS COM SUPERFÍCIE LISA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06938: ESCOVA CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225326,
+    "Descrição do Item": "ESCOVA CABELO , MATERIAL MADEIRA, MATERIAL CERDAS PELO DE JAVALI, TIPO CERDAS VAZADAS, MODELO PARTE FRONTAL VAZADA, DIÂMETRO 6,50 CM, APLICAÇÃO CABELOS COMPRIDOS, CARACTERÍSTICAS ADICIONAIS FUROS NO CABO E CERDAS COM SUPERFÍCIE LISA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06938: ESCOVA CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225327,
+    "Descrição do Item": "ESCOVA CABELO , MATERIAL MADEIRA, MATERIAL CERDAS PELO DE JAVALI, TIPO CERDAS VAZADAS, MODELO PARTE FRONTAL VAZADA, DIÂMETRO 7,50 CM, APLICAÇÃO TODO TIPO DE CABELO, CARACTERÍSTICAS ADICIONAIS FUROS NO CABO E CERDAS COM SUPERFÍCIE LISA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06938: ESCOVA CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225728,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO PEROLADO, COR ROSA, ODOR FLORAL, ACIDEZ 8 A 9,50 PH, TEOR ATIVOS 14 A 16 PER, APLICAÇÃO INDUSTRIAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225729,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO TRANSPARENTE, COR ROSA, ODOR ERVA DOCE, ACIDEZ 9,50 A 10,50 PH, TEOR ATIVOS 6 A 8 PER, APLICAÇÃO INDUSTRIAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225730,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO TRANSPARENTE, COR AZUL, ODOR FLORAL, ACIDEZ 8 A 9,50 PH, TEOR ATIVOS 13 A 15 PER, APLICAÇÃO INDUSTRIAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225731,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO CREMOSO PEROLADO, COR VERDE CLARO, ODOR ERVA DOCE, ACIDEZ 6,50 A 7,50 PH, TEOR ATIVOS 10,50 A 11,50 PER, APLICAÇÃO TOUCADOR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226368,
+    "Descrição do Item": "LIMA UNHA , MATERIAL LIXA AÇO INOXIDÁVEL, MATERIAL CABO PLÁSTICO, COR CABO BRANCA, MODELO PONTA REDONDA, TIPO 7 1/2 POL, TAMANHO 19 CM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "08839: LIMA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226369,
+    "Descrição do Item": "LIMA UNHA , MATERIAL LIXA AÇO INOXIDÁVEL, MATERIAL CABO PLÁSTICO, COR CABO BRANCA, MODELO PONTA REDONDA, TIPO 6 1/2 POL, TAMANHO 16 CM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "08839: LIMA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226370,
+    "Descrição do Item": "LIMA UNHA , MATERIAL LIXA AÇO INOXIDÁVEL, MATERIAL CABO PLÁSTICO, COR CABO BRANCA, MODELO PONTA REDONDA, TIPO 5 POL, TAMANHO 12 CM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "08839: LIMA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226424,
+    "Descrição do Item": "ESCOVA BANHO , MATERIAL CORPO PLÁSTICO, MATERIAL CERDAS NÁILON, TIPO CERDAS MACIO, TIPO CABO LONGO, COR CORPO BRANCA, CARACTERÍSTICAS ADICIONAIS CERDAS LATERAIS AZUIS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06937: ESCOVA BANHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226425,
+    "Descrição do Item": "ESCOVA BANHO , MATERIAL CORPO PLÁSTICO, MATERIAL CERDAS NÁILON, TIPO CERDAS MACIO, TIPO CABO LONGO, COR CORPO BRANCA, CARACTERÍSTICAS ADICIONAIS CERDAS LATERIAIS AMARELAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06937: ESCOVA BANHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226426,
+    "Descrição do Item": "ESCOVA BANHO , MATERIAL CORPO PLÁSTICO, MATERIAL CERDAS NÁILON, TIPO CERDAS MACIO, TIPO CABO LONGO, COR CORPO BRANCA, CARACTERÍSTICAS ADICIONAIS CERDAS LATERIAIS VERDES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06937: ESCOVA BANHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226438,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 100 G, TIPO SEM PERFUME, FORMATO OVALADO, AROMA NÃO APLICÁVEL, COR BRANCA, APLICAÇÃO PELE NORMAL, CARACTERÍSTICAS ADICIONAIS COM CREME HIDRATANTE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 226443,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 90 G, TIPO COM PERFUME, FORMATO RETANGULAR, AROMA MEL, COR MARROM, APLICAÇÃO PELE NORMAL, CARACTERÍSTICAS ADICIONAIS GLECERINADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227229,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO PEROLADO, COR ROSA, ODOR FLORAL, ACIDEZ 7,50 PH, TEOR ATIVOS 14 A 16 PER, APLICAÇÃO INDUSTRIAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227861,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 40 M, LARGURA 11 CM, TIPO PICOTADO, QUANTIDADE FOLHAS DUPLA, COR BRANCA, CARACTERÍSTICAS ADICIONAIS EXTRAMACIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227862,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 40 M, LARGURA 10 CM, TIPO PICOTADO, QUANTIDADE FOLHAS DUPLA, COR BRANCA, CARACTERÍSTICAS ADICIONAIS EXTRAMACIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227863,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 300 M, LARGURA 11 CM, TIPO PICOTADO, QUANTIDADE FOLHAS DUPLA, COR BRANCA, CARACTERÍSTICAS ADICIONAIS EXTRAMACIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227864,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 300 M, LARGURA 10 CM, TIPO PICOTADO, QUANTIDADE FOLHAS DUPLA, COR BRANCA, CARACTERÍSTICAS ADICIONAIS EXTRAMACIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227903,
+    "Descrição do Item": "ESCOVA ROUPA , MATERIAL CORPO MADEIRA, TRATAMENTO SUPERFICIAL ENVERNIZADO, MATERIAL CERDAS NÁILON, COR CERDAS BRANCA E MARROM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06946: ESCOVA ROUPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228207,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO PEROLADO, COR AZUL, ODOR NÃO APLICÁVEL, ACIDEZ 5,60 A 6,20 PH, TEOR ATIVOS TRICLOSAN 0,30 PER, APLICAÇÃO HOSPITALAR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228271,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 90 G, TIPO COM PERFUME, FORMATO RETANGULAR, AROMA MEL, COR MARROM, APLICAÇÃO PELE NORMAL, CARACTERÍSTICAS ADICIONAIS GLICERINADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228469,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA SIMPLES, QUANTIDADE TOALHA 60 UN, COMPRIMENTO 22 CM, LARGURA 27 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228531,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 3 DOBRAS, QUANTIDADE TOALHA NÃO APLICÁVEL UN, COMPRIMENTO 27 CM, LARGURA 20 CM, COR CREME, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228534,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 600 M, LARGURA 10 CM, TIPO COMPACTADO, QUANTIDADE FOLHAS SIMPLES, COR BRANCA, CARACTERÍSTICAS ADICIONAIS LUXO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228714,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 40 M, LARGURA 10 CM, TIPO PICOTADO, QUANTIDADE FOLHAS SIMPLES, COR BRANCA, CARACTERÍSTICAS ADICIONAIS MACIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 229159,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA SIMPLES, QUANTIDADE TOALHA NÃO APLICÁVEL UN, COMPRIMENTO 27 CM, LARGURA 23 CM, COR CREME, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 229202,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 24 CM, COMPRIMENTO 24 CM, COR BRANCA, TIPO FOLHAS SIMPLES, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 229357,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO CREMOSO PEROLADO, COR AZUL, ACIDEZ NEUTRO PH, APLICAÇÃO COMERCIAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 229409,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 100 G, TIPO SEM PERFUME, FORMATO NÃO APLICÁVEL, AROMA NÃO APLICÁVEL, COR NÃO APLICÁVEL, APLICAÇÃO PELE SENSÍVEL, CARACTERÍSTICAS ADICIONAIS GLICERINADO/NEUTRO E BAIXO TEOR ALCOÓLICO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 230246,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO NORMAL SEM ABAS, FORMATO TRADICIONAL, APRESENTAÇÃO EXTERNA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 230417,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA DUPLA PICOTADA, COMPRIMENTO 22 CM, LARGURA 22,80 CM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231313,
+    "Descrição do Item": "DESODORIZADOR SANITÁRIO , COMPOSIÇÃO PARADICLORO BENZENO-99%, PESO LÍQUIDO 20 G, COR VARIADA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "14305: DESODORIZADOR SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231463,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 20 CM, COMPRIMENTO 23 CM, COR BRANCA, TIPO FOLHAS SIMPLES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231464,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 33 CM, COMPRIMENTO 30 CM, COR BRANCA, TIPO FOLHAS SIMPLES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231539,
+    "Descrição do Item": "DESODORIZADOR SANITÁRIO , COMPOSIÇÃO PARADICLORO BENZENO-99%, PESO LÍQUIDO 20 G, COR VARIADA, ESSÊNCIA 1%",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "14305: DESODORIZADOR SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 232079,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, COMPRIMENTO 23 CM, LARGURA 23 CM, COR CREME, CARACTERÍSTICAS ADICIONAIS INTERFOLHAS/CREPADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 232375,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 33 CM, COMPRIMENTO 34 CM, COR BRANCA, TIPO FOLHAS DUPLA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 232397,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, TIPO COM PERFUME, FORMATO OVALADO, AROMA NÃO APLICÁVEL, COR BRANCA, APLICAÇÃO PELE NORMAL, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 232399,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 90 G, TIPO COM PERFUME, FORMATO OVALADO, AROMA NÃO APLICÁVEL, COR BRANCA, APLICAÇÃO PELE NORMAL, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 232401,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 32,50 CM, COMPRIMENTO 32,50 CM, COR BRANCA, TIPO FOLHAS DUPLA, CARACTERÍSTICAS ADICIONAIS MACIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 233647,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 800 M, LARGURA 10 CM, QUANTIDADE FOLHAS SIMPLES, COR BRANCA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 233648,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 300 M, LARGURA 10 CM, QUANTIDADE FOLHAS SIMPLES, COR BRANCA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 233667,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 3 DOBRAS, COMPRIMENTO 23 CM, LARGURA 22 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 234154,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 1 DOBRA, COMPRIMENTO 27 CM, LARGURA 23 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 234410,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 40 M, LARGURA 10 CM, TIPO PICOTADO, QUANTIDADE FOLHAS SIMPLES, COR BRANCA, CARACTERÍSTICAS ADICIONAIS COM PERFUME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 234481,
+    "Descrição do Item": "ESCOVA UNHA , MATERIAL CORPO PLÁSTICO, MATERIAL CERDAS NÁILON, TIPO DUPLA FACE, COR CORPO BRANCA, COR CERDAS BRANCA, CARACTERÍSTICAS ADICIONAIS COM PINDURADOR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06947: ESCOVA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 234694,
+    "Descrição do Item": "FIO DENTAL , MATERIAL FIO TEXTURIZADO, COMPRIMENTO 100, TIPO REGULAR, SABOR NEUTRO, CARACTERÍSTICAS ADICIONAIS COM FLÚOR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 234737,
+    "Descrição do Item": "DESODORIZADOR SANITÁRIO , COMPOSIÇÃO PARADICLORO BENZENO,ESSÊNCIA E CORANTE, PESO LÍQUIDO 35 G G, ASPECTO FÍSICO TABLETE SÓLIDO, CARACTERÍSTICAS ADICIONAIS SUPORTE PLÁSTICO PARA VASO SANITÁRIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "14305: DESODORIZADOR SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 235391,
+    "Descrição do Item": "APARELHO BARBEAR , TIPO LÂMINA DESCARTÁVEL, MATERIAL LÂMINA AÇO, TIPO LÂMINA NÃO APLICÁVEL, QUANTIDADE LÂMINAS 1 UN, MATERIAL CABO METAL, TIPO CABO RETO, COR PRATA, CARACTERÍSTICAS ADICIONAIS NÃO APLICÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02676: APARELHO BARBEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 235489,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 3 DOBRAS, COMPRIMENTO 27 CM, LARGURA 27 CM, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 235869,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 400 M, LARGURA 10 CM, TIPO GOFRADO, QUANTIDADE FOLHAS SIMPLES, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 238049,
+    "Descrição do Item": "FIO DENTAL , MATERIAL FIO RESINA TERMOPLÁSTICA, COMPRIMENTO 25 M, TIPO EXTRAFINO, SABOR NEUTRO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 238050,
+    "Descrição do Item": "FIO DENTAL , MATERIAL FIO RESINA TERMOPLÁSTICA, COMPRIMENTO 25 M, TIPO REGULAR, SABOR NEUTRO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 238163,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS COM 3 OU 4 TUFOS, TIPO CERDAS ARREDONDADAS, MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABO ANATÔMICO, MODELO MACIO, COR PRETA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 238338,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 30 M, LARGURA 10 CM, TIPO PICOTADO, QUANTIDADE FOLHAS DUPLA, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 238685,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO NORMAL SEM ABAS, FORMATO TRADICIONAL, APRESENTAÇÃO EXTERNA, COMPRIMENTO 23 CM, LARGURA 7 CM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 238686,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO NORMAL SEM ABAS, FORMATO TRADICIONAL, APRESENTAÇÃO EXTERNA, COMPRIMENTO 35 CM, LARGURA 10 CM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 238687,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO NORMAL SEM ABAS, FORMATO TRADICIONAL, APRESENTAÇÃO EXTERNA, COMPRIMENTO 50 CM, LARGURA 13 CM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 238710,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 30 M, LARGURA 10 CM, TIPO LISO, QUANTIDADE FOLHAS SIMPLES, COR BEGE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 239940,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 33,50 CM, COMPRIMENTO 33,50 CM, COR BRANCA, TIPO FOLHAS SIMPLES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240470,
+    "Descrição do Item": "DESODORIZADOR SANITÁRIO , COMPOSIÇÃO PARADICLORO BENZENO,ESSÊNCIA E CORANTE, PESO LÍQUIDO 35 G G, ESSÊNCIA LAVANDA, ASPECTO FÍSICO TABLETE SÓLIDO, CARACTERÍSTICAS ADICIONAIS TIPO REFIL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "14305: DESODORIZADOR SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240641,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 3 DOBRAS, COMPRIMENTO 26 CM, LARGURA 23 CM, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 241438,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS CABO COM PESCOÇO ANGULADO, CARACTERÍSTICAS ADICIONAIS COM DESENHOS, MATERIAL CERDAS NAILON E POLIESTER, MATERIAL CABO PLÁSTICO EMBORRACHADO, TIPO CABO CURTO E ANATÔMICO, TIPO CABEÇA PEQUENO, FORMATO CABEÇA OVALADO, MODELO MACIO, COR VERDE, APLICAÇÃO CRIANÇA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 241443,
+    "Descrição do Item": "DENTIFRÍCIO , COMPOSIÇÃO BÁSICA CREME DENTAL COM FLUOR ATIVO DE (1100 PPM), SABOR VARIADOS, TIPO INFANTIL, CAPACIDADE 50 G, APLICAÇÃO HIGIENE BUCAL INFANTIL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "06061: DENTIFRÍCIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 241535,
+    "Descrição do Item": "LÂMINA BARBEAR , MATERIAL AÇO INOXIDÁVEL, COMPRIMENTO 43 MM, LARGURA 22 MM, TIPO USO DESCARTÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "08612: LÂMINA BARBEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 241645,
+    "Descrição do Item": "FIO DENTAL , MATERIAL FIO TEXTURIZADO, COMPRIMENTO 25 M, TIPO REGULAR, SABOR NEUTRO, CARACTERÍSTICAS ADICIONAIS COM FLÚOR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243002,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 22 CM, COMPRIMENTO 23 CM, COR BRANCA, TIPO FOLHAS DUPLA, CARACTERÍSTICAS ADICIONAIS MACIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243220,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO CREMOSO PEROLADO, COR BRANCA, ACIDEZ NEUTRO PH, APLICAÇÃO COMERCIAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243246,
+    "Descrição do Item": "LENÇO DESCARTÁVEL , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 21,40 CM, LARGURA 14,20 CM, COR BRANCA, QUANTIDADE FOLHAS 2, TIPO FOLHA PICOTADA, APLICAÇÃO LIMPEZA / HIGIENE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "15570: LENÇO DESCARTÁVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243887,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, QUANTIDADE TOALHA 140 UN, COMPRIMENTO 22 CM, LARGURA 20 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS SUPER RESISTENTE DE RÁPIDA ABSORVIÇÃO DE LÍQUIDO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 244226,
+    "Descrição do Item": "PENTE DE CABELO , MATERIAL PLÁSTICO, MODELO COM CABO E DENTES, TAMANHO GRANDE, TIPO DENTES PRÓXIMOS, FINALIDADE RETIRAR PIOLHOS COURO CABELUDO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10630: PENTE DE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 244497,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 50 G, TIPO SEM PERFUME, CARACTERÍSTICAS ADICIONAIS NEUTRO (TIPO HOTEL)",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 244721,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO GERIÁTRICO, COMPRIMENTO 40, LARGURA 12, CARACTERÍSTICAS ADICIONAIS CAMADA MACIA ANTI-ALÉRGICA DE NONWAVEM,COLCHÃO DE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 244762,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO TRANSPARENTE, COR VERDE, ODOR EUCALIPTO, ACIDEZ 8 A 9,50 PH, TEOR ATIVOS 13 A 15 PER, APLICAÇÃO INDUSTRIAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 245972,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL ALTA ALVURA, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 23 CM, LARGURA 23 CM, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 246635,
+    "Descrição do Item": "FIO DENTAL , MATERIAL RESINA TERMOPLÁSTICA/CERA E ESSÊNCIA, COMPRIMENTO 100 M, TIPO REGULAR, SABOR NEUTRO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 246677,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL FIBRAS CELULÓSICAS, COMPRIMENTO 30 M, LARGURA 10 CM, TIPO PICOTADO, QUANTIDADE FOLHAS SIMPLES, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 246687,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 20 G, TIPO COM PERFUME, FORMATO RETANGULAR, COR MARROM, APLICAÇÃO PELE NORMAL, CARACTERÍSTICAS ADICIONAIS GLICERINADO (TIPO HOTEL)",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 246799,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO CREMOSO, ODOR CÔCO, ACIDEZ PH NEUTRO PH, APLICAÇÃO RESIDENCIAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 247003,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO CREMOSO PEROLADO, COR BRANCA, ACIDEZ PH NEUTRO PH, APLICAÇÃO COMERCIAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 247479,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 23,50 CM, COMPRIMENTO 23,50 CM, COR BRANCA, TIPO FOLHAS SIMPLES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 247480,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 32,50 CM, COMPRIMENTO 32,50 CM, COR BRANCA, TIPO FOLHAS SIMPLES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 247977,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VEGETAL, COMPRIMENTO 800 M, LARGURA 10 CM, QUANTIDADE FOLHAS SIMPLES, COR CREME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 248396,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 3 DOBRAS, COMPRIMENTO 27 CM, LARGURA 20 CM, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 248532,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO PEROLADO, TEOR ATIVOS DIGLUCONATO DE CLORHEXIDINA, APLICAÇÃO HOSPITALAR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 249135,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO TRANSPARENTE, ACIDEZ 7 A 7,50 PH, APLICAÇÃO ANTI-SEPSIA DAS MÃOS, CARACTERÍSTICAS ADICIONAIS DENSIDADE 0,87 A 0,89 G/ML, COMPOSIÇÃO ETANOL, ISOPROPANOL, PROPILENOGLICOL, ESPESSANTE A",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 249210,
+    "Descrição do Item": "SABONETE LÍQUIDO , DENSIDADE 1,02 A 1,03 G/ML, ASPECTO FÍSICO LÍQUIDO VISCOSO OPACO, COR BRANCA, ODOR FLORAL, ACIDEZ 6 A 7 PH, APLICAÇÃO ANTI-SEPSIA DAS MÃOS, CARACTERÍSTICAS ADICIONAIS REFIL, RECIPIENTE PLÁSTICO FECHADO A VÁCUO, COM, COMPOSIÇÃO DIETANOLAMIDA DE ÁCIDO GRAXO, COCOAMIDOPROPIL BETA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 249405,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 30 M, LARGURA 10 CM, TIPO PICOTADO, QUANTIDADE FOLHAS DUPLA, COR BRANCA, CARACTERÍSTICAS ADICIONAIS EXTRA-FINO, SEM PERFUME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 249465,
+    "Descrição do Item": "SABONETE LÍQUIDO , DENSIDADE 1,02 A 1,03 G/ML, ASPECTO FÍSICO LÍQUIDO VISCOSO CREMOSO, COR VERDE, ODOR FLORAL, ACIDEZ 7 A 8 PH, TEOR ATIVOS 3,5 A 4%, APLICAÇÃO ANTI-SEPSIA DAS MÃOS, CARACTERÍSTICAS ADICIONAIS PH 100%, COMPOSIÇÃO COMPLEXANTES, TENSOATIVO NÃO IÔNICO, EMOLIENTES E",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 249547,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA DUPLA PICOTADA, QUANTIDADE TOALHA 60 UN, COMPRIMENTO 22 CM, LARGURA 20 CM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 249574,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL ALTA ALVURA, TIPO FOLHA SIMPLES, COMPRIMENTO 20 CM, LARGURA 20 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS GOFRADO, EM BOBINAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 249677,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL ALTA ALVURA (100% FIBRAS RECICLADAS), TIPO FOLHA SIMPLES, COMPRIMENTO 200 M, LARGURA 30 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS SUPER RESISTENTE, RÁPIDA ABSORVIÇÃO LÍQUIDOS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 251368,
+    "Descrição do Item": "PROTETOR ASSENTO SANITÁRIO , MATERIAL FIBRAS NATURAIS, TIPO USO DESCARTÁVEL, COR BRANCA, CARACTERÍSTICAS ADICIONAIS MACIO, RESISTENTE, PAPEL IMPERMEÁVEL/BIODEGRADÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "16164: PROTETOR ASSENTO SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 253070,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM OU APARAS EXCELENTE QUALIDADE, COMPRIMENTO 40 M, LARGURA 10 CM, TIPO FOLHA SIMPLES, COR BRANCA, CARACTERÍSTICAS ADICIONAIS MACIO, ABSORVENTE E HOMOGÊNEO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 253073,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL APARAS DE BOA QUALIDADE, TIPO FOLHA SIMPLES, COMPRIMENTO 50 M, LARGURA 24 A 25 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS MACIO E ABSORVENTE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 253197,
+    "Descrição do Item": "SABONETE LÍQUIDO , AROMA SUAVE, ASPECTO FÍSICO LÍQUIDO PERFUMADO, APLICAÇÃO SABONETEIRA PARA SABONETES LÍQUIDOS, CARACTERÍSTICAS ADICIONAIS PRONTO USO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 253588,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL PLASTIFICADO, TIPO FOLHA SIMPLES, COMPRIMENTO 33 CM, LARGURA 18,50 CM, CARACTERÍSTICAS ADICIONAIS USO ODONTOLÓGICO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254138,
+    "Descrição do Item": "APARELHO BARBEAR , TIPO PORTA LÂMINA, MATERIAL CABO AÇO, TIPO CABO CILÍNDRICO E RETO, COR PRATA, CARACTERÍSTICAS ADICIONAIS SEM LÂMINA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02676: APARELHO BARBEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254497,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 33 CM, COMPRIMENTO 34 CM, COR BRANCA, TIPO FOLHAS DUPLA, CARACTERÍSTICAS ADICIONAIS MACIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254512,
+    "Descrição do Item": "SABONETE LÍQUIDO , DENSIDADE 1,02 A 1,03 G/ML, AROMA SUAVE, ASPECTO FÍSICO LÍQUIDO VISCOSO PEROLADO, COR BRANCA, ODOR FLORAL, ACIDEZ NEUTRO PH, TEOR ATIVOS 13 A 15, APLICAÇÃO SABONETEIRA PARA SABONETES LÍQUIDOS, CARACTERÍSTICAS ADICIONAIS PRONTO USO, COMPOSIÇÃO ETANOL, ISOPROPANOL, PROPILENOGLICOL, ESPESSANTE A",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254697,
+    "Descrição do Item": "SABONETE LÍQUIDO , DENSIDADE 1,02 A 1,03 G/ML, ASPECTO FÍSICO LÍQUIDO VISCOSO, COR BRANCA, ACIDEZ 6 A 7 PH, APLICAÇÃO ANTI-SEPSIA DAS MÃOS, CARACTERÍSTICAS ADICIONAIS REFIL, RECIPIENTE PLÁSTICO FECHADO A VÁCUO, COM, COMPOSIÇÃO LAURILETER SULFATO DE SÓDIO, LAURILSARCOSINATO DE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254706,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 1 DOBRA, COMPRIMENTO 24,50 CM, LARGURA 21,90 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA, APLICAÇÃO USO ODONTOLÓGICO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 255288,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA DUPLA PICOTADA, QUANTIDADE TOALHA 60 UN, COMPRIMENTO 22,50 CM, LARGURA 21,50 CM, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257960,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 120 G, TIPO COM PERFUME, FORMATO OVALADO, COR BRANCA, APLICAÇÃO PELE NORMAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 258551,
+    "Descrição do Item": "FIO DENTAL , MATERIAL FIO RESINA TERMOPLÁSTICA, TIPO REGULAR, SABOR NEUTRO, CARACTERÍSTICAS ADICIONAIS CÊRA MINERAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 259951,
+    "Descrição do Item": "EMULSÃO EMOLIENTE , APRESENTAÇÃO LÍQUIDO, INDICAÇÃO HIDRATAÇÃO CUTÂNEA, USO TÓPICO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "17440: EMULSÃO EMOLIENTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 260025,
+    "Descrição do Item": "LÂMINA BARBEAR , MATERIAL AÇO INOXIDÁVEL, COMPRIMENTO 1040 MM, LARGURA 100 MM, TIPO USO BEM DURÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "08612: LÂMINA BARBEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 260280,
+    "Descrição do Item": "CAPA CORTE CABELO , MATERIAL NÁILON, TAMANHO GRANDE, COR BEGE, TIPO USO PROTEÇÃO USUÁRIO, APLICAÇÃO BARBEARIA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "03071: CAPA CORTE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 261021,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA SIMPLES, COMPRIMENTO 22,50 CM, LARGURA 22,50 CM, COR BRANCA, APLICAÇÃO EM TOALETES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 261023,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO PERFUMADO, COR AZUL, ODOR FLORAL, APLICAÇÃO SABONETEIRA PARA SABONETES LÍQUIDOS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 261390,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 100 M",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263027,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 11 G, TIPO COM PERFUME, FORMATO RETANGULAR, COR AZUL, APLICAÇÃO PELE NORMAL, CARACTERÍSTICAS ADICIONAIS GLICERINADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263474,
+    "Descrição do Item": "FIO DENTAL , MATERIAL RESINA TERMOPLÁSTICA/CERA E ESSÊNCIA, COMPRIMENTO 125 M, TIPO REGULAR, SABOR NEUTRO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264277,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 32 CM, COMPRIMENTO 33 CM, COR BRANCA, TIPO FOLHAS SIMPLES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264291,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS COM MÍNIMO 3 TUFOS E DESCARTÁVEL, MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABEÇA PEQUENO, MODELO MACIO, APLICAÇÃO ORIENTAÇÃO DE PROFILAXIA E HIGIENE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265548,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 1 DOBRA, COMPRIMENTO 23 CM, LARGURA 22 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA, APLICAÇÃO EM TOALETES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 266361,
+    "Descrição do Item": "ROLO PARA CABELO , TIPO BIGUDINHO, MATERIAL PLÁSTICO, TAMANHO Nº 02",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "05662: ROLO PARA CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 266362,
+    "Descrição do Item": "ROLO PARA CABELO , TIPO BIGUDINHO, MATERIAL PLÁSTICO, TAMANHO Nº 01",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "05662: ROLO PARA CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 266363,
+    "Descrição do Item": "ROLO PARA CABELO , TIPO BIGUDINHO, MATERIAL PLÁSTICO, TAMANHO Nº 03",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "05662: ROLO PARA CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 266372,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, COMPRIMENTO 100 M, LARGURA 20 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS MACIO E SEM IMPUREZAS, APLICAÇÃO COZINHA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 266896,
+    "Descrição do Item": "FIO DENTAL , MATERIAL RESINA TERMOPLÁSTICA/CERA E ESSÊNCIA, COMPRIMENTO 500 M, TIPO REGULAR, SABOR NEUTRO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267231,
+    "Descrição do Item": "ROLO PARA CABELO , TIPO BÓBI, MATERIAL PLÁSTICO, TAMANHO GRANDE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "05662: ROLO PARA CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267232,
+    "Descrição do Item": "ROLO PARA CABELO , TIPO BÓBI, MATERIAL PLÁSTICO, TAMANHO MÉDIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "05662: ROLO PARA CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267233,
+    "Descrição do Item": "ROLO PARA CABELO , TIPO BÓBI, MATERIAL PLÁSTICO, TAMANHO PEQUENO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "05662: ROLO PARA CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267323,
+    "Descrição do Item": "NAVALHA , MATERIAL CORPO PLÁSTICO, MATERIAL LÂMINA AÇO INOXIDÁVEL, TIPO DESFIADOR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10045: NAVALHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267324,
+    "Descrição do Item": "NAVALHA , MATERIAL CORPO PLÁSTICO, MATERIAL LÂMINA AÇO INOXIDÁVEL, TIPO BARBEAR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10045: NAVALHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267366,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA SIMPLES, QUANTIDADE TOALHA 1.250 UN, COMPRIMENTO 27 CM, LARGURA 23 CM, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267387,
+    "Descrição do Item": "APLICADOR TINTURA , MATERIAL PLÁSTICO, CAPACIDADE 160 ML, APLICAÇÃO TINGIMENTO CAPILAR, CARACTERÍSTICAS ADICIONAIS COM BICO DOSADOR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "17721: APLICADOR TINTURA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267388,
+    "Descrição do Item": "APLICADOR TINTURA , MATERIAL PLÁSTICO, CAPACIDADE 100 ML, APLICAÇÃO TINGIMENTO CAPILAR, CARACTERÍSTICAS ADICIONAIS COM BICO DOSADOR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "17721: APLICADOR TINTURA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267389,
+    "Descrição do Item": "GRAMPO CABELO , MATERIAL METAL, TAMANHO GRANDE, APLICAÇÃO CABELO LOURO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "17722: GRAMPO CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267390,
+    "Descrição do Item": "GRAMPO CABELO , MATERIAL METAL, TAMANHO GRANDE, APLICAÇÃO CABELO PRETO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "17722: GRAMPO CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267391,
+    "Descrição do Item": "GRAMPO CABELO , MATERIAL METAL, TAMANHO PEQUENO, APLICAÇÃO CABELO LOURO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "17722: GRAMPO CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267392,
+    "Descrição do Item": "GRAMPO CABELO , MATERIAL METAL, TAMANHO PEQUENO, APLICAÇÃO CABELO PRETO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "17722: GRAMPO CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267492,
+    "Descrição do Item": "PRENDEDOR DE CABELO , MATERIAL PLÁSTICO, TIPO PIRANHA, TAMANHO GRANDE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "17729: PRENDEDOR DE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267493,
+    "Descrição do Item": "PRENDEDOR DE CABELO , MATERIAL PLÁSTICO, TIPO PIRANHA, TAMANHO MÉDIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "17729: PRENDEDOR DE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267494,
+    "Descrição do Item": "PRENDEDOR DE CABELO , MATERIAL PLÁSTICO, TIPO PIRANHA, TAMANHO PEQUENO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "17729: PRENDEDOR DE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 271370,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO CREMOSO, ODOR ERVA DOCE, ACIDEZ PH NEUTRO, APLICAÇÃO ANTI-SEPSIA DAS MÃOS, COMPOSIÇÃO GLICERINA, AGENTES EMOLIENTES, TRICLOSAN 0,3%",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 272625,
+    "Descrição do Item": "EMULSÃO EMOLIENTE , INDICAÇÃO HIDRATANTE TÓPICA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "17440: EMULSÃO EMOLIENTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 273156,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO CREMOSO PEROLADO, COR VERDE CLARO, ODOR ERVA DOCE, ACIDEZ 6,50 A 7,50 PH, TEOR ATIVOS 10,50 A 11,50 PER, APLICAÇÃO TOUCADOR, CARACTERÍSTICAS ADICIONAIS PRODUTO NATURAL À BASE DE ÓLEO DE BABAÇU",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 273157,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL FIBRAS VIRGENS DE CELULOSE, COMPRIMENTO 24,50 CM, LARGURA 21,50 CM, CARACTERÍSTICAS ADICIONAIS INTERFOLHAS/CREPADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 275665,
+    "Descrição do Item": "HASTE FLEXÍVEL , MATERIAL HASTE PLÁSTICO, TIPO HASTE COM RANHURAS, MATERIAL PONTA ALGODÃO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "08178: HASTE FLEXÍVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 275724,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS CABO C/ MOTIVOS INFANTIS, TIPO CERDAS PONTAS POLIDAS, MATERIAL CERDAS NAILON E POLIESTER, MATERIAL CABO PLÁSTICO EMBORRACHADO, TIPO CABEÇA COM CANTOS ARREDONDADOS, MODELO EXTRA MACIA, APLICAÇÃO CRIANÇA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 275767,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS Nº 35, TIPO CERDAS PONTAS ARREDONDADAS E POLIDAS, MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABO ANATÔMICO, FORMATO CABEÇA OVALADO, MODELO MACIO, APLICAÇÃO ADULTO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 277830,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA DUPLA PICOTADA, COMPRIMENTO 22 CM, LARGURA 20 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS 100% FIBRAS CELULÓSICAS, APLICAÇÃO AMBIENTE HOSPITALAR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 277831,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, COMPRIMENTO 27 CM, LARGURA 23 CM, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA, APLICAÇÃO AMBIENTE HOSPITALAR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 279248,
+    "Descrição do Item": "DESODORIZADOR SANITÁRIO , COMPOSIÇÃO PARADICLORO BENZENO-99%, ESSÊNCIA EUCALIPTO, ASPECTO FÍSICO TABLETE SÓLIDO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "14305: DESODORIZADOR SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 279266,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 23 CM, LARGURA 23 CM, COR CREME, APLICAÇÃO LIMPEZA EM GERAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 279330,
+    "Descrição do Item": "DESODORIZADOR SANITÁRIO , ESSÊNCIA MARINE, ASPECTO FÍSICO LÍQUIDO, CARACTERÍSTICAS ADICIONAIS TIPO REFIL, EMBALAGEM PLÁSTICA COM SUPORTE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "14305: DESODORIZADOR SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 279373,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO TIPO HOSPITALAR, FORMATO LONGO, APRESENTAÇÃO HIPOALERGÊNICO, COMPRIMENTO COMPRIMENTO MÍNIMO 28CM, LARGURA LARGURA MÍNIMA 10CM, CARACTERÍSTICAS ADICIONAIS COBERTURA INTERNA FALSO TECIDO,EXTERNA IMPERMEÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 279927,
+    "Descrição do Item": "SABONETE LÍQUIDO , TIPO USO P/ BANHO DE LEITO S/ ÁGUA, ASPECTO FÍSICO VISCOSO, APLICAÇÃO P/HIGIENIZAÇÃO E HIDRATAÇÃO DA PELE, CARACTERÍSTICAS ADICIONAIS COMPOSTO P/ÁCIDOS GRAXOS ESSENCIAIS, VITAMINAS:A,E, COMPOSIÇÃO LECITINA DE SOJA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 280590,
+    "Descrição do Item": "CONJUNTO HIGIENE , USO ADULTO, COMPOSIÇÃO ESCOVA DENTAL ADULTO,DENTIFRÍCIO C/FLUOR(90GR), TIPO EMBALAGEM EM BOLSA PLÁSTICA COM FECHO DE BOTÃO OU ZÍPPER",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "05729: CONJUNTO HIGIENE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 280591,
+    "Descrição do Item": "CONJUNTO HIGIENE , USO INFANTIL, COMPOSIÇÃO ESCOVA DENTAL INFANTIL,DENTIFRÍCIO C/FLUOR(90GR), TIPO EMBALAGEM EM BOLSA PLÁSTICA COM FECHO DE BOTÃO OU ZÍPPER",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "05729: CONJUNTO HIGIENE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 280755,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 22 CM, COMPRIMENTO 24 CM, COR BRANCA, TIPO FOLHAS DUPLA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 281848,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 33 CM, COMPRIMENTO 30 CM, COR BRANCA, TIPO FOLHAS DUPLA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 281855,
+    "Descrição do Item": "SABONETE LÍQUIDO , DENSIDADE 1,015 G/ML, AROMA SUAVE, ASPECTO FÍSICO LÍQUIDO VISCOSO, COR BRANCA, ODOR FLORAL, ACIDEZ 6,5, APLICAÇÃO SABONETEIRA PARA SABONETES LÍQUIDOS, CARACTERÍSTICAS ADICIONAIS COM CREME HIDRATANTE / REFIL, COMPOSIÇÃO COCOAMIDOPROPIL BETAINA, PROPILENOGLICOL, DIESTEAR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 283512,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 19 CM, LARGURA 11 CM, TIPO INTERCALADO, QUANTIDADE FOLHAS DUPLA, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 283964,
+    "Descrição do Item": "APARELHO BARBEAR , TIPO DESCARTÁVEL, MATERIAL LÂMINA LÂMINA AÇO INOX, QUANTIDADE LÂMINAS 2 LÂMINAS UN, MATERIAL CABO CABO PLÁSTICO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02676: APARELHO BARBEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 284578,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 800 M, LARGURA 8 CM, TIPO GOFRADO, QUANTIDADE FOLHAS SIMPLES, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 285030,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 19,5 CM, LARGURA 21 CM, COR CREME, APLICAÇÃO LIMPEZA EM GERAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 287812,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 20 CM, COMPRIMENTO 23 CM, COR BRANCA, TIPO FOLHAS DUPLA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 288057,
+    "Descrição do Item": "SABONETE LÍQUIDO , TIPO USO DESCONTAMINAÇÃO DA PELE POR MATERIAL RADIOATIVO, ASPECTO FÍSICO CREMOSO, COR PÚRPURA, ACIDEZ 5,60 A 6,50 PH, APLICAÇÃO RADIOFARMÁCIA, LABORATÓRIO E MEDICINA NUCLEAR, CARACTERÍSTICAS ADICIONAIS COM MICROESFERAS DE POLIETILENO, COMPOSIÇÃO TENSOATIVOS ANIÔNICOS E NÃO ANIÔNICOS, SOLVENTE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 288949,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO CREMOSO PEROLADO, COR VERDE CLARO, ODOR ERVA DOCE, APLICAÇÃO ASSEPSIA DAS MÃOS, CARACTERÍSTICAS ADICIONAIS COCOAMIDOPROPIL BETAINA, LAURIL ETER SULFATO DE SÓ",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 288988,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO NORMAL COM ABAS, FORMATO TRADICIONAL, APRESENTAÇÃO EXTERNA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 289550,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 23 CM, COMPRIMENTO 23 CM, CARACTERÍSTICAS ADICIONAIS ALTA ALVURA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 290376,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA SIMPLES, COMPRIMENTO 200 M, LARGURA 20 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS 100% FIBRAS CELULÓSICAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 290492,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL ALTA ALVURA, TIPO FOLHA 1 DOBRA, COMPRIMENTO 26 CM, LARGURA 21,50 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA, APLICAÇÃO EM TOALETES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 290590,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, COMPRIMENTO 28 CM, LARGURA 24 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS MULTIFOLHADO, APLICAÇÃO AMBIENTE HOSPITALAR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291332,
+    "Descrição do Item": "REFIL ABSORVENTE HIGIÊNICO , MATERIAL CARTÃO DUPLEX, DIMENSÕES 8,50 X 13 X 2,50 CM, APLICAÇÃO DISPENSER",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "18409: REFIL ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291350,
+    "Descrição do Item": "PROTETOR ASSENTO SANITÁRIO , MATERIAL FIBRAS NATURAIS, TIPO USO DESCARTÁVEL, COR BRANCA, CARACTERÍSTICAS ADICIONAIS DIMENSÕES 21 X 25,50 X 2,20 CM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "16164: PROTETOR ASSENTO SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292281,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 22 CM, COMPRIMENTO 23 CM, COR BRANCA, TIPO FOLHAS SIMPLES, CARACTERÍSTICAS ADICIONAIS MACIO E ABSORVENTE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292572,
+    "Descrição do Item": "DESODORIZADOR SANITÁRIO , COMPOSIÇÃO PARADICLORO BENZENO, PESO LÍQUIDO 40 A 50 G, ASPECTO FÍSICO TABLETE SÓLIDO, CARACTERÍSTICAS ADICIONAIS SUPORTE PLÁSTICO PARA VASO SANITÁRIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "14305: DESODORIZADOR SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292731,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VEGETAL, COMPRIMENTO 50 M, LARGURA 8 CM, TIPO FOLHA SIMPLES, COR BRANCA, CARACTERÍSTICAS ADICIONAIS MACIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292759,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 25 CM, LARGURA 20 CM, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292880,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 90 G, TIPO COM PERFUME, FORMATO RETANGULAR, CARACTERÍSTICAS ADICIONAIS COM CREME HIDRATANTE E GLICERINADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293025,
+    "Descrição do Item": "HASTE FLEXÍVEL , MATERIAL HASTE PLÁSTICO, TIPO HASTE COM RANHURAS, MATERIAL PONTA ALGODÃO, CARACTERÍSTICAS ADICIONAIS COM 2 PONTAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "08178: HASTE FLEXÍVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293191,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 600 M, LARGURA 10 CM, TIPO GOFRADO, COR BRANCA, CARACTERÍSTICAS ADICIONAIS C/ TUBETES DE DIÂMETRO SUPERIOR OU IGUAL A 8,0 CM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293194,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 30 M, LARGURA 10 CM, TIPO GOFRADO E PICOTADO, QUANTIDADE FOLHAS DUPLA, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293348,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 22 CM, COMPRIMENTO 23 CM, COR BRANCA, TIPO FOLHAS SIMPLES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293352,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 2 DOBRAS, QUANTIDADE TOALHA 200 UN, COMPRIMENTO 24,50 CM, LARGURA 21 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA, GOFRADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293353,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA DUPLA PICOTADA, QUANTIDADE TOALHA 120 UN, COMPRIMENTO 22 CM, LARGURA 22 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS TEXTURIZADA, APLICAÇÃO HIGIENE PESSOAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293481,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO CREMOSO, ACIDEZ 5,5 A 7,5 PH, APLICAÇÃO HOSPITALAR, CARACTERÍSTICAS ADICIONAIS ADAPTÁVEL A DISPENSADOR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 294513,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA DUPLA, COMPRIMENTO 21,50 CM, LARGURA 14,80 CM, COR BRANCA, APLICAÇÃO HIGIENE PESSOAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 294630,
+    "Descrição do Item": "LENÇO DESCARTÁVEL , MATERIAL PAPEL, COMPRIMENTO 6 POL, LARGURA 4 POL, APLICAÇÃO LIMPAR LENTES LENS CLEANER, APRESENTAÇÃO ENVELOPE C/ 100 UNIDADES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "15570: LENÇO DESCARTÁVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 294861,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 600 CM, LARGURA 10 CM, TIPO PICOTADO, QUANTIDADE FOLHAS DUPLA, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 295423,
+    "Descrição do Item": "DENTIFRÍCIO , APLICAÇÃO HIGIENE DENTAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "06061: DENTIFRÍCIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 295677,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL ALTA ALVURA, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 27 CM, LARGURA 23 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ALTA RESISTÊNCIA, C/ ABSORÇÃO, GRAMATURA ENTRE 25",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296165,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO URINÁRIO MASCULINO, COMPRIMENTO 27,5_CM, LARGURA 8,0 CM, CARACTERÍSTICAS ADICIONAIS ABSORÇÃO 180ML,MANTA CELULOSE,POLÍMEROS ACRÍLICOS, MATERIAL FACE POLIPROPILENO(SUPERIOR),POLIETILENO(INFERIOR), TIPO ADESIVO TERMOPLÁSTICO PROTEGIDO FITA PAPEL SILICONIZADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296293,
+    "Descrição do Item": "PROTETOR ASSENTO SANITÁRIO , MATERIAL CARTÃO DUPLEX, TIPO USO DESCARTÁVEL, COR BRANCA, CARACTERÍSTICAS ADICIONAIS MACIO, RESISTENTE, PAPEL IMPERMEÁVEL/BIODEGRADÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "16164: PROTETOR ASSENTO SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 296845,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VEGETAL, COMPRIMENTO 300 M, LARGURA 8 CM, TIPO FOLHA SIMPLES, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297836,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 300 M, LARGURA 10 CM, QUANTIDADE FOLHAS DUPLA, COR BRANCA, CARACTERÍSTICAS ADICIONAIS EXTRAMACIO, NÃO PICOTADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297842,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO CREMOSO, APLICAÇÃO ANTI-SEPSIA DAS MÃOS, COMPOSIÇÃO GLICERINA, AGENTES EMOLIENTES, TRICLOSAN 0,5%",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297943,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 90 G, TIPO COM PERFUME, CARACTERÍSTICAS ADICIONAIS PH 5,5 A 8,5",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298019,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO PÓS-PARTO, FORMATO LONGO, APRESENTAÇÃO HIPOALERGÊNICO, COMPRIMENTO 35 CM, LARGURA 13 CM, CARACTERÍSTICAS ADICIONAIS CAMADA INTERNA ABSORVENTE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 298917,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA SIMPLES, COMPRIMENTO 47 CM, LARGURA 32,50 CM, COR VERDE E OURO, CARACTERÍSTICAS ADICIONAIS IMPRESSÃO POR RETÍCULA, APLICAÇÃO MESA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299048,
+    "Descrição do Item": "APLICADOR TINTURA , MATERIAL PLÁSTICO, CAPACIDADE 1 L, APLICAÇÃO TINTA À BAIXA PRESSÃO, PINTURA COM ACABAMENTO, CARACTERÍSTICAS ADICIONAIS FORÇA DE COMPRESSÃO 45 LIBRAS DE AR COMPRIMIDO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "17721: APLICADOR TINTURA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299594,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 30 CM, COMPRIMENTO 30 CM, COR BRANCA, TIPO FOLHAS DUPLA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299911,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO NORMAL SEM ABAS, FORMATO TRADICIONAL, APRESENTAÇÃO EXTERNA, COMPRIMENTO 40 CM, LARGURA 15 CM, CARACTERÍSTICAS ADICIONAIS NÃO ESTÉRIL, COBERTURA EXTERNA DE ALGODÃO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 300366,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS BITUFO/COM UM TUFO DE CERDAS EM CADA EXTREMIDADE, TIPO CERDAS ARREDONDADAS, MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABO ANATÔMICO, MODELO MACIO, COR BRANCA, APLICAÇÃO ADULTO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 300368,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS INTERDENTAL/CÔNICA FINA, MATERIAL CERDAS NÁILON, MATERIAL CABO ARAME, TIPO CABO CÔNICO, COR BRANCA, APLICAÇÃO ADULTO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 301133,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 90 G, TIPO COM PERFUME, COR ÂMBAR, CARACTERÍSTICAS ADICIONAIS BAIXA FRAGÂNCIA E LIVRE DE CORANTES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 301135,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL / CELULOSE VIRGEM, TIPO FOLHA 1 DOBRA, COMPRIMENTO 22 CM, LARGURA 20,70 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA, MACIA, ABSORVENTE ISENTO DE IMPUREZA, APLICAÇÃO EM TOALETES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 301139,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 30 M, LARGURA 10 CM, TIPO PICOTADO, QUANTIDADE FOLHAS DUPLA, COR BRANCA, CARACTERÍSTICAS ADICIONAIS EXTRA MACIO E SEM PERFUME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 301404,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 2 DOBRAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 301468,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 27 CM, LARGURA 23 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 301505,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 21 CM, COMPRIMENTO 23 CM, COR BRANCA, TIPO FOLHAS SIMPLES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 301728,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO NORMAL COM ABAS, CARACTERÍSTICAS ADICIONAIS ADULTO, COM GEL, ALTA PROTEÇÃO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 302465,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 33 CM, COMPRIMENTO 39 CM, COR BRANCA, TIPO FOLHAS SIMPLES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 302517,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 100 G, APLICAÇÃO USO HOSPITALAR, CARACTERÍSTICAS ADICIONAIS COMPOSTO POR ÁCIDO SALICÍLICO E ENXOFRE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 302643,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 90 G, FORMATO OVALADO, COR BRANCA, CARACTERÍSTICAS ADICIONAIS COM ÓLEO DE AMÊNDOAS E HIDRANTES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 303473,
+    "Descrição do Item": "XAMPU , APLICAÇÃO TRATAMENTO DE ECZEMA SEBORRÉICO, PITIRÍASE, SEBOR-, CARACTERÍSTICAS ADICIONAIS 0,3% ÓLEO DE CADE, 0,3% ALCATRÃO DE PINHO, 0,3% AL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "13484: XAMPU",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 304403,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 20 CM, COMPRIMENTO 20 CM, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 304407,
+    "Descrição do Item": "ESCOVA DENTAL , MATERIAL CERDAS NAILON E POLIESTER, MATERIAL CABO PLÁSTICO, TIPO CABO CURTO E ANATÔMICO, TIPO CABEÇA PEQUENO, MODELO MACIO, APLICAÇÃO INFANTIL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 304738,
+    "Descrição do Item": "HASTE FLEXÍVEL , MATERIAL HASTE PLÁSTICO, MATERIAL PONTA ESPUMA, APLICAÇÃO HIGIENE PESSOAL, CARACTERÍSTICAS ADICIONAIS DESCARTÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "08178: HASTE FLEXÍVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 306388,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 28 CM, COMPRIMENTO 32 CM, COR BRANCA, TIPO FOLHAS SIMPLES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 306398,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS Nº 30, COM INDICADOR, TIPO CERDAS PONTAS ARREDONDADAS E POLIDAS, MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABO ANATÔMICO, TIPO CABEÇA COM CANTOS ARREDONDADOS, MODELO EXTRA MACIA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307347,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL 100% DE FIBRAS RECICLÁVEIS (50% CELULOSE E 50% APA, COMPRIMENTO 23 CM, LARGURA 27 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ALTO GRAU DE ABSORÇÃO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307464,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO, APLICAÇÃO P/HIGIENIZAÇÃO E HIDRATAÇÃO DA PELE, CARACTERÍSTICAS ADICIONAIS REFIL HERMETICAMENTE FECHADO, VÁLVULA DOSADORA, COMPOSIÇÃO LAURIL ÉTER DE SÓDIO, COCOAMIDOPROPIL BATAÍNA, DIE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307796,
+    "Descrição do Item": "DESODORIZADOR SANITÁRIO , COMPOSIÇÃO DODECIL BENZENO, SULFONATO DE SÓDIO, COADJUVANTE E, ESSÊNCIA VARIADO, ASPECTO FÍSICO SÓLIDO, CARACTERÍSTICAS ADICIONAIS SUPORTE COMPATÍVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "14305: DESODORIZADOR SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 308536,
+    "Descrição do Item": "XAMPU , TIPO ANTICASPA, APLICAÇÃO CABELOS NORMAIS, CARACTERÍSTICAS ADICIONAIS 0,3% ÓLEO DE CADE, 0,3% ALCATRÃO DE PINHO, 0,3% AL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "13484: XAMPU",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310937,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 50 CM, COMPRIMENTO 50 CM, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 311516,
+    "Descrição do Item": "PROTETOR ASSENTO SANITÁRIO , MATERIAL FIBRAS NATURAIS, TIPO USO DESCARTÁVEL, COR BRANCA, CARACTERÍSTICAS ADICIONAIS PAPEL IMPERMEÁVEL/BIODEGRADÁVEL, DIMENSÕES 45 CM X 38 CM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "16164: PROTETOR ASSENTO SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 312041,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA SIMPLES, COMPRIMENTO 100 M, LARGURA 20 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS SUPER RESISTENTE, RÁPIDA ABSORÇÃO DE LÍQUIDO,GOFRA, APLICAÇÃO HIGIENE PESSOAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312060,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 3 DOBRAS, COMPRIMENTO 27 CM, LARGURA 23 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS SUPER RESISTENTE, RÁPIDA ABSORÇÃO DE LÍQUIDO,GOFRA, APLICAÇÃO HIGIENE PESSOAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312074,
+    "Descrição do Item": "SABONETE LÍQUIDO , AROMA SUAVE, ASPECTO FÍSICO LÍQUIDO VISCOSO CREMOSO, APLICAÇÃO SABONETEIRA PARA SABONETES LÍQUIDOS, CARACTERÍSTICAS ADICIONAIS REFIL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312709,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 12 A 15 G",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312902,
+    "Descrição do Item": "ESCOVA DENTAL , MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABEÇA GRANDE, APLICAÇÃO ORIENTAÇÃO DE PROFILAXIA E HIGIENE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 313073,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, COMPRIMENTO 50 M, LARGURA 25 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHAS/CREPADO, 42 G/M2, APLICAÇÃO COZINHA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 313822,
+    "Descrição do Item": "DENTIFRÍCIO , COMPOSIÇÃO BÁSICA MONOFLUORFOSFATO DE SÓDIO - 1500 PPM, CAPACIDADE 90 G",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "06061: DENTIFRÍCIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314108,
+    "Descrição do Item": "FIO DENTAL , MATERIAL POLIAMIDA, COMPRIMENTO 500 M, CARACTERÍSTICAS ADICIONAIS ENCERADO, AROMATIZADO E EXTRA-FINO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314683,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, COMPRIMENTO 100 M, LARGURA 20 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS DESCARTÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314739,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VEGETAL, COMPRIMENTO 600 M, LARGURA 10 CM, TIPO FOLHA SIMPLES, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314743,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM OU APARAS EXCELENTE QUALIDADE, COMPRIMENTO 30 M, LARGURA 10 CM, TIPO FOLHA SIMPLES, COR BRANCA, CARACTERÍSTICAS ADICIONAIS MACIO, ABSORVENTE E HOMOGÊNEO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314832,
+    "Descrição do Item": "LENÇO DESCARTÁVEL , MATERIAL PAPEL, COMPRIMENTO 22 CM, LARGURA 21 CM, APLICAÇÃO LIMPEZA DE TRANSDUTORES, APRESENTAÇÃO ENVELOPE C/ 100 UNIDADES, CARACTERÍSTICAS ADICIONAIS MACIO E DUPLO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "15570: LENÇO DESCARTÁVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314838,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO PÓS-PARTO, COMPRIMENTO 45 CM, LARGURA 15 CM, CARACTERÍSTICAS ADICIONAIS COBERTURA INTERNA DE FALSO TECIDO, PELÍCULA EXTER-",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 315004,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL 100% CELULOSE VIRGEM, TIPO FOLHA CREPADO, COMPRIMENTO 40 CM, LARGURA 30 CM, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317433,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL ALTA ALVURA, TIPO FOLHA SIMPLES, COMPRIMENTO 26 CM, LARGURA 21,50 CM, COR BRANCA, APLICAÇÃO HIGIENE PESSOAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319161,
+    "Descrição do Item": "PENTE DE CABELO , MATERIAL PLÁSTICO, MODELO CABO, DENTES GROSSOS, TAMANHO GRANDE, TIPO DENTES SEPARADOS, FINALIDADE ALISAR FIOS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10630: PENTE DE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319162,
+    "Descrição do Item": "PENTE DE CABELO , MATERIAL PLÁSTICO, MODELO CABO, DENTES FINOS, TAMANHO GRANDE, TIPO DENTES PRÓXIMOS, FINALIDADE ALISAR FIOS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10630: PENTE DE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319191,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, COMPRIMENTO 23 CM, LARGURA 23 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA, APLICAÇÃO EM TOALETES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319232,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 23 CM, LARGURA 21 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA, ACONDICIONADO EM PACOTE DE 1.000 FOL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319378,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO CREMOSO, ODOR ERVA DOCE, ACIDEZ NEUTRO PH, CARACTERÍSTICAS ADICIONAIS VISCOSIDADE MÍNIMA 600 CPS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319394,
+    "Descrição do Item": "SABONETE , ACIDEZ 6 A 7 PH, ASPECTO FÍSICO GEL, APLICAÇÃO USO HOSPITALAR, CARACTERÍSTICAS ADICIONAIS GLICERINADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 320029,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 22,50 CM, LARGURA 21,50 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA, APLICAÇÃO EM TOALETES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 320135,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, COMPRIMENTO 23 CM, LARGURA 23 CM, COR CREME, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA, APLICAÇÃO LIMPEZA EM GERAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 320724,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO FINO SEM ABAS, CARACTERÍSTICAS ADICIONAIS PROTEÇÃO DIÁRIA E SEM PERFUME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 320725,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO INTERNO, CARACTERÍSTICAS ADICIONAIS MÉDIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 320726,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 80 G, TIPO COM PERFUME, FORMATO OVALADO, CARACTERÍSTICAS ADICIONAIS COM CREME HIDRATANTE E GLICERINADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 320785,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO MINI, APRESENTAÇÃO EXTERNA, CARACTERÍSTICAS ADICIONAIS ADULTO E ABAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 320903,
+    "Descrição do Item": "APARELHO BARBEAR , TIPO DESCARTÁVEL, MATERIAL LÂMINA AÇO, QUANTIDADE LÂMINAS 2 UN, MATERIAL CABO PLÁSTICO, TIPO CABO LONGO/ARREDONDADO, COR ROSA, CARACTERÍSTICAS ADICIONAIS FITA LUBRIFICANTE COR ROSA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02676: APARELHO BARBEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 320977,
+    "Descrição do Item": "DENTIFRÍCIO , COMPOSIÇÃO BÁSICA MONOFLUORFOSFATO DE SÓDIO - 1500 PPM, CAPACIDADE 50 G, APLICAÇÃO DENTES SENSÍVEIS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "06061: DENTIFRÍCIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 324464,
+    "Descrição do Item": "LENÇO DESCARTÁVEL , MATERIAL PAPEL, COMPRIMENTO 21 CM, LARGURA 19 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS MACIO E DUPLO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "15570: LENÇO DESCARTÁVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 324628,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, COMPRIMENTO 60 CM, LARGURA 60 CM, APLICAÇÃO AMBIENTE HOSPITALAR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325014,
+    "Descrição do Item": "LENÇO DESCARTÁVEL , MATERIAL PAPEL, COMPRIMENTO 21,50 CM, LARGURA 14,80 CM, CARACTERÍSTICAS ADICIONAIS MACIO E DUPLO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "15570: LENÇO DESCARTÁVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325668,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL FIBRAS VIRGENS DE CELULOSE, COMPRIMENTO 22,50 CM, LARGURA 21,50 CM, CARACTERÍSTICAS ADICIONAIS INTERFOLHAS/CREPADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325966,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COMPRIMENTO 300 M, COR PARDA, CARACTERÍSTICAS ADICIONAIS EXTRA LUXO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 327038,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL FIBRAS CELULÓSICAS, COMPRIMENTO 21,50 CM, LARGURA 11 CM, TIPO INTERFOLHADO, QUANTIDADE FOLHAS DUPLA, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 327844,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL 100% FIBRAS CELULÓSICAS, COMPRIMENTO 300 M, LARGURA 10 CM, TIPO BOA QUALIDADE, CARACTERÍSTICAS ADICIONAIS BIODEGRADÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 328301,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO PEROLADO, COR VERDE CLARO, ACIDEZ PH NEUTRO, APLICAÇÃO P/HIGIENIZAÇÃO E HIDRATAÇÃO DA PELE, COMPOSIÇÃO CLORETO DE SÓDIO, ÁCIDO CÍTRICO, ESSÊNCIA, EDTA DI",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 328456,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL / CELULOSE VIRGEM, QUANTIDADE TOALHA 120 UN, COMPRIMENTO 22 CM, LARGURA 19 CM, COR BRANCA, APLICAÇÃO COZINHA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 328629,
+    "Descrição do Item": "SABONETE , PRAZO MÍNIMO VALIDADE 12 MESES, ASPECTO FÍSICO SÓLIDO, PESO 150 G, TIPO COM PERFUME, APLICAÇÃO HIGIENIZAÇÃO, CARACTERÍSTICAS ADICIONAIS EMBALAGEM INDIVIDUAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 328854,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, COMPRIMENTO 50 M, LARGURA 25 CM, COR CREME, CARACTERÍSTICAS ADICIONAIS CALANDRADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 329061,
+    "Descrição do Item": "DESODORANTE , TIPO STICK, MODELO COM PERFUME, CARACTERÍSTICAS ADICIONAIS SEMI-CIRCULAR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "06110: DESODORANTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 329618,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA INTERFOLHA, COMPRIMENTO 23 CM, LARGURA 23 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS NÃO RECICLADO -30-40 G, APLICAÇÃO HIGIENE PESSOAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 332549,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 20 CM, COMPRIMENTO 23 CM, COR BRANCA, TIPO FOLHAS DUPLA, CARACTERÍSTICAS ADICIONAIS MACIO E ABSORVENTE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 334178,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, COMPRIMENTO 200 M, LARGURA 20 CM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 337695,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL ALTA ALVURA, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 22 CM, LARGURA 22 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA, MACIA E ABSORVENTE, APLICAÇÃO EM TOALETES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338004,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL 100% CELULOSE VIRGEM, TIPO FOLHA 3 DOBRAS, COMPRIMENTO 22 CM, LARGURA 23 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS DESCARTÁVEL, APLICAÇÃO HIGIENE PESSOAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338011,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL FIBRAS VIRGENS DE CELULOSE, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 22 CM, LARGURA 22 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA, MACIA E ABSORVENTE, APLICAÇÃO EM TOALETES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338079,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL ALTA ALVURA, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 22,50 CM, LARGURA 26 CM, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338091,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 22,50 CM, COMPRIMENTO 26 CM, COR BRANCA, TIPO FOLHAS SIMPLES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338359,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 30 CM, COMPRIMENTO 33 CM, TIPO FOLHAS DUPLA, CARACTERÍSTICAS ADICIONAIS ALTA CLASSE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338660,
+    "Descrição do Item": "FIO DENTAL , MATERIAL FIO TEXTURIZADO, COMPRIMENTO 100 M, TIPO REGULAR, SABOR NEUTRO, CARACTERÍSTICAS ADICIONAIS COM FLÚOR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338875,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO CREMOSO, ACIDEZ NEUTRO PH, CARACTERÍSTICAS ADICIONAIS ANTISÉPTICO E GERMICIDA, COMPOSIÇÃO TRICLOSAN 3% HIDRATANTE DE GLICERINA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339177,
+    "Descrição do Item": "PROTETOR ASSENTO SANITÁRIO , MATERIAL FIBRAS NATURAIS, TIPO USO DESCARTÁVEL, COR BRANCA, CARACTERÍSTICAS ADICIONAIS FOLHA DOBRADA AO MEIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "16164: PROTETOR ASSENTO SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339700,
+    "Descrição do Item": "SABONETE LÍQUIDO , AROMA ERVA-DOCE, ASPECTO FÍSICO LÍQUIDO VISCOSO, ACIDEZ NEUTRO PH, COMPOSIÇÃO LAURIL ÉTER SULFATO DE SÓDIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 342052,
+    "Descrição do Item": "FIO DENTAL , MATERIAL POLIAMIDA, COMPRIMENTO 500 M, CARACTERÍSTICAS ADICIONAIS COM CERA MINERAL, AROMATIZADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 342815,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL FIBRAS CELULÓSICAS, LARGURA 10 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS PICOTADO E SIMPLES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 343653,
+    "Descrição do Item": "PENTE DE CABELO , MATERIAL PLÁSTICO, MODELO CABO, DENTES FINOS, TAMANHO GRANDE, TIPO DENTES PRÓXIMOS, FINALIDADE RETIRAR PIOLHOS COURO CABELUDO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10630: PENTE DE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 344052,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO, COR BRANCA, ACIDEZ 8 A 9,5 PH, APLICAÇÃO ANTI-SEPSIA DAS MÃOS, CARACTERÍSTICAS ADICIONAIS REFIL, RECIPIENTE PLÁSTICO FECHADO,ODOR SEM CHEIRO, COMPOSIÇÃO ÁLCOOL ETÍLICO, CLORETO DE MONOETANOLAMÔNIO, CORAN",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 344136,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO, COR BRANCA, ACIDEZ 8 A 9,50 PH, APLICAÇÃO ANTI-SEPSIA DAS MÃOS, COMPOSIÇÃO ÁLCOOL ETÍLICO, CLORETO DE MONOETANOLAMÔNIO, CORAN",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346047,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO CREMOSO, ACIDEZ NEUTRO PH, APLICAÇÃO ANTI-SEPSIA DAS MÃOS, CARACTERÍSTICAS ADICIONAIS AROMATIZANTE, COMPOSIÇÃO GLICERINA, AGENTES EMOLIENTES, TRICLOSAN 0,5%",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346297,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL 100% FIBRA CELULOSE VIRGEM, TIPO FOLHA INTERFOLHA, COMPRIMENTO 22,50 CM, LARGURA 20,50 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS LUXO E GRAMATURA 27 A 29 G/M², APLICAÇÃO EM TOALETES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 350834,
+    "Descrição do Item": "DESODORIZADOR SANITÁRIO , COMPOSIÇÃO ALQUILBENZENO SULFATO DE SÓDIO, ÁLCOOL ETOXILADO,, ASPECTO FÍSICO TABLETE SÓLIDO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "14305: DESODORIZADOR SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 350880,
+    "Descrição do Item": "DESODORIZADOR SANITÁRIO , COMPOSIÇÃO ÁLCOOIS ETOXILADOS, SOLVENTE, PERFUME, COADJUVANTE, ASPECTO FÍSICO LÍQUIDO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "14305: DESODORIZADOR SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 351162,
+    "Descrição do Item": "SABONETE LÍQUIDO , AROMA ERVA-DOCE, ASPECTO FÍSICO CREMOSO, COR BRANCA, ACIDEZ 7 A 7,50 PH, APLICAÇÃO ASSEPSIA DAS MÃOS, COMPOSIÇÃO LAURIL ÉTER SULFATO DE SÓDIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 352073,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, LARGURA 10 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS FOLHA SIMPLES, GOFRADO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 352209,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS CABO TRANSPARENTE, TIPO CERDAS PONTAS ARREDONDADAS, MATERIAL CABO PLÁSTICO, TIPO CABEÇA PEQUENO ARREDONDADO, MODELO MACIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 353142,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 23 CM, LARGURA 21 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 354094,
+    "Descrição do Item": "ESCOVA UNHA , MATERIAL CORPO PLÁSTICO, MATERIAL CERDAS ESPUMA, TIPO CERDAS/ESPUMA, COR CORPO BRANCA, COR CERDAS BRANCA, CARACTERÍSTICAS ADICIONAIS ESTÉRIL/ASSEPSIA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06947: ESCOVA UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 356771,
+    "Descrição do Item": "PROTETOR ASSENTO SANITÁRIO , MATERIAL PAPEL, TIPO USO DESCARTÁVEL, COR BRANCA, CARACTERÍSTICAS ADICIONAIS COM ABAS, FITA ADESIVA E ALÇA REMOVEDORA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "16164: PROTETOR ASSENTO SANITÁRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 358050,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO TIPO HOSPITALAR, COMPRIMENTO 40 CM, LARGURA MÍNIMA 10 E MÁXIMA 30 CM, CARACTERÍSTICAS ADICIONAIS CAMADA INTERNA TRIPLA EM ALGODãO E FLOCOS DE GEL, COMPONENTE ADICIONAL CAMADA EXTERNA FILME PLÁSTICO RESISTE IMPERMEÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 358051,
+    "Descrição do Item": "ABSORVENTE HIGIÊNICO , TIPO TIPO HOSPITALAR, COMPRIMENTO 40 CM, LARGURA LARGURA MÍNIMA 10CM CM, CARACTERÍSTICAS ADICIONAIS CAMADA INTERNA TRIPLA EM ALGODãO E FLOCOS DE GEL, COMPONENTE ADICIONAL CAMADA EXTERNA FILME PLÁSTICO RESISTE IMPERMEÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "01210: ABSORVENTE HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 359390,
+    "Descrição do Item": "PENTE DE CABELO , MATERIAL MADEIRA, MODELO COM DENTES, TAMANHO GRANDE, TIPO DENTES LARGOS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10630: PENTE DE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 359969,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL 100% FIBRA CELULOSE VIRGEM, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 22 CM, LARGURA 21,60 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS ALTO PODER DE ABSORÇÃO, GRAMATURA MÍNIMA 36 G/M2",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 360467,
+    "Descrição do Item": "CONJUNTO HIGIENE , COMPOSIÇÃO ESCOVA DOBRÁVEL/DENTIFRÍCIO/FIO DENTAL, TIPO EMBALAGEM BOLSA DE COURO/FORRO DE NYLON/FECHO TIPO BOTÃO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "05729: CONJUNTO HIGIENE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 361428,
+    "Descrição do Item": "APARELHO BARBEAR , TIPO DESCARTÁVEL, MATERIAL LÂMINA AÇO, QUANTIDADE LÂMINAS 2 UN, MATERIAL CABO PLÁSTICO, CARACTERÍSTICAS ADICIONAIS COM FITA LUBRIFICANTE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02676: APARELHO BARBEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 362179,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL ALTA ALVURA, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 22,50 CM, LARGURA 26 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364307,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VEGETAL, LARGURA 10 CM, COR EXTRA BRANCO, CARACTERÍSTICAS ADICIONAIS FOLHA DUPLA SEM PERFUME",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364309,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VEGETAL, LARGURA 10 CM, COR EXTRA BRANCO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 365024,
+    "Descrição do Item": "FIO DENTAL , MATERIAL FIO TEXTURIZADO, COMPRIMENTO 25 M, TIPO REGULAR, SABOR TUTTI-FRUTTI, CARACTERÍSTICAS ADICIONAIS COM FLÚOR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 372452,
+    "Descrição do Item": "CONJUNTO HIGIENE , USO INFANTIL, COMPOSIÇÃO ESCOVA DENTAL, CREME DENTAL, FIO DENTAL, TIPO EMBALAGEM CONFORME MODELO DO ÓRGÃO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "05729: CONJUNTO HIGIENE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 372527,
+    "Descrição do Item": "DENTIFRÍCIO , COMPOSIÇÃO BÁSICA CREME DENTAL COM FLUOR ATIVO DE (1100 PPM), TIPO ADULTO, CAPACIDADE 50 G",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "06061: DENTIFRÍCIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 372618,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, COR EXTRA BRANCO, CARACTERÍSTICAS ADICIONAIS INTERFOLHADO, FOLHAS DE 21,50 X 22 CM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373308,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO CREMOSO, ACIDEZ PH NEUTRO, CARACTERÍSTICAS ADICIONAIS SEM ESSÊNCIA, COMPOSIÇÃO GLICERINA, AGENTES EMOLIENTES, TRICLOSAN 0,3%",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373349,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL 100% CELULOSE VIRGEM, TIPO FOLHA 3 DOBRAS, COMPRIMENTO 23 CM, LARGURA 22 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374443,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL CELULOSE (100% FIBRAS NATURAIS), COMPRIMENTO 200 M, LARGURA 20 CM, COR BRANCA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 376419,
+    "Descrição do Item": "PINCEL , MATERIAL CABO MADEIRA, TIPO CERDAS NATURAL, CARACTERÍSTICAS ADICIONAIS CERDAS MÉDIAS E NÃO IRRITA A PELE, FORMATO CHATO, TAMANHO 20 MM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10733: PINCEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 376420,
+    "Descrição do Item": "PINCEL , MATERIAL CABO MADEIRA, TIPO CERDAS NATURAL, CARACTERÍSTICAS ADICIONAIS CERDAS MÉDIAS E NÃO IRRITA A PELE, FORMATO CHATO, TAMANHO 50 MM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10733: PINCEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 376421,
+    "Descrição do Item": "PINCEL , MATERIAL CABO MADEIRA, TIPO CERDAS NATURAL, CARACTERÍSTICAS ADICIONAIS CERDAS MÉDIAS E NÃO IRRITA A PELE, FORMATO CHATO, TAMANHO 30 MM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10733: PINCEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 376554,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL ALTA ALVURA, TIPO FOLHA 2 DOBRAS, COMPRIMENTO 26 CM, LARGURA 23 CM, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA 100% CELULOSE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 376771,
+    "Descrição do Item": "SABONETE LÍQUIDO , AROMA ERVA-DOCE, ASPECTO FÍSICO LÍQUIDO CREMOSO EM GEL, COR BRANCA, APLICAÇÃO ANTI-SEPSIA DAS MÃOS, CARACTERÍSTICAS ADICIONAIS REFIL, COMPOSIÇÃO TENSOATIVO ANIONICO ANFOFERO ALCALAMIDA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 376979,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL ALTA ALVURA, TIPO FOLHA 3 DOBRAS, COMPRIMENTO 26 CM, LARGURA 20 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS INTERFOLHADA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 377117,
+    "Descrição do Item": "LENÇO DESCARTÁVEL , MATERIAL TECIDO NÃO TECIDO, COMPRIMENTO 19 CM, LARGURA 12 CM, COR BRANCA, APLICAÇÃO HIGIENE PESSOAL, APRESENTAÇÃO BALDE 400 FOLHAS, CARACTERÍSTICAS ADICIONAIS TESTADO DERMATOLOGICAMENTE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "15570: LENÇO DESCARTÁVEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 377490,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 80 G, CARACTERÍSTICAS ADICIONAIS COMPOSTO POR ÁCIDO SALICÍLICO E ENXOFRE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 378441,
+    "Descrição do Item": "LENÇO DESCARTÁVEL , MATERIAL FIBRAS RESISTENTES E FLEXÍVEIS, COMPRIMENTO 20 CM, LARGURA 11 CM, COR BRANCA, QUANTIDADE FOLHAS 2, TIPO FOLHA SOLTA, APLICAÇÃO LIMPEZA / HIGIENE, APRESENTAÇÃO DUPLA, UMEDECIDO, CARACTERÍSTICAS ADICIONAIS PH BALANCEADO, AROMA SUAVE, SACHÊ, TIRA FÁCIL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "15570: LENÇO DESCARTÁVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 378863,
+    "Descrição do Item": "DENTIFRÍCIO , COMPOSIÇÃO BÁSICA CREME DENTAL COM FLUOR ATIVO DE (1100 PPM), SABOR TUTTI-FRUTTI, TIPO INFANTIL, CAPACIDADE 90 G",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "06061: DENTIFRÍCIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 380543,
+    "Descrição do Item": "APARELHO BARBEAR , TIPO LÂMINA DESCARTÁVEL, MATERIAL LÂMINA AÇO, QUANTIDADE LÂMINAS 2 LÂMINAS UN, MATERIAL CABO PLÁSTICO, TIPO CABO ANATÔMICO COM ESTRIAS DE BORRACHA, COR PRATA, CARACTERÍSTICAS ADICIONAIS COM FITA LUBRIFICANTE E MICROTENSORES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "02676: APARELHO BARBEAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 382682,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 18 CM, COMPRIMENTO 32 CM, COR BRANCA, TIPO FOLHAS SIMPLES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 384525,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO CREMOSO, ACIDEZ PH NEUTRO, CARACTERÍSTICAS ADICIONAIS SEM ESSÊNCIA, COMPOSIÇÃO GLICERINA, AGENTES EMOLIENTES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 385383,
+    "Descrição do Item": "LENÇO DESCARTÁVEL , MATERIAL PAPEL, COMPRIMENTO 21,50 CM, LARGURA 14,80 CM, APLICAÇÃO LIMPEZA INSTRUMENTOS, APRESENTAÇÃO ENVELOPE 50 UNIDADES, CARACTERÍSTICAS ADICIONAIS MACIO E DUPLO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "15570: LENÇO DESCARTÁVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 386844,
+    "Descrição do Item": "LENÇO DESCARTÁVEL , MATERIAL TECIDO NÃO TECIDO, APLICAÇÃO LIMPEZA DAS DIGITAIS, CARACTERÍSTICAS ADICIONAIS COM LANOLINA, PROPILENO GLICOL E ÁGUA DESMINERALI",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "15570: LENÇO DESCARTÁVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 387256,
+    "Descrição do Item": "LENÇO DESCARTÁVEL , MATERIAL TECIDO NÃO TECIDO, COMPRIMENTO 20 CM, LARGURA 13 CM, COR BRANCA, QUANTIDADE FOLHAS 2, TIPO FOLHA SOLTA, APLICAÇÃO HIGIENE ODONTOLÓGICA, APRESENTAÇÃO DUPLA, UMEDECIDO, CARACTERÍSTICAS ADICIONAIS PH FISIOLÓGICO, ATÓXICO, MACIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "15570: LENÇO DESCARTÁVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 387919,
+    "Descrição do Item": "LENÇO DESCARTÁVEL , MATERIAL TNT, COMPRIMENTO 20 CM, LARGURA 13 CM, COR BRANCA, APLICAÇÃO LIMPEZA INSTRUMENTOS, CARACTERÍSTICAS ADICIONAIS DESINFECTANTE ESPECIAL, ELIMINAR VÍRUS E BACTÉRIAS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "15570: LENÇO DESCARTÁVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 389042,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL CELULOSE (100% FIBRAS NATURAIS), TIPO FOLHA INTERFOLHA, 2 DOBRAS, COMPRIMENTO 23 CM, LARGURA 20 CM, CARACTERÍSTICAS ADICIONAIS DESCARTÁVEL, REF.7333, MACIO E ABSORVENTE, APLICAÇÃO EM TOALETES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 390263,
+    "Descrição do Item": "PINCEL , MATERIAL CABO PLÁSTICO, TIPO CERDAS PLÁSTICO DISSIPATIVO, CARACTERÍSTICAS ADICIONAIS ANTI-ESTÁTICO, FORMATO CHATO, TAMANHO 130 MM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10733: PINCEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 390316,
+    "Descrição do Item": "PINCEL , MATERIAL CABO PLÁSTICO, TIPO CERDAS PLÁSTICO DISSIPATIVO, CARACTERÍSTICAS ADICIONAIS ANTI-ESTÁTICO, FORMATO CHATO, TAMANHO 150 MM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10733: PINCEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 390709,
+    "Descrição do Item": "PENTE DE CABELO , MATERIAL PLÁSTICO, MODELO SEM CABO, DENTES FINOS, TAMANHO GRANDE, TIPO DENTES PRÓXIMOS, FINALIDADE ALISAR FIOS, DIMENSÕES 18 CM X 3 MM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10630: PENTE DE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 391397,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, LARGURA 10 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS SOLÚVEL EM ÁGUA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 391513,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL 100% FIBRA CELULOSE VIRGEM, COMPRIMENTO 22 CM, LARGURA 20 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS BIODEGRADÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 391553,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO LÍQUIDO VISCOSO, COR BRANCA, ACIDEZ 6,5, APLICAÇÃO SABONETEIRA PARA SABONETES LÍQUIDOS, CARACTERÍSTICAS ADICIONAIS COM 18% DE HIDRATANTE, COMPOSIÇÃO COCOAMIDOPROPIL BETAINA, PROPILENOGLICOL, DIESTEAR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 391607,
+    "Descrição do Item": "SABONETE LÍQUIDO , ASPECTO FÍSICO CREMOSO, ACIDEZ 6,50 A 7,50, APLICAÇÃO BACTERICIDA, CARACTERÍSTICAS ADICIONAIS BIODEGRADÁVEL: 90%, COMPOSIÇÃO TRICLOSAN: 0,3%",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 391616,
+    "Descrição do Item": "TOALHA DE PAPEL , MATERIAL PAPEL, TIPO FOLHA DUPLA PICOTADA, COMPRIMENTO 22 CM, LARGURA 20 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS GRAMATURA: 26 G/M2; 100% FIBRAS CELULÓSICAS VIRGEM, APLICAÇÃO AMBIENTE HOSPITALAR",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "12792: TOALHA DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 392703,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 22 CM, COMPRIMENTO 24 CM, COR BRANCA, TIPO FOLHAS SIMPLES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 393775,
+    "Descrição do Item": "PAPEL HIGIÊNICO , MATERIAL CELULOSE VIRGEM, LARGURA 22,50 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS FOLHAS SIMPLES/SEM PICOTES/ROLO: 500M TUBETE: 65MM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "10383: PAPEL HIGIÊNICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 394600,
+    "Descrição do Item": "TESOURA CORTE CABELO , MATERIAL AÇO INOXIDÁVEL, TIPO 3 5/8 POL, TAMANHO 17 CM",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "12681: TESOURA CORTE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 396052,
+    "Descrição do Item": "GUARDANAPO DE PAPEL , MATERIAL CELULOSE, LARGURA 24 CM, COMPRIMENTO 24 CM, COR BRANCA, TIPO FOLHAS DUPLA, CARACTERÍSTICAS ADICIONAIS EXTRA MACIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "08122: GUARDANAPO DE PAPEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 396325,
+    "Descrição do Item": "LENÇO DESCARTÁVEL , MATERIAL PAPEL, COMPRIMENTO 21 CM, LARGURA 21 CM, COR BRANCA, CARACTERÍSTICAS ADICIONAIS MACIO E TRIPLO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "15570: LENÇO DESCARTÁVEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 397424,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO ESPUMA \"FOAM\", PESO 5,50 KG, AROMA SUAVE, CARACTERÍSTICAS ADICIONAIS ANTI-RESSECAMENTO MÃOS, REFIL 800ML, BIODEGRADÁVEL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Sim"
+  },
+  {
+    "Código do Item": 397764,
+    "Descrição do Item": "CONJUNTO HIGIENE , USO RECÉM NASCIDO, COMPOSIÇÃO SABONETEIRA, ESCOVA PARA CABELO E PENTE, TIPO EMBALAGEM KIT PARA BANHO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "05729: CONJUNTO HIGIENE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 398861,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS CABO LIGEIRAMENTE FLEXÍVEL, CARACTERÍSTICAS ADICIONAIS COMPRIMENTO 16CM, 4 FILEIRAS TUFO, TOTAL 28 TUFOS, TIPO CERDAS MACIA, DA MESMA ALTURA, EXTREMIDADES ARREDONDADAS, MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABO RETO, FORMATO CABEÇA RETANGULAR, COM CANTOS ARREDONDADOS, APLICAÇÃO INFANTIL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 398862,
+    "Descrição do Item": "ESCOVA DENTAL , CARACTERÍSTICAS ADICIONAIS CABO LIGEIRAMENTE FLEXÍVEL, CARACTERÍSTICAS ADICIONAIS COMPRIMENTO 20CM, 4 FILEIRAS TUFO, TOTAL 36 TUFOS, TIPO CERDAS MACIA, DA MESMA ALTURA, EXTREMIDADES ARREDONDADAS, MATERIAL CERDAS NÁILON, MATERIAL CABO PLÁSTICO, TIPO CABO RETO, FORMATO CABEÇA RETANGULAR, COM CANTOS ARREDONDADOS, APLICAÇÃO ADULTO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06941: ESCOVA DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 398863,
+    "Descrição do Item": "DENTIFRÍCIO , COMPOSIÇÃO BÁSICA CREME DENTAL COM FLUOR ATIVO DE (1100 PPM), SABOR MENTA, CAPACIDADE 90 G, APLICAÇÃO HIGIENE DENTAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "06061: DENTIFRÍCIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 399365,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 100 G, CARACTERÍSTICAS ADICIONAIS HIDRATANTE, HIPOALERGÊNCIO, 7,5% ÓLEO MINERAL",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 399366,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 80 G, CARACTERÍSTICAS ADICIONAIS HIDRATANTE, BASE MANTEIGA DE KARITÉ",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 399643,
+    "Descrição do Item": "SABONETE LÍQUIDO , AROMA ALFAZEMA, ASPECTO FÍSICO LÍQUIDO CREMOSO EM GEL, APLICAÇÃO ASSEPSIA DAS MÃOS, CARACTERÍSTICAS ADICIONAIS REFIL, COMPOSIÇÃO 70% ÁCOOL ETÍLICO+30% ALOE VERA+HIDRATANTES",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11870: SABONETE LÍQUIDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 400193,
+    "Descrição do Item": "FIO DENTAL , MATERIAL FIBRA ESPECIAL, COMPRIMENTO 25 M, CARACTERÍSTICAS ADICIONAIS PTFE (MONO FILAMENTO)",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "07511: FIO DENTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 401243,
+    "Descrição do Item": "PRENDEDOR DE CABELO , MATERIAL 80% POLIÉSTER + 20% ELASTANO, TIPO RABICÓ DE ELÁSTICO, TAMANHO MÉDIO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "17729: PRENDEDOR DE CABELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 401261,
+    "Descrição do Item": "LENÇO DESCARTÁVEL , MATERIAL TNT, COMPRIMENTO 20 CM, LARGURA 11 CM, COR BRANCA, APRESENTAÇÃO DUPLA, UMEDECIDO, CARACTERÍSTICAS ADICIONAIS COM EMBALAGEM FLEXÍVEL, TAMPA FLIP TOP",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8540: ARTIGOS DE PAPEL PARA HIGIENE",
+    "PDM": "15570: LENÇO DESCARTÁVEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 401533,
+    "Descrição do Item": "ESMALTE DE UNHA , TIPO CREMOSO, CAPACIDADE 8 ML, COR VARIADA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06970: ESMALTE DE UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 401534,
+    "Descrição do Item": "ESMALTE DE UNHA , TIPO CINTILANTE, CAPACIDADE 8 ML, COR VARIADA",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06970: ESMALTE DE UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 401623,
+    "Descrição do Item": "PINCEL , MATERIAL CABO MADEIRA COM VIROLA EM ALUMÍNIO, COR VINHO, TIPO CERDAS PELO SINTÉTICO NA COR DOURADA, CARACTERÍSTICAS ADICIONAIS CABO LONGO / TAMANHO: Nº 00, FORMATO REDONDO",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "10733: PINCEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 401689,
+    "Descrição do Item": "ESMALTE DE UNHA , TIPO TRATAMENTO, COR INCOLOR, CARACTERÍSTICAS ADICIONAIS BASE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8530: ARTIGOS PARA HIGIENE PESSOAL",
+    "PDM": "06970: ESMALTE DE UNHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 401884,
+    "Descrição do Item": "SABONETE , ASPECTO FÍSICO SÓLIDO, PESO 90 G, CARACTERÍSTICAS ADICIONAIS PERFUMADO, COM HIDRATANTE",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8520: SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "PDM": "11869: SABONETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 402413,
+    "Descrição do Item": "XAMPU , TIPO NEUTRO, APLICAÇÃO ADULTO, CABELOS NORNAIS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "13484: XAMPU",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 402414,
+    "Descrição do Item": "XAMPU , TIPO NEUTRO, APLICAÇÃO INFANTIL, CABELOS NORMAIS",
+    "Grupo": "85: ARTIGOS DE HIGIENE",
+    "Classe": "8510: PERFUMES, ARTIGOS PARA TOALETE E TOUCADOR",
+    "PDM": "13484: XAMPU",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  }
+]

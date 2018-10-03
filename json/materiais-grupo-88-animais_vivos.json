@@ -1,0 +1,1226 @@
+[
+  {
+    "Código do Item": 47643,
+    "Descrição do Item": "ANIMAL LABORATÓRIO , ANIMAL PARA ESTUDO NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02524: ANIMAL LABORATÓRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 47651,
+    "Descrição do Item": "ANIMAL PARA ALIMENTAÇÃO HUMANA , ANIMAL DE CORTE E ABATE PARA ALIMENTACAO NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02522: ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 47945,
+    "Descrição do Item": "SEMOVENTE , SEMOVENTE NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "12006: SEMOVENTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56120,
+    "Descrição do Item": "POMBO CORREIO , POMBO CORREIO NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "10991: POMBO CORREIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 94471,
+    "Descrição do Item": "ANIMAL PARA CARGA , ANIMAL PARA CARGA NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02523: ANIMAL PARA CARGA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 94480,
+    "Descrição do Item": "ANIMAL PARA EXTRACAO DE COURO , ANIMAL PARA EXTRACAO DE COURO NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02525: ANIMAL PARA EXTRACAO DE COURO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 94498,
+    "Descrição do Item": "ANIMAL PARA EXTRACAO DE LA , ANIMAL PARA EXTRACAO DE LA NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02526: ANIMAL PARA EXTRACAO DE LA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 94501,
+    "Descrição do Item": "ANIMAL PARA PRODUCAO DE LEITE , ANIMAL PARA PRODUCAO DE LEITE NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02527: ANIMAL PARA PRODUCAO DE LEITE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 94510,
+    "Descrição do Item": "ANIMAL PARA PRODUCAO DE MEL , ANIMAL PARA PRODUCAO DE MEL NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02528: ANIMAL PARA PRODUCAO DE MEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 94528,
+    "Descrição do Item": "ANIMAL VIVO , ANIMAL PARA REPRODUCAO NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 112020,
+    "Descrição do Item": "AVE - POSTURA , AVE - POSTURA NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "03150: AVE - POSTURA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 113018,
+    "Descrição do Item": "AVE - PESQUISA , AVE - PESQUISA NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "03149: AVE - PESQUISA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 126543,
+    "Descrição do Item": "ENXAME ABELHA , ENXAME ABELHA NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "06597: ENXAME ABELHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 126608,
+    "Descrição do Item": "ABELHA RAINHA , ABELHA RAINHA NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "01216: ABELHA RAINHA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150621,
+    "Descrição do Item": "ANIMAL VIVO , ANIMAL VIVO NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150902,
+    "Descrição do Item": "ALEVINO , ALEVINO NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "14319: ALEVINO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 198810,
+    "Descrição do Item": "ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO , ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "17292: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 198820,
+    "Descrição do Item": "ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO , ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTA NOME",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "17293: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 229653,
+    "Descrição do Item": "PINTO CORTE , RAÇA ITAGUÁ",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "13984: PINTO CORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231399,
+    "Descrição do Item": "ALEVINO , ESPÉCIE TILÁPIA TAILANDESA, TIPO FILHO DE MATRIZ, DE 1ª GERAÇÃO, IDADE ATÉ 30 DIAS, FINALIDADE FORMAÇÃO DE PLANTEL DE MATRIZES REPRODUTORAS",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "14319: ALEVINO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 234795,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE CAPRINO, RAÇA ALPINA, IDADE 6 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO, PELAGEM CHANOISSE",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240879,
+    "Descrição do Item": "ABELHA RAINHA , ESPÉCIE JATAÍ",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "01216: ABELHA RAINHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240880,
+    "Descrição do Item": "ABELHA RAINHA , ESPÉCIE EUROPA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "01216: ABELHA RAINHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240881,
+    "Descrição do Item": "ABELHA RAINHA , ESPÉCIE AFRICANA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "01216: ABELHA RAINHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 241907,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE BOVINO, RAÇA MESTIÇO, IDADE 36 A 60 MESES, CARACTERÍSTICAS ADICIONAIS NEGATIVO PARA BRUCELOSE E TUBERCULOSE",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 244768,
+    "Descrição do Item": "ANIMAL LABORATÓRIO , ESPÉCIE ANIMAL COELHO, APLICAÇÃO TESTE DE TOXIDADE E PIROGÊNIO, NA PRODUÇÃO DE SORO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02524: ANIMAL LABORATÓRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 244770,
+    "Descrição do Item": "ANIMAL LABORATÓRIO , ESPÉCIE ANIMAL COELHO NOVA ZELÂNDIA, APLICAÇÃO TESTE DE TOXIDADE E PIROGÊNIO, NA PRODUÇÃO DE SORO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02524: ANIMAL LABORATÓRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 248294,
+    "Descrição do Item": "ANIMAL LABORATÓRIO , ESPÉCIE ANIMAL RATO E CAMUNDONGO, APLICAÇÃO TESTE EM LABORATÓRIO E PROJETO DE PESQUISA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02524: ANIMAL LABORATÓRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252030,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE LEPORÍDEOS, RAÇA COELHO, IDADE 2 MESES, CARACTERÍSTICAS ADICIONAIS NOVA ZELANDIA, GIGANTE, BOUSCART COLIFORNIA, PELAGEM BRANCA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252097,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE LEPORÍDEOS, RAÇA COELHO, IDADE 4 A 6 MESES, CARACTERÍSTICAS ADICIONAIS NOVA ZELANDIA, GIGANTE, BOUSCART COLIFORNIA, PELAGEM BRANCA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252346,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE LEPORÍDEOS, RAÇA COELHO, IDADE 4 A 6 MESES, CARACTERÍSTICAS ADICIONAIS NOVA ZELANDIA, GIGANTE, BOUSCART COLIFORNIA, FEMEA, PELAGEM BRANCA, LINHAGEM BOA VISTA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252347,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE LEPORÍDEOS, RAÇA COELHO, IDADE 4 A 6 MESES, CARACTERÍSTICAS ADICIONAIS NOVA ZELANDIA, GIGANTE, BOUSCART COLIFORNIA, MACHO, PELAGEM BRANCA, LINHAGEM BOA VISTA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 253834,
+    "Descrição do Item": "PINTO CORTE , RAÇA COOB, IDADE 1 D",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "13984: PINTO CORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254224,
+    "Descrição do Item": "ANIMAL PARA ALIMENTAÇÃO HUMANA , ESPÉCIE BOVINO, PESO 14 A 16 ARR",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02522: ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254436,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE OVINO, RAÇA SANTA INÊS, IDADE 8 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO (PROVE II ) GRÁU DE CONTROLE DA ASSOCIA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254439,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE OVINO, RAÇA SANTA INÊS, IDADE 4 MESES, CARACTERÍSTICAS ADICIONAIS SEM REGISTRO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254563,
+    "Descrição do Item": "CARCAÇA ANIMAL , ESPÉCIE BOVINA, APRESENTAÇÃO RESFRIADA, PESO ANIMAL VIVO 14 A 16 ARR, APLICAÇÃO AULAS PRÁTICAS",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "16411: CARCAÇA ANIMAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257764,
+    "Descrição do Item": "ANIMAL LABORATÓRIO , ESPÉCIE ANIMAL BOVINO, APLICAÇÃO ESTUDOS",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02524: ANIMAL LABORATÓRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257791,
+    "Descrição do Item": "ANIMAL LABORATÓRIO , ESPÉCIE ANIMAL SUÍNO, APLICAÇÃO TESTE EM LABORATÓRIO E PROJETO DE PESQUISA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02524: ANIMAL LABORATÓRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 258576,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE BOVINO, RAÇA NELORE, IDADE 24 A 48 MESES, CARACTERÍSTICAS ADICIONAIS NEGATIVO PARA BRUCELOSE E TUBERCULOSE",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 258577,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE BOVINO, RAÇA GIROLÂNDIA, IDADE 24 A 48 MESES, CARACTERÍSTICAS ADICIONAIS NEGATIVO PARA BRUCELOSE E TUBERCULOSE",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 258578,
+    "Descrição do Item": "ANIMAL PARA ALIMENTAÇÃO HUMANA , ESPÉCIE BOVINO, PESO 10 A 13 ARR",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02522: ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 258620,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA DUROC, IDADE 6 A 12 MESES, CARACTERÍSTICAS ADICIONAIS SEM REGISTRO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 258642,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNO, FÊMEA, RAÇA DUROC, IDADE 4 A 12 MESES, CARACTERÍSTICAS ADICIONAIS SEM REGISTRO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 259621,
+    "Descrição do Item": "ANIMAL PARA ALIMENTAÇÃO HUMANA , ESPÉCIE AVE DOMÉSTICA, PESO 40 A 44 G, TIPO PINTO DE UM DIA, LINHAGEM ROSS, APLICAÇÃO CRIAÇÃO E ABATE, CARACTERÍSTICAS ADICIONAIS VACINADO CONTRA MAREK, BOUBA AVIÁRIA E GUMBORO, BA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02522: ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 260115,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA LARGE WHITE, PESO 80 A 100 KG, APLICAÇÃO ZOOTÉCNICA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 260116,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNO, FÊMEA, RAÇA LANDRACE, PESO 80 A 100 KG, APLICAÇÃO ZOOTÉCNICA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 262492,
+    "Descrição do Item": "ANIMAL PARA ALIMENTAÇÃO HUMANA , ESPÉCIE CODORNA, PESO 10 G, TIPO PINTO DE UM DIA, APLICAÇÃO CRIAÇÃO E ABATE, CARACTERÍSTICAS ADICIONAIS MACHO E FÊMEA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02522: ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264166,
+    "Descrição do Item": "ANIMAL PARA ALIMENTAÇÃO HUMANA , ESPÉCIE BOVINO, PESO (ANIMAL VIVO) 300 A 360 KG",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02522: ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264619,
+    "Descrição do Item": "ANIMAL PARA ALIMENTAÇÃO HUMANA , ESPÉCIE SUÍNO, PESO 60 KG, LINHAGEM DUROC, CARACTERÍSTICAS ADICIONAIS MACHO E FÊMEA, IDADE 4 A 6 MÊS",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02522: ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265450,
+    "Descrição do Item": "CARCAÇA ANIMAL , ESPÉCIE SUÍNA, APRESENTAÇÃO RESFRIADA, APLICAÇÃO AGROINDÚSTRIA, FABRICAÇÃO DE EMBUTIDOS E DEFUMADOS",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "16411: CARCAÇA ANIMAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265606,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNO, FÊMEA, RAÇA CAMBOUROUGH-22, IDADE APROXIMADAMENTE 5 MESES, PELAGEM BRANCA, PESO 90 A 100 KG, APLICAÇÃO ZOOTÉCNICA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265607,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNO, MACHO, RAÇA AGPIC-409, IDADE 5 MESES, PESO 100 A 110 KG, APLICAÇÃO ZOOTÉCNICA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 270737,
+    "Descrição do Item": "PINTO CORTE , RAÇA PARAÍSO PEDRÊS, IDADE 1 D",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "13984: PINTO CORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 274279,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA LANDRACE, IDADE 4 A 12 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 274280,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA DUROC, IDADE 4 A 12 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO, FÊMEA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 274281,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA LANDRACE, IDADE 4 A 12 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO, FÊMEA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 274282,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA DUROC, IDADE 6 A 12 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 274284,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNO, FÊMEA, RAÇA DUROC, IDADE 4 A 12 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 274285,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNO, FÊMEA, RAÇA LANDRACE, IDADE 4 A 12 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 274362,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNO, MACHO, RAÇA AGPIC-409",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 274773,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE CAPRINO, RAÇA SAANE, IDADE 4 A 6 MESES",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 276542,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE OVINO, RAÇA MESTIÇO, IDADE 4 A 12 MESES, CARACTERÍSTICAS ADICIONAIS SEM REGISTRO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 276547,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNO, MACHO, RAÇA PIETRAIN, IDADE APROXIMADAMENTE 5 MESES, PESO 90 A 100 KG",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 276548,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE LEPORÍDEOS, RAÇA COELHO, IDADE 4 A 6 MESES, CARACTERÍSTICAS ADICIONAIS CHINCHILA, NEGRO E FOGO, NOVA ZELÂNDIA VERMELHO, N",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 277664,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE CANINA, RAÇA PASTOR BELGA MALINOIS, CARACTERÍSTICAS ADICIONAIS FAREJADOR, APLICAÇÃO FISCALIZAÇÃO DE PORTOS E AEROPORTOS",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 280086,
+    "Descrição do Item": "ANIMAL PARA ALIMENTAÇÃO HUMANA , ESPÉCIE AVE DOMÉSTICA, PESO 40 A 44 G, TIPO PINTO POSTURA, LINHAGEM ROSS, APLICAÇÃO CRIAÇÃO E POSTURA, CARACTERÍSTICAS ADICIONAIS FÊMEA, VACINADO CONTRA MAREK",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02522: ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282045,
+    "Descrição do Item": "ALEVINO , ESPÉCIE TAMBACÚ, IDADE ATÉ 30 DIAS, APLICAÇÃO CORTE E PESQUISA, CARACTERÍSTICAS ADICIONAIS NÚMERO 3",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "14319: ALEVINO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282046,
+    "Descrição do Item": "ALEVINO , ESPÉCIE TAMBAQUI, IDADE ATÉ 30 DIAS, APLICAÇÃO CORTE E PESQUISA, CARACTERÍSTICAS ADICIONAIS NÚMERO 3",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "14319: ALEVINO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282048,
+    "Descrição do Item": "ALEVINO , ESPÉCIE PIAU, IDADE ATÉ 30 DIAS, APLICAÇÃO CORTE E PESQUISA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "14319: ALEVINO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282626,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE BOVINO, RAÇA NELORE, IDADE 12 A 14 MESES, CARACTERÍSTICAS ADICIONAIS NEGATIVO PARA BRUCELOSE E TUBERCULOSE",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 283841,
+    "Descrição do Item": "ANIMAL VIVO , TIPO GAROUPA, ESPÉCIE PEIXE, CARACTERÍSTICAS ADICIONAIS ORNAMENTAL, APLICAÇÃO PESQUISA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 287692,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA CAMBOROUGH 23, IDADE APROXIMADAMENTE 5 MESES, CARACTERÍSTICAS ADICIONAIS FÊMEA, PELAGEM BRANCA, PESO 90 A 100 KG, APLICAÇÃO ZOOTÉCNICA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 287693,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA AGPIC-412, IDADE APROXIMADAMENTE 5 MESES, CARACTERÍSTICAS ADICIONAIS MACHO, PELAGEM BRANCA, PESO 100 A 110 KG, APLICAÇÃO ZOOTÉCNICA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 289015,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA LANDRACE, CARACTERÍSTICAS ADICIONAIS REPRODUTOR, PESO 80 A 100 KG, APLICAÇÃO ZOOTÉCNICA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 289016,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, CARACTERÍSTICAS ADICIONAIS REPRODUTOR HÍBRIDO CP 800, PESO 80 A 100 KG, APLICAÇÃO ZOOTÉCNICA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 290855,
+    "Descrição do Item": "ANIMAL PARA ALIMENTAÇÃO HUMANA , ESPÉCIE AVE DOMÉSTICA, PESO 40 A 44 G, TIPO PINTO DE UM DIA, LINHAGEM HISEX BROWN, APLICAÇÃO CRIAÇÃO E POSTURA, CARACTERÍSTICAS ADICIONAIS FÊMEA VACINADA CONTRA MAREK,BOUBA AVIÁRIA E GUMBO-, IDADE 1 D",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02522: ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 290856,
+    "Descrição do Item": "ANIMAL PARA ALIMENTAÇÃO HUMANA , ESPÉCIE AVE DOMÉSTICA, PESO 40 A 44 G, TIPO PINTO DE UM DIA, LINHAGEM COOB, APLICAÇÃO CRIAÇÃO E ABATE, CARACTERÍSTICAS ADICIONAIS MACHO E FÊMEA VACINADOS CONTRA MAREK, BOUBA AVIÁ -, IDADE 1 D",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02522: ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 290857,
+    "Descrição do Item": "ANIMAL PARA ALIMENTAÇÃO HUMANA , ESPÉCIE AVE DOMÉSTICA, PESO 40 A 44 G, TIPO PINTO DE UM DIA, LINHAGEM CAIPIRA PEDRÊS, APLICAÇÃO CRIAÇÃO E ABATE, CARACTERÍSTICAS ADICIONAIS MACHO E FÊMEA VACINADOS CONTRA MAREK, BOUBA AVIÁ -, IDADE 1 D",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02522: ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 290858,
+    "Descrição do Item": "ANIMAL PARA ALIMENTAÇÃO HUMANA , ESPÉCIE AVE DOMÉSTICA, PESO 40 A 45 G, TIPO PINTO DE UM DIA, LINHAGEM CAIPIRA PESADO, APLICAÇÃO CRIAÇÃO E ABATE, CARACTERÍSTICAS ADICIONAIS MACHO E FÊMEA VACINADOS CONTRA MAREK, BOUBA AVIÁ -, IDADE 1 D",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02522: ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293730,
+    "Descrição do Item": "PINTO CORTE , RAÇA HUBBARD / COBB / ROSS / AVIAN FARMSSEXADOS, IDADE 1 D, CARACTERÍSTICAS ADICIONAIS MACHO OU MISTO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "13984: PINTO CORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293903,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA DUROC, CARACTERÍSTICAS ADICIONAIS MACHO, CERTIFICADO DE REGISTRO GENEALÓGICO, PESO 50 A 60 KG",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293910,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA LARGE WHITE, IDADE 5 A 6 MESES, CARACTERÍSTICAS ADICIONAIS FÊMEA, CERTIFICADO DE REGISTRO GENELÓGICO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293921,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA MS60, CARACTERÍSTICAS ADICIONAIS MACHO, APTO PARA REPRODUÇÃO, CERTIFICADO DE REGIS",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293922,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA LANDRACE, IDADE 5 A 6 MESES, CARACTERÍSTICAS ADICIONAIS FÊMEA, CERTIFICADO DE REGISTRO GENELÓGICO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296478,
+    "Descrição do Item": "ANIMAL LABORATÓRIO , ESPÉCIE ANIMAL RÃ, APLICAÇÃO AULAS PRÁTICAS DE MEDICINA VETERINÁRIA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02524: ANIMAL LABORATÓRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297394,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE CAPRINO, RAÇA ANGLO NUBIANO, IDADE 6 A 10 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO, LINHAGEM PO (PURO DE ORIGEM), APLICAÇÃO REPRODUTOR",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297395,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE CAPRINO, RAÇA ANGLO NUBIANO, IDADE 6 A 10 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO, APLICAÇÃO MATRIZ",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297397,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE CAPRINO, RAÇA ANGLO NUBIANO, IDADE 6 A 10 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO, LINHAGEM PO (PURO DE ORIGEM), APLICAÇÃO MATRIZ",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297398,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE CAPRINO, RAÇA BOER, IDADE 6 A 10 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO, LINHAGEM PO (PURO DE ORIGEM), APLICAÇÃO REPRODUTOR",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297399,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE CAPRINO, RAÇA BOER, IDADE 6 A 10 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO, LINHAGEM PO (PURO DE ORIGEM), APLICAÇÃO MATRIZ",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297400,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE OVINO, RAÇA SANTA INÊS, IDADE 6 A 10 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO, LINHAGEM PO (PURO DE ORIGEM), APLICAÇÃO REPRODUTOR",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297401,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE OVINO, RAÇA SANTA INÊS, IDADE 6 A 10 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO, LINHAGEM PO (PURO DE ORIGEM), APLICAÇÃO MATRIZ",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297402,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE OVINO, RAÇA SANTA INÊS, IDADE 6 A 10 MESES, LINHAGEM MESTIÇA, APLICAÇÃO MATRIZ",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297403,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE OVINO, RAÇA SOMALIS, IDADE 6 A 10 MESES, LINHAGEM MESTIÇA, APLICAÇÃO MATRIZ",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297404,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE OVINO, RAÇA SOMALIS, IDADE 6 A 10 MESES, LINHAGEM PO (PURO DE ORIGEM), APLICAÇÃO REPRODUTOR",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297415,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE OVINO, RAÇA MORADA NOVA, IDADE 6 A 10 MESES, LINHAGEM MESTIÇA, APLICAÇÃO MATRIZ",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297416,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE OVINO, RAÇA MORADA NOVA, IDADE 6 A 10 MESES, LINHAGEM PO (PURO DE ORIGEM), APLICAÇÃO REPRODUTOR",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297417,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE CAPRINO, RAÇA PARDA ALPINA AMERICANA, IDADE 6 A 10 MESES, LINHAGEM MESTIÇA, APLICAÇÃO MATRIZ",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297418,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE CAPRINO, RAÇA PARDA ALPINA AMERICANA, IDADE 6 A 10 MESES, APLICAÇÃO REPRODUTOR",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 304508,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNO, FÊMEA, RAÇA CAMBOROUGH 23, PESO 90 KG, APLICAÇÃO ZOOTÉCNICA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314809,
+    "Descrição do Item": "ANIMAL PARA ALIMENTAÇÃO HUMANA , ESPÉCIE AVE, TIPO PINTO DE UM DIA, APLICAÇÃO CRIAÇÃO E ABATE",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02522: ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 316235,
+    "Descrição do Item": "ANIMAL PARA ALIMENTAÇÃO HUMANA , ESPÉCIE BOVINO, PESO 400 A 450 KG, CARACTERÍSTICAS ADICIONAIS ANIMAL VIVO, MACHO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02522: ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 316330,
+    "Descrição do Item": "ALEVINO , ESPÉCIE PIAUAÇU, IDADE ATÉ 30 DIAS, APLICAÇÃO CORTE E PESQUISA, CARACTERÍSTICAS ADICIONAIS 4 A 6CM DE COMPRIMENTO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "14319: ALEVINO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318007,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE BOVINO, RAÇA NELORE P.O, IDADE 18 A 24 MESES",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318012,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE BOVINO, RAÇA MESTIÇA HOLANDESA, IDADE 18 A 24 MESES",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318014,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE BOVINO, RAÇA NELORE, IDADE 18 A 24 MESES",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318017,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE BOVINO, RAÇA HOLANDESA, IDADE 18 A 24 MESES",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318167,
+    "Descrição do Item": "ANIMAL LABORATÓRIO , ESPÉCIE ANIMAL RATO, CASAL, APLICAÇÃO FORMAÇÃO DO PLANTEL INICIAL, LINHAGEM WISTAR HANNOVER, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO SANITÁRIA SPF, MÉTODO ACASALAMENTO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02524: ANIMAL LABORATÓRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 318168,
+    "Descrição do Item": "ANIMAL LABORATÓRIO , ESPÉCIE ANIMAL CAMUNDONGO, CASAL, APLICAÇÃO FORMAÇÃO DO PLANTEL INICIAL, LINHAGEM SWISS, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO SANITÁRIA SPF, MÉTODO ACASALAMENTO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02524: ANIMAL LABORATÓRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322163,
+    "Descrição do Item": "PINTO CORTE , RAÇA CAIPIRÃO, IDADE 1 D, CARACTERÍSTICAS ADICIONAIS MISTO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "13984: PINTO CORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 327169,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE AVE, IDADE 1 D, CARACTERÍSTICAS ADICIONAIS PINTINHA DE POSTURA, GRANJA, PELAGEM BRANCA, APLICAÇÃO AVICULTURA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 327170,
+    "Descrição do Item": "ANIMAL VIVO , USO ALIMENTAÇÃO HUMANA, ESPÉCIE AVE, IDADE 30 D, CARACTERÍSTICAS ADICIONAIS CODORNA DE POSTURA, MACHO OU FÊMEA, APLICAÇÃO ZOOTÉCNICA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 330908,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE CAPRINO, RAÇA SAANE, IDADE 24 A 36 MESES, CARACTERÍSTICAS ADICIONAIS FÊMEA EM LACTAÇÃO E PRODUÇÃO MÉDIA DIÁRIA 1500G, PESO ACIMA DE 40 KG",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 334327,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE AVE, IDADE 6 A 10 MESES, PELAGEM CHANOISSE, LINHAGEM MESTIÇA, PESO APROX. 270 G, APLICAÇÃO PESQUISA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 334359,
+    "Descrição do Item": "ANIMAL VIVO , TIPO BOMBO, ESPÉCIE AVE, IDADE 6 A 10 MESES, PELAGEM CHANOISSE, LINHAGEM MESTIÇA, PESO APROX. 270 G, APLICAÇÃO PESQUISA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 334515,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA LARGE WHITE X PIETRAIN, IDADE 6 MESES, CARACTERÍSTICAS ADICIONAIS MACHO REPRODUTOR, APLICAÇÃO ABATE",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 334781,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE CAPRINO, IDADE 1 A 5 ANOS, APLICAÇÃO PESQUISA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339217,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE CAPRINO, RAÇA BOER X ANGLO NUBIANO, IDADE 120 DIAS, CARACTERÍSTICAS ADICIONAIS MACHO, MEIO SANGUE, SADIO, PESO 18 A 22 KG, APLICAÇÃO PESQUISA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 344583,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE OVINO, RAÇA SANTA INÊS, IDADE 18 A 24 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO, LINHAGEM PO (PURO DE ORIGEM), APLICAÇÃO REPRODUTOR",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346057,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE AVES DE CORTE, CARACTERÍSTICAS ADICIONAIS PENA BRANCA, APLICAÇÃO ABATE",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 355162,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE OVINO, RAÇA DORPER, IDADE 6 A 10 MESES, CARACTERÍSTICAS ADICIONAIS REGISTRADO, LINHAGEM PO (PURO DE ORIGEM), APLICAÇÃO REPRODUTOR",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 361250,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE MINHOCA, RAÇA VERMELHA DA CALIFÓRNIA, CARACTERÍSTICAS ADICIONAIS \"EISENIA ANDREI\", APLICAÇÃO PRODUÇÃO HUMUS",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 361251,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE MINHOCA, RAÇA GIGANTE AFRICANA, CARACTERÍSTICAS ADICIONAIS \"EUDRILUS EUGENIAE\", APLICAÇÃO PRODUÇÃO HUMUS",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364206,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE GALINHA POEDEIRA, RAÇA LAPEL RUGE, CARACTERÍSTICAS ADICIONAIS INICIO DE POSTURA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364208,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE AVE, RAÇA GALO, APLICAÇÃO REPRODUTOR",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 364209,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE GALO, RAÇA LAPEL RUGE, APLICAÇÃO REPRODUTOR",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 369096,
+    "Descrição do Item": "PINTO CORTE , RAÇA CAIPIRA LOBEL ROUGE",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "13984: PINTO CORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373414,
+    "Descrição do Item": "PINTO CORTE , RAÇA CAIPIRA FRANCÊS, IDADE 1 D, CARACTERÍSTICAS ADICIONAIS MISTO/PESADÃO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8810: ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "13984: PINTO CORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374975,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA AGPIC-425, CARACTERÍSTICAS ADICIONAIS MACHO, PESO 100 KG, APLICAÇÃO ZOOTÉCNICA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374976,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA AGPIC-337, CARACTERÍSTICAS ADICIONAIS MACHO, PESO 100 KG, APLICAÇÃO ZOOTÉCNICA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374978,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE SUÍNA, RAÇA CAMBOROUGH 25, CARACTERÍSTICAS ADICIONAIS FÊMEA, PESO 90 KG, APLICAÇÃO ZOOTÉCNICA",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 378561,
+    "Descrição do Item": "ANIMAL LABORATÓRIO , ESPÉCIE ANIMAL COELHO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02524: ANIMAL LABORATÓRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 382245,
+    "Descrição do Item": "ALEVINO , ESPÉCIE CARPA, IDADE ATÉ 30 DIAS, CARACTERÍSTICAS ADICIONAIS 3 A 6 CM DE COMPRIMENTO",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "14319: ALEVINO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 384212,
+    "Descrição do Item": "ANIMAL LABORATÓRIO , ESPÉCIE ANIMAL CAMUDONGO (FÊMEA), LINHAGEM SWISS WEBSTER, CARACTERÍSTICAS ADICIONAIS CLASSIFICAÇÃO SANITÁRIA: SPF",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02524: ANIMAL LABORATÓRIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 431289,
+    "Descrição do Item": "ANIMAL VIVO , ESPÉCIE CAPRINO, RAÇA SAANE, IDADE 8 A 9 MESES, CARACTERÍSTICAS ADICIONAIS FÊMEA, PESO ACIMA DE 40 KG",
+    "Grupo": "88: ANIMAIS VIVOS",
+    "Classe": "8820: ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "PDM": "02529: ANIMAL VIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  }
+]
