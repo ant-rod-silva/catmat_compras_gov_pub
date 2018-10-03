@@ -1,0 +1,4295 @@
+[
+  {
+    "Código do Item": 15911,
+    "Descrição do Item": "MANCAL TIPO LUVA , MANCAL TIPO LUVA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09077: MANCAL TIPO LUVA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 15920,
+    "Descrição do Item": "MANCAL TIPO BIPARTIDO , MANCAL TIPO BIPARTIDO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09076: MANCAL TIPO BIPARTIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 15962,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , ROLAMENTO DE ESFERA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 15989,
+    "Descrição do Item": "ROLAMENTO DE ROLETE , ROLAMENTO DE ROLETE NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11799: ROLAMENTO DE ROLETE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16004,
+    "Descrição do Item": "ROLAMENTO RADIAL AGULHA , ROLAMENTO DE AGULHA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11795: ROLAMENTO RADIAL AGULHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16012,
+    "Descrição do Item": "ESFERA DE ROLAMENTO , ESFERA DE ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "06958: ESFERA DE ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16047,
+    "Descrição do Item": "ROLETE DE ROLAMENTO , ROLETE DE ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11816: ROLETE DE ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16055,
+    "Descrição do Item": "CALÇO ROLAMENTO , CALCO DE ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "04218: CALÇO ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16063,
+    "Descrição do Item": "BUCHA DE ROLAMENTO , BUCHA DE ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "03937: BUCHA DE ROLAMENTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16071,
+    "Descrição do Item": "CONE DE ROLAMENTO , CONE DE ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "05564: CONE DE ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16080,
+    "Descrição do Item": "CAPA DE ROLAMENTO , CAPA DE ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "04446: CAPA DE ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16098,
+    "Descrição do Item": "ANEL INTERNO DE PISTA DE ROLAMENTO , ANEL INTERNO DE PISTA DE ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "02505: ANEL INTERNO DE PISTA DE ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16110,
+    "Descrição do Item": "ANEL EXTERNO DE PISTA DE ROLAMENTO , ANEL EXTERNO DE PISTA DE ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "02502: ANEL EXTERNO DE PISTA DE ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16136,
+    "Descrição do Item": "PORCA PARA ROLAMENTO , PORCA PARA ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11029: PORCA PARA ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16187,
+    "Descrição do Item": "CARCAÇA DE ROLAMENTO , CARCACA DE ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "04536: CARCAÇA DE ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16195,
+    "Descrição do Item": "ROLAMENTO COMPLETO COM FLANGE , ROLAMENTO COMPLETO COM FLANGE NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3130: ROLAMENTOS E MANCAIS MONTADOS",
+    "PDM": "11794: ROLAMENTO COMPLETO COM FLANGE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16209,
+    "Descrição do Item": "UNIDADE BLINDADA DE ROLAMENTO , UNIDADE BLINDADA DE ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3130: ROLAMENTOS E MANCAIS MONTADOS",
+    "PDM": "13155: UNIDADE BLINDADA DE ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16217,
+    "Descrição do Item": "ROLAMENTO COMPLETO COM CARCACA , ROLAMENTO COMPLETO COM CARCACA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3130: ROLAMENTOS E MANCAIS MONTADOS",
+    "PDM": "11793: ROLAMENTO COMPLETO COM CARCACA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 16616,
+    "Descrição do Item": "ESFERA , ESFERA DE ACO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "06956: ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36889,
+    "Descrição do Item": "DISPOSITIVO FIXAÇÃO ROLAMENTO , DISPOSITIVO DE FIXACAO DE ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "06310: DISPOSITIVO FIXAÇÃO ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36897,
+    "Descrição do Item": "ROLAMENTO , ROLAMENTO ESPECIAL NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49425,
+    "Descrição do Item": "ROLAMENTO DE ESTEIRA , ROLAMENTO DE ESTEIRA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11798: ROLAMENTO DE ESTEIRA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49433,
+    "Descrição do Item": "MANCAL TIPO ARRUELA , MANCAL TIPO ARRUELA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09075: MANCAL TIPO ARRUELA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49441,
+    "Descrição do Item": "BUCHA ( MANCAL NÃO MONTADO ) , BUCHA ( MANCAL NAO MONTADO ) NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "03935: BUCHA ( MANCAL NÃO MONTADO )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49450,
+    "Descrição do Item": "MANCAL COMPLETO COM FLANGE , MANCAL COMPLETO COM FLANGE NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3130: ROLAMENTOS E MANCAIS MONTADOS",
+    "PDM": "09062: MANCAL COMPLETO COM FLANGE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49468,
+    "Descrição do Item": "MANCAL COMPLETO COM CARCACA DE TIPO ESPECIAL , MANCAL COMPLETO COM CARCACA DE TIPO ESPE NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3130: ROLAMENTOS E MANCAIS MONTADOS",
+    "PDM": "09061: MANCAL COMPLETO COM CARCACA DE TIPO ESPECIAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49476,
+    "Descrição do Item": "MANCAL PENDENTE HORIZONTAL , MANCAL PENDENTE HORIZONTAL NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3130: ROLAMENTOS E MANCAIS MONTADOS",
+    "PDM": "09071: MANCAL PENDENTE HORIZONTAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49484,
+    "Descrição do Item": "MANCAL PENDENTE VERTICAL , MANCAL PENDENTE VERTICAL NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3130: ROLAMENTOS E MANCAIS MONTADOS",
+    "PDM": "09072: MANCAL PENDENTE VERTICAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 80926,
+    "Descrição do Item": "ROLETE CILINDRICO , ROLETE CILINDRICO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11813: ROLETE CILINDRICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 80934,
+    "Descrição do Item": "PORTA ESFERA DE ACO PRE - REBITADO PARA ROLAMENTO , PORTA ESFERA DE ACO PRE - REBITADO PARA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11074: PORTA ESFERA DE ACO PRE - REBITADO PARA ROLAMENTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 80942,
+    "Descrição do Item": "PORTA ESFERA DE NYLON PARA ROLAMENTO , PORTA ESFERA DE NYLON PARA ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11075: PORTA ESFERA DE NYLON PARA ROLAMENTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 80950,
+    "Descrição do Item": "PORTA ESFERA COM OU SEM REBITE PARA ROLAMENTO , PORTA ESFERA COM OU SEM REBITE PARA ROLA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11073: PORTA ESFERA COM OU SEM REBITE PARA ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 80969,
+    "Descrição do Item": "PORTA ROLO DE ACO PARA ROLAMENTO CONICO , PORTA ROLO DE ACO PARA ROLAMENTO CONICO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11085: PORTA ROLO DE ACO PARA ROLAMENTO CONICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 80977,
+    "Descrição do Item": "MICRO - ROLAMENTO , MICRO - ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "09720: MICRO - ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 80985,
+    "Descrição do Item": "MINI - ROLAMENTO , MINI - ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "09772: MINI - ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 80993,
+    "Descrição do Item": "PEQUENO ROLAMENTO , PEQUENO ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "10642: PEQUENO ROLAMENTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81000,
+    "Descrição do Item": "ROLAMENTO ALOJADO , ROLAMENTO ALOJADO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11786: ROLAMENTO ALOJADO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81019,
+    "Descrição do Item": "ROLAMENTO AUTOCOMPENSADOR ESFERA , ROLAMENTO AUTOCOMPENSADOR ESFERA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11787: ROLAMENTO AUTOCOMPENSADOR ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81027,
+    "Descrição do Item": "ROLAMENTO AXIAL AGULHA , ROLAMENTO AXIAL AGULHA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11788: ROLAMENTO AXIAL AGULHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81035,
+    "Descrição do Item": "ROLAMENTO AXIAL AUTOCOMPENSADOR ROLO , ROLAMENTO AXIAL AUTOCOMPENSADOR ROLO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11789: ROLAMENTO AXIAL AUTOCOMPENSADOR ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81043,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , ROLAMENTO AXIAL ESFERA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81051,
+    "Descrição do Item": "ROLAMENTO AXIAL ROLO CILINDRICO , ROLAMENTO AXIAL ROLO CILINDRICO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11791: ROLAMENTO AXIAL ROLO CILINDRICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81060,
+    "Descrição do Item": "ROLAMENTO ESFERA CONTATO ANGULAR , ROLAMENTO ESFERA CONTATO ANGULAR NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11800: ROLAMENTO ESFERA CONTATO ANGULAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81078,
+    "Descrição do Item": "ROLAMENTO GAIOLA AGULHA , ROLAMENTO GAIOLA AGULHA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11802: ROLAMENTO GAIOLA AGULHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81086,
+    "Descrição do Item": "ROLAMENTO RIGIDO ESFERA , ROLAMENTO RIGIDO ESFERA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11803: ROLAMENTO RIGIDO ESFERA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81094,
+    "Descrição do Item": "ROLAMENTO ROLO , ROLAMENTO ROLO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81108,
+    "Descrição do Item": "CAIXA ROLAMENTO BIPARTIDA , CAIXA ROLAMENTO BIPARTIDA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "04173: CAIXA ROLAMENTO BIPARTIDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81116,
+    "Descrição do Item": "CAIXA ROLAMENTO INTEIRIÇA , CAIXA ROLAMENTO INTEIRICA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "04174: CAIXA ROLAMENTO INTEIRIÇA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81124,
+    "Descrição do Item": "MANCAL ACO ESTAMPADO , MANCAL ACO ESTAMPADO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09059: MANCAL ACO ESTAMPADO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81132,
+    "Descrição do Item": "MANCAL ANTI - FRICCAO , MANCAL ANTI - FRICCAO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09060: MANCAL ANTI - FRICCAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81140,
+    "Descrição do Item": "MANCAL EXPANSAO AXIAL , MANCAL EXPANSAO AXIAL NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09066: MANCAL EXPANSAO AXIAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81159,
+    "Descrição do Item": "MANCAL FLANGE ROLAMENTO FURO CONICO , MANCAL FLANGE ROLAMENTO FURO CONICO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09067: MANCAL FLANGE ROLAMENTO FURO CONICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81167,
+    "Descrição do Item": "MANCAL FRICCAO , MANCAL FRICCAO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09068: MANCAL FRICCAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81175,
+    "Descrição do Item": "MANCAL MONTADO METAL PATENTE , MANCAL MONTADO METAL PATENTE NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09069: MANCAL MONTADO METAL PATENTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81183,
+    "Descrição do Item": "MANCAL SOB PRESSAO , MANCAL SOB PRESSAO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09074: MANCAL SOB PRESSAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81191,
+    "Descrição do Item": "MANCAL TIPO MONOBLOCO , MANCAL TIPO MONOBLOCO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09078: MANCAL TIPO MONOBLOCO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81205,
+    "Descrição do Item": "MANCAL TIPO TERMINAL , MANCAL TIPO TERMINAL NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09079: MANCAL TIPO TERMINAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81213,
+    "Descrição do Item": "MANCAL SOB ENCOMENDA , MANCAL SOB ENCOMENDA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09073: MANCAL SOB ENCOMENDA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81221,
+    "Descrição do Item": "MANCAL ESPECIAL SOB ENCOMENDA , MANCAL ESPECIAL SOB ENCOMENDA NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09065: MANCAL ESPECIAL SOB ENCOMENDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81248,
+    "Descrição do Item": "ACESSORIO DE ROLAMENTO , ACESSORIO DE ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3130: ROLAMENTOS E MANCAIS MONTADOS",
+    "PDM": "01699: ACESSORIO DE ROLAMENTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81256,
+    "Descrição do Item": "ARRUELA SEGURANÇA ROLAMENTO , ARRUELA SEGURANCA ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3130: ROLAMENTOS E MANCAIS MONTADOS",
+    "PDM": "03060: ARRUELA SEGURANÇA ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81264,
+    "Descrição do Item": "BUCHA FIXACAO ROLAMENTO , BUCHA FIXACAO ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3130: ROLAMENTOS E MANCAIS MONTADOS",
+    "PDM": "03941: BUCHA FIXACAO ROLAMENTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81272,
+    "Descrição do Item": "BUCHA DE ROLAMENTO , BUCHA DE ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3130: ROLAMENTOS E MANCAIS MONTADOS",
+    "PDM": "03938: BUCHA DE ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 84352,
+    "Descrição do Item": "ROLAMENTO DE CONE , ROLAMENTO DE CONE NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11796: ROLAMENTO DE CONE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 93840,
+    "Descrição do Item": "ROLAMENTO DE CONE , ROLAMENTO DE CONE 1 NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11796: ROLAMENTO DE CONE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 133680,
+    "Descrição do Item": "SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO , SUSPENSAO VEICULO AUTOMOTIVO - ROLAMENTO NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "12447: SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 193110,
+    "Descrição do Item": "ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS , ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "16836: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 193120,
+    "Descrição do Item": "MANCAIS NÃO MONTADOS , MANCAIS NÃO MONTADOS NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "16837: MANCAIS NÃO MONTADOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 193130,
+    "Descrição do Item": "ROLAMENTOS E MANCAIS MONTADOS , ROLAMENTOS E MANCAIS MONTADOS NOME",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3130: ROLAMENTOS E MANCAIS MONTADOS",
+    "PDM": "16838: ROLAMENTOS E MANCAIS MONTADOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 232000,
+    "Descrição do Item": "ROLAMENTO , TIPO USO SEMI-ÁRVORE, APLICAÇÃO VEÍCULO FIAT ELBA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 232001,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA, APLICAÇÃO VEÍCULO FIAT ELBA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236820,
+    "Descrição do Item": "SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO , TIPO EXTERNO, TIPO USO RODA TRAZEIRA, APLICAÇÃO VEÍCULO VOLKSWAGEM - MODELO: PARATI / ANO: 1995",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "12447: SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236821,
+    "Descrição do Item": "SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO , TIPO INTERNO, TIPO USO RODA TRAZEIRA, APLICAÇÃO VEÍCULO VOLKSWAGEM - MODELO: PARATI / ANO: 1995",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "12447: SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 238801,
+    "Descrição do Item": "ROLAMENTO , TIPO USO ALTERNADOR, APLICAÇÃO VEÍCULO MITSUBISHI PAJERO INTECOOLER TURBO 2800",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240249,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO SECUNDÁRIO CAIXA DE MARCHA, APLICAÇÃO VEICULO EM GERAL, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240250,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO INTERMEDIÁRIO CAIXA DE MARCHA, APLICAÇÃO VEICULO EM GERAL, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240278,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO INTERMEDIÁRIO CAIXA DE MARCHA, APLICAÇÃO VEICULO EM GERAL, TIPO DE ESFERA, REFERÊNCIA 206E/60",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243060,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EXTERNO DO PINHÃO, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE ANO 2000, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243061,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MUNHÃO, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE ANO 2000, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243062,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA INTERNO, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE ANO 2000, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243063,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA EXTERNO, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE ANO 2000, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243065,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO INTERMEDIÁRIO DIANTEIRO, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE ANO 2000, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243066,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO INTERMEDIÁRIO TRASEIRO, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE ANO 2000, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243070,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO PILOTO DIANTEIRO, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE ANO 2000, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243071,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO PILOTO TRASEIRO, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE ANO 2000, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 243081,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO INTERMEDIÁRIO REDUÇÃO, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE ANO 2000, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 245281,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CORREIA DENTADA, DA TRANSMISSÃO, APLICAÇÃO VEÍCULO MARCA FIAT, MODELO MAREA 1.8 16V, ANO 2001, TIPO DE ESFERA, REFERÊNCIA 46423869",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 245293,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA, APLICAÇÃO VEÍCULO FIAT TEMPRA / 2.0 / 8V / 1997, REFERÊNCIA CÓD. 16512970",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 245408,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CORREIA DENTADA, DA TRANSMISSÃO, APLICAÇÃO VEÍCULO MARCA FIAT, MODELO MAREA 1.8 16V, ANO 2001, REFERÊNCIA 60671573",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 245739,
+    "Descrição do Item": "ROLAMENTO , TIPO USO VOLANTE DO MOTOR, APLICAÇÃO TRATOR MASSEY FERGUSON 292, REFERÊNCIA 488952",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 245740,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO PRIMÁRIO, APLICAÇÃO TRATOR MASSEY FERGUSON 292, REFERÊNCIA 886909",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 245756,
+    "Descrição do Item": "ROLAMENTO PARA COPIADORA , TIPO FOTOCOPIADORA, MODELO SHARP 2022, REFERÊNCIA COPIADORA NBRGY0296",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "15745: ROLAMENTO PARA COPIADORA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 246726,
+    "Descrição do Item": "ROLAMENTO , TIPO USO ALTERNADOR, APLICAÇÃO VEÍCULO MARCA TOYOTA, MODELO PICK UP BANDEIRANTE,, TIPO DE ESFERA, REFERÊNCIA 90099.10154",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 246727,
+    "Descrição do Item": "ROLAMENTO , TIPO USO ALTERNADOR, APLICAÇÃO VEÍCULO MARCA TOYOTA, MODELO PICK UP BANDEIRANTE,, TIPO DE ESFERA, REFERÊNCIA 90099.10198",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 246967,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA, APLICAÇÃO VEÍCULO MARCA VOLKSWAGEN, MODELO SANTANA 2.0, ANO, TIPO DE ESFERA, REFERÊNCIA BAHB311396AA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 247007,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA INTERNO, APLICAÇÃO VEÍCULO MERCEDES-BENZ, MODELO VAN MB-180D,ANO 1995",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 247008,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA EXTERNO, APLICAÇÃO VEÍCULO MERCEDES-BENZ, MODELO VAN MB-180D,ANO 1995",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 247526,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA EXTERNO, APLICAÇÃO VEÍCULO MARCA GENERAL MOTORS, MODELO OPALA, ANO 19, TIPO DE ESFERA, REFERÊNCIA 11054489",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 247527,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA INTERNO, APLICAÇÃO VEÍCULO MARCA GENERAL MOTORS, MODELO OPALA, ANO 19, TIPO DE ESFERA, REFERÊNCIA 9415132",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 247832,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MANCAL, REFERÊNCIA FABRICANTE 6205-2-RS1",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 248095,
+    "Descrição do Item": "ESFERA , USO SISTEMA CÂMBIO, REFERÊNCIA FABRICANTE CÓDIGO 800641.00, APLICAÇÃO TRATOR VALMET, SÉRIE PRATA, ANO 1988",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "06956: ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 248130,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51108, APLICAÇÃO MANCAL DE MOTORES MARCA WEG E SIMILARES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 248356,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS WEG, BRASIL E SIMILARES, REFERÊNCIA FABRICANTE 6204 ZZ, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 248357,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS WEG, BRASIL E SIMILARES, REFERÊNCIA FABRICANTE 6205 ZZ, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 248358,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS WEG, BRASIL E SIMILARES, REFERÊNCIA FABRICANTE 6206 ZZ, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 248359,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS WEG, BRASIL E SIMILARES, REFERÊNCIA FABRICANTE 6207 ZZ, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 248360,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS WEG, BRASIL E SIMILARES, REFERÊNCIA FABRICANTE 6208 ZZ, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252917,
+    "Descrição do Item": "MANCAL LINEAR FECHADO , MATERIAL ALUMÍNIO EXTRUDADO, REFERÊNCIA FABRICANTE MLF 12 RPL, APLICAÇÃO ROLAMENTO LINEAR, DIÂMETRO EIXO 12 MM, LARGURA 52 MM, COMPRIMENTO 38 MM, ALTURA 40 MM, QUANTIDADE FUROS 4 UN, DIÂMETRO FURO 5,5 MM, DISTÂNCIA CENTRO FURO ROLAMENTO À BASE 22 MM, CARGA MÁXIMA 51 KGF",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "16274: MANCAL LINEAR FECHADO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252919,
+    "Descrição do Item": "MANCAL LINEAR FECHADO , MATERIAL ALUMÍNIO EXTRUDADO, REFERÊNCIA FABRICANTE MLF 20 RPL, APLICAÇÃO ROLAMENTO LINEAR, DIÂMETRO EIXO 20 MM, LARGURA 70 MM, COMPRIMENTO 50 MM, ALTURA 53 MM, QUANTIDADE FUROS 4 UN, DIÂMETRO FURO 7 MM, DISTÂNCIA CENTRO FURO ROLAMENTO À BASE 28 MM, CARGA MÁXIMA 86,2 KGF",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "16274: MANCAL LINEAR FECHADO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254451,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 6308-Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254452,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 6206-Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254453,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 6306-C3",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 255525,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA FABRICANTE 6307",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 256822,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA, APLICAÇÃO VEÍCULO MITSUBISHI, MODELO L-200, TIPO DE ESFERA, REFERÊNCIA 803769",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 256974,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO VEÍCULO MARCA FIAT, MODELO MAREA 1.8 16V,ANO 2000/, REFERÊNCIA 46524692",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 256975,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA, APLICAÇÃO VEÍCULO MARCA FIAT, MODELO MAREA 1.8 16V,ANO 2000/, REFERÊNCIA 46423869",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 256978,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO VEÍCULO MARCA FIAT, MODELO MAREA 1.8 16V,ANO 2000/, REFERÊNCIA 60812515",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 256981,
+    "Descrição do Item": "ROLAMENTO , TIPO USO DISTRIBUIÇÃO, APLICAÇÃO VEÍCULO MARCA FIAT, MODELO MAREA 1.8 16V,ANO 2000/, REFERÊNCIA 60671573",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257173,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA INTERNO, APLICAÇÃO VEÍCULO CHEVROLET BLAZER 2.2 MPFI ANO 1997/1998, REFERÊNCIA 00457194",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257174,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA EXTERNO, APLICAÇÃO VEÍCULO CHEVROLET BLAZER 2.2 MPFI ANO 1997/1998, REFERÊNCIA 00457047",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257175,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA, APLICAÇÃO VEÍCULO CHEVROLET BLAZER 2.2 MPFI ANO 1997/1998, REFERÊNCIA 93257411",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257176,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EMBREAGEM, APLICAÇÃO VEÍCULO MARCA FIAT, MODELO MAREA 1.8 16V,ANO 2000/, REFERÊNCIA 46821337",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 261056,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 6202ZZ",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 261057,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 6203ZZ",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 261058,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 6204ZZ",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 261059,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 6205ZZ",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 261060,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA GY1014",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 261061,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA GY1100",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263068,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CUBO DIANTEIRO EXTERNO, APLICAÇÃO VEÍCULO CHEVROLET C-20, GASOLINA, ANO 1996, REFERÊNCIA GM 07450336",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263069,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CUBO DIANTEIRO INTERNO, APLICAÇÃO VEÍCULO CHEVROLET C-20, GASOLINA, ANO 1996, REFERÊNCIA GM 00457282",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263729,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 6201ZZ",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264185,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO EIXO SISTEMA AR CONDICIONADO, TIPO DE ESFERA, REFERÊNCIA PEER 5006 RS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264186,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO EIXO SISTEMA AR CONDICIONADO, TIPO DE ESFERA, REFERÊNCIA GRAE 30 NPPB",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264187,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO EIXO SISTEMA AR CONDICIONADO, TIPO DE ESFERA, REFERÊNCIA SST 205/16PB",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264188,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO EIXO SISTEMA AR CONDICIONADO, TIPO DE ESFERA, REFERÊNCIA AK 71H",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264189,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO EIXO SISTEMA AR CONDICIONADO, TIPO DE ESFERA, REFERÊNCIA GE 30 KRRB",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264190,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO EIXO SISTEMA AR CONDICIONADO, TIPO DE ESFERA, REFERÊNCIA RALE 60NPP FA 106",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264191,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO EIXO SISTEMA AR CONDICIONADO, TIPO DE ESFERA, REFERÊNCIA FHRL 6006/19",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264193,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO EIXO SISTEMA AR CONDICIONADO, TIPO ESFERA BLINDADO, REFERÊNCIA 6209 - ZZ",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264285,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6201 ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264286,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6202 ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264287,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6203 ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265257,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EXTERNO DO PINHÃO DO DIFERÊNCIAL, APLICAÇÃO VEÍCULO FORD F-1000, ANO 1997, REFERÊNCIA 525321",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265291,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA, LADO DIREITO, APLICAÇÃO VEÍCULO CHEVROLET ÔMEGA 4.1 ANO 1997",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265907,
+    "Descrição do Item": "ROLAMENTO , TIPO USO SISTEMA DE CÂMBIO, APLICAÇÃO ROLO COMPACTADOR, REFERÊNCIA 333530300",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265908,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EMBREAGEM, APLICAÇÃO ROLO COMPACTADOR, TIPO ESFERA, REFERÊNCIA 113002",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265909,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EMBREAGEM, APLICAÇÃO ROLO COMPACTADOR, TIPO ESFERA, REFERÊNCIA 110004",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267273,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MANCAL, REFERÊNCIA FABRICANTE UCR209MM, CARACTERÍSTICAS ADICIONAIS P/ CABEÇA DA CORREIA TRANSPORTADORA 1,2,4,5,6,7,8",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267274,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MANCAL, REFERÊNCIA FABRICANTE UCR210MM, CARACTERÍSTICAS ADICIONAIS P/ CABEÇA DA CORREIA TRANSPORTADORA 1,2,4,5,6,7,8",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267275,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MANCAL, REFERÊNCIA FABRICANTE UCR 209",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267276,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MANCAL, REFERÊNCIA FABRICANTE UCR 210",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 267835,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6203 ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, BLINDADO DE",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 269754,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 16.003-2Z SKF, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 274566,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO EIXO SISTEMA AR CONDICIONADO, REFERÊNCIA FABRICANTE GRAE 20 NPPB",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 276368,
+    "Descrição do Item": "ROLAMENTO , TIPO USO ENGRENAGEM DE QUINTA, APLICAÇÃO CAIXA DE MARCHA DO VEÍCULO ELBA WEEEKEND, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 276369,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO SECUNDÁRIO CAIXA DE MARCHA GRANDE, APLICAÇÃO VEICULO EM GERAL, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 276370,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO SECUNDÁRIO CAIXA DE MARCHA PEQUENA, APLICAÇÃO VEICULO EM GERAL, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 276484,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO PRIMÁRIO GRANDE, APLICAÇÃO VEÍCULO FIAT ELBA WEEKEND, REFERÊNCIA 0001533",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 276506,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA, APLICAÇÃO VEÍCULO VOLKSWAGEN, PARATI / GOL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 276607,
+    "Descrição do Item": "ROLAMENTO , TIPO USO ROLO FUSOR, APLICAÇÃO COPIADORA RICOH, MODELO FT-4022, TIPO ORIGINAL, REFERÊNCIA AE 030023",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 277844,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 6200ZZ",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 278296,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MANCAL, REFERÊNCIA FABRICANTE UCR 211",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 278297,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO CENTRÍFUGA DE LAVANDERIA, REFERÊNCIA FABRICANTE 3309",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 280106,
+    "Descrição do Item": "MANCAL LINEAR FECHADO , MATERIAL ALUMÍNIO EXTRUDADO, REFERÊNCIA FABRICANTE MLFD 20 RPL, APLICAÇÃO ROLAMENTO LINEAR, DIÂMETRO EIXO 20 MM, LARGURA 70 MM, COMPRIMENTO 104 MM, ALTURA 53 MM, QUANTIDADE FUROS 4 UN, DIÂMETRO FURO 20 MM, DISTÂNCIA CENTRO FURO ROLAMENTO À BASE 28 MM, CARGA MÁXIMA 1.396 N",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "16274: MANCAL LINEAR FECHADO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282219,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA, APLICAÇÃO ÔNIBUS MERCEDEZ-BENZ, MODELO OM355/6 - PLATAFORMA, TIPO CÔNICO DE ROLETES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282276,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA EXTERNO, APLICAÇÃO ÔNIBUS MERCEDEZ-BENZ, MODELO OM355/6 - PLATAFORMA, TIPO CÔNICO DE ROLETES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282277,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA EXTERNO, APLICAÇÃO ÔNIBUS MERCEDEZ-BENZ, MODELO OM355/6 - PLATAFORMA, TIPO CÔNICO DE ROLETES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282280,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO ENTALHADO PARTE TRASEIRA, APLICAÇÃO ÔNIBUS MERCEDEZ-BENZ, MODELO OM355/6 - PLATAFORMA, TIPO ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282281,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO PRIMÁRIO, APLICAÇÃO ÔNIBUS MERCEDEZ-BENZ, MODELO OM355/6 - PLATAFORMA, TIPO ESFERA COM RANHURA EXTERNA PARA PRESILHA, CARACTERÍSTICAS ADICIONAIS BLINDAGEM EXTERNA EM UM DOS LADOS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282283,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO ENTALHADO PARTE FRENTE, APLICAÇÃO ÔNIBUS MERCEDEZ-BENZ, MODELO OM355/6 - PLATAFORMA, TIPO ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 282285,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA INTERNO, APLICAÇÃO ÔNIBUS MERCEDEZ-BENZ, MODELO OM355/6 - PLATAFORMA, TIPO CÔNICO DE ROLETES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 283521,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS, REFERÊNCIA FABRICANTE 6201 2RS1, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 283522,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS, REFERÊNCIA FABRICANTE 6202 2RS1, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 283523,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS, REFERÊNCIA FABRICANTE 6203 2RS1, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 283524,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS, REFERÊNCIA FABRICANTE 6204 2RS1, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 283525,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS, REFERÊNCIA FABRICANTE 6206 2RS1, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 283526,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS, REFERÊNCIA FABRICANTE 6307 2RS1, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 283527,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS, REFERÊNCIA FABRICANTE 6308 2RS1, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 283528,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS, REFERÊNCIA FABRICANTE 6308 ZZ, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 283529,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS, REFERÊNCIA FABRICANTE 6312 ZZ, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 283837,
+    "Descrição do Item": "ROLAMENTO , TIPO USO DIANTEIRO DO ALTERNADOR, APLICAÇÃO VEÍCULO CHEVROLET, MODELO D-20, ANO 1988",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 285938,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS, REFERÊNCIA FABRICANTE 6310-ZZ, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 287538,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA SKF 22.209",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 287539,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA SKF 32.209",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 287540,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA FAG 22.318",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 288320,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA, APLICAÇÃO VTR JPX 4 X 4 MONTEZ (PROTÓTIPO), REFERÊNCIA 289097",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 288519,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MUNHÃO, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE, ANO 1998, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 290384,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6311 C3, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, FOLGA C3, DIÂMETRO INTERNO 55 MM, DIÂMETRO EXTERNO 120 MM, LARGURA 29 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 290385,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6211 ZC3, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, FOLGA C3, COM A, DIÂMETRO INTERNO 55 MM, DIÂMETRO EXTERNO 100 MM, LARGURA 21 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292850,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA FABRICANTE 22213K",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292851,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA FABRICANTE 22215K",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292852,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA FABRICANTE 6312ZZ",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292853,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA FABRICANTE 6314ZZ",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292854,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA FABRICANTE 6316ZZ",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292855,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA FABRICANTE 6313ZZ",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292933,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA FABRICANTE 6409",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292941,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO ENTALHADO PARTE TRASEIRA, APLICAÇÃO CAMINHÃO MERCEDEZ BENZ, CAÇAMBA, ANO 1966, TIPO ESFERA, REFERÊNCIA 67221",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 292951,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA FABRICANTE 6212 ZZ",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293053,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO PILOTO TRASEIRO, APLICAÇÃO CAMINHÃO MERCEDEZ BENZ, CAÇAMBA, ANO 1966, TIPO DE ESFERA, REFERÊNCIA 67212",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293116,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO AR CONDICIONADO CENTRAL, REFERÊNCIA FABRICANTE 6306",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293899,
+    "Descrição do Item": "MANCAL TIPO BIPARTIDO , TIPO SN 515, APLICAÇÃO SISTEMA DE REFRIGERAÇÃO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09076: MANCAL TIPO BIPARTIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293900,
+    "Descrição do Item": "MANCAL TIPO BIPARTIDO , TIPO SN 513, APLICAÇÃO SISTEMA DE REFRIGERAÇÃO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09076: MANCAL TIPO BIPARTIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 294349,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA EXTERNO, APLICAÇÃO CAMINHÃO MERCEDEZ BENZ 1418 ANO 1992",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 294350,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA INTERNO, APLICAÇÃO CAMINHÃO MERCEDEZ BENZ 1418 ANO 1992",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 294352,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA EXTERNO, APLICAÇÃO CAMINHÃO MERCEDEZ BENZ 1418 ANO 1992",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 294356,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA INTERNO, APLICAÇÃO CAMINHÃO MERCEDEZ BENZ 1418 ANO 1992",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 294383,
+    "Descrição do Item": "ROLAMENTO , TIPO USO ALTERNADOR, APLICAÇÃO CAMINHÃO MERCEDEZ BENZ 1418 ANO 1992, CARACTERÍSTICAS ADICIONAIS 6203",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 294384,
+    "Descrição do Item": "ROLAMENTO , TIPO USO ALTERNADOR, APLICAÇÃO CAMINHÃO MERCEDEZ BENZ 1418 ANO 1992, CARACTERÍSTICAS ADICIONAIS 6204",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 295603,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , CARACTERÍSTICAS ADICIONAIS FIXO, TIPO ABERTO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 1 1/8 POL, LARGURA 1/4 POL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296190,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO BOMBA ESGOTO E INCÊNDIO, REFERÊNCIA SKF 6305Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296191,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO BOMBA ESGOTO E INCÊNDIO, REFERÊNCIA SKF 6306Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296239,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 6205Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297888,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA, APLICAÇÃO VEÍCULO VOLKSWAGEN, MODELO SANTANA 1.8, ANO 2002, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299188,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO BOMBA ESGOTO E INCÊNDIO, REFERÊNCIA SKF 6305ZZ, CARACTERÍSTICAS ADICIONAIS BLINDADO EM AÇO INOXIDÁVEL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299467,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO BOMBA ESGOTO E INCÊNDIO, REFERÊNCIA SKF 6306ZZ, CARACTERÍSTICAS ADICIONAIS BLINDADO EM AÇO INOXIDÁVEL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 299468,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MOTOR ELÉTRICO DE 7 HP, REFERÊNCIA SKF 6208ZZ, CARACTERÍSTICAS ADICIONAIS BLINDADO EM AÇO INOXIDÁVEL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 301431,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51105, DIÂMETRO INTERNO 25 MM, DIÂMETRO EXTERNO 42 MM, LARGURA 11 MM, NORMA TÉCNICA ISO 10-1979, MATERIAL AÇO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 301434,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , REFERÊNCIA FABRICANTE 1308K C3, CARACTERÍSTICAS ADICIONAIS AUTOCOMPENSADOR, FURO CÔNICO 1:12 (CONICIDADE),, DIÂMETRO INTERNO 40 MM, DIÂMETRO EXTERNO 90 MM, LARGURA 23 MM, NORMAS TÉCNICAS ISO 151981",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 305741,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CANETA ODONTOLÓGICA ALTA ROTAÇÃO, TIPO ESFERA, REFERÊNCIA 26048029",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307387,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MOTOR ELÉTRICO, REFERÊNCIA 6209-2Z, CARACTERÍSTICAS ADICIONAIS METÁLICO BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307388,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MOTOR ELÉTRICO, REFERÊNCIA 6210-Z, CARACTERÍSTICAS ADICIONAIS METÁLICO BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307389,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MOTOR ELÉTRICO, REFERÊNCIA 627-2Z, CARACTERÍSTICAS ADICIONAIS METÁLICO BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307390,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MOTOR ELÉTRICO, REFERÊNCIA 6306-Z, CARACTERÍSTICAS ADICIONAIS METÁLICO BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307391,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MOTOR ELÉTRICO, REFERÊNCIA 6307-2Z, CARACTERÍSTICAS ADICIONAIS METÁLICO BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307392,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MOTOR ELÉTRICO, REFERÊNCIA 6011, CARACTERÍSTICAS ADICIONAIS METÁLICO BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307393,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MOTOR ELÉTRICO, REFERÊNCIA ZKL, CARACTERÍSTICAS ADICIONAIS METÁLICO BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307394,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MOTOR ELÉTRICO, REFERÊNCIA 22310, CARACTERÍSTICAS ADICIONAIS METÁLICO BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307395,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MOTOR ELÉTRICO, REFERÊNCIA 30213-J2, CARACTERÍSTICAS ADICIONAIS METÁLICO BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 307396,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MOTOR ELÉTRICO, REFERÊNCIA 4306ATNS, CARACTERÍSTICAS ADICIONAIS METÁLICO BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310597,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6224, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA S/ BLINDAGEM, DIÂMETRO INTERNO 120 MM, DIÂMETRO EXTERNO 215 MM, LARGURA 40 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310598,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6228, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA S/ BLINDAGEM, DIÂMETRO INTERNO 140 MM, DIÂMETRO EXTERNO 250 MM, LARGURA 42 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310599,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6232, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA S/ BLINDAGEM, DIÂMETRO INTERNO 160 MM, DIÂMETRO EXTERNO 290 MM, LARGURA 48 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310600,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 4210A, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE DUAS CARREIRAS C/ BLINDAGEM DUPLA, DIÂMETRO INTERNO 50 MM, DIÂMETRO EXTERNO 90 MM, LARGURA 23 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310602,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 4208A, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE DUAS CARREIRAS C/ BLINDAGEM DUPLA, DIÂMETRO INTERNO 40 MM, DIÂMETRO EXTERNO 80 MM, LARGURA 23 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310611,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, TIPO CÔNICO DE ROLETES, REFERÊNCIA 30218, CARACTERÍSTICAS ADICIONAIS UMA CARREIRA, SEM BLINDAGEM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 310612,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, TIPO CÔNICO DE ROLETES, REFERÊNCIA 30220, CARACTERÍSTICAS ADICIONAIS UMA CARREIRA, SEM BLINDAGEM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 311960,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6318ZZ C3, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS; BLINDAGEM DUPLA, DIÂMETRO INTERNO 90 MM, DIÂMETRO EXTERNO 190 MM, LARGURA 43 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 311963,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6318ZZ C3, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, BLINDAGEM DUPLA, DIÂMETRO INTERNO 90 MM, DIÂMETRO EXTERNO 190 MM, LARGURA 43 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 311966,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 626ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 6 MM, DIÂMETRO EXTERNO 19 MM, LARGURA 6 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 311967,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6312ZZ C3, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS; BLINDAGEM DUPLA, DIÂMETRO INTERNO 60 MM, DIÂMETRO EXTERNO 130 MM, LARGURA 31 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 311968,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6319, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, CARGA DIN. APRO, DIÂMETRO INTERNO 95 MM, DIÂMETRO EXTERNO 200 MM, LARGURA 45 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 311969,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6309ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS; CARGA DIN. APRO, DIÂMETRO INTERNO 45 MM, DIÂMETRO EXTERNO 100 MM, LARGURA 25 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 311977,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE NU 2313, DIÂMETRO INTERNO 65 MM, DIÂMETRO EXTERNO 140 MM, LARGURA 48 MM, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA; CARGA DIN. APROXIMADA DE",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312003,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA, APLICAÇÃO VEÍCULO VOLKSWAGEN, PARATI / GOL, REFERÊNCIA 07800",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312521,
+    "Descrição do Item": "ROLAMENTO , TIPO USO ALTERNADOR, APLICAÇÃO VEÍCULO BLINDADO CASCAVEL, MOD. EE9-VII, ANO 1986, REFERÊNCIA 2681-801-033",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312727,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE RMS 18, CARACTERÍSTICAS ADICIONAIS RÍGIDO 1 CARREIRA DE ESFERAS E GAIOLA, DIÂMETRO INTERNO 2 1/4 POL, DIÂMETRO EXTERNO 5 POL, ALTURA 1 1/4 POL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312730,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE CRL 22A, CARACTERÍSTICAS ADICIONAIS RÍGIDO 1 CARREIRA DE ESFERAS E GAIOLA DE LATÃO, DIÂMETRO INTERNO 2 3/4 POL, DIÂMETRO EXTERNO 5 1/4 POL, ALTURA 15/16 POL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312937,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA, APLICAÇÃO VEÍCULO FIAT, MODELO UNO, ANO 1994, TIPO ORIGINAL/ESFERA BLINDADO, REFERÊNCIA DH00310",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312940,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA, APLICAÇÃO VEÍCULO FIAT, MODELO UNO, ANO 1994, TIPO ORIGINAL/ESFERA BLINDADO, REFERÊNCIA SKS CZKDA4625",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 313749,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51203, DIÂMETRO INTERNO 17 MM, DIÂMETRO EXTERNO 35 MM, LARGURA 12 MM, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314204,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6307 ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE 1 CARREIRA DE ESFERAS, BLINDAGEM DUPLA,, DIÂMETRO INTERNO 35 MM, DIÂMETRO EXTERNO 80 MM, ALTURA 21 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314228,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 608 ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, BLINDAGEM DUPLA, DIÂMETRO INTERNO 8 MM, DIÂMETRO EXTERNO 22 MM, ALTURA 7 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314229,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6200 ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE 1 CARREIRA DE ESFERAS; BLINDAGEM DUPLA,, DIÂMETRO INTERNO 10 MM, DIÂMETRO EXTERNO 30 MM, ALTURA 9 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314231,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6301 ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE 1 CARREIRA DE ESFERAS, BLINDAGEM DUPLA,, DIÂMETRO INTERNO 12 MM, DIÂMETRO EXTERNO 37 MM, ALTURA 12 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314234,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6306 ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO 1 CARREIRA DE ESFERAS, BLINDAGEM DUPLA, CAR, DIÂMETRO INTERNO 30 MM, DIÂMETRO EXTERNO 72 MM, ALTURA 19 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 314929,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 6204 ZZ",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 315415,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, TIPO ESFERA, REFERÊNCIA 22215, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, FOLGA C3, 55MM,",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 315417,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, REFERÊNCIA 6312 ZZ, CARACTERÍSTICAS ADICIONAIS METÁLICO BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 315419,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, REFERÊNCIA 6411 ZZ, CARACTERÍSTICAS ADICIONAIS METÁLICO BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 316864,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MOTOR LANCHA, REFERÊNCIA NUP 307-SKF, CARACTERÍSTICAS ADICIONAIS 1 CARREIRA, GAIOLA AÇO, CARGA DIN APROX. 64400, VE, DIÂMETRO INTERNO 35 MM, DIÂMETRO EXTERNO 80 MM, ALTURA 21 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 316866,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MOTOR LANCHA, REFERÊNCIA NU 311-SKF, CARACTERÍSTICAS ADICIONAIS 1 CARREIRA, GAIOLA AÇO, CARGA DIN APROX. 13800, VE, DIÂMETRO INTERNO 55 MM, DIÂMETRO EXTERNO 120 MM, ALTURA 29 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317016,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MÁQUINAS EM GERAL, REFERÊNCIA NJ 310, CARACTERÍSTICAS ADICIONAIS 1 CARREIRA DE ESFERAS, DIÂMETRO INTERNO 50 MM, DIÂMETRO EXTERNO 110 MM, ALTURA 27 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317020,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MÁQUINAS EM GERAL, REFERÊNCIA NJ 206EC, CARACTERÍSTICAS ADICIONAIS 1 CARREIRA DE ESFERAS, DIÂMETRO INTERNO 30 MM, DIÂMETRO EXTERNO 62 MM, ALTURA 16 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317037,
+    "Descrição do Item": "SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO , TIPO EXTERNO, TIPO USO RODA DIANTEIRA, APLICAÇÃO VEÍCULO CHEVROLET D-20, ANO 1995",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "12447: SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317038,
+    "Descrição do Item": "SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO , TIPO INTERNO, TIPO USO RODA DIANTEIRA, APLICAÇÃO VEÍCULO CHEVROLET D-20, ANO 1995",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "12447: SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317039,
+    "Descrição do Item": "SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO , TIPO EXTERNO, TIPO USO RODA TRAZEIRA, APLICAÇÃO VEÍCULO CHEVROLET D-20, ANO 1995",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "12447: SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317040,
+    "Descrição do Item": "SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO , TIPO INTERNO, TIPO USO RODA TRAZEIRA, APLICAÇÃO VEÍCULO CHEVROLET D-20, ANO 1995",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "12447: SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317044,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MÁQUINAS EM GERAL, REFERÊNCIA 307NF, CARACTERÍSTICAS ADICIONAIS 1 CARREIRA DE ESFERAS COM GAIOLA DE BRONZE, DIÂMETRO INTERNO 35 MM, DIÂMETRO EXTERNO 80 MM, ALTURA 21 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317052,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO MÁQUINAS EM GERAL, REFERÊNCIA HK 1412, CARACTERÍSTICAS ADICIONAIS SEM FUNDO, DIÂMETRO INTERNO 14 MM, DIÂMETRO EXTERNO 20 MM, ALTURA 12 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317091,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51101, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 12 MM, DIÂMETRO EXTERNO 26 MM, LARGURA 9 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317093,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51102, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 15 MM, DIÂMETRO EXTERNO 28 MM, LARGURA 9 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317094,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51103, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 17 MM, DIÂMETRO EXTERNO 30 MM, LARGURA 9 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317095,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51104, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 20 MM, DIÂMETRO EXTERNO 35 MM, LARGURA 10 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317096,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51106, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 30 MM, DIÂMETRO EXTERNO 47 MM, LARGURA 11 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317097,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51107, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 35 MM, DIÂMETRO EXTERNO 52 MM, LARGURA 12 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317098,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51109, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 45 MM, DIÂMETRO EXTERNO 65 MM, LARGURA 14 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317099,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51110, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 50 MM, DIÂMETRO EXTERNO 70 MM, LARGURA 14 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317100,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51111, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 55 MM, DIÂMETRO EXTERNO 78 MM, LARGURA 16 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317101,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51112, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 60 MM, DIÂMETRO EXTERNO 85 MM, LARGURA 17 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317102,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51113, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 65 MM, DIÂMETRO EXTERNO 90 MM, LARGURA 18 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317103,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51114, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 70 MM, DIÂMETRO EXTERNO 95 MM, LARGURA 18 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317104,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51115, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 75 MM, DIÂMETRO EXTERNO 100 MM, LARGURA 19 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317105,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51201, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 12 MM, DIÂMETRO EXTERNO 28 MM, LARGURA 11 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317106,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51202, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 15 MM, DIÂMETRO EXTERNO 32 MM, LARGURA 12 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317107,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51204, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 20 MM, DIÂMETRO EXTERNO 40 MM, LARGURA 14 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317108,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51205, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 25 MM, DIÂMETRO EXTERNO 47 MM, LARGURA 15 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317109,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51206, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 30 MM, DIÂMETRO EXTERNO 52 MM, LARGURA 16 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317110,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51207, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 35 MM, DIÂMETRO EXTERNO 62 MM, LARGURA 18 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317112,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51208, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 40 MM, DIÂMETRO EXTERNO 68 MM, LARGURA 19 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317113,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51209, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 45 MM, DIÂMETRO EXTERNO 73 MM, LARGURA 20 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317114,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51210, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 50 MM, DIÂMETRO EXTERNO 78 MM, LARGURA 22 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317116,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 51211, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 55 MM, DIÂMETRO EXTERNO 90 MM, LARGURA 25 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS ESCORA SIMPLES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317167,
+    "Descrição do Item": "ROLAMENTO ESFERA CONTATO ANGULAR , REFERÊNCIA FABRICANTE 7203, DIÂMETRO INTERNO 17 MM, DIÂMETRO EXTERNO 40 MM, LARGURA 12 MM, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, CARACTERÍSTICAS ADICIONAIS 1 CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11800: ROLAMENTO ESFERA CONTATO ANGULAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317168,
+    "Descrição do Item": "ROLAMENTO ESFERA CONTATO ANGULAR , REFERÊNCIA FABRICANTE 7204, DIÂMETRO INTERNO 20 MM, DIÂMETRO EXTERNO 47 MM, LARGURA 14 MM, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, CARACTERÍSTICAS ADICIONAIS 1 CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11800: ROLAMENTO ESFERA CONTATO ANGULAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317169,
+    "Descrição do Item": "ROLAMENTO ESFERA CONTATO ANGULAR , REFERÊNCIA FABRICANTE 7205 BE, DIÂMETRO INTERNO 25 MM, DIÂMETRO EXTERNO 52 MM, LARGURA 15 MM, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, CARACTERÍSTICAS ADICIONAIS 1 CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11800: ROLAMENTO ESFERA CONTATO ANGULAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317171,
+    "Descrição do Item": "ROLAMENTO ESFERA CONTATO ANGULAR , REFERÊNCIA FABRICANTE 7206, DIÂMETRO INTERNO 30 MM, DIÂMETRO EXTERNO 62 MM, LARGURA 16 MM, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, CARACTERÍSTICAS ADICIONAIS 1 CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11800: ROLAMENTO ESFERA CONTATO ANGULAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317172,
+    "Descrição do Item": "ROLAMENTO ESFERA CONTATO ANGULAR , REFERÊNCIA FABRICANTE 7207, DIÂMETRO INTERNO 35 MM, DIÂMETRO EXTERNO 72 MM, LARGURA 17 MM, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, CARACTERÍSTICAS ADICIONAIS 1 CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11800: ROLAMENTO ESFERA CONTATO ANGULAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317173,
+    "Descrição do Item": "ROLAMENTO ESFERA CONTATO ANGULAR , REFERÊNCIA FABRICANTE 7208, DIÂMETRO INTERNO 40 MM, DIÂMETRO EXTERNO 80 MM, LARGURA 18 MM, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, CARACTERÍSTICAS ADICIONAIS 1 CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11800: ROLAMENTO ESFERA CONTATO ANGULAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317174,
+    "Descrição do Item": "ROLAMENTO ESFERA CONTATO ANGULAR , REFERÊNCIA FABRICANTE 7209, DIÂMETRO INTERNO 45 MM, DIÂMETRO EXTERNO 85 MM, LARGURA 19 MM, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, CARACTERÍSTICAS ADICIONAIS 1 CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11800: ROLAMENTO ESFERA CONTATO ANGULAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317325,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE NJ 205, DIÂMETRO INTERNO 25 MM, DIÂMETRO EXTERNO 52 MM, LARGURA 15 MM, CARACTERÍSTICAS ADICIONAIS UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317326,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE NJ 206, DIÂMETRO INTERNO 30 MM, DIÂMETRO EXTERNO 62 MM, LARGURA 16 MM, CARACTERÍSTICAS ADICIONAIS UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317327,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE NJ 208, DIÂMETRO INTERNO 40 MM, DIÂMETRO EXTERNO 80 MM, LARGURA 18 MM, CARACTERÍSTICAS ADICIONAIS UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317328,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE NJ 207, DIÂMETRO INTERNO 35 MM, DIÂMETRO EXTERNO 72 MM, LARGURA 17 MM, CARACTERÍSTICAS ADICIONAIS UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317329,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE NJ 209, DIÂMETRO INTERNO 45 MM, DIÂMETRO EXTERNO 85 MM, LARGURA 19 MM, CARACTERÍSTICAS ADICIONAIS UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317330,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE NJ 210, DIÂMETRO INTERNO 50 MM, DIÂMETRO EXTERNO 90 MM, LARGURA 20 MM, CARACTERÍSTICAS ADICIONAIS UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317332,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE NJ 308 ECP, DIÂMETRO INTERNO 40 MM, DIÂMETRO EXTERNO 90 MM, LARGURA 23 MM, CARACTERÍSTICAS ADICIONAIS UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317333,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE NJ 307 EC3, DIÂMETRO INTERNO 35 MM, DIÂMETRO EXTERNO 80 MM, LARGURA 21 MM, CARACTERÍSTICAS ADICIONAIS UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317334,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE N 205-E-TVP2-C3, DIÂMETRO INTERNO 25 MM, DIÂMETRO EXTERNO 52 MM, LARGURA 15 MM, CARACTERÍSTICAS ADICIONAIS UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317336,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE HJ3-311E, DIÂMETRO INTERNO 55 MM, DIÂMETRO EXTERNO 120 MM, LARGURA 29 MM, CARACTERÍSTICAS ADICIONAIS UMA CARREIRA DE ESFERAS COM ANEL DE ENCONSTO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317337,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE NJ 309, DIÂMETRO INTERNO 45 MM, DIÂMETRO EXTERNO 100 MM, LARGURA 25 MM, CARACTERÍSTICAS ADICIONAIS ANEL BORDA EXTERIOR",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317388,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6211ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 55 MM, DIÂMETRO EXTERNO 100 MM, LARGURA 21 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317390,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6213ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, BLINDAGEM DUPLA, DIÂMETRO INTERNO 65 MM, DIÂMETRO EXTERNO 120 MM, LARGURA 23 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317391,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6215ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, BLINDAGEM DUPLA, DIÂMETRO INTERNO 75 MM, DIÂMETRO EXTERNO 130 MM, LARGURA 25 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317392,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6216ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, BLINDAGEM DUPLA, DIÂMETRO INTERNO 80 MM, DIÂMETRO EXTERNO 140 MM, LARGURA 26 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317393,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6001, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 12 MM, DIÂMETRO EXTERNO 28 MM, LARGURA 8 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317394,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6002, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 15 MM, DIÂMETRO EXTERNO 32 MM, LARGURA 9 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317395,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6003, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 17 MM, DIÂMETRO EXTERNO 35 MM, LARGURA 10 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317396,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6004ZZ, CARACTERÍSTICAS ADICIONAIS 2 PLACAS DE VEDAÇÃO, 1 CARREIRA DE ESFERAS, DIÂMETRO INTERNO 20 MM, DIÂMETRO EXTERNO 42 MM, LARGURA 12 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317397,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6005ZZ, CARACTERÍSTICAS ADICIONAIS 2 PLACAS DE VEDAÇÃO, 1 CARREIRA DE ESFERAS, DIÂMETRO INTERNO 25 MM, DIÂMETRO EXTERNO 47 MM, LARGURA 12 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317398,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6006, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 30 MM, DIÂMETRO EXTERNO 55 MM, LARGURA 13 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317399,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6008, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 40 MM, DIÂMETRO EXTERNO 68 MM, LARGURA 15 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317400,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6007, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 35 MM, DIÂMETRO EXTERNO 62 MM, LARGURA 14 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317401,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6009, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 45 MM, DIÂMETRO EXTERNO 75 MM, LARGURA 16 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317402,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6010, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 50 MM, DIÂMETRO EXTERNO 80 MM, LARGURA 16 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317403,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6012, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 60 MM, DIÂMETRO EXTERNO 95 MM, LARGURA 18 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317404,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6301, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 12 MM, DIÂMETRO EXTERNO 37 MM, LARGURA 12 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317405,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6302, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 15 MM, DIÂMETRO EXTERNO 42 MM, LARGURA 13 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317406,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6303, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 17 MM, DIÂMETRO EXTERNO 47 MM, LARGURA 14 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317407,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6304, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 20 MM, DIÂMETRO EXTERNO 52 MM, LARGURA 15 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317408,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6305, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 25 MM, DIÂMETRO EXTERNO 62 MM, LARGURA 17 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317409,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6309, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 45 MM, DIÂMETRO EXTERNO 100 MM, LARGURA 25 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317410,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6310, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 50 MM, DIÂMETRO EXTERNO 110 MM, LARGURA 27 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317411,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6311, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 55 MM, DIÂMETRO EXTERNO 120 MM, LARGURA 29 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317412,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6312, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 60 MM, DIÂMETRO EXTERNO 130 MM, LARGURA 31 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317413,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 4203ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE DUAS CARREIRAS C/ BLINDAGEM DUPLA, DIÂMETRO INTERNO 17 MM, DIÂMETRO EXTERNO 40 MM, LARGURA 16 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317414,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 629ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 9 MM, DIÂMETRO EXTERNO 26 MM, LARGURA 8 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317415,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 606, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 6 MM, DIÂMETRO EXTERNO 17 MM, LARGURA 6 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317416,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 608, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 8 MM, DIÂMETRO EXTERNO 22 MM, LARGURA 7 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317417,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 626, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 6 MM, DIÂMETRO EXTERNO 19 MM, LARGURA 6 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317418,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 628, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 8 MM, DIÂMETRO EXTERNO 24 MM, LARGURA 8 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317424,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 6214ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, BLINDAGEM DUPLA, DIÂMETRO INTERNO 70 MM, DIÂMETRO EXTERNO 125 MM, LARGURA 24 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 317632,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 627, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, DIÂMETRO INTERNO 7 MM, DIÂMETRO EXTERNO 22 MM, LARGURA 7 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319042,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 16011 ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, BLINDAGEM DUPLA, DIÂMETRO INTERNO 55 MM, DIÂMETRO EXTERNO 90 MM, ALTURA 11 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319045,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 3207 A-2Z, CARACTERÍSTICAS ADICIONAIS CONTATO ANGULAR, 2 CARREIRAS DE ESFERAS, DIÂMETRO INTERNO 35 MM, DIÂMETRO EXTERNO 72 MM, LARGURA 27 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319047,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 16009 ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, BLINDAGEM DUPLA, DIÂMETRO INTERNO 45 MM, DIÂMETRO EXTERNO 75 MM, ALTURA 10 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319055,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE RNA 4905, CARACTERÍSTICAS ADICIONAIS AGULHAS, FLANGE, SEM ANEL INERNO, BUCHA DE 30 MM, DIÂMETRO INTERNO 30 MM, DIÂMETRO EXTERNO 42 MM, ALTURA 17 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319096,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 3984, CARACTERÍSTICAS ADICIONAIS CÔNICO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319723,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO VEÍCULO MERCEDES-BENZ, MODELO VAN MB-180D,ANO 1995, REFERÊNCIA GAE20NPPB",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319724,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO VEÍCULO MERCEDES-BENZ, MODELO VAN MB-180D,ANO 1995, REFERÊNCIA 6214Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319725,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO VEÍCULO MERCEDES-BENZ, MODELO VAN MB-180D,ANO 1995, REFERÊNCIA 6309ZZ/C3",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319726,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO VEÍCULO MERCEDES-BENZ, MODELO VAN MB-180D,ANO 1995, REFERÊNCIA 6212ZZ/C3",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319727,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO VEÍCULO MERCEDES-BENZ, MODELO VAN MB-180D,ANO 1995, REFERÊNCIA 6211ZZ/C3",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319728,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO VEÍCULO MERCEDES-BENZ, MODELO VAN MB-180D,ANO 1995, REFERÊNCIA 6311/C3",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319730,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 6307",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319731,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA GE 30 KRRB",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 319732,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 6304",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 320199,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 66310ZZ/C3",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 320782,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA 6204 Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 322692,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA Y206 V22 FRM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325191,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EMBREAGEM, APLICAÇÃO VEÍCULO LAND ROVER ANO 2000, REFERÊNCIA FTC 5200, CARACTERÍSTICAS ADICIONAIS PICK UP DIESEL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325705,
+    "Descrição do Item": "ROLAMENTO , TIPO USO ÁRVORE SECUNDÁRIA, APLICAÇÃO VEÍCULO TOYOTA, 5 MARCHAS, MOTOR 14B, ANO 1995, REFERÊNCIA 97154 06308",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325706,
+    "Descrição do Item": "ROLAMENTO , TIPO USO ÁRVORE SECUNDÁRIA, APLICAÇÃO VEÍCULO TOYOTA, 5 MARCHAS, MOTOR 14B, ANO 1995, REFERÊNCIA 90023 63015",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325737,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO INTERMEDIÁRIO DIANTEIRO, APLICAÇÃO VEÍCULO TOYOTA, 5 MARCHAS, MOTOR 14B, ANO 1995, REFERÊNCIA 90023 68018",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325738,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO INTERMEDIÁRIO TRASEIRO, APLICAÇÃO VEÍCULO TOYOTA, 5 MARCHAS, MOTOR 14B, ANO 1995, REFERÊNCIA 90023 6807",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325739,
+    "Descrição do Item": "ROLAMENTO , TIPO USO SISTEMA DE CÂMBIO, APLICAÇÃO VEÍCULO TOYOTA, 5 MARCHAS, MOTOR 14B, ANO 1995, TIPO DE AGULHAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 330062,
+    "Descrição do Item": "ROLAMENTO , TIPO USO PINO MESTRE, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE, REFERÊNCIA PN 90023-56001",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 330080,
+    "Descrição do Item": "ROLAMENTO , TIPO USO COLAR, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE, REFERÊNCIA PN 90023-63011",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338555,
+    "Descrição do Item": "ROLAMENTO , TIPO USO COLUNA DE DIREÇÃO, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE ANO 1993, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338556,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CAIXA SATÉLITE DO DIFERENCIAL, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE ANO 1993, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338559,
+    "Descrição do Item": "ROLAMENTO , TIPO USO INTERNO DO PINHÃO, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE ANO 1993, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 338561,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO CARDAN, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE ANO 1993, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339447,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS, REFERÊNCIA FABRICANTE 2215, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339448,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MOTORES ELÉTRICOS, REFERÊNCIA FABRICANTE 1315, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339594,
+    "Descrição do Item": "ROLAMENTO , TIPO USO INTERNO DO PINHÃO, APLICAÇÃO VEÍCULO VOLKSWAGEM, MODELO KOMBI, ANO 1995, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339924,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA, APLICAÇÃO VEÍCULO VOLKSWAGEN KOMBI, ANO 1995, REFERÊNCIA 2115012831",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 343106,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 1206 AKTN/C3, CARACTERÍSTICAS ADICIONAIS METÁLICO E BLINDADO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 344081,
+    "Descrição do Item": "SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO , TIPO EXTERNO, TIPO USO RODA DIANTEIRA, APLICAÇÃO VEÍCULO VOLKSWAGEN PARATI",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "12447: SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 344082,
+    "Descrição do Item": "SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO , TIPO INTERNO, TIPO USO RODA DIANTEIRA, APLICAÇÃO VEÍCULO VOLKSWAGEN PARATI",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "12447: SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345199,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EMBREAGEM, APLICAÇÃO VEÍCULO MERCEDES-BENZ, MODELO 1418, ANO 2003, REFERÊNCIA NWO RDL1320",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345201,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CUBO DIANTEIRO EXTERNO, APLICAÇÃO VEÍCULO MERCEDES-BENZ, MODELO 1418, ANO 2003, REFERÊNCIA 33210Q",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345202,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CUBO TRASEIRO EXTERNO, APLICAÇÃO VEÍCULO MERCEDES-BENZ, MODELO 1418, ANO 2003, REFERÊNCIA 33215Q",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345204,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CUBO TRASEIRO INTERNO, APLICAÇÃO VEÍCULO MERCEDES-BENZ, MODELO 1418, ANO 2003, REFERÊNCIA 33019Q",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345206,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CUBO DIANTEIRO INTERNO, APLICAÇÃO VEÍCULO MERCEDES-BENZ, MODELO 1418, ANO 2003, REFERÊNCIA 33214Q",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345242,
+    "Descrição do Item": "ROLAMENTO , TIPO USO COLUNA DE DIREÇÃO, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE, MOD. 4X4, ANO 1998",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345266,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MUNHÃO RODA DIANTEIRA, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE, MOD. 4X4, ANO 1998",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345267,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CUBO RODA DIANTEIRA, APLICAÇÃO VEÍCULO TOYOTA BANDEIRANTE, MOD. 4X4, ANO 1998",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345281,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA, APLICAÇÃO VEÍCULO UNO MILLE FLEX, ANO 2005",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345362,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA, APLICAÇÃO VIATURA LAND OVER DEFENDER 4X4, MOD. 130CD, ANO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345363,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA, APLICAÇÃO VIATURA LAND OVER DEFENDER 4X4, MOD. 130CD, ANO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346217,
+    "Descrição do Item": "SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO , TIPO USO RODA TRAZEIRA, APLICAÇÃO VEÍCULO CHEVROLET, MODELO MONZA 2.0, ANO 1996",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "12447: SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346328,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO REFRIGERAÇÃO, TIPO CURVO, REFERÊNCIA ASR-205",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346329,
+    "Descrição do Item": "ROLAMENTO , APLICAÇÃO REFRIGERAÇÃO, TIPO RETO, REFERÊNCIA SA-205",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346330,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6201-2Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346331,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6202-2Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346332,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6203-2Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346333,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6204-2Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346334,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6205-2Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346335,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6206-2Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346336,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6207-2Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346337,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6208Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346338,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6209Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346339,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE G 208",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346340,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE G 209",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346341,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6209-2Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346378,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6307-2Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346379,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6308-2Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346380,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6310 C3",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346381,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6306-2Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346382,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6212-2Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346383,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6211ZC3",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346384,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6314 C3",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346385,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6312 Z C3",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346386,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6312 C3",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346387,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6309-2Z",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346388,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, TIPO USO REFRIGERAÇÃO, REFERÊNCIA FABRICANTE 6311 C3",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346566,
+    "Descrição do Item": "ROLAMENTO , TIPO USO VIRABREQUIM, APLICAÇÃO MOTOSSERRA STHIL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 346723,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CANETA ODONTOLÓGICA ALTA ROTAÇÃO, APLICAÇÃO EQUIPAMENTO ODONTOLÓGICO, TIPO BARDEN, REFERÊNCIA SRF144RSTY119K40-10, DIÂMETRO EXTERNO 7,50 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 350916,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CAIXA TRANSFERÊNCIA, APLICAÇÃO VEÍCULO TOYOTA, 5 MARCHAS, MOTOR 14B, ANO 1995",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 352270,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, REFERÊNCIA FABRICANTE 1 37521VJ525, TIPO USO MANCAL, CARACTERÍSTICAS ADICIONAIS CÔNICO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 353161,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , REFERÊNCIA FABRICANTE 1 6407 ZZ, TIPO USO MÁQUINAS EM GERAL, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 353163,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , REFERÊNCIA FABRICANTE 1 6406 ZZ, TIPO USO MÁQUINAS EM GERAL, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 354037,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA, APLICAÇÃO VEÍCULO CHEVROLET CORSA 1.6, ANO 2001/2002, TIPO DE ESFERA, REFERÊNCIA VKBA4544",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 354336,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 22.210, DIÂMETRO INTERNO 50 MM, DIÂMETRO EXTERNO 90 MM, LARGURA 23 MM, CARACTERÍSTICAS ADICIONAIS BLINDADO / 2 CARREIRAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 357282,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, REFERÊNCIA FABRICANTE 1 6212 2ZR, TIPO USO MOTORES ELÉTRICOS, CARACTERÍSTICAS ADICIONAIS FIXO UMA CARREIRA ESFERAS, CARGA AXIAL E RADIAL, DIÂMETRO INTERNO 60 MM, DIÂMETRO EXTERNO 110 MM, LARGURA 22 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 357380,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, REFERÊNCIA FABRICANTE 1 6312 2ZR, TIPO USO MOTORES ELÉTRICOS, CARACTERÍSTICAS ADICIONAIS FIXO UMA CARREIRA ESFERAS, CARGA AXIAL E RADIAL, DIÂMETRO INTERNO 60 MM, DIÂMETRO EXTERNO 130 MM, LARGURA 31 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 357381,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, REFERÊNCIA FABRICANTE 1 6314 2ZR, TIPO USO MOTORES ELÉTRICOS, CARACTERÍSTICAS ADICIONAIS FIXO UMA CARREIRA ESFERAS, CARGA AXIAL E RADIAL, DIÂMETRO INTERNO 70 MM, DIÂMETRO EXTERNO 150 MM, LARGURA 35 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 357382,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, REFERÊNCIA FABRICANTE 1 6206 2ZR, TIPO USO MOTORES ELÉTRICOS, CARACTERÍSTICAS ADICIONAIS FIXO UMA CARREIRA ESFERAS, CARGA AXIAL E RADIAL, DIÂMETRO INTERNO 30 MM, DIÂMETRO EXTERNO 62 MM, LARGURA 16 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 357383,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, REFERÊNCIA FABRICANTE 1 6205 2ZR, TIPO USO MOTORES ELÉTRICOS, CARACTERÍSTICAS ADICIONAIS FIXO UMA CARREIRA ESFERAS, CARGA AXIAL E RADIAL, DIÂMETRO INTERNO 25 MM, DIÂMETRO EXTERNO 52 MM, LARGURA 15 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 357384,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL AÇO, REFERÊNCIA FABRICANTE 1 6207 2ZR, TIPO USO MOTORES ELÉTRICOS, CARACTERÍSTICAS ADICIONAIS FIXO UMA CARREIRA ESFERAS, CARGA AXIAL E RADIAL, DIÂMETRO INTERNO 35 MM, DIÂMETRO EXTERNO 72 MM, LARGURA 17 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 359604,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 6308 DDU, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 40 MM, DIÂMETRO EXTERNO 90 MM, LARGURA 20 MM, MATERIAL AÇO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 359605,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 6307 DDU, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 35 MM, DIÂMETRO EXTERNO 80 MM, LARGURA 20 MM, MATERIAL AÇO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 362473,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , REFERÊNCIA FABRICANTE 1 3308, TIPO USO MANCAL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 362474,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , REFERÊNCIA FABRICANTE 1 NU 209E, TIPO USO MANCAL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 365747,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MOTOR PARTIDA, APLICAÇÃO VEÍCULO NISSAN FRONTIER, 4X4, SE, ANO 2005, TIPO CÔNICO DE ROLETES, REFERÊNCIA HK1210, CARACTERÍSTICAS ADICIONAIS BLINDADO EM AÇO INOXIDÁVEL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 366359,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , REFERÊNCIA FABRICANTE 1 3320-SKF, TIPO USO MÁQUINAS EM GERAL, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE DUAS CARREIRAS COM BLINDAGEM DUPLA, DIÂMETRO INTERNO 17 MM, DIÂMETRO EXTERNO 40 MM, LARGURA 16 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 366637,
+    "Descrição do Item": "MANCAL LINEAR FECHADO , MATERIAL FERRO, REFERÊNCIA FABRICANTE SN 513, APLICAÇÃO ROLAMENTO AXIAL ESFERA 2213 K",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "16274: MANCAL LINEAR FECHADO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 366640,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 2213 K, APLICAÇÃO MÁQUINAS E MOTORES EM GERAL, DIÂMETRO INTERNO 65 MM, DIÂMETRO EXTERNO 120 MM, LARGURA 31 MM, MATERIAL AÇO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 370963,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 6201-2Z, APLICAÇÃO MOTORES ELÉTRICOS, DIÂMETRO INTERNO 12 MM, DIÂMETRO EXTERNO 32 MM, LARGURA 10 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS PLACAS PROTEÇÃO AMBOS OS LADOS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 370964,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 6202-2Z, APLICAÇÃO MOTORES ELÉTRICOS, DIÂMETRO INTERNO 15 MM, DIÂMETRO EXTERNO 35 MM, LARGURA 11 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS PLACAS PROTEÇÃO AMBOS OS LADOS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 370965,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 6204-2Z, APLICAÇÃO MOTORES ELÉTRICOS, DIÂMETRO INTERNO 20 MM, DIÂMETRO EXTERNO 47 MM, LARGURA 14 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS PLACAS PROTEÇÃO AMBOS OS LADOS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 370966,
+    "Descrição do Item": "ROLAMENTO AXIAL ESFERA , REFERÊNCIA 6203-2Z, APLICAÇÃO MOTORES ELÉTRICOS, DIÂMETRO INTERNO 17 MM, DIÂMETRO EXTERNO 40 MM, LARGURA 12 MM, MATERIAL AÇO, CARACTERÍSTICAS ADICIONAIS PLACAS PROTEÇÃO AMBOS OS LADOS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11790: ROLAMENTO AXIAL ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373330,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 21.313, DIÂMETRO INTERNO 65 MM, DIÂMETRO EXTERNO 140 MM, LARGURA 33 MM, CARACTERÍSTICAS ADICIONAIS DUPLO OSCILANTE, DUAS CORREIRAS ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374428,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EMBREAGEM, APLICAÇÃO VEÍCULO CHEVROLET, MODELO D20 ANO 1987",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374472,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA EXTERNO, APLICAÇÃO TRATOR VALMET 885, ANO 2002",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374473,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CUBO DIANTEIRO INTERNO, APLICAÇÃO TRATOR VALMET 885, ANO 2002",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374501,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA INTERNO, APLICAÇÃO CAMINHÃO MERCEDES BENZ 608, ANO 1981",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374502,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA EXTERNO, APLICAÇÃO CAMINHÃO MERCEDES BENZ 608, ANO 1981",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374503,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA, APLICAÇÃO CAMINHÃO MERCEDES BENZ 608, ANO 1981",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374511,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA EXTERNO, APLICAÇÃO ÔNIBUS MERCEDES BENZ 1113, ANO 1981",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374610,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EMBREAGEM, APLICAÇÃO VEÍCULO VW 9150, ANO 2000",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 380579,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MOTOR ELÉTRICO, APLICAÇÃO BOMBA ESGOTO E INCÊNDIO, REFERÊNCIA SKF 6310Z E 11.790",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 382167,
+    "Descrição do Item": "ROLAMENTO , TIPO USO CANETA ODONTOLÓGICA ALTA ROTAÇÃO, APLICAÇÃO EQUIPAMENTO ODONTOLÓGICO, TIPO KAVO, REFERÊNCIA EXTRA-TORQUE 605",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 382515,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL FERRO FUNDIDO, REFERÊNCIA FABRICANTE 1 UCR 206, TIPO USO MANCAL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 382516,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL FERRO FUNDIDO, REFERÊNCIA FABRICANTE 1 UCR 207, TIPO USO MANCAL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 382530,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , MATERIAL FERRO FUNDIDO, REFERÊNCIA FABRICANTE 1 URC 205, TIPO USO MANCAL",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 387945,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , REFERÊNCIA FABRICANTE 1 6308-Z, TIPO USO MÁQUINAS EM GERAL, CARACTERÍSTICAS ADICIONAIS RÍGIDO, UMA CARREIRA DE ESFERA, DIÂMETRO INTERNO 40 MM, DIÂMETRO EXTERNO 90 MM, LARGURA 23 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 387948,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , REFERÊNCIA FABRICANTE 1 6313-Z, TIPO USO MÁQUINAS EM GERAL, CARACTERÍSTICAS ADICIONAIS RÍGIDO, UMA CARREIRA DE ESFERA, DIÂMETRO INTERNO 65 MM, DIÂMETRO EXTERNO 140 MM, LARGURA 33 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 388225,
+    "Descrição do Item": "ROLAMENTO ROLO , TIPO USO COMPENSADORES SÍNCRONOS, REFERÊNCIA FABRICANTE NU 312, DIÂMETRO INTERNO 60 MM, DIÂMETRO EXTERNO 130 MM, LARGURA 31 MM, CARACTERÍSTICAS ADICIONAIS CILÍNDRICO, UMA CARREIRA, BLINDAGEM UM DOS LADO, ROTAÇÃO 5.600 RPM, CAPACIDADE CARGA 173 KN",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11804: ROLAMENTO ROLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 388227,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , REFERÊNCIA FABRICANTE 1 6205, CAPACIDADE CARGA 14,80 KN, ROTAÇÃO 28.000 RPM, TIPO USO COMPENSADORES SÍNCRONOS, CARACTERÍSTICAS ADICIONAIS RÍGIDO, BLINDAGEM UM DOS LADO, UMA CARREIRA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 388228,
+    "Descrição do Item": "ROLAMENTO ESFERA CONTATO ANGULAR , DIÂMETRO INTERNO 60 MM, DIÂMETRO EXTERNO 130 MM, LARGURA 31 MM, CARACTERÍSTICAS ADICIONAIS UMA CARREIRA, BLINDAGEM AMBOS OS LADOS, CAPACIDADE CARGA 95,60 KN, ROTAÇÃO 6.000 RPM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11800: ROLAMENTO ESFERA CONTATO ANGULAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 396758,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , REFERÊNCIA FABRICANTE 1 6901 ZZ, TIPO USO MÁQUINAS EM GERAL, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 396846,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , REFERÊNCIA FABRICANTE 1 GRAE 25 NPPB, TIPO USO AR CONDICIONADADO E EXAUSTORES",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 396857,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , TIPO USO MÁQUINAS EM GERAL, REFERÊNCIA FABRICANTE 608 ZZ, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, UMA BLINDAGEM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 396858,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , REFERÊNCIA FABRICANTE 1 6406 ZZ, TIPO USO MÁQUINAS EM GERAL, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE UMA CARREIRA DE ESFERAS, UMA BLINDAGEM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 398257,
+    "Descrição do Item": "ROLAMENTO , TIPO USO MANUTENÇÃO DE BRINQUEDOS, APLICAÇÃO BRINQUEDOS EM GERAL, REFERÊNCIA 608ZZ",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 399936,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , REFERÊNCIA FABRICANTE 1 RAL 012NPP, ROTAÇÃO 6.250 RPM, TIPO USO MOTOR SISTEMA AR CONDICIONADO, DIÂMETRO INTERNO 20 MM, DIÂMETRO EXTERNO 42 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 399942,
+    "Descrição do Item": "ROLAMENTO , TIPO USO AR CONDICIONADO, APLICAÇÃO MOTOR SISTEMA AR CONDICIONADO, REFERÊNCIA EWR 205-16, DIÂMETRO INTERNO 25 MM, DIÂMETRO EXTERNO 52 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 401275,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA, APLICAÇÃO VEÍCULO FORD RANGER ANO 2008",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 401486,
+    "Descrição do Item": "ROLAMENTO , REFERÊNCIA 1 8182, TIPO USO AR CONDICIONADO, APLICAÇÃO VEÍCULO FORD RANGER ANO 2008",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 405277,
+    "Descrição do Item": "ROLAMENTO , REFERÊNCIA 1 501349/310/Q, TIPO USO RODA DIANTEIRA, APLICAÇÃO MERCEDES BENZ MODELO SPRINTER 312D",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 405282,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA, APLICAÇÃO VEÍCULO FIAT PALIO, ANO 2000",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 405283,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA, APLICAÇÃO VEÍCULO FIAT PALIO, ANO 2000",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 407703,
+    "Descrição do Item": "ROLAMENTO DE ESFERA , REFERÊNCIA FABRICANTE 1 4211A, TIPO USO MÁQUINAS EM GERAL, CARACTERÍSTICAS ADICIONAIS RÍGIDO DE DUAS CARREIRAS, DIÂMETRO INTERNO 55 MM, DIÂMETRO EXTERNO 100 MM, LARGURA 25 MM",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11797: ROLAMENTO DE ESFERA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 442038,
+    "Descrição do Item": "ROLAMENTO , TIPO USO EIXO CARDAN, APLICAÇÃO CAMIONETA MITSUBISHI MODELO L-200, ANO 2012, TIPO DE ESFERA",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 442090,
+    "Descrição do Item": "MANCAL TIPO BIPARTIDO , TIPO P216, APLICAÇÃO SISTEMA DE REFRIGERAÇÃO",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3120: MANCAIS NÃO MONTADOS",
+    "PDM": "09076: MANCAL TIPO BIPARTIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 444760,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA DIANTEIRA, APLICAÇÃO VEÍCULO FORD FIESTA 1.6, ANO 2009",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 444761,
+    "Descrição do Item": "ROLAMENTO , TIPO USO RODA TRASEIRA, APLICAÇÃO VEÍCULO FORD FIESTA 1.6, ANO 2009",
+    "Grupo": "31: ROLAMENTOS E MANCAIS",
+    "Classe": "3110: ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "PDM": "11801: ROLAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  }
+]
