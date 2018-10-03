@@ -1,0 +1,2288 @@
+[
+  {
+    "Código do Item": 14591,
+    "Descrição do Item": "EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR GASOLINA , EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "06435: EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14737,
+    "Descrição do Item": "BLOCO DE MOTOR A GASOLINA , BLOCO DE MOTOR A GASOLINA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03611: BLOCO DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14745,
+    "Descrição do Item": "EIXO COMANDO VÁLVULA , EIXO DE COMANDO DE VALVULA DE MOTOR A GA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "06430: EIXO COMANDO VÁLVULA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14753,
+    "Descrição do Item": "CONJUNTO DE BOMBA DE OLEO DE MOTOR A GASOLINA , CONJUNTO DE BOMBA DE OLEO DE MOTOR A GAS NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05699: CONJUNTO DE BOMBA DE OLEO DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14761,
+    "Descrição do Item": "CABEÇOTE DE MOTOR A GASOLINA , CABECOTE DE MOTOR A GASOLINA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03989: CABEÇOTE DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14770,
+    "Descrição do Item": "CILINDRO DE MOTOR A COMBUSTAO , CILINDRO DE MOTOR A COMBUSTAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04995: CILINDRO DE MOTOR A COMBUSTAO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14788,
+    "Descrição do Item": "EMBOLO , EMBOLO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2820: MÁQUINAS ALTERNATIVAS A VAPOR E COMPONENTES",
+    "PDM": "06517: EMBOLO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14796,
+    "Descrição do Item": "CRUZETA MÁQUINA À VAPOR , CRUZETA PARA MAQUINA A VAPOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2820: MÁQUINAS ALTERNATIVAS A VAPOR E COMPONENTES",
+    "PDM": "05990: CRUZETA MÁQUINA À VAPOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14800,
+    "Descrição do Item": "EIXO MOTRIZ - MAQUINA A VAPOR , EIXO MOTRIZ - MAQUINA A VAPOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2820: MÁQUINAS ALTERNATIVAS A VAPOR E COMPONENTES",
+    "PDM": "06439: EIXO MOTRIZ - MAQUINA A VAPOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14818,
+    "Descrição do Item": "EIXO DE COMANDO , EIXO DE COMANDO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2820: MÁQUINAS ALTERNATIVAS A VAPOR E COMPONENTES",
+    "PDM": "06429: EIXO DE COMANDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14826,
+    "Descrição do Item": "HASTE DE EMBOLO EXCENTRICO - MAQUINA A VAPOR , HASTE DE EMBOLO EXCENTRICO - MAQUINA A V NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2820: MÁQUINAS ALTERNATIVAS A VAPOR E COMPONENTES",
+    "PDM": "08173: HASTE DE EMBOLO EXCENTRICO - MAQUINA A VAPOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14834,
+    "Descrição do Item": "CONTROLADOR DE PARADA AUTOMATICA - TURBINA A VAPOR , CONTROLADOR DE PARADA AUTOMATICA - TURBI NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2825: TURBINAS A VAPOR E COMPONENTES",
+    "PDM": "05808: CONTROLADOR DE PARADA AUTOMATICA - TURBINA A VAPOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14842,
+    "Descrição do Item": "PALHETA FIXA DE TURBINA A VAPOR , PALHETA FIXA DE TURBINA A VAPOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2825: TURBINAS A VAPOR E COMPONENTES",
+    "PDM": "10321: PALHETA FIXA DE TURBINA A VAPOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14850,
+    "Descrição do Item": "LÂMINA TURBINA DE VAPOR , PALHETA MOVEL DE TURBINA A VAPOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2825: TURBINAS A VAPOR E COMPONENTES",
+    "PDM": "10323: LÂMINA TURBINA DE VAPOR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14869,
+    "Descrição do Item": "ANEL DE FREAMENTO DE TURBINA A VAPOR , ANEL DE FREAMENTO DE TURBINA A VAPOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2825: TURBINAS A VAPOR E COMPONENTES",
+    "PDM": "02493: ANEL DE FREAMENTO DE TURBINA A VAPOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14877,
+    "Descrição do Item": "ANEL DE DEFLATOR DE TURBINA A VAPOR , ANEL DE DEFLATOR DE TURBINA A VAPOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2825: TURBINAS A VAPOR E COMPONENTES",
+    "PDM": "02492: ANEL DE DEFLATOR DE TURBINA A VAPOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14893,
+    "Descrição do Item": "PLACA EXPANSORA DE TURBINA A VAPOR , PLACA EXPANSORA DE TURBINA A VAPOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2825: TURBINAS A VAPOR E COMPONENTES",
+    "PDM": "10846: PLACA EXPANSORA DE TURBINA A VAPOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 14907,
+    "Descrição do Item": "ROTOR DE TURBINA A VAPOR , ROTOR DE TURBINA A VAPOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2825: TURBINAS A VAPOR E COMPONENTES",
+    "PDM": "11841: ROTOR DE TURBINA A VAPOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48240,
+    "Descrição do Item": "CAIXA DIREÇÃO , CAIXA DE MAR DE EMBARCACAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04139: CAIXA DIREÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48852,
+    "Descrição do Item": "MOTOR DE EXPLOSAO A GAS EXCETO DE AERONAVE , MOTOR DE EXPLOSAO A GAS EXCETO DE AERONA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "09959: MOTOR DE EXPLOSAO A GAS EXCETO DE AERONAVE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48860,
+    "Descrição do Item": "MOTOR DE EXPLOSAO A GASOLINA EXCETO DE AERONAVE , MOTOR DE EXPLOSAO A GASOLINA EXCETO DE A NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "09960: MOTOR DE EXPLOSAO A GASOLINA EXCETO DE AERONAVE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48879,
+    "Descrição do Item": "MOTOR PRIMARIO DE AERONAVE , MOTOR PRIMARIO DE AERONAVE NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2810: MOTORES A GASOLINA PARA AERONAVES E COMPONENTES",
+    "PDM": "09985: MOTOR PRIMARIO DE AERONAVE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48887,
+    "Descrição do Item": "MOTOR DIESEL VEÍCULO AUTOMOTIVO , MOTOR DIESEL - VEICULO AUTOMOTIVO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "09966: MOTOR DIESEL VEÍCULO AUTOMOTIVO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48895,
+    "Descrição do Item": "MOTOR SEMI - DIESEL PARA AUTOMOVEL , MOTOR SEMI - DIESEL PARA AUTOMOVEL NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "09995: MOTOR SEMI - DIESEL PARA AUTOMOVEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48909,
+    "Descrição do Item": "MOTOR DIESEL MARITIMO , MOTOR DIESEL MARITIMO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "09968: MOTOR DIESEL MARITIMO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48917,
+    "Descrição do Item": "MOTOR SEMI - DIESEL MARITIMO , MOTOR SEMI - DIESEL MARITIMO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "09994: MOTOR SEMI - DIESEL MARITIMO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48925,
+    "Descrição do Item": "MOTOR DIESEL DE LOCOMOTIVA , MOTOR DIESEL DE LOCOMOTIVA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "09967: MOTOR DIESEL DE LOCOMOTIVA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48933,
+    "Descrição do Item": "MOTOR SEMI - DIESEL PARA LOCOMOTIVA , MOTOR SEMI - DIESEL PARA LOCOMOTIVA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "09996: MOTOR SEMI - DIESEL PARA LOCOMOTIVA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48941,
+    "Descrição do Item": "TURBINA A GAS EXCETO DE AERONAVE , TURBINA A GAS EXCETO DE AERONAVE NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2835: TURBINAS A GÁS E MOTORES A JATO E COMPONENTES, EXCETO OS  DEAERONAVE",
+    "PDM": "13136: TURBINA A GAS EXCETO DE AERONAVE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48950,
+    "Descrição do Item": "TURBINA A GAS EXCETO A DE MISSIL GUIADO , TURBINA A GAS EXCETO A DE MISSIL GUIADO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2835: TURBINAS A GÁS E MOTORES A JATO E COMPONENTES, EXCETO OS  DEAERONAVE",
+    "PDM": "13135: TURBINA A GAS EXCETO A DE MISSIL GUIADO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48968,
+    "Descrição do Item": "MOTOR A JATO EXCETO O DE MISSIL GUIADO , MOTOR A JATO EXCETO O DE MISSIL GUIADO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2835: TURBINAS A GÁS E MOTORES A JATO E COMPONENTES, EXCETO OS  DEAERONAVE",
+    "PDM": "09953: MOTOR A JATO EXCETO O DE MISSIL GUIADO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48976,
+    "Descrição do Item": "MOTOR A JATO EXCETO DE AERONAVE , MOTOR A JATO EXCETO DE AERONAVE NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2835: TURBINAS A GÁS E MOTORES A JATO E COMPONENTES, EXCETO OS  DEAERONAVE",
+    "PDM": "09952: MOTOR A JATO EXCETO DE AERONAVE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48984,
+    "Descrição do Item": "RESERVATORIO COMBUSTIVEL PARA TURBINA A GAS - AERONAVE , RESERVATORIO COMBUSTIVEL PARA TURBINA A NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2840: TURBINAS A GÁS E MOTORES A JATO DE AERONAVES E COMPONENTES",
+    "PDM": "11667: RESERVATORIO COMBUSTIVEL PARA TURBINA A GAS - AERONAVE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48992,
+    "Descrição do Item": "RESERVATORIO COMBUSTIVEL PARA MOTOR A JATO - AERONAVE , RESERVATORIO COMBUSTIVEL PARA MOTOR A JA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2840: TURBINAS A GÁS E MOTORES A JATO DE AERONAVES E COMPONENTES",
+    "PDM": "11666: RESERVATORIO COMBUSTIVEL PARA MOTOR A JATO -  AERONAVE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49000,
+    "Descrição do Item": "MOTOR PRIMARIO DE AERONAVE , MOTOR PRIMARIO DE AERONAVE NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2840: TURBINAS A GÁS E MOTORES A JATO DE AERONAVES E COMPONENTES",
+    "PDM": "09986: MOTOR PRIMARIO DE AERONAVE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49018,
+    "Descrição do Item": "MOTOR PRIMARIO DE TURBO - JATO DE AERONAVE , MOTOR PRIMARIO DE TURBO - JATO DE AERONA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2840: TURBINAS A GÁS E MOTORES A JATO DE AERONAVES E COMPONENTES",
+    "PDM": "09988: MOTOR PRIMARIO DE TURBO - JATO DE AERONAVE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49026,
+    "Descrição do Item": "MOTOR PRIMARIO DE TURBO - PROPULSOR DE AERONAVE , MOTOR PRIMARIO DE TURBO - PROPULSOR DE A NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2840: TURBINAS A GÁS E MOTORES A JATO DE AERONAVES E COMPONENTES",
+    "PDM": "09989: MOTOR PRIMARIO DE TURBO - PROPULSOR DE AERONAVE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49034,
+    "Descrição do Item": "MOTOR PRIMARIO DE MISSIL GUIADO , MOTOR PRIMARIO DE MISSIL GUIADO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2845: MOTORES DE FOGUETES E COMPONENTES",
+    "PDM": "09987: MOTOR PRIMARIO DE MISSIL GUIADO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49042,
+    "Descrição do Item": "MOTOR PRIMARIO DO TIPO FOGUETE A COMBUSTIVEL DE AERONAVE , MOTOR PRIMARIO DO TIPO FOGUETE A COMBUST NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2845: MOTORES DE FOGUETES E COMPONENTES",
+    "PDM": "09990: MOTOR PRIMARIO DO TIPO FOGUETE A COMBUSTIVEL DE AERONAVE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49050,
+    "Descrição do Item": "MOTOR PRIMARIO DO TIPO FOGUETE A COMBUSTIVEL PARA FOGUETE , MOTOR PRIMARIO DO TIPO FOGUETE A COMBUST NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2845: MOTORES DE FOGUETES E COMPONENTES",
+    "PDM": "09991: MOTOR PRIMARIO DO TIPO FOGUETE A COMBUSTIVEL PARA FOGUETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49069,
+    "Descrição do Item": "MOTOR PRIMARIO DO TIPO FOGUETE A COMBUSTIVEL PARA MISSIL GUIADO , MOTOR PRIMARIO DO TIPO FOGUETE A COMBUST NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2845: MOTORES DE FOGUETES E COMPONENTES",
+    "PDM": "09992: MOTOR PRIMARIO DO TIPO FOGUETE A COMBUSTIVEL PARA MISSIL GUIADO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49077,
+    "Descrição do Item": "PROPELENTE LIQUIDO ACONDICIONADO EM EMBALAGEM CONSUMIVEL PARA MISSIL , PROPELENTE LIQUIDO ACONDICIONADO EM EMBA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2845: MOTORES DE FOGUETES E COMPONENTES",
+    "PDM": "11268: PROPELENTE LIQUIDO ACONDICIONADO EM EMBALAGEM CONSUMIVEL PARA MISSIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49085,
+    "Descrição do Item": "CATA - VENTO , CATA - VENTO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2895: MOTORES DIVERSOS E COMPONENTES",
+    "PDM": "04696: CATA - VENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49093,
+    "Descrição do Item": "MOTOR DE AR COMPRIMIDO , MOTOR DE AR COMPRIMIDO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2895: MOTORES DIVERSOS E COMPONENTES",
+    "PDM": "09956: MOTOR DE AR COMPRIMIDO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 49395,
+    "Descrição do Item": "ACESSORIO DE MOTOR PRIMARIO DE MISSIL GUIADO , ACESSORIO DE MOTOR PRIMARIO DE MISSIL GU NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2845: MOTORES DE FOGUETES E COMPONENTES",
+    "PDM": "01690: ACESSORIO DE MOTOR PRIMARIO DE MISSIL GUIADO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 58726,
+    "Descrição do Item": "ADAPTADOR DE COLETOR DE ADMISSAO DE MOTOR A GASOLINA , ADAPTADOR DE COLETOR DE ADMISSAO DE MOTO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "02081: ADAPTADOR DE COLETOR DE ADMISSAO DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 58750,
+    "Descrição do Item": "ADAPTADOR DE TUBO RESPIRADOR DE MOTOR A GASOLINA , ADAPTADOR DE TUBO RESPIRADOR DE MOTOR A NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "02090: ADAPTADOR DE TUBO RESPIRADOR DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62219,
+    "Descrição do Item": "TAMPA CABECOTE DE MOTOR - VEICULO AUTOMOTIVO , TAMPA CABECOTE DE MOTOR - VEICULO AUTOMO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "12510: TAMPA CABECOTE DE MOTOR - VEICULO AUTOMOTIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62227,
+    "Descrição do Item": "TAMPA PROTETORA CABECOTE MOTOR CAMINHAO , TAMPA PROTETORA CABECOTE MOTOR CAMINHAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "12521: TAMPA PROTETORA CABECOTE MOTOR CAMINHAO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62235,
+    "Descrição do Item": "TAMPA PROTETORA CABECOTE MOTOR ONIBUS , TAMPA PROTETORA CABECOTE MOTOR ONIBUS NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "12522: TAMPA PROTETORA CABECOTE MOTOR ONIBUS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62243,
+    "Descrição do Item": "TUBO GUIA DA VARETA NIVEL DE OLEO DO BLOCO DO CILINDRO - MOTOR A GASOLINA , TUBO GUIA DA VARETA NIVEL DE OLEO DO BLO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "13102: TUBO GUIA DA VARETA NIVEL DE OLEO DO BLOCO DO   CILINDRO - MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62251,
+    "Descrição do Item": "CARCAÇA BOMBA ÓLEO DE MOTOR , CARCACA DE BOMBA DE OLEO DE MOTOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04534: CARCAÇA BOMBA ÓLEO DE MOTOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62260,
+    "Descrição do Item": "BUJAO DE ESCOAMENTO DE OLEO DE MOTOR A GASOLINA , BUJAO DE ESCOAMENTO DE OLEO DE MOTOR A G NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03951: BUJAO DE ESCOAMENTO DE OLEO DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62278,
+    "Descrição do Item": "CASQUILHO BIELA MOTOR , CASQUILHO BIELA MOTOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04691: CASQUILHO BIELA MOTOR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62286,
+    "Descrição do Item": "TUCHO COMANDO VALVULA , TUCHO DE ARVORE DE COMANDO DE VALVULA - NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "13124: TUCHO COMANDO VALVULA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62294,
+    "Descrição do Item": "ESPACADOR DE BALANCIM DE MOTOR A GASOLINA , ESPACADOR DE BALANCIM DE MOTOR A GASOLIN NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "06980: ESPACADOR DE BALANCIM DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62308,
+    "Descrição do Item": "VOLANTE MOTOR , VOLANTE DE MOTOR A GASOLINA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "13477: VOLANTE MOTOR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62316,
+    "Descrição do Item": "CHAPA DEFLETORA AR CABECOTE , CHAPA DEFLETORA AR CABECOTE NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04840: CHAPA DEFLETORA AR CABECOTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62324,
+    "Descrição do Item": "VALVULA DE ESCAPAMENTO DO MOTOR A GASOLINA , VALVULA DE ESCAPAMENTO DO MOTOR A GASOLI NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "13257: VALVULA DE ESCAPAMENTO DO MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62332,
+    "Descrição do Item": "INTERRUPTOR PRESSÃO ÓLEO MOTOR GASOLINA/DIESEL , INTERRUPTOR DE PRESSAO DE OLEO DE MOTOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "08450: INTERRUPTOR PRESSÃO ÓLEO MOTOR GASOLINA/DIESEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62340,
+    "Descrição do Item": "CARTER DE MOTOR A COMBUSTAO , CARTER DE MOTOR A COMBUSTAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04664: CARTER DE MOTOR A COMBUSTAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62359,
+    "Descrição do Item": "COXIM DE FIXACAO DE MOTOR A GASOLINA , COXIM DE FIXACAO DE MOTOR A GASOLINA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05951: COXIM DE FIXACAO DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62367,
+    "Descrição do Item": "ENGRENAGEM DE COMANDO DO DISTRIBUIDOR - MOTOR GASOLINA , ENGRENAGEM DE COMANDO DO DISTRIBUIDOR - NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "06575: ENGRENAGEM DE COMANDO DO DISTRIBUIDOR - MOTOR GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62375,
+    "Descrição do Item": "MOLA ESPACADORA ARVORE MANIVELA - MOTOR GASOLINA , MOLA ESPACADORA ARVORE MANIVELA - MOTOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "09860: MOLA ESPACADORA ARVORE MANIVELA - MOTOR GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62383,
+    "Descrição do Item": "BATENTE COXIM DIANTEIRO - MOTOR VEÍCULO AUTOMOTIVO , BATENTE COXIM DIANTEIRO - MOTOR VEICULO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03459: BATENTE COXIM DIANTEIRO - MOTOR VEÍCULO AUTOMOTIVO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62391,
+    "Descrição do Item": "POLIA ARVORE MANIVELA , POLIA ARVORE MANIVELA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "10949: POLIA ARVORE MANIVELA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62405,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , CORREIA DENTADA DE ARVORE DE COMANDO DE NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62413,
+    "Descrição do Item": "POLIA DE ARVORE DE MANIVELA DE MOTOR A GASOLINA , POLIA DE ARVORE DE MANIVELA DE MOTOR A G NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "10951: POLIA DE ARVORE DE MANIVELA DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62421,
+    "Descrição do Item": "MOLA DE FIXACAO TAMPA CABECOTE - MOTOR GASOLINA , MOLA DE FIXACAO TAMPA CABECOTE - MOTOR G NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "09853: MOLA DE FIXACAO TAMPA CABECOTE - MOTOR GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62430,
+    "Descrição do Item": "TAMPA DO FILTRO DA BOMBA DE OLEO DE MOTOR A GASOLINA , TAMPA DO FILTRO DA BOMBA DE OLEO DE MOTO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "12516: TAMPA DO FILTRO DA BOMBA DE OLEO DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62448,
+    "Descrição do Item": "TUBO DE ABASTECIMENTO DE OLEO DE MOTOR DIESEL , TUBO DE ABASTECIMENTO DE OLEO DE MOTOR D NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "13034: TUBO DE ABASTECIMENTO DE OLEO DE MOTOR DIESEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62456,
+    "Descrição do Item": "BUJÃO ÓLEO ABASTECIMENTO , BUJAO OLEO TUBO ABASTECIMENTO MOTOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03954: BUJÃO ÓLEO ABASTECIMENTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62464,
+    "Descrição do Item": "CASQUILHO ÁRVORE MANIVELA , CASQUILHO DE ARVORE DE MANIVELA - SISTEM NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04692: CASQUILHO ÁRVORE MANIVELA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62472,
+    "Descrição do Item": "HASTE LATERAL SISTEMA DE PRE - AQUECIMENTO DE CILINDRO DE MOTOR A GASOLINA , HASTE LATERAL SISTEMA DE PRE - AQUECIMEN NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "08180: HASTE LATERAL SISTEMA DE PRE - AQUECIMENTO  DE  CILINDRO DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62480,
+    "Descrição do Item": "HASTE DE UNIAO DE SISTEMA DE PRE - AQUECIMENTO DE MOTOR A GASOLINA , HASTE DE UNIAO DE SISTEMA DE PRE - AQUEC NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "08176: HASTE DE UNIAO DE SISTEMA DE PRE - AQUECIMENTO DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62499,
+    "Descrição do Item": "CHAPA DE PROTECAO DE CILINDRO DE MOTOR A EXPLOSAO , CHAPA DE PROTECAO DE CILINDRO DE MOTOR A NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04837: CHAPA DE PROTECAO DE CILINDRO DE MOTOR A EXPLOSAO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62502,
+    "Descrição do Item": "MOLA DE RETROCESSO SISTEMA RESFRIAMENTO A AR - MO TOR GASOLINA , MOLA DE RETROCESSO SISTEMA RESFRIAMENTO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "09855: MOLA DE RETROCESSO SISTEMA RESFRIAMENTO A AR - MO TOR GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62510,
+    "Descrição do Item": "CARCAÇA VENTOINHA SISTEMA RESFRIAMENTO , CARCACA DE VENTOINHA DE SISTEMA DE RESFR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04537: CARCAÇA VENTOINHA SISTEMA RESFRIAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62529,
+    "Descrição do Item": "TUBO PROTETOR DE ESCAPAMENTO DE DESCARGA - MOTOR A GASOLINA , TUBO PROTETOR DE ESCAPAMENTO DE DESCARGA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "13113: TUBO PROTETOR DE ESCAPAMENTO DE DESCARGA -  MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62537,
+    "Descrição do Item": "PORTINHOLA ESQUERDA / DIREITA SISTEMA PRE - AQUECIMENTO DE CILINDRO , PORTINHOLA ESQUERDA / DIREITA SISTEMA PR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "11102: PORTINHOLA ESQUERDA / DIREITA SISTEMA PRE - AQUECIMENTO DE CILINDRO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62545,
+    "Descrição do Item": "CHAPA DEFLETORA AR CABECOTE , CHAPA DEFLETORA AR CABECOTE 1 NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04840: CHAPA DEFLETORA AR CABECOTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62553,
+    "Descrição do Item": "CONEXAO T DO TUBO DE ABASTECIMENTO DE MOTOR A GASOLINA , CONEXAO T DO TUBO DE ABASTECIMENTO DE MO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05630: CONEXAO T DO TUBO DE ABASTECIMENTO DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62561,
+    "Descrição do Item": "TAMPA PROTETORA CORREIA DENTADA , TAMPA PROTETORA DA CORREIA DE MOTOR A GA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "12523: TAMPA PROTETORA CORREIA DENTADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 62570,
+    "Descrição do Item": "VARETA MEDIDORA DE NIVEL DO OLEO DE MOTOR A GASOLINA , VARETA MEDIDORA DE NIVEL DO OLEO DE MOTO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "13308: VARETA MEDIDORA DE NIVEL DO OLEO DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 66800,
+    "Descrição do Item": "PISTÃO , PISTAO DE MOTOR A GASOLINA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "10788: PISTÃO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 67555,
+    "Descrição do Item": "MOTOR DE POPA , MOTOR DE POPA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "09964: MOTOR DE POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 68578,
+    "Descrição do Item": "CAMISA DE MOTOR A COMBUSTAO , CAMISA DE MOTOR A COMBUSTAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04374: CAMISA DE MOTOR A COMBUSTAO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 68772,
+    "Descrição do Item": "BIELA DE MOTOR A GASOLINA , BIELA DE MOTOR A GASOLINA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03545: BIELA DE MOTOR A GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 71153,
+    "Descrição do Item": "BLOCO DE MOTOR A DIESEL , BLOCO DE MOTOR A DIESEL NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "03610: BLOCO DE MOTOR A DIESEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 71633,
+    "Descrição do Item": "CINTA DE ANEL DE SEGMENTO DE MOTOR , CINTA DE ANEL DE SEGMENTO DE MOTOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05014: CINTA DE ANEL DE SEGMENTO DE MOTOR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 74977,
+    "Descrição do Item": "BLOCO DE MOTOR A ALCOOL , BLOCO DE MOTOR A ALCOOL NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03609: BLOCO DE MOTOR A ALCOOL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 76090,
+    "Descrição do Item": "BIELA MOTOR A DIESEL , BIELA DE MOTOR A DIESEL NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "03543: BIELA MOTOR A DIESEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 76104,
+    "Descrição do Item": "BIELA DE MOTOR A ALCOOL , BIELA DE MOTOR A ALCOOL NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03542: BIELA DE MOTOR A ALCOOL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 76112,
+    "Descrição do Item": "BIELA DE MOTOR A GAS , BIELA DE MOTOR A GAS NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03544: BIELA DE MOTOR A GAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 76120,
+    "Descrição do Item": "BIELA MOTOR A VAPOR , BIELA DE MOTOR A VAPOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2820: MÁQUINAS ALTERNATIVAS A VAPOR E COMPONENTES",
+    "PDM": "03546: BIELA MOTOR A VAPOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 76163,
+    "Descrição do Item": "CABEÇOTE MOTO-COMPRESSOR , CABECOTE DE MOTOR A ALCOOL NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03986: CABEÇOTE MOTO-COMPRESSOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 76171,
+    "Descrição do Item": "CABEÇOTE MOTOR , CABECOTE DE MOTOR A DIESEL NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "03987: CABEÇOTE MOTOR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 76180,
+    "Descrição do Item": "CABEÇOTE DE MOTOR A GÁS , CABECOTE DE MOTOR A GAS NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03988: CABEÇOTE DE MOTOR A GÁS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 76260,
+    "Descrição do Item": "EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR A ALCOOL , EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "06432: EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR A ALCOOL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 76279,
+    "Descrição do Item": "EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR A DIESEL , EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "06433: EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR A DIESEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 76287,
+    "Descrição do Item": "EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR A GAS , EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "06434: EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR A GAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 76295,
+    "Descrição do Item": "EIXO DE MANIVELA ( VIRABREQUIM ) - MAQUINA A VAPOR , EIXO DE MANIVELA ( VIRABREQUIM ) - MAQUI NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2820: MÁQUINAS ALTERNATIVAS A VAPOR E COMPONENTES",
+    "PDM": "06431: EIXO DE MANIVELA ( VIRABREQUIM ) - MAQUINA A VAPOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 76325,
+    "Descrição do Item": "PISTÃO DE MOTOR A DIESEL , PISTAO DE MOTOR A DIESEL NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "10787: PISTÃO DE MOTOR A DIESEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 76333,
+    "Descrição do Item": "PISTAO DE MAQUINA A VAPOR , PISTAO DE MAQUINA A VAPOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2820: MÁQUINAS ALTERNATIVAS A VAPOR E COMPONENTES",
+    "PDM": "10786: PISTAO DE MAQUINA A VAPOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 77674,
+    "Descrição do Item": "ENGRENAGEM COMANDO DISTRIBUIDOR , ENGRENAGEM COMANDO DISTRIBUIDOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "06574: ENGRENAGEM COMANDO DISTRIBUIDOR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 88340,
+    "Descrição do Item": "BIELA MOTOR DE EMBARCACAO , BIELA DE MOTOR DE EMBARCACAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "03547: BIELA MOTOR DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 88358,
+    "Descrição do Item": "BLOCO DE CILINDRO DE MOTOR DE EMBARCACAO , BLOCO DE CILINDRO DE MOTOR DE EMBARCACAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "03600: BLOCO DE CILINDRO DE MOTOR DE EMBARCACAO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 88366,
+    "Descrição do Item": "COMPRESSOR CONDICIONADOR AR , CABECOTE DE MOTOR DE EMBARCACAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "03990: COMPRESSOR CONDICIONADOR AR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 88374,
+    "Descrição do Item": "CARTER DE MOTOR DE EMBARCACAO , CARTER DE MOTOR DE EMBARCACAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "04665: CARTER DE MOTOR DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 88382,
+    "Descrição do Item": "CARCAÇA MOTOR DE EMBARCAÇÃO , CARCACA DE MOTOR DE EMBARCACAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "04535: CARCAÇA MOTOR DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 88390,
+    "Descrição do Item": "CARBURADOR MOTOR EMBARCAÇÃO , CARBURADOR DE MOTOR DE EMBARCACAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "04528: CARBURADOR MOTOR EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 88404,
+    "Descrição do Item": "PISTAO / EMBOLO DE MOTOR DE EMBARCACAO , PISTAO / EMBOLO DE MOTOR DE EMBARCACAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "10785: PISTAO / EMBOLO DE MOTOR DE EMBARCACAO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 88412,
+    "Descrição do Item": "VALVULA DE MOTOR DE EMBARCACAO , VALVULA DE MOTOR DE EMBARCACAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "13264: VALVULA DE MOTOR DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 88420,
+    "Descrição do Item": "TUBO ADMISSAO E ESCAPE - MOTOR DE EMBARCACAO , TUBO ADMISSAO E ESCAPE - MOTOR DE EMBAR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "13026: TUBO ADMISSAO E ESCAPE -  MOTOR DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 88439,
+    "Descrição do Item": "ANEL DE SEGMENTO , ANEL DE SEGMENTO DE MOTOR DE EMBARCACAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "02500: ANEL DE SEGMENTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 88447,
+    "Descrição do Item": "CAMISA CILINDRO MOTOR DE EMBARCAÇÃO , CAMISA DE CILINDRO DE MOTOR DE EMBARCACA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "04372: CAMISA CILINDRO MOTOR DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 88455,
+    "Descrição do Item": "BICO INJETOR MOTOR DE EMBARCAÇÃO , BICO INJETOR DE MOTOR DE EMBARCACAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "03536: BICO INJETOR MOTOR DE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 96016,
+    "Descrição do Item": "REGULADOR DE VELOCIDADE DE TURBINA HIDRAULICA , REGULADOR DE VELOCIDADE DE TURBINA HIDRA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2830: TURBINAS E RODAS D'ÁGUA E COMPONENTES",
+    "PDM": "11590: REGULADOR DE VELOCIDADE DE TURBINA HIDRAULICA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 96792,
+    "Descrição do Item": "MOTOR DE EXPLOSAO A ALCOOL , MOTOR DE EXPLOSAO A ALCOOL NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "09958: MOTOR DE EXPLOSAO A ALCOOL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 98450,
+    "Descrição do Item": "MOTOCICLETA - COLETOR ADMISSAO , MOTOCICLETA - COLETOR ADMISSAO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "09936: MOTOCICLETA - COLETOR ADMISSAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 104655,
+    "Descrição do Item": "FOGUETE - MOTOR / COMPONENTES , FOGUETE - MOTOR / COMPONENTES NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2845: MOTORES DE FOGUETES E COMPONENTES",
+    "PDM": "07683: FOGUETE - MOTOR / COMPONENTES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106534,
+    "Descrição do Item": "IGNITOR PARA MOTOR FOGUETE , IGNITOR PARA MOTOR FOGUETE NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2845: MOTORES DE FOGUETES E COMPONENTES",
+    "PDM": "08279: IGNITOR PARA MOTOR FOGUETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 107522,
+    "Descrição do Item": "ROTOR DE TURBINA HIDRÁULICA , ROTOR DE TURBINA HIDRAULICA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2830: TURBINAS E RODAS D'ÁGUA E COMPONENTES",
+    "PDM": "11842: ROTOR DE TURBINA HIDRÁULICA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 128597,
+    "Descrição do Item": "MOTOR - AEROMODELO , MOTOR - AEROMODELO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "09951: MOTOR - AEROMODELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 129895,
+    "Descrição do Item": "MOTOR ESTACIONARIO , MOTOR ESTACIONARIO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "09984: MOTOR ESTACIONARIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150079,
+    "Descrição do Item": "TUBO NÍVEL ÁGUA MOTOR GASOLINA , TUBO NÍVEL ÁGUA MOTOR GASOLINA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16293: TUBO NÍVEL ÁGUA MOTOR GASOLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150080,
+    "Descrição do Item": "EIXO MANIVELA - MOTOR DIESEL , EIXO MANIVELA - MOTOR DIESEL NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "16294: EIXO MANIVELA - MOTOR DIESEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150215,
+    "Descrição do Item": "MOTOR DIESEL , MOTOR DIESEL NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "17889: MOTOR DIESEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150519,
+    "Descrição do Item": "LÂMINA TURBINA DE VAPOR , LÂMINA TURBINA DE VAPOR NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2825: TURBINAS A VAPOR E COMPONENTES",
+    "PDM": "10323: LÂMINA TURBINA DE VAPOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150824,
+    "Descrição do Item": "ROTOR BOMBA D'ÁGUA , ROTOR BOMBA D'ÁGUA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "17371: ROTOR BOMBA D'ÁGUA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150966,
+    "Descrição do Item": "MOTOR POPA , MOTOR POPA NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192805,
+    "Descrição do Item": "MOTORES A GASOLINA E COMPONENTES, EXCETO OS DE AERONAVES , MOTORES A GASOLINA E COMPONENTES, EXCETO NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16810: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192810,
+    "Descrição do Item": "MOTORES A GASOLINA PARA AERONAVES E COMPONENTES , MOTORES A GASOLINA PARA AERONAVES E COMP NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2810: MOTORES A GASOLINA PARA AERONAVES E COMPONENTES",
+    "PDM": "16811: MOTORES A GASOLINA PARA AERONAVES E COMPONENTES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192815,
+    "Descrição do Item": "TURBINA MOTOR , MOTORES DIESEL E COMPONENTES NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "16812: TURBINA MOTOR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192820,
+    "Descrição do Item": "MÁQUINAS ALTERNATIVAS A VAPOR E COMPONENTES , MÁQUINAS ALTERNATIVAS A VAPOR E COMPONEN NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2820: MÁQUINAS ALTERNATIVAS A VAPOR E COMPONENTES",
+    "PDM": "16813: MÁQUINAS ALTERNATIVAS A VAPOR E COMPONENTES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192825,
+    "Descrição do Item": "TURBINAS A VAPOR E COMPONENTES , TURBINAS A VAPOR E COMPONENTES NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2825: TURBINAS A VAPOR E COMPONENTES",
+    "PDM": "16814: TURBINAS A VAPOR E COMPONENTES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192830,
+    "Descrição do Item": "TURBINAS E RODAS D'ÁGUA E COMPONENTES , TURBINAS E RODAS D'ÁGUA E COMPONENTES NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2830: TURBINAS E RODAS D'ÁGUA E COMPONENTES",
+    "PDM": "16815: TURBINAS E RODAS D'ÁGUA E COMPONENTES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192835,
+    "Descrição do Item": "TURBINAS A GÁS E MOTORES A JATO E COMPONENTES, EXCETO OS DEAERONAVE , TURBINAS A GÁS E MOTORES A JATO E COMPON NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2835: TURBINAS A GÁS E MOTORES A JATO E COMPONENTES, EXCETO OS  DEAERONAVE",
+    "PDM": "16816: TURBINAS A GÁS E MOTORES A JATO E COMPONENTES, EXCETO OS  DEAERONAVE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192840,
+    "Descrição do Item": "TURBINAS A GÁS E MOTORES A JATO DE AERONAVES E COMPONENTES , TURBINAS A GÁS E MOTORES A JATO DE AERON NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2840: TURBINAS A GÁS E MOTORES A JATO DE AERONAVES E COMPONENTES",
+    "PDM": "16817: TURBINAS A GÁS E MOTORES A JATO DE AERONAVES E COMPONENTES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192845,
+    "Descrição do Item": "MOTORES DE FOGUETES E COMPONENTES , MOTORES DE FOGUETES E COMPONENTES NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2845: MOTORES DE FOGUETES E COMPONENTES",
+    "PDM": "16818: MOTORES DE FOGUETES E COMPONENTES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192850,
+    "Descrição do Item": "MOTORES ROTATIVOS A GASOLINA E COMPONENTES , MOTORES ROTATIVOS A GASOLINA E COMPONENT NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2850: MOTORES ROTATIVOS A GASOLINA E COMPONENTES",
+    "PDM": "16819: MOTORES ROTATIVOS A GASOLINA E COMPONENTES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192895,
+    "Descrição do Item": "MOTORES DIVERSOS E COMPONENTES , MOTORES DIVERSOS E COMPONENTES NOME",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2895: MOTORES DIVERSOS E COMPONENTES",
+    "PDM": "16820: MOTORES DIVERSOS E COMPONENTES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231299,
+    "Descrição do Item": "CASQUILHO BIELA MOTOR , APLICAÇÃO EIXO DE COMANDO DE VÁLVULA, VEÍCULO VW KOMBI STD,",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04691: CASQUILHO BIELA MOTOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240148,
+    "Descrição do Item": "CARCAÇA VENTILADOR MOTOR SERRA , MATERIAL ANTIMÔNIO, EQUIPAMENTO CORRESPONDENTE A UTILIZAÇÃO VENTILADOR, MOTOR SERRA STHL, MODELO 051 AV, CARACTERÍSTICAS ADICIONAIS REF. 1111 080 1825, APLICAÇÃO MOTORES DIVERSOS E COMPONENTES",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "15381: CARCAÇA VENTILADOR MOTOR SERRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240387,
+    "Descrição do Item": "TUBO NÍVEL ÓLEO , MATERIAL VIDRO, DIÂMETRO 5/8 POL, COMPRIMENTO 2000 MM, APLICAÇÃO VISUALIZAR NÍVEL ÓLEO CALDEIRA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "15395: TUBO NÍVEL ÓLEO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 244220,
+    "Descrição do Item": "CABEÇOTE MOTO-COMPRESSOR , REFERÊNCIA SCHULZ MS-3, REFERÊNCIA EQUIPAMENTO SCHULZ MS-3/30",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03986: CABEÇOTE MOTO-COMPRESSOR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 245274,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , REFERÊNCIA 60662990, APLICAÇÃO VEÍCULO MARCA FIAT, MODELO MAREA 1.8 16V, ANO 2001",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 245597,
+    "Descrição do Item": "VOLANTE MOTOR , REFERÊNCIA 3412097, APLICAÇÃO TRATOR MASSEY FERGUSON 292",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "13477: VOLANTE MOTOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 247307,
+    "Descrição do Item": "MOTOR ARTICULAÇÃO PORTA , MODELO VVVF ACLU-1100, REFERÊNCIA CÓDIGO 3W.5239.BA.8, APLICAÇÃO ELEVADOR THYSSENKRUP FREQUENCEDYME GOLD",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2895: MOTORES DIVERSOS E COMPONENTES",
+    "PDM": "15855: MOTOR ARTICULAÇÃO PORTA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252800,
+    "Descrição do Item": "ANEL DE SEGMENTO , USO MOTOR DE POPA, APLICAÇÃO MOTOR MERCURY DE 25 HP,MOD. M-97, ANO 1999",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "02500: ANEL DE SEGMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252837,
+    "Descrição do Item": "PISTÃO , USO MOTOR DE POPA, REFERÊNCIA G3P697 STD, APLICAÇÃO MOTOR MERCURY DE 25 HP,MOD. M-97, ANO 1999",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "10788: PISTÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254322,
+    "Descrição do Item": "ANEL DE SEGMENTO , USO MOTOR ÔNIBUS, APLICAÇÃO VEÍCULO MERCEDES BENZ, MOD. 362, ANO 1978",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "02500: ANEL DE SEGMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254323,
+    "Descrição do Item": "CABEÇOTE MOTOR , USO MOTOR ÔNIBUS, APLICAÇÃO VEÍCULO MERCEDES BENZ, MOD. 362, ANO 1978",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "03987: CABEÇOTE MOTOR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 254958,
+    "Descrição do Item": "CASQUILHO BIELA MOTOR , APLICAÇÃO MOTOR MERCEDES BENZ ANO 1978",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04691: CASQUILHO BIELA MOTOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 256358,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , REFERÊNCIA 056109119A, APLICAÇÃO VEíCULO GOL, ANO 1995",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 256881,
+    "Descrição do Item": "CASQUILHO ÁRVORE MANIVELA , REFERÊNCIA 93209471, APLICAÇÃO VEÍCULO MARCA CHEVROLET, MODELO BLAZER 2.2 MPFI,",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04692: CASQUILHO ÁRVORE MANIVELA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 256882,
+    "Descrição do Item": "CASQUILHO BIELA MOTOR , APLICAÇÃO VEÍCULO MARCA CHEVROLET, MODELO BLAZER 2.2 MPFI,, REFERÊNCIA 93295863",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04691: CASQUILHO BIELA MOTOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 256889,
+    "Descrição do Item": "BLOCO DE MOTOR A GASOLINA , REFERÊNCIA 93277424, APLICAÇÃO VEÍCULO MARCA CHEVROLET, MODELO BLAZER 2.2 MPFI,",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03611: BLOCO DE MOTOR A GASOLINA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257036,
+    "Descrição do Item": "PISTÃO , USO MOTOR A GASOLINA, REFERÊNCIA 93216059, APLICAÇÃO VEÍCULO CHEVROLET BLAZER 2.2 MPFI ANO 1997/1998",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "10788: PISTÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257115,
+    "Descrição do Item": "EIXO COMANDO VÁLVULA , REFERÊNCIA 93283062, APLICAÇÃO VEÍCULO MARCA CHEVROLET MODELO BLAZER 2.2 MPFI-",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "06430: EIXO COMANDO VÁLVULA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257144,
+    "Descrição do Item": "TUCHO COMANDO VALVULA , REFERÊNCIA 05233315, APLICAÇÃO VEÍCULO CHEVROLET BLAZER 2.2 MPFI ANO 1997/1998",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "13124: TUCHO COMANDO VALVULA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257150,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , REFERÊNCIA CÓDIGO 90469582, APLICAÇÃO VEÍCULO CHEVROLET BLAZER 2.2 MPFI ANO 1997/1998",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257154,
+    "Descrição do Item": "EIXO COMANDO VÁLVULA , REFERÊNCIA 10106027, APLICAÇÃO VEÍCULO MARCA CHEVROLET MODELO BLAZER 2.2 MPFI-",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "06430: EIXO COMANDO VÁLVULA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257155,
+    "Descrição do Item": "EIXO COMANDO VÁLVULA , REFERÊNCIA 93203649, APLICAÇÃO VEÍCULO MARCA CHEVROLET MODELO BLAZER 2.2 MPFI-",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "06430: EIXO COMANDO VÁLVULA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257198,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , REFERÊNCIA 60814319, APLICAÇÃO VEÍCULO FIAT MAREA, 1.8, 16 V, ANO 2000/2001",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257473,
+    "Descrição do Item": "MOTOR POPA , TIPO ELÉTRICO, POTÊNCIA 74 LB, QUANTIDADE VELOCIDADE 5, TENSÃO 24 V, COMPRIMENTO HASTE 42 POL, APLICAÇÃO ROBÔ SUB-AQUÁTICO, CARACTERÍSTICAS ADICIONAIS CONTROLE À DISTÂNCIA POR FIO A PEDAL",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 257868,
+    "Descrição do Item": "MOTOR DIESEL VEÍCULO AUTOMOTIVO , TIPO MERCEDES BENZ MODELO 352, APLICAÇÃO ÔNIBUS MONOBLOCO CARROCERIA 362",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "09966: MOTOR DIESEL VEÍCULO AUTOMOTIVO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 258049,
+    "Descrição do Item": "MOTOR POPA , TIPO ELÉTRICO, POTÊNCIA 115 HP, APLICAÇÃO LANCHA, CARACTERÍSTICAS ADICIONAIS 04 TEMPOS, COMBUSTÍVEL GASOLINA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 258619,
+    "Descrição do Item": "RETENTOR EIXO HÉLICE , USO MOTOR DE POPA, REFERÊNCIA 00449, APLICAÇÃO MOTOR JOHSON DE 50 HP, MOD. OMC, ANO 1998",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "17370: RETENTOR EIXO HÉLICE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 258621,
+    "Descrição do Item": "ROTOR BOMBA D'ÁGUA , USO MOTOR DE POPA, REFERÊNCIA 40506, APLICAÇÃO MOTOR JOHSON DE 50 HP, MOD. OMC, ANO 1998",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "17371: ROTOR BOMBA D'ÁGUA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 258846,
+    "Descrição do Item": "MOTOR POPA , POTÊNCIA 30 HP, APLICAÇÃO BOTE, COMBUSTÍVEL GASOLINA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265290,
+    "Descrição do Item": "BUJÃO ÓLEO ABASTECIMENTO , REFERÊNCIA 4N09/AA, APLICAÇÃO VEÍCULO FORD F-1000, ANO 1997, USO DIFERENCIAL",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03954: BUJÃO ÓLEO ABASTECIMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 265445,
+    "Descrição do Item": "BUJÃO ÓLEO ABASTECIMENTO , REFERÊNCIA 535389, APLICAÇÃO VEÍCULO FORD F-1000, ANO 1997, USO DIFERENCIAL",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03954: BUJÃO ÓLEO ABASTECIMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 268338,
+    "Descrição do Item": "ANEL DE SEGMENTO , APLICAÇÃO MOTOR PERKINS 4236, 4 CILINDROS",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "02500: ANEL DE SEGMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 272880,
+    "Descrição do Item": "MOTOR POPA , TIPO RABETA, QUANTIDADE CILINDRO 1 UN, CAPACIDADE TANQUE 2,5 L, POTÊNCIA 5 HP, CARACTERÍSTICAS ADICIONAIS SISTEMA PARTIDA MANUAL, CARBURADOR, SISTEMA DE PRO",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 272882,
+    "Descrição do Item": "MOTOR POPA , TIPO RABETA, QUANTIDADE CILINDRO 2 UN, CAPACIDADE TANQUE 2,5 L, POTÊNCIA 8 HP, CARACTERÍSTICAS ADICIONAIS SISTEMA DE PARTIDA MANUAL, SISTEMA DIREÇÃO TIPO MA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 273144,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA MANUAL, QUANTIDADE CILINDRO 2 UN, CAPACIDADE TANQUE MÍNIMA DE 25 L, TIPO MOTOR 2 TEMPOS, POTÊNCIA 25 HP, CARACTERÍSTICAS ADICIONAIS SISTEMA PROTEÇÃO PROPULSÃO: AMORTECEDORA BORRACHA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 273145,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA MANUAL, QUANTIDADE CILINDRO 2 UN, CAPACIDADE TANQUE MÍNIMA DE 25 L, TIPO MOTOR 2 TEMPOS, POTÊNCIA 15 HP, CARACTERÍSTICAS ADICIONAIS SISTEMA PROTEÇÃO PROPULSÃO: AMORTECEDORA BORRACHA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 273146,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA ELÉTRICA, POTÊNCIA 220 A 225 HP, CARACTERÍSTICAS ADICIONAIS INCLINAÇÃO E ÂNGULO DE DIREÇÃO POWER TRIN",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 273151,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA ELÉTRICA, CAPACIDADE TANQUE MÍNIMA DE 25 L, SISTEMA DIREÇÃO MANETE, POTÊNCIA 40 HP, CARACTERÍSTICAS ADICIONAIS CARBURADOR",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 273338,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA MANUAL, QUANTIDADE CILINDRO 2 UN, CAPACIDADE TANQUE MÍNIMA DE 25 L, TIPO MOTOR 2 TEMPOS, SISTEMA DIREÇÃO MANETE, POTÊNCIA 15 HP, APLICAÇÃO EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS 284 CC CILINDRADAS, DIÂMETRO 59MM X CURSO 52MM, A-",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 274301,
+    "Descrição do Item": "MOTOR DIESEL , POTÊNCIA 10 CV, CAPACIDADE COMBUSTÍVEL 9,5 L, TIPO COM BASE, CORREIA E POLIA, TEMPO FUNCIONAMENTO FUNCIONAMENDO CONTÍNUO 2.300 RPM, 12 H, CARACTERÍSTICAS ADICIONAIS CÁRTER 1,5 LITROS, APLICAÇÃO CASA FARINHA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "17889: MOTOR DIESEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 275015,
+    "Descrição do Item": "MOTOR POPA , TIPO RABETA, QUANTIDADE CILINDRO 1 UN, CAPACIDADE TANQUE MÍNIMO 2,5 L, POTÊNCIA 5 HP, CARACTERÍSTICAS ADICIONAIS SISTEMA PARTIDA MANUAL, CARBURADOR, SISTEMA DE PRO",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 275150,
+    "Descrição do Item": "PISTÃO , USO MOTOR A GASOLINA, REFERÊNCIA PA2141, APLICAÇÃO VEÍCULO CHEVROLET CORSA 1.6, ANO 1997, TIPO COM ANEL",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "10788: PISTÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 276423,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , APLICAÇÃO VEÍCULO GM, MODELO IPANEMA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 277783,
+    "Descrição do Item": "MOTOR DIESEL VEÍCULO AUTOMOTIVO , TIPO MERCEDES BENZ MODELO 352, APLICAÇÃO ÔNIBUS MONOBLOCO CARROCERIA O 364",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "09966: MOTOR DIESEL VEÍCULO AUTOMOTIVO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 280724,
+    "Descrição do Item": "CARTER DE MOTOR A COMBUSTAO , APLICAÇÃO VEÍCULO VW MODELO FUSCA 1300",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04664: CARTER DE MOTOR A COMBUSTAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 285961,
+    "Descrição do Item": "PISTÃO , USO MOTOR A GASOLINA, APLICAÇÃO VEÍCULO VOLKSWAGEN, PARATI / GOL 98 MI, TIPO COM ANEL",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "10788: PISTÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 285975,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , APLICAÇÃO VEÍCULO GOL MI, ANO 1998",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 286238,
+    "Descrição do Item": "EIXO COMANDO VÁLVULA , REFERÊNCIA SB604, APLICAÇÃO VEÍCULO CHEVROLET OPALA COMODORO,ANO 1989,GASOLINA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "06430: EIXO COMANDO VÁLVULA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 286448,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , APLICAÇÃO VEÍCULO FORD RANGER XL, TURBO DIESEL",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 288715,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , APLICAÇÃO VEÍCULO FIAT UNO 1.6, CARACTERÍSTICAS ADICIONAIS VEÍCULO A GASOLINA, ANO 1996",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 290914,
+    "Descrição do Item": "BATENTE COXIM DIANTEIRO - MOTOR VEÍCULO AUTOMOTIVO , MATERIAL BORRACHA, USO FIXAÇÃO DO MOTOR NO CHASSI, APLICAÇÃO VEICULO CHEVROLET MODELO D20, CARACTERÍSTICAS ADICIONAIS COM PARAFUSO DE AÇO",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03459: BATENTE COXIM DIANTEIRO - MOTOR VEÍCULO AUTOMOTIVO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293240,
+    "Descrição do Item": "PISTÃO DE MOTOR A DIESEL , APLICAÇÃO VEÍCULO TOYOTA HILUX, ANO FABRICAÇÃO 1998, CARACTERÍSTICAS ADICIONAIS COM SEGMENTO",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "10787: PISTÃO DE MOTOR A DIESEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293742,
+    "Descrição do Item": "BIELA MOTOR A DIESEL , APLICAÇÃO VEÍCULO TOYOTA HILUX, ANO 1998",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "03543: BIELA MOTOR A DIESEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297025,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA MANUAL, CAPACIDADE TANQUE 25 L, TIPO MOTOR 2 TEMPOS, POTÊNCIA 25 HP, APLICAÇÃO BOTE, CARACTERÍSTICAS ADICIONAIS SISTEMA PROTEÇÃO PROPULSÃO, AMORTECEDORA BORRACHA,, COMBUSTÍVEL GASOLINA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297781,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , APLICAÇÃO VEÍCULO CHEVROLET, MODELO S-10, ANO 2004",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 297889,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , APLICAÇÃO VEÍCULO VOLKSWAGEN, MODELO SANTANA 1.8, ANO 2002",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 301283,
+    "Descrição do Item": "MOTOR POPA , TIPO ELÉTRICO, QUANTIDADE CILINDRO 3 UN, CAPACIDADE TANQUE 24 L, TIPO MOTOR 4 TEMPOS, SISTEMA DIREÇÃO CAIXA COMANDO, VELOCIDADE 5.000 A 6.000 RPM, POTÊNCIA 60 HP, APLICAÇÃO EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS SISTEMA POWER TRIM/LUBRIFICAÇÃO CÁRTER ÚMIDO E SEN, COMBUSTÍVEL GASOLINA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 305854,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , APLICAÇÃO VEÍCULO FIAT PÁLIO, MOD 1.0, ANO 2000/2001",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 308368,
+    "Descrição do Item": "TURBINA MOTOR , REFERÊNCIA FABRICANTE MR355222 (MITSUBISHI), APLICAÇÃO MITSUBISHI, L200 GL, 4X4, 4CC, MMC, ANO 2004/2005",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "16812: TURBINA MOTOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 308369,
+    "Descrição do Item": "CABEÇOTE MOTOR , APLICAÇÃO MITSUBISHI, L200 GL, 4X4, 4CC, MMC, ANO 2004/2005, REFERÊNCIA FABRICANTE MD313587 (MITSUBISHI)",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "03987: CABEÇOTE MOTOR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 308371,
+    "Descrição do Item": "COMPRESSOR CONDICIONADOR AR , REFERÊNCIA FABRICANTE MR206460 (MITSUBISHI), APLICAÇÃO MITSUBISHI, L200 GL, 4X4, 4CC, MMC, ANO 2004/2005",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "03990: COMPRESSOR CONDICIONADOR AR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 308439,
+    "Descrição do Item": "COMPRESSOR CONDICIONADOR AR , REFERÊNCIA FABRICANTE 0K72B61450 (KIA MOTORS), APLICAÇÃO VEÍCULO KIA MOTORS, MOD BESTA GS GRAND, ANO 2004",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "03990: COMPRESSOR CONDICIONADOR AR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 312282,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , APLICAÇÃO VEÍCULO MITSUBISHI, MODELO L-200 ANO 2003",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 313084,
+    "Descrição do Item": "TAMPA PROTETORA CORREIA DENTADA , MATERIAL PLÁSTICO, REFERÊNCIA 52289657, APLICAÇÃO VEÍCULO CHEVROLET, MODELO IPANEMA, ANO 1996",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "12523: TAMPA PROTETORA CORREIA DENTADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 316444,
+    "Descrição do Item": "CASQUILHO BIELA MOTOR , APLICAÇÃO MOTOR AE/VEÍCULO VW GOL 1.0/STD/ANO 1996, REFERÊNCIA 029/198701/3",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04691: CASQUILHO BIELA MOTOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 321564,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , APLICAÇÃO VEÍCULO VOLKSWAGEM, MODELO KOMBI, ANO 1998",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 323662,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA MANUAL, QUANTIDADE CILINDRO 2 UN, CAPACIDADE TANQUE 24 L, SISTEMA DIREÇÃO BRAÇO COMANDO, VELOCIDADE 5.000 A 6.000 RPM, POTÊNCIA 25 HP, APLICAÇÃO EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS PESO APROX 65KG, ALTURA RABETA 423MM, TRANSFÊNCIA, COMBUSTÍVEL GASOLINA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 323663,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA ELÉTRICA, QUANTIDADE CILINDRO 4 UN, CAPACIDADE TANQUE 24 L, SISTEMA DIREÇÃO CAIXA COMANDO, VELOCIDADE 5.000 A 6.000 RPM, POTÊNCIA 50 HP, APLICAÇÃO EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS PESO APROX 108KG, ALTURA RABETA 540MM, TRANSFÊNCIA, COMBUSTÍVEL GASOLINA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 323789,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA MANUAL, QUANTIDADE CILINDRO 2 UN, CAPACIDADE TANQUE 24 L, TIPO MOTOR 4 TEMPOS, SISTEMA DIREÇÃO BRAÇO COMANDO, VELOCIDADE 5.000 A 6.000 RPM, POTÊNCIA 25 HP, APLICAÇÃO EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS PESO APROX 65KG, ALTURA RABETA 423MM, TRANSFÊNCIA, COMBUSTÍVEL GASOLINA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 323794,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA ELÉTRICA, QUANTIDADE CILINDRO 4 UN, CAPACIDADE TANQUE 24 L, TIPO MOTOR 4 TEMPOS, SISTEMA DIREÇÃO CAIXA COMANDO, VELOCIDADE 5.000 A 6.000 RPM, POTÊNCIA 50 HP, APLICAÇÃO EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS PESO APROX 108KG, ALTURA RABETA 540MM, TRANSFÊNCIA, COMBUSTÍVEL GASOLINA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 324611,
+    "Descrição do Item": "PISTÃO , USO MOTOR DE POPA, REFERÊNCIA 2704-826191T4, APLICAÇÃO MOTOR MERCURY MARINER 115HP, SÉRIE OT-131776, ANO",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "10788: PISTÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 324612,
+    "Descrição do Item": "ANEL DE SEGMENTO , USO MOTOR DE POPA, APLICAÇÃO MOTOR MERCURY MARINER 115HP, SÉRIE OT-131776, ANO, REFERÊNCIA 39-822321A12",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "02500: ANEL DE SEGMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 324613,
+    "Descrição do Item": "ROLETE DE BIELA , USO MOTOR DE POPA, REFERÊNCIA 31-43012A1, APLICAÇÃO MOTOR MERCURY MARINER 115HP, SÉRIE OT-131776, ANO",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "17726: ROLETE DE BIELA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325110,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA MANUAL, QUANTIDADE CILINDRO 2 UN, CAPACIDADE TANQUE 23 L, TIPO MOTOR 2 TEMPOS, VELOCIDADE 4.500 A 5.800 RPM, POTÊNCIA 15 HP, APLICAÇÃO BARCO ALUMÍNIO, CARACTERÍSTICAS ADICIONAIS VÁLVULAS AUTOMÁTICAS DESCOMPRESSÃO, REFRIGERADO A, QUANTIDADE MARCHAS 2 UN",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325336,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , APLICAÇÃO VEÍCULO GM, MODELO CORSA WIND 1.0, 1998",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 325959,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , REFERÊNCIA 1356859106, APLICAÇÃO VEÍCULO TOYOTA HILUX 3.0D 4 X 4, ANO 2003, CARACTERÍSTICAS ADICIONAIS SINCRONIZADA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 326635,
+    "Descrição do Item": "MOTOR DIESEL , POTÊNCIA 15 A 18 CV, CAPACIDADE COMBUSTÍVEL 16 L, TIPO HORIZONTAL, TEMPO FUNCIONAMENTO 3 H, CARACTERÍSTICAS ADICIONAIS POLIA EM \"V\" P/3 CORREIAS TIPO B, RADIADOR E SISTE, TIPO MOTOR 4 TEMPOS, ROTAÇÃO 1.800 A 2.200 RPM, QUANTIDADE CILINDRO 1 UN",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "17889: MOTOR DIESEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 329504,
+    "Descrição do Item": "EIXO COMANDO VÁLVULA , REFERÊNCIA 13501/54070, APLICAÇÃO VEÍCULO TOYOTA HILUX, ANO 1998",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "06430: EIXO COMANDO VÁLVULA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 330938,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , APLICAÇÃO VEÍCULO FIAT PÁLIO WEEKEND ANO 2002/2003, CARACTERÍSTICAS ADICIONAIS SINCRONIZADA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 332999,
+    "Descrição do Item": "CASQUILHO ÁRVORE MANIVELA , REFERÊNCIA 029/198451/4, APLICAÇÃO VEÍCULO VW/GOL STD 1.0, ANO 1996/97",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04692: CASQUILHO ÁRVORE MANIVELA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 333003,
+    "Descrição do Item": "CASQUILHO ÁRVORE MANIVELA , REFERÊNCIA 029/198635/1, APLICAÇÃO VEÍCULO VW/GOL STD 1.0, ANO 1996/97",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04692: CASQUILHO ÁRVORE MANIVELA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 335634,
+    "Descrição do Item": "BATENTE COXIM DIANTEIRO - MOTOR VEÍCULO AUTOMOTIVO , MATERIAL BORRACHA, APLICAÇÃO VEÍCULO VW/GOL CLI 1.6, ANO 1995",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03459: BATENTE COXIM DIANTEIRO - MOTOR VEÍCULO AUTOMOTIVO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 337363,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , APLICAÇÃO VEÍCULO GM, MODELO MONTANA, ANO 2004",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 342388,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , REFERÊNCIA 13568.69085, APLICAÇÃO VEÍCULO TOYOTA HILUX, ANO 2003/2004",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 342389,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , REFERÊNCIA 13568.09130, APLICAÇÃO VEÍCULO TOYOTA HILUX, ANO 2005",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 344271,
+    "Descrição do Item": "ROTOR BOMBA D'ÁGUA , USO BOMBA D'ÁGUA, APLICAÇÃO BOMBA D'ÁGUA WORTHINGTON DE 20 CV",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "17371: ROTOR BOMBA D'ÁGUA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 344338,
+    "Descrição do Item": "ROTOR BOMBA D'ÁGUA , REFERÊNCIA ABERTO, AÇO INOX, ASTM A 296 GR CF-3M, BOCAIS FLAN, APLICAÇÃO BOMBA CENTRÍFUGA VERTICAL",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "17371: ROTOR BOMBA D'ÁGUA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345262,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , APLICAÇÃO VEÍCULO FIAT UNO FLEX, MOTOR FIRE, ANO 2005",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 347488,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA MANUAL, CAPACIDADE TANQUE 24 L, TIPO MOTOR 2 TEMPOS, POTÊNCIA 40 HP, APLICAÇÃO BOTE, CARACTERÍSTICAS ADICIONAIS SISTEMA DE IGNIÇÃO MANUAL, COMBUSTÍVEL GASOLINA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 354295,
+    "Descrição do Item": "ROTOR BOMBA D'ÁGUA , USO MOTOR DE POPA, APLICAÇÃO MOTOR SUZUKI 30 HP",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "17371: ROTOR BOMBA D'ÁGUA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 354296,
+    "Descrição do Item": "ROTOR BOMBA D'ÁGUA , USO MOTOR DE POPA, APLICAÇÃO MOTOR SUZUKI 40 HP",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "17371: ROTOR BOMBA D'ÁGUA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 354725,
+    "Descrição do Item": "PISTÃO , USO MOTOR DE POPA, APLICAÇÃO MOTOR SUZUKI 30 HP, TIPO COM ANÉIS 0,25MM",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "10788: PISTÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 354728,
+    "Descrição do Item": "RETENTOR EIXO HÉLICE , APLICAÇÃO MOTOR DE POPA SUZUKI 30 HP, ANO 2000",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "17370: RETENTOR EIXO HÉLICE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 355547,
+    "Descrição do Item": "ROTOR BOMBA D'ÁGUA , APLICAÇÃO MOTOR DE POPA YAMAHA 40 HP, ANO 2007",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "17371: ROTOR BOMBA D'ÁGUA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 357753,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA ELÉTRICA, TIPO MOTOR 2 TEMPOS, SISTEMA DIREÇÃO CAIXA COMANDO, VELOCIDADE 4.500 A 5.500 RPM, POTÊNCIA 60 HP, APLICAÇÃO EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS 849 CM3, FLUXO DIRECIONADO, 3 CARBURADORES, COMBUSTÍVEL GASOLINA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 365571,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , REFERÊNCIA 1356859106, APLICAÇÃO VEÍCULO TOYOTA HILUX 4 X 4, ANO 1995",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373638,
+    "Descrição do Item": "TAMPA PROTETORA CORREIA DENTADA , MATERIAL PLÁSTICO, REFERÊNCIA 504010962, APLICAÇÃO VEÍCULO FIAT, MODELO DUCATO COMBINATO, ANO 2004",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "12523: TAMPA PROTETORA CORREIA DENTADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 373640,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , REFERÊNCIA 99456477, APLICAÇÃO VEÍCULO FIAT, MODELO DUCATO COMBINATO, ANO 2004, CARACTERÍSTICAS ADICIONAIS VEÍCULO A DIESEL",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 374444,
+    "Descrição do Item": "PISTÃO , USO ACELERADOR, APLICAÇÃO CAMINHÃO MERCEDES BENS 914, TIPO ORIGINAL",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "10788: PISTÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 376760,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA ELÉTRICA, QUANTIDADE CILINDRO 4 UN, TIPO MOTOR 4 TEMPOS, VELOCIDADE 5.000 A 6.000 RPM, POTÊNCIA 60 HP, COMPRIMENTO HASTE 527 MM, APLICAÇÃO LANCHA, COMBUSTÍVEL GASOLINA, QUANTIDADE MARCHAS 2 UN",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 376762,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA ELÉTRICA, QUANTIDADE CILINDRO 4 UN, TIPO MOTOR 4 TEMPOS, VELOCIDADE 5.000 A 6.000 RPM, POTÊNCIA 150 HP, COMPRIMENTO HASTE 516 MM, APLICAÇÃO LANCHA, COMBUSTÍVEL GASOLINA, QUANTIDADE MARCHAS 2 UN",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 378758,
+    "Descrição do Item": "MOTOR POPA , TIPO RABETA, QUANTIDADE CILINDRO 2 UN, CAPACIDADE TANQUE 2,5 L, POTÊNCIA 13 HP, CARACTERÍSTICAS ADICIONAIS SISTEMA DE PARTIDA MANUAL, SISTEMA DIREÇÃO TIPO MA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 392625,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA MANUAL, VELOCIDADE 4.500 A 5.500 RPM, POTÊNCIA 8 HP, CARACTERÍSTICAS ADICIONAIS COM 165 CILINDRADAS/UM CARBURADOR",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 392683,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA ELÉTRICA, QUANTIDADE CILINDRO 4 UN, TIPO MOTOR 4 TEMPOS, SISTEMA DIREÇÃO MANETE, VELOCIDADE 5.000 A 6.000 RPM, POTÊNCIA 90 HP, CARACTERÍSTICAS ADICIONAIS DIÂMETRO CURSO 79X81,4/TAXA COMPRESSÃO 8,9, COMBUSTÍVEL GASOLINA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 396769,
+    "Descrição do Item": "VOLANTE MOTOR , REFERÊNCIA 123106S310, APLICAÇÃO VEÍCULO NISSAN FRONTIER ANO 2006/2007",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "13477: VOLANTE MOTOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 396978,
+    "Descrição do Item": "MOTOR POPA , TIPO RABETA CURTA, QUANTIDADE CILINDRO 2 UN, TIPO MOTOR 2 TEMPOS, POTÊNCIA 50 HP, APLICAÇÃO EMBARCAÇÃO, CARACTERÍSTICAS ADICIONAIS INJEÇÃO ELETRÔNICA, HÉLICE DIMENSIONADA PARA CARGA",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 401965,
+    "Descrição do Item": "CORREIA DENTADA TRANSMISSÃO , REFERÊNCIA 5PK1515, APLICAÇÃO VEÍCULO RENAULT, MODELO CLIO 1.6, ANO 2006",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "05893: CORREIA DENTADA TRANSMISSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 407625,
+    "Descrição do Item": "MOTOR POPA , TIPO PARTIDA MANUAL, QUANTIDADE CILINDRO 2 UN, TIPO MOTOR 4 TEMPOS, VELOCIDADE 4.000 A 5.000 RPM, POTÊNCIA 20 HP, APLICAÇÃO LANCHA, CARACTERÍSTICAS ADICIONAIS CARBURADOR, COMBUSTÍVEL GASOLINA, QUANTIDADE MARCHAS 2 UN",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "16609: MOTOR POPA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 420634,
+    "Descrição do Item": "PISTÃO DE MOTOR A DIESEL , APLICAÇÃO CAMINHÃO VOLKSVAGEN MODELO VW 9-150, CARACTERÍSTICAS ADICIONAIS COM ANEL",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2815: MOTORES DIESEL E COMPONENTES",
+    "PDM": "10787: PISTÃO DE MOTOR A DIESEL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 435380,
+    "Descrição do Item": "BUJÃO ÓLEO ABASTECIMENTO , REFERÊNCIA N3210100081, APLICAÇÃO MERCEDES BENZ, USO DIFERENCIAL",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03954: BUJÃO ÓLEO ABASTECIMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 435381,
+    "Descrição do Item": "BUJÃO ÓLEO ABASTECIMENTO , REFERÊNCIA 2RD/103193, APLICAÇÃO MOTOR MWM X-10 MOD.1996, USO DIFERENCIAL",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "03954: BUJÃO ÓLEO ABASTECIMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 442097,
+    "Descrição do Item": "CAIXA DIREÇÃO , TIPO CAIXA DE DIREÇÃO, APLICAÇÃO VEICULO FIAT FIORINO, ANO 2008",
+    "Grupo": "28: MOTORES, TURBINAS E SEUS COMPONENTES",
+    "Classe": "2805: MOTORES A GASOLINA E COMPONENTES, EXCETO  OS DE AERONAVES",
+    "PDM": "04139: CAIXA DIREÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  }
+]
