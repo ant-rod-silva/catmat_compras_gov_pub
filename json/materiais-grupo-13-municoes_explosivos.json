@@ -1,0 +1,947 @@
+[
+  {
+    "Código do Item": 337,
+    "Descrição do Item": "GRANADAS DE GAS LACRIMOGENIO , GRANADAS DE GAS LACRIMOGENIO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "08080: GRANADAS DE GAS LACRIMOGENIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 345,
+    "Descrição do Item": "GRANADAS INCENDIARIAS , GRANADAS INCENDIARIAS NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "08082: GRANADAS INCENDIARIAS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 361,
+    "Descrição do Item": "GRANADAS FUMIGENAS , GRANADAS FUMIGENAS NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "08081: GRANADAS FUMIGENAS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 388,
+    "Descrição do Item": "FOGOS DE ARTIFICIO , FOGOS DE ARTIFICIO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1370: PIROTECNICOS",
+    "PDM": "07681: FOGOS DE ARTIFICIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 418,
+    "Descrição do Item": "ESPOLETAS DE SEGURANCA , ESPOLETAS DE SEGURANCA NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1315: MUNIÇÃO DE CALIBRE ACIMA DE 75MM ATÉE 125MM",
+    "PDM": "07036: ESPOLETAS DE SEGURANCA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 426,
+    "Descrição do Item": "ESPOLETAS SISMOGRAFICAS , ESPOLETAS SISMOGRAFICAS NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1315: MUNIÇÃO DE CALIBRE ACIMA DE 75MM ATÉE 125MM",
+    "PDM": "07037: ESPOLETAS SISMOGRAFICAS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46345,
+    "Descrição do Item": "ESPOLETAS DE DETONACAO , ESPOLETAS DE DETONACAO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1375: MATERIAIS DE DEMOLIÇÃO",
+    "PDM": "07035: ESPOLETAS DE DETONACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 99902,
+    "Descrição do Item": "MUNIÇÃO ARMA DE FOGO EMPUNHÁVEL - PEQUENO PORTE , MUNICAO ARMA DE FOGO EMPUNHAVEL - PEQUEN NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "10021: MUNIÇÃO ARMA DE FOGO EMPUNHÁVEL - PEQUENO PORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 99910,
+    "Descrição do Item": "MUNIÇÃO ARMA DE FOGO EMPUNHÁVEL - MÉDIO PORTE , MUNICAO ARMA DE FOGO EMPUNHAVEL - MEDIO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "10020: MUNIÇÃO ARMA DE FOGO EMPUNHÁVEL - MÉDIO PORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 100277,
+    "Descrição do Item": "EXPLOSIVO INDUSTRIAL/EXPLOSIVO DIVERSOS , EXPLOSIVO INDUSTRIAL ( DINAMITE ) NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1375: MATERIAIS DE DEMOLIÇÃO",
+    "PDM": "07245: EXPLOSIVO INDUSTRIAL/EXPLOSIVO DIVERSOS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 100285,
+    "Descrição do Item": "CORDEL DETONANTE EXPLOSIVO , CORDEL DETONANTE DE EXPLOSIVO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1375: MATERIAIS DE DEMOLIÇÃO",
+    "PDM": "05870: CORDEL DETONANTE EXPLOSIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 100293,
+    "Descrição do Item": "ESPOLETA SIMPLES PARA DETONACAO DE EXPLOSIVO , ESPOLETA SIMPLES PARA DETONACAO DE EXPLO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1375: MATERIAIS DE DEMOLIÇÃO",
+    "PDM": "07033: ESPOLETA SIMPLES PARA DETONACAO DE EXPLOSIVO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 100307,
+    "Descrição do Item": "ESPOLETA SIMPLES + ESTOPIM ( ESPOLETADO ) - DETONACAO DE EXPLOSIVO , ESPOLETA SIMPLES + ESTOPIM ( ESPOLETADO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1375: MATERIAIS DE DEMOLIÇÃO",
+    "PDM": "07031: ESPOLETA SIMPLES + ESTOPIM ( ESPOLETADO ) - DETONACAO DE EXPLOSIVO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 100315,
+    "Descrição do Item": "ESPOLETA SIMPLES COM RETARDO / DETONACAO DE EXPLO-SIVO , ESPOLETA SIMPLES COM RETARDO / DETONACAO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1390: ESPOLETAS E ESTOPILHAS",
+    "PDM": "07032: ESPOLETA SIMPLES COM RETARDO / DETONACAO DE EXPLO-SIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 102849,
+    "Descrição do Item": "BOMBA EXERCÍCIO DE TIRO , BOMBA DE EXERCICIO DE TIRO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1325: BOMBAS",
+    "PDM": "03759: BOMBA EXERCÍCIO DE TIRO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 103004,
+    "Descrição do Item": "GRANADA , GRANADA NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1330: GRANADAS",
+    "PDM": "08079: GRANADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 103195,
+    "Descrição do Item": "OGIVA BELICA , OGIVA BELICA NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1395: COMPONENTES DIVERSOS DE MUNIÇÃO",
+    "PDM": "10159: OGIVA BELICA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 103284,
+    "Descrição do Item": "FOGUETE AR TERRA - TREINAMENTO , FOGUETE AR TERRA - TREINAMENTO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1340: ROJÕES, FOGUETES, MUNIÇÃO E COMPONENTES",
+    "PDM": "07684: FOGUETE AR TERRA - TREINAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 103292,
+    "Descrição do Item": "OGIVA PARA FOGUETE - TREINAMENTO , OGIVA PARA FOGUETE - TREINAMENTO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1395: COMPONENTES DIVERSOS DE MUNIÇÃO",
+    "PDM": "10160: OGIVA PARA FOGUETE - TREINAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 103306,
+    "Descrição do Item": "LANCADOR DE FOGUETE - TREINAMENTO , LANCADOR DE FOGUETE - TREINAMENTO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1340: ROJÕES, FOGUETES, MUNIÇÃO E COMPONENTES",
+    "PDM": "08684: LANCADOR DE FOGUETE - TREINAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 103314,
+    "Descrição do Item": "CARTUCHO PIROTECNICO - TREINAMENTO , CARTUCHO PIROTECNICO - TREINAMENTO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1315: MUNIÇÃO DE CALIBRE ACIMA DE 75MM ATÉE 125MM",
+    "PDM": "04670: CARTUCHO PIROTECNICO - TREINAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106437,
+    "Descrição do Item": "ESPOLETA OGIVA MECANICA / BOMBA FINS GERAIS ( EOM - BFG ) , ESPOLETA OGIVA MECANICA / BOMBA FINS GER NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1390: ESPOLETAS E ESTOPILHAS",
+    "PDM": "07029: ESPOLETA OGIVA MECANICA / BOMBA FINS GERAIS ( EOM - BFG )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106445,
+    "Descrição do Item": "ESPOLETA CAUDA MECANICA / BOMBA FINS GERAIS ( ECM - BFG ) , ESPOLETA CAUDA MECANICA / BOMBA FINS GER NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1390: ESPOLETAS E ESTOPILHAS",
+    "PDM": "07025: ESPOLETA CAUDA MECANICA / BOMBA FINS GERAIS ( ECM - BFG )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106453,
+    "Descrição do Item": "ESPOLETA OGIVA MECANICA / BOMBA INCENDIARIA ( EOM - BINC ) , ESPOLETA OGIVA MECANICA / BOMBA INCENDIA NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1390: ESPOLETAS E ESTOPILHAS",
+    "PDM": "07030: ESPOLETA OGIVA MECANICA / BOMBA INCENDIARIA ( EOM - BINC )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106461,
+    "Descrição do Item": "ESPOLETA OGIVA MECANICA / ANTI - CARRO ( EOM - FAC ) , ESPOLETA OGIVA MECANICA / ANTI - CARRO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1390: ESPOLETAS E ESTOPILHAS",
+    "PDM": "07027: ESPOLETA OGIVA MECANICA / ANTI - CARRO   ( EOM  - FAC )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106470,
+    "Descrição do Item": "ESPOLETA OGIVA MECANICA / ANTI - PESSOAL ( EOM - FAP ) , ESPOLETA OGIVA MECANICA / ANTI - PESSOAL NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1390: ESPOLETAS E ESTOPILHAS",
+    "PDM": "07028: ESPOLETA OGIVA MECANICA / ANTI - PESSOAL  ( EOM - FAP )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106488,
+    "Descrição do Item": "BOMBA INCENDIARIA ( BINC ) , BOMBA INCENDIARIA ( BINC ) NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1325: BOMBAS",
+    "PDM": "03778: BOMBA INCENDIARIA ( BINC )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106496,
+    "Descrição do Item": "BOMBA DE ARRASTO - FINS GERAIS ( BA - FG ) , BOMBA DE ARRASTO - FINS GERAIS ( BA - FG NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1325: BOMBAS",
+    "PDM": "03746: BOMBA DE ARRASTO - FINS GERAIS ( BA - FG )",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106500,
+    "Descrição do Item": "CABEÇA DE EXERCÍCIO INERTE ( CAB - EX IN ) , CABECA DE EXERCICIO INERTE ( CAB - EX IN NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1340: ROJÕES, FOGUETES, MUNIÇÃO E COMPONENTES",
+    "PDM": "03978: CABEÇA DE EXERCÍCIO INERTE ( CAB - EX IN )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106526,
+    "Descrição do Item": "PEÇAS/COMPONENTES - LANÇADOR MÚLTIPLO DE FOGUETE , LANCADOR MULTIPLO DE FOGUETE ( LM ) NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1340: ROJÕES, FOGUETES, MUNIÇÃO E COMPONENTES",
+    "PDM": "08685: PEÇAS/COMPONENTES - LANÇADOR MÚLTIPLO DE FOGUETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106542,
+    "Descrição do Item": "CABECA DE GUERRA / SINALIZADORA , CABECA DE GUERRA / SINALIZADORA NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1340: ROJÕES, FOGUETES, MUNIÇÃO E COMPONENTES",
+    "PDM": "03981: CABECA DE GUERRA / SINALIZADORA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106550,
+    "Descrição do Item": "CABEÇA DE GUERRA / ANTI - CARRO ( CAB - AC ) , CABECA DE GUERRA / ANTI - CARRO ( CAB - NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1340: ROJÕES, FOGUETES, MUNIÇÃO E COMPONENTES",
+    "PDM": "03979: CABEÇA DE GUERRA / ANTI - CARRO ( CAB - AC )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106569,
+    "Descrição do Item": "CABEÇA DE GUERRA / ANTI - PESSOAL ( CAB - AP ) , CABECA DE GUERRA / ANTI - PESSOAL ( CAB NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1340: ROJÕES, FOGUETES, MUNIÇÃO E COMPONENTES",
+    "PDM": "03980: CABEÇA DE GUERRA / ANTI - PESSOAL  ( CAB - AP )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106577,
+    "Descrição do Item": "ARGOLA COM DESTORCEDOR - BOMBA INCENDIARIA / BOMBA FINS GERAIS ( BINC / BFG ) , ARGOLA COM DESTORCEDOR - BOMBA INCENDIAR NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1325: BOMBAS",
+    "PDM": "02990: ARGOLA COM DESTORCEDOR - BOMBA INCENDIARIA / BOMBA FINS GERAIS ( BINC / BFG )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106585,
+    "Descrição do Item": "CLIPS - BOMBA INCENDIARIA / BOMBA FINS GERAIS , CLIPS - BOMBA INCENDIARIA / BOMBA FINS G NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1325: BOMBAS",
+    "PDM": "05081: CLIPS - BOMBA INCENDIARIA / BOMBA FINS GERAIS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106631,
+    "Descrição do Item": "CARRO TRANSPORTE E INSTALACAO DE BOMBA ( CAR - TIB ) , CARRO TRANSPORTE E INSTALACAO DE BOMBA NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1385: EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE EXPLOSIVO NA SU-PERFÍCIE",
+    "PDM": "04625: CARRO TRANSPORTE E INSTALACAO DE BOMBA   ( CAR  - TIB )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 112232,
+    "Descrição do Item": "PROJÉTIL NÃO LETAL , PROJETIL PNEUMATICO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "11255: PROJÉTIL NÃO LETAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 113301,
+    "Descrição do Item": "CHUMBINHO ARMA PRESSÃO , CHUMBINHO - ARMA PRESSAO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "04970: CHUMBINHO ARMA PRESSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 116718,
+    "Descrição do Item": "EQUIPAMENTO ( KIT ) REMOCAO EXPLOSIVO , EQUIPAMENTO ( KIT ) REMOCAO EXPLOSIVO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1385: EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE EXPLOSIVO NA SU-PERFÍCIE",
+    "PDM": "06617: EQUIPAMENTO ( KIT ) REMOCAO EXPLOSIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 126365,
+    "Descrição do Item": "BOMBA EXERCICIO ( BEX ) , BOMBA EXERCICIO ( BEX ) NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1325: BOMBAS",
+    "PDM": "03773: BOMBA EXERCICIO ( BEX )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 127450,
+    "Descrição do Item": "SIMULACRO GRANADA , SIMULACRO GRANADA NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1330: GRANADAS",
+    "PDM": "12070: SIMULACRO GRANADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 128040,
+    "Descrição do Item": "POLVORA , POLVORA NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1375: MATERIAIS DE DEMOLIÇÃO",
+    "PDM": "10990: POLVORA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 131768,
+    "Descrição do Item": "COMPONENTE MUNICAO DE 75MM ATE 125MM , COMPONENTE MUNICAO DE 75MM ATE 125MM NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1315: MUNIÇÃO DE CALIBRE ACIMA DE 75MM ATÉE 125MM",
+    "PDM": "05461: COMPONENTE MUNICAO DE 75MM ATE 125MM",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 131776,
+    "Descrição do Item": "COMPONENTE MUNIÇÃO GRANADA , COMPONENTE MUNICAO DE GRANADA NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1330: GRANADAS",
+    "PDM": "05460: COMPONENTE MUNIÇÃO GRANADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 132519,
+    "Descrição do Item": "ACIONADOR ESPOLETA , ACIONADOR ESPOLETA NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1375: MATERIAIS DE DEMOLIÇÃO",
+    "PDM": "02043: ACIONADOR ESPOLETA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150061,
+    "Descrição do Item": "PROJETIL E COMPONENTES MUNIÇÃO ATÉ 30MM , PROJETIL E COMPONENTES MUNIÇÃO ATÉ 30MM NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "16262: PROJETIL E COMPONENTES MUNIÇÃO ATÉ 30MM",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191305,
+    "Descrição do Item": "MUNIÇÃO DE CALIBRE ATÉ 30 MM , MUNIÇÃO DE CALIBRE ATÉ 30 MM NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "16697: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191310,
+    "Descrição do Item": "MUNIÇÃO DE CALIBRE ACIMA DE 30 MM ATÉ 75 MM , MUNIÇÃO DE CALIBRE ACIMA DE 30 MM ATÉ 75 NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1310: MUNIÇÃO DE CALIBRE ACIMA DE 30 MM ATÉ 75 MM",
+    "PDM": "16698: MUNIÇÃO DE CALIBRE ACIMA DE 30 MM ATÉ 75 MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191315,
+    "Descrição do Item": "MUNIÇÃO DE CALIBRE ACIMA DE 75MM ATÉE 125MM , MUNIÇÃO DE CALIBRE ACIMA DE 75MM ATÉE 12 NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1315: MUNIÇÃO DE CALIBRE ACIMA DE 75MM ATÉE 125MM",
+    "PDM": "16699: MUNIÇÃO DE CALIBRE ACIMA DE 75MM ATÉE 125MM",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191320,
+    "Descrição do Item": "MUNIÇÃO DE CALIBRE ACIMA DE 125 MM , MUNIÇÃO DE CALIBRE ACIMA DE 125 MM NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1320: MUNIÇÃO DE CALIBRE ACIMA DE 125 MM",
+    "PDM": "16700: MUNIÇÃO DE CALIBRE ACIMA DE 125 MM",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191325,
+    "Descrição do Item": "BOMBAS , BOMBAS NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1325: BOMBAS",
+    "PDM": "16701: BOMBAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191330,
+    "Descrição do Item": "GRANADAS , GRANADAS NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1330: GRANADAS",
+    "PDM": "16702: GRANADAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191336,
+    "Descrição do Item": "OGIVAS E COMPONENTES EXPLOSIVOS DE MISSEIS GUIADOS , OGIVAS E COMPONENTES EXPLOSIVOS DE MISSE NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1336: OGIVAS E COMPONENTES EXPLOSIVOS DE MISSEIS GUIADOS",
+    "PDM": "16703: OGIVAS E COMPONENTES EXPLOSIVOS DE MISSEIS GUIADOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191337,
+    "Descrição do Item": "UNIDADES DE PROPULSAO EXPLOSIVA A COMBUSTIVEL SOLIDO DE VEICULOS ESPACIAIS E MISSEIS GUIADOS E SEUS , UNIDADES DE PROPULSAO EXPLOSIVA A COMBUS NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1337: UNIDADES DE PROPULSAO EXPLOSIVA A COMBUSTIVEL SOLIDO DE VEICULOS ESPACIAIS E MISSEIS GUIADOS E SEUS COMPONENTES",
+    "PDM": "16704: UNIDADES DE PROPULSAO EXPLOSIVA A COMBUSTIVEL SOLIDO DE VEICULOS ESPACIAIS E MISSEIS GUIADOS E SEUS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191338,
+    "Descrição do Item": "UNIDADES DE PROPULSAO INERTES A COMBUSTIVEL SOLIDO DE VEICULOS ESPACIAIS E MISSEIS GUIADOS E SEUS CO, UNIDADES DE PROPULSAO INERTES A COMBUSTI NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1338: UNIDADES DE PROPULSAO INERTES A COMBUSTIVEL SOLIDO DE VEICULOS ESPACIAIS E MISSEIS GUIADOS E SEUS COMPONENTES",
+    "PDM": "16705: UNIDADES DE PROPULSAO INERTES A COMBUSTIVEL SOLIDO DE VEICULOS ESPACIAIS E MISSEIS GUIADOS E SEUS CO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191340,
+    "Descrição do Item": "ROJÕES, FOGUETES, MUNIÇÃO E COMPONENTES , ROJÕES, FOGUETES, MUNIÇÃO E COMPONENTES NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1340: ROJÕES, FOGUETES, MUNIÇÃO E COMPONENTES",
+    "PDM": "16706: ROJÕES, FOGUETES, MUNIÇÃO E COMPONENTES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191345,
+    "Descrição do Item": "MINAS TERRESTRES , MINAS TERRESTRES NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1345: MINAS TERRESTRES",
+    "PDM": "16707: MINAS TERRESTRES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191346,
+    "Descrição do Item": "MUNIÇÕES DE CONTROLE À DISTÂNCIA , MUNIÇÕES DE CONTROLE À DISTÂNCIA NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1346: MUNIÇÕES DE CONTROLE À DISTÂNCIA",
+    "PDM": "17373: MUNIÇÕES DE CONTROLE À DISTÂNCIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191350,
+    "Descrição do Item": "COMPONENTES INERTES DE MINA SUBMARINA , COMPONENTES INERTES DE MINA SUBMARINA NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1350: COMPONENTES INERTES DE MINA SUBMARINA",
+    "PDM": "16708: COMPONENTES INERTES DE MINA SUBMARINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191351,
+    "Descrição do Item": "COMPONENTES EXPLOSIVOS DE MINAS SUBMARINAS , COMPONENTES EXPLOSIVOS DE MINAS SUBMARIN NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1351: COMPONENTES EXPLOSIVOS DE MINAS SUBMARINAS",
+    "PDM": "16709: COMPONENTES EXPLOSIVOS DE MINAS SUBMARINAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191352,
+    "Descrição do Item": "DISPOSITIVOS INERTES DE MINAS SUBAQUÁTICAS , DISPOSITIVOS INERTES DE MINAS SUBAQUÁTIC NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1352: DISPOSITIVOS INERTES DE MINAS SUBAQUÁTICAS",
+    "PDM": "17374: DISPOSITIVOS INERTES DE MINAS SUBAQUÁTICAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191353,
+    "Descrição do Item": "DISPOSITIVOS EXPLOSIVOS DE MINAS SUBAQUÁTICAS , DISPOSITIVOS EXPLOSIVOS DE MINAS SUBAQUÁ NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1353: DISPOSITIVOS EXPLOSIVOS DE MINAS SUBAQUÁTICAS",
+    "PDM": "17375: DISPOSITIVOS EXPLOSIVOS DE MINAS SUBAQUÁTICAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191355,
+    "Descrição do Item": "COMPONENTES INERTES DE TORPEDOS , COMPONENTES INERTES DE TORPEDOS NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1355: COMPONENTES INERTES DE TORPEDOS",
+    "PDM": "16710: COMPONENTES INERTES DE TORPEDOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191356,
+    "Descrição do Item": "COMPONENTES EXPLOSIVOS DE TORPEDOS , COMPONENTES EXPLOSIVOS DE TORPEDOS NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1356: COMPONENTES EXPLOSIVOS DE TORPEDOS",
+    "PDM": "16711: COMPONENTES EXPLOSIVOS DE TORPEDOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191360,
+    "Descrição do Item": "COMPONENTES INERTES DE CARGAS DE PROFUNDIDADE , COMPONENTES INERTES DE CARGAS DE PROFUND NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1360: COMPONENTES INERTES DE CARGAS DE PROFUNDIDADE",
+    "PDM": "16712: COMPONENTES INERTES DE CARGAS DE PROFUNDIDADE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191361,
+    "Descrição do Item": "COMPONENTES EXPLOSIVOS DE BOMBAS DE PROFUNDIDADE , COMPONENTES EXPLOSIVOS DE BOMBAS DE PROF NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1361: COMPONENTES EXPLOSIVOS DE BOMBAS DE PROFUNDIDADE",
+    "PDM": "16713: COMPONENTES EXPLOSIVOS DE BOMBAS DE PROFUNDIDADE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191367,
+    "Descrição do Item": "CONJUNTOS E EQUIPAMENTOS TÁTICOS , CONJUNTOS E EQUIPAMENTOS TÁTICOS NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1367: CONJUNTOS E EQUIPAMENTOS TÁTICOS",
+    "PDM": "17376: CONJUNTOS E EQUIPAMENTOS TÁTICOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191370,
+    "Descrição do Item": "PIROTECNICOS , PIROTECNICOS NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1370: PIROTECNICOS",
+    "PDM": "16715: PIROTECNICOS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191375,
+    "Descrição do Item": "MATERIAIS DE DEMOLIÇÃO , MATERIAIS DE DEMOLIÇÃO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1375: MATERIAIS DE DEMOLIÇÃO",
+    "PDM": "16716: MATERIAIS DE DEMOLIÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191376,
+    "Descrição do Item": "EXPLOSIVOS A GRANEL , EXPLOSIVOS A GRANEL NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1376: EXPLOSIVOS A GRANEL",
+    "PDM": "16717: EXPLOSIVOS A GRANEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191377,
+    "Descrição do Item": "DISPOSITIVOS ACIONADOS POR PROPELENTES E CARTUCHOS , DISPOSITIVOS ACIONADOS POR PROPELENTES E NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1377: DISPOSITIVOS ACIONADOS POR PROPELENTES E CARTUCHOS",
+    "PDM": "16718: DISPOSITIVOS ACIONADOS POR PROPELENTES E CARTUCHOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191380,
+    "Descrição do Item": "AGENTES BIOLOGICOS DE USO MILITAR , AGENTES BIOLOGICOS DE USO MILITAR NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1380: AGENTES BIOLOGICOS DE USO MILITAR",
+    "PDM": "16719: AGENTES BIOLOGICOS DE USO MILITAR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191385,
+    "Descrição do Item": "EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE EXPLOSIVO NA SU-PERFÍCIE , EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1385: EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE EXPLOSIVO NA SU-PERFÍCIE",
+    "PDM": "16720: EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE EXPLOSIVO NA SU-PERFÍCIE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191386,
+    "Descrição do Item": "EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE EXPLOSIVO SUB-MERSO , EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1386: EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE  EXPLOSIVO  SUB-MERSO",
+    "PDM": "16721: EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE  EXPLOSIVO  SUB-MERSO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191390,
+    "Descrição do Item": "ESPOLETAS E ESTOPILHAS , ESPOLETAS E ESTOPILHAS NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1390: ESPOLETAS E ESTOPILHAS",
+    "PDM": "16722: ESPOLETAS E ESTOPILHAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191395,
+    "Descrição do Item": "COMPONENTES DIVERSOS DE MUNIÇÃO , COMPONENTES DIVERSOS DE MUNIÇÃO NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1395: COMPONENTES DIVERSOS DE MUNIÇÃO",
+    "PDM": "16723: COMPONENTES DIVERSOS DE MUNIÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191398,
+    "Descrição do Item": "EQUIPAMENTOS ESPECIALIZADOS PARA MANUSEIO E CONSERVACAO DE MUNICAO , EQUIPAMENTOS ESPECIALIZADOS PARA MANUSEI NOME",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1398: EQUIPAMENTOS ESPECIALIZADOS PARA MANUSEIO E CONSERVACAO DE MUNICAO",
+    "PDM": "16724: EQUIPAMENTOS ESPECIALIZADOS PARA MANUSEIO E CONSERVACAO DE MUNICAO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228613,
+    "Descrição do Item": "ESCUDO PLACA , FUNÇÃO CALIBRAGEM DE PRENSA DE MUNIÇÃO, APLICAÇÃO MUNIÇÃO CALIBRE 38",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "13869: ESCUDO PLACA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228614,
+    "Descrição do Item": "ESCUDO PLACA , FUNÇÃO CALIBRAGEM DE PRENSA DE MUNIÇÃO, APLICAÇÃO MUNIÇÃO CALIBRE 9 MM",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "13869: ESCUDO PLACA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228615,
+    "Descrição do Item": "CONJUNTO DIES , MATERIAL AÇO ESPECIAL, MATERIAL ANEL CARBIDE, DIÂMETRO 7/8 POL, COMPRIMENTO 14 POL, APLICAÇÃO MUNIÇÃO CALIBRE 9 MM, FUNÇÃO CALIBRE PRENSA MUNIÇÃO TIPO MASCOTE",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "13871: CONJUNTO DIES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228616,
+    "Descrição do Item": "CONJUNTO DIES , MATERIAL AÇO ESPECIAL, MATERIAL ANEL CARBIDE, DIÂMETRO 7/8 POL, COMPRIMENTO 14 POL, APLICAÇÃO MUNIÇÃO CALIBRE 9 MM, FUNÇÃO CALIBRE PRENSA MUNIÇÃO TIPO PAULA 2001",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "13871: CONJUNTO DIES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228617,
+    "Descrição do Item": "CONJUNTO DIES , MATERIAL AÇO ESPECIAL, MATERIAL ANEL CARBIDE, DIÂMETRO 7/8 POL, COMPRIMENTO 14 POL, APLICAÇÃO MUNIÇÃO CALIBRE 38, FUNÇÃO CALIBRE PRENSA MUNIÇÃO TIPO PAULA 2001",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "13871: CONJUNTO DIES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 228618,
+    "Descrição do Item": "ESCUDO SUPORTE , FUNÇÃO CALIBRAGEM DE PRENSA DE MUNIÇÃO TIPO PAULA 2001, APLICAÇÃO MUNIÇÃO CALIBRES 38 E 9 MM",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "13870: ESCUDO SUPORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 235116,
+    "Descrição do Item": "GRANADA , MATERIAL CORPO BORRACHA, TIPO EXPLOSIVA DE LUZ E SOM, FORMATO CILÍNDRICA, ACIONAMENTO MANUAL, FUNCIONAMENTO POR PERCUSSÃO MECÂNICA DA ESPOLETA, RETARDO 4 A 5 S, CARACTERÍSTICAS ADICIONAIS COM DUPLO ESTÁGIO",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1330: GRANADAS",
+    "PDM": "08079: GRANADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240442,
+    "Descrição do Item": "MUNIÇÃO TREINAMENTO , MATERIAL CARTUCHO COBRE, MATERIAL PROJÉTIL PLÁSTICO, CARGA PROJÉTIL TINTA, TIPO PÓLVORA BASE SIMPLES, SEM FUMAÇA, VELOCIDADE INICIAL PROJÉTIL DE 360 A 490 PÉS POR SEGUNDO, CARACTERÍSTICAS ADICIONAIS TINTA NÃO TÓXICA À BASE DE DETERGENTE, LAVÁVEL EM, APLICAÇÃO PISTOLA MARCA TAURUS, MODELO PT92AF E SUBMETRALHA",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "15401: MUNIÇÃO TREINAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240443,
+    "Descrição do Item": "MUNIÇÃO TREINAMENTO , MATERIAL CARTUCHO COBRE, MATERIAL PROJÉTIL PLÁSTICO, CARGA PROJÉTIL TINTA, TIPO PÓLVORA BASE DUPLA, SEM FUMAÇA, VELOCIDADE INICIAL PROJÉTIL DE 360 A 490 PÉS POR SEGUNDO, CARACTERÍSTICAS ADICIONAIS TINTA NÃO TÓXICA À BASE DE DETERGENTE, LAVÁVEL EM, APLICAÇÃO PISTOLA MARCA TAURUS, MODELO PT92AF E SUBMETRALHA",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "15401: MUNIÇÃO TREINAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 242723,
+    "Descrição do Item": "PROJÉTIL MUNIÇÃO ARMA FOGO , MATERIAL CHUMBO, CALIBRE .38, TIPO OGIVAL, PESO 158 G, APLICAÇÃO REVÓLVER, CALIBRE .38 ESPECIAL",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "15549: PROJÉTIL MUNIÇÃO ARMA FOGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 242724,
+    "Descrição do Item": "PROJÉTIL MUNIÇÃO ARMA FOGO , MATERIAL CHUMBO, CALIBRE .40, TIPO PONTA PLANA, PESO 160 G, APLICAÇÃO PISTOLA S&W, CALIBRE .40",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "15549: PROJÉTIL MUNIÇÃO ARMA FOGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 242735,
+    "Descrição do Item": "PROJÉTIL MUNIÇÃO ARMA FOGO , MATERIAL CHUMBO, CALIBRE .38, TIPO PONTA OCA, PESO 158 G, APLICAÇÃO REVÓLVER, CALIBRE .38 ESPECIAL, CARACTERÍSTICAS ADICIONAIS EXPANSIVA",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "15549: PROJÉTIL MUNIÇÃO ARMA FOGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 242736,
+    "Descrição do Item": "PROJÉTIL MUNIÇÃO ARMA FOGO , MATERIAL CHUMBO, CALIBRE .38, TIPO PONTA OCA, PESO 95 G, APLICAÇÃO PISTOLA AUTOMÁTICA, CALIBRE .38, CARACTERÍSTICAS ADICIONAIS EXPANSIVA",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "15549: PROJÉTIL MUNIÇÃO ARMA FOGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 252834,
+    "Descrição do Item": "PROJETIL E COMPONENTES MUNIÇÃO ATÉ 30MM , NOME PROJETIL E COMPONENTES DE MUNIÇÃO DE ARMA DE FOGO",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "16262: PROJETIL E COMPONENTES MUNIÇÃO ATÉ 30MM",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 276299,
+    "Descrição do Item": "PROJÉTIL NÃO LETAL , TIPO CARTUCHO AUTODETONANTE, MATERIAL CARTUCHO PLÁSTICO, PESO 20 G, ALCANCE 80 A 120 M, CARGA LACRIMOGÊNEA - CS, CARACTERÍSTICAS ADICIONAIS CALIBRE 12, COM PROJÉTIL DETONANTE, COLUNA RETARDO",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "11255: PROJÉTIL NÃO LETAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291094,
+    "Descrição do Item": "PROJÉTIL NÃO LETAL , TIPO DETONANTE, MATERIAL CARTUCHO PLÁSTICO, ALCANCE 30 M, CARGA PÓ INERTE IMPREGNADO REAGENTE QUIM. PIMENTA/PAVA, CARACTERÍSTICAS ADICIONAIS CALIBRE .68 DE AR COMPRIMIDO / FORMATO ESFÉRICO",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "11255: PROJÉTIL NÃO LETAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291739,
+    "Descrição do Item": "PROJÉTIL MUNIÇÃO ARMA FOGO , MATERIAL CHUMBO, CALIBRE .40, TIPO PONTA PLANA, PESO 160 GR, APLICAÇÃO PISTOLA",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "15549: PROJÉTIL MUNIÇÃO ARMA FOGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291740,
+    "Descrição do Item": "PROJÉTIL MUNIÇÃO ARMA FOGO , MATERIAL CHUMBO, CALIBRE 5.56 X 45 MM, TIPO COMUM, PESO 55 GR, APLICAÇÃO FUZIL E METRALHADORA",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "15549: PROJÉTIL MUNIÇÃO ARMA FOGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 304595,
+    "Descrição do Item": "GRANADA , MATERIAL CORPO ALUMÍNIO, TIPO FUMAÇA, FORMATO CILÍNDRICA, ACIONAMENTO MANUAL, FUNCIONAMENTO EMISSÃO FUMÍGENA LARANJA, RETARDO 2,5 S, CARACTERÍSTICAS ADICIONAIS SINALIZAÇÃO DIURNA",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1330: GRANADAS",
+    "PDM": "08079: GRANADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 304598,
+    "Descrição do Item": "GRANADA , MATERIAL CORPO BORRACHA, TIPO EXPLOSIVA DE LUZ E SOM, FORMATO ESFÉRICO, ACIONAMENTO MANUAL, FUNCIONAMENTO EXPLOSÃO, RETARDO 1,5 S, CARACTERÍSTICAS ADICIONAIS LUZ INTENSA",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1330: GRANADAS",
+    "PDM": "08079: GRANADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 304599,
+    "Descrição do Item": "GRANADA , MATERIAL CORPO BORRACHA, TIPO EFEITO MORAL, FORMATO CILÍNDRICA, ACIONAMENTO MANUAL, FUNCIONAMENTO EXPLOSÃO, RETARDO 2,5 S, CARACTERÍSTICAS ADICIONAIS DUPLO ESTÁGIO",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1330: GRANADAS",
+    "PDM": "08079: GRANADA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 304603,
+    "Descrição do Item": "PROJÉTIL NÃO LETAL , TIPO EMISSÃO FUMÍGENA LACRIMOGÊNEA, MATERIAL ALUMÍNIO, PESO 229 G, ALCANCE 70 M, CARGA GÁS LACRIMOGÊNIO, CARACTERÍSTICAS ADICIONAIS CARGA MÚLTIPLA/CALIBRE 38.1 MM",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "11255: PROJÉTIL NÃO LETAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 337265,
+    "Descrição do Item": "PROJÉTIL NÃO LETAL , TIPO EMISSÃO FUMÍGENA LACRIMOGÊNEA, MATERIAL ALUMÍNIO, PESO 145 G, ALCANCE 60 M, CARGA GÁS LACRIMOGÊNIO, CARACTERÍSTICAS ADICIONAIS CALIBRE 37/38 MM",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "11255: PROJÉTIL NÃO LETAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 337267,
+    "Descrição do Item": "PROJÉTIL NÃO LETAL , TIPO EMISSÃO FUMÍGENA LACRIMOGÊNEA, MATERIAL ALUMÍNIO, PESO 150 G, ALCANCE 120 M, CARGA GÁS LACRIMOGÊNIO, CARACTERÍSTICAS ADICIONAIS CALIBRE 37/38 MM",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "11255: PROJÉTIL NÃO LETAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 337269,
+    "Descrição do Item": "PROJÉTIL NÃO LETAL , TIPO EMISSÃO FUMÍGENA LACRIMOGÊNEA, MATERIAL ALUMÍNIO, PESO 225 G, ALCANCE 90 M, CARGA GÁS LACRIMOGÊNIO, CARACTERÍSTICAS ADICIONAIS CALIBRE 37/38 MM",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "11255: PROJÉTIL NÃO LETAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 344561,
+    "Descrição do Item": "PROJÉTIL MUNIÇÃO ARMA FOGO , MATERIAL FULL METAL, CALIBRE 9 MM, PESO 124 GR, APLICAÇÃO PISTOLA CALIBRE 9MM",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "15549: PROJÉTIL MUNIÇÃO ARMA FOGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 359378,
+    "Descrição do Item": "PROJÉTIL MUNIÇÃO ARMA FOGO , MATERIAL CHUMBO, CALIBRE .40, TIPO OGIVAL, PESO 180 GR",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "15549: PROJÉTIL MUNIÇÃO ARMA FOGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 402215,
+    "Descrição do Item": "PROJÉTIL NÃO LETAL , TIPO PNEUMÁTICO, MATERIAL ALUMÍNIO, PESO 16 G, CARGA GÁS CARBÔNICO, CARACTERÍSTICAS ADICIONAIS USADO EM RIFLES MODELO 72, DE DARDOS ANESTÉSICOS",
+    "Grupo": "13: MUNIÇÕES E EXPLOSIVOS",
+    "Classe": "1305: MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "PDM": "11255: PROJÉTIL NÃO LETAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  }
+]
