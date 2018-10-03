@@ -1,0 +1,83 @@
+[
+  {
+    "Código do Item": 106704,
+    "Descrição do Item": "MISSIL TELEGUIADO , MISSIL TELEGUIADO NOME",
+    "Grupo": "14: MÍSSEIS GUIADOS",
+    "Classe": "1425: SISTEMAS COMPLETOS DE MÍSSEIS GUIADOS",
+    "PDM": "09787: MISSIL TELEGUIADO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191410,
+    "Descrição do Item": "MÍSSEIS GUIADOS , MÍSSEIS GUIADOS NOME",
+    "Grupo": "14: MÍSSEIS GUIADOS",
+    "Classe": "1410: MÍSSEIS GUIADOS",
+    "PDM": "16725: MÍSSEIS GUIADOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191420,
+    "Descrição do Item": "COMPONENTES DE MÍSSEIS GUIADOS , COMPONENTES DE MÍSSEIS GUIADOS NOME",
+    "Grupo": "14: MÍSSEIS GUIADOS",
+    "Classe": "1420: COMPONENTES DE MÍSSEIS GUIADOS",
+    "PDM": "16726: COMPONENTES DE MÍSSEIS GUIADOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191425,
+    "Descrição do Item": "SISTEMAS COMPLETOS DE MÍSSEIS GUIADOS , SISTEMAS COMPLETOS DE MÍSSEIS GUIADOS NOME",
+    "Grupo": "14: MÍSSEIS GUIADOS",
+    "Classe": "1425: SISTEMAS COMPLETOS DE MÍSSEIS GUIADOS",
+    "PDM": "16727: SISTEMAS COMPLETOS DE MÍSSEIS GUIADOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191427,
+    "Descrição do Item": "SUBSISTEMAS DE MÍSSEIS GUIADOS , SUBSISTEMAS DE MÍSSEIS GUIADOS NOME",
+    "Grupo": "14: MÍSSEIS GUIADOS",
+    "Classe": "1427: SUBSISTEMAS DE MÍSSEIS GUIADOS",
+    "PDM": "16728: SUBSISTEMAS DE MÍSSEIS GUIADOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191430,
+    "Descrição do Item": "SISTEMA DE CONTROLE REMOTO DE MÍSSEIS GUIADOS , SISTEMA DE CONTROLE REMOTO DE MÍSSEIS GU NOME",
+    "Grupo": "14: MÍSSEIS GUIADOS",
+    "Classe": "1430: SISTEMA DE CONTROLE REMOTO DE MÍSSEIS GUIADOS",
+    "PDM": "16729: SISTEMA DE CONTROLE REMOTO DE MÍSSEIS GUIADOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191440,
+    "Descrição do Item": "LANÇADORES DE MÍSSEIS GUIADOS , LANÇADORES DE MÍSSEIS GUIADOS NOME",
+    "Grupo": "14: MÍSSEIS GUIADOS",
+    "Classe": "1440: LANÇADORES DE MÍSSEIS GUIADOS",
+    "PDM": "16730: LANÇADORES DE MÍSSEIS GUIADOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191450,
+    "Descrição do Item": "EQUIPAMENTO PARA MANUSEIO DE MANUTENÇÃO DE MÍSSEIS GUIADOS , EQUIPAMENTO PARA MANUSEIO DE MANUTENÇÃO NOME",
+    "Grupo": "14: MÍSSEIS GUIADOS",
+    "Classe": "1450: EQUIPAMENTO PARA MANUSEIO DE MANUTENÇÃO DE MÍSSEIS GUIADOS",
+    "PDM": "16731: EQUIPAMENTO PARA MANUSEIO DE MANUTENÇÃO DE MÍSSEIS GUIADOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191495,
+    "Descrição do Item": "MISSEIS GUIADOS DIVERSOS , MISSEIS GUIADOS DIVERSOS NOME",
+    "Grupo": "14: MÍSSEIS GUIADOS",
+    "Classe": "1495: MISSEIS GUIADOS DIVERSOS",
+    "PDM": "16732: MISSEIS GUIADOS DIVERSOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  }
+]
