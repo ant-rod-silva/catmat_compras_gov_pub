@@ -90,3 +90,7 @@ Os dados foram extraídos nos dias 01 e 02 de outubro de 2018
 #### Exemplo de busca por grupo
 
 http://compras.dados.gov.br/materiais/v1/materiais.html?grupo=10
+
+#### Ferramenta usada para remover os espaços em branco desnecessários
+
+https://www.textfixer.com/tools/remove-white-spaces.php
