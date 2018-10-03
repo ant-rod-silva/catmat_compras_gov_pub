@@ -1,0 +1,101 @@
+[
+  {
+    "Código do Item": 47104,
+    "Descrição do Item": "VEICULOS ESPACIAIS COMPLETO MONTADOS / DESMONTADO S , VEICULOS ESPACIAIS COMPLETO MONTADOS / D NOME",
+    "Grupo": "18: VEICULOS ESPACIAIS (ASTRONAVES)",
+    "Classe": "1810: VEÍCULOS ESPACIAIS",
+    "PDM": "13360: VEICULOS ESPACIAIS COMPLETO MONTADOS / DESMONTADO S",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 47112,
+    "Descrição do Item": "VEICULOS / REBOQUES PARA TRANSPORTE DE VEICULOS ESPACIAIS , VEICULOS / REBOQUES PARA TRANSPORTE DE V NOME",
+    "Grupo": "18: VEICULOS ESPACIAIS (ASTRONAVES)",
+    "Classe": "1850: EQUIPAMENTOS DE SERVICOS E MANUSEIO DE VEICULOS ESPACIAIS",
+    "PDM": "13358: VEICULOS / REBOQUES PARA TRANSPORTE DE VEICULOS ESPACIAIS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 105945,
+    "Descrição do Item": "SATELITE - ESTRUTURA MONTADA / PROPULSOR , SATELITE - ESTRUTURA MONTADA / PROPULSOR NOME",
+    "Grupo": "18: VEICULOS ESPACIAIS (ASTRONAVES)",
+    "Classe": "1840: LANCADORES DE VEICULOS ESPACIAIS",
+    "PDM": "11953: SATELITE - ESTRUTURA MONTADA / PROPULSOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191805,
+    "Descrição do Item": "VEICULOS , VEICULOS NOME",
+    "Grupo": "18: VEICULOS ESPACIAIS (ASTRONAVES)",
+    "Classe": "1805: VEICULOS",
+    "PDM": "16759: VEICULOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191810,
+    "Descrição do Item": "VEICULOS ESPACIAIS (ASTRONAVES) , VEICULOS ESPACIAIS (ASTRONAVES) NOME",
+    "Grupo": "18: VEICULOS ESPACIAIS (ASTRONAVES)",
+    "Classe": "1810: VEÍCULOS ESPACIAIS",
+    "PDM": "16760: VEICULOS ESPACIAIS (ASTRONAVES)",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191820,
+    "Descrição do Item": "COMPONENTES DE VEICULOS ESPACIAIS , COMPONENTES DE VEICULOS ESPACIAIS NOME",
+    "Grupo": "18: VEICULOS ESPACIAIS (ASTRONAVES)",
+    "Classe": "1820: COMPONENTES DE VEICULOS ESPACIAIS",
+    "PDM": "16761: COMPONENTES DE VEICULOS ESPACIAIS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191830,
+    "Descrição do Item": "SISTEMAS DE CONTROLE REMOTO DE VEICULOS ESPACIAIS , SISTEMAS DE CONTROLE REMOTO DE VEICULOS NOME",
+    "Grupo": "18: VEICULOS ESPACIAIS (ASTRONAVES)",
+    "Classe": "1830: SISTEMAS DE CONTROLE REMOTO DE VEICULOS ESPACIAIS",
+    "PDM": "16762: SISTEMAS DE CONTROLE REMOTO DE VEICULOS ESPACIAIS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191840,
+    "Descrição do Item": "LANCADORES DE VEICULOS ESPACIAIS , LANCADORES DE VEICULOS ESPACIAIS NOME",
+    "Grupo": "18: VEICULOS ESPACIAIS (ASTRONAVES)",
+    "Classe": "1840: LANCADORES DE VEICULOS ESPACIAIS",
+    "PDM": "16763: LANCADORES DE VEICULOS ESPACIAIS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191850,
+    "Descrição do Item": "EQUIPAMENTOS DE SERVICOS E MANUSEIO DE VEICULOS ESPACIAIS , EQUIPAMENTOS DE SERVICOS E MANUSEIO DE V NOME",
+    "Grupo": "18: VEICULOS ESPACIAIS (ASTRONAVES)",
+    "Classe": "1850: EQUIPAMENTOS DE SERVICOS E MANUSEIO DE VEICULOS ESPACIAIS",
+    "PDM": "16764: EQUIPAMENTOS DE SERVICOS E MANUSEIO DE VEICULOS ESPACIAIS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191860,
+    "Descrição do Item": "EQUIPAMENTOS DE SOBREVIVENCIA NO ESPACO , EQUIPAMENTOS DE SOBREVIVENCIA NO ESPACO NOME",
+    "Grupo": "18: VEICULOS ESPACIAIS (ASTRONAVES)",
+    "Classe": "1860: EQUIPAMENTOS DE SOBREVIVÊNCIA ESPACIAL",
+    "PDM": "16765: EQUIPAMENTOS DE SOBREVIVENCIA NO ESPACO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191895,
+    "Descrição do Item": "VEICULOS ESPACIAIS DIVERSOS , VEICULOS ESPACIAIS DIVERSOS NOME",
+    "Grupo": "18: VEICULOS ESPACIAIS (ASTRONAVES)",
+    "Classe": "1895: VEICULOS ESPACIAIS DIVERSOS",
+    "PDM": "16766: VEICULOS ESPACIAIS DIVERSOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  }
+]
