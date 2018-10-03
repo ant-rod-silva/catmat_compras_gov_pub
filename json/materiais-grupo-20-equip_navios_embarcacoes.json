@@ -1,0 +1,830 @@
+[
+  {
+    "Código do Item": 787,
+    "Descrição do Item": "EIXO DE PROPULSÃO , EIXO DE PROPULSAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "06437: EIXO DE PROPULSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 795,
+    "Descrição do Item": "HÉLICE EMBARCAÇÃO , HELICE DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "08183: HÉLICE EMBARCAÇÃO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 809,
+    "Descrição do Item": "TRANSMISSAO MARITIMA COM TIPO DE ENGRENAGEM DE REDUCAO E REVERSAO , TRANSMISSAO MARITIMA COM TIPO DE ENGRENA NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "12903: TRANSMISSAO MARITIMA COM TIPO DE ENGRENAGEM DE  REDUCAO E REVERSAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 817,
+    "Descrição do Item": "MASTRO DE EMBARCACAO , MASTRO DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2020: CORDAMES E EQUIPAMENTOS CORRELATOS",
+    "PDM": "09431: MASTRO DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 825,
+    "Descrição do Item": "MONTANTE MESTRE , MONTANTE MESTRE NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2020: CORDAMES E EQUIPAMENTOS CORRELATOS",
+    "PDM": "09901: MONTANTE MESTRE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1104,
+    "Descrição do Item": "VERGA DE VELAME , VERGA DE VELAME NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2020: CORDAMES E EQUIPAMENTOS CORRELATOS",
+    "PDM": "13389: VERGA DE VELAME",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1120,
+    "Descrição do Item": "PAU - DE - CARGA NAO LIGADO A GUINCHO , PAU - DE - CARGA NAO LIGADO A GUINCHO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2020: CORDAMES E EQUIPAMENTOS CORRELATOS",
+    "PDM": "10509: PAU - DE - CARGA NAO LIGADO A GUINCHO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1155,
+    "Descrição do Item": "PAU - DE - CARGA NAO LIGADO A GUINDASTE , PAU - DE - CARGA NAO LIGADO A GUINDASTE NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2020: CORDAMES E EQUIPAMENTOS CORRELATOS",
+    "PDM": "10510: PAU - DE - CARGA NAO LIGADO A GUINDASTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1171,
+    "Descrição do Item": "CABRESTANTE DE EMBARCACAO , CABRESTANTE DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2020: CORDAMES E EQUIPAMENTOS CORRELATOS",
+    "PDM": "04063: CABRESTANTE DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1260,
+    "Descrição do Item": "SISTEMA DE GOVERNO , SISTEMA DE GOVERNO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2030: MAQUINARIA DE CONVES",
+    "PDM": "12120: SISTEMA DE GOVERNO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1279,
+    "Descrição do Item": "SISTEMA DE CONTROLE , SISTEMA DE CONTROLE NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2030: MAQUINARIA DE CONVES",
+    "PDM": "12113: SISTEMA DE CONTROLE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1287,
+    "Descrição do Item": "TURCO USO NAVAL , TURCO USO NAVAL NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2030: MAQUINARIA DE CONVES",
+    "PDM": "13139: TURCO USO NAVAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1295,
+    "Descrição do Item": "MOLINETE DE CONVES DE EMBARCACAO , MOLINETE DE CONVES DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2030: MAQUINARIA DE CONVES",
+    "PDM": "09876: MOLINETE DE CONVES DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1309,
+    "Descrição do Item": "ÂNCORA , ANCORA NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "02485: ÂNCORA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1325,
+    "Descrição do Item": "FATEIXA , FATEIXA NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "07322: FATEIXA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1333,
+    "Descrição do Item": "PORTA ESTANQUE USO NAVAL , PORTA ESTANQUE USO NAVAL NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "11076: PORTA ESTANQUE USO NAVAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1376,
+    "Descrição do Item": "PASSAGEM DE INSPECAO DE EMBARCACAO , PASSAGEM DE INSPECAO DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "10474: PASSAGEM DE INSPECAO DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1384,
+    "Descrição do Item": "ESCOTILHA , ESCOTILHA NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "06932: ESCOTILHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1392,
+    "Descrição do Item": "VIGIA ( NAVIO ) , VIGIA ( NAVIO ) NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "13442: VIGIA ( NAVIO )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1449,
+    "Descrição do Item": "BORNAL DE MARINHA , BORNAL DE MARINHA NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "03807: BORNAL DE MARINHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1465,
+    "Descrição do Item": "LEME DE EMBARCACAO , LEME DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "08767: LEME DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1490,
+    "Descrição do Item": "TUBO TELESCOPICO DO EIXO DE EMBARCACAO , TUBO TELESCOPICO DO EIXO DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "13117: TUBO TELESCOPICO DO EIXO DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1511,
+    "Descrição do Item": "TUBO DE PASSAGEM DE CORRENTE DE EMBARCACAO , TUBO DE PASSAGEM DE CORRENTE DE EMBARCAC NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "13069: TUBO DE PASSAGEM DE CORRENTE DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1520,
+    "Descrição do Item": "TUBO DE AMARRACAO DE REBOQUE , TUBO DE AMARRACAO DE REBOQUE NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "13039: TUBO DE AMARRACAO DE REBOQUE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1538,
+    "Descrição do Item": "CONDUTO DA CALDEIRA PARA EMBARCACAO , CONDUTO DA CALDEIRA PARA EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "05547: CONDUTO DA CALDEIRA PARA EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1546,
+    "Descrição do Item": "CHAMINE DE CALDEIRA DE EMBARCACAO , CHAMINE DE CALDEIRA DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "04809: CHAMINE DE CALDEIRA DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1570,
+    "Descrição do Item": "FERRAGEM DE MASTRO DE EMBARCACAO , FERRAGEM DE MASTRO DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "07378: FERRAGEM DE MASTRO DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1597,
+    "Descrição do Item": "FERRAGEM DE PAU - DE - CARGA USO NAVAL , FERRAGEM DE PAU - DE - CARGA USO NAVAL NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "07379: FERRAGEM DE PAU - DE - CARGA USO NAVAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1600,
+    "Descrição do Item": "PA PARA HELICE DE EMBARCACAO , PA PARA HELICE DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "10277: PA PARA HELICE DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1619,
+    "Descrição do Item": "FOGUETA , FOGUETA NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "07682: FOGUETA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1627,
+    "Descrição do Item": "ESCADA DE CORDA DE EMBARCACAO , ESCADA DE CORDA DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "06876: ESCADA DE CORDA DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1635,
+    "Descrição do Item": "ESCADA DE CORRENTE DE EMBARCACAO , ESCADA DE CORRENTE DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "06877: ESCADA DE CORRENTE DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1643,
+    "Descrição do Item": "VELA DE PROPULSAO DE EMBARCACAO , VELA DE PROPULSAO DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "13363: VELA DE PROPULSAO DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1651,
+    "Descrição do Item": "BUZINA DE ESCOVEM USO NAVAL , BUZINA DE ESCOVEM USO NAVAL NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "03974: BUZINA DE ESCOVEM USO NAVAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1660,
+    "Descrição do Item": "MOBILIARIO DE EMBARCACAO , MOBILIARIO DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "09818: MOBILIARIO DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 1678,
+    "Descrição do Item": "ESCADA DE QUEBRA - PEITO ( NAVIO ) , ESCADA DE QUEBRA - PEITO ( NAVIO ) NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "06880: ESCADA DE QUEBRA - PEITO ( NAVIO )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 24570,
+    "Descrição do Item": "MECANISMO DE PILOTO AUTOMATICO PARA EMBARCACAO , MECANISMO DE PILOTO AUTOMATICO PARA EMBA NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "09518: MECANISMO DE PILOTO AUTOMATICO PARA EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48194,
+    "Descrição do Item": "GUINDASTE DE ESCALER SALVA - VIDAS , GUINDASTE DE ESCALER SALVA - VIDAS NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2030: MAQUINARIA DE CONVES",
+    "PDM": "08150: GUINDASTE DE ESCALER SALVA - VIDAS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48208,
+    "Descrição do Item": "GRAMPO ANCORAGEM , ANCORA FLUTUANTE NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "02486: GRAMPO ANCORAGEM",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48216,
+    "Descrição do Item": "REMO DE EMBARCACAO , REMO DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "11631: REMO DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48232,
+    "Descrição do Item": "JANELA DE VENTILACAO DE EMBARCACAO , JANELA DE VENTILACAO DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "08523: JANELA DE VENTILACAO DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48259,
+    "Descrição do Item": "DRENO EMBARCAÇÃO , DRENO DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "06406: DRENO EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48267,
+    "Descrição do Item": "CADASTE DO LEME DE EMBARCACAO , CADASTE DO LEME DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "04073: CADASTE DO LEME DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48275,
+    "Descrição do Item": "PAU - DE - CARGA DE EMBARCACAO , PAU - DE - CARGA DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "10508: PAU - DE - CARGA DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48283,
+    "Descrição do Item": "CEPO DE EMBARCACAO , CEPO DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "04772: CEPO DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48291,
+    "Descrição do Item": "OLHAL DE REMO DE EMBARCACAO , OLHAL DE REMO DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "10214: OLHAL DE REMO DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 61972,
+    "Descrição do Item": "VELAME DE EMBARCACAO , VELAME DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "13365: VELAME DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 66966,
+    "Descrição do Item": "PA - HELICE EMBARCACAO , PA - HELICE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "10272: PA - HELICE EMBARCACAO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 72338,
+    "Descrição do Item": "PEDESTAL DE MASTRO DE EMBARCACAO , PEDESTAL DE MASTRO DE EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "10579: PEDESTAL DE MASTRO DE EMBARCACAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 106798,
+    "Descrição do Item": "ECOBATIMETRO , ECOBATIMETRO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "06420: ECOBATIMETRO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 108740,
+    "Descrição do Item": "PROFUNDIMETRO , PROFUNDIMETRO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "11242: PROFUNDIMETRO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 108766,
+    "Descrição do Item": "ECOSSONDA , ECOSSONDA NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "06421: ECOSSONDA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 109118,
+    "Descrição do Item": "DEFENSA EMBARCAÇÃO , DEFENSA PORTUARIA NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "06048: DEFENSA EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 130443,
+    "Descrição do Item": "CABO APRESTO EMBARCAÇÃO , CABO APRESTO - EMBARCACAO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "04004: CABO APRESTO EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150063,
+    "Descrição do Item": "VELAME EMBARCAÇÃO , VELAME EMBARCAÇÃO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "16263: VELAME EMBARCAÇÃO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150619,
+    "Descrição do Item": "CAPA PROTEÇÃO EMBARCAÇÕES , CAPA PROTEÇÃO EMBARCAÇÕES NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "16785: CAPA PROTEÇÃO EMBARCAÇÕES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192010,
+    "Descrição do Item": "COMPONENTES DE PROPULSÃO DE EMBARCAÇÕES , COMPONENTES DE PROPULSAO PARA NAVIOS E E NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "16779: COMPONENTES DE PROPULSÃO DE EMBARCAÇÕES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192020,
+    "Descrição do Item": "MASTREACAO E ACESSORIOS , MASTREACAO E ACESSORIOS NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2020: CORDAMES E EQUIPAMENTOS CORRELATOS",
+    "PDM": "16780: MASTREACAO E ACESSORIOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192030,
+    "Descrição do Item": "MAQUINARIA DE CONVES , MAQUINARIA DE CONVES NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2030: MAQUINARIA DE CONVES",
+    "PDM": "16781: MAQUINARIA DE CONVES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192040,
+    "Descrição do Item": "FERRAGENS DE MARINHARIA E ITENS DE CASCO , FERRAGENS DE MARINHARIA E ITENS DE CASCO NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "16782: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192050,
+    "Descrição do Item": "BOIAS , BOIAS NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2050: BOIAS",
+    "PDM": "16783: BOIAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192060,
+    "Descrição do Item": "EQUIPAMENTO COMERCIAL DE PESCA , EQUIPAMENTO COMERCIAL DE PESCA NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2060: EQUIPAMENTO COMERCIAL DE PESCA",
+    "PDM": "16784: EQUIPAMENTO COMERCIAL DE PESCA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192090,
+    "Descrição do Item": "CAPA PROTEÇÃO EMBARCAÇÕES , EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARI NOME",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "16785: CAPA PROTEÇÃO EMBARCAÇÕES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231051,
+    "Descrição do Item": "HÉLICE EMBARCAÇÃO , MATERIAL ALUMÍNIO, QUANTIDADE PÁS 3 UN, DIÂMETRO 9 1/4 POL, PASSO 12 POL, DIÂMETRO FURO CENTRO 14 MM, APLICAÇÃO MOTOR JOHNSON 25 HP ( SJ 25 RSD )",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "08183: HÉLICE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 231052,
+    "Descrição do Item": "HÉLICE EMBARCAÇÃO , MATERIAL ALUMÍNIO, QUANTIDADE PÁS 3 UN, DIÂMETRO 10 3/4 POL, PASSO 11 POL, DIÂMETRO FURO CENTRO 18 MM, APLICAÇÃO MOTOR JOHNSON 40 HP ( SJ 40 RCLA )",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "08183: HÉLICE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 293826,
+    "Descrição do Item": "CROQUE TELESCÓPICO , MATERIAL ALUMÍNIO, DIMENSÕES 1,50 X 3,00 M, CARACTERÍSTICAS ADICIONAIS COM PONTEIRA EM NÁILON INQUEBRÁVEL, APLICAÇÃO USO NÁUTICO",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "18469: CROQUE TELESCÓPICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296202,
+    "Descrição do Item": "ELEMENTO BATERIA , REFERÊNCIA FABRIL 31DD16, APLICAÇÃO PROPULSÃO DE SUBMARINO CLASSE TUPI",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "18526: ELEMENTO BATERIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296210,
+    "Descrição do Item": "CAPA PROTEÇÃO EMBARCAÇÕES , MATERIAL LONA NIGHT&DAY, COMPRIMENTO 3,30 CM, LARGURA 3,60 CM, APLICAÇÃO ACESSÓRIOS CONVÉS, CARACTERÍSTICAS ADICIONAIS CINZA, COSTURA 100% VULCANIZADA, CORDÃO DE SEDA,RE",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "16785: CAPA PROTEÇÃO EMBARCAÇÕES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296214,
+    "Descrição do Item": "CAPA PROTEÇÃO EMBARCAÇÕES , MATERIAL DURASSOL ALPARGATAS, COMPRIMENTO 200 CM, LARGURA 110 CM, APLICAÇÃO MÁQUINA DE SUSPENDER, CARACTERÍSTICAS ADICIONAIS CINZA COM REFORÇO NAS BORDAS, ALTURA 70 CM",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "16785: CAPA PROTEÇÃO EMBARCAÇÕES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296216,
+    "Descrição do Item": "CAPA PROTEÇÃO EMBARCAÇÕES , MATERIAL DURASSOL ALPARGATAS, COMPRIMENTO 210 CM, LARGURA 50 CM, APLICAÇÃO GUINDASTE, CARACTERÍSTICAS ADICIONAIS CINZA COM REFORÇO NAS BORDAS E ILHÓIS LATÃO POLIDO, ALTURA 230 CM",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "16785: CAPA PROTEÇÃO EMBARCAÇÕES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 296219,
+    "Descrição do Item": "CAPA PROTEÇÃO EMBARCAÇÕES , MATERIAL DURASSOL ALPARGATAS, COMPRIMENTO 70 CM, LARGURA 60 CM, APLICAÇÃO BOMBA PORTÁTIL, CARACTERÍSTICAS ADICIONAIS CINZA COM REFORÇO NAS BORDAS E ILHÓIS LATÃO POLIDO, ALTURA 60 CM",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "16785: CAPA PROTEÇÃO EMBARCAÇÕES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 305307,
+    "Descrição do Item": "COMPONENTES DE PROPULSÃO DE EMBARCAÇÕES , REFERÊNCIA GE LM2500, TIPO MÓDULO DE CONTR0LE, USO TURBINA A GÁS, APLICAÇÃO CORVETA BARROSO DA M.B.",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "16779: COMPONENTES DE PROPULSÃO DE EMBARCAÇÕES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 332191,
+    "Descrição do Item": "GRAMPO ANCORAGEM , MATERIAL AÇO INOXIDÁVEL AISI 310, COMPRIMENTO 3 POL, DIÂMETRO NOMINAL 3/8 POL, REFERÊNCIA MIL-B-015382 TIPO B, COMPONENTES CABEÇA QUADRADA E PONTA CURVA DE 2 1/4 POL COMPRI, APLICAÇÃO TIJOLO REFRATÁRIO DE CALDEIRA DE NAVIO",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "02486: GRAMPO ANCORAGEM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 332192,
+    "Descrição do Item": "GRAMPO ANCORAGEM , MATERIAL AÇO INOXIDÁVEL AISI 310, COMPRIMENTO 4 POL, DIÂMETRO NOMINAL 3/8 POL, COMPONENTES CABEÇA QUADRADA E PONTA CURVA DE 2 1/4 POL COMPRI, APLICAÇÃO TIJOLO REFRATÁRIO DE CALDEIRA DE NAVIO",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "02486: GRAMPO ANCORAGEM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 332193,
+    "Descrição do Item": "GRAMPO ANCORAGEM , MATERIAL AÇO INOXIDÁVEL AISI 310, COMPRIMENTO 4 1/2 POL, DIÂMETRO NOMINAL 3/8 POL, COMPONENTES CABEÇA QUADRADA E PONTA CURVA 2 3/16POL COMPRIMENT, APLICAÇÃO TIJOLO REFRATÁRIO DE CALDEIRA DE NAVIO",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "02486: GRAMPO ANCORAGEM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 332765,
+    "Descrição do Item": "GRAMPO ANCORAGEM , MATERIAL AÇO INOXIDÁVEL AISI 310, COMPRIMENTO 4 POL, DIÂMETRO NOMINAL 3/8 POL, REFERÊNCIA MIL-B-015382 TIPO B, COMPONENTES CABEÇA QUADRADA, PONTA QUADRADA DE 2.1/4 POL, APLICAÇÃO TIJOLO REFRATÁRIO DE CALDEIRA DE NAVIO",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "02486: GRAMPO ANCORAGEM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 332766,
+    "Descrição do Item": "GRAMPO ANCORAGEM , MATERIAL AÇO INOXIDÁVEL AISI 310, COMPRIMENTO 3 POL, DIÂMETRO NOMINAL 3/8 POL, REFERÊNCIA MIL-B-015382 TIPO B, COMPONENTES CABEÇA QUADRADA, PONTA CURVA DE 2.1/4 POL, APLICAÇÃO TIJOLO REFRATÁRIO DE CALDEIRA DE NAVIO",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "02486: GRAMPO ANCORAGEM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339732,
+    "Descrição do Item": "DEFENSA EMBARCAÇÃO , MATERIAL SISAL, APLICAÇÃO ATRACAÇÃO DE NAVIOS, REFERÊNCIA PO 0000182, DIMENSÕES 20 X 37 CM",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "06048: DEFENSA EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339733,
+    "Descrição do Item": "DEFENSA EMBARCAÇÃO , MATERIAL SISAL, APLICAÇÃO ATRACAÇÃO DE NAVIOS, REFERÊNCIA PO 0000167, DIMENSÕES 30 X 109 CM",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "06048: DEFENSA EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339734,
+    "Descrição do Item": "DEFENSA EMBARCAÇÃO , MATERIAL SISAL, APLICAÇÃO ATRACAÇÃO DE NAVIOS, REFERÊNCIA PO 0000151, DIMENSÕES 16,50 X 58,40 CM",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2090: EQUIPAMENTOS DIVERSOS PARA NAVIOS E MARINHARIA",
+    "PDM": "06048: DEFENSA EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348133,
+    "Descrição do Item": "HÉLICE EMBARCAÇÃO , MATERIAL ALUMÍNIO, QUANTIDADE PÁS 3 UN, APLICAÇÃO MOTOR DE POPA YAMARA 25 HP",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "08183: HÉLICE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348373,
+    "Descrição do Item": "HÉLICE EMBARCAÇÃO , MATERIAL ALUMÍNIO, QUANTIDADE PÁS 3 UN, APLICAÇÃO MOTOR SUZUKI 25 HP",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "08183: HÉLICE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348374,
+    "Descrição do Item": "HÉLICE EMBARCAÇÃO , MATERIAL ALUMÍNIO, QUANTIDADE PÁS 3 UN, APLICAÇÃO MOTOR YAMAHA 40 HP",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "08183: HÉLICE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348375,
+    "Descrição do Item": "HÉLICE EMBARCAÇÃO , MATERIAL ALUMÍNIO, QUANTIDADE PÁS 3 UN, APLICAÇÃO MOTOR SUZUKI 30 HP",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "08183: HÉLICE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 348583,
+    "Descrição do Item": "HÉLICE EMBARCAÇÃO , MATERIAL ALUMÍNIO, QUANTIDADE PÁS 3 UN, PASSO 17 POL, APLICAÇÃO MOTOR YAMAHA 60 HP",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "08183: HÉLICE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 365619,
+    "Descrição do Item": "HÉLICE EMBARCAÇÃO , MATERIAL ALUMÍNIO, QUANTIDADE PÁS 3 UN, APLICAÇÃO MOTOR MARITIMO MWM 75 HP",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "08183: HÉLICE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 365620,
+    "Descrição do Item": "HÉLICE EMBARCAÇÃO , MATERIAL ALUMÍNIO, QUANTIDADE PÁS 3 UN, APLICAÇÃO MOTOR MARITIMO MWM 45 HP",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "08183: HÉLICE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 365621,
+    "Descrição do Item": "HÉLICE EMBARCAÇÃO , MATERIAL ALUMÍNIO, QUANTIDADE PÁS 3 UN, APLICAÇÃO MOTOR MARITIMO MWM 114 HP",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "08183: HÉLICE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 376639,
+    "Descrição do Item": "GRAMPO ANCORAGEM , MATERIAL AÇO INOXIDÁVEL, COMPRIMENTO 44 MM, DIÂMETRO NOMINAL 13 MM, REFERÊNCIA MORSA, COMPONENTES PARAFUSO, APLICAÇÃO EMBARCAÇÃO",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2040: FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "PDM": "02486: GRAMPO ANCORAGEM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 377018,
+    "Descrição do Item": "HÉLICE EMBARCAÇÃO , MATERIAL ALUMÍNIO, QUANTIDADE PÁS 3 UN, APLICAÇÃO RABETA VOLVO PENTA DP/D1 E DP-E, CARACTERÍSTICAS ADICIONAIS FRONTAL, ROTATÓRIA PARA ESQUERDA",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "08183: HÉLICE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 377019,
+    "Descrição do Item": "HÉLICE EMBARCAÇÃO , MATERIAL ALUMÍNIO, QUANTIDADE PÁS 3 UN, APLICAÇÃO RABETA VOLVO PENTA DP/D1 E DP-E, CARACTERÍSTICAS ADICIONAIS TRASEIRA, ROTATÓRIA PARA DIREITA",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "08183: HÉLICE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 396600,
+    "Descrição do Item": "HÉLICE EMBARCAÇÃO , MATERIAL ALUMÍNIO, QUANTIDADE PÁS 3 UN, DIÂMETRO 1/4 X 11 POL, APLICAÇÃO MOTOR DE POPA YAMARA 15 HP",
+    "Grupo": "20: EQUIPAMENTOS PARA NAVIOS E EMBARCACOES",
+    "Classe": "2010: EQUIPAMENTOS DE PROPULSÃO DE NAVIOS E EMBARCAÇÕES",
+    "PDM": "08183: HÉLICE EMBARCAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  }
+]
