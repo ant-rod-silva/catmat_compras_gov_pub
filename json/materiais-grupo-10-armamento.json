@@ -1,0 +1,1703 @@
+[
+  {
+    "Código do Item": 43,
+    "Descrição do Item": "METRALHADORAS , METRALHADORAS NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "09707: METRALHADORAS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 86,
+    "Descrição do Item": "PISTOLA , PISTOLAS NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "10799: PISTOLA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 108,
+    "Descrição do Item": "FUZIS , FUZIS NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "07889: FUZIS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 116,
+    "Descrição do Item": "RIFLES , RIFLES NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "11747: RIFLES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 132,
+    "Descrição do Item": "TAMBORES , TAMBORES NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "12505: TAMBORES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 159,
+    "Descrição do Item": "SILENCIADORES , SILENCIADORES NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "12060: SILENCIADORES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 230,
+    "Descrição do Item": "BAINHA FACÃO CAÇA , BAINHAS PARA FACOES DE CACA NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "03204: BAINHA FACÃO CAÇA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 248,
+    "Descrição do Item": "LANCADORES DE GRANADA DE CARTUCHOS COMPLETO PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM , LANCADORES DE GRANADA DE CARTUCHOS COMPL NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1010: ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATÉ 75MM",
+    "PDM": "08690: LANCADORES DE GRANADA DE CARTUCHOS COMPLETO PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 256,
+    "Descrição do Item": "FACOES DE CACA , FACOES DE CACA NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "07282: FACOES DE CACA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 264,
+    "Descrição do Item": "ESPINGARDAS PARA CACA SUBMARINA , ESPINGARDAS PARA CACA SUBMARINA NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "07019: ESPINGARDAS PARA CACA SUBMARINA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 442,
+    "Descrição do Item": "ESTOJO DE LIMPEZA DE ARMA , ESTOJO DE LIMPEZA DE ARMA NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "07155: ESTOJO DE LIMPEZA DE ARMA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 23000,
+    "Descrição do Item": "FOLE PARA CANHAO , FOLE PARA CANHAO NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "07688: FOLE PARA CANHAO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 34231,
+    "Descrição do Item": "MECANISMOS DE CULATRA PARA ARMAS DE CALIBRE ACIMA DE 30MM ATE 75MM , MECANISMOS DE CULATRA PARA ARMAS DE CALI NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1010: ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATÉ 75MM",
+    "PDM": "09520: MECANISMOS DE CULATRA PARA ARMAS DE CALIBRE ACIMA DE 30MM ATE 75MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 34240,
+    "Descrição do Item": "SUPORTE DE ARMAS DE CALIBRE ACIMA DE 30MM ATE 75MM , SUPORTE DE ARMAS DE CALIBRE ACIMA DE 30M NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1010: ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATÉ 75MM",
+    "PDM": "12377: SUPORTE DE ARMAS DE CALIBRE ACIMA DE 30MM ATE 75MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 34258,
+    "Descrição do Item": "LANCADORES DE FOGUETES AEROTRANSPORTADOS , LANCADORES DE FOGUETES AEROTRANSPORTADOS NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1055: LANÇADORES DE FOGUETES E PIROTÉCNICOS",
+    "PDM": "08689: LANCADORES DE FOGUETES AEROTRANSPORTADOS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 45896,
+    "Descrição do Item": "METRALHADORA / COMPONENTE , METRALHADORA / COMPONENTE NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "09706: METRALHADORA / COMPONENTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 45934,
+    "Descrição do Item": "LANCADORES DE CARREGAMENTO SIMPLES PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM , LANCADORES DE CARREGAMENTO SIMPLES PARA NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1010: ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATÉ 75MM",
+    "PDM": "08687: LANCADORES DE CARREGAMENTO SIMPLES PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 45942,
+    "Descrição do Item": "LANCADORES DE GRANADAS DE CARREGAMENTO AUTOMATICO PARA ARMAS DE FOG DE CALIB ACIMA DE 30MM ATE 75MM , LANCADORES DE GRANADAS DE CARREGAMENTO A NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1010: ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATÉ 75MM",
+    "PDM": "08691: LANCADORES DE GRANADAS DE CARREGAMENTO AUTOMATICO PARA ARMAS DE FOG DE CALIB ACIMA DE 30MM ATE 75MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 45950,
+    "Descrição do Item": "LANCADORES DE DE TIROS AUTOMATICOS PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM , LANCADORES DE DE TIROS AUTOMATICOS PARA NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1010: ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATÉ 75MM",
+    "PDM": "08688: LANCADORES DE DE TIROS AUTOMATICOS PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 45969,
+    "Descrição do Item": "MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 75MM ATE 125MM , MECANISMOS DE CULATRAS PARA ARMAS DE CAL NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1015: ARMAS DE FOGO DE CALIBRE ACIMA DE 75MM ATÉ 125MM",
+    "PDM": "09523: MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 75MM ATE 125MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 45977,
+    "Descrição do Item": "SUPORTE PARA ARMAS DE CALIBRE ACIMA DE 75MM ATE 125MM , SUPORTE PARA ARMAS DE CALIBRE ACIMA DE 7 NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1015: ARMAS DE FOGO DE CALIBRE ACIMA DE 75MM ATÉ 125MM",
+    "PDM": "12409: SUPORTE PARA ARMAS DE CALIBRE ACIMA DE 75MM ATE 125MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 45993,
+    "Descrição do Item": "SOQUETE ARMA DE FOGO , SOQUETES PARA ARMAS DE CALIBRE ACIMA DE NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1015: ARMAS DE FOGO DE CALIBRE ACIMA DE 75MM ATÉ 125MM",
+    "PDM": "01290: SOQUETE ARMA DE FOGO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46000,
+    "Descrição do Item": "MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 125MM ATE 150MM , MECANISMOS DE CULATRAS PARA ARMAS DE CAL NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1020: ARMAS DE FOGO DE CALIBRE ACIMA DE 125MM ATÉ 150MM",
+    "PDM": "09521: MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 125MM ATE 150MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46035,
+    "Descrição do Item": "PLATAFORMAS DE DISPARO PARA ARMAS DE CALIBRE ACIMA DE 150MM ATE 200MM , PLATAFORMAS DE DISPARO PARA ARMAS DE CAL NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1025: ARMAS DE FOGO DE CALIBRE ACIMA DE 150MM ATÉ 200MM",
+    "PDM": "10904: PLATAFORMAS DE DISPARO PARA ARMAS DE CALIBRE ACIMA DE 150MM ATE 200MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46043,
+    "Descrição do Item": "SUPORTES PARA ARMAS DE CALIBRE ACIMA DE 150MM ATE 200MM , SUPORTES PARA ARMAS DE CALIBRE ACIMA DE NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1025: ARMAS DE FOGO DE CALIBRE ACIMA DE 150MM ATÉ 200MM",
+    "PDM": "12430: SUPORTES PARA ARMAS DE CALIBRE ACIMA DE 150MM ATE 200MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46078,
+    "Descrição do Item": "SOQUETE ARMA DE FOGO , SOQUETE PARA ARMAS DE CALIBRE ACIMA DE 2 NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1030: ARMAS DE FOGO DE CALIBRE ACIMA DE 200MM ATÉ 300MM",
+    "PDM": "01291: SOQUETE ARMA DE FOGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46086,
+    "Descrição do Item": "REFLETORES PARA ARMAS DE CALIBRE ACIMA DE 200MM ATE 300MM , REFLETORES PARA ARMAS DE CALIBRE ACIMA D NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1030: ARMAS DE FOGO DE CALIBRE ACIMA DE 200MM ATÉ 300MM",
+    "PDM": "11529: REFLETORES PARA ARMAS DE CALIBRE ACIMA DE 200MM ATE 300MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46094,
+    "Descrição do Item": "MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 300MM , MECANISMOS DE CULATRAS PARA ARMAS DE CAL NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1035: ARMAS DE FOGO DE CALIBRE ACIMA DE 300MM",
+    "PDM": "09522: MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 300MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46116,
+    "Descrição do Item": "MECANISMOS DE INSTRUCAO PARA ARMAS DE CALIBRE ACIMA DE 300MM , MECANISMOS DE INSTRUCAO PARA ARMAS DE CA NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1035: ARMAS DE FOGO DE CALIBRE ACIMA DE 300MM",
+    "PDM": "09524: MECANISMOS DE INSTRUCAO PARA ARMAS DE CALIBRE ACIMA DE 300MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46124,
+    "Descrição do Item": "LANCA-CHAMAS , LANCA-CHAMAS NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1040: ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÍMICA",
+    "PDM": "08681: LANCA-CHAMAS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46140,
+    "Descrição do Item": "PEÇAS / COMPONENTES TUBOS DE TORPEDOS , TUPOS PARA TORPEDOS NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1045: LANÇADORES DE TORPEDOS E DE BOMBAS DE PROFUNDIDADE",
+    "PDM": "13130: PEÇAS / COMPONENTES TUBOS DE TORPEDOS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46159,
+    "Descrição do Item": "ESTEIRAS PARA CARGAS DE PROFUNDIDADE , ESTEIRAS PARA CARGAS DE PROFUNDIDADE NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1045: LANÇADORES DE TORPEDOS E DE BOMBAS DE PROFUNDIDADE",
+    "PDM": "07120: ESTEIRAS PARA CARGAS DE PROFUNDIDADE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46167,
+    "Descrição do Item": "LANCADORES ADAPTAVEIS PARA EMPREGO DE MISSEIS GUIADOS , LANCADORES ADAPTAVEIS PARA EMPREGO DE MI NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1055: LANÇADORES DE FOGUETES E PIROTÉCNICOS",
+    "PDM": "08686: LANCADORES ADAPTAVEIS PARA EMPREGO DE MISSEIS GUIADOS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46175,
+    "Descrição do Item": "SIMULADORES DE ARTILHARIA , SIMULADORES DE ARTILHARIA NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1080: EQUIPAMENTOS DE CAMUFLAGEM E DE DISSIMULAÇÃO",
+    "PDM": "12073: SIMULADORES DE ARTILHARIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46183,
+    "Descrição do Item": "SIMULADORES DE AERONAVES , SIMULAROES DE AERONAVES NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1080: EQUIPAMENTOS DE CAMUFLAGEM E DE DISSIMULAÇÃO",
+    "PDM": "12075: SIMULADORES DE AERONAVES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46191,
+    "Descrição do Item": "SIMULADORES DE VEICULOS , SIMULADORES DE VEICULOS NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1080: EQUIPAMENTOS DE CAMUFLAGEM E DE DISSIMULAÇÃO",
+    "PDM": "12074: SIMULADORES DE VEICULOS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46205,
+    "Descrição do Item": "REDE DE NEBLINA , REDE DE CAMUFLAGEM NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1080: EQUIPAMENTOS DE CAMUFLAGEM E DE DISSIMULAÇÃO",
+    "PDM": "11501: REDE DE NEBLINA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48828,
+    "Descrição do Item": "PEÇAS / ACESSÓRIOS ARMAMENTO , ACESSORIO PARA ARMAMENTO AUTO-PROPULSION NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "01712: PEÇAS / ACESSÓRIOS ARMAMENTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 56057,
+    "Descrição do Item": "ESCOVA DE LIMPEZA DE ARMA , ESCOVA DE LIMPEZA DE ARMA NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "06944: ESCOVA DE LIMPEZA DE ARMA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 60623,
+    "Descrição do Item": "SILENCIADOR DE ARMA , SILENCIADOR DE ARMA NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "12058: SILENCIADOR DE ARMA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 68004,
+    "Descrição do Item": "REDE DE NEBLINA , REDE DE CAMUFLAGEM 1 NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1080: EQUIPAMENTOS DE CAMUFLAGEM E DE DISSIMULAÇÃO",
+    "PDM": "11501: REDE DE NEBLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 69078,
+    "Descrição do Item": "SABRE , SABRE NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "11873: SABRE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 99830,
+    "Descrição do Item": "ARMA DE FOGO DE PEQUENO PORTE - REVÓLVER / PISTOLA , ARMA DE FOGO DE PEQUENO PORTE - REVOLVER NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "02995: ARMA DE FOGO DE PEQUENO PORTE - REVÓLVER / PISTOLA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 99848,
+    "Descrição do Item": "ARMA DE FOGO - EMPUNHÁVEL - MÉDIO PORTE , ARMA DE FOGO - EMPUNHAVEL - MEDIO PORTE NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "02994: ARMA DE FOGO - EMPUNHÁVEL - MÉDIO PORTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 99856,
+    "Descrição do Item": "CABO PARA ARMA DE FOGO , CABO PARA ARMA DE FOGO NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "04050: CABO PARA ARMA DE FOGO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 103128,
+    "Descrição do Item": "SISTEMA DE LIMPEZA / MANUTENCAO DE MATERIAL BELICO PORTATIL , SISTEMA DE LIMPEZA / MANUTENCAO DE MATER NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "12124: SISTEMA DE LIMPEZA / MANUTENCAO DE MATERIAL BELICO PORTATIL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 103268,
+    "Descrição do Item": "PEÇAS / COMPONENTES CANHÃO , CANHAO NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1020: ARMAS DE FOGO DE CALIBRE ACIMA DE 125MM ATÉ 150MM",
+    "PDM": "04419: PEÇAS / COMPONENTES CANHÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 113352,
+    "Descrição do Item": "COMPONENTE / SOBRESSALENTE USO MILITAR , SOBRESSALENTE - USO MILITAR NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "12172: COMPONENTE / SOBRESSALENTE  USO MILITAR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 136344,
+    "Descrição do Item": "CARREGADOR PARA MUNIÇÃO , CARREGADOR METALICO - PISTOLA NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1010: ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATÉ 75MM",
+    "PDM": "04570: CARREGADOR PARA MUNIÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150877,
+    "Descrição do Item": "PEÇAS / ACESSÓRIOS ARMAMENTO , PEÇAS / ACESSÓRIOS ARMAMENTO NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "01712: PEÇAS / ACESSÓRIOS ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150913,
+    "Descrição do Item": "ARMA NÃO LETAL , ARMA NÃO LETAL NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "16657: ARMA NÃO LETAL",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 151015,
+    "Descrição do Item": "ESPARGIDOR DEFENSIVO , ESPARGIDOR DEFENSIVO NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1040: ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÍMICA",
+    "PDM": "17996: ESPARGIDOR DEFENSIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191005,
+    "Descrição do Item": "ARMA NÃO LETAL , ARMAS DE FOGO DE CALIBRE ATÉ 30MM NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "16657: ARMA NÃO LETAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191010,
+    "Descrição do Item": "ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATÉ 75MM , ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM A NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1010: ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATÉ 75MM",
+    "PDM": "16658: ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATÉ 75MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191015,
+    "Descrição do Item": "ARMAS DE FOGO DE CALIBRE ACIMA DE 75MM ATÉ 125MM , ARMAS DE FOGO DE CALIBRE ACIMA DE 75MM A NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1015: ARMAS DE FOGO DE CALIBRE ACIMA DE 75MM ATÉ 125MM",
+    "PDM": "16659: ARMAS DE FOGO DE CALIBRE ACIMA DE 75MM ATÉ 125MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191020,
+    "Descrição do Item": "ARMAS DE FOGO DE CALIBRE ACIMA DE 125MM ATÉ 150MM , ARMAS DE FOGO DE CALIBRE ACIMA DE 125MM NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1020: ARMAS DE FOGO DE CALIBRE ACIMA DE 125MM ATÉ 150MM",
+    "PDM": "16660: ARMAS DE FOGO DE CALIBRE ACIMA DE 125MM ATÉ 150MM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191025,
+    "Descrição do Item": "ARMAS DE FOGO DE CALIBRE ACIMA DE 150MM ATÉ 200MM , ARMAS DE FOGO DE CALIBRE ACIMA DE 150MM NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1025: ARMAS DE FOGO DE CALIBRE ACIMA DE 150MM ATÉ 200MM",
+    "PDM": "16661: ARMAS DE FOGO DE CALIBRE ACIMA DE 150MM ATÉ 200MM",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191030,
+    "Descrição do Item": "ARMAS DE FOGO DE CALIBRE ACIMA DE 200MM ATÉ 300MM , ARMAS DE FOGO DE CALIBRE ACIMA DE 200MM NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1030: ARMAS DE FOGO DE CALIBRE ACIMA DE 200MM ATÉ 300MM",
+    "PDM": "16662: ARMAS DE FOGO DE CALIBRE ACIMA DE 200MM ATÉ 300MM",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191035,
+    "Descrição do Item": "ARMAS DE FOGO DE CALIBRE ACIMA DE 300MM , ARMAS DE FOGO DE CALIBRE ACIMA DE 300MM NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1035: ARMAS DE FOGO DE CALIBRE ACIMA DE 300MM",
+    "PDM": "16663: ARMAS DE FOGO DE CALIBRE ACIMA DE 300MM",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191040,
+    "Descrição do Item": "ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÍMICA , ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÍMI NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1040: ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÍMICA",
+    "PDM": "16664: ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÍMICA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191045,
+    "Descrição do Item": "LANÇADORES DE TORPEDOS E DE BOMBAS DE PROFUNDIDADE , LANÇADORES DE TORPEDOS E DE BOMBAS DE PR NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1045: LANÇADORES DE TORPEDOS E DE BOMBAS DE PROFUNDIDADE",
+    "PDM": "16665: LANÇADORES DE TORPEDOS E DE BOMBAS DE PROFUNDIDADE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191055,
+    "Descrição do Item": "LANÇADORES DE FOGUETES E PIROTÉCNICOS , LANÇADORES DE FOGUETES E PIROTÉCNICOS NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1055: LANÇADORES DE FOGUETES E PIROTÉCNICOS",
+    "PDM": "16666: LANÇADORES DE FOGUETES E PIROTÉCNICOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191070,
+    "Descrição do Item": "REDES SUBMARINAS DE DEFESA DE PORTOS , REDES SUBMARINAS DE DEFESA DE PORTOS NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1070: REDES SUBMARINAS DE DEFESA DE PORTOS",
+    "PDM": "16667: REDES SUBMARINAS DE DEFESA DE PORTOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191075,
+    "Descrição do Item": "EQUIPAMENTOS DE DESMAGNETIZAÇÃO E DE VARREDURA DE MINAS , EQUIPAMENTOS DE DESMAGNETIZAÇÃO E DE VAR NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1075: EQUIPAMENTOS DE DESMAGNETIZAÇÃO E DE VARREDURA DE MINAS",
+    "PDM": "16668: EQUIPAMENTOS DE DESMAGNETIZAÇÃO E DE VARREDURA DE MINAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191080,
+    "Descrição do Item": "ACESSÓRIO/EQUIPAMENTO CAMUFLAGEM E DISSIMULAÇÃO , EQUIPAMENTOS DE CAMUFLAGEM E DE DISSIMUL NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1080: EQUIPAMENTOS DE CAMUFLAGEM E DE DISSIMULAÇÃO",
+    "PDM": "16669: ACESSÓRIO/EQUIPAMENTO CAMUFLAGEM E DISSIMULAÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191090,
+    "Descrição do Item": "CONJUNTOS INTERCAMBIÁVEIS DE DUAS OU MAIS CLASSES , CONJUNTOS INTERCAMBIÁVEIS DE DUAS OU MAI NOME",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1090: CONJUNTOS INTERCAMBIÁVEIS DE DUAS OU MAIS CLASSES",
+    "PDM": "16670: CONJUNTOS INTERCAMBIÁVEIS DE DUAS OU MAIS CLASSES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227483,
+    "Descrição do Item": "REFORÇADOR TIRO FESTIM , MATERIAL AÇO FLEXÍVEL, TIPO ESPIRAL, FUNÇÃO BLOQUEAR SAÍDA CANO ARMA, FIM MANTER PRESSÃO, APLICAÇÃO FUZIL CALIBRE 5,56 MM/MODELO M16 A 2",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13799: REFORÇADOR TIRO FESTIM",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227485,
+    "Descrição do Item": "MOLA EJETOR , MATERIAL AÇO FLEXÍVEL, TIPO ESPIRAL, FUNÇÃO PERMITIR MOVIMENTO EJETOR, APLICAÇÃO SISTEMA EXTRAÇÃO CARABINA CALIBRE 5,56 MM /",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13800: MOLA EJETOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227486,
+    "Descrição do Item": "EJETOR , MATERIAL AÇO CARBONO, FUNÇÃO LIBERAR CÁPSULA DEFLAGRADA DA GARRA DE EJEÇÃO, APLICAÇÃO SISTEMA TOMADA GASES CARABINA CALIBRE 5,56 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13801: EJETOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227487,
+    "Descrição do Item": "PINO SEGURANÇA MIRA , MATERIAL AÇO CARBONO, FUNÇÃO FIXAR REGULAGEM MIRA DIANTEIRA, APLICAÇÃO SISTEMA PONTARIA CARABINA CALIBRE 5,56 MM/ MODELO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13802: PINO SEGURANÇA MIRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227488,
+    "Descrição do Item": "PINO TUBO TOMADA GÁS , MATERIAL AÇO CARBONO, FUNÇÃO FIXAR TUBO DE GÁS, APLICAÇÃO SISTEMA TOMADA GASES CARABINA CALIBRE 5,56 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13803: PINO TUBO TOMADA GÁS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227505,
+    "Descrição do Item": "ANEL FERROLHO , MATERIAL AÇO, FUNÇÃO VEDAR GASES DO FERROLHO, APLICAÇÃO SISTEMA ALIMENTAÇÃO CARABINA CALIBRE 5,56 MM/",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13794: ANEL FERROLHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227506,
+    "Descrição do Item": "CHAVE FERROLHO , MATERIAL AÇO CARBONO, FUNÇÃO FIXAR CABEÇA DO FERROLHO AO FERROLHO, APLICAÇÃO SISTEMA ALIMENTAÇÃO CARABINA CALIBRE 5,56 MM/",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13795: CHAVE FERROLHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227507,
+    "Descrição do Item": "EXTRATOR CÁPSULA , MATERIAL AÇO CARBONO, TIPO GARRA, TIPO ACIONAMENTO POR MOLA, FUNÇÃO EXTRAIR CÁPSULA DEFLAGRADA INTERIOR DA CÂMARA, APLICAÇÃO SISTEMA EXTRAÇÃO CARABINA CALIBRE 5,56 MM/",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13796: EXTRATOR CÁPSULA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227508,
+    "Descrição do Item": "PERCUSSOR , MATERIAL AÇO, TIPO HASTE, FUNÇÃO ACIONAR ESPOLETA DA MUNIÇÃO, APLICAÇÃO SISTEMA DISPARO CARABINA CALIBRE 5,56MM/",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13810: PERCUSSOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227510,
+    "Descrição do Item": "INSERSOR MOLA EXTRATOR , MATERIAL BORRACHA, TIPO CALÇO, FUNÇÃO FIXAR MOLA DO EXTRATOR, APLICAÇÃO SISTEMA EXTRAÇÃO CARABINA CALIBRE 5,56 MM/",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13809: INSERSOR MOLA EXTRATOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227511,
+    "Descrição do Item": "MOLA EXTRATOR , MATERIAL AÇO FLEXÍVEL, TIPO ESPIRAL, FUNÇÃO ACIONAR EXTRATOR, APLICAÇÃO SISTEMA EXTRAÇÃO CARABINA CALIBRE 5,56 MM/",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13808: MOLA EXTRATOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 227523,
+    "Descrição do Item": "TUBO TOMADA GÁS , MATERIAL AÇO RÍGIDO, FUNÇÃO ENCAMINHAR GASES RESULTANTES CÁPSULA DEFLAGRADA, APLICAÇÃO SISTEMA TOMADA GASES ALIMENTAÇÃO CARABINA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13797: TUBO TOMADA GÁS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 230202,
+    "Descrição do Item": "MOLA RECUPERADORA , MATERIAL MOLA ESPIRAL AÇO FLEXÍVEL, COMPONENTES MOLA ESPIRAL, GUIA MOLA ESPIRAL, ANÉIS E PINOS, MATERIAL GUIA MOLA ESPIRAL AÇO, MATERIAL ANEL PLÁSTICO, MATERIAL PINO AÇO, TIPO CABEÇA PINO CHATA, APLICAÇÃO SISTEMA DE ALIMENTAÇÃO DA SUBMETRALHADORA HK 5A5",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14112: MOLA RECUPERADORA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 230207,
+    "Descrição do Item": "EMPUNHADURA METRALHADORA , MATERIAL PLÁSTICO ENDURECIDO, COMPONENTES MECANISMO DE DISPARO E SELETOR DE 4 POSIÇÕES, APLICAÇÃO SISTEMA DE DISPARO DA SUBMETRALHADORA HK MP5A5",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14115: EMPUNHADURA METRALHADORA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 230208,
+    "Descrição do Item": "EXTRATOR CÁPSULA , MATERIAL AÇO ENDURECIDO, TIPO GARRA, TIPO ACIONAMENTO POR MOLA, FUNÇÃO EXTRAIR CÁPSULA DEFLAGRADA INTERIOR DA CÂMARA, APLICAÇÃO SISTEMA DE EXTRAÇÃO DA SUBMETRALHADORA HK MP5A5",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13796: EXTRATOR CÁPSULA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 230217,
+    "Descrição do Item": "MOLA EXTRATOR , MATERIAL AÇO FLEXÍVEL, TIPO ESPIRAL, FUNÇÃO ACIONAR EXTRATOR, APLICAÇÃO SISTEMA DE EXTRAÇÃO DA SUBMETRALHADORA HK MP5A5",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13808: MOLA EXTRATOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 230259,
+    "Descrição do Item": "MOLA PERCUSSOR , MATERIAL AÇO FLEXÍVEL, FUNÇÃO RETORNAR PERCUSSOR À POSIÇÃO INICIAL, APLICAÇÃO SISTEMA DE DISPARO DA SUBMETRALHADORA HK MP5A5, TIPO ESPIRAL",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14123: MOLA PERCUSSOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 230260,
+    "Descrição do Item": "PERCUSSOR , MATERIAL AÇO, TIPO HASTE, FUNÇÃO ACIONAR A ESPOLETA DO CARTUCHO, APLICAÇÃO SISTEMA DE DISPARO DA SUBMETRALHADORA HK MP5A5",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13810: PERCUSSOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 230261,
+    "Descrição do Item": "SUPORTE ROLETE , MATERIAL AÇO, FUNÇÃO FIXAR ROLETE NA CABEÇA DO FERROLHO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14129: SUPORTE ROLETE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 230262,
+    "Descrição do Item": "GUARDA-MÃO SUBMETRALHADORA , MATERIAL PLÁSTICO INJETADO, APLICAÇÃO SISTEMA DE EMPUNHADURA DA SUBMETRALHADORA HK MP5A5",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14124: GUARDA-MÃO SUBMETRALHADORA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 230263,
+    "Descrição do Item": "BANDOLEIRA , MATERIAL LONA, APLICAÇÃO SISTEMA DE TRANSPORTE DA SUBMETRALHADORA HK MP5A5",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14125: BANDOLEIRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 230576,
+    "Descrição do Item": "FACA OPERAÇÃO TÁTICA , MATERIAL LÂMINA AÇO CARBONO (LIGA DO TIPO SIGO), TÊMPERA LÂMINA 58 HRC, APLICAÇÃO COMANDO OPERAÇÕES TÁTICAS, CARACTERÍSTICAS ADICIONAIS DESBASTE DO FIO TIPO HOLLOW GROUND/DESBASTE PARTE, MATERIAL GUARDA LATÃO, MATERIAL POMO LATÃO, MATERIAL CABO MADEIRA, MATERIAL BAINHA EXTERIOR COURO, COR BAINHA PRETA, COMPRIMENTO FIO LÂMINA 20 CM, COMPRIMENTO CABO 12,50 CM, ESPESSURA LÂMINA 5 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "14174: FACA OPERAÇÃO TÁTICA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 233416,
+    "Descrição do Item": "EXTRATOR CÁPSULA , MATERIAL AÇO ENDURECIDO, TIPO GARRA, TIPO ACIONAMENTO POR MOLA, FUNÇÃO EXTRAIR CÁPSULA DEFLAGRADA INTERIOR DA CÂMARA, APLICAÇÃO PISTOLA TAURUS - MOD.PT92AF",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13796: EXTRATOR CÁPSULA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 233417,
+    "Descrição do Item": "MOLA EXTRATOR , MATERIAL AÇO FLEXÍVEL, TIPO ESPIRAL, FUNÇÃO ACIONAR EXTRATOR, APLICAÇÃO PISTOLA TAURUS - MOD.PT92AF",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13808: MOLA EXTRATOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 233419,
+    "Descrição do Item": "MOLA PERCUSSOR , MATERIAL AÇO FLEXÍVEL, FUNÇÃO RETORNAR PERCUSSOR À POSIÇÃO INICIAL, APLICAÇÃO PISTOLA TAURUS - MOD.PT92AF, TIPO ESPIRAL",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14123: MOLA PERCUSSOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 233420,
+    "Descrição do Item": "PERCUSSOR , MATERIAL AÇO, TIPO HASTE, FUNÇÃO ACIONAR A ESPOLETA DO CARTUCHO, APLICAÇÃO PISTOLA TAURUS - MOD.PT92AF",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13810: PERCUSSOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 235867,
+    "Descrição do Item": "MOLA ARMADILHA PISTOLA , MATERIAL AÇO FLEXÍVEL, REFERÊNCIA PISTOLA PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14928: MOLA ARMADILHA PISTOLA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 235868,
+    "Descrição do Item": "CANO PISTOLA , MATERIAL AÇO ENDURECIDO, REFERÊNCIA PISTOLA PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14930: CANO PISTOLA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 235890,
+    "Descrição do Item": "MERGULHADOR BLOCO TRANCAMENTO , TIPO PINO, MATERIAL AÇO, APLICAÇÃO PISTOLA TAURUS PT92AF, FINALIDADE FIXAÇÃO DO BLOCO DE TRANCAMENTO JUNTO AO SEU ALO -",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14934: MERGULHADOR BLOCO TRANCAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236281,
+    "Descrição do Item": "BLOCO TRANCAMENTO , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO FIXAR CANO DA PISTOLA NA ARMAÇÃO DURANTE O DISPARO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14981: BLOCO TRANCAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236284,
+    "Descrição do Item": "EJETOR , MATERIAL AÇO CARBONO, FUNÇÃO LIBERAR CÁPSULA DEFLAGRADA DA GARRA DE EJEÇÃO, APLICAÇÃO PISTOLA TAURUS 9MM, REFERÊNCIA PISTOLA TAURUS PT92AF",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13801: EJETOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236289,
+    "Descrição do Item": "MOLA RECUPERADORA , MATERIAL MOLA ESPIRAL AÇO FLEXÍVEL, APLICAÇÃO PISTOLA TAURUS 9MM, REFERÊNCIA PISTOLA TAURUS PT92AF",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14112: MOLA RECUPERADORA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236292,
+    "Descrição do Item": "TIRANTE GATILHO , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO ACIONAR O MECANISMO DA ARMADILHA LEVANDO O CÃO À",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14983: TIRANTE GATILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236294,
+    "Descrição do Item": "MOLA TIRANTE GATILHO , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO PRESSIONAR O TIRANTE DO GATILHO MANTENDO-O EM SUA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14985: MOLA TIRANTE GATILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236297,
+    "Descrição do Item": "ARMADILHA , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO ARMAR O CÃO,DEIXANDO-O À RETAGUARDA PRONTO PARA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14986: ARMADILHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236302,
+    "Descrição do Item": "CÃO , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO ACIONAR O PERCUSSOR PARA DETONAR A ESPOLETA DO CAR",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14988: CÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236303,
+    "Descrição do Item": "IMPULSOR TRAVA PERCUSSOR , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO ACIONAR A TRAVA DO PERCUSSOR LIBERANDO-O NO MOMEN-",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14990: IMPULSOR TRAVA PERCUSSOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236307,
+    "Descrição do Item": "MOLA GATILHO , MATERIAL AÇO FLEXÍVEL, FUNÇÃO PROMOVER O RETORNO DO GATILHO A SUA POSIÇÃO INI-, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14991: MOLA GATILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236308,
+    "Descrição do Item": "MOLA RETÉM FERROLHO , MATERIAL AÇO FLEXÍVEL, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO ACIONAR O RETÉM DO FERROLHO.",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14992: MOLA RETÉM FERROLHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236309,
+    "Descrição do Item": "MOLA MERGULHADOR REGISTRO SEGURANÇA , MATERIAL AÇO FLEXÍVEL, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO PRESSIONAR O MERGULHADOR DE ENCONTRO COM O REGIS-",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14995: MOLA MERGULHADOR REGISTRO SEGURANÇA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236313,
+    "Descrição do Item": "FUNDO CARREGADOR , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO CONFINAR NO INTERIOR DO CARREGADOR O CONJUNTO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14996: FUNDO CARREGADOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236314,
+    "Descrição do Item": "PLACA PUNHO , MATERIAL MADEIRA TRABALHADA, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO FACILITAR A EMPUNHADURA E EVITAR O ESCORREGAMENTO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14998: PLACA PUNHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236325,
+    "Descrição do Item": "PARAFUSO PLACA PUNHO , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS PT92AF, FUNÇÃO FIXAÇÃO DA PLACA DO PUNHO NA PISTOLA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14999: PARAFUSO PLACA PUNHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236330,
+    "Descrição do Item": "BUCHA PLACA PUNHO , MATERIAL AÇO COM ROSCA INTERNA, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO PROMOVER A FIXAÇÃO DS PLACA DO PUNHO DA PISTOLA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15001: BUCHA PLACA PUNHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236333,
+    "Descrição do Item": "CARREGADOR MUNIÇÃO , MATERIAL AÇO, TIPO COFRE, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO ALOJAR CARTUCHOS DE MUNIÇÃOE MUNICIAR A ARMA, QUANTIDADE MUNIÇÃO 15 CARTUCHOS",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15002: CARREGADOR MUNIÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236337,
+    "Descrição do Item": "ESTOJO PORTA CARREGADOR , MATERIAL NAILON, DIMENSÕES 4,5 X 15 X 5 CM, COR VERDE OLIVA, CAPACIDADE 02 CARREGADORES, APLICAÇÃO FUZIL, CARACTERÍSTICAS ADICIONAIS FECHO COM BOTÃO DE PRESSÃO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15003: ESTOJO PORTA CARREGADOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236338,
+    "Descrição do Item": "ESTOJO PORTA CARREGADOR , MATERIAL LONA, DIMENSÕES 4,5 X 15 X 5 CM, COR VERDE OLIVA, CAPACIDADE 02 CARREGADORES, APLICAÇÃO FUZIL, CARACTERÍSTICAS ADICIONAIS FECHO COM BOTÃO DE PRESSÃO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15003: ESTOJO PORTA CARREGADOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236415,
+    "Descrição do Item": "MOLA CÃO , MATERIAL ESPIRAL EM AÇO FLEXÍVEL, REFERÊNCIA PISTOLA TAURUS PT92AF, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO PRESSIONAR O RETORNO DO CÃO PARA QUE ESTE POSSA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15007: MOLA CÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236850,
+    "Descrição do Item": "CÃO , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS PT92C, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO ACIONAR O PERCUSSOR PARA DETONAR A ESPOLETA DO CAR",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14988: CÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236862,
+    "Descrição do Item": "CANO PISTOLA , MATERIAL AÇO ENDURECIDO, REFERÊNCIA PISTOLA PT92C, APLICAÇÃO PISTOLA TAURUS 9MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14930: CANO PISTOLA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236864,
+    "Descrição do Item": "BLOCO TRANCAMENTO , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS PT92C, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO FIXAR CANO DA PISTOLA NA ARMAÇÃO DURANTE O DISPARO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14981: BLOCO TRANCAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236882,
+    "Descrição do Item": "MOLA RETÉM FERROLHO , MATERIAL AÇO FLEXÍVEL, REFERÊNCIA PISTOLA PT92C, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO ACIONAR O RETÉM DO FERROLHO.",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14992: MOLA RETÉM FERROLHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236883,
+    "Descrição do Item": "MOLA MERGULHADOR REGISTRO SEGURANÇA , MATERIAL AÇO FLEXÍVEL, REFERÊNCIA PISTOLA PT92C, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO PRESSIONAR O MERGULHADOR DE ENCONTRO COM O REGIS-",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14995: MOLA MERGULHADOR REGISTRO SEGURANÇA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236917,
+    "Descrição do Item": "MOLA EXTRATOR , MATERIAL AÇO FLEXÍVEL, TIPO ESPIRAL, FUNÇÃO ACIONAR EXTRATOR, APLICAÇÃO PISTOLA TAURUS - MOD.PT92C",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13808: MOLA EXTRATOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236924,
+    "Descrição do Item": "EXTRATOR CÁPSULA , MATERIAL AÇO ENDURECIDO, TIPO GARRA, TIPO ACIONAMENTO POR MOLA, FUNÇÃO EXTRAIR CÁPSULA DEFLAGRADA INTERIOR DA CÂMARA, APLICAÇÃO PISTOLA TAURUS - MOD.PT92C",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13796: EXTRATOR CÁPSULA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236932,
+    "Descrição do Item": "MOLA PERCUSSOR , MATERIAL AÇO FLEXÍVEL, FUNÇÃO RETORNAR PERCUSSOR À POSIÇÃO INICIAL, APLICAÇÃO PISTOLA TAURUS - MOD.PT92C, TIPO ESPIRAL",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14123: MOLA PERCUSSOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236933,
+    "Descrição do Item": "MOLA RECUPERADORA , MATERIAL MOLA ESPIRAL AÇO FLEXÍVEL, APLICAÇÃO PISTOLA TAURUS 9MM, REFERÊNCIA PISTOLA TAURUS PT92C",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14112: MOLA RECUPERADORA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236946,
+    "Descrição do Item": "MOLA TIRANTE GATILHO , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS PT92C, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO PRESSIONAR O TIRANTE DO GATILHO MANTENDO-O EM SUA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14985: MOLA TIRANTE GATILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236949,
+    "Descrição do Item": "MOLA CÃO , MATERIAL ESPIRAL EM AÇO FLEXÍVEL, REFERÊNCIA PISTOLA PT92C, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO PRESSIONAR O RETORNO DO CÃO PARA QUE ESTE POSSA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15007: MOLA CÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 236952,
+    "Descrição do Item": "MOLA ARMADILHA PISTOLA , MATERIAL AÇO FLEXÍVEL, REFERÊNCIA PISTOLA PT92C, APLICAÇÃO PISTOLA TAURUS 9MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14928: MOLA ARMADILHA PISTOLA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237062,
+    "Descrição do Item": "ARMADILHA , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS PT92C, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO ARMAR O CÃO,DEIXANDO-O À RETAGUARDA PRONTO PARA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14986: ARMADILHA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237063,
+    "Descrição do Item": "MOLA GATILHO , MATERIAL AÇO FLEXÍVEL, FUNÇÃO PROMOVER O RETORNO DO GATILHO A SUA POSIÇÃO INI-, REFERÊNCIA PISTOLA TAURUS PT92C, APLICAÇÃO PISTOLA TAURUS 9MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14991: MOLA GATILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237122,
+    "Descrição do Item": "MERGULHADOR BLOCO TRANCAMENTO , TIPO PINO, MATERIAL AÇO, APLICAÇÃO PISTOLA TAURUS - MOD.PT92C, FINALIDADE FIXAÇÃO DO BLOCO DE TRANCAMENTO JUNTO AO SEU ALO -",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14934: MERGULHADOR BLOCO TRANCAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237124,
+    "Descrição do Item": "IMPULSOR TRAVA PERCUSSOR , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS - MOD.PT92C, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO ACIONAR A TRAVA DO PERCUSSOR LIBERANDO-O NO MOMEN-",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14990: IMPULSOR TRAVA PERCUSSOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237125,
+    "Descrição do Item": "FUNDO CARREGADOR , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS - MOD.PT92C, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO CONFINAR NO INTERIOR DO CARREGADOR O CONJUNTO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14996: FUNDO CARREGADOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237166,
+    "Descrição do Item": "PERCUSSOR , MATERIAL AÇO, TIPO HASTE, FUNÇÃO ACIONAR A ESPOLETA DO CARTUCHO, APLICAÇÃO PISTOLA TAURUS - MOD.PT92C",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13810: PERCUSSOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237167,
+    "Descrição do Item": "PLACA PUNHO , MATERIAL MADEIRA TRABALHADA, REFERÊNCIA PISTOLA TAURUS - MOD. PT92C, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO FACILITAR A EMPUNHADURA E EVITAR O ESCORREGAMENTO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14998: PLACA PUNHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237237,
+    "Descrição do Item": "BUCHA PLACA PUNHO , MATERIAL AÇO COM ROSCA INTERNA, REFERÊNCIA PISTOLA TAURUS PT92C, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO PROMOVER A FIXAÇÃO DS PLACA DO PUNHO DA PISTOLA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15001: BUCHA PLACA PUNHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237244,
+    "Descrição do Item": "PARAFUSO PLACA PUNHO , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS PT92C, APLICAÇÃO PISTOLA TAURUS PT92C, FUNÇÃO FIXAÇÃO DA PLACA DO PUNHO NA PISTOLA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14999: PARAFUSO PLACA PUNHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237246,
+    "Descrição do Item": "CARREGADOR MUNIÇÃO , MATERIAL AÇO, TIPO COFRE, REFERÊNCIA PISTOLA TAURUS PT92C, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO ALOJAR CARTUCHOS DE MUNIÇÃOE MUNICIAR A ARMA, QUANTIDADE MUNIÇÃO 15 CARTUCHOS",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15002: CARREGADOR MUNIÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237313,
+    "Descrição do Item": "MOLA REGISTRO SEGURANÇA PISTOLA , MATERIAL AÇO FLEXÍVEL, REFERÊNCIA PISTOLA PT92AF, APLICAÇÃO PISTOLA TAURUS",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15115: MOLA REGISTRO SEGURANÇA PISTOLA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237314,
+    "Descrição do Item": "MOLA REGISTRO SEGURANÇA PISTOLA , MATERIAL AÇO FLEXÍVEL, REFERÊNCIA PISTOLA PT92C, APLICAÇÃO PISTOLA TAURUS",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15115: MOLA REGISTRO SEGURANÇA PISTOLA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237376,
+    "Descrição do Item": "EJETOR , MATERIAL AÇO CARBONO, FUNÇÃO LIBERAR CÁPSULA DEFLAGRADA DA GARRA DE EJEÇÃO, APLICAÇÃO PISTOLA TAURUS 9MM, REFERÊNCIA PISTOLA TAURUS 92 C",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "13801: EJETOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237428,
+    "Descrição do Item": "BUCHA DA PLACA PUNHO ESQUERDO , MATERIAL AÇO COM ROSCA INTERNA, FUNÇÃO PROMOVER A FIXAÇÃO DA MOLA DO REGISTRO DE, APLICAÇÃO PISTOLA TAURUS PT92AF",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15130: BUCHA DA PLACA PUNHO ESQUERDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237429,
+    "Descrição do Item": "BUCHA DA PLACA PUNHO ESQUERDO , MATERIAL AÇO COM ROSCA INTERNA, FUNÇÃO PROMOVER A FIXAÇÃO DA MOLA DO REGISTRO DE, APLICAÇÃO PISTOLA TAURUS PT92C",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15130: BUCHA DA PLACA PUNHO ESQUERDO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 237969,
+    "Descrição do Item": "TIRANTE GATILHO , MATERIAL AÇO, REFERÊNCIA PISTOLA TAURUS PT92C, APLICAÇÃO PISTOLA TAURUS 9MM, FUNÇÃO ACIONAR O MECANISMO DA ARMADILHA LEVANDO O CÃO À",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14983: TIRANTE GATILHO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240444,
+    "Descrição do Item": "KIT CONVERSÃO , MATERIAL CANO AÇO ENDURECIDO, CALIBRE 9MM, COMPRIMENTO CANO 127 MM, APLICAÇÃO PISTOLA MARCA TAURUS, MODELO PT92AF, TIPO MUNIÇÃO TINTA, TIPO USO TREINAMENTO DE TIRO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15402: KIT CONVERSÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 240453,
+    "Descrição do Item": "CONJUNTO CONVERSÃO MUNIÇÃO , COMPOSIÇÃO BLOCO DE TRANCAMENTO SIMUNITION, CHAVE TIPO ALLEN,, APLICAÇÃO SUBMETRALHADORA MARCA HK, MODELO MP5",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15404: CONJUNTO CONVERSÃO MUNIÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 246768,
+    "Descrição do Item": "PERCINTA , MATERIAL POLIPROPILENO, COR VERDE OLIVA, LARGURA 29 MM, ESPESSURA 1/8 POL, CARACTERÍSTICAS ADICIONAIS BORDAS SALIENTES ABAULADAS",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1090: CONJUNTOS INTERCAMBIÁVEIS DE DUAS OU MAIS CLASSES",
+    "PDM": "15813: PERCINTA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 247157,
+    "Descrição do Item": "REDE DE NEBLINA , MATERIAL SEDA E NYLON, COMPRIMENTO 7 M, LARGURA 2,5 M, TAMANHO TRAMA 20 MM, COR PRETA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1080: EQUIPAMENTOS DE CAMUFLAGEM E DE DISSIMULAÇÃO",
+    "PDM": "11501: REDE DE NEBLINA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 247158,
+    "Descrição do Item": "REDE DE NEBLINA , MATERIAL SEDA E NYLON, COMPRIMENTO 14 M, LARGURA 3 M, TAMANHO TRAMA 32 MM, COR PRETA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1080: EQUIPAMENTOS DE CAMUFLAGEM E DE DISSIMULAÇÃO",
+    "PDM": "11501: REDE DE NEBLINA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 250666,
+    "Descrição do Item": "ESTOJO LIMPEZA ARMAMENTO , APLICAÇÃO REVÓLVER/PISTOLA, COMPONENTES C/03 ESCOVAS(01 NAILON,01 LATÃO E 01 FELTRO)/SOL-",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "16109: ESTOJO LIMPEZA ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263978,
+    "Descrição do Item": "ANEL VEDAÇÃO ARMAMENTO , MATERIAL METAL, DIÂMETRO 21,50 MM, APLICAÇÃO MORTEIRO 120 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "17586: ANEL VEDAÇÃO ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263979,
+    "Descrição do Item": "ANEL VEDAÇÃO ARMAMENTO , MATERIAL METAL, DIÂMETRO 17,17 MM, APLICAÇÃO MORTEIRO 120 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "17586: ANEL VEDAÇÃO ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263980,
+    "Descrição do Item": "ANEL VEDAÇÃO ARMAMENTO , MATERIAL METAL, DIÂMETRO 33,05 MM, APLICAÇÃO MORTEIRO 120 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "17586: ANEL VEDAÇÃO ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263981,
+    "Descrição do Item": "ANEL VEDAÇÃO ARMAMENTO , MATERIAL METAL, DIÂMETRO 25,12 MM, APLICAÇÃO MORTEIRO 120 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "17586: ANEL VEDAÇÃO ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263982,
+    "Descrição do Item": "ANEL VEDAÇÃO ARMAMENTO , MATERIAL METAL, DIÂMETRO 266,07 MM, APLICAÇÃO MORTEIRO 120 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "17586: ANEL VEDAÇÃO ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263983,
+    "Descrição do Item": "ANEL VEDAÇÃO ARMAMENTO , MATERIAL METAL, DIÂMETRO 26,70 MM, APLICAÇÃO MORTEIRO 120 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "17586: ANEL VEDAÇÃO ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263987,
+    "Descrição do Item": "ANEL VEDAÇÃO ARMAMENTO , DIÂMETRO 21,50 MM, APLICAÇÃO RETÉM DO IMPULSOR DO MORTEIRO 120 MM, CARACTERÍSTICAS ADICIONAIS ELÁSTICO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "17586: ANEL VEDAÇÃO ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263990,
+    "Descrição do Item": "PARAFUSO ARMAMENTO , TIPO ALLEN CABEÇA CÔNICA, DIMENSÕES 16 X M6 X 1, APLICAÇÃO MORTEIRO 120 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "17587: PARAFUSO ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263991,
+    "Descrição do Item": "PARAFUSO ARMAMENTO , TIPO ALLEN SEM CABEÇA, DIMENSÕES 8 X M6 X 1, APLICAÇÃO MORTEIRO 120 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "17587: PARAFUSO ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263992,
+    "Descrição do Item": "PARAFUSO ARMAMENTO , TIPO ALLEN CABEÇA CILÍNDRICA, DIMENSÕES 24 X M8 X 1,25, APLICAÇÃO MORTEIRO 120 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "17587: PARAFUSO ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263993,
+    "Descrição do Item": "PARAFUSO ARMAMENTO , TIPO ALLEN CABEÇA CILÍNDRICA, DIMENSÕES 38 X M8 X 1,25, APLICAÇÃO MORTEIRO 120 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "17587: PARAFUSO ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 263994,
+    "Descrição do Item": "PARAFUSO ARMAMENTO , TIPO ALLEN CABEÇA CILÍNDRICA, DIMENSÕES 16 X M5 X 0,8, APLICAÇÃO MORTEIRO 120 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "17587: PARAFUSO ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 276414,
+    "Descrição do Item": "ESPARGIDOR DEFENSIVO , TIPO SPRAY, MATERIAL EMBALAGEM CILÍNDRICO DE ALUMÍNIO, PRINCÍPIO ATIVO AGENTE PIMENTA, ALCANCE 5 M, APLICAÇÃO TREINAMENTO MILITAR",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1040: ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÍMICA",
+    "PDM": "17996: ESPARGIDOR DEFENSIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 289371,
+    "Descrição do Item": "PARAFUSO ARMAMENTO , DIMENSÕES 57 X M16 X 2, MATERIAL AÇO, TIPO CABEÇA SEXTAVADA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "17587: PARAFUSO ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 289382,
+    "Descrição do Item": "PORCA ARMAMENTO , MATERIAL AÇO, DIMENSÕES 13 X M16 X 2, TIPO ROSCA MÉTRICA, FORMATO SEXTAVADA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "18369: PORCA ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291132,
+    "Descrição do Item": "PEÇAS / ACESSÓRIOS ARMAMENTO , MATERIAL AÇO, TIPO TRILHO, REFERÊNCIA FABRIL 219690, APLICAÇÃO CARABINA HK G36, CALIBRE 5,5 X 45 MM, CARACTERÍSTICAS ADICIONAIS ENCAIXE DE MIRA ÓPTICA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "01712: PEÇAS / ACESSÓRIOS ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 291133,
+    "Descrição do Item": "PEÇAS / ACESSÓRIOS ARMAMENTO , MATERIAL POLÍMERO, TIPO GUARDA-MÃO, REFERÊNCIA FABRIL 999018, APLICAÇÃO SUBMETRALHADORA HK MP5A5, CALIBRE 9 X 19 MM, CARACTERÍSTICAS ADICIONAIS COM LANTERNA MODELO 628",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "01712: PEÇAS / ACESSÓRIOS ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 300350,
+    "Descrição do Item": "CARREGADOR MUNIÇÃO , MATERIAL AÇO, TIPO COFRE, REFERÊNCIA PISTOLA TAURUS PT100, APLICAÇÃO PISTOLA TAURUS .40 S&W, FUNÇÃO ALOJAR CARTUCHOS DE MUNIÇÃOE MUNICIAR A ARMA, QUANTIDADE MUNIÇÃO 11 CARTUCHOS",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15002: CARREGADOR MUNIÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 304741,
+    "Descrição do Item": "ESPARGIDOR DEFENSIVO , TIPO SPRAY, MATERIAL EMBALAGEM ALUMÍNIO, PRINCÍPIO ATIVO AGENTE PIMENTA, ALCANCE 1,5 M, APLICAÇÃO TREINAMENTO MILITAR",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1040: ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÍMICA",
+    "PDM": "17996: ESPARGIDOR DEFENSIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 309082,
+    "Descrição do Item": "REDE DE NEBLINA , MATERIAL SEDA E NYLON, COMPRIMENTO 7 M, LARGURA 3 M, TAMANHO TRAMA 20 MM, COR PRETA, MODELO MIST NET, QUANTIDADE PRATELEIRAS 4 UN, APLICAÇÃO CAPTURA DE MORCEGO HEMATÓFAGO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1080: EQUIPAMENTOS DE CAMUFLAGEM E DE DISSIMULAÇÃO",
+    "PDM": "11501: REDE DE NEBLINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 339290,
+    "Descrição do Item": "ESTOJO PORTA CARREGADOR , MATERIAL COURO VACUM, DIMENSÕES 14 X 10 CM, COR BRANCO, CAPACIDADE 02 CARREGADORES, APLICAÇÃO PISTOLA TAURUS/BERETA 9MM, CARACTERÍSTICAS ADICIONAIS FECHO COM BOTÃO DE PRESSÃO, REBITES E GANCHO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15003: ESTOJO PORTA CARREGADOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 340542,
+    "Descrição do Item": "ESPARGIDOR DEFENSIVO , TIPO SPRAY, MATERIAL EMBALAGEM ALUMÍNIO, PRINCÍPIO ATIVO AGENTE PIMENTA, ALCANCE 1 M, APLICAÇÃO TREINAMENTO MILITAR",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1040: ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÍMICA",
+    "PDM": "17996: ESPARGIDOR DEFENSIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 355866,
+    "Descrição do Item": "ESTOJO PORTA CARREGADOR , MATERIAL POLÍMERO, DIMENSÕES 10 X 10,50 CM, COR PRETA, CAPACIDADE 02 CARREGADORES, APLICAÇÃO PISTOLA CALIBRE .40 E 9MM, CARACTERÍSTICAS ADICIONAIS FIXAÇÃO: ABAS EM FORMA DE PÁ/REBITES/TRAVA PRESSÃO",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15003: ESTOJO PORTA CARREGADOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 359171,
+    "Descrição do Item": "BANDOLEIRA , MATERIAL CADARÇO DE NYLON, APLICAÇÃO TRANSPORTE FUZIL M-16 A2",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14125: BANDOLEIRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 361337,
+    "Descrição do Item": "ESTOJO PORTA CARREGADOR , MATERIAL POLÍMERO, COR PRETA, CAPACIDADE 02 CARREGADORES, APLICAÇÃO CINTURA, CARACTERÍSTICAS ADICIONAIS CARREGADOR PISTOLA 380/SEM TRAVA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15003: ESTOJO PORTA CARREGADOR",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 376320,
+    "Descrição do Item": "BANDOLEIRA , MATERIAL NÁILON, COR VERDE-OLIVA, CARACTERÍSTICAS ADICIONAIS 3 PONTOS E OMBREIRA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14125: BANDOLEIRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 388553,
+    "Descrição do Item": "BANDOLEIRA , MATERIAL NÁILON, COR PRETA, CARACTERÍSTICAS ADICIONAIS 1 PONTO, PASSADORES ACW, CABO ELÁSTICO, TRAVA, LARGURA 1 1/2 POL",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14125: BANDOLEIRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 397480,
+    "Descrição do Item": "BANDOLEIRA , MATERIAL NÁILON, APLICAÇÃO ESPINGARDA BOITO PUMP CAL 12, COR PRETA, CARACTERÍSTICAS ADICIONAIS 3 PONTOS EMPUNHADURA PISTOL GRIP",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "14125: BANDOLEIRA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 398355,
+    "Descrição do Item": "ESPARGIDOR DEFENSIVO , TIPO SPRAY, MATERIAL EMBALAGEM CILÍNDRICO DE ALUMÍNIO, PRINCÍPIO ATIVO AGENTE RESINA VEGETAL, ALCANCE 3 M, APLICAÇÃO CONTROLE DE DISTÚRBIOS CIVIS",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1040: ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÍMICA",
+    "PDM": "17996: ESPARGIDOR DEFENSIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 398356,
+    "Descrição do Item": "ESPARGIDOR DEFENSIVO , TIPO SPRAY, MATERIAL EMBALAGEM CILÍNDRICO DE ALUMÍNIO, PRINCÍPIO ATIVO AGENTE RESINA VEGETAL COM PIGMENTO AMARELO, ALCANCE 3 M, APLICAÇÃO CONTROLE DE DISTÚRBIOS CIVIS",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1040: ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÍMICA",
+    "PDM": "17996: ESPARGIDOR DEFENSIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 398359,
+    "Descrição do Item": "ESPARGIDOR DEFENSIVO , TIPO SPRAY, MATERIAL EMBALAGEM CILÍNDRICO DE ALUMÍNIO, PRINCÍPIO ATIVO AGENTE RESINA VEGETAL COM SANGRE, ALCANCE 3 M, APLICAÇÃO CONTROLE DE DISTÚRBIOS CIVIS",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1040: ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÍMICA",
+    "PDM": "17996: ESPARGIDOR DEFENSIVO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 404598,
+    "Descrição do Item": "PEÇAS / ACESSÓRIOS ARMAMENTO , TIPO ALAVANCA DE DESMONTAGEM, REFERÊNCIA FABRIL 36123480, APLICAÇÃO PISTOLA TAURUS 24/7 - 40 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "01712: PEÇAS / ACESSÓRIOS ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 404599,
+    "Descrição do Item": "PEÇAS / ACESSÓRIOS ARMAMENTO , TIPO CUNJUNTO DE MOLA, REFERÊNCIA FABRIL 36100323, APLICAÇÃO PISTOLA TAURUS 24/7 - 40 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "01712: PEÇAS / ACESSÓRIOS ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 413765,
+    "Descrição do Item": "PEÇAS / ACESSÓRIOS ARMAMENTO , MATERIAL CARBONO, TIPO PUNHO COM CAPA PRETA, REFERÊNCIA FABRIL 26050080",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "01712: PEÇAS / ACESSÓRIOS ARMAMENTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 413766,
+    "Descrição do Item": "PEÇAS / ACESSÓRIOS ARMAMENTO , MATERIAL CARBONO, TIPO PUNHO COM CAPA PRETA, REFERÊNCIA FABRIL 26050080, APLICAÇÃO PISTOLA TAURUS",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "01712: PEÇAS / ACESSÓRIOS ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 413767,
+    "Descrição do Item": "PEÇAS / ACESSÓRIOS ARMAMENTO , MATERIAL CARBONO, TIPO CANO, REFERÊNCIA FABRIL 26004593, APLICAÇÃO PISTOLA TAURUS",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "01712: PEÇAS / ACESSÓRIOS ARMAMENTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 418826,
+    "Descrição do Item": "REDE DE NEBLINA , MATERIAL SEDA E NYLON, COMPRIMENTO 6 M, LARGURA 3 M, TAMANHO TRAMA 15 MM, COR PRETA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1080: EQUIPAMENTOS DE CAMUFLAGEM E DE DISSIMULAÇÃO",
+    "PDM": "11501: REDE DE NEBLINA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 418832,
+    "Descrição do Item": "REDE DE NEBLINA , MATERIAL SEDA E NYLON, COMPRIMENTO 12 M, LARGURA 2,5 M, TAMANHO TRAMA 15 MM, COR PRETA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1080: EQUIPAMENTOS DE CAMUFLAGEM E DE DISSIMULAÇÃO",
+    "PDM": "11501: REDE DE NEBLINA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 419781,
+    "Descrição do Item": "REDE DE NEBLINA , MATERIAL SEDA E NYLON, COMPRIMENTO 12 M, LARGURA 3 M, TAMANHO TRAMA 15 MM, COR PRETA",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1080: EQUIPAMENTOS DE CAMUFLAGEM E DE DISSIMULAÇÃO",
+    "PDM": "11501: REDE DE NEBLINA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 424831,
+    "Descrição do Item": "CARREGADOR MUNIÇÃO , MATERIAL AÇO, TIPO COFRE, APLICAÇÃO RIFLE 6 MM, QUANTIDADE MUNIÇÃO 10 CARTUCHOS",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1005: ARMAS DE FOGO DE CALIBRE ATÉ 30MM",
+    "PDM": "15002: CARREGADOR MUNIÇÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 438970,
+    "Descrição do Item": "FACA OPERAÇÃO TÁTICA , MATERIAL LÂMINA AÇO CARBONO (LIGA AISI 1070), TÊMPERA LÂMINA AUSTÊMPERA, APLICAÇÃO COMANDO OPERAÇÕES TÁTICAS, CARACTERÍSTICAS ADICIONAIS PARTES METÁLICAS PROTEGIDAS POR FOSFATIZAÇÃO, MATERIAL CABO POLIAMIDA, MATERIAL BAINHA EXTERIOR POLIAMIDA, COMPRIMENTO FIO LÂMINA 178 MM, ESPESSURA LÂMINA 4,50 MM",
+    "Grupo": "10: ARMAMENTO",
+    "Classe": "1095: ARMAMENTOS DIVERSOS",
+    "PDM": "14174: FACA OPERAÇÃO TÁTICA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  }
+]
