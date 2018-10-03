@@ -1,0 +1,227 @@
+[
+  {
+    "Código do Item": 485,
+    "Descrição do Item": "TANQUES DE COMBUSTIVEIS DE AERONAVES , TANQUES DE COMBUSTIVEIS DE AERONAVES NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1510: AERONAVES DE ASAS FIXAS",
+    "PDM": "12545: TANQUES DE COMBUSTIVEIS DE AERONAVES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46540,
+    "Descrição do Item": "PLANADORES COMPLETOS , PLANADORES COMPLETOS NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1540: PLANADORES",
+    "PDM": "10878: PLANADORES COMPLETOS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46566,
+    "Descrição do Item": "PEÇAS ESPECIAIS DE AERONAVES , PECAS ESPECIAIS DE AERONAVES NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1560: COMPONENTES ESTRUTURAIS DE AERONAVES",
+    "PDM": "10572: PEÇAS ESPECIAIS DE AERONAVES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46582,
+    "Descrição do Item": "GUIAS DE CABOS PARA AERONAVES , GUIAS DE CABOS PARA AERONAVES NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1560: COMPONENTES ESTRUTURAIS DE AERONAVES",
+    "PDM": "08134: GUIAS DE CABOS PARA AERONAVES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46590,
+    "Descrição do Item": "SUPORTES ESPECIAIS PARA AERONAVES , SUPORTES ESPECIAIS PARA AERONAVES NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1560: COMPONENTES ESTRUTURAIS DE AERONAVES",
+    "PDM": "12428: SUPORTES ESPECIAIS PARA AERONAVES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46604,
+    "Descrição do Item": "TANQUES DE COMBUSTIVEL FIXO DE AERONAVES , TANQUES DE COMBUSTIVEL FIXO DE AERONAVES NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1560: COMPONENTES ESTRUTURAIS DE AERONAVES",
+    "PDM": "12546: TANQUES DE COMBUSTIVEL FIXO DE AERONAVES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46612,
+    "Descrição do Item": "SISTEMAS DE ESCAPAMENTO DE AERONAVES , SISTEMAS DE ESCAPAMENTO DE AERONAVES NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1560: COMPONENTES ESTRUTURAIS DE AERONAVES",
+    "PDM": "12168: SISTEMAS DE ESCAPAMENTO DE AERONAVES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46620,
+    "Descrição do Item": "TANQUES AUXILIARES DE COMBUSTIVEL DE AERONAVES , TANQUES AUXILIARES DE COMBUSTIVEL DE AER NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1560: COMPONENTES ESTRUTURAIS DE AERONAVES",
+    "PDM": "12544: TANQUES AUXILIARES DE COMBUSTIVEL DE AERONAVES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 46639,
+    "Descrição do Item": "PILONES , PILONES NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1560: COMPONENTES ESTRUTURAIS DE AERONAVES",
+    "PDM": "10713: PILONES",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 102830,
+    "Descrição do Item": "HELICÓPTERO , HELICOPTERO NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1520: AERONAVES DE ASA ROTATIVAS",
+    "PDM": "08184: HELICÓPTERO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 116165,
+    "Descrição do Item": "AVIÃO , AVIAO NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1510: AERONAVES DE ASAS FIXAS",
+    "PDM": "03161: AVIÃO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 128589,
+    "Descrição do Item": "PEÇAS / ACESSÓRIOS AEROMODELO , AEROMODELO NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1550: AERONAVES TELEGUIADAS",
+    "PDM": "02137: PEÇAS / ACESSÓRIOS AEROMODELO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 135135,
+    "Descrição do Item": "PEÇA / COMPONENTE - AEROMODELO , PECA / COMPONENTE - AEROMODELO REBOCADOR NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1550: AERONAVES TELEGUIADAS",
+    "PDM": "10522: PEÇA / COMPONENTE - AEROMODELO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150448,
+    "Descrição do Item": "PEÇAS / ACESSÓRIOS AEROMODELO , PEÇAS / ACESSÓRIOS AEROMODELO NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1550: AERONAVES TELEGUIADAS",
+    "PDM": "02137: PEÇAS / ACESSÓRIOS AEROMODELO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191505,
+    "Descrição do Item": "AERONAVES , AERONAVES NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1505: AERONAVES",
+    "PDM": "16733: AERONAVES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191510,
+    "Descrição do Item": "AERONAVES DE ASAS FIXAS , AERONAVES DE ASAS FIXAS NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1510: AERONAVES DE ASAS FIXAS",
+    "PDM": "16734: AERONAVES DE ASAS FIXAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191515,
+    "Descrição do Item": "HELICES DE AERONAVES E COMPONENTES , HELICES DE AERONAVES E COMPONENTES NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1515: HELICES DE AERONAVES E COMPONENTES",
+    "PDM": "16735: HELICES DE AERONAVES E COMPONENTES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191520,
+    "Descrição do Item": "AERONAVES DE ASAS ROTATIVAS - HELICOPTEROS E ASSEMELHADOS , AERONAVES DE ASAS ROTATIVAS - HELICOPTER NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1520: AERONAVES DE ASA ROTATIVAS",
+    "PDM": "16736: AERONAVES DE ASAS ROTATIVAS - HELICOPTEROS E ASSEMELHADOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191525,
+    "Descrição do Item": "COMPONENTES DE SISTEMA DE FREIOS E RODAS , COMPONENTES DE SISTEMA DE FREIOS E RODAS NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1525: COMPONENTES DE SISTEMA DE FREIOS E RODAS",
+    "PDM": "16737: COMPONENTES DE SISTEMA DE FREIOS E RODAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191530,
+    "Descrição do Item": "COMPNENTES DE SISTEMA HIDRAULICO, DE VACUO E DEGELAMENTO , COMPNENTES DE SISTEMA HIDRAULICO, DE VAC NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1530: COMPNENTES DE SISTEMA HIDRAULICO, DE VACUO E  DEGELAMENTO",
+    "PDM": "16738: COMPNENTES DE SISTEMA HIDRAULICO, DE VACUO E  DEGELAMENTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191535,
+    "Descrição do Item": "COMPONENTE DE SISTEMAS DE CONDICIONAMENTO DE AR,DO AQUECIMENTO E DE PRESSURIZACAO , COMPONENTE DE SISTEMAS DE CONDICIONAMENT NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1535: COMPONENTE DE SISTEMAS DE CONDICIONAMENTO  DE  AR,DO AQUECIMENTO E DE PRESSURIZACAO",
+    "PDM": "16739: COMPONENTE DE SISTEMAS DE CONDICIONAMENTO  DE  AR,DO AQUECIMENTO E DE PRESSURIZACAO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191540,
+    "Descrição do Item": "PLANADORES , PLANADORES NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1540: PLANADORES",
+    "PDM": "16740: PLANADORES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191550,
+    "Descrição do Item": "AERONAVES TELEGUIADAS , AERONAVES TELEGUIADAS NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1550: AERONAVES TELEGUIADAS",
+    "PDM": "16741: AERONAVES TELEGUIADAS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191560,
+    "Descrição do Item": "COMPONENTES ESTRUTURAIS DE AERONAVES , COMPONENTES ESTRUTURAIS DE AERONAVES NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1560: COMPONENTES ESTRUTURAIS DE AERONAVES",
+    "PDM": "16742: COMPONENTES ESTRUTURAIS DE AERONAVES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 191595,
+    "Descrição do Item": "AERONAVES E COMPONENTES ESTRUTURAIS DIVERSOS , AERONAVES E COMPONENTES ESTRUTURAIS DIVE NOME",
+    "Grupo": "15: AERONAVES E SEUS COMPONENTES ESTRUTURAIS",
+    "Classe": "1595: AERONAVES E COMPONENTES ESTRUTURAIS DIVERSOS",
+    "PDM": "16743: AERONAVES E COMPONENTES ESTRUTURAIS DIVERSOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  }
+]
