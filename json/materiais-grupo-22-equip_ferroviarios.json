@@ -1,0 +1,1226 @@
+[
+  {
+    "Código do Item": 1686,
+    "Descrição do Item": "CARRO - GUINDASTE FERROVIARIO , CARRO - GUINDASTE FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "04590: CARRO - GUINDASTE FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 10863,
+    "Descrição do Item": "DORMENTE PARA FERROVIAS , DORMENTE PARA FERROVIAS NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "06388: DORMENTE PARA FERROVIAS",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 28193,
+    "Descrição do Item": "VAGAO FERROVIARIO , VAGAO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13226: VAGAO FERROVIARIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 34762,
+    "Descrição do Item": "GUINDASTES MONTADOS EM VAGOES , GUINDASTES MONTADOS EM VAGOES NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "08162: GUINDASTES MONTADOS EM VAGOES",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 34967,
+    "Descrição do Item": "ALINHADOR DE TRILHO FERROVIARIO , ALINHADOR DE TRILHO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "02334: ALINHADOR DE TRILHO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 35980,
+    "Descrição do Item": "LOCOMOTIVA GUINDASTE , LOCOMOTIVA GUINDASTE NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2210: LOCOMOTIVAS",
+    "PDM": "08910: LOCOMOTIVA GUINDASTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36005,
+    "Descrição do Item": "CARRO FERROVIARIO REBOCAVEL , CARRO FERROVIARIO REBOCAVEL NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "04612: CARRO FERROVIARIO REBOCAVEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36013,
+    "Descrição do Item": "CARRO FERROVIARIO AUTOMOTRIZ , CARRO FERROVIARIO AUTOMOTRIZ NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "04611: CARRO FERROVIARIO AUTOMOTRIZ",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36021,
+    "Descrição do Item": "VAGAO FERROVIARIO DE TRANSPORTE DE TURMA , VAGAO FERROVIARIO DE TRANSPORTE DE TURMA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13227: VAGAO FERROVIARIO DE TRANSPORTE DE TURMA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36030,
+    "Descrição do Item": "VAGAO FERROVIARIO GUINDASTE , VAGAO FERROVIARIO GUINDASTE NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13228: VAGAO FERROVIARIO GUINDASTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36048,
+    "Descrição do Item": "EQUIPAMENTO PARA ASSENTAMENTO NA VIA FERREA , EQUIPAMENTO PARA ASSENTAMENTO NA VIA FER NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "06809: EQUIPAMENTO PARA ASSENTAMENTO NA VIA FERREA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36056,
+    "Descrição do Item": "EQUIPAMENTO MONTADO OU NAO EM VAGAO FERROVIARIO , EQUIPAMENTO MONTADO OU NAO EM VAGAO FERR NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "06802: EQUIPAMENTO MONTADO OU NAO EM VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36064,
+    "Descrição do Item": "PECA SOBRESSALENTE PARA EQUIPAMENTO DE MANUTENCAO , PECA SOBRESSALENTE PARA EQUIPAMENTO DE M NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "10551: PECA SOBRESSALENTE PARA EQUIPAMENTO DE MANUTENCAO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36080,
+    "Descrição do Item": "MATERIAL DE BORRACHA PARA LOCOMOTIVA E VAGAO FERROVIARIO , MATERIAL DE BORRACHA PARA LOCOMOTIVA E V NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "09444: MATERIAL DE BORRACHA PARA LOCOMOTIVA E VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36099,
+    "Descrição do Item": "JANELA DE LOCOMOTIVA E VAGAO FERROVIARIO , JANELA DE LOCOMOTIVA E VAGAO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "08520: JANELA DE LOCOMOTIVA E VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36102,
+    "Descrição do Item": "PORTA DE LOCOMOTIVA E VAGAO FERROVIARIO , PORTA DE LOCOMOTIVA E VAGAO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "11070: PORTA DE LOCOMOTIVA E VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36110,
+    "Descrição do Item": "CHAPA ESPECIAL PARA CARRO E VAGAO FERROVIARIO , CHAPA ESPECIAL PARA CARRO E VAGAO FERROV NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "04841: CHAPA ESPECIAL PARA CARRO E VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36129,
+    "Descrição do Item": "PERFILADO ESPECIAL PARA CARRO E VAGAO FERROVIARIO , PERFILADO ESPECIAL PARA CARRO E VAGAO FE NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "10658: PERFILADO ESPECIAL PARA CARRO E VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36137,
+    "Descrição do Item": "MATERIAL PARA LOCOMOTIVA, VAGÃO E VAGONETE , MATERIAL PARA CARRO, VAGAO E VAGONETE NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "09479: MATERIAL PARA LOCOMOTIVA, VAGÃO E VAGONETE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36145,
+    "Descrição do Item": "APARELHO DE CHOQUE PARA LOCOMOTIVA E VAGAO FERROVIARIO , APARELHO DE CHOQUE PARA LOCOMOTIVA E VAG NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "02680: APARELHO DE CHOQUE PARA LOCOMOTIVA E VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36153,
+    "Descrição do Item": "APARELHO DE TRACAO PARA LOCOMOTIVA E VAGAO FERROVIARIO , APARELHO DE TRACAO PARA LOCOMOTIVA E VAG NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "02745: APARELHO DE TRACAO PARA LOCOMOTIVA E VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36170,
+    "Descrição do Item": "ACESSORIO E COMPONENTE DE LOCOMOTIVA , ACESSORIO E COMPONENTE DE LOCOMOTIVA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "01705: ACESSORIO E COMPONENTE DE LOCOMOTIVA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36188,
+    "Descrição do Item": "ARO DE RODA FERROVIARIA , ARO DE RODA FERROVIARIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "03023: ARO DE RODA FERROVIARIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36196,
+    "Descrição do Item": "RODA FERROVIARIA , RODA FERROVIARIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "11773: RODA FERROVIARIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36200,
+    "Descrição do Item": "EIXO FERROVIARIO , EIXO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "06438: EIXO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36218,
+    "Descrição do Item": "ELEMENTO DE FRENAGEM PARA LOCOMOTIVA E VAGAO FERROVIARIO , ELEMENTO DE FRENAGEM PARA LOCOMOTIVA E V NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "06444: ELEMENTO DE FRENAGEM PARA LOCOMOTIVA E VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36226,
+    "Descrição do Item": "ENGATE E ACESSORIO FERROVIARIO , ENGATE E ACESSORIO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "06564: ENGATE E ACESSORIO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36234,
+    "Descrição do Item": "ENGATE FERROVIARIO , ENGATE FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "06565: ENGATE FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36242,
+    "Descrição do Item": "COMPONENTE DE ENGATE FERROVIARIO , COMPONENTE DE ENGATE FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "05412: COMPONENTE DE ENGATE FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36250,
+    "Descrição do Item": "MANCAL DE FRICCAO FERROVIARIO , MANCAL DE FRICCAO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "09063: MANCAL DE FRICCAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36269,
+    "Descrição do Item": "PINO DE MANCAL DE FRICCAO FERROVIARIO , PINO DE MANCAL DE FRICCAO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "10744: PINO DE MANCAL DE FRICCAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36277,
+    "Descrição do Item": "BUCHA DE MANCAL DE FRICCAO FERROVIARIA , BUCHA DE MANCAL DE FRICCAO FERROVIARIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "03936: BUCHA DE MANCAL DE FRICCAO FERROVIARIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36293,
+    "Descrição do Item": "TRUQUE DE VAGAO FERROVIARIO , TRUQUE DE VAGAO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "13019: TRUQUE DE VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36307,
+    "Descrição do Item": "ACESSORIO PARA TRUQUE FERROVIARIO , ACESSORIO PARA TRUQUE FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "01724: ACESSORIO PARA TRUQUE FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36315,
+    "Descrição do Item": "MATERIAL PARA CREMALHEIRA - FERROVIARIA , MATERIAL PARA CREMALHEIRA - FERROVIARIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "09481: MATERIAL PARA CREMALHEIRA - FERROVIARIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36323,
+    "Descrição do Item": "PECA SOBRESSALENTE DE LOCOMOTIVA GE , PECA SOBRESSALENTE DE LOCOMOTIVA GE NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "10547: PECA SOBRESSALENTE DE LOCOMOTIVA GE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36331,
+    "Descrição do Item": "PECA SOBRESSALENTE DE LOCOMOTIVA GM , PECA SOBRESSALENTE DE LOCOMOTIVA GM NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "10548: PECA SOBRESSALENTE DE LOCOMOTIVA GM",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36340,
+    "Descrição do Item": "PECA SOBRESSALENTE DE LOCOMOTIVA ALCO , PECA SOBRESSALENTE DE LOCOMOTIVA ALCO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "10546: PECA SOBRESSALENTE DE LOCOMOTIVA ALCO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36358,
+    "Descrição do Item": "PECA SOBRESSALENTE PARA VAGAO E LOCOMOTIVA CATERPILLAR , PECA SOBRESSALENTE PARA VAGAO E LOCOMOTI NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "10553: PECA SOBRESSALENTE PARA VAGAO E LOCOMOTIVA CATERPILLAR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36366,
+    "Descrição do Item": "PECA SOBRESSALENTE DE VAGAO E LOCOMOTIVA WABCO , PECA SOBRESSALENTE DE VAGAO E LOCOMOTIVA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "10549: PECA SOBRESSALENTE DE VAGAO E LOCOMOTIVA WABCO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36374,
+    "Descrição do Item": "PECA SOBRESSALENTE DE VAGAO FERROVIARIO , PECA SOBRESSALENTE DE VAGAO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "10550: PECA SOBRESSALENTE DE VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36382,
+    "Descrição do Item": "PECA SOBRESSALENTE PARA LOCOMOTIVA , PECA SOBRESSALENTE PARA LOCOMOTIVA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "10552: PECA SOBRESSALENTE PARA LOCOMOTIVA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36390,
+    "Descrição do Item": "APARELHO DE MANOBRA FERROVIARIO , APARELHO DE MANOBRA FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "02719: APARELHO DE MANOBRA FERROVIARIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36404,
+    "Descrição do Item": "ACESSORIO DE APARELHO DE MANOBRA FERROVIARIO , ACESSORIO DE APARELHO DE MANOBRA FERROVI NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "01670: ACESSORIO DE APARELHO DE MANOBRA FERROVIARIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36412,
+    "Descrição do Item": "COMPONENTE DE APARELHO DE MANOBRA FERROVIARIO , COMPONENTE DE APARELHO DE MANOBRA FERROV NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "05411: COMPONENTE DE APARELHO DE MANOBRA FERROVIARIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36420,
+    "Descrição do Item": "DORMENTE DE MADEIRA , DORMENTE DE MADEIRA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "06387: DORMENTE DE MADEIRA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36439,
+    "Descrição do Item": "ACESSORIO PARA DORMENTE , ACESSORIO PARA DORMENTE NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "01715: ACESSORIO PARA DORMENTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36447,
+    "Descrição do Item": "PARAFUSO DE DORMENTE , PARAFUSO DE DORMENTE NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "10432: PARAFUSO DE DORMENTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36455,
+    "Descrição do Item": "PORCA PARA DORMENTE , PORCA PARA DORMENTE NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "11028: PORCA PARA DORMENTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36463,
+    "Descrição do Item": "ARRUELA DE DORMENTE , ARRUELA DE DORMENTE NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "03049: ARRUELA DE DORMENTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36471,
+    "Descrição do Item": "BUCHA PARA DORMENTE , BUCHA PARA DORMENTE NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "03944: BUCHA PARA DORMENTE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36480,
+    "Descrição do Item": "LASTRO FERROVIARIO , LASTRO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "08728: LASTRO FERROVIARIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36498,
+    "Descrição do Item": "SUB - LASTRO FERROVIARIO , SUB - LASTRO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "12283: SUB - LASTRO FERROVIARIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36501,
+    "Descrição do Item": "LUBRIFICADOR DE VIA FERREA , LUBRIFICADOR DE VIA FERREA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "08931: LUBRIFICADOR DE VIA FERREA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36510,
+    "Descrição do Item": "ACESSORIO DE LUBRIFICADOR DE VIA FERREA , ACESSORIO DE LUBRIFICADOR DE VIA FERREA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "01682: ACESSORIO DE LUBRIFICADOR DE VIA FERREA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36528,
+    "Descrição do Item": "TRILHO DE FERROVIA , TRILHO DE FERROVIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "12982: TRILHO DE FERROVIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 36536,
+    "Descrição do Item": "ACESSORIO DE TRILHO DE VIA FERREA , ACESSORIO DE TRILHO DE VIA FERREA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "01704: ACESSORIO DE TRILHO DE VIA FERREA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 39659,
+    "Descrição do Item": "FERRAMENTA NAO MOTORIZADA PARA VIA PERMANENTE , FERRAMENTA NAO MOTORIZADA PARA VIA PERMA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "07389: FERRAMENTA NAO MOTORIZADA PARA VIA PERMANENTE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 39721,
+    "Descrição do Item": "MACACO DE CURVAR TRILHO , MACACO DE CURVAR TRILHO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "08991: MACACO DE CURVAR TRILHO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 45837,
+    "Descrição do Item": "LOCOMOTIVA A OLEO DIESEL , LOCOMOTIVA A OLEO DIESEL NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2210: LOCOMOTIVAS",
+    "PDM": "08904: LOCOMOTIVA A OLEO DIESEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 45845,
+    "Descrição do Item": "LOCOMOTIVA A CARVAO , LOCOMOTIVA A CARVAO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2210: LOCOMOTIVAS",
+    "PDM": "08903: LOCOMOTIVA A CARVAO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 45861,
+    "Descrição do Item": "ACESSORIO E COMPONENTE DE VAGAO FERROVIARIO , ACESSORIO E COMPONENTE DE VAGAO FERROVIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "01707: ACESSORIO E COMPONENTE DE VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 45888,
+    "Descrição do Item": "CENTRO DE RODA FERROVIARIA , CENTRO DE RODA FERROVIARIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "04763: CENTRO DE RODA FERROVIARIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48305,
+    "Descrição do Item": "TENDER FERROVIARIO , TENDER FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2210: LOCOMOTIVAS",
+    "PDM": "12627: TENDER FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48313,
+    "Descrição do Item": "EQUIPAMENTO PARA CONSTRUCAO DE LINHA FERREA , EQUIPAMENTO PARA CONSTRUCAO DE LINHA FER NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2210: LOCOMOTIVAS",
+    "PDM": "06814: EQUIPAMENTO PARA CONSTRUCAO DE LINHA FERREA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48321,
+    "Descrição do Item": "EQUIPAMENTO DE JUNCAO DE TRILHO FERROVIARIO , EQUIPAMENTO DE JUNCAO DE TRILHO FERROVIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "06705: EQUIPAMENTO DE JUNCAO DE TRILHO FERROVIARIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48330,
+    "Descrição do Item": "EQUIPAMENTO DE SEPARACAO DE TRILHO FERROVIARIO , EQUIPAMENTO DE SEPARACAO DE TRILHO FERRO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "06749: EQUIPAMENTO DE SEPARACAO DE TRILHO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48348,
+    "Descrição do Item": "CARRO DE TESTE DE LEITO DE FERROVIA , CARRO DE TESTE DE LEITO DE FERROVIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2210: LOCOMOTIVAS",
+    "PDM": "04608: CARRO DE TESTE DE LEITO DE FERROVIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48356,
+    "Descrição do Item": "CARRO DE MANUTENCAO DE LEITO DE FERROVIA , CARRO DE MANUTENCAO DE LEITO DE FERROVIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "04604: CARRO DE MANUTENCAO DE LEITO DE FERROVIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48364,
+    "Descrição do Item": "GUINDASTE MONTADO EM VAGAO FERROVIARIO , GUINDASTE MONTADO EM VAGAO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "08157: GUINDASTE MONTADO EM VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48372,
+    "Descrição do Item": "GUINDASTE MONTADO EM LOCOMOTIVA , GUINDASTE MONTADO EM LOCOMOTIVA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "08156: GUINDASTE MONTADO EM LOCOMOTIVA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48380,
+    "Descrição do Item": "GUINDASTE MONTADO EM AUTOMOTRIZ , GUINDASTE MONTADO EM AUTOMOTRIZ NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "08154: GUINDASTE MONTADO EM AUTOMOTRIZ",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48399,
+    "Descrição do Item": "MANCAL DE LOCOMOTIVA , MANCAL DE LOCOMOTIVA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "09064: MANCAL DE LOCOMOTIVA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48402,
+    "Descrição do Item": "MANCAL PARA VAGAO FERROVIARIO , MANCAL PARA VAGAO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "09070: MANCAL PARA VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48410,
+    "Descrição do Item": "COMPONENTE DE MANCAL PARA LOCOMOTIVA , COMPONENTE DE MANCAL PARA LOCOMOTIVA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "05415: COMPONENTE DE MANCAL PARA LOCOMOTIVA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48429,
+    "Descrição do Item": "COMPONENTE DE MANCAL DE VAGAO FERROVIARIO , COMPONENTE DE MANCAL DE VAGAO FERROVIARI NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "05413: COMPONENTE DE MANCAL DE VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48437,
+    "Descrição do Item": "RODEIRO DE LOCOMOTIVA , RODEIRO DE LOCOMOTIVA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "11777: RODEIRO DE LOCOMOTIVA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48445,
+    "Descrição do Item": "RODEIRO PARA VAGAO FERROVIARIO , RODEIRO PARA VAGAO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "11778: RODEIRO PARA VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48453,
+    "Descrição do Item": "COMPONENTE DE RODEIRO PARA LOCOMOTIVA , COMPONENTE DE RODEIRO PARA LOCOMOTIVA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "05419: COMPONENTE DE RODEIRO PARA LOCOMOTIVA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48461,
+    "Descrição do Item": "COMPONENTE DE RODEIRO PARA VAGAO FERROVIARIO , COMPONENTE DE RODEIRO PARA VAGAO FERROVI NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "05420: COMPONENTE DE RODEIRO PARA VAGAO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48470,
+    "Descrição do Item": "SECAO DE TRILHO DE DESVIO FERROVIARIO , SECAO DE TRILHO DE DESVIO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "11968: SECAO DE TRILHO DE DESVIO FERROVIARIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48488,
+    "Descrição do Item": "TRILHO DE CRUZAMENTO FERROVIARIO , TRILHO DE CRUZAMENTO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "12981: TRILHO DE CRUZAMENTO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 48496,
+    "Descrição do Item": "PASSAGEM DE NIVEL FERROVIARIA ( TRILHO ) , PASSAGEM DE NIVEL FERROVIARIA ( TRILHO ) NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "10475: PASSAGEM DE NIVEL FERROVIARIA ( TRILHO )",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 58718,
+    "Descrição do Item": "ACESSORIO E COMPONENTE DE LOCOMOTIVA E VAGAO FERROVIARIO , ACESSORIO E COMPONENTE DE LOCOMOTIVA E V NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "01706: ACESSORIO E COMPONENTE DE LOCOMOTIVA E VAGAO FERROVIARIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 59137,
+    "Descrição do Item": "APARELHO DE MUDANCA DE VIA - CRUZAMENTO FERROVIA-RIO , APARELHO DE MUDANCA DE VIA - CRUZAMENTO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "02724: APARELHO DE MUDANCA DE VIA - CRUZAMENTO  FERROVIA-RIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 67881,
+    "Descrição do Item": "BITOLA DE FERRO PARA LINHA FERROVIARIA , BITOLA DE FERRO PARA LINHA FERROVIARIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "03588: BITOLA DE FERRO PARA LINHA FERROVIARIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 68365,
+    "Descrição do Item": "PERFURADORA DE CORTADORA VAGAO FERROVIARIO , PERFURADORA DE CORTADORA VAGAO FERROVIAR NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "10668: PERFURADORA DE CORTADORA VAGAO FERROVIARIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 75701,
+    "Descrição do Item": "COMPONENTE DE MANCAL DE VEICULO FERROVIARIO , COMPONENTE DE MANCAL DE VEICULO FERROVIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "05414: COMPONENTE DE MANCAL DE VEICULO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 75710,
+    "Descrição do Item": "COMPONENTE DE RODEIRO DE VEICULO FERROVIARIO , COMPONENTE DE RODEIRO DE VEICULO FERROVI NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "05418: COMPONENTE DE RODEIRO DE VEICULO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 76449,
+    "Descrição do Item": "ALAVANCA DE USO FERROVIARIO , ALAVANCA DE USO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "02231: ALAVANCA DE USO FERROVIARIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81744,
+    "Descrição do Item": "LOCOMOTIVA ELETRICA , LOCOMOTIVA ELETRICA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2210: LOCOMOTIVAS",
+    "PDM": "08909: LOCOMOTIVA ELETRICA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81752,
+    "Descrição do Item": "LOCOMOTIVA DIESEL - ELETRICA , LOCOMOTIVA DIESEL - ELETRICA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2210: LOCOMOTIVAS",
+    "PDM": "08908: LOCOMOTIVA DIESEL - ELETRICA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81760,
+    "Descrição do Item": "VAGAO - TANQUE , VAGAO - TANQUE NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13221: VAGAO - TANQUE",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81779,
+    "Descrição do Item": "VAGAO FRIGORIFICO , VAGAO FRIGORIFICO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13229: VAGAO FRIGORIFICO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81787,
+    "Descrição do Item": "VAGAO DE DESCARGA AUTOMOTIVA , VAGAO DE DESCARGA AUTOMOTIVA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13224: VAGAO DE DESCARGA AUTOMOTIVA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81795,
+    "Descrição do Item": "VAGAO PARA PASSAGEIROS , VAGAO PARA PASSAGEIROS NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13232: VAGAO PARA PASSAGEIROS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81809,
+    "Descrição do Item": "VAGAO PARA BAGAGEM , VAGAO PARA BAGAGEM NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13231: VAGAO PARA BAGAGEM",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81817,
+    "Descrição do Item": "VAGAO POSTAL , VAGAO POSTAL NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13233: VAGAO POSTAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81825,
+    "Descrição do Item": "VAGAO ABERTO , VAGAO ABERTO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13222: VAGAO ABERTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81833,
+    "Descrição do Item": "VAGAO CONSTRUIDO ESPECIALMENTE PARA SERVICO PESADO / TRANSPORTE DE MINERIO E PEDRA , VAGAO CONSTRUIDO ESPECIALMENTE PARA SERV NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13223: VAGAO CONSTRUIDO ESPECIALMENTE PARA SERVICO PESADO / TRANSPORTE DE MINERIO E PEDRA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81841,
+    "Descrição do Item": "LOCOMOTIVA DE ACUMULADOR ELETRICO , LOCOMOTIVA DE ACUMULADOR ELETRICO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2210: LOCOMOTIVAS",
+    "PDM": "08906: LOCOMOTIVA DE ACUMULADOR ELETRICO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81850,
+    "Descrição do Item": "LOCOMOTIVA TENDER , LOCOMOTIVA TENDER NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2210: LOCOMOTIVAS",
+    "PDM": "08911: LOCOMOTIVA TENDER",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81868,
+    "Descrição do Item": "LOCOMOTIVA DIESEL , LOCOMOTIVA DIESEL NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2210: LOCOMOTIVAS",
+    "PDM": "08907: LOCOMOTIVA DIESEL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81876,
+    "Descrição do Item": "LOCOMOTIVA A VAPOR , LOCOMOTIVA A VAPOR NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2210: LOCOMOTIVAS",
+    "PDM": "08905: LOCOMOTIVA A VAPOR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81884,
+    "Descrição do Item": "DORMENTE DE FERRO FUNDIDO / ACO , DORMENTE DE FERRO FUNDIDO / ACO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "06386: DORMENTE DE FERRO FUNDIDO / ACO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81892,
+    "Descrição do Item": "CONTRATRILHO E CREMALHEIRA , CONTRATRILHO E CREMALHEIRA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "05806: CONTRATRILHO E CREMALHEIRA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81906,
+    "Descrição do Item": "AGULHA LEITO FERROVIA , AGULHA LEITO FERROVIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "02195: AGULHA LEITO FERROVIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81914,
+    "Descrição do Item": "AGULHA TRILHO FERROVIA , AGULHA TRILHO FERROVIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "02204: AGULHA TRILHO FERROVIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81922,
+    "Descrição do Item": "CRAVO DE DORMENTE FERROVIA , CRAVO DE DORMENTE FERROVIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "05955: CRAVO DE DORMENTE FERROVIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81930,
+    "Descrição do Item": "PLACA APOIO FIXACAO TRILHO FERROVIA , PLACA APOIO FIXACAO TRILHO FERROVIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "10812: PLACA APOIO FIXACAO TRILHO FERROVIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81949,
+    "Descrição do Item": "PLACA APOIO FIXACAO LEITO FERROVIA , PLACA APOIO FIXACAO LEITO FERROVIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "10811: PLACA APOIO FIXACAO LEITO FERROVIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81957,
+    "Descrição do Item": "TALA FIXACAO TRILHO FERROVIA , TALA FIXACAO TRILHO FERROVIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "12482: TALA FIXACAO TRILHO FERROVIA",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81965,
+    "Descrição do Item": "VAGAO EQUIPADO COM BATEDOR DE BALASTRO , VAGAO EQUIPADO COM BATEDOR DE BALASTRO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13225: VAGAO EQUIPADO COM BATEDOR DE BALASTRO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81973,
+    "Descrição do Item": "DRESINA , DRESINA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "06407: DRESINA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81981,
+    "Descrição do Item": "VEICULO AUTOPROPULSOR PARA VIA FERREA - SUBSTITUIR , VEICULO AUTOPROPULSOR PARA VIA FERREA - NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13341: VEICULO AUTOPROPULSOR PARA VIA FERREA - SUBSTITUIR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 81990,
+    "Descrição do Item": "VEICULO AUTOPROPULSOR PARA VIA FERREA - DETECCAO , VEICULO AUTOPROPULSOR PARA VIA FERREA - NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13340: VEICULO AUTOPROPULSOR PARA VIA FERREA -  DETECCAO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 82007,
+    "Descrição do Item": "VEICULO DESGUARNECEDOR DE LASTRO PARA LIMPEZA / RE , VEICULO DESGUARNECEDOR DE LASTRO PARA LI NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13346: VEICULO DESGUARNECEDOR DE LASTRO PARA LIMPEZA / RE",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 82015,
+    "Descrição do Item": "VEICULO AUTOPROPULSOR REPERFILADOR / RETIFICADOR , VEICULO AUTOPROPULSOR REPERFILADOR / RET NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13342: VEICULO AUTOPROPULSOR REPERFILADOR / RETIFICADOR",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 82023,
+    "Descrição do Item": "VEICULO DE MANUTENCAO PARA LEVANTAR / NIVELAR / AL , VEICULO DE MANUTENCAO PARA LEVANTAR / NI NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13345: VEICULO DE MANUTENCAO PARA LEVANTAR / NIVELAR / AL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 82031,
+    "Descrição do Item": "VEICULO PARA REGULAR E DISTRIBUIR LASTRO - VIA FER , VEICULO PARA REGULAR E DISTRIBUIR LASTRO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13353: VEICULO PARA REGULAR E DISTRIBUIR LASTRO - VIA FER",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 83755,
+    "Descrição do Item": "DORMENTE DE CONCRETO , DORMENTE DE CONCRETO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "06385: DORMENTE DE CONCRETO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 94633,
+    "Descrição do Item": "VAGAO PARA ANIMAL , VAGAO PARA ANIMAL NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13230: VAGAO PARA ANIMAL",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 108200,
+    "Descrição do Item": "SAPATA DE FREIO - VEICULO FERROVIARIO , SAPATA DE FREIO - VEICULO FERROVIARIO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "11937: SAPATA DE FREIO - VEICULO FERROVIARIO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150064,
+    "Descrição do Item": "VAGÃO ABERTO , VAGÃO ABERTO NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "16264: VAGÃO ABERTO",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 150065,
+    "Descrição do Item": "AGULHA LEITO RODOVIA , AGULHA LEITO RODOVIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "16265: AGULHA LEITO RODOVIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192210,
+    "Descrição do Item": "LOCOMOTIVAS , LOCOMOTIVAS NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2210: LOCOMOTIVAS",
+    "PDM": "16786: LOCOMOTIVAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192220,
+    "Descrição do Item": "VAGÕES FERROVIÁRIOS , VAGÕES FERROVIÁRIOS NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "16787: VAGÕES FERROVIÁRIOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192230,
+    "Descrição do Item": "EQUIPAMENTO DE CONSTRUCAO E MANUTENCAO DE LEITO DE FERROVIA ROVIAS , EQUIPAMENTO DE CONSTRUCAO E MANUTENCAO D NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2230: EQUIPAMENTO DE CONSTRUÇAO E MANUTENÇAO DE LEITO DE FERROVIA",
+    "PDM": "16788: EQUIPAMENTO DE CONSTRUCAO E MANUTENCAO DE LEITO DE FERROVIA ROVIAS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192240,
+    "Descrição do Item": "ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS , ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2240: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "PDM": "16789: ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 192250,
+    "Descrição do Item": "MATERIAIS DE FERROVIA , MATERIAIS DE FERROVIA NOME",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2250: MATERIAIS DE FERROVIA",
+    "PDM": "16790: MATERIAIS DE FERROVIA",
+    "Status": "Inativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225034,
+    "Descrição do Item": "VAGAO FERROVIARIO , MATERIAL METÁLICO, TIPO BAGAGEM, BITOLA 1,60 M, CAPACIDADE 55 TON, MODELO GÔNDOLA, TARA 23.000 KG",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13226: VAGAO FERROVIARIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225035,
+    "Descrição do Item": "VAGAO FERROVIARIO , MATERIAL METÁLICO, TIPO POSTAL, BITOLA 1,60 M, CAPACIDADE 55 TON, MODELO GÔNDOLA, TARA 23.000 KG",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13226: VAGAO FERROVIARIO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225038,
+    "Descrição do Item": "VAGAO ABERTO , TIPO GÔNDOLA, TARA 21.000 KGF, LOTAÇÃO 98.000 KGF, PESO BRUTO MÁXIMO 119.000 KGF, TIPO FREIO HIDRÁULICO, APLICAÇÃO TRANSPORTE CARGA",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13222: VAGAO ABERTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225039,
+    "Descrição do Item": "VAGAO ABERTO , TIPO GÔNDOLA, TARA 21.000 KGF, LOTAÇÃO 98.000 KGF, PESO BRUTO MÁXIMO 119.000 KGF, TIPO FREIO MANUAL, APLICAÇÃO TRANSPORTE CARGA",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13222: VAGAO ABERTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225040,
+    "Descrição do Item": "VAGAO ABERTO , TIPO TREMONHA, TARA 16.800 KGF, LOTAÇÃO 63.200 KGF, PESO BRUTO MÁXIMO 80.000 KGF, TIPO FREIO HIDRÁULICO, APLICAÇÃO TRANSPORTE CARGA",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13222: VAGAO ABERTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  },
+  {
+    "Código do Item": 225041,
+    "Descrição do Item": "VAGAO ABERTO , TIPO TREMONHA, TARA 16.800 KGF, LOTAÇÃO 63.200 KGF, PESO BRUTO MÁXIMO 80.000 KGF, TIPO FREIO MANUAL, APLICAÇÃO TRANSPORTE CARGA",
+    "Grupo": "22: EQUIPAMENTOS FERROVIÁRIOS",
+    "Classe": "2220: VAGÕES FERROVIÁRIOS",
+    "PDM": "13222: VAGAO ABERTO",
+    "Status": "Ativo",
+    "Sustentável": "Não"
+  }
+]
