@@ -1,111 +1,111 @@
-id,pdm
-01290,soquete arma de fogo
-01291,soquete arma de fogo
-01712,peças / acessórios armamento
-02994,arma de fogo - empunhável - médio porte
-02995,arma de fogo de pequeno porte - revólver / pistola
-03204,bainha facão caça
-04050,cabo para arma de fogo
-04419,peças / componentes canhão
-04570,carregador para munição
-06944,escova de limpeza de arma
-07019,espingardas para caca submarina
-07120,esteiras para cargas de profundidade
-07155,estojo de limpeza de arma
-07282,facoes de caca
-07688,fole para canhao
-07889,fuzis
-08681,lanca-chamas
-08686,lancadores adaptaveis para emprego de misseis guiados
-08687,lancadores de carregamento simples para armas de fogo de calibre acima de 30mm ate 75mm
-08688,lancadores de de tiros automaticos para armas de fogo de calibre acima de 30mm ate 75mm
-08689,lancadores de foguetes aerotransportados
-08690,lancadores de granada de cartuchos completo para armas de fogo de calibre acima de 30mm ate 75mm
-08691,lancadores de granadas de carregamento automatico para armas de fog de calib acima de 30mm ate 75mm
-09520,mecanismos de culatra para armas de calibre acima de 30mm ate 75mm
-09521,mecanismos de culatras para armas de calibre acima de 125mm ate 150mm
-09522,mecanismos de culatras para armas de calibre acima de 300mm
-09523,mecanismos de culatras para armas de calibre acima de 75mm ate 125mm
-09524,mecanismos de instrucao para armas de calibre acima de 300mm
-09706,metralhadora / componente
-09707,metralhadoras
-10799,pistola
-10904,plataformas de disparo para armas de calibre acima de 150mm ate 200mm
-11501,rede de neblina
-11529,refletores para armas de calibre acima de 200mm ate 300mm
-11747,rifles
-11873,sabre
-12058,silenciador de arma
-12060,silenciadores
-12073,simuladores de artilharia
-12074,simuladores de veiculos
-12075,simuladores de aeronaves
-12124,sistema de limpeza / manutencao de material belico portatil
-12172,componente / sobressalente uso militar
-12377,suporte de armas de calibre acima de 30mm ate 75mm
-12409,suporte para armas de calibre acima de 75mm ate 125mm
-12430,suportes para armas de calibre acima de 150mm ate 200mm
-12505,tambores
-13130,peças / componentes tubos de torpedos
-13794,anel ferrolho
-13795,chave ferrolho
-13796,extrator cápsula
-13797,tubo tomada gás
-13799,reforçador tiro festim
-13800,mola ejetor
-13801,ejetor
-13802,pino segurança mira
-13803,pino tubo tomada gás
-13808,mola extrator
-13809,insersor mola extrator
-13810,percussor
-14112,mola recuperadora
-14115,empunhadura metralhadora
-14123,mola percussor
-14124,guarda-mão submetralhadora
-14125,bandoleira
-14129,suporte rolete
-14174,faca operação tática
-14928,mola armadilha pistola
-14930,cano pistola
-14934,mergulhador bloco trancamento
-14981,bloco trancamento
-14983,tirante gatilho
-14985,mola tirante gatilho
-14986,armadilha
-14988,cão
-14990,impulsor trava percussor
-14991,mola gatilho
-14992,mola retém ferrolho
-14995,mola mergulhador registro segurança
-14996,fundo carregador
-14998,placa punho
-14999,parafuso placa punho
-15001,bucha placa punho
-15002,carregador munição
-15003,estojo porta carregador
-15007,mola cão
-15115,mola registro segurança pistola
-15130,bucha da placa punho esquerdo
-15402,kit conversão
-15404,conjunto conversão munição
-15813,percinta
-16109,estojo limpeza armamento
-16657,arma não letal
-16658,armas de fogo de calibre acima de 30mm até 75mm
-16659,armas de fogo de calibre acima de 75mm até 125mm
-16660,armas de fogo de calibre acima de 125mm até 150mm
-16661,armas de fogo de calibre acima de 150mm até 200mm
-16662,armas de fogo de calibre acima de 200mm até 300mm
-16663,armas de fogo de calibre acima de 300mm
-16664,armamento e equipamentos de guerra química
-16665,lançadores de torpedos e de bombas de profundidade
-16666,lançadores de foguetes e pirotécnicos
-16667,redes submarinas de defesa de portos
-16668,equipamentos de desmagnetização e de varredura de minas
-16669,acessório/equipamento camuflagem e dissimulação
-16670,conjuntos intercambiáveis de duas ou mais classes
-17586,anel vedação armamento
-17587,parafuso armamento
-17996,espargidor defensivo
-18369,porca armamento
+ID,PDM
+01290,SOQUETE ARMA DE FOGO
+01291,SOQUETE ARMA DE FOGO
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO
+02994,ARMA DE FOGO - EMPUNHÁVEL - MÉDIO PORTE
+02995,ARMA DE FOGO DE PEQUENO PORTE - REVÓLVER / PISTOLA
+03204,BAINHA FACÃO CAÇA
+04050,CABO PARA ARMA DE FOGO
+04419,PEÇAS / COMPONENTES CANHÃO
+04570,CARREGADOR PARA MUNIÇÃO
+06944,ESCOVA DE LIMPEZA DE ARMA
+07019,ESPINGARDAS PARA CACA SUBMARINA
+07120,ESTEIRAS PARA CARGAS DE PROFUNDIDADE
+07155,ESTOJO DE LIMPEZA DE ARMA
+07282,FACOES DE CACA
+07688,FOLE PARA CANHAO
+07889,FUZIS
+08681,LANCA-CHAMAS
+08686,LANCADORES ADAPTAVEIS PARA EMPREGO DE MISSEIS GUIADOS
+08687,LANCADORES DE CARREGAMENTO SIMPLES PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM
+08688,LANCADORES DE DE TIROS AUTOMATICOS PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM
+08689,LANCADORES DE FOGUETES AEROTRANSPORTADOS
+08690,LANCADORES DE GRANADA DE CARTUCHOS COMPLETO PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM
+08691,LANCADORES DE GRANADAS DE CARREGAMENTO AUTOMATICO PARA ARMAS DE FOG DE CALIB ACIMA DE 30MM ATE 75MM
+09520,MECANISMOS DE CULATRA PARA ARMAS DE CALIBRE ACIMA DE 30MM ATE 75MM
+09521,MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 125MM ATE 150MM
+09522,MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 300MM
+09523,MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 75MM ATE 125MM
+09524,MECANISMOS DE INSTRUCAO PARA ARMAS DE CALIBRE ACIMA DE 300MM
+09706,METRALHADORA / COMPONENTE
+09707,METRALHADORAS
+10799,PISTOLA
+10904,PLATAFORMAS DE DISPARO PARA ARMAS DE CALIBRE ACIMA DE 150MM ATE 200MM
+11501,REDE DE NEBLINA
+11529,REFLETORES PARA ARMAS DE CALIBRE ACIMA DE 200MM ATE 300MM
+11747,RIFLES
+11873,SABRE
+12058,SILENCIADOR DE ARMA
+12060,SILENCIADORES
+12073,SIMULADORES DE ARTILHARIA
+12074,SIMULADORES DE VEICULOS
+12075,SIMULADORES DE AERONAVES
+12124,SISTEMA DE LIMPEZA / MANUTENCAO DE MATERIAL BELICO PORTATIL
+12172,COMPONENTE / SOBRESSALENTE USO MILITAR
+12377,SUPORTE DE ARMAS DE CALIBRE ACIMA DE 30MM ATE 75MM
+12409,SUPORTE PARA ARMAS DE CALIBRE ACIMA DE 75MM ATE 125MM
+12430,SUPORTES PARA ARMAS DE CALIBRE ACIMA DE 150MM ATE 200MM
+12505,TAMBORES
+13130,PEÇAS / COMPONENTES TUBOS DE TORPEDOS
+13794,ANEL FERROLHO
+13795,CHAVE FERROLHO
+13796,EXTRATOR CÁPSULA
+13797,TUBO TOMADA GÁS
+13799,REFORÇADOR TIRO FESTIM
+13800,MOLA EJETOR
+13801,EJETOR
+13802,PINO SEGURANÇA MIRA
+13803,PINO TUBO TOMADA GÁS
+13808,MOLA EXTRATOR
+13809,INSERSOR MOLA EXTRATOR
+13810,PERCUSSOR
+14112,MOLA RECUPERADORA
+14115,EMPUNHADURA METRALHADORA
+14123,MOLA PERCUSSOR
+14124,GUARDA-MÃO SUBMETRALHADORA
+14125,BANDOLEIRA
+14129,SUPORTE ROLETE
+14174,FACA OPERAÇÃO TÁTICA
+14928,MOLA ARMADILHA PISTOLA
+14930,CANO PISTOLA
+14934,MERGULHADOR BLOCO TRANCAMENTO
+14981,BLOCO TRANCAMENTO
+14983,TIRANTE GATILHO
+14985,MOLA TIRANTE GATILHO
+14986,ARMADILHA
+14988,CÃO
+14990,IMPULSOR TRAVA PERCUSSOR
+14991,MOLA GATILHO
+14992,MOLA RETÉM FERROLHO
+14995,MOLA MERGULHADOR REGISTRO SEGURANÇA
+14996,FUNDO CARREGADOR
+14998,PLACA PUNHO
+14999,PARAFUSO PLACA PUNHO
+15001,BUCHA PLACA PUNHO
+15002,CARREGADOR MUNIÇÃO
+15003,ESTOJO PORTA CARREGADOR
+15007,MOLA CÃO
+15115,MOLA REGISTRO SEGURANÇA PISTOLA
+15130,BUCHA DA PLACA PUNHO ESQUERDO
+15402,KIT CONVERSÃO
+15404,CONJUNTO CONVERSÃO MUNIÇÃO
+15813,PERCINTA
+16109,ESTOJO LIMPEZA ARMAMENTO
+16657,ARMA NÃO LETAL
+16658,ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATÉ 75MM
+16659,ARMAS DE FOGO DE CALIBRE ACIMA DE 75MM ATÉ 125MM
+16660,ARMAS DE FOGO DE CALIBRE ACIMA DE 125MM ATÉ 150MM
+16661,ARMAS DE FOGO DE CALIBRE ACIMA DE 150MM ATÉ 200MM
+16662,ARMAS DE FOGO DE CALIBRE ACIMA DE 200MM ATÉ 300MM
+16663,ARMAS DE FOGO DE CALIBRE ACIMA DE 300MM
+16664,ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÍMICA
+16665,LANÇADORES DE TORPEDOS E DE BOMBAS DE PROFUNDIDADE
+16666,LANÇADORES DE FOGUETES E PIROTÉCNICOS
+16667,REDES SUBMARINAS DE DEFESA DE PORTOS
+16668,EQUIPAMENTOS DE DESMAGNETIZAÇÃO E DE VARREDURA DE MINAS
+16669,ACESSÓRIO/EQUIPAMENTO CAMUFLAGEM E DISSIMULAÇÃO
+16670,CONJUNTOS INTERCAMBIÁVEIS DE DUAS OU MAIS CLASSES
+17586,ANEL VEDAÇÃO ARMAMENTO
+17587,PARAFUSO ARMAMENTO
+17996,ESPARGIDOR DEFENSIVO
+18369,PORCA ARMAMENTO
