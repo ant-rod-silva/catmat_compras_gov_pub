@@ -98,3 +98,15 @@ https://www.textfixer.com/tools/remove-white-spaces.php
 #### Ferramenta usada para converter csv para json
 
 https://www.csvjson.com/csv2json
+
+#### Alphabetize List 
+
+https://alphabetizer.flap.tv/
+
+#### Remove duplicate lines from a list
+
+http://www.dedupelist.com/
+
+#### Replace text
+
+http://www.unit-conversion.info/texttools/replace-text/
