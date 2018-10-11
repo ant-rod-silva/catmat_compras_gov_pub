@@ -1,0 +1,652 @@
+[
+  {
+    "id": "01670",
+    "pdm": "ACESSORIO DE APARELHO DE MANOBRA FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "01682",
+    "pdm": "ACESSORIO DE LUBRIFICADOR DE VIA FERREA",
+    "grupo": "22"
+  },
+  {
+    "id": "01704",
+    "pdm": "ACESSORIO DE TRILHO DE VIA FERREA",
+    "grupo": "22"
+  },
+  {
+    "id": "01705",
+    "pdm": "ACESSORIO E COMPONENTE DE LOCOMOTIVA",
+    "grupo": "22"
+  },
+  {
+    "id": "01706",
+    "pdm": "ACESSORIO E COMPONENTE DE LOCOMOTIVA E VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "01707",
+    "pdm": "ACESSORIO E COMPONENTE DE VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "01715",
+    "pdm": "ACESSORIO PARA DORMENTE",
+    "grupo": "22"
+  },
+  {
+    "id": "01724",
+    "pdm": "ACESSORIO PARA TRUQUE FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "02195",
+    "pdm": "AGULHA LEITO FERROVIA",
+    "grupo": "22"
+  },
+  {
+    "id": "02204",
+    "pdm": "AGULHA TRILHO FERROVIA",
+    "grupo": "22"
+  },
+  {
+    "id": "02231",
+    "pdm": "ALAVANCA DE USO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "02334",
+    "pdm": "ALINHADOR DE TRILHO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "02680",
+    "pdm": "APARELHO DE CHOQUE PARA LOCOMOTIVA E VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "02719",
+    "pdm": "APARELHO DE MANOBRA FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "02724",
+    "pdm": "APARELHO DE MUDANCA DE VIA - CRUZAMENTO FERROVIA-RIO",
+    "grupo": "22"
+  },
+  {
+    "id": "02745",
+    "pdm": "APARELHO DE TRACAO PARA LOCOMOTIVA E VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "03023",
+    "pdm": "ARO DE RODA FERROVIARIA",
+    "grupo": "22"
+  },
+  {
+    "id": "03049",
+    "pdm": "ARRUELA DE DORMENTE",
+    "grupo": "22"
+  },
+  {
+    "id": "03588",
+    "pdm": "BITOLA DE FERRO PARA LINHA FERROVIARIA",
+    "grupo": "22"
+  },
+  {
+    "id": "03936",
+    "pdm": "BUCHA DE MANCAL DE FRICCAO FERROVIARIA",
+    "grupo": "22"
+  },
+  {
+    "id": "03944",
+    "pdm": "BUCHA PARA DORMENTE",
+    "grupo": "22"
+  },
+  {
+    "id": "04590",
+    "pdm": "CARRO - GUINDASTE FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "04604",
+    "pdm": "CARRO DE MANUTENCAO DE LEITO DE FERROVIA",
+    "grupo": "22"
+  },
+  {
+    "id": "04608",
+    "pdm": "CARRO DE TESTE DE LEITO DE FERROVIA",
+    "grupo": "22"
+  },
+  {
+    "id": "04611",
+    "pdm": "CARRO FERROVIARIO AUTOMOTRIZ",
+    "grupo": "22"
+  },
+  {
+    "id": "04612",
+    "pdm": "CARRO FERROVIARIO REBOCAVEL",
+    "grupo": "22"
+  },
+  {
+    "id": "04763",
+    "pdm": "CENTRO DE RODA FERROVIARIA",
+    "grupo": "22"
+  },
+  {
+    "id": "04841",
+    "pdm": "CHAPA ESPECIAL PARA CARRO E VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "05411",
+    "pdm": "COMPONENTE DE APARELHO DE MANOBRA FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "05412",
+    "pdm": "COMPONENTE DE ENGATE FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "05413",
+    "pdm": "COMPONENTE DE MANCAL DE VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "05414",
+    "pdm": "COMPONENTE DE MANCAL DE VEICULO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "05415",
+    "pdm": "COMPONENTE DE MANCAL PARA LOCOMOTIVA",
+    "grupo": "22"
+  },
+  {
+    "id": "05418",
+    "pdm": "COMPONENTE DE RODEIRO DE VEICULO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "05419",
+    "pdm": "COMPONENTE DE RODEIRO PARA LOCOMOTIVA",
+    "grupo": "22"
+  },
+  {
+    "id": "05420",
+    "pdm": "COMPONENTE DE RODEIRO PARA VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "05806",
+    "pdm": "CONTRATRILHO E CREMALHEIRA",
+    "grupo": "22"
+  },
+  {
+    "id": "05955",
+    "pdm": "CRAVO DE DORMENTE FERROVIA",
+    "grupo": "22"
+  },
+  {
+    "id": "06385",
+    "pdm": "DORMENTE DE CONCRETO",
+    "grupo": "22"
+  },
+  {
+    "id": "06386",
+    "pdm": "DORMENTE DE FERRO FUNDIDO / ACO",
+    "grupo": "22"
+  },
+  {
+    "id": "06387",
+    "pdm": "DORMENTE DE MADEIRA",
+    "grupo": "22"
+  },
+  {
+    "id": "06388",
+    "pdm": "DORMENTE PARA FERROVIAS",
+    "grupo": "22"
+  },
+  {
+    "id": "06407",
+    "pdm": "DRESINA",
+    "grupo": "22"
+  },
+  {
+    "id": "06438",
+    "pdm": "EIXO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "06444",
+    "pdm": "ELEMENTO DE FRENAGEM PARA LOCOMOTIVA E VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "06564",
+    "pdm": "ENGATE E ACESSORIO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "06565",
+    "pdm": "ENGATE FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "06705",
+    "pdm": "EQUIPAMENTO DE JUNCAO DE TRILHO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "06749",
+    "pdm": "EQUIPAMENTO DE SEPARACAO DE TRILHO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "06802",
+    "pdm": "EQUIPAMENTO MONTADO OU NAO EM VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "06809",
+    "pdm": "EQUIPAMENTO PARA ASSENTAMENTO NA VIA FERREA",
+    "grupo": "22"
+  },
+  {
+    "id": "06814",
+    "pdm": "EQUIPAMENTO PARA CONSTRUCAO DE LINHA FERREA",
+    "grupo": "22"
+  },
+  {
+    "id": "07389",
+    "pdm": "FERRAMENTA NAO MOTORIZADA PARA VIA PERMANENTE",
+    "grupo": "22"
+  },
+  {
+    "id": "08154",
+    "pdm": "GUINDASTE MONTADO EM AUTOMOTRIZ",
+    "grupo": "22"
+  },
+  {
+    "id": "08156",
+    "pdm": "GUINDASTE MONTADO EM LOCOMOTIVA",
+    "grupo": "22"
+  },
+  {
+    "id": "08157",
+    "pdm": "GUINDASTE MONTADO EM VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "08162",
+    "pdm": "GUINDASTES MONTADOS EM VAGOES",
+    "grupo": "22"
+  },
+  {
+    "id": "08520",
+    "pdm": "JANELA DE LOCOMOTIVA E VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "08728",
+    "pdm": "LASTRO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "08903",
+    "pdm": "LOCOMOTIVA A CARVAO",
+    "grupo": "22"
+  },
+  {
+    "id": "08904",
+    "pdm": "LOCOMOTIVA A OLEO DIESEL",
+    "grupo": "22"
+  },
+  {
+    "id": "08905",
+    "pdm": "LOCOMOTIVA A VAPOR",
+    "grupo": "22"
+  },
+  {
+    "id": "08906",
+    "pdm": "LOCOMOTIVA DE ACUMULADOR ELETRICO",
+    "grupo": "22"
+  },
+  {
+    "id": "08907",
+    "pdm": "LOCOMOTIVA DIESEL",
+    "grupo": "22"
+  },
+  {
+    "id": "08908",
+    "pdm": "LOCOMOTIVA DIESEL - ELETRICA",
+    "grupo": "22"
+  },
+  {
+    "id": "08909",
+    "pdm": "LOCOMOTIVA ELETRICA",
+    "grupo": "22"
+  },
+  {
+    "id": "08910",
+    "pdm": "LOCOMOTIVA GUINDASTE",
+    "grupo": "22"
+  },
+  {
+    "id": "08911",
+    "pdm": "LOCOMOTIVA TENDER",
+    "grupo": "22"
+  },
+  {
+    "id": "08931",
+    "pdm": "LUBRIFICADOR DE VIA FERREA",
+    "grupo": "22"
+  },
+  {
+    "id": "08991",
+    "pdm": "MACACO DE CURVAR TRILHO",
+    "grupo": "22"
+  },
+  {
+    "id": "09063",
+    "pdm": "MANCAL DE FRICCAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "09064",
+    "pdm": "MANCAL DE LOCOMOTIVA",
+    "grupo": "22"
+  },
+  {
+    "id": "09070",
+    "pdm": "MANCAL PARA VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "09444",
+    "pdm": "MATERIAL DE BORRACHA PARA LOCOMOTIVA E VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": "09479",
+    "pdm": "MATERIAL PARA LOCOMOTIVA. VAGÃO E VAGONETE",
+    "grupo": "22"
+  },
+  {
+    "id": "09481",
+    "pdm": "MATERIAL PARA CREMALHEIRA - FERROVIARIA",
+    "grupo": "22"
+  },
+  {
+    "id": 10432,
+    "pdm": "PARAFUSO DE DORMENTE",
+    "grupo": "22"
+  },
+  {
+    "id": 10475,
+    "pdm": "PASSAGEM DE NIVEL FERROVIARIA ( TRILHO )",
+    "grupo": "22"
+  },
+  {
+    "id": 10546,
+    "pdm": "PECA SOBRESSALENTE DE LOCOMOTIVA ALCO",
+    "grupo": "22"
+  },
+  {
+    "id": 10547,
+    "pdm": "PECA SOBRESSALENTE DE LOCOMOTIVA GE",
+    "grupo": "22"
+  },
+  {
+    "id": 10548,
+    "pdm": "PECA SOBRESSALENTE DE LOCOMOTIVA GM",
+    "grupo": "22"
+  },
+  {
+    "id": 10549,
+    "pdm": "PECA SOBRESSALENTE DE VAGAO E LOCOMOTIVA WABCO",
+    "grupo": "22"
+  },
+  {
+    "id": 10550,
+    "pdm": "PECA SOBRESSALENTE DE VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": 10551,
+    "pdm": "PECA SOBRESSALENTE PARA EQUIPAMENTO DE MANUTENCAO",
+    "grupo": "22"
+  },
+  {
+    "id": 10552,
+    "pdm": "PECA SOBRESSALENTE PARA LOCOMOTIVA",
+    "grupo": "22"
+  },
+  {
+    "id": 10553,
+    "pdm": "PECA SOBRESSALENTE PARA VAGAO E LOCOMOTIVA CATERPILLAR",
+    "grupo": "22"
+  },
+  {
+    "id": 10658,
+    "pdm": "PERFILADO ESPECIAL PARA CARRO E VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": 10668,
+    "pdm": "PERFURADORA DE CORTADORA VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": 10744,
+    "pdm": "PINO DE MANCAL DE FRICCAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": 10811,
+    "pdm": "PLACA APOIO FIXACAO LEITO FERROVIA",
+    "grupo": "22"
+  },
+  {
+    "id": 10812,
+    "pdm": "PLACA APOIO FIXACAO TRILHO FERROVIA",
+    "grupo": "22"
+  },
+  {
+    "id": 11028,
+    "pdm": "PORCA PARA DORMENTE",
+    "grupo": "22"
+  },
+  {
+    "id": 11070,
+    "pdm": "PORTA DE LOCOMOTIVA E VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": 11773,
+    "pdm": "RODA FERROVIARIA",
+    "grupo": "22"
+  },
+  {
+    "id": 11777,
+    "pdm": "RODEIRO DE LOCOMOTIVA",
+    "grupo": "22"
+  },
+  {
+    "id": 11778,
+    "pdm": "RODEIRO PARA VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": 11937,
+    "pdm": "SAPATA DE FREIO - VEICULO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": 11968,
+    "pdm": "SECAO DE TRILHO DE DESVIO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": 12283,
+    "pdm": "SUB - LASTRO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": 12482,
+    "pdm": "TALA FIXACAO TRILHO FERROVIA",
+    "grupo": "22"
+  },
+  {
+    "id": 12627,
+    "pdm": "TENDER FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": 12981,
+    "pdm": "TRILHO DE CRUZAMENTO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": 12982,
+    "pdm": "TRILHO DE FERROVIA",
+    "grupo": "22"
+  },
+  {
+    "id": 13019,
+    "pdm": "TRUQUE DE VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": 13221,
+    "pdm": "VAGAO - TANQUE",
+    "grupo": "22"
+  },
+  {
+    "id": 13222,
+    "pdm": "VAGAO ABERTO",
+    "grupo": "22"
+  },
+  {
+    "id": 13223,
+    "pdm": "VAGAO CONSTRUIDO ESPECIALMENTE PARA SERVICO PESADO / TRANSPORTE DE MINERIO E PEDRA",
+    "grupo": "22"
+  },
+  {
+    "id": 13224,
+    "pdm": "VAGAO DE DESCARGA AUTOMOTIVA",
+    "grupo": "22"
+  },
+  {
+    "id": 13225,
+    "pdm": "VAGAO EQUIPADO COM BATEDOR DE BALASTRO",
+    "grupo": "22"
+  },
+  {
+    "id": 13226,
+    "pdm": "VAGAO FERROVIARIO",
+    "grupo": "22"
+  },
+  {
+    "id": 13227,
+    "pdm": "VAGAO FERROVIARIO DE TRANSPORTE DE TURMA",
+    "grupo": "22"
+  },
+  {
+    "id": 13228,
+    "pdm": "VAGAO FERROVIARIO GUINDASTE",
+    "grupo": "22"
+  },
+  {
+    "id": 13229,
+    "pdm": "VAGAO FRIGORIFICO",
+    "grupo": "22"
+  },
+  {
+    "id": 13230,
+    "pdm": "VAGAO PARA ANIMAL",
+    "grupo": "22"
+  },
+  {
+    "id": 13231,
+    "pdm": "VAGAO PARA BAGAGEM",
+    "grupo": "22"
+  },
+  {
+    "id": 13232,
+    "pdm": "VAGAO PARA PASSAGEIROS",
+    "grupo": "22"
+  },
+  {
+    "id": 13233,
+    "pdm": "VAGAO POSTAL",
+    "grupo": "22"
+  },
+  {
+    "id": 13340,
+    "pdm": "VEICULO AUTOPROPULSOR PARA VIA FERREA - DETECCAO",
+    "grupo": "22"
+  },
+  {
+    "id": 13341,
+    "pdm": "VEICULO AUTOPROPULSOR PARA VIA FERREA - SUBSTITUIR",
+    "grupo": "22"
+  },
+  {
+    "id": 13342,
+    "pdm": "VEICULO AUTOPROPULSOR REPERFILADOR / RETIFICADOR",
+    "grupo": "22"
+  },
+  {
+    "id": 13345,
+    "pdm": "VEICULO DE MANUTENCAO PARA LEVANTAR / NIVELAR / AL",
+    "grupo": "22"
+  },
+  {
+    "id": 13346,
+    "pdm": "VEICULO DESGUARNECEDOR DE LASTRO PARA LIMPEZA / RE",
+    "grupo": "22"
+  },
+  {
+    "id": 13353,
+    "pdm": "VEICULO PARA REGULAR E DISTRIBUIR LASTRO - VIA FER",
+    "grupo": "22"
+  },
+  {
+    "id": 16264,
+    "pdm": "VAGÃO ABERTO",
+    "grupo": "22"
+  },
+  {
+    "id": 16265,
+    "pdm": "AGULHA LEITO RODOVIA",
+    "grupo": "22"
+  },
+  {
+    "id": 16786,
+    "pdm": "LOCOMOTIVAS",
+    "grupo": "22"
+  },
+  {
+    "id": 16787,
+    "pdm": "VAGÕES FERROVIÁRIOS",
+    "grupo": "22"
+  },
+  {
+    "id": 16788,
+    "pdm": "EQUIPAMENTO DE CONSTRUCAO E MANUTENCAO DE LEITO DE FERROVIA ROVIAS",
+    "grupo": "22"
+  },
+  {
+    "id": 16789,
+    "pdm": "ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+    "grupo": "22"
+  },
+  {
+    "id": 16790,
+    "pdm": "MATERIAIS DE FERROVIA",
+    "grupo": "22"
+  }
+]
