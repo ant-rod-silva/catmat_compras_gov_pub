@@ -1,102 +1,127 @@
 [
   {
     "id": "06861",
-    "pdm": "EQUIPAMENTOS OPERACIONAIS DE REGULAGEM DE ARMAMENTO NUCLEAR"
+    "pdm": "EQUIPAMENTOS OPERACIONAIS DE REGULAGEM DE ARMAMENTO NUCLEAR",
+    "grupo": 11
   },
   {
     "id": "07026",
-    "pdm": "ESPOLETA DE DISPARO"
+    "pdm": "ESPOLETA DE DISPARO",
+    "grupo": 11
   },
   {
     "id": "07034",
-    "pdm": "ESPOLETAS"
+    "pdm": "ESPOLETAS",
+    "grupo": 11
   },
   {
     "id": "07194",
-    "pdm": "ESTROPOS PARA ARMAMENTO NUCLEAR"
+    "pdm": "ESTROPOS PARA ARMAMENTO NUCLEAR",
+    "grupo": 11
   },
   {
     "id": "07722",
-    "pdm": "FONTES DE ENERGIA PARA DETONACAO E DISPARO"
+    "pdm": "FONTES DE ENERGIA PARA DETONACAO E DISPARO",
+    "grupo": 11
   },
   {
     "id": 11469,
-    "pdm": "REBOQUES ESPECIAIS PARA ARMAMENTO NUCLEAR"
+    "pdm": "REBOQUES ESPECIAIS PARA ARMAMENTO NUCLEAR",
+    "grupo": 11
   },
   {
     "id": 11970,
-    "pdm": "SECOES DE BASE"
+    "pdm": "SECOES DE BASE",
+    "grupo": 11
   },
   {
     "id": 11971,
-    "pdm": "SECOES DE CARCACAS"
+    "pdm": "SECOES DE CARCACAS",
+    "grupo": 11
   },
   {
     "id": 11972,
-    "pdm": "SECOES DE CORPO"
+    "pdm": "SECOES DE CORPO",
+    "grupo": 11
   },
   {
     "id": 11973,
-    "pdm": "SECOES DE OGIVAS"
+    "pdm": "SECOES DE OGIVAS",
+    "grupo": 11
   },
   {
     "id": 12167,
-    "pdm": "SISTEMAS DE ARMAR E DETONAR VEICULOS ESPACIAIS NUCLEARES DE REENTRADA"
+    "pdm": "SISTEMAS DE ARMAR E DETONAR VEICULOS ESPACIAIS NUCLEARES DE REENTRADA",
+    "grupo": 11
   },
   {
     "id": 12429,
-    "pdm": "SUPORTES PARA ARMAMENTO NUCLEAR"
+    "pdm": "SUPORTES PARA ARMAMENTO NUCLEAR",
+    "grupo": 11
   },
   {
     "id": 13195,
-    "pdm": "UNIDADES CONSUMIVEIS DE DETONACAO E DISPARO DE ARMAS NUCLEARES"
+    "pdm": "UNIDADES CONSUMIVEIS DE DETONACAO E DISPARO DE ARMAS NUCLEARES",
+    "grupo": 11
   },
   {
     "id": 16672,
-    "pdm": "BOMBAS NUCLEARES"
+    "pdm": "BOMBAS NUCLEARES",
+    "grupo": 11
   },
   {
     "id": 16673,
-    "pdm": "PROJÉTEIS NUCLEARES"
+    "pdm": "PROJÃ‰TEIS NUCLEARES",
+    "grupo": 11
   },
   {
     "id": 16674,
-    "pdm": "OGIVAS NUCLEARES E SEÇÕES DE OGIVAS NUCLEARES"
+    "pdm": "OGIVAS NUCLEARES E SEÃ‡Ã•ES DE OGIVAS NUCLEARES",
+    "grupo": 11
   },
   {
     "id": 16675,
-    "pdm": "BOMBAS NUCLEARES DE PROFUNDIDADE"
+    "pdm": "BOMBAS NUCLEARES DE PROFUNDIDADE",
+    "grupo": 11
   },
   {
     "id": 16676,
-    "pdm": "CARGAS NUCLEARES DE DEMOLIÇÃO"
+    "pdm": "CARGAS NUCLEARES DE DEMOLIÃ‡ÃƒO",
+    "grupo": 11
   },
   {
     "id": 16677,
-    "pdm": "FOGUETES NUCLEARES"
+    "pdm": "FOGUETES NUCLEARES",
+    "grupo": 11
   },
   {
     "id": 16678,
-    "pdm": "CONJUNTOS DE CONVERSÃO PARA ARMAMENTO NUCLEAR"
+    "pdm": "CONJUNTOS DE CONVERSÃƒO PARA ARMAMENTO NUCLEAR",
+    "grupo": 11
   },
   {
     "id": 16679,
-    "pdm": "DISPOSITIVOS DE DETONAÇÃO E DISPARO DE ARMAMENTO NUCLEAR"
+    "pdm": "DISPOSITIVOS DE DETONAÃ‡ÃƒO E DISPARO DE ARMAMENTO NUCLEAR",
+    "grupo": 11
   },
   {
     "id": 16680,
-    "pdm": "COMPONENTES NUCLEARES"
+    "pdm": "COMPONENTES NUCLEARES",
+    "grupo": 11
   },
   {
     "id": 16681,
-    "pdm": "COMPONENTES EXPLOSIVOS E PIROTÉCNICOS DE ARMAMENTO NUCLEAR"
+    "pdm": "COMPONENTES EXPLOSIVOS E PIROTÃ‰CNICOS DE ARMAMENTO NUCLEAR",
+    "grupo": 11
   },
   {
     "id": 16682,
-    "pdm": "EQUIPAMENTO ESPECIALIZADO DE MANUSEIO E ENSAIO DE ARMAMENTONUCLEAR"
+    "pdm": "EQUIPAMENTO ESPECIALIZADO DE MANUSEIO E ENSAIO DE ARMAMENTONUCLEAR",
+    "grupo": 11
   },
   {
     "id": 16683,
-    "pdm": "MATERIAL BÉLICO NUCLEAR DIVERSOS"
+    "pdm": "MATERIAL BÃ‰LICO NUCLEAR DIVERSOS",
+    "grupo": 11
   }
 ]
