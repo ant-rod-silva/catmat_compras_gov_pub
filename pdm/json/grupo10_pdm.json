@@ -1,442 +1,552 @@
 [
   {
     "id": "01290",
-    "pdm": "SOQUETE ARMA DE FOGO"
+    "pdm": "SOQUETE ARMA DE FOGO",
+    "grupo": "10"
   },
   {
     "id": "01291",
-    "pdm": "SOQUETE ARMA DE FOGO"
+    "pdm": "SOQUETE ARMA DE FOGO",
+    "grupo": "10"
   },
   {
     "id": "01712",
-    "pdm": "PE«AS / ACESS”RIOS ARMAMENTO"
+    "pdm": "PE√áAS / ACESS√ìRIOS ARMAMENTO",
+    "grupo": "10"
   },
   {
     "id": "02994",
-    "pdm": "ARMA DE FOGO - EMPUNH¡VEL - M…DIO PORTE"
+    "pdm": "ARMA DE FOGO - EMPUNH√ÅVEL - M√âDIO PORTE",
+    "grupo": "10"
   },
   {
     "id": "02995",
-    "pdm": "ARMA DE FOGO DE PEQUENO PORTE - REV”LVER / PISTOLA"
+    "pdm": "ARMA DE FOGO DE PEQUENO PORTE - REV√ìLVER / PISTOLA",
+    "grupo": "10"
   },
   {
     "id": "03204",
-    "pdm": "BAINHA FAC√O CA«A"
+    "pdm": "BAINHA FAC√ÉO CA√áA",
+    "grupo": "10"
   },
   {
     "id": "04050",
-    "pdm": "CABO PARA ARMA DE FOGO"
+    "pdm": "CABO PARA ARMA DE FOGO",
+    "grupo": "10"
   },
   {
     "id": "04419",
-    "pdm": "PE«AS / COMPONENTES CANH√O"
+    "pdm": "PE√áAS / COMPONENTES CANH√ÉO",
+    "grupo": "10"
   },
   {
     "id": "04570",
-    "pdm": "CARREGADOR PARA MUNI«√O"
+    "pdm": "CARREGADOR PARA MUNI√á√ÉO",
+    "grupo": "10"
   },
   {
     "id": "06944",
-    "pdm": "ESCOVA DE LIMPEZA DE ARMA"
+    "pdm": "ESCOVA DE LIMPEZA DE ARMA",
+    "grupo": "10"
   },
   {
     "id": "07019",
-    "pdm": "ESPINGARDAS PARA CACA SUBMARINA"
-  },
+    "pdm": "ESPINGARDAS PARA CACA SUBMARINA",
+    "grupo": "10"
+  }
   {
     "id": "07120",
-    "pdm": "ESTEIRAS PARA CARGAS DE PROFUNDIDADE"
+    "pdm": "ESTEIRAS PARA CARGAS DE PROFUNDIDADE",
+    "grupo": "10"
   },
   {
     "id": "07155",
-    "pdm": "ESTOJO DE LIMPEZA DE ARMA"
+    "pdm": "ESTOJO DE LIMPEZA DE ARMA",
+    "grupo": "10"
   },
   {
     "id": "07282",
-    "pdm": "FACOES DE CACA"
+    "pdm": "FACOES DE CACA",
+    "grupo": "10"
   },
   {
     "id": "07688",
-    "pdm": "FOLE PARA CANHAO"
+    "pdm": "FOLE PARA CANHAO",
+    "grupo": "10"
   },
   {
     "id": "07889",
-    "pdm": "FUZIS"
+    "pdm": "FUZIS",
+    "grupo": "10"
   },
   {
     "id": "08681",
-    "pdm": "LANCA-CHAMAS"
+    "pdm": "LANCA-CHAMAS",
+    "grupo": "10"
   },
   {
     "id": "08686",
-    "pdm": "LANCADORES ADAPTAVEIS PARA EMPREGO DE MISSEIS GUIADOS"
+    "pdm": "LANCADORES ADAPTAVEIS PARA EMPREGO DE MISSEIS GUIADOS",
+    "grupo": "10"
   },
   {
     "id": "08687",
-    "pdm": "LANCADORES DE CARREGAMENTO SIMPLES PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM"
+    "pdm": "LANCADORES DE CARREGAMENTO SIMPLES PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM",
+    "grupo": "10"
   },
   {
     "id": "08688",
-    "pdm": "LANCADORES DE DE TIROS AUTOMATICOS PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM"
+    "pdm": "LANCADORES DE DE TIROS AUTOMATICOS PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM",
+    "grupo": "10"
   },
   {
     "id": "08689",
-    "pdm": "LANCADORES DE FOGUETES AEROTRANSPORTADOS"
+    "pdm": "LANCADORES DE FOGUETES AEROTRANSPORTADOS",
+    "grupo": "10"
   },
   {
     "id": "08690",
-    "pdm": "LANCADORES DE GRANADA DE CARTUCHOS COMPLETO PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM"
+    "pdm": "LANCADORES DE GRANADA DE CARTUCHOS COMPLETO PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM",
+    "grupo": "10"
   },
   {
     "id": "08691",
-    "pdm": "LANCADORES DE GRANADAS DE CARREGAMENTO AUTOMATICO PARA ARMAS DE FOG DE CALIB ACIMA DE 30MM ATE 75MM"
+    "pdm": "LANCADORES DE GRANADAS DE CARREGAMENTO AUTOMATICO PARA ARMAS DE FOG DE CALIB ACIMA DE 30MM ATE 75MM",
+    "grupo": "10"
   },
   {
     "id": "09520",
-    "pdm": "MECANISMOS DE CULATRA PARA ARMAS DE CALIBRE ACIMA DE 30MM ATE 75MM"
+    "pdm": "MECANISMOS DE CULATRA PARA ARMAS DE CALIBRE ACIMA DE 30MM ATE 75MM",
+    "grupo": "10"
   },
   {
     "id": "09521",
-    "pdm": "MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 125MM ATE 150MM"
+    "pdm": "MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 125MM ATE 150MM",
+    "grupo": "10"
   },
   {
     "id": "09522",
-    "pdm": "MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 300MM"
+    "pdm": "MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 300MM",
+    "grupo": "10"
   },
   {
     "id": "09523",
-    "pdm": "MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 75MM ATE 125MM"
+    "pdm": "MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 75MM ATE 125MM",
+    "grupo": "10"
   },
   {
     "id": "09524",
-    "pdm": "MECANISMOS DE INSTRUCAO PARA ARMAS DE CALIBRE ACIMA DE 300MM"
+    "pdm": "MECANISMOS DE INSTRUCAO PARA ARMAS DE CALIBRE ACIMA DE 300MM",
+    "grupo": "10"
   },
   {
     "id": "09706",
-    "pdm": "METRALHADORA / COMPONENTE"
+    "pdm": "METRALHADORA / COMPONENTE",
+    "grupo": "10"
   },
   {
     "id": "09707",
-    "pdm": "METRALHADORAS"
+    "pdm": "METRALHADORAS",
+    "grupo": "10"
   },
   {
     "id": 10799,
-    "pdm": "PISTOLA"
+    "pdm": "PISTOLA",
+    "grupo": "10"
   },
   {
     "id": 10904,
-    "pdm": "PLATAFORMAS DE DISPARO PARA ARMAS DE CALIBRE ACIMA DE 150MM ATE 200MM"
+    "pdm": "PLATAFORMAS DE DISPARO PARA ARMAS DE CALIBRE ACIMA DE 150MM ATE 200MM",
+    "grupo": "10"
   },
   {
     "id": 11501,
-    "pdm": "REDE DE NEBLINA"
+    "pdm": "REDE DE NEBLINA",
+    "grupo": "10"
   },
   {
     "id": 11529,
-    "pdm": "REFLETORES PARA ARMAS DE CALIBRE ACIMA DE 200MM ATE 300MM"
+    "pdm": "REFLETORES PARA ARMAS DE CALIBRE ACIMA DE 200MM ATE 300MM",
+    "grupo": "10"
   },
   {
     "id": 11747,
-    "pdm": "RIFLES"
+    "pdm": "RIFLES",
+    "grupo": "10"
   },
   {
     "id": 11873,
-    "pdm": "SABRE"
+    "pdm": "SABRE",
+    "grupo": "10"
   },
   {
     "id": 12058,
-    "pdm": "SILENCIADOR DE ARMA"
+    "pdm": "SILENCIADOR DE ARMA",
+    "grupo": "10"
   },
   {
     "id": 12060,
-    "pdm": "SILENCIADORES"
+    "pdm": "SILENCIADORES",
+    "grupo": "10"
   },
   {
     "id": 12073,
-    "pdm": "SIMULADORES DE ARTILHARIA"
+    "pdm": "SIMULADORES DE ARTILHARIA",
+    "grupo": "10"
   },
   {
     "id": 12074,
-    "pdm": "SIMULADORES DE VEICULOS"
+    "pdm": "SIMULADORES DE VEICULOS",
+    "grupo": "10"
   },
   {
     "id": 12075,
-    "pdm": "SIMULADORES DE AERONAVES"
+    "pdm": "SIMULADORES DE AERONAVES",
+    "grupo": "10"
   },
   {
     "id": 12124,
-    "pdm": "SISTEMA DE LIMPEZA / MANUTENCAO DE MATERIAL BELICO PORTATIL"
+    "pdm": "SISTEMA DE LIMPEZA / MANUTENCAO DE MATERIAL BELICO PORTATIL",
+    "grupo": "10"
   },
   {
     "id": 12172,
-    "pdm": "COMPONENTE / SOBRESSALENTE USO MILITAR"
+    "pdm": "COMPONENTE / SOBRESSALENTE USO MILITAR",
+    "grupo": "10"
   },
   {
     "id": 12377,
-    "pdm": "SUPORTE DE ARMAS DE CALIBRE ACIMA DE 30MM ATE 75MM"
+    "pdm": "SUPORTE DE ARMAS DE CALIBRE ACIMA DE 30MM ATE 75MM",
+    "grupo": "10"
   },
   {
     "id": 12409,
-    "pdm": "SUPORTE PARA ARMAS DE CALIBRE ACIMA DE 75MM ATE 125MM"
+    "pdm": "SUPORTE PARA ARMAS DE CALIBRE ACIMA DE 75MM ATE 125MM",
+    "grupo": "10"
   },
   {
     "id": 12430,
-    "pdm": "SUPORTES PARA ARMAS DE CALIBRE ACIMA DE 150MM ATE 200MM"
+    "pdm": "SUPORTES PARA ARMAS DE CALIBRE ACIMA DE 150MM ATE 200MM",
+    "grupo": "10"
   },
   {
     "id": 12505,
-    "pdm": "TAMBORES"
+    "pdm": "TAMBORES",
+    "grupo": "10"
   },
   {
     "id": 13130,
-    "pdm": "PE«AS / COMPONENTES TUBOS DE TORPEDOS"
+    "pdm": "PE√áAS / COMPONENTES TUBOS DE TORPEDOS",
+    "grupo": "10"
   },
   {
     "id": 13794,
-    "pdm": "ANEL FERROLHO"
+    "pdm": "ANEL FERROLHO",
+    "grupo": "10"
   },
   {
     "id": 13795,
-    "pdm": "CHAVE FERROLHO"
+    "pdm": "CHAVE FERROLHO",
+    "grupo": "10"
   },
   {
-    "id": 13796,
-    "pdm": "EXTRATOR C¡PSULA"
+    "id": 13796,,
+    "pdm": "EXTRATOR C√ÅPSULA",
+    "grupo": "10"
   },
   {
     "id": 13797,
-    "pdm": "TUBO TOMADA G¡S"
+    "pdm": "TUBO TOMADA G√ÅS",
+    "grupo": "10"
   },
   {
     "id": 13799,
-    "pdm": "REFOR«ADOR TIRO FESTIM"
+    "pdm": "REFOR√áADOR TIRO FESTIM",
+    "grupo": "10"
   },
   {
     "id": 13800,
-    "pdm": "MOLA EJETOR"
+    "pdm": "MOLA EJETOR",
+    "grupo": "10"
   },
   {
     "id": 13801,
-    "pdm": "EJETOR"
+    "pdm": "EJETOR",
+    "grupo": "10"
   },
   {
     "id": 13802,
-    "pdm": "PINO SEGURAN«A MIRA"
+    "pdm": "PINO SEGURAN√áA MIRA",
+    "grupo": "10"
   },
   {
     "id": 13803,
-    "pdm": "PINO TUBO TOMADA G¡S"
+    "pdm": "PINO TUBO TOMADA G√ÅS",
+    "grupo": "10"
   },
   {
     "id": 13808,
-    "pdm": "MOLA EXTRATOR"
+    "pdm": "MOLA EXTRATOR",
+    "grupo": "10"
   },
   {
     "id": 13809,
-    "pdm": "INSERSOR MOLA EXTRATOR"
+    "pdm": "INSERSOR MOLA EXTRATOR",
+    "grupo": "10"
   },
   {
     "id": 13810,
-    "pdm": "PERCUSSOR"
+    "pdm": "PERCUSSOR",
+    "grupo": "10"
   },
   {
     "id": 14112,
-    "pdm": "MOLA RECUPERADORA"
+    "pdm": "MOLA RECUPERADORA",
+    "grupo": "10"
   },
   {
     "id": 14115,
-    "pdm": "EMPUNHADURA METRALHADORA"
+    "pdm": "EMPUNHADURA METRALHADORA",
+    "grupo": "10"
   },
   {
     "id": 14123,
-    "pdm": "MOLA PERCUSSOR"
+    "pdm": "MOLA PERCUSSOR",
+    "grupo": "10"
   },
   {
     "id": 14124,
-    "pdm": "GUARDA-M√O SUBMETRALHADORA"
+    "pdm": "GUARDA-M√ÉO SUBMETRALHADORA",
+    "grupo": "10"
   },
   {
     "id": 14125,
-    "pdm": "BANDOLEIRA"
+    "pdm": "BANDOLEIRA",
+    "grupo": "10"
   },
   {
     "id": 14129,
-    "pdm": "SUPORTE ROLETE"
+    "pdm": "SUPORTE ROLETE",
+    "grupo": "10"
   },
   {
     "id": 14174,
-    "pdm": "FACA OPERA«√O T¡TICA"
+    "pdm": "FACA OPERA√á√ÉO T√ÅTICA",
+    "grupo": "10"
   },
   {
     "id": 14928,
-    "pdm": "MOLA ARMADILHA PISTOLA"
+    "pdm": "MOLA ARMADILHA PISTOLA",
+    "grupo": "10"
   },
   {
     "id": 14930,
-    "pdm": "CANO PISTOLA"
+    "pdm": "CANO PISTOLA",
+    "grupo": "10"
   },
   {
     "id": 14934,
-    "pdm": "MERGULHADOR BLOCO TRANCAMENTO"
+    "pdm": "MERGULHADOR BLOCO TRANCAMENTO",
+    "grupo": "10"
   },
   {
     "id": 14981,
-    "pdm": "BLOCO TRANCAMENTO"
+    "pdm": "BLOCO TRANCAMENTO",
+    "grupo": "10"
   },
   {
     "id": 14983,
-    "pdm": "TIRANTE GATILHO"
+    "pdm": "TIRANTE GATILHO",
+    "grupo": "10"
   },
   {
     "id": 14985,
-    "pdm": "MOLA TIRANTE GATILHO"
+    "pdm": "MOLA TIRANTE GATILHO",
+    "grupo": "10"
   },
   {
     "id": 14986,
-    "pdm": "ARMADILHA"
+    "pdm": "ARMADILHA",
+    "grupo": "10"
   },
   {
     "id": 14988,
-    "pdm": "C√O"
+    "pdm": "C√ÉO",
+    "grupo": "10"
   },
   {
     "id": 14990,
-    "pdm": "IMPULSOR TRAVA PERCUSSOR"
+    "pdm": "IMPULSOR TRAVA PERCUSSOR",
+    "grupo": "10"
   },
   {
     "id": 14991,
-    "pdm": "MOLA GATILHO"
+    "pdm": "MOLA GATILHO",
+    "grupo": "10"
   },
   {
     "id": 14992,
-    "pdm": "MOLA RET…M FERROLHO"
+    "pdm": "MOLA RET√âM FERROLHO",
+    "grupo": "10"
   },
   {
     "id": 14995,
-    "pdm": "MOLA MERGULHADOR REGISTRO SEGURAN«A"
+    "pdm": "MOLA MERGULHADOR REGISTRO SEGURAN√áA",
+    "grupo": "10"
   },
   {
     "id": 14996,
-    "pdm": "FUNDO CARREGADOR"
+    "pdm": "FUNDO CARREGADOR",
+    "grupo": "10"
   },
   {
     "id": 14998,
-    "pdm": "PLACA PUNHO"
+    "pdm": "PLACA PUNHO",
+    "grupo": "10"
   },
   {
     "id": 14999,
-    "pdm": "PARAFUSO PLACA PUNHO"
+    "pdm": "PARAFUSO PLACA PUNHO",
+    "grupo": "10"
   },
   {
     "id": 15001,
-    "pdm": "BUCHA PLACA PUNHO"
+    "pdm": "BUCHA PLACA PUNHO",
+    "grupo": "10"
   },
   {
     "id": 15002,
-    "pdm": "CARREGADOR MUNI«√O"
+    "pdm": "CARREGADOR MUNI√á√ÉO",
+    "grupo": "10"
   },
   {
     "id": 15003,
-    "pdm": "ESTOJO PORTA CARREGADOR"
+    "pdm": "ESTOJO PORTA CARREGADOR",
+    "grupo": "10"
   },
   {
     "id": 15007,
-    "pdm": "MOLA C√O"
+    "pdm": "MOLA C√ÉO",
+    "grupo": "10"
   },
   {
     "id": 15115,
-    "pdm": "MOLA REGISTRO SEGURAN«A PISTOLA"
+    "pdm": "MOLA REGISTRO SEGURAN√áA PISTOLA",
+    "grupo": "10"
   },
   {
     "id": 15130,
-    "pdm": "BUCHA DA PLACA PUNHO ESQUERDO"
+    "pdm": "BUCHA DA PLACA PUNHO ESQUERDO",
+    "grupo": "10"
   },
   {
     "id": 15402,
-    "pdm": "KIT CONVERS√O"
+    "pdm": "KIT CONVERS√ÉO",
+    "grupo": "10"
   },
   {
     "id": 15404,
-    "pdm": "CONJUNTO CONVERS√O MUNI«√O"
+    "pdm": "CONJUNTO CONVERS√ÉO MUNI√á√ÉO",
+    "grupo": "10"
   },
   {
     "id": 15813,
-    "pdm": "PERCINTA"
+    "pdm": "PERCINTA",
+    "grupo": "10"
   },
   {
     "id": 16109,
-    "pdm": "ESTOJO LIMPEZA ARMAMENTO"
+    "pdm": "ESTOJO LIMPEZA ARMAMENTO",
+    "grupo": "10"
   },
   {
     "id": 16657,
-    "pdm": "ARMA N√O LETAL"
+    "pdm": "ARMA N√ÉO LETAL",
+    "grupo": "10"
   },
   {
     "id": 16658,
-    "pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM AT… 75MM"
+    "pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM AT√â 75MM",
+    "grupo": "10"
   },
   {
     "id": 16659,
-    "pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 75MM AT… 125MM"
+    "pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 75MM AT√â 125MM",
+    "grupo": "10"
   },
   {
     "id": 16660,
-    "pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 125MM AT… 150MM"
+    "pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 125MM AT√â 150MM",
+    "grupo": "10"
   },
   {
     "id": 16661,
-    "pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 150MM AT… 200MM"
+    "pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 150MM AT√â 200MM",
+    "grupo": "10"
   },
   {
     "id": 16662,
-    "pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 200MM AT… 300MM"
+    "pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 200MM AT√â 300MM",
+    "grupo": "10"
   },
   {
     "id": 16663,
-    "pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 300MM"
+    "pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 300MM",
+    "grupo": "10"
   },
   {
     "id": 16664,
-    "pdm": "ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÕMICA"
+    "pdm": "ARMAMENTO E EQUIPAMENTOS DE GUERRA QU√çMICA",
+    "grupo": "10"
   },
   {
     "id": 16665,
-    "pdm": "LAN«ADORES DE TORPEDOS E DE BOMBAS DE PROFUNDIDADE"
+    "pdm": "LAN√áADORES DE TORPEDOS E DE BOMBAS DE PROFUNDIDADE",
+    "grupo": "10"
   },
   {
     "id": 16666,
-    "pdm": "LAN«ADORES DE FOGUETES E PIROT…CNICOS"
+    "pdm": "LAN√áADORES DE FOGUETES E PIROT√âCNICOS",
+    "grupo": "10"
   },
   {
     "id": 16667,
-    "pdm": "REDES SUBMARINAS DE DEFESA DE PORTOS"
+    "pdm": "REDES SUBMARINAS DE DEFESA DE PORTOS",
+    "grupo": "10"
   },
   {
     "id": 16668,
-    "pdm": "EQUIPAMENTOS DE DESMAGNETIZA«√O E DE VARREDURA DE MINAS"
+    "pdm": "EQUIPAMENTOS DE DESMAGNETIZA√á√ÉO E DE VARREDURA DE MINAS",
+    "grupo": "10"
   },
   {
     "id": 16669,
-    "pdm": "ACESS”RIO/EQUIPAMENTO CAMUFLAGEM E DISSIMULA«√O"
+    "pdm": "ACESS√ìRIO/EQUIPAMENTO CAMUFLAGEM E DISSIMULA√á√ÉO",
+    "grupo": "10"
   },
   {
     "id": 16670,
-    "pdm": "CONJUNTOS INTERCAMBI¡VEIS DE DUAS OU MAIS CLASSES"
+    "pdm": "CONJUNTOS INTERCAMBI√ÅVEIS DE DUAS OU MAIS CLASSES",
+    "grupo": "10"
   },
   {
     "id": 17586,
-    "pdm": "ANEL VEDA«√O ARMAMENTO"
+    "pdm": "ANEL VEDA√á√ÉO ARMAMENTO",
+    "grupo": "10"
   },
   {
     "id": 17587,
-    "pdm": "PARAFUSO ARMAMENTO"
+    "pdm": "PARAFUSO ARMAMENTO",
+    "grupo": "10"
   },
   {
     "id": 17996,
-    "pdm": "ESPARGIDOR DEFENSIVO"
+    "pdm": "ESPARGIDOR DEFENSIVO",
+    "grupo": "10"
   },
   {
     "id": 18369,
-    "pdm": "PORCA ARMAMENTO"
+    "pdm": "PORCA ARMAMENTO",
+    "grupo": "10"
   }
 ]
