@@ -1,0 +1,212 @@
+[
+  {
+    "id": "02323",
+    "pdm": "ALIMENTADOR DE MAQUINA DE SERRARIA",
+    "grupo": "32"
+  },
+  {
+    "id": "03271",
+    "pdm": "BANCADA PROFISSIONAL",
+    "grupo": "32"
+  },
+  {
+    "id": "03985",
+    "pdm": "CABEÇOTE DE FACA DE MÁQUINA DE TRABALHO EM MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": "04690",
+    "pdm": "CASQUEIRO INDUSTRIAL",
+    "grupo": "32"
+  },
+  {
+    "id": "05902",
+    "pdm": "CORRENTE CORTANTE",
+    "grupo": "32"
+  },
+  {
+    "id": "06081",
+    "pdm": "DESEMPENADEIRA DE MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": "06268",
+    "pdm": "DISCO PARA SERRA DE FITA PARA MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": "06568",
+    "pdm": "ENGENHO DE SERRARIA",
+    "grupo": "32"
+  },
+  {
+    "id": "06584",
+    "pdm": "ENTALHADEIRA INDUSTRIAL",
+    "grupo": "32"
+  },
+  {
+    "id": "06795",
+    "pdm": "EQUIPAMENTO INDUSTRIAL DE SERRAR MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": "07280",
+    "pdm": "FACA DE MAQUINA - MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": "07385",
+    "pdm": "FERRAMENTA DE CORTE - MAQUINA DE TRABALHO EM MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": "08616",
+    "pdm": "LÂMINA DE MÁQUINA PARA TRABALHO EM MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": "08618",
+    "pdm": "PEÇAS E ACESSÓRIOS FERRAMENTAS",
+    "grupo": "32"
+  },
+  {
+    "id": "08619",
+    "pdm": "LAMINA DE SERRA DE MAQUINA DE TRABALHO EM MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": "08625",
+    "pdm": "LAMINA ENSAMBLADORA - MAQUINA TRABALHO EM MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": "08626",
+    "pdm": "LAMINA ENTALHADORA - MAQUINA TRABALHO EM MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": "08719",
+    "pdm": "LAPIS DE CARPINTEIRO",
+    "grupo": "32"
+  },
+  {
+    "id": "09050",
+    "pdm": "MALHETADEIRA INDUSTRIAL",
+    "grupo": "32"
+  },
+  {
+    "id": "09160",
+    "pdm": "MAQUINA DE CARPINTARIA MOTORIZADA",
+    "grupo": "32"
+  },
+  {
+    "id": "09161",
+    "pdm": "MAQUINA DE CARPINTARIA NAO MOTORIZADA - MANUAL",
+    "grupo": "32"
+  },
+  {
+    "id": "09264",
+    "pdm": "MAQUINA INDUSTRIAL DE APLAINAR MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": "09270",
+    "pdm": "MAQUINA INDUSTRIAL DE DESDOBRAR MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": "09302",
+    "pdm": "MAQUINA INDUSTRIAL DE SERRAR MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": "09919",
+    "pdm": "MOTOSSERRA INDUSTRIAL",
+    "grupo": "32"
+  },
+  {
+    "id": 11694,
+    "pdm": "RESPIGADEIRA INDUSTRIAL",
+    "grupo": "32"
+  },
+  {
+    "id": 12033,
+    "pdm": "SERRA CIRCULAR DE MAQUINA DE TRABALHO EM MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": 12034,
+    "pdm": "SERRA CIRCULAR INDUSTRIAL",
+    "grupo": "32"
+  },
+  {
+    "id": 12035,
+    "pdm": "SERRA CIRCULAR MANUAL",
+    "grupo": "32"
+  },
+  {
+    "id": 12043,
+    "pdm": "SERRA TICO-TICO BANCADA",
+    "grupo": "32"
+  },
+  {
+    "id": 12047,
+    "pdm": "SERRARIA TRANSPORTAVEL",
+    "grupo": "32"
+  },
+  {
+    "id": 12829,
+    "pdm": "TORNO PARA COMPENSADO",
+    "grupo": "32"
+  },
+  {
+    "id": 13129,
+    "pdm": "TUPIA INDUSTRIAL",
+    "grupo": "32"
+  },
+  {
+    "id": 15189,
+    "pdm": "SABRE",
+    "grupo": "32"
+  },
+  {
+    "id": 16839,
+    "pdm": "MÁQUINAS PARA SERRARIA E PREPARO DE MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": 16840,
+    "pdm": "MÁQUINAS PARA TRABALHOS EM MADEIRA",
+    "grupo": "32"
+  },
+  {
+    "id": 16841,
+    "pdm": "FERRAMENTAS E ACESSÓRIOS DE MÁQUINAS PARA TRABALHO EM MADEI-RA",
+    "grupo": "32"
+  },
+  {
+    "id": 17544,
+    "pdm": "JUNTA CILINDRO",
+    "grupo": "32"
+  },
+  {
+    "id": 17545,
+    "pdm": "PROTETOR MÃO",
+    "grupo": "32"
+  },
+  {
+    "id": 17546,
+    "pdm": "JUNTA SILENCIADOR",
+    "grupo": "32"
+  },
+  {
+    "id": 17559,
+    "pdm": "PARAFUSO PARA MOTOSERRA",
+    "grupo": "32"
+  },
+  {
+    "id": 17560,
+    "pdm": "PEÇA / ACESSÓRIO - MOTOSERRA",
+    "grupo": "32"
+  }
+]
