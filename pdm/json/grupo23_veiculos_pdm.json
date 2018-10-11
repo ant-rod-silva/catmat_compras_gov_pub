@@ -1,0 +1,497 @@
+[
+  {
+    "id": "00647",
+    "pdm": "CAMINHÃO CARGA",
+    "grupo": "23"
+  },
+  {
+    "id": "00648",
+    "pdm": "VEÍCULO TRANSPORTE PESSOAL",
+    "grupo": "23"
+  },
+  {
+    "id": "00649",
+    "pdm": "VIATURA TRANSPORTE ESPECIALIZADO CISTERNA",
+    "grupo": "23"
+  },
+  {
+    "id": "00650",
+    "pdm": "VIATURA TRANSPORTE ESPECIALIZADO FRIGORÍFICO",
+    "grupo": "23"
+  },
+  {
+    "id": "00651",
+    "pdm": "CARRETA TRANSPORTE EMBARCAÇÃO",
+    "grupo": "23"
+  },
+  {
+    "id": "00653",
+    "pdm": "BICICLETA",
+    "grupo": "23"
+  },
+  {
+    "id": "00654",
+    "pdm": "TRICICLO",
+    "grupo": "23"
+  },
+  {
+    "id": "00685",
+    "pdm": "VEÍCULO AUTOMOTIVO - PICAPE",
+    "grupo": "23"
+  },
+  {
+    "id": "00686",
+    "pdm": "REBOQUE TRANSPORTE ANIMAL",
+    "grupo": "23"
+  },
+  {
+    "id": "00803",
+    "pdm": "CHASSI",
+    "grupo": "23"
+  },
+  {
+    "id": "00804",
+    "pdm": "VEÍCULO TRANSPORTE ANIMAL",
+    "grupo": "23"
+  },
+  {
+    "id": "00805",
+    "pdm": "VEÍCULO TRANSPORTE PRESO",
+    "grupo": "23"
+  },
+  {
+    "id": "02396",
+    "pdm": "AMBULÂNCIA",
+    "grupo": "23"
+  },
+  {
+    "id": "02993",
+    "pdm": "ARMA AUTO - PROPULSIONADA SOBRE MEIA LAGARTA",
+    "grupo": "23"
+  },
+  {
+    "id": "03142",
+    "pdm": "AUTOMÓVEL",
+    "grupo": "23"
+  },
+  {
+    "id": "03950",
+    "pdm": "BUGGY",
+    "grupo": "23"
+  },
+  {
+    "id": "04358",
+    "pdm": "CAMINHÃO",
+    "grupo": "23"
+  },
+  {
+    "id": "04360",
+    "pdm": "CAMINHAO BASCULANTE",
+    "grupo": "23"
+  },
+  {
+    "id": "04361",
+    "pdm": "CAMINHAO DE CACAMBA FIXA",
+    "grupo": "23"
+  },
+  {
+    "id": "04362",
+    "pdm": "CAMINHAO DE CARGA",
+    "grupo": "23"
+  },
+  {
+    "id": "04363",
+    "pdm": "CAMINHAO DE TRANSPORTE DE CARGA LIQUIDA",
+    "grupo": "23"
+  },
+  {
+    "id": "04367",
+    "pdm": "CAMINHAO TANQUE PARA DISTRIBUICAO DE COMBUSTIVEL",
+    "grupo": "23"
+  },
+  {
+    "id": "04368",
+    "pdm": "CAMIONETA / VEÍCULO - TRANSPORTE PASSAGEIRO",
+    "grupo": "23"
+  },
+  {
+    "id": "04369",
+    "pdm": "CAMIONETA DE TRANSPORTE DE CARGA",
+    "grupo": "23"
+  },
+  {
+    "id": "04370",
+    "pdm": "CAMIONETA TRANSPORTE PASSAGEIRO E CARGA",
+    "grupo": "23"
+  },
+  {
+    "id": "04371",
+    "pdm": "CAMIONETA FECHADA DE TRANSPORTE DE CARGA ( FURGAO)",
+    "grupo": "23"
+  },
+  {
+    "id": "04592",
+    "pdm": "CARRO TANQUE",
+    "grupo": "23"
+  },
+  {
+    "id": "04595",
+    "pdm": "CARRO BLINDADO",
+    "grupo": "23"
+  },
+  {
+    "id": "04600",
+    "pdm": "CARRO DE COMBATE SOBRE LAGARTA",
+    "grupo": "23"
+  },
+  {
+    "id": "04601",
+    "pdm": "CARRO DE COMBATE SOBRE MEIA LAGARTA",
+    "grupo": "23"
+  },
+  {
+    "id": "04613",
+    "pdm": "CARRO FORTE PARA TRANSPORTE DE VALOR",
+    "grupo": "23"
+  },
+  {
+    "id": "04614",
+    "pdm": "CARRO FUNERARIO",
+    "grupo": "23"
+  },
+  {
+    "id": "04628",
+    "pdm": "CARRO TRATOR DE TRACAO - USO EM AEROPORTO",
+    "grupo": "23"
+  },
+  {
+    "id": "04629",
+    "pdm": "CARRO TRATOR DE TRACAO - USO EM PLATAFORMA DE ESTACAO FERROVIARIA",
+    "grupo": "23"
+  },
+  {
+    "id": "04630",
+    "pdm": "CARRO TRATOR DE TRACAO - USO EM PORTO",
+    "grupo": "23"
+  },
+  {
+    "id": "05454",
+    "pdm": "COMPONENTE MECANICO - VEICULO DE CONTROLE REMOTODE MANIPULACAO DE CARGA EXPLOSIVA",
+    "grupo": "23"
+  },
+  {
+    "id": "07248",
+    "pdm": "EXTENSAO PARA REBOQUE",
+    "grupo": "23"
+  },
+  {
+    "id": "08531",
+    "pdm": "JIPE DE TRANSPORTE DE PASSAGEIRO",
+    "grupo": "23"
+  },
+  {
+    "id": "08679",
+    "pdm": "LANCA - CHAMA AUTO - PROPULSIONADO SOBRE MEIA LAGARTA",
+    "grupo": "23"
+  },
+  {
+    "id": "09718",
+    "pdm": "MICROÔNIBUS",
+    "grupo": "23"
+  },
+  {
+    "id": "09921",
+    "pdm": "QUADRICICLO",
+    "grupo": "23"
+  },
+  {
+    "id": "09948",
+    "pdm": "MOTONETA",
+    "grupo": "23"
+  },
+  {
+    "id": 10218,
+    "pdm": "ÔNIBUS",
+    "grupo": "23"
+  },
+  {
+    "id": 10902,
+    "pdm": "PLATAFORMA PARA ONIBUS",
+    "grupo": "23"
+  },
+  {
+    "id": 11449,
+    "pdm": "REBOQUE - INSTALACAO COMERCIAL",
+    "grupo": "23"
+  },
+  {
+    "id": 11450,
+    "pdm": "REBOQUE - PLATAFORMA",
+    "grupo": "23"
+  },
+  {
+    "id": 11451,
+    "pdm": "REBOQUE - RESIDENCIA",
+    "grupo": "23"
+  },
+  {
+    "id": 11452,
+    "pdm": "REBOQUE - TANQUE",
+    "grupo": "23"
+  },
+  {
+    "id": 11453,
+    "pdm": "REBOQUE - TANQUE DE DISTRIBUICAO DE COMBUSTIVEL",
+    "grupo": "23"
+  },
+  {
+    "id": 11456,
+    "pdm": "REBOQUE CISTERNA",
+    "grupo": "23"
+  },
+  {
+    "id": 11458,
+    "pdm": "REBOQUE DE TRANSPORTE DE PESSOAL E/OU CARGA",
+    "grupo": "23"
+  },
+  {
+    "id": 11459,
+    "pdm": "REBOQUE DE TRANSPORTE DE POSTE",
+    "grupo": "23"
+  },
+  {
+    "id": 11463,
+    "pdm": "REBOQUE FRIGORIFICO",
+    "grupo": "23"
+  },
+  {
+    "id": 11464,
+    "pdm": "REBOQUE HOSPITALAR",
+    "grupo": "23"
+  },
+  {
+    "id": 11465,
+    "pdm": "REBOQUE LABORATORIO DENTARIO",
+    "grupo": "23"
+  },
+  {
+    "id": 11466,
+    "pdm": "REBOQUE LAVANDERIA MOVEL",
+    "grupo": "23"
+  },
+  {
+    "id": 11467,
+    "pdm": "REBOQUE PARA SERVICO ESPECIAL",
+    "grupo": "23"
+  },
+  {
+    "id": 11468,
+    "pdm": "REBOQUE PORTADA ( BARCO / PONTOES )",
+    "grupo": "23"
+  },
+  {
+    "id": 12001,
+    "pdm": "SEMI - REBOQUE - TANQUE DISTRIBUIÇÃO COMBUSTÍVEL",
+    "grupo": "23"
+  },
+  {
+    "id": 12002,
+    "pdm": "SEMI - REBOQUE PARA TRANSPORTE DE POSTE",
+    "grupo": "23"
+  },
+  {
+    "id": 12003,
+    "pdm": "SEMI - REBOQUE TIPO TUNEL PARA TRANSPORTE DE VIDRO EM CAVALETE",
+    "grupo": "23"
+  },
+  {
+    "id": 12956,
+    "pdm": "TRENO SOBRE LAGARTA",
+    "grupo": "23"
+  },
+  {
+    "id": 12957,
+    "pdm": "TRENO SOBRE MEIA LAGARTA",
+    "grupo": "23"
+  },
+  {
+    "id": 13336,
+    "pdm": "VEICULO ANFIBIO SOBRE LAGARTA",
+    "grupo": "23"
+  },
+  {
+    "id": 13337,
+    "pdm": "VEICULO ANFIBIO SOBRE MEIA LAGARTA",
+    "grupo": "23"
+  },
+  {
+    "id": 13338,
+    "pdm": "VEICULO ANFIBIO SOBRE RODAS",
+    "grupo": "23"
+  },
+  {
+    "id": 13339,
+    "pdm": "VEICULO AUTOMOTIVO (MOTOR HOME) - COMERCIAL / RESIDENCIAL",
+    "grupo": "23"
+  },
+  {
+    "id": 13343,
+    "pdm": "VEICULO BASCULANTE GRANELEIRO",
+    "grupo": "23"
+  },
+  {
+    "id": 13344,
+    "pdm": "VEÍCULO CARROCERIA ABERTA",
+    "grupo": "23"
+  },
+  {
+    "id": 13347,
+    "pdm": "VEICULO EQUIPADO COM BOMBA PARA CONCRETO",
+    "grupo": "23"
+  },
+  {
+    "id": 13348,
+    "pdm": "VEICULO LABORATORIO DENTARIO SOBRE RODAS",
+    "grupo": "23"
+  },
+  {
+    "id": 13349,
+    "pdm": "VEICULO LAVANDERIA SOBRE RODAS",
+    "grupo": "23"
+  },
+  {
+    "id": 13350,
+    "pdm": "VEICULO MANIPULACAO E TRANSPORTE DE CARGA EXPLOSIVA - CONTROLE REMOTO ( ROBO )",
+    "grupo": "23"
+  },
+  {
+    "id": 13351,
+    "pdm": "VEICULO OFICINA SOBRE RODAS",
+    "grupo": "23"
+  },
+  {
+    "id": 13352,
+    "pdm": "VEICULO PARA LAVAR RUAS",
+    "grupo": "23"
+  },
+  {
+    "id": 13354,
+    "pdm": "VEICULO PARA TRANSPORTAR AUTOMOVEL / CAMINHAO",
+    "grupo": "23"
+  },
+  {
+    "id": 13355,
+    "pdm": "VEICULO PARA TRANSPORTAR BOBINA",
+    "grupo": "23"
+  },
+  {
+    "id": 13356,
+    "pdm": "VEICULO PARA TRANSPORTAR CONTAINER",
+    "grupo": "23"
+  },
+  {
+    "id": 13357,
+    "pdm": "VEICULO QUE SE MOVIMENTA SOBRE COLCHAO DE AR",
+    "grupo": "23"
+  },
+  {
+    "id": 13416,
+    "pdm": "VIATURA TRANSPORTE ESPECIALIZADO FRIGORIFICO",
+    "grupo": "23"
+  },
+  {
+    "id": 13635,
+    "pdm": "SEMI - REBOQUE TRANSPORTE DE PESSOAL E/OU DE CARGA",
+    "grupo": "23"
+  },
+  {
+    "id": 14329,
+    "pdm": "VEÍCULO TRANSPORTE",
+    "grupo": "23"
+  },
+  {
+    "id": 14408,
+    "pdm": "VEÍCULO FURGÃO",
+    "grupo": "23"
+  },
+  {
+    "id": 14411,
+    "pdm": "VEÍCULO VAN",
+    "grupo": "23"
+  },
+  {
+    "id": 14413,
+    "pdm": "VEÍCULO PASSEIO",
+    "grupo": "23"
+  },
+  {
+    "id": 14414,
+    "pdm": "VEÍCULO PERUA",
+    "grupo": "23"
+  },
+  {
+    "id": 14415,
+    "pdm": "VEÍCULO UTILITÁRIO",
+    "grupo": "23"
+  },
+  {
+    "id": 14419,
+    "pdm": "VEÍCULO PICK-UP",
+    "grupo": "23"
+  },
+  {
+    "id": 15138,
+    "pdm": "VEÍCULO CARROCERIA FECHADA",
+    "grupo": "23"
+  },
+  {
+    "id": 15294,
+    "pdm": "CAMINHÃO REBOQUE",
+    "grupo": "23"
+  },
+  {
+    "id": 15699,
+    "pdm": "CAMINHÃO TRATOR",
+    "grupo": "23"
+  },
+  {
+    "id": 16426,
+    "pdm": "VEÍCULO TRANSPORTE CARGA",
+    "grupo": "23"
+  },
+  {
+    "id": 16791,
+    "pdm": "VEÍCULOS TERRESTRES",
+    "grupo": "23"
+  },
+  {
+    "id": 16792,
+    "pdm": "VEÍCULOS MOTORIZADOS DE PASSAGEIROS",
+    "grupo": "23"
+  },
+  {
+    "id": 16793,
+    "pdm": "VEÍCULO ESPECIAL",
+    "grupo": "23"
+  },
+  {
+    "id": 16794,
+    "pdm": "VEÍCULOS SOBRE RODAS",
+    "grupo": "23"
+  },
+  {
+    "id": 16795,
+    "pdm": "REBOQUES",
+    "grupo": "23"
+  },
+  {
+    "id": 16796,
+    "pdm": "MOTOCICLETA",
+    "grupo": "23"
+  },
+  {
+    "id": 16797,
+    "pdm": "VEÍCULOS TÁTICOS SOBRE LAGARTAS",
+    "grupo": "23"
+  }
+]
