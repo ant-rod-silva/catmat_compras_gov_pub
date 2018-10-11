@@ -1,0 +1,258 @@
+[
+  {
+    "id": "02485",
+    "pdm": "ÂNCORA"
+  },
+  {
+    "id": "02486",
+    "pdm": "GRAMPO ANCORAGEM"
+  },
+  {
+    "id": "03807",
+    "pdm": "BORNAL DE MARINHA"
+  },
+  {
+    "id": "03974",
+    "pdm": "BUZINA DE ESCOVEM USO NAVAL"
+  },
+  {
+    "id": "04004",
+    "pdm": "CABO APRESTO EMBARCAÇÃO"
+  },
+  {
+    "id": "04063",
+    "pdm": "CABRESTANTE DE EMBARCACAO"
+  },
+  {
+    "id": "04073",
+    "pdm": "CADASTE DO LEME DE EMBARCACAO"
+  },
+  {
+    "id": "04772",
+    "pdm": "CEPO DE EMBARCACAO"
+  },
+  {
+    "id": "04809",
+    "pdm": "CHAMINE DE CALDEIRA DE EMBARCACAO"
+  },
+  {
+    "id": "05547",
+    "pdm": "CONDUTO DA CALDEIRA PARA EMBARCACAO"
+  },
+  {
+    "id": "06048",
+    "pdm": "DEFENSA EMBARCAÇÃO"
+  },
+  {
+    "id": "06406",
+    "pdm": "DRENO EMBARCAÇÃO"
+  },
+  {
+    "id": "06420",
+    "pdm": "ECOBATIMETRO"
+  },
+  {
+    "id": "06421",
+    "pdm": "ECOSSONDA"
+  },
+  {
+    "id": "06437",
+    "pdm": "EIXO DE PROPULSÃO"
+  },
+  {
+    "id": "06876",
+    "pdm": "ESCADA DE CORDA DE EMBARCACAO"
+  },
+  {
+    "id": "06877",
+    "pdm": "ESCADA DE CORRENTE DE EMBARCACAO"
+  },
+  {
+    "id": "06880",
+    "pdm": "ESCADA DE QUEBRA - PEITO ( NAVIO )"
+  },
+  {
+    "id": "06932",
+    "pdm": "ESCOTILHA"
+  },
+  {
+    "id": "07322",
+    "pdm": "FATEIXA"
+  },
+  {
+    "id": "07378",
+    "pdm": "FERRAGEM DE MASTRO DE EMBARCACAO"
+  },
+  {
+    "id": "07379",
+    "pdm": "FERRAGEM DE PAU - DE - CARGA USO NAVAL"
+  },
+  {
+    "id": "07682",
+    "pdm": "FOGUETA"
+  },
+  {
+    "id": "08150",
+    "pdm": "GUINDASTE DE ESCALER SALVA - VIDAS"
+  },
+  {
+    "id": "08183",
+    "pdm": "HÉLICE EMBARCAÇÃO"
+  },
+  {
+    "id": "08523",
+    "pdm": "JANELA DE VENTILACAO DE EMBARCACAO"
+  },
+  {
+    "id": "08767",
+    "pdm": "LEME DE EMBARCACAO"
+  },
+  {
+    "id": "09431",
+    "pdm": "MASTRO DE EMBARCACAO"
+  },
+  {
+    "id": "09518",
+    "pdm": "MECANISMO DE PILOTO AUTOMATICO PARA EMBARCACAO"
+  },
+  {
+    "id": "09818",
+    "pdm": "MOBILIARIO DE EMBARCACAO"
+  },
+  {
+    "id": "09876",
+    "pdm": "MOLINETE DE CONVES DE EMBARCACAO"
+  },
+  {
+    "id": "09901",
+    "pdm": "MONTANTE MESTRE"
+  },
+  {
+    "id": 10214,
+    "pdm": "OLHAL DE REMO DE EMBARCACAO"
+  },
+  {
+    "id": 10272,
+    "pdm": "PA - HELICE EMBARCACAO"
+  },
+  {
+    "id": 10277,
+    "pdm": "PA PARA HELICE DE EMBARCACAO"
+  },
+  {
+    "id": 10474,
+    "pdm": "PASSAGEM DE INSPECAO DE EMBARCACAO"
+  },
+  {
+    "id": 10508,
+    "pdm": "PAU - DE - CARGA DE EMBARCACAO"
+  },
+  {
+    "id": 10509,
+    "pdm": "PAU - DE - CARGA NAO LIGADO A GUINCHO"
+  },
+  {
+    "id": 10510,
+    "pdm": "PAU - DE - CARGA NAO LIGADO A GUINDASTE"
+  },
+  {
+    "id": 10579,
+    "pdm": "PEDESTAL DE MASTRO DE EMBARCACAO"
+  },
+  {
+    "id": 11076,
+    "pdm": "PORTA ESTANQUE USO NAVAL"
+  },
+  {
+    "id": 11242,
+    "pdm": "PROFUNDIMETRO"
+  },
+  {
+    "id": 11631,
+    "pdm": "REMO DE EMBARCACAO"
+  },
+  {
+    "id": 12113,
+    "pdm": "SISTEMA DE CONTROLE"
+  },
+  {
+    "id": 12120,
+    "pdm": "SISTEMA DE GOVERNO"
+  },
+  {
+    "id": 12903,
+    "pdm": "TRANSMISSAO MARITIMA COM TIPO DE ENGRENAGEM DE REDUCAO E REVERSAO"
+  },
+  {
+    "id": 13039,
+    "pdm": "TUBO DE AMARRACAO DE REBOQUE"
+  },
+  {
+    "id": 13069,
+    "pdm": "TUBO DE PASSAGEM DE CORRENTE DE EMBARCACAO"
+  },
+  {
+    "id": 13117,
+    "pdm": "TUBO TELESCOPICO DO EIXO DE EMBARCACAO"
+  },
+  {
+    "id": 13139,
+    "pdm": "TURCO USO NAVAL"
+  },
+  {
+    "id": 13363,
+    "pdm": "VELA DE PROPULSAO DE EMBARCACAO"
+  },
+  {
+    "id": 13365,
+    "pdm": "VELAME DE EMBARCACAO"
+  },
+  {
+    "id": 13389,
+    "pdm": "VERGA DE VELAME"
+  },
+  {
+    "id": 13442,
+    "pdm": "VIGIA ( NAVIO )"
+  },
+  {
+    "id": 16263,
+    "pdm": "VELAME EMBARCAÇÃO"
+  },
+  {
+    "id": 16779,
+    "pdm": "COMPONENTES DE PROPULSÃO DE EMBARCAÇÕES"
+  },
+  {
+    "id": 16780,
+    "pdm": "MASTREACAO E ACESSORIOS"
+  },
+  {
+    "id": 16781,
+    "pdm": "MAQUINARIA DE CONVES"
+  },
+  {
+    "id": 16782,
+    "pdm": "FERRAGENS DE MARINHARIA E ITENS DE CASCO"
+  },
+  {
+    "id": 16783,
+    "pdm": "BOIAS"
+  },
+  {
+    "id": 16784,
+    "pdm": "EQUIPAMENTO COMERCIAL DE PESCA"
+  },
+  {
+    "id": 16785,
+    "pdm": "CAPA PROTEÇÃO EMBARCAÇÕES"
+  },
+  {
+    "id": 18469,
+    "pdm": "CROQUE TELESCÓPICO"
+  },
+  {
+    "id": 18526,
+    "pdm": "ELEMENTO BATERIA"
+  }
+]
