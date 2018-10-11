@@ -1,0 +1,574 @@
+[
+  {
+    "id": "00270",
+    "pdm": "REFRIGERADOR ALIMENTOS"
+  },
+  {
+    "id": "00687",
+    "pdm": "AR CONDICIONADO PORTÁTIL"
+  },
+  {
+    "id": "00688",
+    "pdm": "VENTILADOR TETO"
+  },
+  {
+    "id": "00703",
+    "pdm": "COIFA"
+  },
+  {
+    "id": "00704",
+    "pdm": "EXAUSTOR"
+  },
+  {
+    "id": "00705",
+    "pdm": "EXAUSTOR CENTRÍFUGO"
+  },
+  {
+    "id": "00706",
+    "pdm": "HÉLICE VENTILADOR"
+  },
+  {
+    "id": "00707",
+    "pdm": "VENTILADOR AXIAL"
+  },
+  {
+    "id": "00708",
+    "pdm": "DEPURADOR/EXAUSTOR AR"
+  },
+  {
+    "id": "00710",
+    "pdm": "VENTILADOR"
+  },
+  {
+    "id": "00718",
+    "pdm": "AR CONDICIONADO CENTRAL"
+  },
+  {
+    "id": "00763",
+    "pdm": "BALCÃO FRIGORÍFICO"
+  },
+  {
+    "id": "00783",
+    "pdm": "FREEZER"
+  },
+  {
+    "id": "00784",
+    "pdm": "FRIGOBAR"
+  },
+  {
+    "id": "00785",
+    "pdm": "REFRIGERADOR DUPLEX"
+  },
+  {
+    "id": "02739",
+    "pdm": "APARELHO DE REFRIGERAÇÃO"
+  },
+  {
+    "id": "02938",
+    "pdm": "ACOPLAMENTO ELÁSTICO"
+  },
+  {
+    "id": "02939",
+    "pdm": "BOBINA VÁLVULA SOLENÓIDE"
+  },
+  {
+    "id": "02940",
+    "pdm": "AR CONDICIONADO - COMPRESSOR"
+  },
+  {
+    "id": "02941",
+    "pdm": "AR CONDICIONADO - DEFLETOR"
+  },
+  {
+    "id": "02942",
+    "pdm": "AR CONDICIONADO - DIFUSOR"
+  },
+  {
+    "id": "02943",
+    "pdm": "AR CONDICIONADO - EMBARCACAO"
+  },
+  {
+    "id": "02944",
+    "pdm": "AR CONDICIONADO - FILTRO REFRIGERAÇÃO"
+  },
+  {
+    "id": "02945",
+    "pdm": "AR CONDICIONADO - HÉLICE"
+  },
+  {
+    "id": "02946",
+    "pdm": "PROTETOR"
+  },
+  {
+    "id": "02947",
+    "pdm": "AR CONDICIONADO - VEÍCULO"
+  },
+  {
+    "id": "02948",
+    "pdm": "AR CONDICIONADO / REFRIGERAÇÃO - DUTO"
+  },
+  {
+    "id": "02949",
+    "pdm": "AR CONDICIONADO / REFRIGERAÇÃO - TROCADOR CALOR"
+  },
+  {
+    "id": "02950",
+    "pdm": "AR CONDICIONADO / REFRIGERAÇÃO - TUBULAÇÃO"
+  },
+  {
+    "id": "02951",
+    "pdm": "AR CONDICIONADO / REFRIGERAÇÃO - UNIDADE CARGA"
+  },
+  {
+    "id": "02952",
+    "pdm": "AR CONDICIONADO / REFRIGERAÇÃO - UNIDADE TESTE"
+  },
+  {
+    "id": "02953",
+    "pdm": "EQUIPAMENTO ÁGUA GELADA - UNIDADE CLIMATIZADORA"
+  },
+  {
+    "id": "03489",
+    "pdm": "BEBEDOURO ÁGUA"
+  },
+  {
+    "id": "03492",
+    "pdm": "BEBEDOURO ÁGUA GARRAFÃO"
+  },
+  {
+    "id": "04346",
+    "pdm": "CÂMARA FRIGORÍFICA MORTUÁRIA"
+  },
+  {
+    "id": "04444",
+    "pdm": "CAPA DE CIRCULADOR DE AR TIPO DOMESTICO"
+  },
+  {
+    "id": "04450",
+    "pdm": "CAPA PARA VENTILADOR"
+  },
+  {
+    "id": "04748",
+    "pdm": "CAIXA VENTILAÇÃO"
+  },
+  {
+    "id": "05045",
+    "pdm": "CIRCULADOR DE AR DE PEDESTAL"
+  },
+  {
+    "id": "05046",
+    "pdm": "CIRCULADOR AR"
+  },
+  {
+    "id": "05047",
+    "pdm": "CIRCULADOR DE AR NAO INDUSTRIAL"
+  },
+  {
+    "id": "05048",
+    "pdm": "CIRCULADOR INDUSTRIAL DE AR"
+  },
+  {
+    "id": "05462",
+    "pdm": "COMPONENTE OPERATIVO - UNIDADE REFRIGERAÇÃO"
+  },
+  {
+    "id": "05501",
+    "pdm": "COMPRESSOR REFRIGERAÇÃO"
+  },
+  {
+    "id": "05632",
+    "pdm": "CONGELADOR ELÉTRICO / NÃO ELÉTRICO"
+  },
+  {
+    "id": "05642",
+    "pdm": "CONJUNTO CÂMARA FRIA"
+  },
+  {
+    "id": "05771",
+    "pdm": "CONJUNTO REFRIGERAÇÃO LÍQUIDO"
+  },
+  {
+    "id": "05813",
+    "pdm": "CONTROLADOR ELETROMECANICO"
+  },
+  {
+    "id": "05817",
+    "pdm": "CONTROLADOR ELETRONICO MICROPROCESSADO"
+  },
+  {
+    "id": "06411",
+    "pdm": "DUMPER"
+  },
+  {
+    "id": "06544",
+    "pdm": "ENCANAMENTO AR CONDICIONADO E REFRIGERAÇÃO"
+  },
+  {
+    "id": "06635",
+    "pdm": "EQUIPAMENTO / COMPONENTE - REFRIGERAÇÃO"
+  },
+  {
+    "id": "07238",
+    "pdm": "CONJUNTO EXAUSTOR"
+  },
+  {
+    "id": "07476",
+    "pdm": "FILTRO REFRIGERAÇÃO"
+  },
+  {
+    "id": "07480",
+    "pdm": "FILTRO SISTEMA REFRIGERAÇÃO"
+  },
+  {
+    "id": "07829",
+    "pdm": "FREEZER PARA BAIXAS TEMPERATURAS - HOSPITAL / BAN CO DE SANGUE / LABORATORIO / LATICINIO"
+  },
+  {
+    "id": "08426",
+    "pdm": "INSUFLADOR AR ESTÉRIL"
+  },
+  {
+    "id": "08529",
+    "pdm": "JATO VENTILADOR"
+  },
+  {
+    "id": "09197",
+    "pdm": "MÁQUINA FABRICAR GELO"
+  },
+  {
+    "id": "09256",
+    "pdm": "MAQUINA FABRICAR / COMPONENTE - GELO"
+  },
+  {
+    "id": "09917",
+    "pdm": "MOSTRUARIO REFRIGERADO DE MERCADORIA"
+  },
+  {
+    "id": 10527,
+    "pdm": "PEÇA / COMPONENTE - REFRIGERADOR"
+  },
+  {
+    "id": 10557,
+    "pdm": "PECA/COMPONENTE - COMPRESSOR REFRIGERACAO"
+  },
+  {
+    "id": 11536,
+    "pdm": "REFRIGERADOR A GAS"
+  },
+  {
+    "id": 11537,
+    "pdm": "REFRIGERADOR CIENTIFICO"
+  },
+  {
+    "id": 11538,
+    "pdm": "REFRIGERADOR COMERCIAL"
+  },
+  {
+    "id": 11539,
+    "pdm": "REFRIGERADOR DE LABORATÓRIO"
+  },
+  {
+    "id": 11540,
+    "pdm": "REFRIGERADOR DE MATERIAL FOTOGRAFICO"
+  },
+  {
+    "id": 11541,
+    "pdm": "REFRIGERADOR INDUSTRIAL"
+  },
+  {
+    "id": 11986,
+    "pdm": "SELF CONTAINED"
+  },
+  {
+    "id": 12030,
+    "pdm": "SERPENTINA DE COBRE"
+  },
+  {
+    "id": 12117,
+    "pdm": "SISTEMA DE EQUIPAMENTO DA CLASSE 4110"
+  },
+  {
+    "id": 12277,
+    "pdm": "SORVETEIRA"
+  },
+  {
+    "id": 12405,
+    "pdm": "CÂMARA FRIGORÍFICA"
+  },
+  {
+    "id": 12845,
+    "pdm": "TORRE DE REFRIGERACAO"
+  },
+  {
+    "id": 13011,
+    "pdm": "TROCADOR DE CALOR PARA REFRIGERACAO"
+  },
+  {
+    "id": 13012,
+    "pdm": "TROCADOR DE CALOR TIPO REFRIGERACAO"
+  },
+  {
+    "id": 13144,
+    "pdm": "UMIDIFICADOR E PURIFICADOR AMBIENTE"
+  },
+  {
+    "id": 13299,
+    "pdm": "VAPORIZADOR DE AMBIENTE"
+  },
+  {
+    "id": 13373,
+    "pdm": "VENTILADOR DE EMBARCACAO"
+  },
+  {
+    "id": 13375,
+    "pdm": "VENTILADOR DE SOTAO ( RESPIRADOURO )"
+  },
+  {
+    "id": 13376,
+    "pdm": "VENTILADOR INDUSTRIAL"
+  },
+  {
+    "id": 13377,
+    "pdm": "MOTOVENTILADOR"
+  },
+  {
+    "id": 13380,
+    "pdm": "VENTOINHA"
+  },
+  {
+    "id": 13530,
+    "pdm": "REFIL"
+  },
+  {
+    "id": 13559,
+    "pdm": "EQUIPAMENTO DE REFRIGERAÇÃO"
+  },
+  {
+    "id": 13629,
+    "pdm": "REFRIGERADOR DOMÉSTICO"
+  },
+  {
+    "id": 13644,
+    "pdm": "VENTILADOR / EXAUSTOR AXIAL - PEÇA / ACESSÓRIO"
+  },
+  {
+    "id": 13768,
+    "pdm": "APARELHO AR CONDICIONADO"
+  },
+  {
+    "id": 13939,
+    "pdm": "CONJUNTO MANIFOLD"
+  },
+  {
+    "id": 13940,
+    "pdm": "ESTAÇÃO CARGA REFRIGERAÇÃO"
+  },
+  {
+    "id": 14026,
+    "pdm": "ENCHIMENTO DE CONTATO"
+  },
+  {
+    "id": 14049,
+    "pdm": "FREEZER HORIZONTAL"
+  },
+  {
+    "id": 14072,
+    "pdm": "FREEZER VERTICAL"
+  },
+  {
+    "id": 14120,
+    "pdm": "VENTILADOR DE TETO"
+  },
+  {
+    "id": 14161,
+    "pdm": "RÉGUA EVAPORADORA ÁGUA"
+  },
+  {
+    "id": 14437,
+    "pdm": "REFRIGERADOR EXPOSITOR"
+  },
+  {
+    "id": 14565,
+    "pdm": "AR CONDICIONADO-APARELHO"
+  },
+  {
+    "id": 14611,
+    "pdm": "VENTILADOR TIPO TORRE"
+  },
+  {
+    "id": 14773,
+    "pdm": "CHASSI APARELHO AR CONDICIONADO"
+  },
+  {
+    "id": 15017,
+    "pdm": "RESFRIADOR DE LÍQUIDO"
+  },
+  {
+    "id": 15030,
+    "pdm": "DIAFRAGMA VÁLVULA SOLENÓIDE"
+  },
+  {
+    "id": 15112,
+    "pdm": "EVAPORADOR"
+  },
+  {
+    "id": 15136,
+    "pdm": "CONDENSADOR APARELHO AR CONDICIONADO"
+  },
+  {
+    "id": 15167,
+    "pdm": "VENTILADOR EVAPORADOR AR CONDICIONADO"
+  },
+  {
+    "id": 15170,
+    "pdm": "RESERVATÓRIO BEBEDOURO"
+  },
+  {
+    "id": 15179,
+    "pdm": "MOTOR VENTILADOR APARELHO REFRIGERAÇÃO"
+  },
+  {
+    "id": 15196,
+    "pdm": "BOTÃO APARELHO AR CONDICIONADO"
+  },
+  {
+    "id": 15198,
+    "pdm": "DRENO BEBEDOURO"
+  },
+  {
+    "id": 15239,
+    "pdm": "CONDENSADOR ESTÁTICO"
+  },
+  {
+    "id": 15240,
+    "pdm": "GABINETE BEBEDOURO"
+  },
+  {
+    "id": 15241,
+    "pdm": "VÁLVULA EXPANSÃO"
+  },
+  {
+    "id": 15244,
+    "pdm": "PLACA VÁLVULA"
+  },
+  {
+    "id": 15255,
+    "pdm": "CORTINA AR"
+  },
+  {
+    "id": 15616,
+    "pdm": "CONJUNTO VENTILAÇÃO"
+  },
+  {
+    "id": 15716,
+    "pdm": "MICROMOTOR"
+  },
+  {
+    "id": 15724,
+    "pdm": "EXAUSTOR EÓLICO"
+  },
+  {
+    "id": 15800,
+    "pdm": "FORÇADOR DO CONDENSADOR"
+  },
+  {
+    "id": 16198,
+    "pdm": "BORRACHA PORTA GELADEIRA"
+  },
+  {
+    "id": 16201,
+    "pdm": "CORREIA MOTOR VENTILADOR"
+  },
+  {
+    "id": 16433,
+    "pdm": "FRENTE PLÁSTICA"
+  },
+  {
+    "id": 16484,
+    "pdm": "TAMPA GAVETA - GELADEIRA"
+  },
+  {
+    "id": 16626,
+    "pdm": "GABINETE AR CONDICIONADO"
+  },
+  {
+    "id": 16934,
+    "pdm": "CAIXA ISOTÉRMICA"
+  },
+  {
+    "id": 16935,
+    "pdm": "EQUIPAMENTO DE AR CONDICIONADO"
+  },
+  {
+    "id": 16936,
+    "pdm": "PEÇAS E ACESSÓRIOS APARELHO AR CONDICIONADO"
+  },
+  {
+    "id": 16937,
+    "pdm": "VENTILADORES. CIRCULADORES DE AR E VENTOINHAS"
+  },
+  {
+    "id": 16938,
+    "pdm": "TUBOS DE TURBILHONAMENTO E OUTROS TUBOS RELACIONADOS À REFRIGERAÇÃO"
+  },
+  {
+    "id": 17438,
+    "pdm": "PAINEL DIGITAL"
+  },
+  {
+    "id": 17582,
+    "pdm": "FILTRO SECADOR"
+  },
+  {
+    "id": 17805,
+    "pdm": "CONJUNTO VOLUTAS"
+  },
+  {
+    "id": 17980,
+    "pdm": "CHAVE DE COMANDO"
+  },
+  {
+    "id": 18027,
+    "pdm": "CÂMARA CONSERVAÇÃO"
+  },
+  {
+    "id": 18050,
+    "pdm": "REFRIGERADOR PARA AUTOMÓVEL"
+  },
+  {
+    "id": 18237,
+    "pdm": "CORREIA AR CONDICIONADO"
+  },
+  {
+    "id": 18260,
+    "pdm": "VÁLVULA"
+  },
+  {
+    "id": 18268,
+    "pdm": "CARTUCHO VÁLVULA EXPANSÃO"
+  },
+  {
+    "id": 18317,
+    "pdm": "SEPARADOR DE ÓLEO"
+  },
+  {
+    "id": 18353,
+    "pdm": "DRENO AR CONDICIONADO"
+  },
+  {
+    "id": 18545,
+    "pdm": "CLIMATIZADOR"
+  },
+  {
+    "id": 18584,
+    "pdm": "CONTROLE REMOTO"
+  },
+  {
+    "id": 18628,
+    "pdm": "GRADE DIFUSORA"
+  },
+  {
+    "id": 18728,
+    "pdm": "CONJUNTO ROTOR"
+  }
+]
