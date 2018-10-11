@@ -1,0 +1,207 @@
+[
+  {
+    "id": "02051",
+    "pdm": "ACOPLAMENTO ELASTICO DE TRANSMISSAO DE FORCA",
+    "grupo": "30"
+  },
+  {
+    "id": "02052",
+    "pdm": "ACOPLAMENTO FLEXIVEL",
+    "grupo": "30"
+  },
+  {
+    "id": "02053",
+    "pdm": "ACOPLAMENTO HIDRODINAMICO",
+    "grupo": "30"
+  },
+  {
+    "id": "02054",
+    "pdm": "ACOPLAMENTO MECANICO RIGIDO",
+    "grupo": "30"
+  },
+  {
+    "id": "02066",
+    "pdm": "ACUMULADOR DE PRESSAO",
+    "grupo": "30"
+  },
+  {
+    "id": "02452",
+    "pdm": "AMPLIFICADOR DE TORQUE",
+    "grupo": "30"
+  },
+  {
+    "id": "04997",
+    "pdm": "CILINDRO DUPLA AÇÃO",
+    "grupo": "30"
+  },
+  {
+    "id": "04998",
+    "pdm": "CILINDRO HIDRÁULICO",
+    "grupo": "30"
+  },
+  {
+    "id": "05000",
+    "pdm": "CILINDRO HIDRAULICO DE TREM DE POUSO",
+    "grupo": "30"
+  },
+  {
+    "id": "05004",
+    "pdm": "CILINDRO PNEUMÁTICO",
+    "grupo": "30"
+  },
+  {
+    "id": "05377",
+    "pdm": "COMANDO HIDRAULICO",
+    "grupo": "30"
+  },
+  {
+    "id": "05711",
+    "pdm": "COROA BICICLETA",
+    "grupo": "30"
+  },
+  {
+    "id": "05712",
+    "pdm": "CONJUNTO ENGRENAGEM REDUÇÃO",
+    "grupo": "30"
+  },
+  {
+    "id": "05713",
+    "pdm": "CONJUNTO ENGRENAGEM TRANSMISSÃO HORIZONTAL",
+    "grupo": "30"
+  },
+  {
+    "id": "05836",
+    "pdm": "CONVERSOR DE TORQUE",
+    "grupo": "30"
+  },
+  {
+    "id": "05837",
+    "pdm": "CONVERSOR DE TORQUE DE FERRAMENTA HIDRAULICA",
+    "grupo": "30"
+  },
+  {
+    "id": "05883",
+    "pdm": "COROA ENGRENAGEM",
+    "grupo": "30"
+  },
+  {
+    "id": "05887",
+    "pdm": "CORREAME",
+    "grupo": "30"
+  },
+  {
+    "id": "05889",
+    "pdm": "CORREIA - AMIANTO",
+    "grupo": "30"
+  },
+  {
+    "id": "05890",
+    "pdm": "CORREIA - ARAMIDA",
+    "grupo": "30"
+  },
+  {
+    "id": "05892",
+    "pdm": "CORREIA TRANSMISSÃO",
+    "grupo": "30"
+  },
+  {
+    "id": "05894",
+    "pdm": "CORREIA LISA - VEICULO AUTOMOTIVO",
+    "grupo": "30"
+  },
+  {
+    "id": "05906",
+    "pdm": "CORRENTE TRANSMISSÃO",
+    "grupo": "30"
+  },
+  {
+    "id": "06427",
+    "pdm": "EIXO CARDA",
+    "grupo": "30"
+  },
+  {
+    "id": "06428",
+    "pdm": "EIXO COLAR DE TRANSMISSÃO FORÇA",
+    "grupo": "30"
+  },
+  {
+    "id": "06489",
+    "pdm": "ELO DE CORRENTE DE TRANSMISSAO",
+    "grupo": "30"
+  },
+  {
+    "id": "06520",
+    "pdm": "EMBREAGEM REDUTORA DE VELOCIDADE",
+    "grupo": "30"
+  },
+  {
+    "id": "06523",
+    "pdm": "EMENDA DE CORREIA DE TRANSMISSAO",
+    "grupo": "30"
+  },
+  {
+    "id": "06576",
+    "pdm": "ENGRENAGEM REDUÇÃO",
+    "grupo": "30"
+  },
+  {
+    "id": "07388",
+    "pdm": "FERRAMENTA HIDRAULICA PARA TORQUE",
+    "grupo": "30"
+  },
+  {
+    "id": "08066",
+    "pdm": "GRAMPO DE EMENDA DE CORREIA",
+    "grupo": "30"
+  },
+  {
+    "id": 10743,
+    "pdm": "PINO DE EMENDA DE CORREIA",
+    "grupo": "30"
+  },
+  {
+    "id": 10948,
+    "pdm": "POLIA ACO",
+    "grupo": "30"
+  },
+  {
+    "id": 10950,
+    "pdm": "POLIA DE ALUMINIO",
+    "grupo": "30"
+  },
+  {
+    "id": 10953,
+    "pdm": "POLIA BORRACHA",
+    "grupo": "30"
+  },
+  {
+    "id": 10954,
+    "pdm": "POLIA",
+    "grupo": "30"
+  },
+  {
+    "id": 12902,
+    "pdm": "TRANSMISSAO HIDROSTATICA",
+    "grupo": "30"
+  },
+  {
+    "id": 16832,
+    "pdm": "CONVERSORES DE TORQUE E CÂMBIOS DE VELOCIDADE",
+    "grupo": "30"
+  },
+  {
+    "id": 16833,
+    "pdm": "ENGRENAGENS - POLIAS - COROAS DENTADAS E CORRENTES DE TRANSMISSÃO",
+    "grupo": "30"
+  },
+  {
+    "id": 16834,
+    "pdm": "CORREIAS DE TRANSMISSÃO - CORREIAS DOS VENTILADORES E ACESSÓRIOS",
+    "grupo": "30"
+  },
+  {
+    "id": 16835,
+    "pdm": "EQUIPAMENTOS DIVERSOS DE TRANSMISSÃO DE FORÇA",
+    "grupo": "30"
+  }
+]
