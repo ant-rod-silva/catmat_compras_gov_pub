@@ -1,0 +1,250 @@
+[
+  {
+    "id": "00080",
+    "pdm": "BARBANTE ALGODÃO"
+  },
+  {
+    "id": "01223",
+    "pdm": "BRAÇADEIRA CABO AÇO"
+  },
+  {
+    "id": "01660",
+    "pdm": "ACESSORIO / PECA - AMARRACAO NAVIO / PLATAFORMA"
+  },
+  {
+    "id": "01717",
+    "pdm": "ACESSORIO PARA LINGA DE CORRENTE"
+  },
+  {
+    "id": "02119",
+    "pdm": "ADRICA DE BANDEIRA"
+  },
+  {
+    "id": "02391",
+    "pdm": "AMARRA - MARINHA"
+  },
+  {
+    "id": "02503",
+    "pdm": "ANEL GUIA"
+  },
+  {
+    "id": "02504",
+    "pdm": "ANEL GUIA DE CORDA"
+  },
+  {
+    "id": "03324",
+    "pdm": "BARBANTE"
+  },
+  {
+    "id": "03325",
+    "pdm": "BARBANTE DE SISAL"
+  },
+  {
+    "id": "04010",
+    "pdm": "CABO AÇO"
+  },
+  {
+    "id": "04011",
+    "pdm": "CABO DE ACO GALVANIZADO"
+  },
+  {
+    "id": "04012",
+    "pdm": "CABO DE AÇO PARA REBOQUE"
+  },
+  {
+    "id": "04013",
+    "pdm": "CABO DE ACO POLIDO"
+  },
+  {
+    "id": "04014",
+    "pdm": "CABO AMARRAÇÃO DE EMBARCAÇÃO"
+  },
+  {
+    "id": "04024",
+    "pdm": "CABO DE CORDOALHA"
+  },
+  {
+    "id": "04027",
+    "pdm": "CABO DE FIBRA"
+  },
+  {
+    "id": "04060",
+    "pdm": "CABO TEXTIL"
+  },
+  {
+    "id": "05701",
+    "pdm": "CONJUNTO DE CABO DE ACO"
+  },
+  {
+    "id": "05708",
+    "pdm": "CONJUNTO DE CORRENTE"
+  },
+  {
+    "id": "05852",
+    "pdm": "CORDA FIBRA"
+  },
+  {
+    "id": "05854",
+    "pdm": "CORDA"
+  },
+  {
+    "id": "05855",
+    "pdm": "CORDA DE POLIESTER"
+  },
+  {
+    "id": "05856",
+    "pdm": "CORDA DE SISAL"
+  },
+  {
+    "id": "05858",
+    "pdm": "CORDÃO ARREMATE"
+  },
+  {
+    "id": "05869",
+    "pdm": "CORDEL DE FIBRA"
+  },
+  {
+    "id": "05871",
+    "pdm": "CORDOALHA"
+  },
+  {
+    "id": "05872",
+    "pdm": "CORDOALHA DE ACO"
+  },
+  {
+    "id": "05873",
+    "pdm": "CORDOALHA DE ACO DE PUXAMENTO DE CABO"
+  },
+  {
+    "id": "05876",
+    "pdm": "CORDOALHA DE COBRE DE PUXAMENTO DE CABO"
+  },
+  {
+    "id": "05899",
+    "pdm": "CORRENTE SOLDADA"
+  },
+  {
+    "id": "05900",
+    "pdm": "CORRENTE - GALVANIZADA"
+  },
+  {
+    "id": "05901",
+    "pdm": "CORRENTE COM SOLDA"
+  },
+  {
+    "id": "05903",
+    "pdm": "CORRENTE DE ACO"
+  },
+  {
+    "id": "05905",
+    "pdm": "CORRENTE DE ARAME"
+  },
+  {
+    "id": "05908",
+    "pdm": "CORRENTE PARA CARGA DE ARAME"
+  },
+  {
+    "id": "05909",
+    "pdm": "CORRENTE PARA ELEVACAO / SUSPENSAO DE CARGA"
+  },
+  {
+    "id": "05910",
+    "pdm": "CORRENTE PARA TALHA - ELETRICA / PNEUMATICA / MA-NUAL"
+  },
+  {
+    "id": "05911",
+    "pdm": "CORRENTE SEM SOLDA"
+  },
+  {
+    "id": "06488",
+    "pdm": "OLHAL"
+  },
+  {
+    "id": "06490",
+    "pdm": "ELO PARA CORRENTE"
+  },
+  {
+    "id": "06522",
+    "pdm": "EMENDA DE CABO DE FIBRA"
+  },
+  {
+    "id": "06524",
+    "pdm": "EMENDA PARA CORRENTE"
+  },
+  {
+    "id": "06563",
+    "pdm": "ENFRECHADURA"
+  },
+  {
+    "id": "07133",
+    "pdm": "ESTICADOR DE CABO ( TENSOR )"
+  },
+  {
+    "id": "07613",
+    "pdm": "FITILHO"
+  },
+  {
+    "id": "07617",
+    "pdm": "FIXADOR CARGA"
+  },
+  {
+    "id": "07914",
+    "pdm": "GANCHO DE CARGA"
+  },
+  {
+    "id": "07929",
+    "pdm": "GARRA DE CORDOALHA"
+  },
+  {
+    "id": "08074",
+    "pdm": "GRAMPO PARA CABO"
+  },
+  {
+    "id": 10738,
+    "pdm": "PINGENTE PARA ICAMENTO / SUSPENSAO / MOVIMENTACAO DE CARGA"
+  },
+  {
+    "id": 11169,
+    "pdm": "PRENDEDOR PARA CORRENTE"
+  },
+  {
+    "id": 11203,
+    "pdm": "PRESILHA DE CABO / CORDA"
+  },
+  {
+    "id": 11364,
+    "pdm": "QUARTEL DE AMARRA"
+  },
+  {
+    "id": 11382,
+    "pdm": "RABICHO"
+  },
+  {
+    "id": 11940,
+    "pdm": "SAPATILHA DE CABO / CORDA"
+  },
+  {
+    "id": 12650,
+    "pdm": "TERMINAL DE CABO DE ACO"
+  },
+  {
+    "id": 12651,
+    "pdm": "TERMINAL DE CABO DE FIBRA"
+  },
+  {
+    "id": 12783,
+    "pdm": "TIRANTE"
+  },
+  {
+    "id": 16931,
+    "pdm": "CORRENTES E CABOS DE AÇO"
+  },
+  {
+    "id": 16932,
+    "pdm": "FIO"
+  },
+  {
+    "id": 16933,
+    "pdm": "ACESSÓRIOS PARA CORDAS. CABOS E CORRENTES"
+  }
+]
