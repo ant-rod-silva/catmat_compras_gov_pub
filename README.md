@@ -99,6 +99,10 @@ https://www.textfixer.com/tools/remove-white-spaces.php
 
 https://www.csvjson.com/csv2json
 
+#### Json Linter
+
+https://jsonlint.com/
+
 #### Alphabetize List 
 
 https://alphabetizer.flap.tv/
@@ -110,3 +114,4 @@ http://www.dedupelist.com/
 #### Replace text
 
 http://www.unit-conversion.info/texttools/replace-text/
+
