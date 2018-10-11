@@ -1,0 +1,57 @@
+[
+  {
+    "id": 10905,
+    "pdm": "PLATAFORMAS DE MANUTENCAO E ESCADAS DE AERONAVES",
+    "grupo": "17"
+  },
+  {
+    "id": 11150,
+    "pdm": "PRE-AQUECEDORES DE MOTOR DE AERONAVES",
+    "grupo": "17"
+  },
+  {
+    "id": 11410,
+    "pdm": "RAMPAS DE EMBARQUE E DESEMBARQUE DE PASSAGEIROS DE AERONAVES",
+    "grupo": "17"
+  },
+  {
+    "id": 11455,
+    "pdm": "REBOQUE CARRINHOS DE AEROPORTOS",
+    "grupo": "17"
+  },
+  {
+    "id": 12941,
+    "pdm": "TRATORES PARA AEROPORTOS",
+    "grupo": "17"
+  },
+  {
+    "id": 16753,
+    "pdm": "EQUIPAMENTOS PARA SERVICOS DE AERODROMOS",
+    "grupo": "17"
+  },
+  {
+    "id": 16754,
+    "pdm": "EQUIPAMENTOS PARA POUSO DE AERONAVES",
+    "grupo": "17"
+  },
+  {
+    "id": 16755,
+    "pdm": "EQUIPAMENTOS PARA LANCAMENTO DE AERONAVES",
+    "grupo": "17"
+  },
+  {
+    "id": 16756,
+    "pdm": "EQUIPAMENTOS DE SERVICOS EM TERRA DE AERONAVES",
+    "grupo": "17"
+  },
+  {
+    "id": 16757,
+    "pdm": "REBOQUES E TRATORES ESPECIALIZADOS PARA AEROPORTOS",
+    "grupo": "17"
+  },
+  {
+    "id": 16758,
+    "pdm": "EQUIPAMENTOS PARA LANCAMENTO. POUSO E MANOBRA DE AERONAVESDIVERSOS",
+    "grupo": "17"
+  }
+]
