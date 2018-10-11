@@ -1,0 +1,2022 @@
+[
+  {
+    "id": "01350",
+    "pdm": "VELA IGNIÇÃO",
+    "grupo": "29"
+  },
+  {
+    "id": "01359",
+    "pdm": "FILTRO AR",
+    "grupo": "29"
+  },
+  {
+    "id": "01426",
+    "pdm": "RADIADOR",
+    "grupo": "29"
+  },
+  {
+    "id": "01679",
+    "pdm": "ACESSORIO DE GERADOR ELETRICO DE MOTOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "01720",
+    "pdm": "ACESSORIO PARA MOTOR EXCETO DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "01723",
+    "pdm": "ACESSORIO PARA TODO O TIPO DE MOTOR EXCETO DE MISSIL GUIADO",
+    "grupo": "29"
+  },
+  {
+    "id": "02045",
+    "pdm": "ACIONADOR INTERNO DO ALTERNADOR ( ESTATOR ) DE CORRENTE ELETRICA - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "02065",
+    "pdm": "ACUMULADOR DE CILINDRO HIDRAULICO DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "02070",
+    "pdm": "ACUMULADOR HIDRAULICO DE MOTOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "02080",
+    "pdm": "ADAPTADOR DE CARBURADOR",
+    "grupo": "29"
+  },
+  {
+    "id": "02180",
+    "pdm": "AGULHA DE BOIA DE CARBURADOR DE VEICULO",
+    "grupo": "29"
+  },
+  {
+    "id": "02225",
+    "pdm": "ALARME SONORO ANTI - FURTO DE VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "02367",
+    "pdm": "ALTERNADOR VEÍCULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "02430",
+    "pdm": "AMORTECEDOR DE RUIDO DE MOTOR DE ADMISSAO EXCETO DE MOTOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "02499",
+    "pdm": "ANEL CIRCULAÇÃO ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": "02551",
+    "pdm": "ANTI - CONGELANTE ESPECIFICO DE MOTOR A JATO DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "02906",
+    "pdm": "APOIO DE AMORTECEDOR DE SUSPENSAO DE MOTOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "02925",
+    "pdm": "AQUECEDOR DE DUTO DE AR",
+    "grupo": "29"
+  },
+  {
+    "id": "02926",
+    "pdm": "AQUECEDOR DE DUTO DE AR DE MOTOR AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "03005",
+    "pdm": "ARMADURA PARA MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": "03021",
+    "pdm": "ARO BUZINA - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "03040",
+    "pdm": "ARRANQUE PNEUMATICO DE MOTOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "03041",
+    "pdm": "ARREFECEDOR DE OLEO LUBRIFICANTE DE SISTEMA DE RESFRIAMENTO DE MOTOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "03057",
+    "pdm": "ARRUELA PARA BICO / BOMBA INJETORA DE COMBUSTIVEL DE MOTOR DIESEL",
+    "grupo": "29"
+  },
+  {
+    "id": "03122",
+    "pdm": "ATUADOR ELETRICO - ACIONAMENTO DE VALVULA",
+    "grupo": "29"
+  },
+  {
+    "id": "03123",
+    "pdm": "ATUADOR ELÉTRICO / MECÂNICO",
+    "grupo": "29"
+  },
+  {
+    "id": "03140",
+    "pdm": "AUTOMATICO DE PARTIDA - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "03148",
+    "pdm": "AVANCO DO DISTRIBUIDOR - MOTOR VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "03409",
+    "pdm": "BASE COM VALVULA BORBOLETA DE CARBURADOR DE CORPO DUPLO",
+    "grupo": "29"
+  },
+  {
+    "id": "03525",
+    "pdm": "BICO BOMBA INJETORA COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": "03637",
+    "pdm": "BOBINA IGNIÇÃO MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": "03642",
+    "pdm": "BOBINA IGNIÇÃO AUTOMOTIVA",
+    "grupo": "29"
+  },
+  {
+    "id": "03655",
+    "pdm": "BOIA DE CARBURADOR DE CORPO DUPLO",
+    "grupo": "29"
+  },
+  {
+    "id": "03656",
+    "pdm": "BOIA DE CARBURADOR DE CORPO SIMPLES",
+    "grupo": "29"
+  },
+  {
+    "id": "03661",
+    "pdm": "BÓIA TANQUE COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": "03662",
+    "pdm": "BOIA PARA CARBURADOR",
+    "grupo": "29"
+  },
+  {
+    "id": "03736",
+    "pdm": "BOMBA D ' AGUA PARA MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": "03742",
+    "pdm": "BOMBA DE ALCOOL",
+    "grupo": "29"
+  },
+  {
+    "id": "03749",
+    "pdm": "BOMBA DE COMBUSTIVEL",
+    "grupo": "29"
+  },
+  {
+    "id": "03750",
+    "pdm": "BOMBA COMBUSTÍVEL DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "03768",
+    "pdm": "BOMBA DO SISTEMA DE REFRIGERACAO DE MOTOR AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "03770",
+    "pdm": "BOMBA ELÉTRICA INJEÇÃO COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": "03774",
+    "pdm": "BOMBA DIREÇÃO VEÍCULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "03780",
+    "pdm": "BOMBA INJETORA COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": "03943",
+    "pdm": "BUCHA PARA COMPONENTE DO SISTEMA ELETRICO - VEICU LO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "03953",
+    "pdm": "BUJÃO DE SUPORTE DE CALIBRE DE PULVERIZADOR PRINCI",
+    "grupo": "29"
+  },
+  {
+    "id": "03973",
+    "pdm": "BUZINA - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "03984",
+    "pdm": "CABEÇOTE BOMBA INJETORA DE COMBUSTÍVEL - MOTOR DIE",
+    "grupo": "29"
+  },
+  {
+    "id": "04037",
+    "pdm": "CABO DE VELA",
+    "grupo": "29"
+  },
+  {
+    "id": "04044",
+    "pdm": "CABO ELETRICO FONTE EXTERNA - AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "04273",
+    "pdm": "CALIBRE MARCHA LENTA DE CARBURADOR",
+    "grupo": "29"
+  },
+  {
+    "id": "04503",
+    "pdm": "CAPTADOR DE AR DO SISTEMA DE PRE - AQUECIMENTO DO MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": "04523",
+    "pdm": "CARBURADOR",
+    "grupo": "29"
+  },
+  {
+    "id": "04525",
+    "pdm": "CARBURADOR DE CORPO DUPLO",
+    "grupo": "29"
+  },
+  {
+    "id": "04526",
+    "pdm": "CARBURADOR DE CORPO SIMPLES",
+    "grupo": "29"
+  },
+  {
+    "id": "04527",
+    "pdm": "CARBURADOR DE MOTOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "04531",
+    "pdm": "CARCACA / CABECOTE PARA FILTRO DE OLEO",
+    "grupo": "29"
+  },
+  {
+    "id": "04698",
+    "pdm": "CATALISADOR VEÍCULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "04892",
+    "pdm": "CHAVE CONTATO",
+    "grupo": "29"
+  },
+  {
+    "id": "04955",
+    "pdm": "CHICOTE DE VELA DE IGNICAO DE MOTOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "04956",
+    "pdm": "CONJUNTO CILINDRO E PISTÃO",
+    "grupo": "29"
+  },
+  {
+    "id": "05001",
+    "pdm": "CILINDRO IGNIÇÃO",
+    "grupo": "29"
+  },
+  {
+    "id": "05416",
+    "pdm": "COMPONENTE DE MOTOR EXCETO DE MOTOR PRIMARIO DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "05421",
+    "pdm": "COMPONENTE DE TODO O TIPO DE MOTOR DE RESFRIAMENTO EXCETO MOTOR PRIMARIO DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "05422",
+    "pdm": "COMPONENTE DE TODO TIPO DE MOTOR DE RESFRIAMENTO EXCETO MOTOR PRIMARIO DE MISSIL GUIADO",
+    "grupo": "29"
+  },
+  {
+    "id": "05465",
+    "pdm": "COMPONENTE PARA MOTOR EXCETO PARA MOTOR PRIMARIO DE MISSIL GUIADO",
+    "grupo": "29"
+  },
+  {
+    "id": "05523",
+    "pdm": "COMUTADOR IGNIÇÃO",
+    "grupo": "29"
+  },
+  {
+    "id": "05539",
+    "pdm": "CONDENSADOR IGNIÇÃO - VEÍCULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "05557",
+    "pdm": "CONDUTOR LATERAL ARREFECIMENTO AR-VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "05558",
+    "pdm": "CONDUTOR SUPERIOR ARREFECIMENTO AR - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "05636",
+    "pdm": "CONJUNTO DE ANEL DE CONTATO DE MOTOR ELETRICO -VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "05703",
+    "pdm": "ÁRVORE DE COMANDO",
+    "grupo": "29"
+  },
+  {
+    "id": "05704",
+    "pdm": "CONJUNTO DE COMANDO TIPO [ VAI E VEM ] DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "05707",
+    "pdm": "CONJUNTO DE CILINDROS",
+    "grupo": "29"
+  },
+  {
+    "id": "05733",
+    "pdm": "CONJUNTO DE MANGUEIRA PARA AGUA",
+    "grupo": "29"
+  },
+  {
+    "id": "05757",
+    "pdm": "CONJUNTO GERADOR ELETRICO - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "05762",
+    "pdm": "CONJUNTO MANGUEIRA ÁGUA SISTEMA DE RESFRIAMENTO",
+    "grupo": "29"
+  },
+  {
+    "id": "05822",
+    "pdm": "CONTROLE DE COMBUSTIVEL PARA MOTOR A JATO",
+    "grupo": "29"
+  },
+  {
+    "id": "05823",
+    "pdm": "CONTROLE DE INJECAO D' AGUA DE SISTEMA DE COMBUSTIVEL DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "05862",
+    "pdm": "CORDÃO DE PARTIDA",
+    "grupo": "29"
+  },
+  {
+    "id": "05885",
+    "pdm": "CORPO DISTRIBUIDOR BOMBA INJETORA DE COMBUSTIVEL - MOTOR DIESEL",
+    "grupo": "29"
+  },
+  {
+    "id": "05895",
+    "pdm": "TENSOR CORREIA DENTADA",
+    "grupo": "29"
+  },
+  {
+    "id": "06156",
+    "pdm": "DIAFRAGMA DE CARBURADOR",
+    "grupo": "29"
+  },
+  {
+    "id": "06313",
+    "pdm": "DISPOSITIVO DE PARTIDA DE MOTOR A COMBUSTAO DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "06352",
+    "pdm": "DISTRIBUIDOR DE IGNICAO DE MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": "06353",
+    "pdm": "DISTRIBUIDOR IGNIÇÃO MOTOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "06449",
+    "pdm": "ELEMENTO FILTRANTE COMBUSTÍVEL - VEÍCULO AUTOMOTI",
+    "grupo": "29"
+  },
+  {
+    "id": "06450",
+    "pdm": "ELEMENTO FILTRANTE SISTEMA ADMISSAO",
+    "grupo": "29"
+  },
+  {
+    "id": "06451",
+    "pdm": "ELEMENTO FILTRO AR - VEÍCULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "06452",
+    "pdm": "ELEMENTO INJETOR DE COMBUSTIVEL PARA BOMBA INJETORA DE COMBUSTIVEL DE MOTOR DIESEL",
+    "grupo": "29"
+  },
+  {
+    "id": "06911",
+    "pdm": "ESCAPAMENTO COMPLETO - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "06924",
+    "pdm": "ESCOADOR DE COMBUSTIVEL",
+    "grupo": "29"
+  },
+  {
+    "id": "06931",
+    "pdm": "ESCORVADOR DE COMBUSTIVEL DE SISTEMA DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "07456",
+    "pdm": "FILTRO ARVORE INTERMEDIARIA BOMBA OLEO - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "07466",
+    "pdm": "FILTRO COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": "07467",
+    "pdm": "FILTRO DE COMBUSTIVEL PARA BOMBA INJETORA - MOTORDIESEL",
+    "grupo": "29"
+  },
+  {
+    "id": "07471",
+    "pdm": "FILTRO ÓLEO HIDRÁULICO",
+    "grupo": "29"
+  },
+  {
+    "id": "07481",
+    "pdm": "FILTRO DO SISTEMA DE COMBUSTÍVEL DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "07485",
+    "pdm": "FILTRO ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": "07492",
+    "pdm": "FILTRO PURIFICADOR DE AR - MOTOR VEICULO AUTOMOTI",
+    "grupo": "29"
+  },
+  {
+    "id": "07496",
+    "pdm": "FILTRO SISTEMA REFRIGERACAO - MOTOR VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "07633",
+    "pdm": "FLANGE INTERMEDIARIA BOMBA GASOLINA",
+    "grupo": "29"
+  },
+  {
+    "id": "07922",
+    "pdm": "GARFO ACIONAMENTO MOTOR DE PARTIDA - VECULO AUTOMO",
+    "grupo": "29"
+  },
+  {
+    "id": "07967",
+    "pdm": "GERADOR",
+    "grupo": "29"
+  },
+  {
+    "id": "07972",
+    "pdm": "GERADOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "08051",
+    "pdm": "GRADE PROTETORA DO RADIADOR",
+    "grupo": "29"
+  },
+  {
+    "id": "08171",
+    "pdm": "HASTE DE COMANDO DE BOMBA DE MOTOR A GASOLINA",
+    "grupo": "29"
+  },
+  {
+    "id": "08172",
+    "pdm": "HASTE DE COMANDO DE CARBURADOR",
+    "grupo": "29"
+  },
+  {
+    "id": "08182",
+    "pdm": "HASTE UNIAO SISTEMA RESFRIAMENTO - VEICULO AUTOMO TIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "08321",
+    "pdm": "IMPULSOR PARA MOTOR DE PARTIDA - VEICULO AUTOMOTI VO",
+    "grupo": "29"
+  },
+  {
+    "id": "08366",
+    "pdm": "INDUZIDO DE MOTOR DE PARTIDA - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "08383",
+    "pdm": "INSTALACAO ELETRICA - VEICULO AUTOMOTIVO (FIACAO /CHICOTE ELETRICO )",
+    "grupo": "29"
+  },
+  {
+    "id": "08447",
+    "pdm": "INTERRUPTOR DE PARTIDA MOTOR ELETRICO - VEICULO",
+    "grupo": "29"
+  },
+  {
+    "id": "08566",
+    "pdm": "JUNTA ( JOGO / KIT ) MOTOR - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "08574",
+    "pdm": "JUNTA PARA BOMBA INJETORA DE COMBUSTIVEL DE MOTOR DIESEL",
+    "grupo": "29"
+  },
+  {
+    "id": "09021",
+    "pdm": "MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": "09023",
+    "pdm": "MAGNETO DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "09086",
+    "pdm": "MANETE DE MOTOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "09094",
+    "pdm": "MANGUEIRA COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": "09103",
+    "pdm": "MANGUEIRA RADIADOR VEÍCULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "09104",
+    "pdm": "MANGUEIRA SISTEMA ADMISSAO",
+    "grupo": "29"
+  },
+  {
+    "id": "09108",
+    "pdm": "MANGUEIRA VACUO SISTEMA ADMISSAO",
+    "grupo": "29"
+  },
+  {
+    "id": "09112",
+    "pdm": "MANIVELA DE PARTIDA DE MOTOR A EXPLOSAO",
+    "grupo": "29"
+  },
+  {
+    "id": "09113",
+    "pdm": "MANIVELA DO TIPO COMBUSTAO",
+    "grupo": "29"
+  },
+  {
+    "id": "09858",
+    "pdm": "MOLA DE VALVULA DE ESCAPAMENTO",
+    "grupo": "29"
+  },
+  {
+    "id": "09925",
+    "pdm": "MOTOCICLETA - BOIA CARBURADOR",
+    "grupo": "29"
+  },
+  {
+    "id": "09928",
+    "pdm": "MOTOCICLETA - CANO DESCARGA",
+    "grupo": "29"
+  },
+  {
+    "id": "09930",
+    "pdm": "MOTOCICLETA - CARBURADOR",
+    "grupo": "29"
+  },
+  {
+    "id": "09940",
+    "pdm": "MOTOCICLETA - INTERRUPTOR SISTEMA ELETRICO",
+    "grupo": "29"
+  },
+  {
+    "id": "09947",
+    "pdm": "MOTOCICLETA - VELA MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": "09961",
+    "pdm": "MOTOR DE PARTIDA - VEÍCULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": "09962",
+    "pdm": "MOTOR DE PARTIDA DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": "09963",
+    "pdm": "MOTOR DE PARTIDA DE MOTOR A EXPLOSAO",
+    "grupo": "29"
+  },
+  {
+    "id": "09976",
+    "pdm": "MOTOR ELETRICO DE PARTIDA - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 10271,
+    "pdm": "PA - HELICE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 10427,
+    "pdm": "PARAFUSO BOMBA INJETORA DE COMBUSTIVEL - MOTOR DIESEL",
+    "grupo": "29"
+  },
+  {
+    "id": 10560,
+    "pdm": "PECA/COMPONENTE ALIMENTACAO COMBUSTIVEL - MOTOR DEPOPA",
+    "grupo": "29"
+  },
+  {
+    "id": 10561,
+    "pdm": "PECA/COMPONENTE ALIMENTACAO COMBUSTIVEL - TRATOR",
+    "grupo": "29"
+  },
+  {
+    "id": 10568,
+    "pdm": "PEÇA/COMPONENTE MOTOR DE EMBARCAÇÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 10571,
+    "pdm": "PECAS E COMPONENTES - AERONAVE / VEICULOS ESPACIAIS / SATELITE",
+    "grupo": "29"
+  },
+  {
+    "id": 10789,
+    "pdm": "PISTÃO MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 10907,
+    "pdm": "PLATINADO DISTRIBUIDOR DE ENERGIA ELETRICA - VEICU",
+    "grupo": "29"
+  },
+  {
+    "id": 10914,
+    "pdm": "PLUG UNIVERSAL - AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 11143,
+    "pdm": "PRATO ASSENTO VALVULA",
+    "grupo": "29"
+  },
+  {
+    "id": 11355,
+    "pdm": "QUADRANTE DA MANETA DO MOTOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 11391,
+    "pdm": "RADIADOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 11587,
+    "pdm": "REGULADOR DE FLUXO SISTEMA DE COMBUSTIVEL - AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 11593,
+    "pdm": "REGULADOR DE VOLTAGEM DE MOTOR AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 11595,
+    "pdm": "REGULADOR HIDRAULICO DE AGUA DE MOTOR A JATO DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 11596,
+    "pdm": "REGULADOR HIDRAULICO DE AR DE MOTOR A JATO DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 11597,
+    "pdm": "REGULADOR HIDRAULICO DE OLEO DE MOTOR A JATO DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 11598,
+    "pdm": "REGULADOR HIDRAULICO PARA OLEO - MOTOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 11599,
+    "pdm": "REGULADOR TEMPERATURA DE OLEO - SISTEMA DE RESFRIAMENTO MOTOR AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 11600,
+    "pdm": "REGULADOR TURBOSUPERCOMPRESSOR DE MOTOR - COMBUSTAO INTERNA",
+    "grupo": "29"
+  },
+  {
+    "id": 11601,
+    "pdm": "REGULADOR VELOCIDADE - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 11602,
+    "pdm": "CAIXA REGULADORA VOLTAGEM",
+    "grupo": "29"
+  },
+  {
+    "id": 11610,
+    "pdm": "RELÉ VEÍCULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 11643,
+    "pdm": "REPARO BOMBA D'AGUA",
+    "grupo": "29"
+  },
+  {
+    "id": 11644,
+    "pdm": "CONJUNTO REPARO CARBURADOR",
+    "grupo": "29"
+  },
+  {
+    "id": 11645,
+    "pdm": "REPARO DO MOTOR DE PARTIDA - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 11647,
+    "pdm": "REPARO BOMBA INJETORA COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": 11648,
+    "pdm": "REPARO PARA GERADOR DE ENERGIA ELETRICA - VEICULO",
+    "grupo": "29"
+  },
+  {
+    "id": 11668,
+    "pdm": "RESERVATORIO COMPENSACAO DE AGUA DE RADIADOR DE MOTOR - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 11732,
+    "pdm": "REVERSOR HIDRAULICO",
+    "grupo": "29"
+  },
+  {
+    "id": 11843,
+    "pdm": "ROTOR DISTRIBUIDOR ENERGIA ELETRICA - VEICULO AUTO",
+    "grupo": "29"
+  },
+  {
+    "id": 12017,
+    "pdm": "SENSOR TERMICO - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 12059,
+    "pdm": "SILENCIADOR ESCAPAMENTO DESCARGA",
+    "grupo": "29"
+  },
+  {
+    "id": 12114,
+    "pdm": "SISTEMA DE CONTROLE DE FUMACA DE SISTEMA DE COMBUSTIVEL DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 12363,
+    "pdm": "SUPERALIMENTADOR ACIONADO POR MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 12372,
+    "pdm": "SUPORTE BOMBA COMBUSTIVEL",
+    "grupo": "29"
+  },
+  {
+    "id": 12380,
+    "pdm": "SUPORTE DE CARENAGEM DE MOTOR DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 12424,
+    "pdm": "SUPORTE RADIADOR - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 12433,
+    "pdm": "SUPRESSOR RUIDO PARA VELA DE IGNICAO - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 12509,
+    "pdm": "TAMPA BOMBA AGUA - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 12515,
+    "pdm": "TAMPA DISTRIBUIDOR ENERGIA ELETRICA - VEICULO AUTO",
+    "grupo": "29"
+  },
+  {
+    "id": 12524,
+    "pdm": "TAMPA RESERVATÓRIO COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": 12525,
+    "pdm": "TAMPA RADIADOR",
+    "grupo": "29"
+  },
+  {
+    "id": 12526,
+    "pdm": "TAMPA TUBO ABASTECIMENTO",
+    "grupo": "29"
+  },
+  {
+    "id": 12539,
+    "pdm": "CONJUNTO CONVERSÃO VEÍCULO",
+    "grupo": "29"
+  },
+  {
+    "id": 13059,
+    "pdm": "TUBO BOMBA INJETORA",
+    "grupo": "29"
+  },
+  {
+    "id": 13060,
+    "pdm": "TUBO DE INJECAO DE CARBURADOR DE CORPO DUPLO",
+    "grupo": "29"
+  },
+  {
+    "id": 13082,
+    "pdm": "TUBO DE TANQUE DE COMBUSTIVEL",
+    "grupo": "29"
+  },
+  {
+    "id": 13122,
+    "pdm": "TUBO FILTRO COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": 13123,
+    "pdm": "TUBULACAO ESCAPAMENTO - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 13137,
+    "pdm": "TURBOCOMPRESSOR DE MOTOR DE COMBUSTAO INTERNA",
+    "grupo": "29"
+  },
+  {
+    "id": 13246,
+    "pdm": "VALVULA AGULHA CARBURADOR",
+    "grupo": "29"
+  },
+  {
+    "id": 13255,
+    "pdm": "VALVULA DE CONTROLE SISTEMA RESFRIAMENTO MOTOR - AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 13256,
+    "pdm": "VALVULA DE ESCAPAMENTO DE CARBURADOR DE MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 13258,
+    "pdm": "VALVULA DE ESTILETE DE CARBURADOR DE MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 13265,
+    "pdm": "VALVULA COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": 13272,
+    "pdm": "VALVULA DO SISTEMA DE COMBUSTIVEL DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 13276,
+    "pdm": "VALVULA INJECAO D' AGUA SISTEMA DE COMBUSTIVEL - AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 13362,
+    "pdm": "VELA DE IGNICAO DE AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 13374,
+    "pdm": "VENTILADOR DE REFRIGERACAO DE MOTOR AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 13381,
+    "pdm": "VENTOINHA PARA RADIADOR - VEICULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 13603,
+    "pdm": "MOTOCICLETA - PEÇA MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 13604,
+    "pdm": "MOTOCICLETA - PECA SISTEMA ELETRICO",
+    "grupo": "29"
+  },
+  {
+    "id": 14233,
+    "pdm": "JUNTA BASE BOMBA COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": 14234,
+    "pdm": "JUNTA CARBURADOR",
+    "grupo": "29"
+  },
+  {
+    "id": 14245,
+    "pdm": "CHAVE COMANDO FAROL",
+    "grupo": "29"
+  },
+  {
+    "id": 14247,
+    "pdm": "RADIADOR ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 14254,
+    "pdm": "SENSOR AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 14265,
+    "pdm": "JUNTA AUTOMOTIVA",
+    "grupo": "29"
+  },
+  {
+    "id": 14266,
+    "pdm": "VÁLVULA AUTOMOTIVA",
+    "grupo": "29"
+  },
+  {
+    "id": 14271,
+    "pdm": "BOMBA AUTOMOTIVA",
+    "grupo": "29"
+  },
+  {
+    "id": 14304,
+    "pdm": "CONEXÃO SISTEMA PARTIDA",
+    "grupo": "29"
+  },
+  {
+    "id": 14344,
+    "pdm": "VEDADOR AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 14353,
+    "pdm": "BENDIX VEÍCULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 14355,
+    "pdm": "SUPORTE DIODO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 14356,
+    "pdm": "ARGOLA AUTOMOTIVA",
+    "grupo": "29"
+  },
+  {
+    "id": 14358,
+    "pdm": "BOBINA IGNIÇÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 14383,
+    "pdm": "COPO FILTRO COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": 14387,
+    "pdm": "SELO VÁLVULA",
+    "grupo": "29"
+  },
+  {
+    "id": 14390,
+    "pdm": "CASQUILHO",
+    "grupo": "29"
+  },
+  {
+    "id": 14392,
+    "pdm": "RETENTOR MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 14620,
+    "pdm": "SENSOR BÓIA TANQUE COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": 14622,
+    "pdm": "SENSOR BÓIA DE TANQUE DE COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": 14677,
+    "pdm": "JOGO JUNTAS",
+    "grupo": "29"
+  },
+  {
+    "id": 14732,
+    "pdm": "JOGO CABOS VELA",
+    "grupo": "29"
+  },
+  {
+    "id": 15223,
+    "pdm": "PLUG PISTÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 15224,
+    "pdm": "FILTRO ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 15225,
+    "pdm": "CALÇO MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15226,
+    "pdm": "FILTRO AR",
+    "grupo": "29"
+  },
+  {
+    "id": 15227,
+    "pdm": "MANGOTE RETORNO",
+    "grupo": "29"
+  },
+  {
+    "id": 15228,
+    "pdm": "VÁLVULA TERMOSTÁTICA MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15229,
+    "pdm": "MANGOTE ADMISSÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 15230,
+    "pdm": "TRAVA CONTRAPESO MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15231,
+    "pdm": "PLACA CONTRAPESO",
+    "grupo": "29"
+  },
+  {
+    "id": 15232,
+    "pdm": "PORCA BIELA",
+    "grupo": "29"
+  },
+  {
+    "id": 15234,
+    "pdm": "CALÇO ACOPLAMENTO COXIM MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 15235,
+    "pdm": "CONJUNTO ANEL",
+    "grupo": "29"
+  },
+  {
+    "id": 15238,
+    "pdm": "TRAVA PARAFUSO",
+    "grupo": "29"
+  },
+  {
+    "id": 15245,
+    "pdm": "PARAFUSO BIELA",
+    "grupo": "29"
+  },
+  {
+    "id": 15246,
+    "pdm": "JOGO JUNTAS - AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 15282,
+    "pdm": "TANQUE COMBUSTÍVEL VEÍCULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 15473,
+    "pdm": "ARRUELA LISA",
+    "grupo": "29"
+  },
+  {
+    "id": 15474,
+    "pdm": "BRONZINA AERONAVE",
+    "grupo": "29"
+  },
+  {
+    "id": 15477,
+    "pdm": "EIXO COMANDO VÁLVULAS",
+    "grupo": "29"
+  },
+  {
+    "id": 15479,
+    "pdm": "ARRUELA BICO INJETOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15480,
+    "pdm": "ARRUELA TUBO ENVELOPE",
+    "grupo": "29"
+  },
+  {
+    "id": 15481,
+    "pdm": "TRAVA PINO BALANCIM",
+    "grupo": "29"
+  },
+  {
+    "id": 15482,
+    "pdm": "ARRUELA PRESSÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 15483,
+    "pdm": "ARRUELA ENCOSTO BUCHA BALANCIM",
+    "grupo": "29"
+  },
+  {
+    "id": 15484,
+    "pdm": "ADAPTADOR SISTEMA RPM",
+    "grupo": "29"
+  },
+  {
+    "id": 15485,
+    "pdm": "RETENTOR VENTILAÇÃO BICO INJETOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15486,
+    "pdm": "ANEL BORRACHA BICO INJETOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15487,
+    "pdm": "BRAÇADEIRA TUBAGEM VENTILAÇÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 15488,
+    "pdm": "BUCHA CONTRAPESO EIXO MANIVELA",
+    "grupo": "29"
+  },
+  {
+    "id": 15489,
+    "pdm": "BUCHA BIELA",
+    "grupo": "29"
+  },
+  {
+    "id": 15491,
+    "pdm": "BUCHA BALANCIM",
+    "grupo": "29"
+  },
+  {
+    "id": 15492,
+    "pdm": "TAMPA BOCAL ABASTECIMENTO ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 15493,
+    "pdm": "CONTRAPINO PARAFUSO BIELA",
+    "grupo": "29"
+  },
+  {
+    "id": 15494,
+    "pdm": "DEFLETOR VENTILAÇÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 15495,
+    "pdm": "EIXO TACÔMETRO",
+    "grupo": "29"
+  },
+  {
+    "id": 15496,
+    "pdm": "EIXO BALANCIM",
+    "grupo": "29"
+  },
+  {
+    "id": 15497,
+    "pdm": "ENGRENAGEM BOMBA ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 15498,
+    "pdm": "TELA FILTRO ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 15499,
+    "pdm": "FILTRO ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 15500,
+    "pdm": "ROSCA POSTIÇA HELICÓIDE",
+    "grupo": "29"
+  },
+  {
+    "id": 15501,
+    "pdm": "JUNTA MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15502,
+    "pdm": "JUNTA TAMPA BALANCIM",
+    "grupo": "29"
+  },
+  {
+    "id": 15503,
+    "pdm": "JUNTA TAMPA BOCAL ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 15504,
+    "pdm": "MOLA CONJUNTO PARTIDA MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15505,
+    "pdm": "MANGOTE TUBO ADMISSÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 15506,
+    "pdm": "MANGOTE BOCA TURBO",
+    "grupo": "29"
+  },
+  {
+    "id": 15507,
+    "pdm": "MOLA PARTIDA MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15508,
+    "pdm": "MOLA COMPRESSÃO HASTE DEFLETOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15509,
+    "pdm": "DEFLETOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15510,
+    "pdm": "MOLA PRESSÃO ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 15511,
+    "pdm": "HASTE DEFLETOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15512,
+    "pdm": "PARAFUSO DEFLETOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15513,
+    "pdm": "PARAFUSO ENGRENAGEM EIXO COMANDO",
+    "grupo": "29"
+  },
+  {
+    "id": 15514,
+    "pdm": "PARAFUSO ENGRENAGEM EIXO MANIVELA",
+    "grupo": "29"
+  },
+  {
+    "id": 15515,
+    "pdm": "ROLETE CONTRAPINO",
+    "grupo": "29"
+  },
+  {
+    "id": 15516,
+    "pdm": "ROLETE CONTRAPESO",
+    "grupo": "29"
+  },
+  {
+    "id": 15517,
+    "pdm": "PINO PISTÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 15518,
+    "pdm": "PORCA PARAFUSO BIELA",
+    "grupo": "29"
+  },
+  {
+    "id": 15519,
+    "pdm": "PORCA ESCAPAMENTO",
+    "grupo": "29"
+  },
+  {
+    "id": 15520,
+    "pdm": "PLUG PRESSÃO ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 15521,
+    "pdm": "RETENTOR EIXO MANIVELAS",
+    "grupo": "29"
+  },
+  {
+    "id": 15522,
+    "pdm": "RETENTOR TUBO VENTILAÇÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 15523,
+    "pdm": "RETENTOR PLUG VENTILAÇÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 15524,
+    "pdm": "RETENTOR TACÔMETRO",
+    "grupo": "29"
+  },
+  {
+    "id": 15525,
+    "pdm": "ROLAMENTO CONJUNTO PARTIDA",
+    "grupo": "29"
+  },
+  {
+    "id": 15526,
+    "pdm": "SUPORTE TUBO VENTILAÇÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 15527,
+    "pdm": "TRAVA CONTRAPESO",
+    "grupo": "29"
+  },
+  {
+    "id": 15528,
+    "pdm": "CHAVETA EIXO COMANDO",
+    "grupo": "29"
+  },
+  {
+    "id": 15529,
+    "pdm": "TRAVA BALANCIM",
+    "grupo": "29"
+  },
+  {
+    "id": 15530,
+    "pdm": "TUCHO HIDRÁULICO",
+    "grupo": "29"
+  },
+  {
+    "id": 15531,
+    "pdm": "VELA IGNIÇÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 15533,
+    "pdm": "JUNTA BALANCIM",
+    "grupo": "29"
+  },
+  {
+    "id": 15580,
+    "pdm": "GUIA AR RADIADOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15602,
+    "pdm": "AFOGADOR MOTOR POPA",
+    "grupo": "29"
+  },
+  {
+    "id": 15702,
+    "pdm": "CENTRAL ELETRÔNICA",
+    "grupo": "29"
+  },
+  {
+    "id": 15703,
+    "pdm": "IGNIÇÃO ELETRÔNICA AUTOMOTIVA",
+    "grupo": "29"
+  },
+  {
+    "id": 15704,
+    "pdm": "CONVERSOR CATALÍTICO",
+    "grupo": "29"
+  },
+  {
+    "id": 15713,
+    "pdm": "RADIADOR - VEÍCULO",
+    "grupo": "29"
+  },
+  {
+    "id": 15717,
+    "pdm": "VELA AUTOMOTIVA",
+    "grupo": "29"
+  },
+  {
+    "id": 15719,
+    "pdm": "JUNTA CABEÇOTE MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15726,
+    "pdm": "PALHETA BOMBA INJETORA",
+    "grupo": "29"
+  },
+  {
+    "id": 15732,
+    "pdm": "BRONZINA",
+    "grupo": "29"
+  },
+  {
+    "id": 15733,
+    "pdm": "BUCHA MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15734,
+    "pdm": "ANEL EXCÊNTRICO",
+    "grupo": "29"
+  },
+  {
+    "id": 15735,
+    "pdm": "ADAPTADOR CONTAGIROS",
+    "grupo": "29"
+  },
+  {
+    "id": 15736,
+    "pdm": "GUIA DE VÁLVULA",
+    "grupo": "29"
+  },
+  {
+    "id": 15763,
+    "pdm": "RETENTOR POLIA MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15764,
+    "pdm": "SEDE VÁLVULA CABEÇOTE",
+    "grupo": "29"
+  },
+  {
+    "id": 15765,
+    "pdm": "VÁLVULA ESCAPE ADMISSÃO MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15808,
+    "pdm": "GUIA VÁLVULA CABEÇOTE",
+    "grupo": "29"
+  },
+  {
+    "id": 15815,
+    "pdm": "SONDA LAMBDA",
+    "grupo": "29"
+  },
+  {
+    "id": 15816,
+    "pdm": "BAQUELITE BOMBA COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": 15819,
+    "pdm": "BASE MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15849,
+    "pdm": "PORTA-ESCOVA VEÍCULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 15906,
+    "pdm": "CACHIMBO VELA IGNIÇÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 15907,
+    "pdm": "CABO ACELERADOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15909,
+    "pdm": "CABO AFOGADOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15921,
+    "pdm": "REPARO DO CARBURADOR - MOTOCICLETA",
+    "grupo": "29"
+  },
+  {
+    "id": 15966,
+    "pdm": "ABRAÇADEIRA TUBO ADMISSÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 15991,
+    "pdm": "BORRACHA ENGRENAGEM MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 15993,
+    "pdm": "TRAVA CONTRAPESO EIXO MANIVELA",
+    "grupo": "29"
+  },
+  {
+    "id": 15995,
+    "pdm": "TRAVA EIXO TACÔMETRO",
+    "grupo": "29"
+  },
+  {
+    "id": 15996,
+    "pdm": "CONJUNTO ENGRENAGEM BOMBA ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 15997,
+    "pdm": "PLATINADO IGNIÇÃO MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 15998,
+    "pdm": "CONJUNTO REPARO CARBURADOR",
+    "grupo": "29"
+  },
+  {
+    "id": 15999,
+    "pdm": "PLUG VENTILAÇÃO MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 16002,
+    "pdm": "CONJUNTO COMANDO VÁLVULA",
+    "grupo": "29"
+  },
+  {
+    "id": 16003,
+    "pdm": "TRAVA EIXO MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 16004,
+    "pdm": "BOMBA VÁCUO MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 16005,
+    "pdm": "ARRUELA BUCHA EIXO MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 16007,
+    "pdm": "BASE ROLAMENTO EIXO MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 16008,
+    "pdm": "ARRUELA PARAFUSO MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 16009,
+    "pdm": "BASE ACOPLAMENTO FILTRO ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 16010,
+    "pdm": "BORRACHA VEDAÇÃO FILTRO ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 16012,
+    "pdm": "BOMBA GASOLINA",
+    "grupo": "29"
+  },
+  {
+    "id": 16013,
+    "pdm": "BRONZINA BIELA",
+    "grupo": "29"
+  },
+  {
+    "id": 16014,
+    "pdm": "TUBO VARETA MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 16015,
+    "pdm": "CONJUNTO CILINDRO",
+    "grupo": "29"
+  },
+  {
+    "id": 16016,
+    "pdm": "CABLAGEM IGNIÇÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 16017,
+    "pdm": "ENGRENAGEM MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 16018,
+    "pdm": "ENGRENAGEM EIXO MANIVELA",
+    "grupo": "29"
+  },
+  {
+    "id": 16019,
+    "pdm": "ENGRENAGEM BOMBA GASOLINA",
+    "grupo": "29"
+  },
+  {
+    "id": 16021,
+    "pdm": "MANGOTE ÓLEO CILINDRO",
+    "grupo": "29"
+  },
+  {
+    "id": 16022,
+    "pdm": "BLOCO DISTRIBUIDOR MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 16023,
+    "pdm": "ABRAÇADEIRA MANGOTE",
+    "grupo": "29"
+  },
+  {
+    "id": 16024,
+    "pdm": "REPARO CARBURADOR",
+    "grupo": "29"
+  },
+  {
+    "id": 16025,
+    "pdm": "BRONZINA MANCAL",
+    "grupo": "29"
+  },
+  {
+    "id": 16027,
+    "pdm": "PARAFUSO TAMPA BALANCIM",
+    "grupo": "29"
+  },
+  {
+    "id": 16029,
+    "pdm": "PARAFUSO BOMBA GASOLINA",
+    "grupo": "29"
+  },
+  {
+    "id": 16030,
+    "pdm": "PARAFUSO ENGRENAGEM BOMBA GASOLINA",
+    "grupo": "29"
+  },
+  {
+    "id": 16031,
+    "pdm": "PARAFUSO BLOCO MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 16032,
+    "pdm": "PARAFUSO BASE FILTRO ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 16041,
+    "pdm": "ESFERA PRESSÃO ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 16042,
+    "pdm": "CARCAÇA BOMBA ÓLEO",
+    "grupo": "29"
+  },
+  {
+    "id": 16043,
+    "pdm": "FELTRO BLOCO MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 16044,
+    "pdm": "CONDENSADOR MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 16046,
+    "pdm": "CARVÃO ENGRENAGEM MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 16047,
+    "pdm": "CUNHA BOBINA MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 16049,
+    "pdm": "CONTRAPINO EIXO MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 16050,
+    "pdm": "CARTÃO BOBINA MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 16051,
+    "pdm": "CATRACA MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 16057,
+    "pdm": "SUPORTE FIXAÇÃO ALTERNADOR",
+    "grupo": "29"
+  },
+  {
+    "id": 16058,
+    "pdm": "TIRA DE FELTRO",
+    "grupo": "29"
+  },
+  {
+    "id": 16157,
+    "pdm": "TRAVA FELTRO BLOCO MAGNETO",
+    "grupo": "29"
+  },
+  {
+    "id": 16176,
+    "pdm": "PORCA PARAFUSO CARTER",
+    "grupo": "29"
+  },
+  {
+    "id": 16255,
+    "pdm": "VÁLVULA QUATRO VIAS",
+    "grupo": "29"
+  },
+  {
+    "id": 16269,
+    "pdm": "TANQUE COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": 16283,
+    "pdm": "MANIVELA COMPONENTE AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 16295,
+    "pdm": "CORREIA ALTERNADOR",
+    "grupo": "29"
+  },
+  {
+    "id": 16299,
+    "pdm": "PEÇA / COMPONENTE BOMBA INJETORA",
+    "grupo": "29"
+  },
+  {
+    "id": 16300,
+    "pdm": "COMPONENTES E ACESSÓRIOS SISTEMA PARTIDA FRIA",
+    "grupo": "29"
+  },
+  {
+    "id": 16301,
+    "pdm": "COMPONENTE SISTEMA ALIMENTAÇÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 16302,
+    "pdm": "TUBO INJEÇÃO BOMBA ACELERAÇÃO AUTOMOTIVA",
+    "grupo": "29"
+  },
+  {
+    "id": 16304,
+    "pdm": "PEÇAS/COMPONENTES SISTEMA ALIMENTAÇÃO COMBUSTÍVEL",
+    "grupo": "29"
+  },
+  {
+    "id": 16305,
+    "pdm": "COMPONENTES E ACESSÓRIOS ELETROELETRÔNICOS",
+    "grupo": "29"
+  },
+  {
+    "id": 16306,
+    "pdm": "COMPONENTES/ACESSÓRIOS SISTEMA ELÉTRICO AERONAVES",
+    "grupo": "29"
+  },
+  {
+    "id": 16307,
+    "pdm": "RADIADOR E COMPONENTES - VEÍCULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 16309,
+    "pdm": "COMPONENTES E ACESSÓRIOS ESCAPAMENTO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 16310,
+    "pdm": "RETENTOR E DEMAIS COMPONENTES MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 16394,
+    "pdm": "ROSCA POSTIÇA",
+    "grupo": "29"
+  },
+  {
+    "id": 16492,
+    "pdm": "MOLA RETORNO EIXO CARBURADOR",
+    "grupo": "29"
+  },
+  {
+    "id": 16571,
+    "pdm": "BALANCIM VEÍCULO",
+    "grupo": "29"
+  },
+  {
+    "id": 16577,
+    "pdm": "SENSOR DO CONTAGIROS",
+    "grupo": "29"
+  },
+  {
+    "id": 16585,
+    "pdm": "INJETOR COMBUSTÍVEL VEÍCULO",
+    "grupo": "29"
+  },
+  {
+    "id": 16589,
+    "pdm": "CORREIA POLI V - VEÍCULO AUTOMOTIVO",
+    "grupo": "29"
+  },
+  {
+    "id": 16596,
+    "pdm": "ESTICADOR CORREIA",
+    "grupo": "29"
+  },
+  {
+    "id": 16635,
+    "pdm": "ANEL SEGMENTO PISTÃO",
+    "grupo": "29"
+  },
+  {
+    "id": 16821,
+    "pdm": "COMPONENTES DO SISTEMA DE COMBUSTÍVEL DE MOTORES - EXCETO OSDE AERONAVES",
+    "grupo": "29"
+  },
+  {
+    "id": 16822,
+    "pdm": "COMPONENTES DO SISTEMA DE COMBUSTÍVEL DE MOTORES DE AERONA-VES",
+    "grupo": "29"
+  },
+  {
+    "id": 16823,
+    "pdm": "COMPONENTES DO SISTEMA ELÉTRICO DE MOTORES - EXCETO OS DE AERONAVES",
+    "grupo": "29"
+  },
+  {
+    "id": 16824,
+    "pdm": "COMPONENTES DO SISTEMA ELÉTRICO DE MOTORES DE AERONAVES",
+    "grupo": "29"
+  },
+  {
+    "id": 16825,
+    "pdm": "COMPONENTES DO SISTEMA DE RESFRIAMENTO (ARREFECIMENTO) DEMOTORES - EXCETO DE AERONAVES",
+    "grupo": "29"
+  },
+  {
+    "id": 16826,
+    "pdm": "COMPONENTES DO SISTEMA DE RESFRIAMENTO (ARREFECIMENTO) DEMOTORES DE AERONAVES",
+    "grupo": "29"
+  },
+  {
+    "id": 16827,
+    "pdm": "FILTROS DE AR E DE ÓLEO. ELEMENTOS FILTRANTES E PURIFICADORES - EXCETO OS DE AERONAVES",
+    "grupo": "29"
+  },
+  {
+    "id": 16828,
+    "pdm": "FILTROS DE AR E DE ÓLEO. ELEMENTOS FILTRANTES PURIFICADORES DE MOTORES DE AERONAVES.",
+    "grupo": "29"
+  },
+  {
+    "id": 16829,
+    "pdm": "TURBO- SUPERCOMPRESSORES",
+    "grupo": "29"
+  },
+  {
+    "id": 16830,
+    "pdm": "ACESSÓRIOS DIVERSOS DE MOTORES - EXCETO OS DE AERONAVES",
+    "grupo": "29"
+  },
+  {
+    "id": 16831,
+    "pdm": "ACESSÓRIOS DIVERSOS DE MOTORES DE AERONAVES",
+    "grupo": "29"
+  },
+  {
+    "id": 16949,
+    "pdm": "TROCADORA LÍQUIDO SISTEMA ARREFECIMENTO",
+    "grupo": "29"
+  },
+  {
+    "id": 17621,
+    "pdm": "CORREIA MOTOR",
+    "grupo": "29"
+  },
+  {
+    "id": 17637,
+    "pdm": "FILTRO ÓLEO LUBRIFICANTE",
+    "grupo": "29"
+  },
+  {
+    "id": 18039,
+    "pdm": "RELÉ DO ALTERNADOR",
+    "grupo": "29"
+  },
+  {
+    "id": 18273,
+    "pdm": "ARRUELA AUTOMOTIVA",
+    "grupo": "29"
+  },
+  {
+    "id": 19060,
+    "pdm": "MÓDULO COMBUSTÍVEIS",
+    "grupo": "29"
+  },
+  {
+    "id": 19088,
+    "pdm": "CARTÃO CHAVE",
+    "grupo": "29"
+  }
+]
