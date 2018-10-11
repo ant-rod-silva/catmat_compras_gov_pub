@@ -1,0 +1,227 @@
+[
+  {
+    "id": "00577",
+    "pdm": "PNEU VEÍCULO AUTOMOTIVO",
+    "grupo": "26"
+  },
+  {
+    "id": "00591",
+    "pdm": "CÂMARA AR PNEU",
+    "grupo": "26"
+  },
+  {
+    "id": "00592",
+    "pdm": "PNEU TRATOR RODAS DIRECIONAIS",
+    "grupo": "26"
+  },
+  {
+    "id": "00593",
+    "pdm": "PNEU TRATOR RODAS TRAÇÃO",
+    "grupo": "26"
+  },
+  {
+    "id": "01664",
+    "pdm": "ACESSORIO CAMARA DE AR",
+    "grupo": "26"
+  },
+  {
+    "id": "01692",
+    "pdm": "ACESSÓRIO DE PNEUMÁTICO",
+    "grupo": "26"
+  },
+  {
+    "id": "03078",
+    "pdm": "ARTIGO PARA REPARO DE CAMARA DE AR",
+    "grupo": "26"
+  },
+  {
+    "id": "03079",
+    "pdm": "ARTIGO PARA REPARO DE PNEU",
+    "grupo": "26"
+  },
+  {
+    "id": "03081",
+    "pdm": "ARTIGO REPARO PNEU / CAMARA DE AR",
+    "grupo": "26"
+  },
+  {
+    "id": "03538",
+    "pdm": "BICO PNEU SEM CÂMARA",
+    "grupo": "26"
+  },
+  {
+    "id": "04323",
+    "pdm": "CAMARA DE AR DE PNEU DE TRATOR E VEICULO DE TERRAPLENAGEM",
+    "grupo": "26"
+  },
+  {
+    "id": "04324",
+    "pdm": "CÂMARA AR PNEU - AERONAVE",
+    "grupo": "26"
+  },
+  {
+    "id": "05321",
+    "pdm": "COLA PARA REPARO DE PNEU",
+    "grupo": "26"
+  },
+  {
+    "id": "05323",
+    "pdm": "COLA RAPIDA PARA REPARO DE PNEU",
+    "grupo": "26"
+  },
+  {
+    "id": "05324",
+    "pdm": "COLA REPARO CAMARA DE AR",
+    "grupo": "26"
+  },
+  {
+    "id": "06801",
+    "pdm": "EQUIPAMENTO MANUTENCAO E REPARO CAMARA DE AR",
+    "grupo": "26"
+  },
+  {
+    "id": "07109",
+    "pdm": "ESTEIRA COM BANDA DE RODAGEM DE BORRACHA",
+    "grupo": "26"
+  },
+  {
+    "id": "07165",
+    "pdm": "ESTOJO PARA REPARO DE PNEU",
+    "grupo": "26"
+  },
+  {
+    "id": "07168",
+    "pdm": "ESTOJO REPARO CAMARA DE AR",
+    "grupo": "26"
+  },
+  {
+    "id": "08917",
+    "pdm": "LONA PNEU",
+    "grupo": "26"
+  },
+  {
+    "id": 10131,
+    "pdm": "NUCLEO VALVULA CAMARA DE AR",
+    "grupo": "26"
+  },
+  {
+    "id": 10916,
+    "pdm": "PNEU - AERONAVE",
+    "grupo": "26"
+  },
+  {
+    "id": 10917,
+    "pdm": "PNEU VEÍCULO MILITAR",
+    "grupo": "26"
+  },
+  {
+    "id": 10918,
+    "pdm": "PNEU DIAGONAL CONVENCIONAL COM CAMARA - VEICULO AUTOMOTIVO",
+    "grupo": "26"
+  },
+  {
+    "id": 10919,
+    "pdm": "PNEU DIAGONAL CONVENCIONAL SEM CAMARA - VEICULO AUTOMOTIVO",
+    "grupo": "26"
+  },
+  {
+    "id": 10920,
+    "pdm": "PNEU MOTOCICLETA / MOTONETA / CICLOMOTOR",
+    "grupo": "26"
+  },
+  {
+    "id": 10921,
+    "pdm": "PNEU ONIBUS / CAMINHAO",
+    "grupo": "26"
+  },
+  {
+    "id": 10922,
+    "pdm": "PNEU RECAUCHUTADO",
+    "grupo": "26"
+  },
+  {
+    "id": 10924,
+    "pdm": "PNEU TRATOR RODAS TRACAO",
+    "grupo": "26"
+  },
+  {
+    "id": 11317,
+    "pdm": "PROTETOR CÂMARA DE AR",
+    "grupo": "26"
+  },
+  {
+    "id": 11627,
+    "pdm": "REMENDO CAMARA DE AR",
+    "grupo": "26"
+  },
+  {
+    "id": 11628,
+    "pdm": "REMENDO PARA PNEU",
+    "grupo": "26"
+  },
+  {
+    "id": 11629,
+    "pdm": "REMENDO RAPIDO A FRIO",
+    "grupo": "26"
+  },
+  {
+    "id": 12782,
+    "pdm": "TIRA RECAUCHUTAGEM",
+    "grupo": "26"
+  },
+  {
+    "id": 13249,
+    "pdm": "VALVULA CAMARA DE AR",
+    "grupo": "26"
+  },
+  {
+    "id": 13481,
+    "pdm": "VULCANIZADOR REMENDO CAMARA DE AR",
+    "grupo": "26"
+  },
+  {
+    "id": 13482,
+    "pdm": "VULCANIZADOR REMENDO PNEU",
+    "grupo": "26"
+  },
+  {
+    "id": 13618,
+    "pdm": "PNEU VEÍCULO TERRAPLENAGEM",
+    "grupo": "26"
+  },
+  {
+    "id": 15984,
+    "pdm": "PNEU BICICLETA",
+    "grupo": "26"
+  },
+  {
+    "id": 16145,
+    "pdm": "PNEU CARRINHO MÃO",
+    "grupo": "26"
+  },
+  {
+    "id": 16432,
+    "pdm": "PNEU EMPILHADEIRA / CARREGADEIRA",
+    "grupo": "26"
+  },
+  {
+    "id": 16806,
+    "pdm": "PNEUS E CÂMARAS DE AR. EXCETO OS DE AERONAVES",
+    "grupo": "26"
+  },
+  {
+    "id": 16807,
+    "pdm": "PNEUS E CÂMARAS DE AR DE AERONAVES",
+    "grupo": "26"
+  },
+  {
+    "id": 16808,
+    "pdm": "PNEUS MACIÇO E DE BAIXA PRESSÃO",
+    "grupo": "26"
+  },
+  {
+    "id": 16809,
+    "pdm": "MATERIAL PARA REFORMA E REPARO DE PNEUS E CÂMARAS DE AR",
+    "grupo": "26"
+  }
+]
