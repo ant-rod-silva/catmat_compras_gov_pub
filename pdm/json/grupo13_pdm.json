@@ -2,330 +2,412 @@
 [
   {
     "id": "02043",
-    "pdm": "ACIONADOR ESPOLETA"
+    "pdm": "ACIONADOR ESPOLETA",
+    "grupo": "13"
   },
   {
     "id": "02990",
-    "pdm": "ARGOLA COM DESTORCEDOR - BOMBA INCENDIARIA / BOMBA FINS GERAIS ( BINC / BFG )"
+    "pdm": "ARGOLA COM DESTORCEDOR - BOMBA INCENDIARIA / BOMBA FINS GERAIS ( BINC / BFG )",
+    "grupo": "13"
   },
   {
     "id": "03746",
-    "pdm": "BOMBA DE ARRASTO - FINS GERAIS ( BA - FG )"
+    "pdm": "BOMBA DE ARRASTO - FINS GERAIS ( BA - FG )",
+    "grupo": "13"
   },
   {
     "id": "03759",
-    "pdm": "BOMBA EXERCÍCIO DE TIRO"
+    "pdm": "BOMBA EXERCÍCIO DE TIRO",
+    "grupo": "13"
   },
   {
     "id": "03773",
-    "pdm": "BOMBA EXERCICIO ( BEX )"
+    "pdm": "BOMBA EXERCICIO ( BEX )",
+    "grupo": "13"
   },
   {
     "id": "03778",
-    "pdm": "BOMBA INCENDIARIA ( BINC )"
+    "pdm": "BOMBA INCENDIARIA ( BINC )",
+    "grupo": "13"
   },
   {
     "id": "03978",
-    "pdm": "CABEÇA DE EXERCÍCIO INERTE ( CAB - EX IN )"
+    "pdm": "CABEÇA DE EXERCÍCIO INERTE ( CAB - EX IN )",
+    "grupo": "13"
   },
   {
     "id": "03979",
-    "pdm": "CABEÇA DE GUERRA / ANTI - CARRO ( CAB - AC )"
+    "pdm": "CABEÇA DE GUERRA / ANTI - CARRO ( CAB - AC )",
+    "grupo": "13"
   },
   {
     "id": "03980",
-    "pdm": "CABEÇA DE GUERRA / ANTI - PESSOAL ( CAB - AP )"
+    "pdm": "CABEÇA DE GUERRA / ANTI - PESSOAL ( CAB - AP )",
+    "grupo": "13"
   },
   {
     "id": "03981",
-    "pdm": "CABECA DE GUERRA / SINALIZADORA"
+    "pdm": "CABECA DE GUERRA / SINALIZADORA",
+    "grupo": "13"
   },
   {
     "id": "04625",
-    "pdm": "CARRO TRANSPORTE E INSTALACAO DE BOMBA ( CAR - TIB )"
+    "pdm": "CARRO TRANSPORTE E INSTALACAO DE BOMBA ( CAR - TIB )",
+    "grupo": "13"
   },
   {
     "id": "04670",
-    "pdm": "CARTUCHO PIROTECNICO - TREINAMENTO"
+    "pdm": "CARTUCHO PIROTECNICO - TREINAMENTO",
+    "grupo": "13"
   },
   {
     "id": "04970",
-    "pdm": "CHUMBINHO ARMA PRESSÃO"
+    "pdm": "CHUMBINHO ARMA PRESSÃO",
+    "grupo": "13"
   },
   {
     "id": "05081",
-    "pdm": "CLIPS - BOMBA INCENDIARIA / BOMBA FINS GERAIS"
+    "pdm": "CLIPS - BOMBA INCENDIARIA / BOMBA FINS GERAIS",
+    "grupo": "13"
   },
   {
     "id": "05460",
-    "pdm": "COMPONENTE MUNIÇÃO GRANADA"
+    "pdm": "COMPONENTE MUNIÇÃO GRANADA",
+    "grupo": "13"
   },
   {
     "id": "05461",
-    "pdm": "COMPONENTE MUNICAO DE 75MM ATE 125MM"
+    "pdm": "COMPONENTE MUNICAO DE 75MM ATE 125MM",
+    "grupo": "13"
   },
   {
     "id": "05870",
-    "pdm": "CORDEL DETONANTE EXPLOSIVO"
+    "pdm": "CORDEL DETONANTE EXPLOSIVO",
+    "grupo": "13"
   },
   {
     "id": "06617",
-    "pdm": "EQUIPAMENTO ( KIT ) REMOCAO EXPLOSIVO"
+    "pdm": "EQUIPAMENTO ( KIT ) REMOCAO EXPLOSIVO",
+    "grupo": "13"
   },
   {
     "id": "07025",
-    "pdm": "ESPOLETA CAUDA MECANICA / BOMBA FINS GERAIS ( ECM - BFG )"
+    "pdm": "ESPOLETA CAUDA MECANICA / BOMBA FINS GERAIS ( ECM - BFG )",
+    "grupo": "13"
   },
   {
     "id": "07027",
-    "pdm": "ESPOLETA OGIVA MECANICA / ANTI - CARRO ( EOM - FAC )"
+    "pdm": "ESPOLETA OGIVA MECANICA / ANTI - CARRO ( EOM - FAC )",
+    "grupo": "13"
   },
   {
     "id": "07028",
-    "pdm": "ESPOLETA OGIVA MECANICA / ANTI - PESSOAL ( EOM - FAP )"
+    "pdm": "ESPOLETA OGIVA MECANICA / ANTI - PESSOAL ( EOM - FAP )",
+    "grupo": "13"
   },
   {
     "id": "07029",
-    "pdm": "ESPOLETA OGIVA MECANICA / BOMBA FINS GERAIS ( EOM - BFG )"
+    "pdm": "ESPOLETA OGIVA MECANICA / BOMBA FINS GERAIS ( EOM - BFG )",
+    "grupo": "13"
   },
   {
     "id": "07030",
-    "pdm": "ESPOLETA OGIVA MECANICA / BOMBA INCENDIARIA ( EOM - BINC )"
+    "pdm": "ESPOLETA OGIVA MECANICA / BOMBA INCENDIARIA ( EOM - BINC )",
+    "grupo": "13"
   },
   {
     "id": "07031",
-    "pdm": "ESPOLETA SIMPLES + ESTOPIM ( ESPOLETADO ) - DETONACAO DE EXPLOSIVO"
+    "pdm": "ESPOLETA SIMPLES + ESTOPIM ( ESPOLETADO ) - DETONACAO DE EXPLOSIVO",
+    "grupo": "13"
   },
   {
     "id": "07032",
-    "pdm": "ESPOLETA SIMPLES COM RETARDO / DETONACAO DE EXPLO-SIVO"
+    "pdm": "ESPOLETA SIMPLES COM RETARDO / DETONACAO DE EXPLO-SIVO",
+    "grupo": "13"
   },
   {
     "id": "07033",
-    "pdm": "ESPOLETA SIMPLES PARA DETONACAO DE EXPLOSIVO"
+    "pdm": "ESPOLETA SIMPLES PARA DETONACAO DE EXPLOSIVO",
+    "grupo": "13"
   },
   {
     "id": "07035",
-    "pdm": "ESPOLETAS DE DETONACAO"
+    "pdm": "ESPOLETAS DE DETONACAO",
+    "grupo": "13"
   },
   {
     "id": "07036",
-    "pdm": "ESPOLETAS DE SEGURANCA"
+    "pdm": "ESPOLETAS DE SEGURANCA",
+    "grupo": "13"
   },
   {
     "id": "07037",
-    "pdm": "ESPOLETAS SISMOGRAFICAS"
+    "pdm": "ESPOLETAS SISMOGRAFICAS",
+    "grupo": "13"
   },
   {
     "id": "07245",
-    "pdm": "EXPLOSIVO INDUSTRIAL/EXPLOSIVO DIVERSOS"
+    "pdm": "EXPLOSIVO INDUSTRIAL/EXPLOSIVO DIVERSOS",
+    "grupo": "13"
   },
   {
     "id": "07681",
-    "pdm": "FOGOS DE ARTIFICIO"
+    "pdm": "FOGOS DE ARTIFICIO",
+    "grupo": "13"
   },
   {
     "id": "07684",
-    "pdm": "FOGUETE AR TERRA - TREINAMENTO"
+    "pdm": "FOGUETE AR TERRA - TREINAMENTO",
+    "grupo": "13"
   },
   {
     "id": "08079",
-    "pdm": "GRANADA"
+    "pdm": "GRANADA",
+    "grupo": "13"
   },
   {
     "id": "08080",
-    "pdm": "GRANADAS DE GAS LACRIMOGENIO"
+    "pdm": "GRANADAS DE GAS LACRIMOGENIO",
+    "grupo": "13"
   },
   {
     "id": "08081",
-    "pdm": "GRANADAS FUMIGENAS"
+    "pdm": "GRANADAS FUMIGENAS",
+    "grupo": "13"
   },
   {
     "id": "08082",
-    "pdm": "GRANADAS INCENDIARIAS"
+    "pdm": "GRANADAS INCENDIARIAS",
+    "grupo": "13"
   },
   {
     "id": "08684",
-    "pdm": "LANCADOR DE FOGUETE - TREINAMENTO"
+    "pdm": "LANCADOR DE FOGUETE - TREINAMENTO",
+    "grupo": "13"
   },
   {
     "id": "08685",
-    "pdm": "PEÇAS/COMPONENTES - LANÇADOR MÚLTIPLO DE FOGUETE"
+    "pdm": "PEÇAS/COMPONENTES - LANÇADOR MÚLTIPLO DE FOGUETE",
+    "grupo": "13"
   },
   {
     "id": 10020,
-    "pdm": "MUNIÇÃO ARMA DE FOGO EMPUNHÁVEL - MÉDIO PORTE"
+    "pdm": "MUNIÇÃO ARMA DE FOGO EMPUNHÁVEL - MÉDIO PORTE",
+    "grupo": "13"
   },
   {
     "id": 10021,
-    "pdm": "MUNIÇÃO ARMA DE FOGO EMPUNHÁVEL - PEQUENO PORTE"
+    "pdm": "MUNIÇÃO ARMA DE FOGO EMPUNHÁVEL - PEQUENO PORTE",
+    "grupo": "13"
   },
   {
     "id": 10159,
-    "pdm": "OGIVA BELICA"
+    "pdm": "OGIVA BELICA",
+    "grupo": "13"
   },
   {
     "id": 10160,
-    "pdm": "OGIVA PARA FOGUETE - TREINAMENTO"
+    "pdm": "OGIVA PARA FOGUETE - TREINAMENTO",
+    "grupo": "13"
   },
   {
     "id": 10990,
-    "pdm": "POLVORA"
+    "pdm": "POLVORA",
+    "grupo": "13"
   },
   {
     "id": 11255,
-    "pdm": "PROJÉTIL NÃO LETAL"
+    "pdm": "PROJÉTIL NÃO LETAL",
+    "grupo": "13"
   },
   {
     "id": 12070,
-    "pdm": "SIMULACRO GRANADA"
+    "pdm": "SIMULACRO GRANADA",
+    "grupo": "13"
   },
   {
     "id": 13869,
-    "pdm": "ESCUDO PLACA"
+    "pdm": "ESCUDO PLACA",
+    "grupo": "13"
   },
   {
     "id": 13870,
-    "pdm": "ESCUDO SUPORTE"
+    "pdm": "ESCUDO SUPORTE",
+    "grupo": "13"
   },
   {
     "id": 13871,
-    "pdm": "CONJUNTO DIES"
+    "pdm": "CONJUNTO DIES",
+    "grupo": "13"
   },
   {
     "id": 15401,
-    "pdm": "MUNIÇÃO TREINAMENTO"
+    "pdm": "MUNIÇÃO TREINAMENTO",
+    "grupo": "13"
   },
   {
     "id": 15549,
-    "pdm": "PROJÉTIL MUNIÇÃO ARMA FOGO"
+    "pdm": "PROJÉTIL MUNIÇÃO ARMA FOGO",
+    "grupo": "13"
   },
   {
     "id": 16262,
-    "pdm": "PROJETIL E COMPONENTES MUNIÇÃO ATÉ 30MM"
+    "pdm": "PROJETIL E COMPONENTES MUNIÇÃO ATÉ 30MM",
+    "grupo": "13"
   },
   {
     "id": 16697,
-    "pdm": "MUNIÇÃO DE CALIBRE ATÉ 30 MM"
+    "pdm": "MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+    "grupo": "13"
   },
   {
     "id": 16698,
-    "pdm": "MUNIÇÃO DE CALIBRE ACIMA DE 30 MM ATÉ 75 MM"
+    "pdm": "MUNIÇÃO DE CALIBRE ACIMA DE 30 MM ATÉ 75 MM",
+    "grupo": "13"
   },
   {
     "id": 16699,
-    "pdm": "MUNIÇÃO DE CALIBRE ACIMA DE 75MM ATÉE 125MM"
+    "pdm": "MUNIÇÃO DE CALIBRE ACIMA DE 75MM ATÉE 125MM",
+    "grupo": "13"
   },
   {
     "id": 16700,
-    "pdm": "MUNIÇÃO DE CALIBRE ACIMA DE 125 MM"
+    "pdm": "MUNIÇÃO DE CALIBRE ACIMA DE 125 MM",
+    "grupo": "13"
   },
   {
     "id": 16701,
-    "pdm": "BOMBAS"
+    "pdm": "BOMBAS",
+    "grupo": "13"
   },
   {
     "id": 16702,
-    "pdm": "GRANADAS"
+    "pdm": "GRANADAS",
+    "grupo": "13"
   },
   {
     "id": 16703,
-    "pdm": "OGIVAS E COMPONENTES EXPLOSIVOS DE MISSEIS GUIADOS"
+    "pdm": "OGIVAS E COMPONENTES EXPLOSIVOS DE MISSEIS GUIADOS",
+    "grupo": "13"
   },
   {
     "id": 16704,
-    "pdm": "UNIDADES DE PROPULSAO EXPLOSIVA A COMBUSTIVEL SOLIDO DE VEICULOS ESPACIAIS E MISSEIS GUIADOS E SEUS"
+    "pdm": "UNIDADES DE PROPULSAO EXPLOSIVA A COMBUSTIVEL SOLIDO DE VEICULOS ESPACIAIS E MISSEIS GUIADOS E SEUS",
+    "grupo": "13"
   },
   {
     "id": 16705,
-    "pdm": "UNIDADES DE PROPULSAO INERTES A COMBUSTIVEL SOLIDO DE VEICULOS ESPACIAIS E MISSEIS GUIADOS E SEUS CO"
+    "pdm": "UNIDADES DE PROPULSAO INERTES A COMBUSTIVEL SOLIDO DE VEICULOS ESPACIAIS E MISSEIS GUIADOS E SEUS CO",
+    "grupo": "13"
   },
   {
     "id": 16706,
-    "pdm": "ROJÕES. FOGUETES. MUNIÇÃO E COMPONENTES"
+    "pdm": "ROJÕES. FOGUETES. MUNIÇÃO E COMPONENTES",
+    "grupo": "13"
   },
   {
     "id": 16707,
-    "pdm": "MINAS TERRESTRES"
+    "pdm": "MINAS TERRESTRES",
+    "grupo": "13"
   },
   {
     "id": 16708,
-    "pdm": "COMPONENTES INERTES DE MINA SUBMARINA"
+    "pdm": "COMPONENTES INERTES DE MINA SUBMARINA",
+    "grupo": "13"
   },
   {
     "id": 16709,
-    "pdm": "COMPONENTES EXPLOSIVOS DE MINAS SUBMARINAS"
+    "pdm": "COMPONENTES EXPLOSIVOS DE MINAS SUBMARINAS",
+    "grupo": "13"
   },
   {
     "id": 16710,
-    "pdm": "COMPONENTES INERTES DE TORPEDOS"
+    "pdm": "COMPONENTES INERTES DE TORPEDOS",
+    "grupo": "13"
   },
   {
     "id": 16711,
-    "pdm": "COMPONENTES EXPLOSIVOS DE TORPEDOS"
+    "pdm": "COMPONENTES EXPLOSIVOS DE TORPEDOS",
+    "grupo": "13"
   },
   {
     "id": 16712,
-    "pdm": "COMPONENTES INERTES DE CARGAS DE PROFUNDIDADE"
+    "pdm": "COMPONENTES INERTES DE CARGAS DE PROFUNDIDADE",
+    "grupo": "13"
   },
   {
     "id": 16713,
-    "pdm": "COMPONENTES EXPLOSIVOS DE BOMBAS DE PROFUNDIDADE"
+    "pdm": "COMPONENTES EXPLOSIVOS DE BOMBAS DE PROFUNDIDADE",
+    "grupo": "13"
   },
   {
     "id": 16715,
-    "pdm": "PIROTECNICOS"
+    "pdm": "PIROTECNICOS",
+    "grupo": "13"
   },
   {
     "id": 16716,
-    "pdm": "MATERIAIS DE DEMOLIÇÃO"
+    "pdm": "MATERIAIS DE DEMOLIÇÃO",
+    "grupo": "13"
   },
   {
     "id": 16717,
-    "pdm": "EXPLOSIVOS A GRANEL"
+    "pdm": "EXPLOSIVOS A GRANEL",
+    "grupo": "13"
   },
   {
     "id": 16718,
-    "pdm": "DISPOSITIVOS ACIONADOS POR PROPELENTES E CARTUCHOS"
+    "pdm": "DISPOSITIVOS ACIONADOS POR PROPELENTES E CARTUCHOS",
+    "grupo": "13"
   },
   {
     "id": 16719,
-    "pdm": "AGENTES BIOLOGICOS DE USO MILITAR"
+    "pdm": "AGENTES BIOLOGICOS DE USO MILITAR",
+    "grupo": "13"
   },
   {
     "id": 16720,
-    "pdm": "EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE EXPLOSIVO NA SU-PERFÍCIE"
+    "pdm": "EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE EXPLOSIVO NA SU-PERFÍCIE",
+    "grupo": "13"
   },
   {
     "id": 16721,
-    "pdm": "EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE EXPLOSIVO SUB-MERSO"
+    "pdm": "EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE EXPLOSIVO SUB-MERSO",
+    "grupo": "13"
   },
   {
     "id": 16722,
-    "pdm": "ESPOLETAS E ESTOPILHAS"
+    "pdm": "ESPOLETAS E ESTOPILHAS",
+    "grupo": "13"
   },
   {
     "id": 16723,
-    "pdm": "COMPONENTES DIVERSOS DE MUNIÇÃO"
+    "pdm": "COMPONENTES DIVERSOS DE MUNIÇÃO",
+    "grupo": "13"
   },
   {
     "id": 16724,
-    "pdm": "EQUIPAMENTOS ESPECIALIZADOS PARA MANUSEIO E CONSERVACAO DE MUNICAO"
+    "pdm": "EQUIPAMENTOS ESPECIALIZADOS PARA MANUSEIO E CONSERVACAO DE MUNICAO",
+    "grupo": "13"
   },
   {
     "id": 17373,
-    "pdm": "MUNIÇÕES DE CONTROLE À DISTÂNCIA"
+    "pdm": "MUNIÇÕES DE CONTROLE À DISTÂNCIA",
+    "grupo": "13"
   },
   {
     "id": 17374,
-    "pdm": "DISPOSITIVOS INERTES DE MINAS SUBAQUÁTICAS"
+    "pdm": "DISPOSITIVOS INERTES DE MINAS SUBAQUÁTICAS",
+    "grupo": "13"
   },
   {
     "id": 17375,
-    "pdm": "DISPOSITIVOS EXPLOSIVOS DE MINAS SUBAQUÁTICAS"
+    "pdm": "DISPOSITIVOS EXPLOSIVOS DE MINAS SUBAQUÁTICAS",
+    "grupo": "13"
   },
   {
     "id": 17376,
-    "pdm": "CONJUNTOS E EQUIPAMENTOS TÁTICOS"
+    "pdm": "CONJUNTOS E EQUIPAMENTOS TÁTICOS",
+    "grupo": "13"
   }
 ]
