@@ -1,0 +1,57 @@
+[
+  {
+    "id": 11953,
+    "pdm": "SATELITE - ESTRUTURA MONTADA / PROPULSOR",
+    "grupo": "18"
+  },
+  {
+    "id": 13358,
+    "pdm": "VEICULOS / REBOQUES PARA TRANSPORTE DE VEICULOS ESPACIAIS",
+    "grupo": "18"
+  },
+  {
+    "id": 13360,
+    "pdm": "VEICULOS ESPACIAIS COMPLETO MONTADOS / DESMONTADO S",
+    "grupo": "18"
+  },
+  {
+    "id": 16759,
+    "pdm": "VEICULOS",
+    "grupo": "18"
+  },
+  {
+    "id": 16760,
+    "pdm": "VEICULOS ESPACIAIS (ASTRONAVES)",
+    "grupo": "18"
+  },
+  {
+    "id": 16761,
+    "pdm": "COMPONENTES DE VEICULOS ESPACIAIS",
+    "grupo": "18"
+  },
+  {
+    "id": 16762,
+    "pdm": "SISTEMAS DE CONTROLE REMOTO DE VEICULOS ESPACIAIS",
+    "grupo": "18"
+  },
+  {
+    "id": 16763,
+    "pdm": "LANCADORES DE VEICULOS ESPACIAIS",
+    "grupo": "18"
+  },
+  {
+    "id": 16764,
+    "pdm": "EQUIPAMENTOS DE SERVICOS E MANUSEIO DE VEICULOS ESPACIAIS",
+    "grupo": "18"
+  },
+  {
+    "id": 16765,
+    "pdm": "EQUIPAMENTOS DE SOBREVIVENCIA NO ESPACO",
+    "grupo": "18"
+  },
+  {
+    "id": 16766,
+    "pdm": "VEICULOS ESPACIAIS DIVERSOS",
+    "grupo": "18"
+  }
+]
