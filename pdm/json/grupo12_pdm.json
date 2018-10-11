@@ -1,90 +1,112 @@
 [
   {
     "id": "08420",
-    "pdm": "INSTRUMENTO OTICO PARA CONTROLE DE BOMBARDEIO"
+    "pdm": "INSTRUMENTO OTICO PARA CONTROLE DE BOMBARDEIO",
+    "grupo": "12"
   },
   {
     "id": "08425",
-    "pdm": "INSTRUMENTOS OTICOS ACOPLADOS A EQUIPAMENTOS DE CONTROLE DE TIRO DE EMBARCACOES"
+    "pdm": "INSTRUMENTOS OTICOS ACOPLADOS A EQUIPAMENTOS DE CONTROLE DE TIRO DE EMBARCACOES",
+    "grupo": "12"
   },
   {
     "id": "09519",
-    "pdm": "MECANISMO GIROSCOPICO COMPLETO"
+    "pdm": "MECANISMO GIROSCOPICO COMPLETO",
+    "grupo": "12"
   },
   {
     "id": "09570",
-    "pdm": "MEDIDORES DE ALTURA PARA EMBARCACOES"
+    "pdm": "MEDIDORES DE ALTURA PARA EMBARCACOES",
+    "grupo": "12"
   },
   {
     "id": "09571",
-    "pdm": "MEDIDORES DE DISTANCIA PARA EMBARCACOES"
+    "pdm": "MEDIDORES DE DISTANCIA PARA EMBARCACOES",
+    "grupo": "12"
   },
   {
     "id": 10674,
-    "pdm": "PERISC”PIO"
+    "pdm": "PERISC√ìPIO",
+    "grupo": "12"
   },
   {
     "id": 13462,
-    "pdm": "VISORES TELESCOPICOS PARA EMBARCACOES"
+    "pdm": "VISORES TELESCOPICOS PARA EMBARCACOES",
+    "grupo": "12"
   },
   {
     "id": 13712,
-    "pdm": "DISCO LINHA GALTON"
+    "pdm": "DISCO LINHA GALTON",
+    "grupo": "12"
   },
   {
     "id": 16260,
-    "pdm": "RETICULO CONTAGEM LINHA"
+    "pdm": "RETICULO CONTAGEM LINHA",
+    "grupo": "12"
   },
   {
     "id": 16684,
-    "pdm": "DIRETORAS DE CONTROLE DE TIRO"
+    "pdm": "DIRETORAS DE CONTROLE DE TIRO",
+    "grupo": "12"
   },
   {
     "id": 16685,
-    "pdm": "DISPOSITIVOS E CORRETORES DE CONTROLE DE TIRO"
+    "pdm": "DISPOSITIVOS E CORRETORES DE CONTROLE DE TIRO",
+    "grupo": "12"
   },
   {
     "id": 16686,
-    "pdm": "SISTEMAS COMPLETOS DE CONTROLE DE TIRO"
+    "pdm": "SISTEMAS COMPLETOS DE CONTROLE DE TIRO",
+    "grupo": "12"
   },
   {
     "id": 16687,
-    "pdm": "EQUIPAMENTOS ”TICOS DE VISADA E MEDI«√O DE DIST¬NCIA"
+    "pdm": "EQUIPAMENTOS √ìTICOS DE VISADA E MEDI√á√ÉO DE DIST√ÇNCIA",
+    "grupo": "12"
   },
   {
     "id": 16688,
-    "pdm": "MECANISMOS DE ESTABILIZA«√O E CONTROLE DE TIRO"
+    "pdm": "MECANISMOS DE ESTABILIZA√á√ÉO E CONTROLE DE TIRO",
+    "grupo": "12"
   },
   {
     "id": 16689,
-    "pdm": "EQUIPAMENTO DE DESIGNA«√O E INDICA«√O DE CONTROLE DE TIRO"
+    "pdm": "EQUIPAMENTO DE DESIGNA√á√ÉO E INDICA√á√ÉO DE CONTROLE DE TIRO",
+    "grupo": "12"
   },
   {
     "id": 16690,
-    "pdm": "EQUIPAMENTO DE RECEP«√O E TRANSMISS√O DE CONTROLE DE TIRO(EXCETO DE AERONAVE)"
+    "pdm": "EQUIPAMENTO DE RECEP√á√ÉO E TRANSMISS√ÉO DE CONTROLE DE TIRO(EXCETO DE AERONAVE)",
+    "grupo": "12"
   },
   {
     "id": 16691,
-    "pdm": "COMPONENTES DE CONTROLE DE TIRO DE AERONAVES"
+    "pdm": "COMPONENTES DE CONTROLE DE TIRO DE AERONAVES",
+    "grupo": "12"
   },
   {
     "id": 16692,
-    "pdm": "COMPONENTES DE CONTROLE DE TIRO EM AERONAVES DE BOMBARDEIO"
+    "pdm": "COMPONENTES DE CONTROLE DE TIRO EM AERONAVES DE BOMBARDEIO",
+    "grupo": "12"
   },
   {
     "id": 16693,
-    "pdm": "EQUIPAMENTO RADAR DE CONTROLE DE TIRO (EXCETO DE AERONAVES)"
+    "pdm": "EQUIPAMENTO RADAR DE CONTROLE DE TIRO (EXCETO DE AERONAVES)",
+    "grupo": "12"
   },
   {
     "id": 16694,
-    "pdm": "EQUIPAMENTO SONAR DE CONTROLE DE TIRO"
+    "pdm": "EQUIPAMENTO SONAR DE CONTROLE DE TIRO",
+    "grupo": "12"    
   },
   {
     "id": 16695,
-    "pdm": "EQUIPAMENTOS DIVERSOS DE CONTROLE DE TIRO"
+    "pdm": "EQUIPAMENTOS DIVERSOS DE CONTROLE DE TIRO",
+     "grupo": "12"
   },
   {
     "id": 16696,
-    "pdm": "EQUIPAMENTO DE CONTROLE DE TIRO DIVERSOS"
+    "pdm": "EQUIPAMENTO DE CONTROLE DE TIRO DIVERSOS",
+     "grupo": "12"
   }
 ]
