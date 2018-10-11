@@ -1,0 +1,550 @@
+[
+  {
+    "id": "01049",
+    "pdm": "EMPILHADEIRA ELÉTRICA"
+  },
+  {
+    "id": "01674",
+    "pdm": "ACESSORIO DE CONTAINER ESPECIAL - TRANSPORTE DE EXPLOSIVOS"
+  },
+  {
+    "id": "02324",
+    "pdm": "ALIMENTADOR MATERIAL SECO"
+  },
+  {
+    "id": "02326",
+    "pdm": "ALIMENTADOR DE PEÇA"
+  },
+  {
+    "id": "03068",
+    "pdm": "ARTICULAÇÃO DE EQUIPAMENTO DE ELEVAÇÃO DE CARGA"
+  },
+  {
+    "id": "03232",
+    "pdm": "BALANCIM INDIVIDUAL / CADEIRA SUSPENSA ( EPI )"
+  },
+  {
+    "id": "03256",
+    "pdm": "BALDE TRANSPORTE MATERIAL"
+  },
+  {
+    "id": "03593",
+    "pdm": "BLOCO"
+  },
+  {
+    "id": "03857",
+    "pdm": "BRAÇO ARTICULADO MOVIMENTAÇÃO CARREGAMENTO DE MATE"
+  },
+  {
+    "id": "04062",
+    "pdm": "CABRESTANTE"
+  },
+  {
+    "id": "04092",
+    "pdm": "CADERNAL"
+  },
+  {
+    "id": "04572",
+    "pdm": "CARRETA - PLATAFORMA MANUAL"
+  },
+  {
+    "id": "04573",
+    "pdm": "CARRETA REBOQUE"
+  },
+  {
+    "id": "04584",
+    "pdm": "CARRINHO TRANSPORTE"
+  },
+  {
+    "id": "04585",
+    "pdm": "CARRINHO MÃO"
+  },
+  {
+    "id": "04587",
+    "pdm": "CARRINHO INDUSTRIAL"
+  },
+  {
+    "id": "04589",
+    "pdm": "CARRO - GUINDASTE ( GIRAFA )"
+  },
+  {
+    "id": "04591",
+    "pdm": "CARRO - PORTICO ( STRADDLE TRUK )"
+  },
+  {
+    "id": "04603",
+    "pdm": "CARRO DE MANOBRA MANUAL E MOVIMENTACAO DE MATERIAL"
+  },
+  {
+    "id": "04605",
+    "pdm": "CARRO DE MAO DE DUAS RODAS"
+  },
+  {
+    "id": "04606",
+    "pdm": "CARRO DE MAO DE QUATRO RODAS DE MOVIMENTACAO DE MATERIAL"
+  },
+  {
+    "id": "04620",
+    "pdm": "CARRO PLATAFORMA MOTORIZADO ALMOXARIFADO"
+  },
+  {
+    "id": "04621",
+    "pdm": "CARRO CARGA"
+  },
+  {
+    "id": "04622",
+    "pdm": "CARRO REBOCADOR ALMOXARIFADO"
+  },
+  {
+    "id": "04624",
+    "pdm": "CARRO TRANSPORTADOR DE BAGAGEM - TIPO DE AEROPORTO"
+  },
+  {
+    "id": "04639",
+    "pdm": "CARROSSEL TRANSPORTADOR DE BAGAGEM"
+  },
+  {
+    "id": "04994",
+    "pdm": "CILINDRO INCLINAÇÃO GARFO EMPILHADEIRA"
+  },
+  {
+    "id": "05016",
+    "pdm": "CINTA SUSPENSÃO CARGA"
+  },
+  {
+    "id": "05408",
+    "pdm": "COMPONENTE DE ACABAMENTO - PONTE DE EMBARQUE DE AEROPORTO"
+  },
+  {
+    "id": "05450",
+    "pdm": "COMPONENTE HIDRAULICO - PONTE DE EMBARQUE DE AEROPORTO"
+  },
+  {
+    "id": "05457",
+    "pdm": "COMPONENTE MECANICO - PONTE DE EMBARQUE DE AEROPORTO"
+  },
+  {
+    "id": "05795",
+    "pdm": "CONTAINER ESPECIAL - TRANSPORTE DE EXPLOSIVOS EM AERONAVE"
+  },
+  {
+    "id": "05896",
+    "pdm": "CORREIA / COMPONENTE - ESTEIRA TRANSPORTADORA"
+  },
+  {
+    "id": "06471",
+    "pdm": "ELEVADOR - MONTA PRATO"
+  },
+  {
+    "id": "06472",
+    "pdm": "PEÇA/COMPONENTE ELEVADOR"
+  },
+  {
+    "id": "06473",
+    "pdm": "ELEVADOR PASSAGEIRO"
+  },
+  {
+    "id": "06475",
+    "pdm": "ELEVADOR DE CARGA"
+  },
+  {
+    "id": "06476",
+    "pdm": "ELEVADOR DE VEICULO PARA EDIFICIO GARAGEM"
+  },
+  {
+    "id": "06478",
+    "pdm": "ELEVADOR HIDRÁULICO"
+  },
+  {
+    "id": "06482",
+    "pdm": "ELEVADOR PANORAMICO"
+  },
+  {
+    "id": "06483",
+    "pdm": "ELEVADOR PNEUMÁTICO"
+  },
+  {
+    "id": "06531",
+    "pdm": "EMPILHADEIRA - GARFO"
+  },
+  {
+    "id": "06532",
+    "pdm": "EMPILHADEIRA - MOTOR A EXPLOSAO"
+  },
+  {
+    "id": "06533",
+    "pdm": "EMPILHADEIRA - MOTOR A GÁS"
+  },
+  {
+    "id": "06534",
+    "pdm": "PEÇA / ACESSÓRIO EMPILHADEIRA"
+  },
+  {
+    "id": "06891",
+    "pdm": "ESCADA ROLANTE"
+  },
+  {
+    "id": "06968",
+    "pdm": "ESLINGA DE CARGA"
+  },
+  {
+    "id": "07117",
+    "pdm": "ESTEIRA ROLANTE PARA PASSAGEIROS"
+  },
+  {
+    "id": "07181",
+    "pdm": "ESTRADO DE CARGA ( PALETE )"
+  },
+  {
+    "id": "07191",
+    "pdm": "ESTROPO"
+  },
+  {
+    "id": "07192",
+    "pdm": "ESTROPO DE ACO"
+  },
+  {
+    "id": "07193",
+    "pdm": "ESTROPO NÁILON"
+  },
+  {
+    "id": "07241",
+    "pdm": "EXPANSOR - FIXO / AJUSTAVEL"
+  },
+  {
+    "id": "07562",
+    "pdm": "FITA DE AMARRACAO"
+  },
+  {
+    "id": "07572",
+    "pdm": "FITA DE REBOQUE DE VEICULO / CARGA"
+  },
+  {
+    "id": "07573",
+    "pdm": "FITA DE SUSPENSAO / MOVIMENTACAO DE CARGA"
+  },
+  {
+    "id": "07923",
+    "pdm": "GARFO DE EMPILHADEIRA"
+  },
+  {
+    "id": "08112",
+    "pdm": "GRUA"
+  },
+  {
+    "id": "08138",
+    "pdm": "GUINCHO"
+  },
+  {
+    "id": "08144",
+    "pdm": "GUINDASTE"
+  },
+  {
+    "id": "08149",
+    "pdm": "GUINDASTE DE ARMAZEM"
+  },
+  {
+    "id": "08153",
+    "pdm": "GUINDASTE FIXO DE CAIS"
+  },
+  {
+    "id": "08158",
+    "pdm": "GUINDASTE MOVEL DE CAIS"
+  },
+  {
+    "id": "08573",
+    "pdm": "JUNTA GIRATORIA PARA MOVIMENTACAO DE MATERIAL"
+  },
+  {
+    "id": "08965",
+    "pdm": "LUVA DE PROTECAO - CINTA DE ELEVACAO / SUSPENSAO"
+  },
+  {
+    "id": "09852",
+    "pdm": "MOITAO"
+  },
+  {
+    "id": "09897",
+    "pdm": "MONOVIA"
+  },
+  {
+    "id": "09898",
+    "pdm": "MONOVIA ACIMA DE 30 T"
+  },
+  {
+    "id": "09899",
+    "pdm": "MONOVIA ATE 30 T INCLUSIVE"
+  },
+  {
+    "id": "09900",
+    "pdm": "MONTA - CARGA"
+  },
+  {
+    "id": 10283,
+    "pdm": "PADIOLA DE TRANSPORTE DE MATERIAL"
+  },
+  {
+    "id": 10315,
+    "pdm": "PALETEIRA"
+  },
+  {
+    "id": 10316,
+    "pdm": "PALETEIRA - PECA / COMPONENTE"
+  },
+  {
+    "id": 10505,
+    "pdm": "PATESCA"
+  },
+  {
+    "id": 10513,
+    "pdm": "PAU DE CARGA"
+  },
+  {
+    "id": 10531,
+    "pdm": "PECA CONTAINER ESPECIAL - TRANSPORTE DE EXPLOSIVO"
+  },
+  {
+    "id": 10575,
+    "pdm": "PEDAL DE CARRINHO HIDRAULICO"
+  },
+  {
+    "id": 10898,
+    "pdm": "PLATAFORMA - AEREA TRABALHO"
+  },
+  {
+    "id": 10901,
+    "pdm": "PLATAFORMA - TRANSPORTE VERTICAL / HORIZONTAL / INCLINADA"
+  },
+  {
+    "id": 11002,
+    "pdm": "PONTE DE EMBARQUE / DESEMBARQUE PARA AEROPORTO"
+  },
+  {
+    "id": 11004,
+    "pdm": "PONTE ROLANTE PEÇAS/ACESSÓRIOS"
+  },
+  {
+    "id": 11006,
+    "pdm": "PONTE ROLANTE"
+  },
+  {
+    "id": 11007,
+    "pdm": "PONTE ROLANTE ACIMA DE 30 T"
+  },
+  {
+    "id": 11008,
+    "pdm": "PONTE ROLANTE ATE 30 T INCLUSIVE"
+  },
+  {
+    "id": 11009,
+    "pdm": "PONTE ROLANTE PARA AREA CLASSIFICADA"
+  },
+  {
+    "id": 11100,
+    "pdm": "PORTICO ACIMA DE 30 T"
+  },
+  {
+    "id": 11101,
+    "pdm": "PORTICO ATE 30 T INCLUSIVE"
+  },
+  {
+    "id": 11409,
+    "pdm": "RAMPA"
+  },
+  {
+    "id": 11447,
+    "pdm": "REBOQUE ( TRAILER ) - TRANSPORTE EXPLOSIVO"
+  },
+  {
+    "id": 11448,
+    "pdm": "REBOQUE - ARMAZEM"
+  },
+  {
+    "id": 11511,
+    "pdm": "REDE TRANSPORTE CARGA"
+  },
+  {
+    "id": 11771,
+    "pdm": "RODA CARRO TRANSPORTE MATERIAL"
+  },
+  {
+    "id": 11950,
+    "pdm": "SARILHO"
+  },
+  {
+    "id": 12102,
+    "pdm": "SISTEMA ARMAZENAMENTO AUTOMATICO"
+  },
+  {
+    "id": 12491,
+    "pdm": "TALHA"
+  },
+  {
+    "id": 12492,
+    "pdm": "TALHA DE GUINCHO"
+  },
+  {
+    "id": 12494,
+    "pdm": "TALHA ELÉTRICA"
+  },
+  {
+    "id": 12495,
+    "pdm": "TALHA MANUAL"
+  },
+  {
+    "id": 12496,
+    "pdm": "TALHA MOTORIZADA A COMBUSTIVEL"
+  },
+  {
+    "id": 12721,
+    "pdm": "TIRFOR ALAVANCA"
+  },
+  {
+    "id": 12914,
+    "pdm": "TRANSPORTADOR ALIMENTADOR"
+  },
+  {
+    "id": 12915,
+    "pdm": "TRANSPORTADOR CACAMBA"
+  },
+  {
+    "id": 12916,
+    "pdm": "TRANSPORTADOR CORREIA"
+  },
+  {
+    "id": 12917,
+    "pdm": "TRANSPORTADOR CORRENTE"
+  },
+  {
+    "id": 12918,
+    "pdm": "TRANSPORTADOR ESTEIRA"
+  },
+  {
+    "id": 12919,
+    "pdm": "TRANSPORTADOR ROLETE"
+  },
+  {
+    "id": 12920,
+    "pdm": "TRANSPORTADOR DE ROLO MOTORIZADO"
+  },
+  {
+    "id": 12921,
+    "pdm": "TRANSPORTADOR DE ROLO NAO MOTORIZADO"
+  },
+  {
+    "id": 12922,
+    "pdm": "TRANSPORTADOR EM TUBO PNEUMATICO"
+  },
+  {
+    "id": 12923,
+    "pdm": "TRANSPORTADOR ESTACIONARIO"
+  },
+  {
+    "id": 12924,
+    "pdm": "TRANSPORTADOR MECANICO"
+  },
+  {
+    "id": 12925,
+    "pdm": "TRANSPORTADOR PORTATIL NAO MECANIZADO"
+  },
+  {
+    "id": 12926,
+    "pdm": "TRANSPORTADOR VIBRATORIO"
+  },
+  {
+    "id": 12932,
+    "pdm": "TRATOR DE ARMAZEM"
+  },
+  {
+    "id": 13235,
+    "pdm": "VAGONETA"
+  },
+  {
+    "id": 13501,
+    "pdm": "ZORRA DE ALMOXARIFADO"
+  },
+  {
+    "id": 13684,
+    "pdm": "EMPILHADEIRA"
+  },
+  {
+    "id": 13692,
+    "pdm": "CARRO GUINDASTE"
+  },
+  {
+    "id": 14057,
+    "pdm": "CARRO ELÉTRICO"
+  },
+  {
+    "id": 14083,
+    "pdm": "CARRETA"
+  },
+  {
+    "id": 14719,
+    "pdm": "RODÍZIO FIXO"
+  },
+  {
+    "id": 15037,
+    "pdm": "PLATAFORMA CARGA E DESCARGA"
+  },
+  {
+    "id": 15853,
+    "pdm": "RAMPA ARTICULADA"
+  },
+  {
+    "id": 16077,
+    "pdm": "RODÍZIO GIRATÓRIO"
+  },
+  {
+    "id": 16395,
+    "pdm": "BARREIRA INFRAVERMELHA"
+  },
+  {
+    "id": 16923,
+    "pdm": "TRANSPORTADORES"
+  },
+  {
+    "id": 16924,
+    "pdm": "EQUIPAMENTOS ALIMENTADORES DE MATERIAIS-PRIMAS"
+  },
+  {
+    "id": 16925,
+    "pdm": "EQUIPAMENTOS NÃO AUTOPROPULSIONADO PARA MOVIMENTAÇÃO DE MA-TERIAIS"
+  },
+  {
+    "id": 16926,
+    "pdm": "VEÍCULOS AUTOPROPULSIONADOS"
+  },
+  {
+    "id": 16927,
+    "pdm": "POLEAMES. TALHAS. MOITÕES. MASSAMES E LINGAS"
+  },
+  {
+    "id": 16928,
+    "pdm": "GUINCHOS. IÇADORES. GUINDASTES E CÁBREAS"
+  },
+  {
+    "id": 16929,
+    "pdm": "ELEVADORES E ESCADAS ROLANTES"
+  },
+  {
+    "id": 16930,
+    "pdm": "EQUIPAMENTOS DIVERSOS PARA MOVIMENTAÇÃO DE MATERIAIS"
+  },
+  {
+    "id": 17446,
+    "pdm": "PENTE PARA ESCADA ROLANTE"
+  },
+  {
+    "id": 17969,
+    "pdm": "CARRO TRIPÉ"
+  },
+  {
+    "id": 17989,
+    "pdm": "MESA VEDAÇÃO"
+  },
+  {
+    "id": 17990,
+    "pdm": "MESA DE IMPACTO"
+  }
+]
