@@ -1,0 +1,434 @@
+[
+  {
+    "id": "00528",
+    "pdm": "BOMBA VÁCUO"
+  },
+  {
+    "id": "03719",
+    "pdm": "BOMBA DIAFRAGMA"
+  },
+  {
+    "id": "03720",
+    "pdm": "BOMBA ALTERNATIVA HASTE"
+  },
+  {
+    "id": "03721",
+    "pdm": "BOMBA D'ÁGUA - PEÇA/COMPONENTE"
+  },
+  {
+    "id": "03722",
+    "pdm": "BOMBA ALTERNATIVA PARA ÓLEO"
+  },
+  {
+    "id": "03726",
+    "pdm": "BOMBA CENTRÍFUGA - PEÇA / COMPONENTE"
+  },
+  {
+    "id": "03727",
+    "pdm": "BOMBA CENTRÍFUGA AXIAL"
+  },
+  {
+    "id": "03728",
+    "pdm": "BOMBA CENTRIFUGA DE FILTRO MISTO HORIZONTAL"
+  },
+  {
+    "id": "03729",
+    "pdm": "BOMBA CENTRIFUGA DE FLUXO MISTO"
+  },
+  {
+    "id": "03730",
+    "pdm": "BOMBA CENTRIFUGA DE FLUXO MISTO VERTICAL"
+  },
+  {
+    "id": "03731",
+    "pdm": "BOMBA CENTRIFUGA DE PEQUENO PORTE"
+  },
+  {
+    "id": "03733",
+    "pdm": "BOMBA CENTRÍFUGA"
+  },
+  {
+    "id": "03734",
+    "pdm": "BOMBA CENTRIFUGA RADIAL"
+  },
+  {
+    "id": "03743",
+    "pdm": "BOMBA DE ALTERNATIVA A PISTAO"
+  },
+  {
+    "id": "03745",
+    "pdm": "BOMBA DE AR PEÇAS E ACESSÓRIOS"
+  },
+  {
+    "id": "03751",
+    "pdm": "BOMBA DE DEFLACAO"
+  },
+  {
+    "id": "03754",
+    "pdm": "BOMBA DE EIXO VERTICAL E HORIZONTAL"
+  },
+  {
+    "id": "03755",
+    "pdm": "BOMBA ENCHER"
+  },
+  {
+    "id": "03756",
+    "pdm": "BOMBA ENCHER PNEU DE BICICLETA"
+  },
+  {
+    "id": "03757",
+    "pdm": "BOMBA DE ENCHER PNEU DE VEICULO AUTOMOTIVO E AERONAVE"
+  },
+  {
+    "id": "03760",
+    "pdm": "BOMBA DE FLUIDO DE PERFURACAO"
+  },
+  {
+    "id": "03761",
+    "pdm": "BOMBA DE INFLACAO"
+  },
+  {
+    "id": "03763",
+    "pdm": "BOMBA DE VÁCUO - PEÇAS / ACESSÓRIOS"
+  },
+  {
+    "id": "03766",
+    "pdm": "BOMBA DE VACUO"
+  },
+  {
+    "id": "03767",
+    "pdm": "BOMBA DE VÁCUO"
+  },
+  {
+    "id": "03769",
+    "pdm": "PEÇAS/ACESSÓRIOS BOMBA DOSADORA / HIDRÁULICA"
+  },
+  {
+    "id": "03771",
+    "pdm": "BOMBA ENGRENAGEM"
+  },
+  {
+    "id": "03772",
+    "pdm": "BOMBA ESPECIAL JATO DE AR"
+  },
+  {
+    "id": "03775",
+    "pdm": "BOMBA HIDRAULICA CIRCULACAO"
+  },
+  {
+    "id": "03776",
+    "pdm": "BOMBA HIDRÁULICA"
+  },
+  {
+    "id": "03777",
+    "pdm": "BOMBA HIDRÁULICA TIPO DOMÉSTICA"
+  },
+  {
+    "id": "03782",
+    "pdm": "BOMBA LAMA"
+  },
+  {
+    "id": "03785",
+    "pdm": "BOMBA MAGNETICA"
+  },
+  {
+    "id": "03787",
+    "pdm": "BOMBA MANUAL DE ENCHER PNEU - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "03788",
+    "pdm": "BOMBA MANUAL DE TRANSFERENCIA DE COMBUSTIVEL"
+  },
+  {
+    "id": "03789",
+    "pdm": "BOMBA OPERADA A LIQUIDO E GASES"
+  },
+  {
+    "id": "03790",
+    "pdm": "BOMBA PARA CAMARA DE AR ( MOTOBOMBA )"
+  },
+  {
+    "id": "03792",
+    "pdm": "BOMBA PERISTÁLTICA / PEÇAS E ACESSÓRIOS"
+  },
+  {
+    "id": "03795",
+    "pdm": "BOMBA SUBMERSA PEÇAS E ACESSÓRIOS"
+  },
+  {
+    "id": "03797",
+    "pdm": "BOMBA TURBINA VERTICAL E HORIZONTAL"
+  },
+  {
+    "id": "04420",
+    "pdm": "CANHÃO DE ÁGUA"
+  },
+  {
+    "id": "04561",
+    "pdm": "CARNEIRO HIDRÁULICO"
+  },
+  {
+    "id": "04756",
+    "pdm": "CENTRÍFUGA INDUSTRIAL / PEÇAS E ACESSÓRIOS"
+  },
+  {
+    "id": "05499",
+    "pdm": "COMPRESSOR ALTERNATIVO PARA VAZAO DE 300 M3/MIN. EACIMA"
+  },
+  {
+    "id": "05502",
+    "pdm": "COMPRESSOR DE AR"
+  },
+  {
+    "id": "05503",
+    "pdm": "COMPRESSOR HERMÉTICO ALTERNATIVO"
+  },
+  {
+    "id": "05504",
+    "pdm": "COMPRESSOR DE AR DE ANEL LIQUIDO"
+  },
+  {
+    "id": "05505",
+    "pdm": "COMPRESSOR DE AR DE LOBULOS PARALELOS (ROOTS)"
+  },
+  {
+    "id": "05506",
+    "pdm": "COMPRESSOR DE AR DE PARAFUSO"
+  },
+  {
+    "id": "05507",
+    "pdm": "COMPRESSOR DE AR ROTATIVO"
+  },
+  {
+    "id": "05508",
+    "pdm": "COMPRESSOR GÁS ALTERNATIVO"
+  },
+  {
+    "id": "05509",
+    "pdm": "COMPRESSOR DE GAS CENTRIFUGO RADIAL"
+  },
+  {
+    "id": "05510",
+    "pdm": "COMPRESSOR DE GAS DE ANEL LIQUIDO"
+  },
+  {
+    "id": "05511",
+    "pdm": "COMPRESSOR DE GAS DE PARAFUSO"
+  },
+  {
+    "id": "05512",
+    "pdm": "COMPRESSOR DE GAS LOBULOS PARALELOS (ROOTS)"
+  },
+  {
+    "id": "05513",
+    "pdm": "COMPRESSOR GÁS ROTATIVO"
+  },
+  {
+    "id": "05514",
+    "pdm": "COMPRESSOR MONTADO EM CAMINHAO"
+  },
+  {
+    "id": "05515",
+    "pdm": "COMPRESSOR MONTADO REBOQUE"
+  },
+  {
+    "id": "05516",
+    "pdm": "COMPRESSOR MONTADO EM VIATURA"
+  },
+  {
+    "id": "05518",
+    "pdm": "COMPRESSOR PORTÁTIL DIAFRAGMA"
+  },
+  {
+    "id": "05519",
+    "pdm": "COMPRESSOR PORTÁTIL PISTÃO"
+  },
+  {
+    "id": "05765",
+    "pdm": "CONJUNTO MOTOR BOMBA"
+  },
+  {
+    "id": "06446",
+    "pdm": "ELEMENTO FILTRANTE"
+  },
+  {
+    "id": "06456",
+    "pdm": "ELETROBOMBA"
+  },
+  {
+    "id": "07448",
+    "pdm": "FILTRO [ Y ]"
+  },
+  {
+    "id": "07452",
+    "pdm": "FILTRO SEPARADOR AR"
+  },
+  {
+    "id": "07453",
+    "pdm": "FILTRO A VACUO"
+  },
+  {
+    "id": "07457",
+    "pdm": "FILTRO CARTUCHO"
+  },
+  {
+    "id": "07458",
+    "pdm": "FILTRO CESTO"
+  },
+  {
+    "id": "07459",
+    "pdm": "FILTRO CESTO DUPLO"
+  },
+  {
+    "id": "07460",
+    "pdm": "FILTRO COLETOR DE PÓ"
+  },
+  {
+    "id": "07462",
+    "pdm": "FILTRO CONICO"
+  },
+  {
+    "id": "07470",
+    "pdm": "FILTRO DE FIBRA DE VIDRO"
+  },
+  {
+    "id": "07482",
+    "pdm": "FILTRO GAVETA"
+  },
+  {
+    "id": "07486",
+    "pdm": "FILTRO PARA AR COMPRIMIDO"
+  },
+  {
+    "id": "07487",
+    "pdm": "FILTRO PARA LINHA DE GAS"
+  },
+  {
+    "id": "07488",
+    "pdm": "FILTRO LINHA"
+  },
+  {
+    "id": "07491",
+    "pdm": "FILTRO PLANO"
+  },
+  {
+    "id": "07493",
+    "pdm": "FILTRO REGULADOR DE PRESSAO"
+  },
+  {
+    "id": "08741",
+    "pdm": "LAVADOR DE GAS"
+  },
+  {
+    "id": 10556,
+    "pdm": "PEÇA/COMPONENTE COMPRESSOR"
+  },
+  {
+    "id": 11308,
+    "pdm": "PROTETOR DE BOMBA - SUBMERSA / IRRIGACAO"
+  },
+  {
+    "id": 11343,
+    "pdm": "PURGADOR"
+  },
+  {
+    "id": 11512,
+    "pdm": "BOMBA"
+  },
+  {
+    "id": 11996,
+    "pdm": "SEMEADOR CENTRIFUGO PARA LIQUIDO"
+  },
+  {
+    "id": 11997,
+    "pdm": "SEMEADOR CENTRIFUGO PARA SOLIDOS"
+  },
+  {
+    "id": 12024,
+    "pdm": "SEPARADOR INDUSTRIAL"
+  },
+  {
+    "id": 12579,
+    "pdm": "TECIDO PARA FILTRO"
+  },
+  {
+    "id": 13176,
+    "pdm": "UNIDADE DE TRATAMENTO DE GAS SF6"
+  },
+  {
+    "id": 13177,
+    "pdm": "UNIDADE DE TRATAMENTO DE OLEO ISOLANTE"
+  },
+  {
+    "id": 13186,
+    "pdm": "UNIDADE MOVEL PARA TRATAMENTO DE OLEO"
+  },
+  {
+    "id": 13770,
+    "pdm": "REGULADOR PRESSÃO"
+  },
+  {
+    "id": 14298,
+    "pdm": "BOMBA HIDRÁULICA MANUAL"
+  },
+  {
+    "id": 14376,
+    "pdm": "BOMBA AMOSTRAGEM AR"
+  },
+  {
+    "id": 14377,
+    "pdm": "FILTRO BOMBA AMOSTRAGEM AR"
+  },
+  {
+    "id": 14379,
+    "pdm": "CICLONE"
+  },
+  {
+    "id": 15162,
+    "pdm": "BOMBA CENTRÍFUGA ÁGUA"
+  },
+  {
+    "id": 15250,
+    "pdm": "REGULADOR BOTIJÃO GÁS"
+  },
+  {
+    "id": 15277,
+    "pdm": "FILTRO ORDENHADEIRA"
+  },
+  {
+    "id": 15340,
+    "pdm": "REGULADOR GÁS"
+  },
+  {
+    "id": 15635,
+    "pdm": "BOMBA CORTADEIRA PRECISÃO"
+  },
+  {
+    "id": 16218,
+    "pdm": "ESTATOR"
+  },
+  {
+    "id": 16945,
+    "pdm": "BOMBAS E COMPRESSORES A VÁCUO"
+  },
+  {
+    "id": 16946,
+    "pdm": "CONJUNTO CILINDRO / BOMBA"
+  },
+  {
+    "id": 16947,
+    "pdm": "CENTRIFUGADORES. SEPARADORES E FILTROS DE PRESSÃO E A VÁCUO"
+  },
+  {
+    "id": 17923,
+    "pdm": "COMPRESSOR HERMÉTICO SCROLL"
+  },
+  {
+    "id": 17924,
+    "pdm": "VÁLVULA SERVIÇO COMPRESSOR"
+  },
+  {
+    "id": 18717,
+    "pdm": "PINO COMPRESSOR"
+  }
+]
