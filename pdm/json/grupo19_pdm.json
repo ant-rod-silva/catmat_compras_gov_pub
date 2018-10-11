@@ -1,402 +1,502 @@
 [
   {
     "id": "02358",
-    "pdm": "ALOJAMENTO FLUTUANTE"
+    "pdm": "ALOJAMENTO FLUTUANTE",
+    "grupo": "19"
   },
   {
     "id": "03234",
-    "pdm": "BALAO DE BARRAGEM ( MARINHA )"
+    "pdm": "BALAO DE BARRAGEM ( MARINHA )",
+    "grupo": "19"
   },
   {
     "id": "03328",
-    "pdm": "BARCA ALUMÕNIO"
+    "pdm": "BARCA ALUM√çNIO",
+    "grupo": "19"
   },
   {
     "id": "03329",
-    "pdm": "BARCA FIBRA DE MADEIRA"
+    "pdm": "BARCA FIBRA DE MADEIRA",
+    "grupo": "19"
   },
   {
     "id": "03330",
-    "pdm": "BARCA FIBRA DE VIDRO"
+    "pdm": "BARCA FIBRA DE VIDRO",
+    "grupo": "19"
   },
   {
     "id": "03332",
-    "pdm": "BARCA MADEIRA GRANDE PORTE"
+    "pdm": "BARCA MADEIRA GRANDE PORTE",
+    "grupo": "19"
   },
   {
     "id": "03333",
-    "pdm": "BARCA MADEIRA MEDIO PORTE"
+    "pdm": "BARCA MADEIRA MEDIO PORTE",
+    "grupo": "19"
   },
   {
     "id": "03334",
-    "pdm": "BARCA MADEIRA PEQUENO PORTE"
+    "pdm": "BARCA MADEIRA PEQUENO PORTE",
+    "grupo": "19"
   },
   {
     "id": "03335",
-    "pdm": "BARCA METALICA GRANDE PORTE"
+    "pdm": "BARCA METALICA GRANDE PORTE",
+    "grupo": "19"
   },
   {
     "id": "03336",
-    "pdm": "BARCA METALICA MEDIO PORTE"
+    "pdm": "BARCA METALICA MEDIO PORTE",
+    "grupo": "19"
   },
   {
     "id": "03337",
-    "pdm": "BARCA MET¡LICA PEQUENO PORTE"
+    "pdm": "BARCA MET√ÅLICA PEQUENO PORTE",
+    "grupo": "19"
   },
   {
     "id": "03338",
-    "pdm": "BARCO REMO"
+    "pdm": "BARCO REMO",
+    "grupo": "19"
   },
   {
     "id": "03339",
-    "pdm": "BARCO A VELA DE COMPETICAO ESPORTIVA"
+    "pdm": "BARCO A VELA DE COMPETICAO ESPORTIVA",
+    "grupo": "19"
   },
   {
     "id": "03340",
-    "pdm": "BARCO ALUMÕNIO"
+    "pdm": "BARCO ALUM√çNIO",
+    "grupo": "19"
   },
   {
     "id": "03341",
-    "pdm": "BARCO DE PESCA COM CAMARA FRIGORIFICA"
+    "pdm": "BARCO DE PESCA COM CAMARA FRIGORIFICA",
+    "grupo": "19"
   },
   {
     "id": "03342",
-    "pdm": "BARCO FIBRA VIDRO"
+    "pdm": "BARCO FIBRA VIDRO",
+    "grupo": "19"
   },
   {
     "id": "03343",
-    "pdm": "BARCO MADEIRA"
+    "pdm": "BARCO MADEIRA",
+    "grupo": "19"
   },
   {
     "id": "03449",
-    "pdm": "BATELAO BOMBEADOR"
+    "pdm": "BATELAO BOMBEADOR",
+    "grupo": "19"
   },
   {
     "id": "03450",
-    "pdm": "BATELAO DE CARGA LIQUIDA"
+    "pdm": "BATELAO DE CARGA LIQUIDA",
+    "grupo": "19"
   },
   {
     "id": "03451",
-    "pdm": "BATELAO DE CARGA SECA"
+    "pdm": "BATELAO DE CARGA SECA",
+    "grupo": "19"
   },
   {
     "id": "03452",
-    "pdm": "BATELAO DE COMBATE A INCENDIO"
+    "pdm": "BATELAO DE COMBATE A INCENDIO",
+    "grupo": "19"
   },
   {
     "id": "03453",
-    "pdm": "BATELAO DEPOSITO"
+    "pdm": "BATELAO DEPOSITO",
+    "grupo": "19"
   },
   {
     "id": "03454",
-    "pdm": "BATELAO FRIGORIFICO"
+    "pdm": "BATELAO FRIGORIFICO",
+    "grupo": "19"
   },
   {
     "id": "03455",
-    "pdm": "BATELAO GUINDASTE"
+    "pdm": "BATELAO GUINDASTE",
+    "grupo": "19"
   },
   {
     "id": "03456",
-    "pdm": "BATELAO LAMEIRO"
+    "pdm": "BATELAO LAMEIRO",
+    "grupo": "19"
   },
   {
     "id": "03457",
-    "pdm": "BATELAO MISTURADOR DE CONCRETO"
+    "pdm": "BATELAO MISTURADOR DE CONCRETO",
+    "grupo": "19"
   },
   {
     "id": "03458",
-    "pdm": "BATELAO PARA TRANSPORTE DE CARGA"
+    "pdm": "BATELAO PARA TRANSPORTE DE CARGA",
+    "grupo": "19"
   },
   {
     "id": "04061",
-    "pdm": "CABREA FLUTUANTE"
+    "pdm": "CABREA FLUTUANTE",
+    "grupo": "19"
   },
   {
     "id": "04179",
-    "pdm": "CAIXAO FLUTUANTE ( DOCAS )"
+    "pdm": "CAIXAO FLUTUANTE ( DOCAS )",
+    "grupo": "19"
   },
   {
     "id": "04428",
-    "pdm": "CANOA COMPETI«√O ESPORTIVA"
+    "pdm": "CANOA COMPETI√á√ÉO ESPORTIVA",
+    "grupo": "19"
   },
   {
     "id": "04679",
-    "pdm": "CASA DE FOR«A FLUTUANTE"
+    "pdm": "CASA DE FOR√áA FLUTUANTE",
+    "grupo": "19"
   },
   {
     "id": "04808",
-    "pdm": "CHALUPA"
+    "pdm": "CHALUPA",
+    "grupo": "19"
   },
   {
     "id": "04863",
-    "pdm": "CHATA COM GUINDASTE"
+    "pdm": "CHATA COM GUINDASTE",
+    "grupo": "19"
   },
   {
     "id": "04864",
-    "pdm": "CHATA DE CARGA"
+    "pdm": "CHATA DE CARGA",
+    "grupo": "19"
   },
   {
     "id": "04865",
-    "pdm": "CHATA PARA CARGA SECA"
+    "pdm": "CHATA PARA CARGA SECA",
+    "grupo": "19"
   },
   {
     "id": "04866",
-    "pdm": "CHATA PARA TRANSPORTE DE AERONAVE"
+    "pdm": "CHATA PARA TRANSPORTE DE AERONAVE",
+    "grupo": "19"
   },
   {
     "id": "04867",
-    "pdm": "CHATA PARA TRANSPORTE DE VEICULO"
+    "pdm": "CHATA PARA TRANSPORTE DE VEICULO",
+    "grupo": "19"
   },
   {
     "id": "06246",
-    "pdm": "DIQUE FLUTUANTE"
+    "pdm": "DIQUE FLUTUANTE",
+    "grupo": "19"
   },
   {
     "id": "06400",
-    "pdm": "DRAGA"
+    "pdm": "DRAGA",
+    "grupo": "19"
   },
   {
     "id": "06401",
-    "pdm": "DRAGA FLUTUANTE"
+    "pdm": "DRAGA FLUTUANTE",
+    "grupo": "19"
   },
   {
     "id": "06402",
-    "pdm": "DRAGA SEM CASCO"
+    "pdm": "DRAGA SEM CASCO",
+    "grupo": "19"
   },
   {
     "id": "06507",
-    "pdm": "EMBARCACAO - OFICINA MECANICA"
+    "pdm": "EMBARCACAO - OFICINA MECANICA",
+    "grupo": "19"
   },
   {
     "id": "06508",
-    "pdm": "EMBARCACAO CATAPULTA"
+    "pdm": "EMBARCACAO CATAPULTA",
+    "grupo": "19"
   },
   {
     "id": "06509",
-    "pdm": "EMBARCACAO DE COMBATE A INCENDIO"
+    "pdm": "EMBARCACAO DE COMBATE A INCENDIO",
+    "grupo": "19"
   },
   {
     "id": "06510",
-    "pdm": "EMBARCACAO DE COMERCIO"
+    "pdm": "EMBARCACAO DE COMERCIO",
+    "grupo": "19"
   },
   {
     "id": "06511",
-    "pdm": "EMBARCACAO DE TESTE DE TORPEDO"
+    "pdm": "EMBARCACAO DE TESTE DE TORPEDO",
+    "grupo": "19"
   },
   {
     "id": "06512",
-    "pdm": "EMBARCACAO LANCADORA DE CABO"
+    "pdm": "EMBARCACAO LANCADORA DE CABO",
+    "grupo": "19"
   },
   {
     "id": "06513",
-    "pdm": "EMBARCACAO REBOCADORA"
+    "pdm": "EMBARCACAO REBOCADORA",
+    "grupo": "19"
   },
   {
     "id": "06514",
-    "pdm": "EMBARCACAO SALVA - VIDAS DE AERONAVE"
+    "pdm": "EMBARCACAO SALVA - VIDAS DE AERONAVE",
+    "grupo": "19"
   },
   {
     "id": "06905",
-    "pdm": "ESCALER SALVA - VIDAS"
+    "pdm": "ESCALER SALVA - VIDAS",
+    "grupo": "19"
   },
   {
     "id": "08155",
-    "pdm": "GUINDASTE MONTADO EM BATELAO"
+    "pdm": "GUINDASTE MONTADO EM BATELAO",
+    "grupo": "19"
   },
   {
     "id": "08273",
-    "pdm": "IATE"
+    "pdm": "IATE",
+    "grupo": "19"
   },
   {
     "id": "08695",
-    "pdm": "LANCHA A MOTOR"
+    "pdm": "LANCHA A MOTOR",
+    "grupo": "19"
   },
   {
     "id": "08696",
-    "pdm": "LANCHA DE COMPETICAO ESPORTIVA"
+    "pdm": "LANCHA DE COMPETICAO ESPORTIVA",
+    "grupo": "19"
   },
   {
     "id": "08697",
-    "pdm": "LANCHA DE TRANSPORTE DE PASSAGEIRO"
+    "pdm": "LANCHA DE TRANSPORTE DE PASSAGEIRO",
+    "grupo": "19"
   },
   {
     "id": "08698",
-    "pdm": "LANCHA FIBRA DE MADEIRA"
+    "pdm": "LANCHA FIBRA DE MADEIRA",
+    "grupo": "19"
   },
   {
     "id": "08699",
-    "pdm": "LANCHA FIBRA VIDRO"
+    "pdm": "LANCHA FIBRA VIDRO",
+    "grupo": "19"
   },
   {
     "id": "08701",
-    "pdm": "LANCHA MADEIRA GRANDE PORTE"
+    "pdm": "LANCHA MADEIRA GRANDE PORTE",
+    "grupo": "19"
   },
   {
     "id": "08702",
-    "pdm": "LANCHA MADEIRA MEDIO PORTE"
+    "pdm": "LANCHA MADEIRA MEDIO PORTE",
+    "grupo": "19"
   },
   {
     "id": "08703",
-    "pdm": "LANCHA MADEIRA PEQUENO PORTE"
+    "pdm": "LANCHA MADEIRA PEQUENO PORTE",
+    "grupo": "19"
   },
   {
     "id": "08704",
-    "pdm": "LANCHA METALICA GRANDE PORTE"
+    "pdm": "LANCHA METALICA GRANDE PORTE",
+    "grupo": "19"
   },
   {
     "id": "08705",
-    "pdm": "LANCHA"
+    "pdm": "LANCHA",
+    "grupo": "19"
   },
   {
     "id": "08706",
-    "pdm": "LANCHA METALICA PEQUENO PORTE"
+    "pdm": "LANCHA METALICA PEQUENO PORTE",
+    "grupo": "19"
   },
   {
     "id": 10048,
-    "pdm": "NAVIO AUXILIAR"
+    "pdm": "NAVIO AUXILIAR",
+    "grupo": "19"
   },
   {
     "id": 10049,
-    "pdm": "NAVIO BALIZADOR"
+    "pdm": "NAVIO BALIZADOR",
+    "grupo": "19"
   },
   {
     "id": 10050,
-    "pdm": "NAVIO DE ALOJAMENTO"
+    "pdm": "NAVIO DE ALOJAMENTO",
+    "grupo": "19"
   },
   {
     "id": 10051,
-    "pdm": "NAVIO DE BUSCA SUBMARINA"
+    "pdm": "NAVIO DE BUSCA SUBMARINA",
+    "grupo": "19"
   },
   {
     "id": 10052,
-    "pdm": "NAVIO DE CARGA MISTA ( MINERIO / PETROLEO )"
+    "pdm": "NAVIO DE CARGA MISTA ( MINERIO / PETROLEO )",
+    "grupo": "19"
   },
   {
     "id": 10053,
-    "pdm": "NAVIO DE CARGA SECA"
+    "pdm": "NAVIO DE CARGA SECA",
+    "grupo": "19"
   },
   {
     "id": 10054,
-    "pdm": "NAVIO DE PASSAGEIRO"
+    "pdm": "NAVIO DE PASSAGEIRO",
+    "grupo": "19"
   },
   {
     "id": 10055,
-    "pdm": "NAVIO DE SALVAMENTO SUBMARINO"
+    "pdm": "NAVIO DE SALVAMENTO SUBMARINO",
+    "grupo": "19"
   },
   {
     "id": 10056,
-    "pdm": "NAVIO EMPURRADOR DE EMBARCACAO"
+    "pdm": "NAVIO EMPURRADOR DE EMBARCACAO",
+    "grupo": "19"
   },
   {
     "id": 10057,
-    "pdm": "NAVIO FAROLEIRO"
+    "pdm": "NAVIO FAROLEIRO",
+    "grupo": "19"
   },
   {
     "id": 10058,
-    "pdm": "NAVIO GRANELEIRO"
+    "pdm": "NAVIO GRANELEIRO",
+    "grupo": "19"
   },
   {
     "id": 10059,
-    "pdm": "NAVIO LIGEIRO"
+    "pdm": "NAVIO LIGEIRO",
+    "grupo": "19"
   },
   {
     "id": 10060,
-    "pdm": "NAVIO OFICINA"
+    "pdm": "NAVIO OFICINA",
+    "grupo": "19"
   },
   {
     "id": 10061,
-    "pdm": "NAVIO PETROLEIRO"
+    "pdm": "NAVIO PETROLEIRO",
+    "grupo": "19"
   },
   {
     "id": 10062,
-    "pdm": "NAVIO PROPANEIRO"
+    "pdm": "NAVIO PROPANEIRO",
+    "grupo": "19"
   },
   {
     "id": 10063,
-    "pdm": "NAVIO QUEBRA - GELO"
+    "pdm": "NAVIO QUEBRA - GELO",
+    "grupo": "19"
   },
   {
     "id": 10064,
-    "pdm": "NAVIO TENDER ( BOIA )"
+    "pdm": "NAVIO TENDER ( BOIA )",
+    "grupo": "19"
   },
   {
     "id": 10639,
-    "pdm": "PEQUENA EMBARCACAO - COM PROPULSAO PROPRIA ( JET SKI )"
+    "pdm": "PEQUENA EMBARCACAO - COM PROPULSAO PROPRIA ( JET SKI )",
+    "grupo": "19"
   },
   {
     "id": 10640,
-    "pdm": "PEQUENA EMBARCACAO - SEM PROPULSAO PROPRIA"
+    "pdm": "PEQUENA EMBARCACAO - SEM PROPULSAO PROPRIA",
+    "grupo": "19"
   },
   {
     "id": 10641,
-    "pdm": "PEQUENA EMBARCACAO COM PROPULSAO PROPRIA"
+    "pdm": "PEQUENA EMBARCACAO COM PROPULSAO PROPRIA",
+    "grupo": "19"
   },
   {
     "id": 10998,
-    "pdm": "PONTAO DE RAMPA"
+    "pdm": "PONTAO DE RAMPA",
+    "grupo": "19"
   },
   {
     "id": 10999,
-    "pdm": "PONTAO ESTAQUEADOR"
+    "pdm": "PONTAO ESTAQUEADOR",
+    "grupo": "19"
   },
   {
     "id": 13334,
-    "pdm": "VEDETA ( LANCHA )"
+    "pdm": "VEDETA ( LANCHA )",
+    "grupo": "19"
   },
   {
     "id": 13476,
-    "pdm": "VOADEIRA"
+    "pdm": "VOADEIRA",
+    "grupo": "19"
   },
   {
     "id": 16767,
-    "pdm": "NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE"
+    "pdm": "NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+    "grupo": "19"
   },
   {
     "id": 16768,
-    "pdm": "NAVIOS PARA TRANSPORTE DE PASSAGEIRO E TROPA"
+    "pdm": "NAVIOS PARA TRANSPORTE DE PASSAGEIRO E TROPA",
+    "grupo": "19"
   },
   {
     "id": 16769,
-    "pdm": "NAVIOS TANQUES E CARGUEIROS"
+    "pdm": "NAVIOS TANQUES E CARGUEIROS",
+    "grupo": "19"
   },
   {
     "id": 16770,
-    "pdm": "NAVIOS PESQUEIROS"
+    "pdm": "NAVIOS PESQUEIROS",
+    "grupo": "19"
   },
   {
     "id": 16771,
-    "pdm": "NAVIOS DE SERVICOS ESPECIAIS"
+    "pdm": "NAVIOS DE SERVICOS ESPECIAIS",
+    "grupo": "19"
   },
   {
     "id": 16772,
-    "pdm": "BATELOES E CHATAS PARA CARGAS"
+    "pdm": "BATELOES E CHATAS PARA CARGAS",
+    "grupo": "19"
   },
   {
     "id": 16773,
-    "pdm": "BATELOES E CHATAS PARA FINS ESPECIAIS"
+    "pdm": "BATELOES E CHATAS PARA FINS ESPECIAIS",
+    "grupo": "19"
   },
   {
     "id": 16774,
-    "pdm": "EMBARCA«’ES PEQUENAS"
+    "pdm": "EMBARCA√á√ïES PEQUENAS",
+    "grupo": "19"
   },
   {
     "id": 16775,
-    "pdm": "PONT’ES E DOCAS FLUTUANTES"
+    "pdm": "PONT√ïES E DOCAS FLUTUANTES",
+    "grupo": "19"
   },
   {
     "id": 16776,
-    "pdm": "DIQUES FLUTUANTES"
+    "pdm": "DIQUES FLUTUANTES",
+    "grupo": "19"
   },
   {
     "id": 16777,
-    "pdm": "DRAGAS"
+    "pdm": "DRAGAS",
+    "grupo": "19"
   },
   {
     "id": 16778,
-    "pdm": "EMBARCACOES DIVERSAS"
+    "pdm": "EMBARCACOES DIVERSAS",
+    "grupo": "19"
   },
   {
     "id": 17605,
-    "pdm": "COMPONENTE EMBARCA«√O"
+    "pdm": "COMPONENTE EMBARCA√á√ÉO",
+    "grupo": "19"
   }
 ]
