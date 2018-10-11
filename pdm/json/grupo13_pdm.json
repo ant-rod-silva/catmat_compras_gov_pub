@@ -1,1 +1,331 @@
 
+[
+  {
+    "id": "02043",
+    "pdm": "ACIONADOR ESPOLETA"
+  },
+  {
+    "id": "02990",
+    "pdm": "ARGOLA COM DESTORCEDOR - BOMBA INCENDIARIA / BOMBA FINS GERAIS ( BINC / BFG )"
+  },
+  {
+    "id": "03746",
+    "pdm": "BOMBA DE ARRASTO - FINS GERAIS ( BA - FG )"
+  },
+  {
+    "id": "03759",
+    "pdm": "BOMBA EXERCÍCIO DE TIRO"
+  },
+  {
+    "id": "03773",
+    "pdm": "BOMBA EXERCICIO ( BEX )"
+  },
+  {
+    "id": "03778",
+    "pdm": "BOMBA INCENDIARIA ( BINC )"
+  },
+  {
+    "id": "03978",
+    "pdm": "CABEÇA DE EXERCÍCIO INERTE ( CAB - EX IN )"
+  },
+  {
+    "id": "03979",
+    "pdm": "CABEÇA DE GUERRA / ANTI - CARRO ( CAB - AC )"
+  },
+  {
+    "id": "03980",
+    "pdm": "CABEÇA DE GUERRA / ANTI - PESSOAL ( CAB - AP )"
+  },
+  {
+    "id": "03981",
+    "pdm": "CABECA DE GUERRA / SINALIZADORA"
+  },
+  {
+    "id": "04625",
+    "pdm": "CARRO TRANSPORTE E INSTALACAO DE BOMBA ( CAR - TIB )"
+  },
+  {
+    "id": "04670",
+    "pdm": "CARTUCHO PIROTECNICO - TREINAMENTO"
+  },
+  {
+    "id": "04970",
+    "pdm": "CHUMBINHO ARMA PRESSÃO"
+  },
+  {
+    "id": "05081",
+    "pdm": "CLIPS - BOMBA INCENDIARIA / BOMBA FINS GERAIS"
+  },
+  {
+    "id": "05460",
+    "pdm": "COMPONENTE MUNIÇÃO GRANADA"
+  },
+  {
+    "id": "05461",
+    "pdm": "COMPONENTE MUNICAO DE 75MM ATE 125MM"
+  },
+  {
+    "id": "05870",
+    "pdm": "CORDEL DETONANTE EXPLOSIVO"
+  },
+  {
+    "id": "06617",
+    "pdm": "EQUIPAMENTO ( KIT ) REMOCAO EXPLOSIVO"
+  },
+  {
+    "id": "07025",
+    "pdm": "ESPOLETA CAUDA MECANICA / BOMBA FINS GERAIS ( ECM - BFG )"
+  },
+  {
+    "id": "07027",
+    "pdm": "ESPOLETA OGIVA MECANICA / ANTI - CARRO ( EOM - FAC )"
+  },
+  {
+    "id": "07028",
+    "pdm": "ESPOLETA OGIVA MECANICA / ANTI - PESSOAL ( EOM - FAP )"
+  },
+  {
+    "id": "07029",
+    "pdm": "ESPOLETA OGIVA MECANICA / BOMBA FINS GERAIS ( EOM - BFG )"
+  },
+  {
+    "id": "07030",
+    "pdm": "ESPOLETA OGIVA MECANICA / BOMBA INCENDIARIA ( EOM - BINC )"
+  },
+  {
+    "id": "07031",
+    "pdm": "ESPOLETA SIMPLES + ESTOPIM ( ESPOLETADO ) - DETONACAO DE EXPLOSIVO"
+  },
+  {
+    "id": "07032",
+    "pdm": "ESPOLETA SIMPLES COM RETARDO / DETONACAO DE EXPLO-SIVO"
+  },
+  {
+    "id": "07033",
+    "pdm": "ESPOLETA SIMPLES PARA DETONACAO DE EXPLOSIVO"
+  },
+  {
+    "id": "07035",
+    "pdm": "ESPOLETAS DE DETONACAO"
+  },
+  {
+    "id": "07036",
+    "pdm": "ESPOLETAS DE SEGURANCA"
+  },
+  {
+    "id": "07037",
+    "pdm": "ESPOLETAS SISMOGRAFICAS"
+  },
+  {
+    "id": "07245",
+    "pdm": "EXPLOSIVO INDUSTRIAL/EXPLOSIVO DIVERSOS"
+  },
+  {
+    "id": "07681",
+    "pdm": "FOGOS DE ARTIFICIO"
+  },
+  {
+    "id": "07684",
+    "pdm": "FOGUETE AR TERRA - TREINAMENTO"
+  },
+  {
+    "id": "08079",
+    "pdm": "GRANADA"
+  },
+  {
+    "id": "08080",
+    "pdm": "GRANADAS DE GAS LACRIMOGENIO"
+  },
+  {
+    "id": "08081",
+    "pdm": "GRANADAS FUMIGENAS"
+  },
+  {
+    "id": "08082",
+    "pdm": "GRANADAS INCENDIARIAS"
+  },
+  {
+    "id": "08684",
+    "pdm": "LANCADOR DE FOGUETE - TREINAMENTO"
+  },
+  {
+    "id": "08685",
+    "pdm": "PEÇAS/COMPONENTES - LANÇADOR MÚLTIPLO DE FOGUETE"
+  },
+  {
+    "id": 10020,
+    "pdm": "MUNIÇÃO ARMA DE FOGO EMPUNHÁVEL - MÉDIO PORTE"
+  },
+  {
+    "id": 10021,
+    "pdm": "MUNIÇÃO ARMA DE FOGO EMPUNHÁVEL - PEQUENO PORTE"
+  },
+  {
+    "id": 10159,
+    "pdm": "OGIVA BELICA"
+  },
+  {
+    "id": 10160,
+    "pdm": "OGIVA PARA FOGUETE - TREINAMENTO"
+  },
+  {
+    "id": 10990,
+    "pdm": "POLVORA"
+  },
+  {
+    "id": 11255,
+    "pdm": "PROJÉTIL NÃO LETAL"
+  },
+  {
+    "id": 12070,
+    "pdm": "SIMULACRO GRANADA"
+  },
+  {
+    "id": 13869,
+    "pdm": "ESCUDO PLACA"
+  },
+  {
+    "id": 13870,
+    "pdm": "ESCUDO SUPORTE"
+  },
+  {
+    "id": 13871,
+    "pdm": "CONJUNTO DIES"
+  },
+  {
+    "id": 15401,
+    "pdm": "MUNIÇÃO TREINAMENTO"
+  },
+  {
+    "id": 15549,
+    "pdm": "PROJÉTIL MUNIÇÃO ARMA FOGO"
+  },
+  {
+    "id": 16262,
+    "pdm": "PROJETIL E COMPONENTES MUNIÇÃO ATÉ 30MM"
+  },
+  {
+    "id": 16697,
+    "pdm": "MUNIÇÃO DE CALIBRE ATÉ 30 MM"
+  },
+  {
+    "id": 16698,
+    "pdm": "MUNIÇÃO DE CALIBRE ACIMA DE 30 MM ATÉ 75 MM"
+  },
+  {
+    "id": 16699,
+    "pdm": "MUNIÇÃO DE CALIBRE ACIMA DE 75MM ATÉE 125MM"
+  },
+  {
+    "id": 16700,
+    "pdm": "MUNIÇÃO DE CALIBRE ACIMA DE 125 MM"
+  },
+  {
+    "id": 16701,
+    "pdm": "BOMBAS"
+  },
+  {
+    "id": 16702,
+    "pdm": "GRANADAS"
+  },
+  {
+    "id": 16703,
+    "pdm": "OGIVAS E COMPONENTES EXPLOSIVOS DE MISSEIS GUIADOS"
+  },
+  {
+    "id": 16704,
+    "pdm": "UNIDADES DE PROPULSAO EXPLOSIVA A COMBUSTIVEL SOLIDO DE VEICULOS ESPACIAIS E MISSEIS GUIADOS E SEUS"
+  },
+  {
+    "id": 16705,
+    "pdm": "UNIDADES DE PROPULSAO INERTES A COMBUSTIVEL SOLIDO DE VEICULOS ESPACIAIS E MISSEIS GUIADOS E SEUS CO"
+  },
+  {
+    "id": 16706,
+    "pdm": "ROJÕES. FOGUETES. MUNIÇÃO E COMPONENTES"
+  },
+  {
+    "id": 16707,
+    "pdm": "MINAS TERRESTRES"
+  },
+  {
+    "id": 16708,
+    "pdm": "COMPONENTES INERTES DE MINA SUBMARINA"
+  },
+  {
+    "id": 16709,
+    "pdm": "COMPONENTES EXPLOSIVOS DE MINAS SUBMARINAS"
+  },
+  {
+    "id": 16710,
+    "pdm": "COMPONENTES INERTES DE TORPEDOS"
+  },
+  {
+    "id": 16711,
+    "pdm": "COMPONENTES EXPLOSIVOS DE TORPEDOS"
+  },
+  {
+    "id": 16712,
+    "pdm": "COMPONENTES INERTES DE CARGAS DE PROFUNDIDADE"
+  },
+  {
+    "id": 16713,
+    "pdm": "COMPONENTES EXPLOSIVOS DE BOMBAS DE PROFUNDIDADE"
+  },
+  {
+    "id": 16715,
+    "pdm": "PIROTECNICOS"
+  },
+  {
+    "id": 16716,
+    "pdm": "MATERIAIS DE DEMOLIÇÃO"
+  },
+  {
+    "id": 16717,
+    "pdm": "EXPLOSIVOS A GRANEL"
+  },
+  {
+    "id": 16718,
+    "pdm": "DISPOSITIVOS ACIONADOS POR PROPELENTES E CARTUCHOS"
+  },
+  {
+    "id": 16719,
+    "pdm": "AGENTES BIOLOGICOS DE USO MILITAR"
+  },
+  {
+    "id": 16720,
+    "pdm": "EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE EXPLOSIVO NA SU-PERFÍCIE"
+  },
+  {
+    "id": 16721,
+    "pdm": "EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE EXPLOSIVO SUB-MERSO"
+  },
+  {
+    "id": 16722,
+    "pdm": "ESPOLETAS E ESTOPILHAS"
+  },
+  {
+    "id": 16723,
+    "pdm": "COMPONENTES DIVERSOS DE MUNIÇÃO"
+  },
+  {
+    "id": 16724,
+    "pdm": "EQUIPAMENTOS ESPECIALIZADOS PARA MANUSEIO E CONSERVACAO DE MUNICAO"
+  },
+  {
+    "id": 17373,
+    "pdm": "MUNIÇÕES DE CONTROLE À DISTÂNCIA"
+  },
+  {
+    "id": 17374,
+    "pdm": "DISPOSITIVOS INERTES DE MINAS SUBAQUÁTICAS"
+  },
+  {
+    "id": 17375,
+    "pdm": "DISPOSITIVOS EXPLOSIVOS DE MINAS SUBAQUÁTICAS"
+  },
+  {
+    "id": 17376,
+    "pdm": "CONJUNTOS E EQUIPAMENTOS TÁTICOS"
+  }
+]
