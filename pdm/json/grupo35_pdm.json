@@ -1,0 +1,362 @@
+[
+  {
+    "id": "01473",
+    "pdm": "ENVELOPADORA"
+  },
+  {
+    "id": "02350",
+    "pdm": "ALMOFADA DE PASSAR ROUPA INDUSTRIAL"
+  },
+  {
+    "id": "02353",
+    "pdm": "ALMOFADA INDUSTRIAL DE MAQUINA DE PASSAR ROUPA"
+  },
+  {
+    "id": "03089",
+    "pdm": "ASPERGIDOR DE LAVANDERIA"
+  },
+  {
+    "id": "03103",
+    "pdm": "ATADEIRA INDUSTRIAL DE ROLO DE PASSAR ROUPA"
+  },
+  {
+    "id": "04077",
+    "pdm": "CADEIRA DE BARBEARIA"
+  },
+  {
+    "id": "04172",
+    "pdm": "CAIXA REGISTRADORA"
+  },
+  {
+    "id": "04344",
+    "pdm": "CÂMARA FRIGORÍFICA PEÇAS / ACESSÓRIOS"
+  },
+  {
+    "id": "04615",
+    "pdm": "CARRO PARA COMERCIO DE PRODUTOS - AMBULANTE"
+  },
+  {
+    "id": "06101",
+    "pdm": "DESLACRADORA"
+  },
+  {
+    "id": "06782",
+    "pdm": "EQUIPAMENTO EMBALAGEM PALETES"
+  },
+  {
+    "id": "06794",
+    "pdm": "EQUIPAMENTO INDUSTRIAL DE MARCACAO DE ROUPA"
+  },
+  {
+    "id": "07046",
+    "pdm": "ESPREMEDOR INDUSTRIAL DE ROUPA"
+  },
+  {
+    "id": "07228",
+    "pdm": "ETIQUETADEIRA DE EMBALAGEM"
+  },
+  {
+    "id": "07405",
+    "pdm": "FERRO PASSAR ROUPA"
+  },
+  {
+    "id": "07706",
+    "pdm": "FONOGRAFO ACIONADO COM MOEDA ( FICHA )"
+  },
+  {
+    "id": "07846",
+    "pdm": "FRISADORA"
+  },
+  {
+    "id": "07917",
+    "pdm": "GANCHO METÁLICO"
+  },
+  {
+    "id": "08089",
+    "pdm": "GRAVADOR ACIONADO COM MOEDA ( FICHA )"
+  },
+  {
+    "id": "08535",
+    "pdm": "JOGO DE BARBEARIA"
+  },
+  {
+    "id": "08595",
+    "pdm": "APARELHO LACRADOR"
+  },
+  {
+    "id": "08621",
+    "pdm": "LÂMINA SERRILHAR PAPEL"
+  },
+  {
+    "id": "08746",
+    "pdm": "LAVATORIO - CABELO"
+  },
+  {
+    "id": "09141",
+    "pdm": "MÁQUINA / COMPONENTE - EMBALADORA"
+  },
+  {
+    "id": "09159",
+    "pdm": "MAQUINA DE BORDAR"
+  },
+  {
+    "id": "09163",
+    "pdm": "MÁQUINA DE CINTAR EMBALAGEM - PEÇAS / ACESSÓRIOS"
+  },
+  {
+    "id": "09165",
+    "pdm": "MAQUINA DE COLAR EMBALAGEM"
+  },
+  {
+    "id": "09168",
+    "pdm": "MAQUINA DE CONFECCIONAR BANDEJA PARA EMBALAGEM"
+  },
+  {
+    "id": "09169",
+    "pdm": "MAQUINA DE CONFECCIONAR CAIXA"
+  },
+  {
+    "id": "09170",
+    "pdm": "MAQUINA DE CONFECCIONAR CAIXOTE"
+  },
+  {
+    "id": "09177",
+    "pdm": "MÁQUINA DE POLIR CALÇADO"
+  },
+  {
+    "id": "09181",
+    "pdm": "MAQUINA DE EMPACOTAR MOEDA E FICHA TELEFONICA"
+  },
+  {
+    "id": "09182",
+    "pdm": "MÁQUINA TAMPADORA E ENCHEDORA"
+  },
+  {
+    "id": "09198",
+    "pdm": "MAQUINA DE FECHAR GARRAFA"
+  },
+  {
+    "id": "09249",
+    "pdm": "MAQUINA ELETRICA DE CORTAR CABELO"
+  },
+  {
+    "id": "09251",
+    "pdm": "MAQUINA EMBLISTADORA - PEÇAS E ACESSÓRIOS"
+  },
+  {
+    "id": "09267",
+    "pdm": "MAQUINA INDUSTRIAL DE COSTURA RETA"
+  },
+  {
+    "id": "09275",
+    "pdm": "MAQUINA INDUSTRIAL DE ENGOMAR ROUPA"
+  },
+  {
+    "id": "09293",
+    "pdm": "MAQUINA INDUSTRIAL DE PASSAR ROUPA"
+  },
+  {
+    "id": "09301",
+    "pdm": "MÁQUINA LAVAR LOUÇAS - PEÇAS / ACESSÓRIOS"
+  },
+  {
+    "id": "09308",
+    "pdm": "MÁQUINA LAVAR PISO"
+  },
+  {
+    "id": "09309",
+    "pdm": "MÁQUINA LAVAR ROUPA"
+  },
+  {
+    "id": "09310",
+    "pdm": "MÁQUINA LAVAR ROUPA - INDUSTRIAL"
+  },
+  {
+    "id": "09311",
+    "pdm": "MÁQUINA LAVAR / SECAR ROUPA - PEÇA/ACESSÓRIO"
+  },
+  {
+    "id": "09312",
+    "pdm": "MAQUINA MANUAL DE CORTAR CABELO"
+  },
+  {
+    "id": "09324",
+    "pdm": "MAQUINA PARA EMPACOTAMENTO"
+  },
+  {
+    "id": "09333",
+    "pdm": "MÁQUINA GRAMPEADORA"
+  },
+  {
+    "id": "09339",
+    "pdm": "MAQUINA PARA ROTULAGEM"
+  },
+  {
+    "id": "09348",
+    "pdm": "MAQUINA POLIR PISO"
+  },
+  {
+    "id": "09354",
+    "pdm": "MAQUINA SECADORA ROUPA"
+  },
+  {
+    "id": "09357",
+    "pdm": "MAQUINA TAMPAR - FRASCO / VASILHAME"
+  },
+  {
+    "id": "09358",
+    "pdm": "SELADORA EMBALAGEM"
+  },
+  {
+    "id": "09628",
+    "pdm": "MESA DE MANICURE"
+  },
+  {
+    "id": "09647",
+    "pdm": "MESA ELEVATÓRIA"
+  },
+  {
+    "id": 10153,
+    "pdm": "OFICINA MOVEL DE CONSERTO DE CALCADO"
+  },
+  {
+    "id": 10463,
+    "pdm": "PARQUIMETRO"
+  },
+  {
+    "id": 10472,
+    "pdm": "PASSADOR INDUSTRIAL DE ROUPA TIPO ROLO"
+  },
+  {
+    "id": 11185,
+    "pdm": "PRENSA INDUSTRIAL DE VESTUARIO"
+  },
+  {
+    "id": 11810,
+    "pdm": "ROLETA BORBOLETA"
+  },
+  {
+    "id": 11811,
+    "pdm": "ROLETA - PECA / COMPONENTE"
+  },
+  {
+    "id": 11952,
+    "pdm": "SARRAFO PROTEÇÃO LÂMINA CORTE"
+  },
+  {
+    "id": 11957,
+    "pdm": "MÁQUINA SECAR ROUPA"
+  },
+  {
+    "id": 11980,
+    "pdm": "SELADOR/ENCARTUCHADOR/INCAPSULADOR-PEÇA/ACESSÓRIO"
+  },
+  {
+    "id": 12464,
+    "pdm": "TABUA INDUSTRIAL DE PASSAR ROUPA"
+  },
+  {
+    "id": 12465,
+    "pdm": "TABUA PASSAR ROUPA"
+  },
+  {
+    "id": 13183,
+    "pdm": "UNIDADE INDUSTRIAL MOVEL PARA LAVAGEM A SECO"
+  },
+  {
+    "id": 13184,
+    "pdm": "UNIDADE INDUSTRIAL MOVEL PARA LAVANDERIA"
+  },
+  {
+    "id": 14029,
+    "pdm": "LAVADORA ALTA PRESSÃO"
+  },
+  {
+    "id": 14038,
+    "pdm": "MÁQUINA RECRAVADORA TAMPA"
+  },
+  {
+    "id": 14142,
+    "pdm": "CONJUNTO TRANSPORTADOR RÓTULOS"
+  },
+  {
+    "id": 14147,
+    "pdm": "BORRACHA DISCO PUXADOR RÓTULOS"
+  },
+  {
+    "id": 14635,
+    "pdm": "MÁQUINA COPIAR CHAVES"
+  },
+  {
+    "id": 15541,
+    "pdm": "FITA ALGODÃO"
+  },
+  {
+    "id": 16284,
+    "pdm": "MÁQUINA REABASTECIMENTO CARTUCHO IMPRESSORA"
+  },
+  {
+    "id": 16409,
+    "pdm": "MÁQUINA LAVAR LOUÇAS"
+  },
+  {
+    "id": 16881,
+    "pdm": "EQUIPAMENTOS DE LAVANDERIA E LAVAGEM A SECO"
+  },
+  {
+    "id": 16882,
+    "pdm": "EQUIPAMENTOS PARA CONSERTO DE CALÇADOS"
+  },
+  {
+    "id": 16883,
+    "pdm": "MÁQUINAS DE COSTURA INDUSTRIAL E OFICINAS MÓVEIS DE CONSER-TOS EM TECIDOS"
+  },
+  {
+    "id": 16884,
+    "pdm": "MÁQUINAS DE EMBALAGEM E EMPACOTAMENTO"
+  },
+  {
+    "id": 16885,
+    "pdm": "MAQUINAS INDUSTRIAIS DE VIDRO E CRISTAIS"
+  },
+  {
+    "id": 16886,
+    "pdm": "MÁQUINAS REGISTRADORAS AUTOMÁTICAS E MÁQUINAS ACIONADAS COMFICHAS"
+  },
+  {
+    "id": 16887,
+    "pdm": "EQUIPAMENTOS DIVERSOS PARA SERVIÇOS PROFISSIONAIS"
+  },
+  {
+    "id": 17571,
+    "pdm": "CONJUNTO DE EIXO"
+  },
+  {
+    "id": 17572,
+    "pdm": "EIXO DOBRADOR"
+  },
+  {
+    "id": 17573,
+    "pdm": "MOLA MANCAL"
+  },
+  {
+    "id": 17575,
+    "pdm": "CORREIA ALIMENTAÇÃO"
+  },
+  {
+    "id": 17956,
+    "pdm": "SELADORA ELÉTRICA"
+  },
+  {
+    "id": 18332,
+    "pdm": "MÁQUINA PARA ARQUEAR"
+  },
+  {
+    "id": 18437,
+    "pdm": "FIO CORTE"
+  },
+  {
+    "id": 18912,
+    "pdm": "CINTA AGRÍCOLA"
+  }
+]
