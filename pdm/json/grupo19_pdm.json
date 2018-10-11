@@ -1,0 +1,402 @@
+[
+  {
+    "id": "02358",
+    "pdm": "ALOJAMENTO FLUTUANTE"
+  },
+  {
+    "id": "03234",
+    "pdm": "BALAO DE BARRAGEM ( MARINHA )"
+  },
+  {
+    "id": "03328",
+    "pdm": "BARCA ALUMÍNIO"
+  },
+  {
+    "id": "03329",
+    "pdm": "BARCA FIBRA DE MADEIRA"
+  },
+  {
+    "id": "03330",
+    "pdm": "BARCA FIBRA DE VIDRO"
+  },
+  {
+    "id": "03332",
+    "pdm": "BARCA MADEIRA GRANDE PORTE"
+  },
+  {
+    "id": "03333",
+    "pdm": "BARCA MADEIRA MEDIO PORTE"
+  },
+  {
+    "id": "03334",
+    "pdm": "BARCA MADEIRA PEQUENO PORTE"
+  },
+  {
+    "id": "03335",
+    "pdm": "BARCA METALICA GRANDE PORTE"
+  },
+  {
+    "id": "03336",
+    "pdm": "BARCA METALICA MEDIO PORTE"
+  },
+  {
+    "id": "03337",
+    "pdm": "BARCA METÁLICA PEQUENO PORTE"
+  },
+  {
+    "id": "03338",
+    "pdm": "BARCO REMO"
+  },
+  {
+    "id": "03339",
+    "pdm": "BARCO A VELA DE COMPETICAO ESPORTIVA"
+  },
+  {
+    "id": "03340",
+    "pdm": "BARCO ALUMÍNIO"
+  },
+  {
+    "id": "03341",
+    "pdm": "BARCO DE PESCA COM CAMARA FRIGORIFICA"
+  },
+  {
+    "id": "03342",
+    "pdm": "BARCO FIBRA VIDRO"
+  },
+  {
+    "id": "03343",
+    "pdm": "BARCO MADEIRA"
+  },
+  {
+    "id": "03449",
+    "pdm": "BATELAO BOMBEADOR"
+  },
+  {
+    "id": "03450",
+    "pdm": "BATELAO DE CARGA LIQUIDA"
+  },
+  {
+    "id": "03451",
+    "pdm": "BATELAO DE CARGA SECA"
+  },
+  {
+    "id": "03452",
+    "pdm": "BATELAO DE COMBATE A INCENDIO"
+  },
+  {
+    "id": "03453",
+    "pdm": "BATELAO DEPOSITO"
+  },
+  {
+    "id": "03454",
+    "pdm": "BATELAO FRIGORIFICO"
+  },
+  {
+    "id": "03455",
+    "pdm": "BATELAO GUINDASTE"
+  },
+  {
+    "id": "03456",
+    "pdm": "BATELAO LAMEIRO"
+  },
+  {
+    "id": "03457",
+    "pdm": "BATELAO MISTURADOR DE CONCRETO"
+  },
+  {
+    "id": "03458",
+    "pdm": "BATELAO PARA TRANSPORTE DE CARGA"
+  },
+  {
+    "id": "04061",
+    "pdm": "CABREA FLUTUANTE"
+  },
+  {
+    "id": "04179",
+    "pdm": "CAIXAO FLUTUANTE ( DOCAS )"
+  },
+  {
+    "id": "04428",
+    "pdm": "CANOA COMPETIÇÃO ESPORTIVA"
+  },
+  {
+    "id": "04679",
+    "pdm": "CASA DE FORÇA FLUTUANTE"
+  },
+  {
+    "id": "04808",
+    "pdm": "CHALUPA"
+  },
+  {
+    "id": "04863",
+    "pdm": "CHATA COM GUINDASTE"
+  },
+  {
+    "id": "04864",
+    "pdm": "CHATA DE CARGA"
+  },
+  {
+    "id": "04865",
+    "pdm": "CHATA PARA CARGA SECA"
+  },
+  {
+    "id": "04866",
+    "pdm": "CHATA PARA TRANSPORTE DE AERONAVE"
+  },
+  {
+    "id": "04867",
+    "pdm": "CHATA PARA TRANSPORTE DE VEICULO"
+  },
+  {
+    "id": "06246",
+    "pdm": "DIQUE FLUTUANTE"
+  },
+  {
+    "id": "06400",
+    "pdm": "DRAGA"
+  },
+  {
+    "id": "06401",
+    "pdm": "DRAGA FLUTUANTE"
+  },
+  {
+    "id": "06402",
+    "pdm": "DRAGA SEM CASCO"
+  },
+  {
+    "id": "06507",
+    "pdm": "EMBARCACAO - OFICINA MECANICA"
+  },
+  {
+    "id": "06508",
+    "pdm": "EMBARCACAO CATAPULTA"
+  },
+  {
+    "id": "06509",
+    "pdm": "EMBARCACAO DE COMBATE A INCENDIO"
+  },
+  {
+    "id": "06510",
+    "pdm": "EMBARCACAO DE COMERCIO"
+  },
+  {
+    "id": "06511",
+    "pdm": "EMBARCACAO DE TESTE DE TORPEDO"
+  },
+  {
+    "id": "06512",
+    "pdm": "EMBARCACAO LANCADORA DE CABO"
+  },
+  {
+    "id": "06513",
+    "pdm": "EMBARCACAO REBOCADORA"
+  },
+  {
+    "id": "06514",
+    "pdm": "EMBARCACAO SALVA - VIDAS DE AERONAVE"
+  },
+  {
+    "id": "06905",
+    "pdm": "ESCALER SALVA - VIDAS"
+  },
+  {
+    "id": "08155",
+    "pdm": "GUINDASTE MONTADO EM BATELAO"
+  },
+  {
+    "id": "08273",
+    "pdm": "IATE"
+  },
+  {
+    "id": "08695",
+    "pdm": "LANCHA A MOTOR"
+  },
+  {
+    "id": "08696",
+    "pdm": "LANCHA DE COMPETICAO ESPORTIVA"
+  },
+  {
+    "id": "08697",
+    "pdm": "LANCHA DE TRANSPORTE DE PASSAGEIRO"
+  },
+  {
+    "id": "08698",
+    "pdm": "LANCHA FIBRA DE MADEIRA"
+  },
+  {
+    "id": "08699",
+    "pdm": "LANCHA FIBRA VIDRO"
+  },
+  {
+    "id": "08701",
+    "pdm": "LANCHA MADEIRA GRANDE PORTE"
+  },
+  {
+    "id": "08702",
+    "pdm": "LANCHA MADEIRA MEDIO PORTE"
+  },
+  {
+    "id": "08703",
+    "pdm": "LANCHA MADEIRA PEQUENO PORTE"
+  },
+  {
+    "id": "08704",
+    "pdm": "LANCHA METALICA GRANDE PORTE"
+  },
+  {
+    "id": "08705",
+    "pdm": "LANCHA"
+  },
+  {
+    "id": "08706",
+    "pdm": "LANCHA METALICA PEQUENO PORTE"
+  },
+  {
+    "id": 10048,
+    "pdm": "NAVIO AUXILIAR"
+  },
+  {
+    "id": 10049,
+    "pdm": "NAVIO BALIZADOR"
+  },
+  {
+    "id": 10050,
+    "pdm": "NAVIO DE ALOJAMENTO"
+  },
+  {
+    "id": 10051,
+    "pdm": "NAVIO DE BUSCA SUBMARINA"
+  },
+  {
+    "id": 10052,
+    "pdm": "NAVIO DE CARGA MISTA ( MINERIO / PETROLEO )"
+  },
+  {
+    "id": 10053,
+    "pdm": "NAVIO DE CARGA SECA"
+  },
+  {
+    "id": 10054,
+    "pdm": "NAVIO DE PASSAGEIRO"
+  },
+  {
+    "id": 10055,
+    "pdm": "NAVIO DE SALVAMENTO SUBMARINO"
+  },
+  {
+    "id": 10056,
+    "pdm": "NAVIO EMPURRADOR DE EMBARCACAO"
+  },
+  {
+    "id": 10057,
+    "pdm": "NAVIO FAROLEIRO"
+  },
+  {
+    "id": 10058,
+    "pdm": "NAVIO GRANELEIRO"
+  },
+  {
+    "id": 10059,
+    "pdm": "NAVIO LIGEIRO"
+  },
+  {
+    "id": 10060,
+    "pdm": "NAVIO OFICINA"
+  },
+  {
+    "id": 10061,
+    "pdm": "NAVIO PETROLEIRO"
+  },
+  {
+    "id": 10062,
+    "pdm": "NAVIO PROPANEIRO"
+  },
+  {
+    "id": 10063,
+    "pdm": "NAVIO QUEBRA - GELO"
+  },
+  {
+    "id": 10064,
+    "pdm": "NAVIO TENDER ( BOIA )"
+  },
+  {
+    "id": 10639,
+    "pdm": "PEQUENA EMBARCACAO - COM PROPULSAO PROPRIA ( JET SKI )"
+  },
+  {
+    "id": 10640,
+    "pdm": "PEQUENA EMBARCACAO - SEM PROPULSAO PROPRIA"
+  },
+  {
+    "id": 10641,
+    "pdm": "PEQUENA EMBARCACAO COM PROPULSAO PROPRIA"
+  },
+  {
+    "id": 10998,
+    "pdm": "PONTAO DE RAMPA"
+  },
+  {
+    "id": 10999,
+    "pdm": "PONTAO ESTAQUEADOR"
+  },
+  {
+    "id": 13334,
+    "pdm": "VEDETA ( LANCHA )"
+  },
+  {
+    "id": 13476,
+    "pdm": "VOADEIRA"
+  },
+  {
+    "id": 16767,
+    "pdm": "NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE"
+  },
+  {
+    "id": 16768,
+    "pdm": "NAVIOS PARA TRANSPORTE DE PASSAGEIRO E TROPA"
+  },
+  {
+    "id": 16769,
+    "pdm": "NAVIOS TANQUES E CARGUEIROS"
+  },
+  {
+    "id": 16770,
+    "pdm": "NAVIOS PESQUEIROS"
+  },
+  {
+    "id": 16771,
+    "pdm": "NAVIOS DE SERVICOS ESPECIAIS"
+  },
+  {
+    "id": 16772,
+    "pdm": "BATELOES E CHATAS PARA CARGAS"
+  },
+  {
+    "id": 16773,
+    "pdm": "BATELOES E CHATAS PARA FINS ESPECIAIS"
+  },
+  {
+    "id": 16774,
+    "pdm": "EMBARCAÇÕES PEQUENAS"
+  },
+  {
+    "id": 16775,
+    "pdm": "PONTÕES E DOCAS FLUTUANTES"
+  },
+  {
+    "id": 16776,
+    "pdm": "DIQUES FLUTUANTES"
+  },
+  {
+    "id": 16777,
+    "pdm": "DRAGAS"
+  },
+  {
+    "id": 16778,
+    "pdm": "EMBARCACOES DIVERSAS"
+  },
+  {
+    "id": 17605,
+    "pdm": "COMPONENTE EMBARCAÇÃO"
+  }
+]
