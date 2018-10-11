@@ -1,38 +1,47 @@
 [
   {
     "id": "09787",
-    "pdm": "MISSIL TELEGUIADO"
+    "pdm": "MISSIL TELEGUIADO",
+    "grupo": "14"
   },
   {
     "id": 16725,
-    "pdm": "MÕSSEIS GUIADOS"
+    "pdm": "M√çSSEIS GUIADOS",
+    "grupo": "14"
   },
   {
     "id": 16726,
-    "pdm": "COMPONENTES DE MÕSSEIS GUIADOS"
+    "pdm": "COMPONENTES DE M√çSSEIS GUIADOS",
+    "grupo": "14"
   },
   {
     "id": 16727,
-    "pdm": "SISTEMAS COMPLETOS DE MÕSSEIS GUIADOS"
+    "pdm": "SISTEMAS COMPLETOS DE M√çSSEIS GUIADOS",
+    "grupo": "14"
   },
   {
     "id": 16728,
-    "pdm": "SUBSISTEMAS DE MÕSSEIS GUIADOS"
+    "pdm": "SUBSISTEMAS DE M√çSSEIS GUIADOS",
+    "grupo": "14"
   },
   {
     "id": 16729,
-    "pdm": "SISTEMA DE CONTROLE REMOTO DE MÕSSEIS GUIADOS"
+    "pdm": "SISTEMA DE CONTROLE REMOTO DE M√çSSEIS GUIADOS",
+    "grupo": "14"
   },
   {
     "id": 16730,
-    "pdm": "LAN«ADORES DE MÕSSEIS GUIADOS"
+    "pdm": "LAN√áADORES DE M√çSSEIS GUIADOS",
+    "grupo": "14"
   },
   {
     "id": 16731,
-    "pdm": "EQUIPAMENTO PARA MANUSEIO DE MANUTEN«√O DE MÕSSEIS GUIADOS"
+    "pdm": "EQUIPAMENTO PARA MANUSEIO DE MANUTEN√á√ÉO DE M√çSSEIS GUIADOS",
+    "grupo": "14"
   },
   {
     "id": 16732,
-    "pdm": "MISSEIS GUIADOS DIVERSOS"
+    "pdm": "MISSEIS GUIADOS DIVERSOS",
+    "grupo": "14"
   }
 ]
