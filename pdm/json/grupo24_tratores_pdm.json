@@ -1,0 +1,62 @@
+[
+  {
+    "id": "09863",
+    "pdm": "MOLA PARA TRATOR DE RODA",
+    "grupo": "24"
+  },
+  {
+    "id": 12930,
+    "pdm": "TRATOR COM SUSPENSAO ARTICULADA",
+    "grupo": "24"
+  },
+  {
+    "id": 12931,
+    "pdm": "TRATOR DE ALTA VELOCIDADE",
+    "grupo": "24"
+  },
+  {
+    "id": 12933,
+    "pdm": "TRATOR DE BAIXA VELOCIDADE",
+    "grupo": "24"
+  },
+  {
+    "id": 12934,
+    "pdm": "TRATOR DE ESTEIRA",
+    "grupo": "24"
+  },
+  {
+    "id": 12936,
+    "pdm": "TRATOR",
+    "grupo": "24"
+  },
+  {
+    "id": 12937,
+    "pdm": "TRATOR FLORESTAL",
+    "grupo": "24"
+  },
+  {
+    "id": 12938,
+    "pdm": "TRATOR INDUSTRIAL",
+    "grupo": "24"
+  },
+  {
+    "id": 12940,
+    "pdm": "TRATOR TERRAPLENAGEM - PEÇA / ACESSÓRIO",
+    "grupo": "24"
+  },
+  {
+    "id": 16798,
+    "pdm": "TRATORES DE LAGARTA DE BAIXA VELOCIDADE",
+    "grupo": "24"
+  },
+  {
+    "id": 16799,
+    "pdm": "TRATORES SOBRE RODAS",
+    "grupo": "24"
+  },
+  {
+    "id": 16800,
+    "pdm": "TRATORES DE ALTA VELOCIDADE SOBRE LAGARTAS",
+    "grupo": "24"
+  }
+]
