@@ -1,1 +1,8502 @@
 
+[{
+		"id": "01290",
+		"pdm": "SOQUETE ARMA DE FOGO",
+		"grupo": 10
+	},
+	{
+		"id": "01291",
+		"pdm": "SOQUETE ARMA DE FOGO",
+		"grupo": 10
+	},
+	{
+		"id": "01712",
+		"pdm": "PEÇAS / ACESSÓRIOS ARMAMENTO",
+		"grupo": 10
+	},
+	{
+		"id": "02994",
+		"pdm": "ARMA DE FOGO - EMPUNHÁVEL - MÉDIO PORTE",
+		"grupo": 10
+	},
+	{
+		"id": "02995",
+		"pdm": "ARMA DE FOGO DE PEQUENO PORTE - REVÓLVER / PISTOLA",
+		"grupo": 10
+	},
+	{
+		"id": "03204",
+		"pdm": "BAINHA FACÃO CAÇA",
+		"grupo": 10
+	},
+	{
+		"id": "04050",
+		"pdm": "CABO PARA ARMA DE FOGO",
+		"grupo": 10
+	},
+	{
+		"id": "04419",
+		"pdm": "PEÇAS / COMPONENTES CANHÃO",
+		"grupo": 10
+	},
+	{
+		"id": "04570",
+		"pdm": "CARREGADOR PARA MUNIÇÃO",
+		"grupo": 10
+	},
+	{
+		"id": "06944",
+		"pdm": "ESCOVA DE LIMPEZA DE ARMA",
+		"grupo": 10
+	},
+	{
+		"id": "07019",
+		"pdm": "ESPINGARDAS PARA CACA SUBMARINA",
+		"grupo": 10
+	},
+	{
+		"id": "07120",
+		"pdm": "ESTEIRAS PARA CARGAS DE PROFUNDIDADE",
+		"grupo": 10
+	},
+	{
+		"id": "07155",
+		"pdm": "ESTOJO DE LIMPEZA DE ARMA",
+		"grupo": 10
+	},
+	{
+		"id": "07282",
+		"pdm": "FACOES DE CACA",
+		"grupo": 10
+	},
+	{
+		"id": "07688",
+		"pdm": "FOLE PARA CANHAO",
+		"grupo": 10
+	},
+	{
+		"id": "07889",
+		"pdm": "FUZIS",
+		"grupo": 10
+	},
+	{
+		"id": "08681",
+		"pdm": "LANCA-CHAMAS",
+		"grupo": 10
+	},
+	{
+		"id": "08686",
+		"pdm": "LANCADORES ADAPTAVEIS PARA EMPREGO DE MISSEIS GUIADOS",
+		"grupo": 10
+	},
+	{
+		"id": "08687",
+		"pdm": "LANCADORES DE CARREGAMENTO SIMPLES PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM",
+		"grupo": 10
+	},
+	{
+		"id": "08688",
+		"pdm": "LANCADORES DE DE TIROS AUTOMATICOS PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM",
+		"grupo": 10
+	},
+	{
+		"id": "08689",
+		"pdm": "LANCADORES DE FOGUETES AEROTRANSPORTADOS",
+		"grupo": 10
+	},
+	{
+		"id": "08690",
+		"pdm": "LANCADORES DE GRANADA DE CARTUCHOS COMPLETO PARA ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATE 75MM",
+		"grupo": 10
+	},
+	{
+		"id": "08691",
+		"pdm": "LANCADORES DE GRANADAS DE CARREGAMENTO AUTOMATICO PARA ARMAS DE FOG DE CALIB ACIMA DE 30MM ATE 75MM",
+		"grupo": 10
+	},
+	{
+		"id": "09520",
+		"pdm": "MECANISMOS DE CULATRA PARA ARMAS DE CALIBRE ACIMA DE 30MM ATE 75MM",
+		"grupo": 10
+	},
+	{
+		"id": "09521",
+		"pdm": "MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 125MM ATE 150MM",
+		"grupo": 10
+	},
+	{
+		"id": "09522",
+		"pdm": "MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 300MM",
+		"grupo": 10
+	},
+	{
+		"id": "09523",
+		"pdm": "MECANISMOS DE CULATRAS PARA ARMAS DE CALIBRE ACIMA DE 75MM ATE 125MM",
+		"grupo": 10
+	},
+	{
+		"id": "09524",
+		"pdm": "MECANISMOS DE INSTRUCAO PARA ARMAS DE CALIBRE ACIMA DE 300MM",
+		"grupo": 10
+	},
+	{
+		"id": "09706",
+		"pdm": "METRALHADORA / COMPONENTE",
+		"grupo": 10
+	},
+	{
+		"id": "09707",
+		"pdm": "METRALHADORAS",
+		"grupo": 10
+	},
+	{
+		"id": 10799,
+		"pdm": "PISTOLA",
+		"grupo": 10
+	},
+	{
+		"id": 10904,
+		"pdm": "PLATAFORMAS DE DISPARO PARA ARMAS DE CALIBRE ACIMA DE 150MM ATE 200MM",
+		"grupo": 10
+	},
+	{
+		"id": 11501,
+		"pdm": "REDE DE NEBLINA",
+		"grupo": 10
+	},
+	{
+		"id": 11529,
+		"pdm": "REFLETORES PARA ARMAS DE CALIBRE ACIMA DE 200MM ATE 300MM",
+		"grupo": 10
+	},
+	{
+		"id": 11747,
+		"pdm": "RIFLES",
+		"grupo": 10
+	},
+	{
+		"id": 11873,
+		"pdm": "SABRE",
+		"grupo": 10
+	},
+	{
+		"id": 12058,
+		"pdm": "SILENCIADOR DE ARMA",
+		"grupo": 10
+	},
+	{
+		"id": 12060,
+		"pdm": "SILENCIADORES",
+		"grupo": 10
+	},
+	{
+		"id": 12073,
+		"pdm": "SIMULADORES DE ARTILHARIA",
+		"grupo": 10
+	},
+	{
+		"id": 12074,
+		"pdm": "SIMULADORES DE VEICULOS",
+		"grupo": 10
+	},
+	{
+		"id": 12075,
+		"pdm": "SIMULADORES DE AERONAVES",
+		"grupo": 10
+	},
+	{
+		"id": 12124,
+		"pdm": "SISTEMA DE LIMPEZA / MANUTENCAO DE MATERIAL BELICO PORTATIL",
+		"grupo": 10
+	},
+	{
+		"id": 12172,
+		"pdm": "COMPONENTE / SOBRESSALENTE USO MILITAR",
+		"grupo": 10
+	},
+	{
+		"id": 12377,
+		"pdm": "SUPORTE DE ARMAS DE CALIBRE ACIMA DE 30MM ATE 75MM",
+		"grupo": 10
+	},
+	{
+		"id": 12409,
+		"pdm": "SUPORTE PARA ARMAS DE CALIBRE ACIMA DE 75MM ATE 125MM",
+		"grupo": 10
+	},
+	{
+		"id": 12430,
+		"pdm": "SUPORTES PARA ARMAS DE CALIBRE ACIMA DE 150MM ATE 200MM",
+		"grupo": 10
+	},
+	{
+		"id": 12505,
+		"pdm": "TAMBORES",
+		"grupo": 10
+	},
+	{
+		"id": 13130,
+		"pdm": "PEÇAS / COMPONENTES TUBOS DE TORPEDOS",
+		"grupo": 10
+	},
+	{
+		"id": 13794,
+		"pdm": "ANEL FERROLHO",
+		"grupo": 10
+	},
+	{
+		"id": 13795,
+		"pdm": "CHAVE FERROLHO",
+		"grupo": 10
+	},
+	{
+		"id": 13796,
+		"pdm": "EXTRATOR CÁPSULA",
+		"grupo": 10
+	},
+	{
+		"id": 13797,
+		"pdm": "TUBO TOMADA GÁS",
+		"grupo": 10
+	},
+	{
+		"id": 13799,
+		"pdm": "REFORÇADOR TIRO FESTIM",
+		"grupo": 10
+	},
+	{
+		"id": 13800,
+		"pdm": "MOLA EJETOR",
+		"grupo": 10
+	},
+	{
+		"id": 13801,
+		"pdm": "EJETOR",
+		"grupo": 10
+	},
+	{
+		"id": 13802,
+		"pdm": "PINO SEGURANÇA MIRA",
+		"grupo": 10
+	},
+	{
+		"id": 13803,
+		"pdm": "PINO TUBO TOMADA GÁS",
+		"grupo": 10
+	},
+	{
+		"id": 13808,
+		"pdm": "MOLA EXTRATOR",
+		"grupo": 10
+	},
+	{
+		"id": 13809,
+		"pdm": "INSERSOR MOLA EXTRATOR",
+		"grupo": 10
+	},
+	{
+		"id": 13810,
+		"pdm": "PERCUSSOR",
+		"grupo": 10
+	},
+	{
+		"id": 14112,
+		"pdm": "MOLA RECUPERADORA",
+		"grupo": 10
+	},
+	{
+		"id": 14115,
+		"pdm": "EMPUNHADURA METRALHADORA",
+		"grupo": 10
+	},
+	{
+		"id": 14123,
+		"pdm": "MOLA PERCUSSOR",
+		"grupo": 10
+	},
+	{
+		"id": 14124,
+		"pdm": "GUARDA-MÃO SUBMETRALHADORA",
+		"grupo": 10
+	},
+	{
+		"id": 14125,
+		"pdm": "BANDOLEIRA",
+		"grupo": 10
+	},
+	{
+		"id": 14129,
+		"pdm": "SUPORTE ROLETE",
+		"grupo": 10
+	},
+	{
+		"id": 14174,
+		"pdm": "FACA OPERAÇÃO TÁTICA",
+		"grupo": 10
+	},
+	{
+		"id": 14928,
+		"pdm": "MOLA ARMADILHA PISTOLA",
+		"grupo": 10
+	},
+	{
+		"id": 14930,
+		"pdm": "CANO PISTOLA",
+		"grupo": 10
+	},
+	{
+		"id": 14934,
+		"pdm": "MERGULHADOR BLOCO TRANCAMENTO",
+		"grupo": 10
+	},
+	{
+		"id": 14981,
+		"pdm": "BLOCO TRANCAMENTO",
+		"grupo": 10
+	},
+	{
+		"id": 14983,
+		"pdm": "TIRANTE GATILHO",
+		"grupo": 10
+	},
+	{
+		"id": 14985,
+		"pdm": "MOLA TIRANTE GATILHO",
+		"grupo": 10
+	},
+	{
+		"id": 14986,
+		"pdm": "ARMADILHA",
+		"grupo": 10
+	},
+	{
+		"id": 14988,
+		"pdm": "CÃO",
+		"grupo": 10
+	},
+	{
+		"id": 14990,
+		"pdm": "IMPULSOR TRAVA PERCUSSOR",
+		"grupo": 10
+	},
+	{
+		"id": 14991,
+		"pdm": "MOLA GATILHO",
+		"grupo": 10
+	},
+	{
+		"id": 14992,
+		"pdm": "MOLA RETÉM FERROLHO",
+		"grupo": 10
+	},
+	{
+		"id": 14995,
+		"pdm": "MOLA MERGULHADOR REGISTRO SEGURANÇA",
+		"grupo": 10
+	},
+	{
+		"id": 14996,
+		"pdm": "FUNDO CARREGADOR",
+		"grupo": 10
+	},
+	{
+		"id": 14998,
+		"pdm": "PLACA PUNHO",
+		"grupo": 10
+	},
+	{
+		"id": 14999,
+		"pdm": "PARAFUSO PLACA PUNHO",
+		"grupo": 10
+	},
+	{
+		"id": 15001,
+		"pdm": "BUCHA PLACA PUNHO",
+		"grupo": 10
+	},
+	{
+		"id": 15002,
+		"pdm": "CARREGADOR MUNIÇÃO",
+		"grupo": 10
+	},
+	{
+		"id": 15003,
+		"pdm": "ESTOJO PORTA CARREGADOR",
+		"grupo": 10
+	},
+	{
+		"id": 15007,
+		"pdm": "MOLA CÃO",
+		"grupo": 10
+	},
+	{
+		"id": 15115,
+		"pdm": "MOLA REGISTRO SEGURANÇA PISTOLA",
+		"grupo": 10
+	},
+	{
+		"id": 15130,
+		"pdm": "BUCHA DA PLACA PUNHO ESQUERDO",
+		"grupo": 10
+	},
+	{
+		"id": 15402,
+		"pdm": "KIT CONVERSÃO",
+		"grupo": 10
+	},
+	{
+		"id": 15404,
+		"pdm": "CONJUNTO CONVERSÃO MUNIÇÃO",
+		"grupo": 10
+	},
+	{
+		"id": 15813,
+		"pdm": "PERCINTA",
+		"grupo": 10
+	},
+	{
+		"id": 16109,
+		"pdm": "ESTOJO LIMPEZA ARMAMENTO",
+		"grupo": 10
+	},
+	{
+		"id": 16657,
+		"pdm": "ARMA NÃO LETAL",
+		"grupo": 10
+	},
+	{
+		"id": 16658,
+		"pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 30MM ATÉ 75MM",
+		"grupo": 10
+	},
+	{
+		"id": 16659,
+		"pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 75MM ATÉ 125MM",
+		"grupo": 10
+	},
+	{
+		"id": 16660,
+		"pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 125MM ATÉ 150MM",
+		"grupo": 10
+	},
+	{
+		"id": 16661,
+		"pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 150MM ATÉ 200MM",
+		"grupo": 10
+	},
+	{
+		"id": 16662,
+		"pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 200MM ATÉ 300MM",
+		"grupo": 10
+	},
+	{
+		"id": 16663,
+		"pdm": "ARMAS DE FOGO DE CALIBRE ACIMA DE 300MM",
+		"grupo": 10
+	},
+	{
+		"id": 16664,
+		"pdm": "ARMAMENTO E EQUIPAMENTOS DE GUERRA QUÍMICA",
+		"grupo": 10
+	},
+	{
+		"id": 16665,
+		"pdm": "LANÇADORES DE TORPEDOS E DE BOMBAS DE PROFUNDIDADE",
+		"grupo": 10
+	},
+	{
+		"id": 16666,
+		"pdm": "LANÇADORES DE FOGUETES E PIROTÉCNICOS",
+		"grupo": 10
+	},
+	{
+		"id": 16667,
+		"pdm": "REDES SUBMARINAS DE DEFESA DE PORTOS",
+		"grupo": 10
+	},
+	{
+		"id": 16668,
+		"pdm": "EQUIPAMENTOS DE DESMAGNETIZAÇÃO E DE VARREDURA DE MINAS",
+		"grupo": 10
+	},
+	{
+		"id": 16669,
+		"pdm": "ACESSÓRIO/EQUIPAMENTO CAMUFLAGEM E DISSIMULAÇÃO",
+		"grupo": 10
+	},
+	{
+		"id": 16670,
+		"pdm": "CONJUNTOS INTERCAMBIÁVEIS DE DUAS OU MAIS CLASSES",
+		"grupo": 10
+	},
+	{
+		"id": 17586,
+		"pdm": "ANEL VEDAÇÃO ARMAMENTO",
+		"grupo": 10
+	},
+	{
+		"id": 17587,
+		"pdm": "PARAFUSO ARMAMENTO",
+		"grupo": 10
+	},
+	{
+		"id": 17996,
+		"pdm": "ESPARGIDOR DEFENSIVO",
+		"grupo": 10
+	},
+	{
+		"id": 18369,
+		"pdm": "PORCA ARMAMENTO",
+		"grupo": 10
+	},
+	{
+		"id": "06861",
+		"pdm": "EQUIPAMENTOS OPERACIONAIS DE REGULAGEM DE ARMAMENTO NUCLEAR",
+		"grupo": 11
+	},
+	{
+		"id": "07026",
+		"pdm": "ESPOLETA DE DISPARO",
+		"grupo": 11
+	},
+	{
+		"id": "07034",
+		"pdm": "ESPOLETAS",
+		"grupo": 11
+	},
+	{
+		"id": "07194",
+		"pdm": "ESTROPOS PARA ARMAMENTO NUCLEAR",
+		"grupo": 11
+	},
+	{
+		"id": "07722",
+		"pdm": "FONTES DE ENERGIA PARA DETONACAO E DISPARO",
+		"grupo": 11
+	},
+	{
+		"id": 11469,
+		"pdm": "REBOQUES ESPECIAIS PARA ARMAMENTO NUCLEAR",
+		"grupo": 11
+	},
+	{
+		"id": 11970,
+		"pdm": "SECOES DE BASE",
+		"grupo": 11
+	},
+	{
+		"id": 11971,
+		"pdm": "SECOES DE CARCACAS",
+		"grupo": 11
+	},
+	{
+		"id": 11972,
+		"pdm": "SECOES DE CORPO",
+		"grupo": 11
+	},
+	{
+		"id": 11973,
+		"pdm": "SECOES DE OGIVAS",
+		"grupo": 11
+	},
+	{
+		"id": 12167,
+		"pdm": "SISTEMAS DE ARMAR E DETONAR VEICULOS ESPACIAIS NUCLEARES DE REENTRADA",
+		"grupo": 11
+	},
+	{
+		"id": 12429,
+		"pdm": "SUPORTES PARA ARMAMENTO NUCLEAR",
+		"grupo": 11
+	},
+	{
+		"id": 13195,
+		"pdm": "UNIDADES CONSUMIVEIS DE DETONACAO E DISPARO DE ARMAS NUCLEARES",
+		"grupo": 11
+	},
+	{
+		"id": 16672,
+		"pdm": "BOMBAS NUCLEARES",
+		"grupo": 11
+	},
+	{
+		"id": 16673,
+		"pdm": "PROJÉTEIS NUCLEARES",
+		"grupo": 11
+	},
+	{
+		"id": 16674,
+		"pdm": "OGIVAS NUCLEARES E SEÇÕES DE OGIVAS NUCLEARES",
+		"grupo": 11
+	},
+	{
+		"id": 16675,
+		"pdm": "BOMBAS NUCLEARES DE PROFUNDIDADE",
+		"grupo": 11
+	},
+	{
+		"id": 16676,
+		"pdm": "CARGAS NUCLEARES DE DEMOLIÇÃO",
+		"grupo": 11
+	},
+	{
+		"id": 16677,
+		"pdm": "FOGUETES NUCLEARES",
+		"grupo": 11
+	},
+	{
+		"id": 16678,
+		"pdm": "CONJUNTOS DE CONVERSÃO PARA ARMAMENTO NUCLEAR",
+		"grupo": 11
+	},
+	{
+		"id": 16679,
+		"pdm": "DISPOSITIVOS DE DETONAÇÃO E DISPARO DE ARMAMENTO NUCLEAR",
+		"grupo": 11
+	},
+	{
+		"id": 16680,
+		"pdm": "COMPONENTES NUCLEARES",
+		"grupo": 11
+	},
+	{
+		"id": 16681,
+		"pdm": "COMPONENTES EXPLOSIVOS E PIROTÉCNICOS DE ARMAMENTO NUCLEAR",
+		"grupo": 11
+	},
+	{
+		"id": 16682,
+		"pdm": "EQUIPAMENTO ESPECIALIZADO DE MANUSEIO E ENSAIO DE ARMAMENTONUCLEAR",
+		"grupo": 11
+	},
+	{
+		"id": 16683,
+		"pdm": "MATERIAL BÉLICO NUCLEAR DIVERSOS",
+		"grupo": 11
+	},
+	{
+		"id": "08420",
+		"pdm": "INSTRUMENTO OTICO PARA CONTROLE DE BOMBARDEIO",
+		"grupo": 12
+	},
+	{
+		"id": "08425",
+		"pdm": "INSTRUMENTOS OTICOS ACOPLADOS A EQUIPAMENTOS DE CONTROLE DE TIRO DE EMBARCACOES",
+		"grupo": 12
+	},
+	{
+		"id": "09519",
+		"pdm": "MECANISMO GIROSCOPICO COMPLETO",
+		"grupo": 12
+	},
+	{
+		"id": "09570",
+		"pdm": "MEDIDORES DE ALTURA PARA EMBARCACOES",
+		"grupo": 12
+	},
+	{
+		"id": "09571",
+		"pdm": "MEDIDORES DE DISTANCIA PARA EMBARCACOES",
+		"grupo": 12
+	},
+	{
+		"id": 10674,
+		"pdm": "PERISCÓPIO",
+		"grupo": 12
+	},
+	{
+		"id": 13462,
+		"pdm": "VISORES TELESCOPICOS PARA EMBARCACOES",
+		"grupo": 12
+	},
+	{
+		"id": 13712,
+		"pdm": "DISCO LINHA GALTON",
+		"grupo": 12
+	},
+	{
+		"id": 16260,
+		"pdm": "RETICULO CONTAGEM LINHA",
+		"grupo": 12
+	},
+	{
+		"id": 16684,
+		"pdm": "DIRETORAS DE CONTROLE DE TIRO",
+		"grupo": 12
+	},
+	{
+		"id": 16685,
+		"pdm": "DISPOSITIVOS E CORRETORES DE CONTROLE DE TIRO",
+		"grupo": 12
+	},
+	{
+		"id": 16686,
+		"pdm": "SISTEMAS COMPLETOS DE CONTROLE DE TIRO",
+		"grupo": 12
+	},
+	{
+		"id": 16687,
+		"pdm": "EQUIPAMENTOS ÓTICOS DE VISADA E MEDIÇÃO DE DISTÂNCIA",
+		"grupo": 12
+	},
+	{
+		"id": 16688,
+		"pdm": "MECANISMOS DE ESTABILIZAÇÃO E CONTROLE DE TIRO",
+		"grupo": 12
+	},
+	{
+		"id": 16689,
+		"pdm": "EQUIPAMENTO DE DESIGNAÇÃO E INDICAÇÃO DE CONTROLE DE TIRO",
+		"grupo": 12
+	},
+	{
+		"id": 16690,
+		"pdm": "EQUIPAMENTO DE RECEPÇÃO E TRANSMISSÃO DE CONTROLE DE TIRO(EXCETO DE AERONAVE)",
+		"grupo": 12
+	},
+	{
+		"id": 16691,
+		"pdm": "COMPONENTES DE CONTROLE DE TIRO DE AERONAVES",
+		"grupo": 12
+	},
+	{
+		"id": 16692,
+		"pdm": "COMPONENTES DE CONTROLE DE TIRO EM AERONAVES DE BOMBARDEIO",
+		"grupo": 12
+	},
+	{
+		"id": 16693,
+		"pdm": "EQUIPAMENTO RADAR DE CONTROLE DE TIRO (EXCETO DE AERONAVES)",
+		"grupo": 12
+	},
+	{
+		"id": 16694,
+		"pdm": "EQUIPAMENTO SONAR DE CONTROLE DE TIRO",
+		"grupo": 12
+	},
+	{
+		"id": 16695,
+		"pdm": "EQUIPAMENTOS DIVERSOS DE CONTROLE DE TIRO",
+		"grupo": 12
+	},
+	{
+		"id": 16696,
+		"pdm": "EQUIPAMENTO DE CONTROLE DE TIRO DIVERSOS",
+		"grupo": 12
+	},
+	{
+		"id": "02043",
+		"pdm": "ACIONADOR ESPOLETA",
+		"grupo": 13
+	},
+	{
+		"id": "02990",
+		"pdm": "ARGOLA COM DESTORCEDOR - BOMBA INCENDIARIA / BOMBA FINS GERAIS ( BINC / BFG )",
+		"grupo": 13
+	},
+	{
+		"id": "03746",
+		"pdm": "BOMBA DE ARRASTO - FINS GERAIS ( BA - FG )",
+		"grupo": 13
+	},
+	{
+		"id": "03759",
+		"pdm": "BOMBA EXERCÍCIO DE TIRO",
+		"grupo": 13
+	},
+	{
+		"id": "03773",
+		"pdm": "BOMBA EXERCICIO ( BEX )",
+		"grupo": 13
+	},
+	{
+		"id": "03778",
+		"pdm": "BOMBA INCENDIARIA ( BINC )",
+		"grupo": 13
+	},
+	{
+		"id": "03978",
+		"pdm": "CABEÇA DE EXERCÍCIO INERTE ( CAB - EX IN )",
+		"grupo": 13
+	},
+	{
+		"id": "03979",
+		"pdm": "CABEÇA DE GUERRA / ANTI - CARRO ( CAB - AC )",
+		"grupo": 13
+	},
+	{
+		"id": "03980",
+		"pdm": "CABEÇA DE GUERRA / ANTI - PESSOAL ( CAB - AP )",
+		"grupo": 13
+	},
+	{
+		"id": "03981",
+		"pdm": "CABECA DE GUERRA / SINALIZADORA",
+		"grupo": 13
+	},
+	{
+		"id": "04625",
+		"pdm": "CARRO TRANSPORTE E INSTALACAO DE BOMBA ( CAR - TIB )",
+		"grupo": 13
+	},
+	{
+		"id": "04670",
+		"pdm": "CARTUCHO PIROTECNICO - TREINAMENTO",
+		"grupo": 13
+	},
+	{
+		"id": "04970",
+		"pdm": "CHUMBINHO ARMA PRESSÃO",
+		"grupo": 13
+	},
+	{
+		"id": "05081",
+		"pdm": "CLIPS - BOMBA INCENDIARIA / BOMBA FINS GERAIS",
+		"grupo": 13
+	},
+	{
+		"id": "05460",
+		"pdm": "COMPONENTE MUNIÇÃO GRANADA",
+		"grupo": 13
+	},
+	{
+		"id": "05461",
+		"pdm": "COMPONENTE MUNICAO DE 75MM ATE 125MM",
+		"grupo": 13
+	},
+	{
+		"id": "05870",
+		"pdm": "CORDEL DETONANTE EXPLOSIVO",
+		"grupo": 13
+	},
+	{
+		"id": "06617",
+		"pdm": "EQUIPAMENTO ( KIT ) REMOCAO EXPLOSIVO",
+		"grupo": 13
+	},
+	{
+		"id": "07025",
+		"pdm": "ESPOLETA CAUDA MECANICA / BOMBA FINS GERAIS ( ECM - BFG )",
+		"grupo": 13
+	},
+	{
+		"id": "07027",
+		"pdm": "ESPOLETA OGIVA MECANICA / ANTI - CARRO ( EOM - FAC )",
+		"grupo": 13
+	},
+	{
+		"id": "07028",
+		"pdm": "ESPOLETA OGIVA MECANICA / ANTI - PESSOAL ( EOM - FAP )",
+		"grupo": 13
+	},
+	{
+		"id": "07029",
+		"pdm": "ESPOLETA OGIVA MECANICA / BOMBA FINS GERAIS ( EOM - BFG )",
+		"grupo": 13
+	},
+	{
+		"id": "07030",
+		"pdm": "ESPOLETA OGIVA MECANICA / BOMBA INCENDIARIA ( EOM - BINC )",
+		"grupo": 13
+	},
+	{
+		"id": "07031",
+		"pdm": "ESPOLETA SIMPLES + ESTOPIM ( ESPOLETADO ) - DETONACAO DE EXPLOSIVO",
+		"grupo": 13
+	},
+	{
+		"id": "07032",
+		"pdm": "ESPOLETA SIMPLES COM RETARDO / DETONACAO DE EXPLO-SIVO",
+		"grupo": 13
+	},
+	{
+		"id": "07033",
+		"pdm": "ESPOLETA SIMPLES PARA DETONACAO DE EXPLOSIVO",
+		"grupo": 13
+	},
+	{
+		"id": "07035",
+		"pdm": "ESPOLETAS DE DETONACAO",
+		"grupo": 13
+	},
+	{
+		"id": "07036",
+		"pdm": "ESPOLETAS DE SEGURANCA",
+		"grupo": 13
+	},
+	{
+		"id": "07037",
+		"pdm": "ESPOLETAS SISMOGRAFICAS",
+		"grupo": 13
+	},
+	{
+		"id": "07245",
+		"pdm": "EXPLOSIVO INDUSTRIAL/EXPLOSIVO DIVERSOS",
+		"grupo": 13
+	},
+	{
+		"id": "07681",
+		"pdm": "FOGOS DE ARTIFICIO",
+		"grupo": 13
+	},
+	{
+		"id": "07684",
+		"pdm": "FOGUETE AR TERRA - TREINAMENTO",
+		"grupo": 13
+	},
+	{
+		"id": "08079",
+		"pdm": "GRANADA",
+		"grupo": 13
+	},
+	{
+		"id": "08080",
+		"pdm": "GRANADAS DE GAS LACRIMOGENIO",
+		"grupo": 13
+	},
+	{
+		"id": "08081",
+		"pdm": "GRANADAS FUMIGENAS",
+		"grupo": 13
+	},
+	{
+		"id": "08082",
+		"pdm": "GRANADAS INCENDIARIAS",
+		"grupo": 13
+	},
+	{
+		"id": "08684",
+		"pdm": "LANCADOR DE FOGUETE - TREINAMENTO",
+		"grupo": 13
+	},
+	{
+		"id": "08685",
+		"pdm": "PEÇAS/COMPONENTES - LANÇADOR MÚLTIPLO DE FOGUETE",
+		"grupo": 13
+	},
+	{
+		"id": 10020,
+		"pdm": "MUNIÇÃO ARMA DE FOGO EMPUNHÁVEL - MÉDIO PORTE",
+		"grupo": 13
+	},
+	{
+		"id": 10021,
+		"pdm": "MUNIÇÃO ARMA DE FOGO EMPUNHÁVEL - PEQUENO PORTE",
+		"grupo": 13
+	},
+	{
+		"id": 10159,
+		"pdm": "OGIVA BELICA",
+		"grupo": 13
+	},
+	{
+		"id": 10160,
+		"pdm": "OGIVA PARA FOGUETE - TREINAMENTO",
+		"grupo": 13
+	},
+	{
+		"id": 10990,
+		"pdm": "POLVORA",
+		"grupo": 13
+	},
+	{
+		"id": 11255,
+		"pdm": "PROJÉTIL NÃO LETAL",
+		"grupo": 13
+	},
+	{
+		"id": 12070,
+		"pdm": "SIMULACRO GRANADA",
+		"grupo": 13
+	},
+	{
+		"id": 13869,
+		"pdm": "ESCUDO PLACA",
+		"grupo": 13
+	},
+	{
+		"id": 13870,
+		"pdm": "ESCUDO SUPORTE",
+		"grupo": 13
+	},
+	{
+		"id": 13871,
+		"pdm": "CONJUNTO DIES",
+		"grupo": 13
+	},
+	{
+		"id": 15401,
+		"pdm": "MUNIÇÃO TREINAMENTO",
+		"grupo": 13
+	},
+	{
+		"id": 15549,
+		"pdm": "PROJÉTIL MUNIÇÃO ARMA FOGO",
+		"grupo": 13
+	},
+	{
+		"id": 16262,
+		"pdm": "PROJETIL E COMPONENTES MUNIÇÃO ATÉ 30MM",
+		"grupo": 13
+	},
+	{
+		"id": 16697,
+		"pdm": "MUNIÇÃO DE CALIBRE ATÉ 30 MM",
+		"grupo": 13
+	},
+	{
+		"id": 16698,
+		"pdm": "MUNIÇÃO DE CALIBRE ACIMA DE 30 MM ATÉ 75 MM",
+		"grupo": 13
+	},
+	{
+		"id": 16699,
+		"pdm": "MUNIÇÃO DE CALIBRE ACIMA DE 75MM ATÉE 125MM",
+		"grupo": 13
+	},
+	{
+		"id": 16700,
+		"pdm": "MUNIÇÃO DE CALIBRE ACIMA DE 125 MM",
+		"grupo": 13
+	},
+	{
+		"id": 16701,
+		"pdm": "BOMBAS",
+		"grupo": 13
+	},
+	{
+		"id": 16702,
+		"pdm": "GRANADAS",
+		"grupo": 13
+	},
+	{
+		"id": 16703,
+		"pdm": "OGIVAS E COMPONENTES EXPLOSIVOS DE MISSEIS GUIADOS",
+		"grupo": 13
+	},
+	{
+		"id": 16704,
+		"pdm": "UNIDADES DE PROPULSAO EXPLOSIVA A COMBUSTIVEL SOLIDO DE VEICULOS ESPACIAIS E MISSEIS GUIADOS E SEUS",
+		"grupo": 13
+	},
+	{
+		"id": 16705,
+		"pdm": "UNIDADES DE PROPULSAO INERTES A COMBUSTIVEL SOLIDO DE VEICULOS ESPACIAIS E MISSEIS GUIADOS E SEUS CO",
+		"grupo": 13
+	},
+	{
+		"id": 16706,
+		"pdm": "ROJÕES. FOGUETES. MUNIÇÃO E COMPONENTES",
+		"grupo": 13
+	},
+	{
+		"id": 16707,
+		"pdm": "MINAS TERRESTRES",
+		"grupo": 13
+	},
+	{
+		"id": 16708,
+		"pdm": "COMPONENTES INERTES DE MINA SUBMARINA",
+		"grupo": 13
+	},
+	{
+		"id": 16709,
+		"pdm": "COMPONENTES EXPLOSIVOS DE MINAS SUBMARINAS",
+		"grupo": 13
+	},
+	{
+		"id": 16710,
+		"pdm": "COMPONENTES INERTES DE TORPEDOS",
+		"grupo": 13
+	},
+	{
+		"id": 16711,
+		"pdm": "COMPONENTES EXPLOSIVOS DE TORPEDOS",
+		"grupo": 13
+	},
+	{
+		"id": 16712,
+		"pdm": "COMPONENTES INERTES DE CARGAS DE PROFUNDIDADE",
+		"grupo": 13
+	},
+	{
+		"id": 16713,
+		"pdm": "COMPONENTES EXPLOSIVOS DE BOMBAS DE PROFUNDIDADE",
+		"grupo": 13
+	},
+	{
+		"id": 16715,
+		"pdm": "PIROTECNICOS",
+		"grupo": 13
+	},
+	{
+		"id": 16716,
+		"pdm": "MATERIAIS DE DEMOLIÇÃO",
+		"grupo": 13
+	},
+	{
+		"id": 16717,
+		"pdm": "EXPLOSIVOS A GRANEL",
+		"grupo": 13
+	},
+	{
+		"id": 16718,
+		"pdm": "DISPOSITIVOS ACIONADOS POR PROPELENTES E CARTUCHOS",
+		"grupo": 13
+	},
+	{
+		"id": 16719,
+		"pdm": "AGENTES BIOLOGICOS DE USO MILITAR",
+		"grupo": 13
+	},
+	{
+		"id": 16720,
+		"pdm": "EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE EXPLOSIVO NA SU-PERFÍCIE",
+		"grupo": 13
+	},
+	{
+		"id": 16721,
+		"pdm": "EQUIPAMENTOS E FERRAMENTAS PARA MANUSEIO DE EXPLOSIVO SUB-MERSO",
+		"grupo": 13
+	},
+	{
+		"id": 16722,
+		"pdm": "ESPOLETAS E ESTOPILHAS",
+		"grupo": 13
+	},
+	{
+		"id": 16723,
+		"pdm": "COMPONENTES DIVERSOS DE MUNIÇÃO",
+		"grupo": 13
+	},
+	{
+		"id": 16724,
+		"pdm": "EQUIPAMENTOS ESPECIALIZADOS PARA MANUSEIO E CONSERVACAO DE MUNICAO",
+		"grupo": 13
+	},
+	{
+		"id": 17373,
+		"pdm": "MUNIÇÕES DE CONTROLE À DISTÂNCIA",
+		"grupo": 13
+	},
+	{
+		"id": 17374,
+		"pdm": "DISPOSITIVOS INERTES DE MINAS SUBAQUÁTICAS",
+		"grupo": 13
+	},
+	{
+		"id": 17375,
+		"pdm": "DISPOSITIVOS EXPLOSIVOS DE MINAS SUBAQUÁTICAS",
+		"grupo": 13
+	},
+	{
+		"id": 17376,
+		"pdm": "CONJUNTOS E EQUIPAMENTOS TÁTICOS",
+		"grupo": 13
+	},
+	{
+		"id": "09787",
+		"pdm": "MISSIL TELEGUIADO",
+		"grupo": 14
+	},
+	{
+		"id": 16725,
+		"pdm": "MÍSSEIS GUIADOS",
+		"grupo": 14
+	},
+	{
+		"id": 16726,
+		"pdm": "COMPONENTES DE MÍSSEIS GUIADOS",
+		"grupo": 14
+	},
+	{
+		"id": 16727,
+		"pdm": "SISTEMAS COMPLETOS DE MÍSSEIS GUIADOS",
+		"grupo": 14
+	},
+	{
+		"id": 16728,
+		"pdm": "SUBSISTEMAS DE MÍSSEIS GUIADOS",
+		"grupo": 14
+	},
+	{
+		"id": 16729,
+		"pdm": "SISTEMA DE CONTROLE REMOTO DE MÍSSEIS GUIADOS",
+		"grupo": 14
+	},
+	{
+		"id": 16730,
+		"pdm": "LANÇADORES DE MÍSSEIS GUIADOS",
+		"grupo": 14
+	},
+	{
+		"id": 16731,
+		"pdm": "EQUIPAMENTO PARA MANUSEIO DE MANUTENÇÃO DE MÍSSEIS GUIADOS",
+		"grupo": 14
+	},
+	{
+		"id": 16732,
+		"pdm": "MISSEIS GUIADOS DIVERSOS",
+		"grupo": 14
+	},
+	{
+		"id": "02137",
+		"pdm": "PEÇAS / ACESSÓRIOS AEROMODELO",
+		"grupo": 15
+	},
+	{
+		"id": "03161",
+		"pdm": "AVIÃO",
+		"grupo": 15
+	},
+	{
+		"id": "08134",
+		"pdm": "GUIAS DE CABOS PARA AERONAVES",
+		"grupo": 15
+	},
+	{
+		"id": "08184",
+		"pdm": "HELICÓPTERO",
+		"grupo": 15
+	},
+	{
+		"id": 10522,
+		"pdm": "PEÇA / COMPONENTE - AEROMODELO",
+		"grupo": 15
+	},
+	{
+		"id": 10572,
+		"pdm": "PEÇAS ESPECIAIS DE AERONAVES",
+		"grupo": 15
+	},
+	{
+		"id": 10713,
+		"pdm": "PILONES",
+		"grupo": 15
+	},
+	{
+		"id": 10878,
+		"pdm": "PLANADORES COMPLETOS",
+		"grupo": 15
+	},
+	{
+		"id": 12168,
+		"pdm": "SISTEMAS DE ESCAPAMENTO DE AERONAVES",
+		"grupo": 15
+	},
+	{
+		"id": 12428,
+		"pdm": "SUPORTES ESPECIAIS PARA AERONAVES",
+		"grupo": 15
+	},
+	{
+		"id": 12544,
+		"pdm": "TANQUES AUXILIARES DE COMBUSTIVEL DE AERONAVES",
+		"grupo": 15
+	},
+	{
+		"id": 12545,
+		"pdm": "TANQUES DE COMBUSTIVEIS DE AERONAVES",
+		"grupo": 15
+	},
+	{
+		"id": 12546,
+		"pdm": "TANQUES DE COMBUSTIVEL FIXO DE AERONAVES",
+		"grupo": 15
+	},
+	{
+		"id": 16733,
+		"pdm": "AERONAVES",
+		"grupo": 15
+	},
+	{
+		"id": 16734,
+		"pdm": "AERONAVES DE ASAS FIXAS",
+		"grupo": 15
+	},
+	{
+		"id": 16735,
+		"pdm": "HELICES DE AERONAVES E COMPONENTES",
+		"grupo": 15
+	},
+	{
+		"id": 16736,
+		"pdm": "AERONAVES DE ASAS ROTATIVAS - HELICOPTEROS E ASSEMELHADOS",
+		"grupo": 15
+	},
+	{
+		"id": 16737,
+		"pdm": "COMPONENTES DE SISTEMA DE FREIOS E RODAS",
+		"grupo": 15
+	},
+	{
+		"id": 16738,
+		"pdm": "COMPONENTES DE SISTEMA HIDRAULICO. DE VACUO E DEGELAMENTO",
+		"grupo": 15
+	},
+	{
+		"id": 16739,
+		"pdm": "COMPONENTE DE SISTEMAS DE CONDICIONAMENTO DE AR. DO AQUECIMENTO E DE PRESSURIZACAO",
+		"grupo": 15
+	},
+	{
+		"id": 16740,
+		"pdm": "PLANADORES",
+		"grupo": 15
+	},
+	{
+		"id": 16741,
+		"pdm": "AERONAVES TELEGUIADAS",
+		"grupo": 15
+	},
+	{
+		"id": 16742,
+		"pdm": "COMPONENTES ESTRUTURAIS DE AERONAVES",
+		"grupo": 15
+	},
+	{
+		"id": 16743,
+		"pdm": "AERONAVES E COMPONENTES ESTRUTURAIS DIVERSOS",
+		"grupo": 15
+	},
+	{
+		"id": "03860",
+		"pdm": "BRACO DE SUSTENCAO - AERONAVE",
+		"grupo": 16
+	},
+	{
+		"id": "07062",
+		"pdm": "ESQUIS DE FREIO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": "07119",
+		"pdm": "ESTEIRAS DO SISTEMA DE RODAS E FREIO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": "07674",
+		"pdm": "FLUTUADORES DE SISTEMA DE RODAS E FREIO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": "07975",
+		"pdm": "GERADOR DE ELETRICIDADE AUXILIAR DE AERONAVE",
+		"grupo": 16
+	},
+	{
+		"id": "07977",
+		"pdm": "GERADOR DE GAS INERTE DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": "08143",
+		"pdm": "GUINCHOS DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": "08851",
+		"pdm": "LIMPADOR DE PARABRISA ELETRICO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": "08852",
+		"pdm": "LIMPADOR DE PARABRISA HIDRAULICO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": "09415",
+		"pdm": "MASCARAS DE OXIGENIO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": "09815",
+		"pdm": "MOBILIARIO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": "09902",
+		"pdm": "MONTANTES DE TREM DE POUSO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": "09998",
+		"pdm": "MOTORES DO SISTEMA HIDRAULICO. DE VACUO E DEGELO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 10464,
+		"pdm": "PARTES E COMPONENTES DE SISTEMAS DE EXTINTOR DE INCENDIO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 10467,
+		"pdm": "PAS DE HELICES DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 10468,
+		"pdm": "PAS DE ROTORES DE ACIONAMENTO DE HELICOPTEROS",
+		"grupo": 16
+	},
+	{
+		"id": 10677,
+		"pdm": "PERNAS AMORTECEDORAS DE TREM DE POUSO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 11045,
+		"pdm": "PORTA-MAPAS DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 11097,
+		"pdm": "PORTAS DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 11356,
+		"pdm": "QUADRANTE DE CONTROLE DE CARLINGA",
+		"grupo": 16
+	},
+	{
+		"id": 11357,
+		"pdm": "QUADRANTES DE CONTROLE DA CARLINGA DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 11585,
+		"pdm": "REGULADOR DE CABO DE TENSAO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 11603,
+		"pdm": "REGULADORES DE PRESSAO DA CABINA DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 11845,
+		"pdm": "ROTORES DE HELICES DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 11985,
+		"pdm": "SELETORES DE PRESSAO DA CABINA DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 12087,
+		"pdm": "SINCRONIZADORES DE HELICES DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 12118,
+		"pdm": "SISTEMA DE EXTINTOR DE INCENDIO EM AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 12389,
+		"pdm": "SUPORTE DE FIXACAO DE PADIOLAS EM AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 12498,
+		"pdm": "TALHAS DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 12785,
+		"pdm": "TIRANTES DE TREM DE POUSO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 12904,
+		"pdm": "TRANSMISSOES MECANICAS DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 13013,
+		"pdm": "TROCADORES DE CALOR DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 13065,
+		"pdm": "TUBO DE MENSAGEM DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 13120,
+		"pdm": "TUBOS DE ALIVIO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 13121,
+		"pdm": "TUBOS DE RESPIRACAO DE OXIGENIO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 13196,
+		"pdm": "UNIDADES DE FORCA DE HELICES DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 13295,
+		"pdm": "VALVULAS ESPECIFICAS DO SISTEMA DE FREIO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 13378,
+		"pdm": "VENTILADORES DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 13457,
+		"pdm": "VISOR DE REFLEXO - AERONAVE",
+		"grupo": 16
+	},
+	{
+		"id": 13458,
+		"pdm": "VISOR DE SOL DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 16215,
+		"pdm": "JANELA AERONAVE",
+		"grupo": 16
+	},
+	{
+		"id": 16224,
+		"pdm": "PÁRA-BRISA",
+		"grupo": 16
+	},
+	{
+		"id": 16261,
+		"pdm": "PEÇAS E COMPONENTES DA CARENAGEM AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 16744,
+		"pdm": "HELICES DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 16745,
+		"pdm": "PÁS DE ROTOR DE HELICOPTERO. MECANISMOS DE TRANSMISSÃO E COMPONENTES",
+		"grupo": 16
+	},
+	{
+		"id": 16746,
+		"pdm": "COMPONENTES DE TREM DE POUSO DE AERONAVE",
+		"grupo": 16
+	},
+	{
+		"id": 16747,
+		"pdm": "SISTEMAS DE FREIO E DIRECAO DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 16748,
+		"pdm": "COMPONENTES DE SISTEMAS HIDRÁULICOS. DE VÁCUO E DE ANTIGELODE AERONVES",
+		"grupo": 16
+	},
+	{
+		"id": 16749,
+		"pdm": "EQUIPAMENTOS DE AR CONCICIONADO. AQUECIMENTO E PRESSURIZAÇÃODE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 16750,
+		"pdm": "PARAQUEDAS.SISTEMAS DE RECOLHA. DISTRIBUIÇÃO E RECUPERAÇÃO AÉREAS.EQUIPAMENTO DE FIXAÇÃO DE CARGA",
+		"grupo": 16
+	},
+	{
+		"id": 16751,
+		"pdm": "ACESSORIOS E COMPONENTES DIVERSOS DE AERONAVES",
+		"grupo": 16
+	},
+	{
+		"id": 16752,
+		"pdm": "COMPONENTES E ACESSORIOS DE AERONAVES DIVERSOS",
+		"grupo": 16
+	},
+	{
+		"id": 10905,
+		"pdm": "PLATAFORMAS DE MANUTENCAO E ESCADAS DE AERONAVES",
+		"grupo": 17
+	},
+	{
+		"id": 11150,
+		"pdm": "PRE-AQUECEDORES DE MOTOR DE AERONAVES",
+		"grupo": 17
+	},
+	{
+		"id": 11410,
+		"pdm": "RAMPAS DE EMBARQUE E DESEMBARQUE DE PASSAGEIROS DE AERONAVES",
+		"grupo": 17
+	},
+	{
+		"id": 11455,
+		"pdm": "REBOQUE CARRINHOS DE AEROPORTOS",
+		"grupo": 17
+	},
+	{
+		"id": 12941,
+		"pdm": "TRATORES PARA AEROPORTOS",
+		"grupo": 17
+	},
+	{
+		"id": 16753,
+		"pdm": "EQUIPAMENTOS PARA SERVICOS DE AERODROMOS",
+		"grupo": 17
+	},
+	{
+		"id": 16754,
+		"pdm": "EQUIPAMENTOS PARA POUSO DE AERONAVES",
+		"grupo": 17
+	},
+	{
+		"id": 16755,
+		"pdm": "EQUIPAMENTOS PARA LANCAMENTO DE AERONAVES",
+		"grupo": 17
+	},
+	{
+		"id": 16756,
+		"pdm": "EQUIPAMENTOS DE SERVICOS EM TERRA DE AERONAVES",
+		"grupo": 17
+	},
+	{
+		"id": 16757,
+		"pdm": "REBOQUES E TRATORES ESPECIALIZADOS PARA AEROPORTOS",
+		"grupo": 17
+	},
+	{
+		"id": 16758,
+		"pdm": "EQUIPAMENTOS PARA LANCAMENTO. POUSO E MANOBRA DE AERONAVESDIVERSOS",
+		"grupo": 17
+	},
+	{
+		"id": 11953,
+		"pdm": "SATELITE - ESTRUTURA MONTADA / PROPULSOR",
+		"grupo": 18
+	},
+	{
+		"id": 13358,
+		"pdm": "VEICULOS / REBOQUES PARA TRANSPORTE DE VEICULOS ESPACIAIS",
+		"grupo": 18
+	},
+	{
+		"id": 13360,
+		"pdm": "VEICULOS ESPACIAIS COMPLETO MONTADOS / DESMONTADO S",
+		"grupo": 18
+	},
+	{
+		"id": 16759,
+		"pdm": "VEICULOS",
+		"grupo": 18
+	},
+	{
+		"id": 16760,
+		"pdm": "VEICULOS ESPACIAIS (ASTRONAVES)",
+		"grupo": 18
+	},
+	{
+		"id": 16761,
+		"pdm": "COMPONENTES DE VEICULOS ESPACIAIS",
+		"grupo": 18
+	},
+	{
+		"id": 16762,
+		"pdm": "SISTEMAS DE CONTROLE REMOTO DE VEICULOS ESPACIAIS",
+		"grupo": 18
+	},
+	{
+		"id": 16763,
+		"pdm": "LANCADORES DE VEICULOS ESPACIAIS",
+		"grupo": 18
+	},
+	{
+		"id": 16764,
+		"pdm": "EQUIPAMENTOS DE SERVICOS E MANUSEIO DE VEICULOS ESPACIAIS",
+		"grupo": 18
+	},
+	{
+		"id": 16765,
+		"pdm": "EQUIPAMENTOS DE SOBREVIVENCIA NO ESPACO",
+		"grupo": 18
+	},
+	{
+		"id": 16766,
+		"pdm": "VEICULOS ESPACIAIS DIVERSOS",
+		"grupo": 18
+	},
+	{
+		"id": "02358",
+		"pdm": "ALOJAMENTO FLUTUANTE",
+		"grupo": 19
+	},
+	{
+		"id": "03234",
+		"pdm": "BALAO DE BARRAGEM ( MARINHA )",
+		"grupo": 19
+	},
+	{
+		"id": "03328",
+		"pdm": "BARCA ALUMÍNIO",
+		"grupo": 19
+	},
+	{
+		"id": "03329",
+		"pdm": "BARCA FIBRA DE MADEIRA",
+		"grupo": 19
+	},
+	{
+		"id": "03330",
+		"pdm": "BARCA FIBRA DE VIDRO",
+		"grupo": 19
+	},
+	{
+		"id": "03332",
+		"pdm": "BARCA MADEIRA GRANDE PORTE",
+		"grupo": 19
+	},
+	{
+		"id": "03333",
+		"pdm": "BARCA MADEIRA MEDIO PORTE",
+		"grupo": 19
+	},
+	{
+		"id": "03334",
+		"pdm": "BARCA MADEIRA PEQUENO PORTE",
+		"grupo": 19
+	},
+	{
+		"id": "03335",
+		"pdm": "BARCA METALICA GRANDE PORTE",
+		"grupo": 19
+	},
+	{
+		"id": "03336",
+		"pdm": "BARCA METALICA MEDIO PORTE",
+		"grupo": 19
+	},
+	{
+		"id": "03337",
+		"pdm": "BARCA METÁLICA PEQUENO PORTE",
+		"grupo": 19
+	},
+	{
+		"id": "03338",
+		"pdm": "BARCO REMO",
+		"grupo": 19
+	},
+	{
+		"id": "03339",
+		"pdm": "BARCO A VELA DE COMPETICAO ESPORTIVA",
+		"grupo": 19
+	},
+	{
+		"id": "03340",
+		"pdm": "BARCO ALUMÍNIO",
+		"grupo": 19
+	},
+	{
+		"id": "03341",
+		"pdm": "BARCO DE PESCA COM CAMARA FRIGORIFICA",
+		"grupo": 19
+	},
+	{
+		"id": "03342",
+		"pdm": "BARCO FIBRA VIDRO",
+		"grupo": 19
+	},
+	{
+		"id": "03343",
+		"pdm": "BARCO MADEIRA",
+		"grupo": 19
+	},
+	{
+		"id": "03449",
+		"pdm": "BATELAO BOMBEADOR",
+		"grupo": 19
+	},
+	{
+		"id": "03450",
+		"pdm": "BATELAO DE CARGA LIQUIDA",
+		"grupo": 19
+	},
+	{
+		"id": "03451",
+		"pdm": "BATELAO DE CARGA SECA",
+		"grupo": 19
+	},
+	{
+		"id": "03452",
+		"pdm": "BATELAO DE COMBATE A INCENDIO",
+		"grupo": 19
+	},
+	{
+		"id": "03453",
+		"pdm": "BATELAO DEPOSITO",
+		"grupo": 19
+	},
+	{
+		"id": "03454",
+		"pdm": "BATELAO FRIGORIFICO",
+		"grupo": 19
+	},
+	{
+		"id": "03455",
+		"pdm": "BATELAO GUINDASTE",
+		"grupo": 19
+	},
+	{
+		"id": "03456",
+		"pdm": "BATELAO LAMEIRO",
+		"grupo": 19
+	},
+	{
+		"id": "03457",
+		"pdm": "BATELAO MISTURADOR DE CONCRETO",
+		"grupo": 19
+	},
+	{
+		"id": "03458",
+		"pdm": "BATELAO PARA TRANSPORTE DE CARGA",
+		"grupo": 19
+	},
+	{
+		"id": "04061",
+		"pdm": "CABREA FLUTUANTE",
+		"grupo": 19
+	},
+	{
+		"id": "04179",
+		"pdm": "CAIXAO FLUTUANTE ( DOCAS )",
+		"grupo": 19
+	},
+	{
+		"id": "04428",
+		"pdm": "CANOA COMPETIÇÃO ESPORTIVA",
+		"grupo": 19
+	},
+	{
+		"id": "04679",
+		"pdm": "CASA DE FORÇA FLUTUANTE",
+		"grupo": 19
+	},
+	{
+		"id": "04808",
+		"pdm": "CHALUPA",
+		"grupo": 19
+	},
+	{
+		"id": "04863",
+		"pdm": "CHATA COM GUINDASTE",
+		"grupo": 19
+	},
+	{
+		"id": "04864",
+		"pdm": "CHATA DE CARGA",
+		"grupo": 19
+	},
+	{
+		"id": "04865",
+		"pdm": "CHATA PARA CARGA SECA",
+		"grupo": 19
+	},
+	{
+		"id": "04866",
+		"pdm": "CHATA PARA TRANSPORTE DE AERONAVE",
+		"grupo": 19
+	},
+	{
+		"id": "04867",
+		"pdm": "CHATA PARA TRANSPORTE DE VEICULO",
+		"grupo": 19
+	},
+	{
+		"id": "06246",
+		"pdm": "DIQUE FLUTUANTE",
+		"grupo": 19
+	},
+	{
+		"id": "06400",
+		"pdm": "DRAGA",
+		"grupo": 19
+	},
+	{
+		"id": "06401",
+		"pdm": "DRAGA FLUTUANTE",
+		"grupo": 19
+	},
+	{
+		"id": "06402",
+		"pdm": "DRAGA SEM CASCO",
+		"grupo": 19
+	},
+	{
+		"id": "06507",
+		"pdm": "EMBARCACAO - OFICINA MECANICA",
+		"grupo": 19
+	},
+	{
+		"id": "06508",
+		"pdm": "EMBARCACAO CATAPULTA",
+		"grupo": 19
+	},
+	{
+		"id": "06509",
+		"pdm": "EMBARCACAO DE COMBATE A INCENDIO",
+		"grupo": 19
+	},
+	{
+		"id": "06510",
+		"pdm": "EMBARCACAO DE COMERCIO",
+		"grupo": 19
+	},
+	{
+		"id": "06511",
+		"pdm": "EMBARCACAO DE TESTE DE TORPEDO",
+		"grupo": 19
+	},
+	{
+		"id": "06512",
+		"pdm": "EMBARCACAO LANCADORA DE CABO",
+		"grupo": 19
+	},
+	{
+		"id": "06513",
+		"pdm": "EMBARCACAO REBOCADORA",
+		"grupo": 19
+	},
+	{
+		"id": "06514",
+		"pdm": "EMBARCACAO SALVA - VIDAS DE AERONAVE",
+		"grupo": 19
+	},
+	{
+		"id": "06905",
+		"pdm": "ESCALER SALVA - VIDAS",
+		"grupo": 19
+	},
+	{
+		"id": "08155",
+		"pdm": "GUINDASTE MONTADO EM BATELAO",
+		"grupo": 19
+	},
+	{
+		"id": "08273",
+		"pdm": "IATE",
+		"grupo": 19
+	},
+	{
+		"id": "08695",
+		"pdm": "LANCHA A MOTOR",
+		"grupo": 19
+	},
+	{
+		"id": "08696",
+		"pdm": "LANCHA DE COMPETICAO ESPORTIVA",
+		"grupo": 19
+	},
+	{
+		"id": "08697",
+		"pdm": "LANCHA DE TRANSPORTE DE PASSAGEIRO",
+		"grupo": 19
+	},
+	{
+		"id": "08698",
+		"pdm": "LANCHA FIBRA DE MADEIRA",
+		"grupo": 19
+	},
+	{
+		"id": "08699",
+		"pdm": "LANCHA FIBRA VIDRO",
+		"grupo": 19
+	},
+	{
+		"id": "08701",
+		"pdm": "LANCHA MADEIRA GRANDE PORTE",
+		"grupo": 19
+	},
+	{
+		"id": "08702",
+		"pdm": "LANCHA MADEIRA MEDIO PORTE",
+		"grupo": 19
+	},
+	{
+		"id": "08703",
+		"pdm": "LANCHA MADEIRA PEQUENO PORTE",
+		"grupo": 19
+	},
+	{
+		"id": "08704",
+		"pdm": "LANCHA METALICA GRANDE PORTE",
+		"grupo": 19
+	},
+	{
+		"id": "08705",
+		"pdm": "LANCHA",
+		"grupo": 19
+	},
+	{
+		"id": "08706",
+		"pdm": "LANCHA METALICA PEQUENO PORTE",
+		"grupo": 19
+	},
+	{
+		"id": 10048,
+		"pdm": "NAVIO AUXILIAR",
+		"grupo": 19
+	},
+	{
+		"id": 10049,
+		"pdm": "NAVIO BALIZADOR",
+		"grupo": 19
+	},
+	{
+		"id": 10050,
+		"pdm": "NAVIO DE ALOJAMENTO",
+		"grupo": 19
+	},
+	{
+		"id": 10051,
+		"pdm": "NAVIO DE BUSCA SUBMARINA",
+		"grupo": 19
+	},
+	{
+		"id": 10052,
+		"pdm": "NAVIO DE CARGA MISTA ( MINERIO / PETROLEO )",
+		"grupo": 19
+	},
+	{
+		"id": 10053,
+		"pdm": "NAVIO DE CARGA SECA",
+		"grupo": 19
+	},
+	{
+		"id": 10054,
+		"pdm": "NAVIO DE PASSAGEIRO",
+		"grupo": 19
+	},
+	{
+		"id": 10055,
+		"pdm": "NAVIO DE SALVAMENTO SUBMARINO",
+		"grupo": 19
+	},
+	{
+		"id": 10056,
+		"pdm": "NAVIO EMPURRADOR DE EMBARCACAO",
+		"grupo": 19
+	},
+	{
+		"id": 10057,
+		"pdm": "NAVIO FAROLEIRO",
+		"grupo": 19
+	},
+	{
+		"id": 10058,
+		"pdm": "NAVIO GRANELEIRO",
+		"grupo": 19
+	},
+	{
+		"id": 10059,
+		"pdm": "NAVIO LIGEIRO",
+		"grupo": 19
+	},
+	{
+		"id": 10060,
+		"pdm": "NAVIO OFICINA",
+		"grupo": 19
+	},
+	{
+		"id": 10061,
+		"pdm": "NAVIO PETROLEIRO",
+		"grupo": 19
+	},
+	{
+		"id": 10062,
+		"pdm": "NAVIO PROPANEIRO",
+		"grupo": 19
+	},
+	{
+		"id": 10063,
+		"pdm": "NAVIO QUEBRA - GELO",
+		"grupo": 19
+	},
+	{
+		"id": 10064,
+		"pdm": "NAVIO TENDER ( BOIA )",
+		"grupo": 19
+	},
+	{
+		"id": 10639,
+		"pdm": "PEQUENA EMBARCACAO - COM PROPULSAO PROPRIA ( JET SKI )",
+		"grupo": 19
+	},
+	{
+		"id": 10640,
+		"pdm": "PEQUENA EMBARCACAO - SEM PROPULSAO PROPRIA",
+		"grupo": 19
+	},
+	{
+		"id": 10641,
+		"pdm": "PEQUENA EMBARCACAO COM PROPULSAO PROPRIA",
+		"grupo": 19
+	},
+	{
+		"id": 10998,
+		"pdm": "PONTAO DE RAMPA",
+		"grupo": 19
+	},
+	{
+		"id": 10999,
+		"pdm": "PONTAO ESTAQUEADOR",
+		"grupo": 19
+	},
+	{
+		"id": 13334,
+		"pdm": "VEDETA ( LANCHA )",
+		"grupo": 19
+	},
+	{
+		"id": 13476,
+		"pdm": "VOADEIRA",
+		"grupo": 19
+	},
+	{
+		"id": 16767,
+		"pdm": "NAVIOS DE GUERRA E EMBARCACOES DE DESEMBARQUE",
+		"grupo": 19
+	},
+	{
+		"id": 16768,
+		"pdm": "NAVIOS PARA TRANSPORTE DE PASSAGEIRO E TROPA",
+		"grupo": 19
+	},
+	{
+		"id": 16769,
+		"pdm": "NAVIOS TANQUES E CARGUEIROS",
+		"grupo": 19
+	},
+	{
+		"id": 16770,
+		"pdm": "NAVIOS PESQUEIROS",
+		"grupo": 19
+	},
+	{
+		"id": 16771,
+		"pdm": "NAVIOS DE SERVICOS ESPECIAIS",
+		"grupo": 19
+	},
+	{
+		"id": 16772,
+		"pdm": "BATELOES E CHATAS PARA CARGAS",
+		"grupo": 19
+	},
+	{
+		"id": 16773,
+		"pdm": "BATELOES E CHATAS PARA FINS ESPECIAIS",
+		"grupo": 19
+	},
+	{
+		"id": 16774,
+		"pdm": "EMBARCAÇÕES PEQUENAS",
+		"grupo": 19
+	},
+	{
+		"id": 16775,
+		"pdm": "PONTÕES E DOCAS FLUTUANTES",
+		"grupo": 19
+	},
+	{
+		"id": 16776,
+		"pdm": "DIQUES FLUTUANTES",
+		"grupo": 19
+	},
+	{
+		"id": 16777,
+		"pdm": "DRAGAS",
+		"grupo": 19
+	},
+	{
+		"id": 16778,
+		"pdm": "EMBARCACOES DIVERSAS",
+		"grupo": 19
+	},
+	{
+		"id": 17605,
+		"pdm": "COMPONENTE EMBARCAÇÃO",
+		"grupo": 19
+	},
+	{
+		"id": "02485",
+		"pdm": "ÂNCORA",
+		"grupo": 20
+	},
+	{
+		"id": "02486",
+		"pdm": "GRAMPO ANCORAGEM",
+		"grupo": 20
+	},
+	{
+		"id": "03807",
+		"pdm": "BORNAL DE MARINHA",
+		"grupo": 20
+	},
+	{
+		"id": "03974",
+		"pdm": "BUZINA DE ESCOVEM USO NAVAL",
+		"grupo": 20
+	},
+	{
+		"id": "04004",
+		"pdm": "CABO APRESTO EMBARCAÇÃO",
+		"grupo": 20
+	},
+	{
+		"id": "04063",
+		"pdm": "CABRESTANTE DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": "04073",
+		"pdm": "CADASTE DO LEME DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": "04772",
+		"pdm": "CEPO DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": "04809",
+		"pdm": "CHAMINE DE CALDEIRA DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": "05547",
+		"pdm": "CONDUTO DA CALDEIRA PARA EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": "06048",
+		"pdm": "DEFENSA EMBARCAÇÃO",
+		"grupo": 20
+	},
+	{
+		"id": "06406",
+		"pdm": "DRENO EMBARCAÇÃO",
+		"grupo": 20
+	},
+	{
+		"id": "06420",
+		"pdm": "ECOBATIMETRO",
+		"grupo": 20
+	},
+	{
+		"id": "06421",
+		"pdm": "ECOSSONDA",
+		"grupo": 20
+	},
+	{
+		"id": "06437",
+		"pdm": "EIXO DE PROPULSÃO",
+		"grupo": 20
+	},
+	{
+		"id": "06876",
+		"pdm": "ESCADA DE CORDA DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": "06877",
+		"pdm": "ESCADA DE CORRENTE DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": "06880",
+		"pdm": "ESCADA DE QUEBRA - PEITO ( NAVIO )",
+		"grupo": 20
+	},
+	{
+		"id": "06932",
+		"pdm": "ESCOTILHA",
+		"grupo": 20
+	},
+	{
+		"id": "07322",
+		"pdm": "FATEIXA",
+		"grupo": 20
+	},
+	{
+		"id": "07378",
+		"pdm": "FERRAGEM DE MASTRO DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": "07379",
+		"pdm": "FERRAGEM DE PAU - DE - CARGA USO NAVAL",
+		"grupo": 20
+	},
+	{
+		"id": "07682",
+		"pdm": "FOGUETA",
+		"grupo": 20
+	},
+	{
+		"id": "08150",
+		"pdm": "GUINDASTE DE ESCALER SALVA - VIDAS",
+		"grupo": 20
+	},
+	{
+		"id": "08183",
+		"pdm": "HÉLICE EMBARCAÇÃO",
+		"grupo": 20
+	},
+	{
+		"id": "08523",
+		"pdm": "JANELA DE VENTILACAO DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": "08767",
+		"pdm": "LEME DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": "09431",
+		"pdm": "MASTRO DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": "09518",
+		"pdm": "MECANISMO DE PILOTO AUTOMATICO PARA EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": "09818",
+		"pdm": "MOBILIARIO DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": "09876",
+		"pdm": "MOLINETE DE CONVES DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": "09901",
+		"pdm": "MONTANTE MESTRE",
+		"grupo": 20
+	},
+	{
+		"id": 10214,
+		"pdm": "OLHAL DE REMO DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": 10272,
+		"pdm": "PA - HELICE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": 10277,
+		"pdm": "PA PARA HELICE DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": 10474,
+		"pdm": "PASSAGEM DE INSPECAO DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": 10508,
+		"pdm": "PAU - DE - CARGA DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": 10509,
+		"pdm": "PAU - DE - CARGA NAO LIGADO A GUINCHO",
+		"grupo": 20
+	},
+	{
+		"id": 10510,
+		"pdm": "PAU - DE - CARGA NAO LIGADO A GUINDASTE",
+		"grupo": 20
+	},
+	{
+		"id": 10579,
+		"pdm": "PEDESTAL DE MASTRO DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": 11076,
+		"pdm": "PORTA ESTANQUE USO NAVAL",
+		"grupo": 20
+	},
+	{
+		"id": 11242,
+		"pdm": "PROFUNDIMETRO",
+		"grupo": 20
+	},
+	{
+		"id": 11631,
+		"pdm": "REMO DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": 12113,
+		"pdm": "SISTEMA DE CONTROLE",
+		"grupo": 20
+	},
+	{
+		"id": 12120,
+		"pdm": "SISTEMA DE GOVERNO",
+		"grupo": 20
+	},
+	{
+		"id": 12903,
+		"pdm": "TRANSMISSAO MARITIMA COM TIPO DE ENGRENAGEM DE REDUCAO E REVERSAO",
+		"grupo": 20
+	},
+	{
+		"id": 13039,
+		"pdm": "TUBO DE AMARRACAO DE REBOQUE",
+		"grupo": 20
+	},
+	{
+		"id": 13069,
+		"pdm": "TUBO DE PASSAGEM DE CORRENTE DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": 13117,
+		"pdm": "TUBO TELESCOPICO DO EIXO DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": 13139,
+		"pdm": "TURCO USO NAVAL",
+		"grupo": 20
+	},
+	{
+		"id": 13363,
+		"pdm": "VELA DE PROPULSAO DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": 13365,
+		"pdm": "VELAME DE EMBARCACAO",
+		"grupo": 20
+	},
+	{
+		"id": 13389,
+		"pdm": "VERGA DE VELAME",
+		"grupo": 20
+	},
+	{
+		"id": 13442,
+		"pdm": "VIGIA ( NAVIO )",
+		"grupo": 20
+	},
+	{
+		"id": 16263,
+		"pdm": "VELAME EMBARCAÇÃO",
+		"grupo": 20
+	},
+	{
+		"id": 16779,
+		"pdm": "COMPONENTES DE PROPULSÃO DE EMBARCAÇÕES",
+		"grupo": 20
+	},
+	{
+		"id": 16780,
+		"pdm": "MASTREACAO E ACESSORIOS",
+		"grupo": 20
+	},
+	{
+		"id": 16781,
+		"pdm": "MAQUINARIA DE CONVES",
+		"grupo": 20
+	},
+	{
+		"id": 16782,
+		"pdm": "FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+		"grupo": 20
+	},
+	{
+		"id": 16783,
+		"pdm": "BOIAS",
+		"grupo": 20
+	},
+	{
+		"id": 16784,
+		"pdm": "EQUIPAMENTO COMERCIAL DE PESCA",
+		"grupo": 20
+	},
+	{
+		"id": 16785,
+		"pdm": "CAPA PROTEÇÃO EMBARCAÇÕES",
+		"grupo": 20
+	},
+	{
+		"id": 18469,
+		"pdm": "CROQUE TELESCÓPICO",
+		"grupo": 20
+	},
+	{
+		"id": 18526,
+		"pdm": "ELEMENTO BATERIA",
+		"grupo": 20
+	},
+	{
+		"id": "01670",
+		"pdm": "ACESSORIO DE APARELHO DE MANOBRA FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "01682",
+		"pdm": "ACESSORIO DE LUBRIFICADOR DE VIA FERREA",
+		"grupo": 22
+	},
+	{
+		"id": "01704",
+		"pdm": "ACESSORIO DE TRILHO DE VIA FERREA",
+		"grupo": 22
+	},
+	{
+		"id": "01705",
+		"pdm": "ACESSORIO E COMPONENTE DE LOCOMOTIVA",
+		"grupo": 22
+	},
+	{
+		"id": "01706",
+		"pdm": "ACESSORIO E COMPONENTE DE LOCOMOTIVA E VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "01707",
+		"pdm": "ACESSORIO E COMPONENTE DE VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "01715",
+		"pdm": "ACESSORIO PARA DORMENTE",
+		"grupo": 22
+	},
+	{
+		"id": "01724",
+		"pdm": "ACESSORIO PARA TRUQUE FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "02195",
+		"pdm": "AGULHA LEITO FERROVIA",
+		"grupo": 22
+	},
+	{
+		"id": "02204",
+		"pdm": "AGULHA TRILHO FERROVIA",
+		"grupo": 22
+	},
+	{
+		"id": "02231",
+		"pdm": "ALAVANCA DE USO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "02334",
+		"pdm": "ALINHADOR DE TRILHO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "02680",
+		"pdm": "APARELHO DE CHOQUE PARA LOCOMOTIVA E VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "02719",
+		"pdm": "APARELHO DE MANOBRA FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "02724",
+		"pdm": "APARELHO DE MUDANCA DE VIA - CRUZAMENTO FERROVIA-RIO",
+		"grupo": 22
+	},
+	{
+		"id": "02745",
+		"pdm": "APARELHO DE TRACAO PARA LOCOMOTIVA E VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "03023",
+		"pdm": "ARO DE RODA FERROVIARIA",
+		"grupo": 22
+	},
+	{
+		"id": "03049",
+		"pdm": "ARRUELA DE DORMENTE",
+		"grupo": 22
+	},
+	{
+		"id": "03588",
+		"pdm": "BITOLA DE FERRO PARA LINHA FERROVIARIA",
+		"grupo": 22
+	},
+	{
+		"id": "03936",
+		"pdm": "BUCHA DE MANCAL DE FRICCAO FERROVIARIA",
+		"grupo": 22
+	},
+	{
+		"id": "03944",
+		"pdm": "BUCHA PARA DORMENTE",
+		"grupo": 22
+	},
+	{
+		"id": "04590",
+		"pdm": "CARRO - GUINDASTE FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "04604",
+		"pdm": "CARRO DE MANUTENCAO DE LEITO DE FERROVIA",
+		"grupo": 22
+	},
+	{
+		"id": "04608",
+		"pdm": "CARRO DE TESTE DE LEITO DE FERROVIA",
+		"grupo": 22
+	},
+	{
+		"id": "04611",
+		"pdm": "CARRO FERROVIARIO AUTOMOTRIZ",
+		"grupo": 22
+	},
+	{
+		"id": "04612",
+		"pdm": "CARRO FERROVIARIO REBOCAVEL",
+		"grupo": 22
+	},
+	{
+		"id": "04763",
+		"pdm": "CENTRO DE RODA FERROVIARIA",
+		"grupo": 22
+	},
+	{
+		"id": "04841",
+		"pdm": "CHAPA ESPECIAL PARA CARRO E VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "05411",
+		"pdm": "COMPONENTE DE APARELHO DE MANOBRA FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "05412",
+		"pdm": "COMPONENTE DE ENGATE FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "05413",
+		"pdm": "COMPONENTE DE MANCAL DE VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "05414",
+		"pdm": "COMPONENTE DE MANCAL DE VEICULO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "05415",
+		"pdm": "COMPONENTE DE MANCAL PARA LOCOMOTIVA",
+		"grupo": 22
+	},
+	{
+		"id": "05418",
+		"pdm": "COMPONENTE DE RODEIRO DE VEICULO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "05419",
+		"pdm": "COMPONENTE DE RODEIRO PARA LOCOMOTIVA",
+		"grupo": 22
+	},
+	{
+		"id": "05420",
+		"pdm": "COMPONENTE DE RODEIRO PARA VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "05806",
+		"pdm": "CONTRATRILHO E CREMALHEIRA",
+		"grupo": 22
+	},
+	{
+		"id": "05955",
+		"pdm": "CRAVO DE DORMENTE FERROVIA",
+		"grupo": 22
+	},
+	{
+		"id": "06385",
+		"pdm": "DORMENTE DE CONCRETO",
+		"grupo": 22
+	},
+	{
+		"id": "06386",
+		"pdm": "DORMENTE DE FERRO FUNDIDO / ACO",
+		"grupo": 22
+	},
+	{
+		"id": "06387",
+		"pdm": "DORMENTE DE MADEIRA",
+		"grupo": 22
+	},
+	{
+		"id": "06388",
+		"pdm": "DORMENTE PARA FERROVIAS",
+		"grupo": 22
+	},
+	{
+		"id": "06407",
+		"pdm": "DRESINA",
+		"grupo": 22
+	},
+	{
+		"id": "06438",
+		"pdm": "EIXO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "06444",
+		"pdm": "ELEMENTO DE FRENAGEM PARA LOCOMOTIVA E VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "06564",
+		"pdm": "ENGATE E ACESSORIO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "06565",
+		"pdm": "ENGATE FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "06705",
+		"pdm": "EQUIPAMENTO DE JUNCAO DE TRILHO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "06749",
+		"pdm": "EQUIPAMENTO DE SEPARACAO DE TRILHO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "06802",
+		"pdm": "EQUIPAMENTO MONTADO OU NAO EM VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "06809",
+		"pdm": "EQUIPAMENTO PARA ASSENTAMENTO NA VIA FERREA",
+		"grupo": 22
+	},
+	{
+		"id": "06814",
+		"pdm": "EQUIPAMENTO PARA CONSTRUCAO DE LINHA FERREA",
+		"grupo": 22
+	},
+	{
+		"id": "07389",
+		"pdm": "FERRAMENTA NAO MOTORIZADA PARA VIA PERMANENTE",
+		"grupo": 22
+	},
+	{
+		"id": "08154",
+		"pdm": "GUINDASTE MONTADO EM AUTOMOTRIZ",
+		"grupo": 22
+	},
+	{
+		"id": "08156",
+		"pdm": "GUINDASTE MONTADO EM LOCOMOTIVA",
+		"grupo": 22
+	},
+	{
+		"id": "08157",
+		"pdm": "GUINDASTE MONTADO EM VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "08162",
+		"pdm": "GUINDASTES MONTADOS EM VAGOES",
+		"grupo": 22
+	},
+	{
+		"id": "08520",
+		"pdm": "JANELA DE LOCOMOTIVA E VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "08728",
+		"pdm": "LASTRO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "08903",
+		"pdm": "LOCOMOTIVA A CARVAO",
+		"grupo": 22
+	},
+	{
+		"id": "08904",
+		"pdm": "LOCOMOTIVA A OLEO DIESEL",
+		"grupo": 22
+	},
+	{
+		"id": "08905",
+		"pdm": "LOCOMOTIVA A VAPOR",
+		"grupo": 22
+	},
+	{
+		"id": "08906",
+		"pdm": "LOCOMOTIVA DE ACUMULADOR ELETRICO",
+		"grupo": 22
+	},
+	{
+		"id": "08907",
+		"pdm": "LOCOMOTIVA DIESEL",
+		"grupo": 22
+	},
+	{
+		"id": "08908",
+		"pdm": "LOCOMOTIVA DIESEL - ELETRICA",
+		"grupo": 22
+	},
+	{
+		"id": "08909",
+		"pdm": "LOCOMOTIVA ELETRICA",
+		"grupo": 22
+	},
+	{
+		"id": "08910",
+		"pdm": "LOCOMOTIVA GUINDASTE",
+		"grupo": 22
+	},
+	{
+		"id": "08911",
+		"pdm": "LOCOMOTIVA TENDER",
+		"grupo": 22
+	},
+	{
+		"id": "08931",
+		"pdm": "LUBRIFICADOR DE VIA FERREA",
+		"grupo": 22
+	},
+	{
+		"id": "08991",
+		"pdm": "MACACO DE CURVAR TRILHO",
+		"grupo": 22
+	},
+	{
+		"id": "09063",
+		"pdm": "MANCAL DE FRICCAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "09064",
+		"pdm": "MANCAL DE LOCOMOTIVA",
+		"grupo": 22
+	},
+	{
+		"id": "09070",
+		"pdm": "MANCAL PARA VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "09444",
+		"pdm": "MATERIAL DE BORRACHA PARA LOCOMOTIVA E VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": "09479",
+		"pdm": "MATERIAL PARA LOCOMOTIVA. VAGÃO E VAGONETE",
+		"grupo": 22
+	},
+	{
+		"id": "09481",
+		"pdm": "MATERIAL PARA CREMALHEIRA - FERROVIARIA",
+		"grupo": 22
+	},
+	{
+		"id": 10432,
+		"pdm": "PARAFUSO DE DORMENTE",
+		"grupo": 22
+	},
+	{
+		"id": 10475,
+		"pdm": "PASSAGEM DE NIVEL FERROVIARIA ( TRILHO )",
+		"grupo": 22
+	},
+	{
+		"id": 10546,
+		"pdm": "PECA SOBRESSALENTE DE LOCOMOTIVA ALCO",
+		"grupo": 22
+	},
+	{
+		"id": 10547,
+		"pdm": "PECA SOBRESSALENTE DE LOCOMOTIVA GE",
+		"grupo": 22
+	},
+	{
+		"id": 10548,
+		"pdm": "PECA SOBRESSALENTE DE LOCOMOTIVA GM",
+		"grupo": 22
+	},
+	{
+		"id": 10549,
+		"pdm": "PECA SOBRESSALENTE DE VAGAO E LOCOMOTIVA WABCO",
+		"grupo": 22
+	},
+	{
+		"id": 10550,
+		"pdm": "PECA SOBRESSALENTE DE VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": 10551,
+		"pdm": "PECA SOBRESSALENTE PARA EQUIPAMENTO DE MANUTENCAO",
+		"grupo": 22
+	},
+	{
+		"id": 10552,
+		"pdm": "PECA SOBRESSALENTE PARA LOCOMOTIVA",
+		"grupo": 22
+	},
+	{
+		"id": 10553,
+		"pdm": "PECA SOBRESSALENTE PARA VAGAO E LOCOMOTIVA CATERPILLAR",
+		"grupo": 22
+	},
+	{
+		"id": 10658,
+		"pdm": "PERFILADO ESPECIAL PARA CARRO E VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": 10668,
+		"pdm": "PERFURADORA DE CORTADORA VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": 10744,
+		"pdm": "PINO DE MANCAL DE FRICCAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": 10811,
+		"pdm": "PLACA APOIO FIXACAO LEITO FERROVIA",
+		"grupo": 22
+	},
+	{
+		"id": 10812,
+		"pdm": "PLACA APOIO FIXACAO TRILHO FERROVIA",
+		"grupo": 22
+	},
+	{
+		"id": 11028,
+		"pdm": "PORCA PARA DORMENTE",
+		"grupo": 22
+	},
+	{
+		"id": 11070,
+		"pdm": "PORTA DE LOCOMOTIVA E VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": 11773,
+		"pdm": "RODA FERROVIARIA",
+		"grupo": 22
+	},
+	{
+		"id": 11777,
+		"pdm": "RODEIRO DE LOCOMOTIVA",
+		"grupo": 22
+	},
+	{
+		"id": 11778,
+		"pdm": "RODEIRO PARA VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": 11937,
+		"pdm": "SAPATA DE FREIO - VEICULO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": 11968,
+		"pdm": "SECAO DE TRILHO DE DESVIO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": 12283,
+		"pdm": "SUB - LASTRO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": 12482,
+		"pdm": "TALA FIXACAO TRILHO FERROVIA",
+		"grupo": 22
+	},
+	{
+		"id": 12627,
+		"pdm": "TENDER FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": 12981,
+		"pdm": "TRILHO DE CRUZAMENTO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": 12982,
+		"pdm": "TRILHO DE FERROVIA",
+		"grupo": 22
+	},
+	{
+		"id": 13019,
+		"pdm": "TRUQUE DE VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": 13221,
+		"pdm": "VAGAO - TANQUE",
+		"grupo": 22
+	},
+	{
+		"id": 13222,
+		"pdm": "VAGAO ABERTO",
+		"grupo": 22
+	},
+	{
+		"id": 13223,
+		"pdm": "VAGAO CONSTRUIDO ESPECIALMENTE PARA SERVICO PESADO / TRANSPORTE DE MINERIO E PEDRA",
+		"grupo": 22
+	},
+	{
+		"id": 13224,
+		"pdm": "VAGAO DE DESCARGA AUTOMOTIVA",
+		"grupo": 22
+	},
+	{
+		"id": 13225,
+		"pdm": "VAGAO EQUIPADO COM BATEDOR DE BALASTRO",
+		"grupo": 22
+	},
+	{
+		"id": 13226,
+		"pdm": "VAGAO FERROVIARIO",
+		"grupo": 22
+	},
+	{
+		"id": 13227,
+		"pdm": "VAGAO FERROVIARIO DE TRANSPORTE DE TURMA",
+		"grupo": 22
+	},
+	{
+		"id": 13228,
+		"pdm": "VAGAO FERROVIARIO GUINDASTE",
+		"grupo": 22
+	},
+	{
+		"id": 13229,
+		"pdm": "VAGAO FRIGORIFICO",
+		"grupo": 22
+	},
+	{
+		"id": 13230,
+		"pdm": "VAGAO PARA ANIMAL",
+		"grupo": 22
+	},
+	{
+		"id": 13231,
+		"pdm": "VAGAO PARA BAGAGEM",
+		"grupo": 22
+	},
+	{
+		"id": 13232,
+		"pdm": "VAGAO PARA PASSAGEIROS",
+		"grupo": 22
+	},
+	{
+		"id": 13233,
+		"pdm": "VAGAO POSTAL",
+		"grupo": 22
+	},
+	{
+		"id": 13340,
+		"pdm": "VEICULO AUTOPROPULSOR PARA VIA FERREA - DETECCAO",
+		"grupo": 22
+	},
+	{
+		"id": 13341,
+		"pdm": "VEICULO AUTOPROPULSOR PARA VIA FERREA - SUBSTITUIR",
+		"grupo": 22
+	},
+	{
+		"id": 13342,
+		"pdm": "VEICULO AUTOPROPULSOR REPERFILADOR / RETIFICADOR",
+		"grupo": 22
+	},
+	{
+		"id": 13345,
+		"pdm": "VEICULO DE MANUTENCAO PARA LEVANTAR / NIVELAR / AL",
+		"grupo": 22
+	},
+	{
+		"id": 13346,
+		"pdm": "VEICULO DESGUARNECEDOR DE LASTRO PARA LIMPEZA / RE",
+		"grupo": 22
+	},
+	{
+		"id": 13353,
+		"pdm": "VEICULO PARA REGULAR E DISTRIBUIR LASTRO - VIA FER",
+		"grupo": 22
+	},
+	{
+		"id": 16264,
+		"pdm": "VAGÃO ABERTO",
+		"grupo": 22
+	},
+	{
+		"id": 16265,
+		"pdm": "AGULHA LEITO RODOVIA",
+		"grupo": 22
+	},
+	{
+		"id": 16786,
+		"pdm": "LOCOMOTIVAS",
+		"grupo": 22
+	},
+	{
+		"id": 16787,
+		"pdm": "VAGÕES FERROVIÁRIOS",
+		"grupo": 22
+	},
+	{
+		"id": 16788,
+		"pdm": "EQUIPAMENTO DE CONSTRUCAO E MANUTENCAO DE LEITO DE FERROVIA ROVIAS",
+		"grupo": 22
+	},
+	{
+		"id": 16789,
+		"pdm": "ACESSÓRIOS E COMPONENTES DE LOCOMOTIVAS E DE VAGÕES FERROVI-ÁRIOS",
+		"grupo": 22
+	},
+	{
+		"id": 16790,
+		"pdm": "MATERIAIS DE FERROVIA",
+		"grupo": 22
+	},
+	{
+		"id": "00647",
+		"pdm": "CAMINHÃO CARGA",
+		"grupo": 23
+	},
+	{
+		"id": "00648",
+		"pdm": "VEÍCULO TRANSPORTE PESSOAL",
+		"grupo": 23
+	},
+	{
+		"id": "00649",
+		"pdm": "VIATURA TRANSPORTE ESPECIALIZADO CISTERNA",
+		"grupo": 23
+	},
+	{
+		"id": "00650",
+		"pdm": "VIATURA TRANSPORTE ESPECIALIZADO FRIGORÍFICO",
+		"grupo": 23
+	},
+	{
+		"id": "00651",
+		"pdm": "CARRETA TRANSPORTE EMBARCAÇÃO",
+		"grupo": 23
+	},
+	{
+		"id": "00653",
+		"pdm": "BICICLETA",
+		"grupo": 23
+	},
+	{
+		"id": "00654",
+		"pdm": "TRICICLO",
+		"grupo": 23
+	},
+	{
+		"id": "00685",
+		"pdm": "VEÍCULO AUTOMOTIVO - PICAPE",
+		"grupo": 23
+	},
+	{
+		"id": "00686",
+		"pdm": "REBOQUE TRANSPORTE ANIMAL",
+		"grupo": 23
+	},
+	{
+		"id": "00803",
+		"pdm": "CHASSI",
+		"grupo": 23
+	},
+	{
+		"id": "00804",
+		"pdm": "VEÍCULO TRANSPORTE ANIMAL",
+		"grupo": 23
+	},
+	{
+		"id": "00805",
+		"pdm": "VEÍCULO TRANSPORTE PRESO",
+		"grupo": 23
+	},
+	{
+		"id": "02396",
+		"pdm": "AMBULÂNCIA",
+		"grupo": 23
+	},
+	{
+		"id": "02993",
+		"pdm": "ARMA AUTO - PROPULSIONADA SOBRE MEIA LAGARTA",
+		"grupo": 23
+	},
+	{
+		"id": "03142",
+		"pdm": "AUTOMÓVEL",
+		"grupo": 23
+	},
+	{
+		"id": "03950",
+		"pdm": "BUGGY",
+		"grupo": 23
+	},
+	{
+		"id": "04358",
+		"pdm": "CAMINHÃO",
+		"grupo": 23
+	},
+	{
+		"id": "04360",
+		"pdm": "CAMINHAO BASCULANTE",
+		"grupo": 23
+	},
+	{
+		"id": "04361",
+		"pdm": "CAMINHAO DE CACAMBA FIXA",
+		"grupo": 23
+	},
+	{
+		"id": "04362",
+		"pdm": "CAMINHAO DE CARGA",
+		"grupo": 23
+	},
+	{
+		"id": "04363",
+		"pdm": "CAMINHAO DE TRANSPORTE DE CARGA LIQUIDA",
+		"grupo": 23
+	},
+	{
+		"id": "04367",
+		"pdm": "CAMINHAO TANQUE PARA DISTRIBUICAO DE COMBUSTIVEL",
+		"grupo": 23
+	},
+	{
+		"id": "04368",
+		"pdm": "CAMIONETA / VEÍCULO - TRANSPORTE PASSAGEIRO",
+		"grupo": 23
+	},
+	{
+		"id": "04369",
+		"pdm": "CAMIONETA DE TRANSPORTE DE CARGA",
+		"grupo": 23
+	},
+	{
+		"id": "04370",
+		"pdm": "CAMIONETA TRANSPORTE PASSAGEIRO E CARGA",
+		"grupo": 23
+	},
+	{
+		"id": "04371",
+		"pdm": "CAMIONETA FECHADA DE TRANSPORTE DE CARGA ( FURGAO)",
+		"grupo": 23
+	},
+	{
+		"id": "04592",
+		"pdm": "CARRO TANQUE",
+		"grupo": 23
+	},
+	{
+		"id": "04595",
+		"pdm": "CARRO BLINDADO",
+		"grupo": 23
+	},
+	{
+		"id": "04600",
+		"pdm": "CARRO DE COMBATE SOBRE LAGARTA",
+		"grupo": 23
+	},
+	{
+		"id": "04601",
+		"pdm": "CARRO DE COMBATE SOBRE MEIA LAGARTA",
+		"grupo": 23
+	},
+	{
+		"id": "04613",
+		"pdm": "CARRO FORTE PARA TRANSPORTE DE VALOR",
+		"grupo": 23
+	},
+	{
+		"id": "04614",
+		"pdm": "CARRO FUNERARIO",
+		"grupo": 23
+	},
+	{
+		"id": "04628",
+		"pdm": "CARRO TRATOR DE TRACAO - USO EM AEROPORTO",
+		"grupo": 23
+	},
+	{
+		"id": "04629",
+		"pdm": "CARRO TRATOR DE TRACAO - USO EM PLATAFORMA DE ESTACAO FERROVIARIA",
+		"grupo": 23
+	},
+	{
+		"id": "04630",
+		"pdm": "CARRO TRATOR DE TRACAO - USO EM PORTO",
+		"grupo": 23
+	},
+	{
+		"id": "05454",
+		"pdm": "COMPONENTE MECANICO - VEICULO DE CONTROLE REMOTODE MANIPULACAO DE CARGA EXPLOSIVA",
+		"grupo": 23
+	},
+	{
+		"id": "07248",
+		"pdm": "EXTENSAO PARA REBOQUE",
+		"grupo": 23
+	},
+	{
+		"id": "08531",
+		"pdm": "JIPE DE TRANSPORTE DE PASSAGEIRO",
+		"grupo": 23
+	},
+	{
+		"id": "08679",
+		"pdm": "LANCA - CHAMA AUTO - PROPULSIONADO SOBRE MEIA LAGARTA",
+		"grupo": 23
+	},
+	{
+		"id": "09718",
+		"pdm": "MICROÔNIBUS",
+		"grupo": 23
+	},
+	{
+		"id": "09921",
+		"pdm": "QUADRICICLO",
+		"grupo": 23
+	},
+	{
+		"id": "09948",
+		"pdm": "MOTONETA",
+		"grupo": 23
+	},
+	{
+		"id": 10218,
+		"pdm": "ÔNIBUS",
+		"grupo": 23
+	},
+	{
+		"id": 10902,
+		"pdm": "PLATAFORMA PARA ONIBUS",
+		"grupo": 23
+	},
+	{
+		"id": 11449,
+		"pdm": "REBOQUE - INSTALACAO COMERCIAL",
+		"grupo": 23
+	},
+	{
+		"id": 11450,
+		"pdm": "REBOQUE - PLATAFORMA",
+		"grupo": 23
+	},
+	{
+		"id": 11451,
+		"pdm": "REBOQUE - RESIDENCIA",
+		"grupo": 23
+	},
+	{
+		"id": 11452,
+		"pdm": "REBOQUE - TANQUE",
+		"grupo": 23
+	},
+	{
+		"id": 11453,
+		"pdm": "REBOQUE - TANQUE DE DISTRIBUICAO DE COMBUSTIVEL",
+		"grupo": 23
+	},
+	{
+		"id": 11456,
+		"pdm": "REBOQUE CISTERNA",
+		"grupo": 23
+	},
+	{
+		"id": 11458,
+		"pdm": "REBOQUE DE TRANSPORTE DE PESSOAL E/OU CARGA",
+		"grupo": 23
+	},
+	{
+		"id": 11459,
+		"pdm": "REBOQUE DE TRANSPORTE DE POSTE",
+		"grupo": 23
+	},
+	{
+		"id": 11463,
+		"pdm": "REBOQUE FRIGORIFICO",
+		"grupo": 23
+	},
+	{
+		"id": 11464,
+		"pdm": "REBOQUE HOSPITALAR",
+		"grupo": 23
+	},
+	{
+		"id": 11465,
+		"pdm": "REBOQUE LABORATORIO DENTARIO",
+		"grupo": 23
+	},
+	{
+		"id": 11466,
+		"pdm": "REBOQUE LAVANDERIA MOVEL",
+		"grupo": 23
+	},
+	{
+		"id": 11467,
+		"pdm": "REBOQUE PARA SERVICO ESPECIAL",
+		"grupo": 23
+	},
+	{
+		"id": 11468,
+		"pdm": "REBOQUE PORTADA ( BARCO / PONTOES )",
+		"grupo": 23
+	},
+	{
+		"id": 12001,
+		"pdm": "SEMI - REBOQUE - TANQUE DISTRIBUIÇÃO COMBUSTÍVEL",
+		"grupo": 23
+	},
+	{
+		"id": 12002,
+		"pdm": "SEMI - REBOQUE PARA TRANSPORTE DE POSTE",
+		"grupo": 23
+	},
+	{
+		"id": 12003,
+		"pdm": "SEMI - REBOQUE TIPO TUNEL PARA TRANSPORTE DE VIDRO EM CAVALETE",
+		"grupo": 23
+	},
+	{
+		"id": 12956,
+		"pdm": "TRENO SOBRE LAGARTA",
+		"grupo": 23
+	},
+	{
+		"id": 12957,
+		"pdm": "TRENO SOBRE MEIA LAGARTA",
+		"grupo": 23
+	},
+	{
+		"id": 13336,
+		"pdm": "VEICULO ANFIBIO SOBRE LAGARTA",
+		"grupo": 23
+	},
+	{
+		"id": 13337,
+		"pdm": "VEICULO ANFIBIO SOBRE MEIA LAGARTA",
+		"grupo": 23
+	},
+	{
+		"id": 13338,
+		"pdm": "VEICULO ANFIBIO SOBRE RODAS",
+		"grupo": 23
+	},
+	{
+		"id": 13339,
+		"pdm": "VEICULO AUTOMOTIVO (MOTOR HOME) - COMERCIAL / RESIDENCIAL",
+		"grupo": 23
+	},
+	{
+		"id": 13343,
+		"pdm": "VEICULO BASCULANTE GRANELEIRO",
+		"grupo": 23
+	},
+	{
+		"id": 13344,
+		"pdm": "VEÍCULO CARROCERIA ABERTA",
+		"grupo": 23
+	},
+	{
+		"id": 13347,
+		"pdm": "VEICULO EQUIPADO COM BOMBA PARA CONCRETO",
+		"grupo": 23
+	},
+	{
+		"id": 13348,
+		"pdm": "VEICULO LABORATORIO DENTARIO SOBRE RODAS",
+		"grupo": 23
+	},
+	{
+		"id": 13349,
+		"pdm": "VEICULO LAVANDERIA SOBRE RODAS",
+		"grupo": 23
+	},
+	{
+		"id": 13350,
+		"pdm": "VEICULO MANIPULACAO E TRANSPORTE DE CARGA EXPLOSIVA - CONTROLE REMOTO ( ROBO )",
+		"grupo": 23
+	},
+	{
+		"id": 13351,
+		"pdm": "VEICULO OFICINA SOBRE RODAS",
+		"grupo": 23
+	},
+	{
+		"id": 13352,
+		"pdm": "VEICULO PARA LAVAR RUAS",
+		"grupo": 23
+	},
+	{
+		"id": 13354,
+		"pdm": "VEICULO PARA TRANSPORTAR AUTOMOVEL / CAMINHAO",
+		"grupo": 23
+	},
+	{
+		"id": 13355,
+		"pdm": "VEICULO PARA TRANSPORTAR BOBINA",
+		"grupo": 23
+	},
+	{
+		"id": 13356,
+		"pdm": "VEICULO PARA TRANSPORTAR CONTAINER",
+		"grupo": 23
+	},
+	{
+		"id": 13357,
+		"pdm": "VEICULO QUE SE MOVIMENTA SOBRE COLCHAO DE AR",
+		"grupo": 23
+	},
+	{
+		"id": 13416,
+		"pdm": "VIATURA TRANSPORTE ESPECIALIZADO FRIGORIFICO",
+		"grupo": 23
+	},
+	{
+		"id": 13635,
+		"pdm": "SEMI - REBOQUE TRANSPORTE DE PESSOAL E/OU DE CARGA",
+		"grupo": 23
+	},
+	{
+		"id": 14329,
+		"pdm": "VEÍCULO TRANSPORTE",
+		"grupo": 23
+	},
+	{
+		"id": 14408,
+		"pdm": "VEÍCULO FURGÃO",
+		"grupo": 23
+	},
+	{
+		"id": 14411,
+		"pdm": "VEÍCULO VAN",
+		"grupo": 23
+	},
+	{
+		"id": 14413,
+		"pdm": "VEÍCULO PASSEIO",
+		"grupo": 23
+	},
+	{
+		"id": 14414,
+		"pdm": "VEÍCULO PERUA",
+		"grupo": 23
+	},
+	{
+		"id": 14415,
+		"pdm": "VEÍCULO UTILITÁRIO",
+		"grupo": 23
+	},
+	{
+		"id": 14419,
+		"pdm": "VEÍCULO PICK-UP",
+		"grupo": 23
+	},
+	{
+		"id": 15138,
+		"pdm": "VEÍCULO CARROCERIA FECHADA",
+		"grupo": 23
+	},
+	{
+		"id": 15294,
+		"pdm": "CAMINHÃO REBOQUE",
+		"grupo": 23
+	},
+	{
+		"id": 15699,
+		"pdm": "CAMINHÃO TRATOR",
+		"grupo": 23
+	},
+	{
+		"id": 16426,
+		"pdm": "VEÍCULO TRANSPORTE CARGA",
+		"grupo": 23
+	},
+	{
+		"id": 16791,
+		"pdm": "VEÍCULOS TERRESTRES",
+		"grupo": 23
+	},
+	{
+		"id": 16792,
+		"pdm": "VEÍCULOS MOTORIZADOS DE PASSAGEIROS",
+		"grupo": 23
+	},
+	{
+		"id": 16793,
+		"pdm": "VEÍCULO ESPECIAL",
+		"grupo": 23
+	},
+	{
+		"id": 16794,
+		"pdm": "VEÍCULOS SOBRE RODAS",
+		"grupo": 23
+	},
+	{
+		"id": 16795,
+		"pdm": "REBOQUES",
+		"grupo": 23
+	},
+	{
+		"id": 16796,
+		"pdm": "MOTOCICLETA",
+		"grupo": 23
+	},
+	{
+		"id": 16797,
+		"pdm": "VEÍCULOS TÁTICOS SOBRE LAGARTAS",
+		"grupo": 23
+	},
+	{
+		"id": "09863",
+		"pdm": "MOLA PARA TRATOR DE RODA",
+		"grupo": 24
+	},
+	{
+		"id": 12930,
+		"pdm": "TRATOR COM SUSPENSAO ARTICULADA",
+		"grupo": 24
+	},
+	{
+		"id": 12931,
+		"pdm": "TRATOR DE ALTA VELOCIDADE",
+		"grupo": 24
+	},
+	{
+		"id": 12933,
+		"pdm": "TRATOR DE BAIXA VELOCIDADE",
+		"grupo": 24
+	},
+	{
+		"id": 12934,
+		"pdm": "TRATOR DE ESTEIRA",
+		"grupo": 24
+	},
+	{
+		"id": 12936,
+		"pdm": "TRATOR",
+		"grupo": 24
+	},
+	{
+		"id": 12937,
+		"pdm": "TRATOR FLORESTAL",
+		"grupo": 24
+	},
+	{
+		"id": 12938,
+		"pdm": "TRATOR INDUSTRIAL",
+		"grupo": 24
+	},
+	{
+		"id": 12940,
+		"pdm": "TRATOR TERRAPLENAGEM - PEÇA / ACESSÓRIO",
+		"grupo": 24
+	},
+	{
+		"id": 16798,
+		"pdm": "TRATORES DE LAGARTA DE BAIXA VELOCIDADE",
+		"grupo": 24
+	},
+	{
+		"id": 16799,
+		"pdm": "TRATORES SOBRE RODAS",
+		"grupo": 24
+	},
+	{
+		"id": 16800,
+		"pdm": "TRATORES DE ALTA VELOCIDADE SOBRE LAGARTAS",
+		"grupo": 24
+	},
+	{
+		"id": "00652",
+		"pdm": "PINÇA FREIO - VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "00655",
+		"pdm": "PALHETA LIMPADOR PÁRA-BRISA",
+		"grupo": 25
+	},
+	{
+		"id": "00684",
+		"pdm": "BRAÇADEIRA",
+		"grupo": 25
+	},
+	{
+		"id": "00806",
+		"pdm": "AMORTECEDOR SUSPENSÃO",
+		"grupo": 25
+	},
+	{
+		"id": "00807",
+		"pdm": "MOLA SUSPENSÃO",
+		"grupo": 25
+	},
+	{
+		"id": "01641",
+		"pdm": "ACENDEDOR CIGARRO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "01654",
+		"pdm": "PEÇAS / ACESSÓRIOS CAMINHÃO",
+		"grupo": 25
+	},
+	{
+		"id": "01655",
+		"pdm": "PEÇAS / ACESSÓRIOS ÔNIBUS",
+		"grupo": 25
+	},
+	{
+		"id": "01656",
+		"pdm": "ARMAÇÃO SEGURANÇA VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "01665",
+		"pdm": "ACESSÓRIO CARRO BLINDADO",
+		"grupo": 25
+	},
+	{
+		"id": "02099",
+		"pdm": "ADAPTADOR TAMBOR DE FREIO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "02233",
+		"pdm": "ALAVANCA VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "02286",
+		"pdm": "ALGEMA DE VEICULO",
+		"grupo": 25
+	},
+	{
+		"id": "02341",
+		"pdm": "ALMOFADA ASSENTO - VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "02342",
+		"pdm": "ALMOFADA BORRACHA PARA LAGARTA - VEICULO AUTOMOTI",
+		"grupo": 25
+	},
+	{
+		"id": "02434",
+		"pdm": "AMORTECEDORES DE SUSPENSAO",
+		"grupo": 25
+	},
+	{
+		"id": "02508",
+		"pdm": "RETENTOR VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "02510",
+		"pdm": "ANEL SINCRONIZADOR CAIXA DE MARCHA - VEICULO A UTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "02535",
+		"pdm": "ANTENA VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "02541",
+		"pdm": "ANTENA ELÉTRICA - VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "02709",
+		"pdm": "APARELHO DE FORCA DE VEICULO",
+		"grupo": 25
+	},
+	{
+		"id": "02915",
+		"pdm": "AQUECEDOR AR - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "02929",
+		"pdm": "AQUECEDOR DE VEÍCULO",
+		"grupo": 25
+	},
+	{
+		"id": "02992",
+		"pdm": "ARMA AUTO - PROPULSIONADA SOBRE LAGARTA",
+		"grupo": 25
+	},
+	{
+		"id": "03025",
+		"pdm": "ARO FAROL - VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "03026",
+		"pdm": "ARO BICICLETA",
+		"grupo": 25
+	},
+	{
+		"id": "03100",
+		"pdm": "ASSOALHO - VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "03127",
+		"pdm": "ATUADOR PNEUMATICO - ACIONAMENTO DE VALVULA",
+		"grupo": 25
+	},
+	{
+		"id": "03200",
+		"pdm": "BAGAGEIRO VEÍCULO",
+		"grupo": 25
+	},
+	{
+		"id": "03275",
+		"pdm": "BANCO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "03363",
+		"pdm": "BARRA DIREÇÃO",
+		"grupo": 25
+	},
+	{
+		"id": "03385",
+		"pdm": "BARRA DE SUSPENSAO",
+		"grupo": 25
+	},
+	{
+		"id": "03387",
+		"pdm": "PONTEIRA PÁRA-CHOQUE",
+		"grupo": 25
+	},
+	{
+		"id": "03460",
+		"pdm": "BATENTE DE VEÍCULO",
+		"grupo": 25
+	},
+	{
+		"id": "03737",
+		"pdm": "BOMBA D'AGUA VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "03835",
+		"pdm": "BOTAO PAINEL DE INSTRUMENTO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "03838",
+		"pdm": "PEÇAS / ACESSÓRIOS BICICLETA",
+		"grupo": 25
+	},
+	{
+		"id": "03996",
+		"pdm": "CABINE COMPLETA DE TRATOR DE ESTEIRA",
+		"grupo": 25
+	},
+	{
+		"id": "03997",
+		"pdm": "CABINE COMPLETA DE TRATOR DE RODA",
+		"grupo": 25
+	},
+	{
+		"id": "04033",
+		"pdm": "CABO MARCADOR VELOCIDADE",
+		"grupo": 25
+	},
+	{
+		"id": "04140",
+		"pdm": "CAIXA MARCHA VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "04152",
+		"pdm": "CAIXA DIRECAO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "04178",
+		"pdm": "CAIXA TRANSMISSAO HIDRAULICA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "04217",
+		"pdm": "CALCO CAIXA DE MARCHA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "04249",
+		"pdm": "CALHA PLASTICA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "04305",
+		"pdm": "CALOTA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "04440",
+		"pdm": "CAPA VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "04441",
+		"pdm": "CAPA BANCO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "04490",
+		"pdm": "CAPOTA AUTOMOTIVA",
+		"grupo": 25
+	},
+	{
+		"id": "04502",
+		"pdm": "CAPTADOR DE AR DO SISTEMA DE PRE - AQUECIMENTO DE MOTOR",
+		"grupo": 25
+	},
+	{
+		"id": "04631",
+		"pdm": "CARROCERIA BASCULANTE",
+		"grupo": 25
+	},
+	{
+		"id": "04632",
+		"pdm": "CARROCERIA FIBRA DE VIDRO",
+		"grupo": 25
+	},
+	{
+		"id": "04633",
+		"pdm": "CARROCERIA MADEIRA CAMINHÃO",
+		"grupo": 25
+	},
+	{
+		"id": "04634",
+		"pdm": "CARROCERIA",
+		"grupo": 25
+	},
+	{
+		"id": "04635",
+		"pdm": "CARROCERIA PARA TRATOR DE ESTEIRA COMPLETA",
+		"grupo": 25
+	},
+	{
+		"id": "04636",
+		"pdm": "CARROCERIA PARA TRATOR DE RODA",
+		"grupo": 25
+	},
+	{
+		"id": "04637",
+		"pdm": "CARROCERIA TIPO FRIGORIFICO",
+		"grupo": 25
+	},
+	{
+		"id": "04999",
+		"pdm": "CILINDRO HIDRAULICO DE FREIO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "05399",
+		"pdm": "COMPLEMENTO ALAVANCA MUDANCA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "05468",
+		"pdm": "COMPONENTE TRANSMISSÃO E CÂMBIO - VEÍCULO AUTO",
+		"grupo": 25
+	},
+	{
+		"id": "05469",
+		"pdm": "COMPONENTE TRATOR ESTEIRA",
+		"grupo": 25
+	},
+	{
+		"id": "05470",
+		"pdm": "COMPONENTE TRATOR RODA",
+		"grupo": 25
+	},
+	{
+		"id": "05520",
+		"pdm": "COMPRESSOR SISTEMA DE FREIO A AR - VEICULO AUTO MOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "05736",
+		"pdm": "CONJUNTO DE PARA-BRISA",
+		"grupo": 25
+	},
+	{
+		"id": "05744",
+		"pdm": "CONJUNTO EMBREAGEM VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "05750",
+		"pdm": "CONJUNTO FREIO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "05782",
+		"pdm": "CONSOLE ESPECIAL - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "05835",
+		"pdm": "CONVERSOR DE TORCAO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "05992",
+		"pdm": "CRUZETA TRANSMISSÃO VEÍCULO",
+		"grupo": 25
+	},
+	{
+		"id": "06004",
+		"pdm": "RODA LIVRE",
+		"grupo": 25
+	},
+	{
+		"id": "06005",
+		"pdm": "CUBO RODA",
+		"grupo": 25
+	},
+	{
+		"id": "06080",
+		"pdm": "DESEMBACADOR VIDRO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "06259",
+		"pdm": "DISCO EMBREAGEM",
+		"grupo": 25
+	},
+	{
+		"id": "06264",
+		"pdm": "DISCO FREIO",
+		"grupo": 25
+	},
+	{
+		"id": "06270",
+		"pdm": "DISCO RODA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "06343",
+		"pdm": "DISTINTIVO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "06440",
+		"pdm": "EIXO TRANSMISSAO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "06516",
+		"pdm": "EMBLEMA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "06566",
+		"pdm": "ENGATE REBOQUE - VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "07014",
+		"pdm": "ESPELHO RETROVISOR VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "07015",
+		"pdm": "ESPELHO RETROVISOR DE VEICULO",
+		"grupo": 25
+	},
+	{
+		"id": "07071",
+		"pdm": "ESTABILIZADOR ELETRONICO MARCADOR PAINEL - VEICULOAUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "07777",
+		"pdm": "FORRO PORTA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "07830",
+		"pdm": "VÁLVULA EQUALIZADORA FREIO",
+		"grupo": 25
+	},
+	{
+		"id": "07831",
+		"pdm": "FREIO ELETROMAGNETICO / PNEUMATICO",
+		"grupo": 25
+	},
+	{
+		"id": "07832",
+		"pdm": "FREIO EMBREAGEM DE TORRE - CARRO DE COMBATE",
+		"grupo": 25
+	},
+	{
+		"id": "07833",
+		"pdm": "FREIO HIDRODINAMICO",
+		"grupo": 25
+	},
+	{
+		"id": "08160",
+		"pdm": "GUINDASTE PARA CARRO SOCORRO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "08388",
+		"pdm": "INDICADOR COMBUSTÍVEL VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "08575",
+		"pdm": "JUNTA CAIXA TRANSMISSÃO",
+		"grupo": 25
+	},
+	{
+		"id": "08678",
+		"pdm": "LANCA - CHAMA AUTO - PROPULSIONADO SOBRE LAGARTA",
+		"grupo": 25
+	},
+	{
+		"id": "08732",
+		"pdm": "LATARIA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "08915",
+		"pdm": "LONA FREIO",
+		"grupo": 25
+	},
+	{
+		"id": "08983",
+		"pdm": "LUZ FREIO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "09027",
+		"pdm": "MAGUEIRA DE AVANCO DE DISTRIBUIDOR",
+		"grupo": 25
+	},
+	{
+		"id": "09087",
+		"pdm": "MANGA DE EIXO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "09098",
+		"pdm": "MANGUEIRA FLEXIVEL DE FREIO",
+		"grupo": 25
+	},
+	{
+		"id": "09144",
+		"pdm": "MÁQUINA ACIONAMENTO VIDRO",
+		"grupo": 25
+	},
+	{
+		"id": "09375",
+		"pdm": "MARCHA DE FORCA DE VEICULO",
+		"grupo": 25
+	},
+	{
+		"id": "09810",
+		"pdm": "MOBILIÁRIO - VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "09856",
+		"pdm": "MOLA DE SUSPENSAO",
+		"grupo": 25
+	},
+	{
+		"id": "09857",
+		"pdm": "MOLA DE TRATOR DE COLOCACAO DE TRILHO",
+		"grupo": 25
+	},
+	{
+		"id": "09922",
+		"pdm": "MOTOCICLETA - PEÇAS E COMPONENTES",
+		"grupo": 25
+	},
+	{
+		"id": "09923",
+		"pdm": "MOTOCICLETA - AMORTECEDOR",
+		"grupo": 25
+	},
+	{
+		"id": "09926",
+		"pdm": "CABO VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": "09927",
+		"pdm": "MOTOCICLETA - CAIXA DIRECAO",
+		"grupo": 25
+	},
+	{
+		"id": "09929",
+		"pdm": "MOTOCICLETA - CAPA DE BANCO",
+		"grupo": 25
+	},
+	{
+		"id": "09931",
+		"pdm": "MOTOCICLETA - CARCACA DE BANCO",
+		"grupo": 25
+	},
+	{
+		"id": "09933",
+		"pdm": "MOTOCICLETA - CARCACA PAINEL",
+		"grupo": 25
+	},
+	{
+		"id": "09934",
+		"pdm": "MOTOCICLETA - CAVALETE LATERAL",
+		"grupo": 25
+	},
+	{
+		"id": "09935",
+		"pdm": "MOTOCICLETA - CILINDRO GARFO",
+		"grupo": 25
+	},
+	{
+		"id": "09937",
+		"pdm": "MOTOCICLETA - CORRENTE",
+		"grupo": 25
+	},
+	{
+		"id": "09938",
+		"pdm": "MOTOCICLETA - GUIA DA CORRENTE",
+		"grupo": 25
+	},
+	{
+		"id": "09939",
+		"pdm": "GUIDÃO BICICLETA",
+		"grupo": 25
+	},
+	{
+		"id": "09942",
+		"pdm": "MOTOCICLETA - MANETE",
+		"grupo": 25
+	},
+	{
+		"id": "09943",
+		"pdm": "MOTOCICLETA - PARA-LAMA",
+		"grupo": 25
+	},
+	{
+		"id": "09944",
+		"pdm": "MOTOCICLETA - PECA SISTEMA CAMBIO",
+		"grupo": 25
+	},
+	{
+		"id": "09945",
+		"pdm": "MOTOCICLETA - PEDAL * PARTIDA / PEDALEIRA / CAMBIO",
+		"grupo": 25
+	},
+	{
+		"id": "09946",
+		"pdm": "GARFO BICICLETA",
+		"grupo": 25
+	},
+	{
+		"id": 10151,
+		"pdm": "ODOMETRO",
+		"grupo": 25
+	},
+	{
+		"id": 10309,
+		"pdm": "PAINEL INSTRUMENTO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 10322,
+		"pdm": "PALHETA LIMPADOR PÁRA-BRISA",
+		"grupo": 25
+	},
+	{
+		"id": 10414,
+		"pdm": "SAIA DE PÁRA-CHOQUE",
+		"grupo": 25
+	},
+	{
+		"id": 10419,
+		"pdm": "PÁRA-LAMA",
+		"grupo": 25
+	},
+	{
+		"id": 10420,
+		"pdm": "PARA-LAMA VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 10502,
+		"pdm": "PASTILHA FREIO",
+		"grupo": 25
+	},
+	{
+		"id": 10539,
+		"pdm": "ALTERNADOR AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 10563,
+		"pdm": "PECA/COMPONENTE BARRA DIRECAO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 10569,
+		"pdm": "LIMITADOR DIREÇÃO",
+		"grupo": 25
+	},
+	{
+		"id": 10685,
+		"pdm": "PESO BALANCEAR RODA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 10790,
+		"pdm": "PISTAO MOTOR GASOLINA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 10806,
+		"pdm": "PLACA VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 10908,
+		"pdm": "PLATO EMBREAGEM - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 11033,
+		"pdm": "PORTA-CAPUZ COMPARTIMENTO DE MOTOR",
+		"grupo": 25
+	},
+	{
+		"id": 11058,
+		"pdm": "PORTA-VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 11319,
+		"pdm": "PROTETOR JANELA. PORTA OU VISTA - VEICULO AUTO MOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 11359,
+		"pdm": "QUADRO CHASSI",
+		"grupo": 25
+	},
+	{
+		"id": 11394,
+		"pdm": "RADIO / TOCA FITA / CD - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 11517,
+		"pdm": "REDUTOR DE VELOCIDADE",
+		"grupo": 25
+	},
+	{
+		"id": 11710,
+		"pdm": "RETENTOR RODA - VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 11769,
+		"pdm": "RODA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 11770,
+		"pdm": "RODA BORRACHA MACIÇA - VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 11776,
+		"pdm": "RODA BORRACHA MACIÇA",
+		"grupo": 25
+	},
+	{
+		"id": 11783,
+		"pdm": "RODOAR",
+		"grupo": 25
+	},
+	{
+		"id": 11792,
+		"pdm": "ROLAMENTO COLAR EMBREAGEM - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 11814,
+		"pdm": "ROLETE DE ESTEIRA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 11815,
+		"pdm": "ROLETE DE ESTEIRA DE VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 11987,
+		"pdm": "SELIM",
+		"grupo": 25
+	},
+	{
+		"id": 12004,
+		"pdm": "SEMI-EIXO BENGALA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 12086,
+		"pdm": "SINCRONIZADOR",
+		"grupo": 25
+	},
+	{
+		"id": 12166,
+		"pdm": "SISTEMA VIDRO ELETRICO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 12400,
+		"pdm": "SUPORTE ESTEPE - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 12401,
+		"pdm": "SUPORTE ESTICADOR CORREIA ALTERNADOR - VEICULO AU TOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 12407,
+		"pdm": "MOLA VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 12421,
+		"pdm": "SUPORTE PINÇA",
+		"grupo": 25
+	},
+	{
+		"id": 12440,
+		"pdm": "BALANÇA SUSPENSÃO VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 12441,
+		"pdm": "SUSPENSAO VEICULO AUTOMOTIVO - BARRA",
+		"grupo": 25
+	},
+	{
+		"id": 12442,
+		"pdm": "SUSPENSAO VEICULO AUTOMOTIVO - BATENTE",
+		"grupo": 25
+	},
+	{
+		"id": 12443,
+		"pdm": "BUCHA SUSPENSÃO AUTOMOTIVA",
+		"grupo": 25
+	},
+	{
+		"id": 12444,
+		"pdm": "SUSPENSAO VEICULO AUTOMOTIVO - COIFA",
+		"grupo": 25
+	},
+	{
+		"id": 12445,
+		"pdm": "SUSPENSAO VEICULO AUTOMOTIVO - JUMELO",
+		"grupo": 25
+	},
+	{
+		"id": 12446,
+		"pdm": "SUSPENSAO VEICULO AUTOMOTIVO - PINO MOLA",
+		"grupo": 25
+	},
+	{
+		"id": 12504,
+		"pdm": "TAMBOR FREIO",
+		"grupo": 25
+	},
+	{
+		"id": 12654,
+		"pdm": "TERMINAL DIREÇÃO",
+		"grupo": 25
+	},
+	{
+		"id": 12798,
+		"pdm": "TOCA-FITAS - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 12863,
+		"pdm": "TRANCA VOLANTE DIRECAO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 12942,
+		"pdm": "TRAVA ANTIFURTO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 12943,
+		"pdm": "TRAVA ELETRICA PORTA - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 12964,
+		"pdm": "TRIANGULO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 13367,
+		"pdm": "VELOCIMETRO",
+		"grupo": 25
+	},
+	{
+		"id": 13429,
+		"pdm": "VIDRO - VEICULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 13478,
+		"pdm": "VOLANTE DIREÇÃO",
+		"grupo": 25
+	},
+	{
+		"id": 13605,
+		"pdm": "MOTOCICLETA - PEÇA SISTEMA FREIO",
+		"grupo": 25
+	},
+	{
+		"id": 13615,
+		"pdm": "BRAÇO LIMPADOR PÁRA-BRISA",
+		"grupo": 25
+	},
+	{
+		"id": 13798,
+		"pdm": "PEÇA MECÂNICA/ELÉTRICA - VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 14060,
+		"pdm": "MARCADOR COMBUSTÍVEL",
+		"grupo": 25
+	},
+	{
+		"id": 14061,
+		"pdm": "FAROL APROXIMAÇÃO",
+		"grupo": 25
+	},
+	{
+		"id": 14062,
+		"pdm": "ESTOJO RODA",
+		"grupo": 25
+	},
+	{
+		"id": 14063,
+		"pdm": "ESPAÇADOR ACIONADOR LIMPADOR PÁRA-BRISA",
+		"grupo": 25
+	},
+	{
+		"id": 14064,
+		"pdm": "ENGRENAGEM ACIONAMENTO BOMBA INJETORA",
+		"grupo": 25
+	},
+	{
+		"id": 14065,
+		"pdm": "EIXO TRASEIRO COMPLETO",
+		"grupo": 25
+	},
+	{
+		"id": 14066,
+		"pdm": "DOBRADIÇA PÁRA-BRISA REBATÍVEL",
+		"grupo": 25
+	},
+	{
+		"id": 14067,
+		"pdm": "CILINDRO PRINCIPAL FREIO",
+		"grupo": 25
+	},
+	{
+		"id": 14068,
+		"pdm": "GUIA DA JANELA PORTA",
+		"grupo": 25
+	},
+	{
+		"id": 14069,
+		"pdm": "HASTE TRAMBULADOR",
+		"grupo": 25
+	},
+	{
+		"id": 14070,
+		"pdm": "COIFA GARFO ACIONAMENTO EMBREAGEM",
+		"grupo": 25
+	},
+	{
+		"id": 14071,
+		"pdm": "GARFO ACIONAMENTO EMBREAGEM",
+		"grupo": 25
+	},
+	{
+		"id": 14243,
+		"pdm": "MANIVELA ACIONAMENTO VIDRO",
+		"grupo": 25
+	},
+	{
+		"id": 14244,
+		"pdm": "AMORTECEDOR DIREÇÃO",
+		"grupo": 25
+	},
+	{
+		"id": 14246,
+		"pdm": "MAÇANETA AUTOMOTIVA",
+		"grupo": 25
+	},
+	{
+		"id": 14252,
+		"pdm": "BRAÇO PITMAN",
+		"grupo": 25
+	},
+	{
+		"id": 14255,
+		"pdm": "ENGRENAGEM AUTOMOTIVA",
+		"grupo": 25
+	},
+	{
+		"id": 14308,
+		"pdm": "ESTRIBO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 14309,
+		"pdm": "PROTETOR AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 14312,
+		"pdm": "REVESTIMENTO CAÇAMBA AUTOMOTIVA",
+		"grupo": 25
+	},
+	{
+		"id": 14345,
+		"pdm": "JOGO COROA PINHAO",
+		"grupo": 25
+	},
+	{
+		"id": 14346,
+		"pdm": "CILINDRO FREIO",
+		"grupo": 25
+	},
+	{
+		"id": 14350,
+		"pdm": "PROTETOR CABO EMBREAGEM",
+		"grupo": 25
+	},
+	{
+		"id": 14354,
+		"pdm": "COIFA TRANSMISSÃO AUTOMOTIVA",
+		"grupo": 25
+	},
+	{
+		"id": 14357,
+		"pdm": "PARAFUSO ACELERADOR AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 14382,
+		"pdm": "PESTANA PORTA AUTOMÓVEL",
+		"grupo": 25
+	},
+	{
+		"id": 14393,
+		"pdm": "PÁRA-BRISA",
+		"grupo": 25
+	},
+	{
+		"id": 14674,
+		"pdm": "BORRACHA ESTABILIZADOR",
+		"grupo": 25
+	},
+	{
+		"id": 14675,
+		"pdm": "BORRACHA PORTA",
+		"grupo": 25
+	},
+	{
+		"id": 14731,
+		"pdm": "BRAÇO AUXILIAR DIREÇÃO",
+		"grupo": 25
+	},
+	{
+		"id": 14766,
+		"pdm": "TETO TRATOR",
+		"grupo": 25
+	},
+	{
+		"id": 15288,
+		"pdm": "FECHADURA PORTA",
+		"grupo": 25
+	},
+	{
+		"id": 15310,
+		"pdm": "BORRACHA JANELA",
+		"grupo": 25
+	},
+	{
+		"id": 15317,
+		"pdm": "CANALETA VIDRO VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 15579,
+		"pdm": "TRAVESSA VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 15581,
+		"pdm": "BORRACHA AMORTECEDOR",
+		"grupo": 25
+	},
+	{
+		"id": 15582,
+		"pdm": "PÁRA-SOL VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 15583,
+		"pdm": "TETO VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 15584,
+		"pdm": "CAPÔ VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 15585,
+		"pdm": "LATERAL CARROCERIA",
+		"grupo": 25
+	},
+	{
+		"id": 15586,
+		"pdm": "ARO GRADE",
+		"grupo": 25
+	},
+	{
+		"id": 15587,
+		"pdm": "BUCHA GRADE",
+		"grupo": 25
+	},
+	{
+		"id": 15588,
+		"pdm": "FORRO VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 15589,
+		"pdm": "GRAMPO REVESTIMENTO VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 15590,
+		"pdm": "SUPORTE PÁRA-CHOQUE",
+		"grupo": 25
+	},
+	{
+		"id": 15591,
+		"pdm": "BORRACHA CANALETA",
+		"grupo": 25
+	},
+	{
+		"id": 15592,
+		"pdm": "BORRACHA PÁRA-BRISA",
+		"grupo": 25
+	},
+	{
+		"id": 15655,
+		"pdm": "COLAR EMBREAGEM AUTOMOTIVA",
+		"grupo": 25
+	},
+	{
+		"id": 15656,
+		"pdm": "PLATÔ EMBREAGEM AUTOMOTIVA",
+		"grupo": 25
+	},
+	{
+		"id": 15705,
+		"pdm": "CILINDRO MESTRE EMBREAGEM",
+		"grupo": 25
+	},
+	{
+		"id": 15709,
+		"pdm": "BRAÇO OSCILANTE",
+		"grupo": 25
+	},
+	{
+		"id": 15718,
+		"pdm": "CONJUNTO EMBREAGEM AUTOMOTIVA",
+		"grupo": 25
+	},
+	{
+		"id": 15731,
+		"pdm": "CRUZETA EIXO CARDÃ",
+		"grupo": 25
+	},
+	{
+		"id": 15814,
+		"pdm": "HÉLICE VENTILADOR VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 15817,
+		"pdm": "APOIO VARETA",
+		"grupo": 25
+	},
+	{
+		"id": 15818,
+		"pdm": "TAMPÃO CAIXA AR",
+		"grupo": 25
+	},
+	{
+		"id": 15850,
+		"pdm": "TAMPA PORTA-MALA VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 15851,
+		"pdm": "SERVOFREIO",
+		"grupo": 25
+	},
+	{
+		"id": 15854,
+		"pdm": "PÁRA-CHOQUE",
+		"grupo": 25
+	},
+	{
+		"id": 15856,
+		"pdm": "JUNTA HOMOCINÉTICA",
+		"grupo": 25
+	},
+	{
+		"id": 15864,
+		"pdm": "TRAVA SEMI-EIXO",
+		"grupo": 25
+	},
+	{
+		"id": 15865,
+		"pdm": "PINO CÂMBIO TRATOR",
+		"grupo": 25
+	},
+	{
+		"id": 15877,
+		"pdm": "JOGO REPARO PISTÃO",
+		"grupo": 25
+	},
+	{
+		"id": 15878,
+		"pdm": "TUBO SISTEMA FREIO",
+		"grupo": 25
+	},
+	{
+		"id": 15880,
+		"pdm": "BUCHA AMORTECEDOR",
+		"grupo": 25
+	},
+	{
+		"id": 15881,
+		"pdm": "UNIDADE ATUADORA",
+		"grupo": 25
+	},
+	{
+		"id": 15885,
+		"pdm": "GARFO",
+		"grupo": 25
+	},
+	{
+		"id": 15886,
+		"pdm": "GUARNIÇÃO SISTEMA CÂMBIO",
+		"grupo": 25
+	},
+	{
+		"id": 15888,
+		"pdm": "BIELETA",
+		"grupo": 25
+	},
+	{
+		"id": 15902,
+		"pdm": "TAMPA TIPO FOLE",
+		"grupo": 25
+	},
+	{
+		"id": 15905,
+		"pdm": "RETENTOR CUBO RODA",
+		"grupo": 25
+	},
+	{
+		"id": 15908,
+		"pdm": "COROA TRANSMISSÃO",
+		"grupo": 25
+	},
+	{
+		"id": 15920,
+		"pdm": "DISCO EMBREAGEM - MOTOCICLETA",
+		"grupo": 25
+	},
+	{
+		"id": 15922,
+		"pdm": "PINHÃO DE TRANSMISSÃO",
+		"grupo": 25
+	},
+	{
+		"id": 15937,
+		"pdm": "ARTICULAÇÃO BARRA SELETORA VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 15938,
+		"pdm": "ANEL CÂMBIO",
+		"grupo": 25
+	},
+	{
+		"id": 15952,
+		"pdm": "BARRA SELETORA CÂMBIO",
+		"grupo": 25
+	},
+	{
+		"id": 15953,
+		"pdm": "PORCA CÂMBIO",
+		"grupo": 25
+	},
+	{
+		"id": 15958,
+		"pdm": "MOTOR LIMPADOR DO PARA-BRISA",
+		"grupo": 25
+	},
+	{
+		"id": 16165,
+		"pdm": "EIXO BICICLETA",
+		"grupo": 25
+	},
+	{
+		"id": 16166,
+		"pdm": "CORRENTE BICICLETA",
+		"grupo": 25
+	},
+	{
+		"id": 16167,
+		"pdm": "CATRACA BICICLETA",
+		"grupo": 25
+	},
+	{
+		"id": 16168,
+		"pdm": "PEDAL BICICLETA",
+		"grupo": 25
+	},
+	{
+		"id": 16225,
+		"pdm": "COMPONENTES DIVERSOS DE VEÍCULOS",
+		"grupo": 25
+	},
+	{
+		"id": 16226,
+		"pdm": "CALÇO ESCAPAMENTO VEÍCULO",
+		"grupo": 25
+	},
+	{
+		"id": 16237,
+		"pdm": "VÁLVULA CONTROLE PORTA",
+		"grupo": 25
+	},
+	{
+		"id": 16238,
+		"pdm": "VÁLVULA FREIO ESTACIONAMENTO",
+		"grupo": 25
+	},
+	{
+		"id": 16239,
+		"pdm": "VÁLVULA RETENÇÃO MOLA ESTACIONAMENTO",
+		"grupo": 25
+	},
+	{
+		"id": 16245,
+		"pdm": "CHAVE SELETORA",
+		"grupo": 25
+	},
+	{
+		"id": 16246,
+		"pdm": "PRESILHA VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 16247,
+		"pdm": "HASTE GUIA",
+		"grupo": 25
+	},
+	{
+		"id": 16256,
+		"pdm": "TRAVA ROLAMENTO",
+		"grupo": 25
+	},
+	{
+		"id": 16276,
+		"pdm": "SUSPENSÃO VEÍCULO AUTOMOTIVO - AMORTECEDOR",
+		"grupo": 25
+	},
+	{
+		"id": 16277,
+		"pdm": "TRAVESSA TETO VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 16279,
+		"pdm": "COROA ENGRENAGEM BICICLETA",
+		"grupo": 25
+	},
+	{
+		"id": 16280,
+		"pdm": "SUPORTE PEDAL - VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 16296,
+		"pdm": "ESTOJO PRISIONEIRO CUBO RODA",
+		"grupo": 25
+	},
+	{
+		"id": 16297,
+		"pdm": "TUBO SISTEMA EMBREAGEM",
+		"grupo": 25
+	},
+	{
+		"id": 16354,
+		"pdm": "GUARNIÇÃO ESTRIBO",
+		"grupo": 25
+	},
+	{
+		"id": 16491,
+		"pdm": "MANGUEIRA AVANÇO DO DISTRIBUIDOR",
+		"grupo": 25
+	},
+	{
+		"id": 16493,
+		"pdm": "COIFA HOMOCINÉTICA",
+		"grupo": 25
+	},
+	{
+		"id": 16502,
+		"pdm": "BORRACHA COIFA",
+		"grupo": 25
+	},
+	{
+		"id": 16503,
+		"pdm": "CILINDRO RODA",
+		"grupo": 25
+	},
+	{
+		"id": 16529,
+		"pdm": "TAPETE VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 16568,
+		"pdm": "FEIXE MOLAS",
+		"grupo": 25
+	},
+	{
+		"id": 16570,
+		"pdm": "PIVÔ BALANÇA SUSPENSÃO",
+		"grupo": 25
+	},
+	{
+		"id": 16581,
+		"pdm": "SAPATA LONA FREIO",
+		"grupo": 25
+	},
+	{
+		"id": 16582,
+		"pdm": "PIVÔ BRAÇO VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 16583,
+		"pdm": "DESCARGA VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 16595,
+		"pdm": "ESTICADOR CORREIA DENTADA",
+		"grupo": 25
+	},
+	{
+		"id": 16597,
+		"pdm": "HIDROVÁCUO",
+		"grupo": 25
+	},
+	{
+		"id": 16608,
+		"pdm": "MANGUEIRA SUSPIRO ÓLEO",
+		"grupo": 25
+	},
+	{
+		"id": 16801,
+		"pdm": "COMPONENTES DE CABINE. CARROCERIA E CHASSIS DE VEÍCULOS",
+		"grupo": 25
+	},
+	{
+		"id": 16802,
+		"pdm": "COMPONENTES DE TRANSMISSÃO DE VEÍCULOS",
+		"grupo": 25
+	},
+	{
+		"id": 16803,
+		"pdm": "COMPONENTES DE FREIO. DIREÇÃO. EIXO. RODA E LAGARTA DE VEÍCULOS",
+		"grupo": 25
+	},
+	{
+		"id": 16804,
+		"pdm": "PÉ VELA",
+		"grupo": 25
+	},
+	{
+		"id": 16805,
+		"pdm": "COMPONENTES DIVERSOS PARA VEÍCULOS",
+		"grupo": 25
+	},
+	{
+		"id": 17367,
+		"pdm": "REPARO PINÇA FREIO",
+		"grupo": 25
+	},
+	{
+		"id": 17377,
+		"pdm": "ACESSÓRIOS VEICULARES ESPECÍFICOS PARA SISTEMAS DE ARMAS",
+		"grupo": 25
+	},
+	{
+		"id": 17492,
+		"pdm": "SAPATA FREIO BICICLETA",
+		"grupo": 25
+	},
+	{
+		"id": 17511,
+		"pdm": "GARFO DE FREIO",
+		"grupo": 25
+	},
+	{
+		"id": 17585,
+		"pdm": "REPARO CILINDRO FREIO",
+		"grupo": 25
+	},
+	{
+		"id": 17597,
+		"pdm": "BUCHA FEIXE DE MOLA",
+		"grupo": 25
+	},
+	{
+		"id": 17598,
+		"pdm": "BOMBA EMBREAGEM VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 17600,
+		"pdm": "ATUADOR EMBREAGEM VEÍCULO AUTOMOTIVO",
+		"grupo": 25
+	},
+	{
+		"id": 17626,
+		"pdm": "GARFO JUNTA UNIVERSAL",
+		"grupo": 25
+	},
+	{
+		"id": 17627,
+		"pdm": "TAMPA CARCAÇA",
+		"grupo": 25
+	},
+	{
+		"id": 18343,
+		"pdm": "TRAVA FREIO ESTACIONAMENTO",
+		"grupo": 25
+	},
+	{
+		"id": 18344,
+		"pdm": "PORCA FREIO ESTACIONAMENTO",
+		"grupo": 25
+	},
+	{
+		"id": 18345,
+		"pdm": "PARAFUSO FREIO ESTACIONAMENTO",
+		"grupo": 25
+	},
+	{
+		"id": 18346,
+		"pdm": "PRISIONEIRO FREIO ESTACIONAMENTO",
+		"grupo": 25
+	},
+	{
+		"id": 18360,
+		"pdm": "RAIO RODA",
+		"grupo": 25
+	},
+	{
+		"id": 18389,
+		"pdm": "CANO DE RETORNO DE COMBUSTIVEL",
+		"grupo": 25
+	},
+	{
+		"id": 18396,
+		"pdm": "CINTA FILTRO AR",
+		"grupo": 25
+	},
+	{
+		"id": 18403,
+		"pdm": "TRAVA ARANHA",
+		"grupo": 25
+	},
+	{
+		"id": 18404,
+		"pdm": "reparo cilindro roda",
+		"grupo": 25
+	},
+	{
+		"id": 18405,
+		"pdm": "CANO COMBUSTÍVEL",
+		"grupo": 25
+	},
+	{
+		"id": 18406,
+		"pdm": "DIAFRAGMA DA CUICA",
+		"grupo": 25
+	},
+	{
+		"id": 18450,
+		"pdm": "PIVÔ SUSPENSÃO",
+		"grupo": 25
+	},
+	{
+		"id": "00577",
+		"pdm": "PNEU VEÍCULO AUTOMOTIVO",
+		"grupo": 26
+	},
+	{
+		"id": "00591",
+		"pdm": "CÂMARA AR PNEU",
+		"grupo": 26
+	},
+	{
+		"id": "00592",
+		"pdm": "PNEU TRATOR RODAS DIRECIONAIS",
+		"grupo": 26
+	},
+	{
+		"id": "00593",
+		"pdm": "PNEU TRATOR RODAS TRAÇÃO",
+		"grupo": 26
+	},
+	{
+		"id": "01664",
+		"pdm": "ACESSORIO CAMARA DE AR",
+		"grupo": 26
+	},
+	{
+		"id": "01692",
+		"pdm": "ACESSÓRIO DE PNEUMÁTICO",
+		"grupo": 26
+	},
+	{
+		"id": "03078",
+		"pdm": "ARTIGO PARA REPARO DE CAMARA DE AR",
+		"grupo": 26
+	},
+	{
+		"id": "03079",
+		"pdm": "ARTIGO PARA REPARO DE PNEU",
+		"grupo": 26
+	},
+	{
+		"id": "03081",
+		"pdm": "ARTIGO REPARO PNEU / CAMARA DE AR",
+		"grupo": 26
+	},
+	{
+		"id": "03538",
+		"pdm": "BICO PNEU SEM CÂMARA",
+		"grupo": 26
+	},
+	{
+		"id": "04323",
+		"pdm": "CAMARA DE AR DE PNEU DE TRATOR E VEICULO DE TERRAPLENAGEM",
+		"grupo": 26
+	},
+	{
+		"id": "04324",
+		"pdm": "CÂMARA AR PNEU - AERONAVE",
+		"grupo": 26
+	},
+	{
+		"id": "05321",
+		"pdm": "COLA PARA REPARO DE PNEU",
+		"grupo": 26
+	},
+	{
+		"id": "05323",
+		"pdm": "COLA RAPIDA PARA REPARO DE PNEU",
+		"grupo": 26
+	},
+	{
+		"id": "05324",
+		"pdm": "COLA REPARO CAMARA DE AR",
+		"grupo": 26
+	},
+	{
+		"id": "06801",
+		"pdm": "EQUIPAMENTO MANUTENCAO E REPARO CAMARA DE AR",
+		"grupo": 26
+	},
+	{
+		"id": "07109",
+		"pdm": "ESTEIRA COM BANDA DE RODAGEM DE BORRACHA",
+		"grupo": 26
+	},
+	{
+		"id": "07165",
+		"pdm": "ESTOJO PARA REPARO DE PNEU",
+		"grupo": 26
+	},
+	{
+		"id": "07168",
+		"pdm": "ESTOJO REPARO CAMARA DE AR",
+		"grupo": 26
+	},
+	{
+		"id": "08917",
+		"pdm": "LONA PNEU",
+		"grupo": 26
+	},
+	{
+		"id": 10131,
+		"pdm": "NUCLEO VALVULA CAMARA DE AR",
+		"grupo": 26
+	},
+	{
+		"id": 10916,
+		"pdm": "PNEU - AERONAVE",
+		"grupo": 26
+	},
+	{
+		"id": 10917,
+		"pdm": "PNEU VEÍCULO MILITAR",
+		"grupo": 26
+	},
+	{
+		"id": 10918,
+		"pdm": "PNEU DIAGONAL CONVENCIONAL COM CAMARA - VEICULO AUTOMOTIVO",
+		"grupo": 26
+	},
+	{
+		"id": 10919,
+		"pdm": "PNEU DIAGONAL CONVENCIONAL SEM CAMARA - VEICULO AUTOMOTIVO",
+		"grupo": 26
+	},
+	{
+		"id": 10920,
+		"pdm": "PNEU MOTOCICLETA / MOTONETA / CICLOMOTOR",
+		"grupo": 26
+	},
+	{
+		"id": 10921,
+		"pdm": "PNEU ONIBUS / CAMINHAO",
+		"grupo": 26
+	},
+	{
+		"id": 10922,
+		"pdm": "PNEU RECAUCHUTADO",
+		"grupo": 26
+	},
+	{
+		"id": 10924,
+		"pdm": "PNEU TRATOR RODAS TRACAO",
+		"grupo": 26
+	},
+	{
+		"id": 11317,
+		"pdm": "PROTETOR CÂMARA DE AR",
+		"grupo": 26
+	},
+	{
+		"id": 11627,
+		"pdm": "REMENDO CAMARA DE AR",
+		"grupo": 26
+	},
+	{
+		"id": 11628,
+		"pdm": "REMENDO PARA PNEU",
+		"grupo": 26
+	},
+	{
+		"id": 11629,
+		"pdm": "REMENDO RAPIDO A FRIO",
+		"grupo": 26
+	},
+	{
+		"id": 12782,
+		"pdm": "TIRA RECAUCHUTAGEM",
+		"grupo": 26
+	},
+	{
+		"id": 13249,
+		"pdm": "VALVULA CAMARA DE AR",
+		"grupo": 26
+	},
+	{
+		"id": 13481,
+		"pdm": "VULCANIZADOR REMENDO CAMARA DE AR",
+		"grupo": 26
+	},
+	{
+		"id": 13482,
+		"pdm": "VULCANIZADOR REMENDO PNEU",
+		"grupo": 26
+	},
+	{
+		"id": 13618,
+		"pdm": "PNEU VEÍCULO TERRAPLENAGEM",
+		"grupo": 26
+	},
+	{
+		"id": 15984,
+		"pdm": "PNEU BICICLETA",
+		"grupo": 26
+	},
+	{
+		"id": 16145,
+		"pdm": "PNEU CARRINHO MÃO",
+		"grupo": 26
+	},
+	{
+		"id": 16432,
+		"pdm": "PNEU EMPILHADEIRA / CARREGADEIRA",
+		"grupo": 26
+	},
+	{
+		"id": 16806,
+		"pdm": "PNEUS E CÂMARAS DE AR. EXCETO OS DE AERONAVES",
+		"grupo": 26
+	},
+	{
+		"id": 16807,
+		"pdm": "PNEUS E CÂMARAS DE AR DE AERONAVES",
+		"grupo": 26
+	},
+	{
+		"id": 16808,
+		"pdm": "PNEUS MACIÇO E DE BAIXA PRESSÃO",
+		"grupo": 26
+	},
+	{
+		"id": 16809,
+		"pdm": "MATERIAL PARA REFORMA E REPARO DE PNEUS E CÂMARAS DE AR",
+		"grupo": 26
+	},
+	{
+		"id": "01690",
+		"pdm": "ACESSORIO DE MOTOR PRIMARIO DE MISSIL GUIADO",
+		"grupo": 28
+	},
+	{
+		"id": "02081",
+		"pdm": "ADAPTADOR DE COLETOR DE ADMISSAO DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "02090",
+		"pdm": "ADAPTADOR DE TUBO RESPIRADOR DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "02492",
+		"pdm": "ANEL DE DEFLATOR DE TURBINA A VAPOR",
+		"grupo": 28
+	},
+	{
+		"id": "02493",
+		"pdm": "ANEL DE FREAMENTO DE TURBINA A VAPOR",
+		"grupo": 28
+	},
+	{
+		"id": "02500",
+		"pdm": "ANEL DE SEGMENTO",
+		"grupo": 28
+	},
+	{
+		"id": "03459",
+		"pdm": "BATENTE COXIM DIANTEIRO - MOTOR VEÍCULO AUTOMOTIVO",
+		"grupo": 28
+	},
+	{
+		"id": "03536",
+		"pdm": "BICO INJETOR MOTOR DE EMBARCAÇÃO",
+		"grupo": 28
+	},
+	{
+		"id": "03542",
+		"pdm": "BIELA DE MOTOR A ALCOOL",
+		"grupo": 28
+	},
+	{
+		"id": "03543",
+		"pdm": "BIELA MOTOR A DIESEL",
+		"grupo": 28
+	},
+	{
+		"id": "03544",
+		"pdm": "BIELA DE MOTOR A GAS",
+		"grupo": 28
+	},
+	{
+		"id": "03545",
+		"pdm": "BIELA DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "03546",
+		"pdm": "BIELA MOTOR A VAPOR",
+		"grupo": 28
+	},
+	{
+		"id": "03547",
+		"pdm": "BIELA MOTOR DE EMBARCACAO",
+		"grupo": 28
+	},
+	{
+		"id": "03600",
+		"pdm": "BLOCO DE CILINDRO DE MOTOR DE EMBARCACAO",
+		"grupo": 28
+	},
+	{
+		"id": "03609",
+		"pdm": "BLOCO DE MOTOR A ALCOOL",
+		"grupo": 28
+	},
+	{
+		"id": "03610",
+		"pdm": "BLOCO DE MOTOR A DIESEL",
+		"grupo": 28
+	},
+	{
+		"id": "03611",
+		"pdm": "BLOCO DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "03951",
+		"pdm": "BUJAO DE ESCOAMENTO DE OLEO DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "03954",
+		"pdm": "BUJÃO ÓLEO ABASTECIMENTO",
+		"grupo": 28
+	},
+	{
+		"id": "03986",
+		"pdm": "CABEÇOTE MOTO-COMPRESSOR",
+		"grupo": 28
+	},
+	{
+		"id": "03987",
+		"pdm": "CABEÇOTE MOTOR",
+		"grupo": 28
+	},
+	{
+		"id": "03988",
+		"pdm": "CABEÇOTE DE MOTOR A GÁS",
+		"grupo": 28
+	},
+	{
+		"id": "03989",
+		"pdm": "CABEÇOTE DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "03990",
+		"pdm": "COMPRESSOR CONDICIONADOR AR",
+		"grupo": 28
+	},
+	{
+		"id": "04139",
+		"pdm": "CAIXA DIREÇÃO",
+		"grupo": 28
+	},
+	{
+		"id": "04372",
+		"pdm": "CAMISA CILINDRO MOTOR DE EMBARCAÇÃO",
+		"grupo": 28
+	},
+	{
+		"id": "04374",
+		"pdm": "CAMISA DE MOTOR A COMBUSTAO",
+		"grupo": 28
+	},
+	{
+		"id": "04528",
+		"pdm": "CARBURADOR MOTOR EMBARCAÇÃO",
+		"grupo": 28
+	},
+	{
+		"id": "04534",
+		"pdm": "CARCAÇA BOMBA ÓLEO DE MOTOR",
+		"grupo": 28
+	},
+	{
+		"id": "04535",
+		"pdm": "CARCAÇA MOTOR DE EMBARCAÇÃO",
+		"grupo": 28
+	},
+	{
+		"id": "04537",
+		"pdm": "CARCAÇA VENTOINHA SISTEMA RESFRIAMENTO",
+		"grupo": 28
+	},
+	{
+		"id": "04664",
+		"pdm": "CARTER DE MOTOR A COMBUSTAO",
+		"grupo": 28
+	},
+	{
+		"id": "04665",
+		"pdm": "CARTER DE MOTOR DE EMBARCACAO",
+		"grupo": 28
+	},
+	{
+		"id": "04691",
+		"pdm": "CASQUILHO BIELA MOTOR",
+		"grupo": 28
+	},
+	{
+		"id": "04692",
+		"pdm": "CASQUILHO ÁRVORE MANIVELA",
+		"grupo": 28
+	},
+	{
+		"id": "04696",
+		"pdm": "CATA - VENTO",
+		"grupo": 28
+	},
+	{
+		"id": "04837",
+		"pdm": "CHAPA DE PROTECAO DE CILINDRO DE MOTOR A EXPLOSAO",
+		"grupo": 28
+	},
+	{
+		"id": "04840",
+		"pdm": "CHAPA DEFLETORA AR CABECOTE",
+		"grupo": 28
+	},
+	{
+		"id": "04995",
+		"pdm": "CILINDRO DE MOTOR A COMBUSTAO",
+		"grupo": 28
+	},
+	{
+		"id": "05014",
+		"pdm": "CINTA DE ANEL DE SEGMENTO DE MOTOR",
+		"grupo": 28
+	},
+	{
+		"id": "05630",
+		"pdm": "CONEXAO T DO TUBO DE ABASTECIMENTO DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "05699",
+		"pdm": "CONJUNTO DE BOMBA DE OLEO DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "05808",
+		"pdm": "CONTROLADOR DE PARADA AUTOMATICA - TURBINA A VAPOR",
+		"grupo": 28
+	},
+	{
+		"id": "05893",
+		"pdm": "CORREIA DENTADA TRANSMISSÃO",
+		"grupo": 28
+	},
+	{
+		"id": "05951",
+		"pdm": "COXIM DE FIXACAO DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "05990",
+		"pdm": "CRUZETA MÁQUINA À VAPOR",
+		"grupo": 28
+	},
+	{
+		"id": "06429",
+		"pdm": "EIXO DE COMANDO",
+		"grupo": 28
+	},
+	{
+		"id": "06430",
+		"pdm": "EIXO COMANDO VÁLVULA",
+		"grupo": 28
+	},
+	{
+		"id": "06431",
+		"pdm": "EIXO DE MANIVELA ( VIRABREQUIM ) - MAQUINA A VAPOR",
+		"grupo": 28
+	},
+	{
+		"id": "06432",
+		"pdm": "EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR A ALCOOL",
+		"grupo": 28
+	},
+	{
+		"id": "06433",
+		"pdm": "EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR A DIESEL",
+		"grupo": 28
+	},
+	{
+		"id": "06434",
+		"pdm": "EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR A GAS",
+		"grupo": 28
+	},
+	{
+		"id": "06435",
+		"pdm": "EIXO DE MANIVELA ( VIRABREQUIM ) - MOTOR GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "06439",
+		"pdm": "EIXO MOTRIZ - MAQUINA A VAPOR",
+		"grupo": 28
+	},
+	{
+		"id": "06517",
+		"pdm": "EMBOLO",
+		"grupo": 28
+	},
+	{
+		"id": "06574",
+		"pdm": "ENGRENAGEM COMANDO DISTRIBUIDOR",
+		"grupo": 28
+	},
+	{
+		"id": "06575",
+		"pdm": "ENGRENAGEM DE COMANDO DO DISTRIBUIDOR - MOTOR GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "06980",
+		"pdm": "ESPACADOR DE BALANCIM DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "07683",
+		"pdm": "FOGUETE - MOTOR / COMPONENTES",
+		"grupo": 28
+	},
+	{
+		"id": "08173",
+		"pdm": "HASTE DE EMBOLO EXCENTRICO - MAQUINA A VAPOR",
+		"grupo": 28
+	},
+	{
+		"id": "08176",
+		"pdm": "HASTE DE UNIAO DE SISTEMA DE PRE - AQUECIMENTO DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "08180",
+		"pdm": "HASTE LATERAL SISTEMA DE PRE - AQUECIMENTO DE CILINDRO DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "08279",
+		"pdm": "IGNITOR PARA MOTOR FOGUETE",
+		"grupo": 28
+	},
+	{
+		"id": "08450",
+		"pdm": "INTERRUPTOR PRESSÃO ÓLEO MOTOR GASOLINA/DIESEL",
+		"grupo": 28
+	},
+	{
+		"id": "09853",
+		"pdm": "MOLA DE FIXACAO TAMPA CABECOTE - MOTOR GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "09855",
+		"pdm": "MOLA DE RETROCESSO SISTEMA RESFRIAMENTO A AR - MO TOR GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "09860",
+		"pdm": "MOLA ESPACADORA ARVORE MANIVELA - MOTOR GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": "09936",
+		"pdm": "MOTOCICLETA - COLETOR ADMISSAO",
+		"grupo": 28
+	},
+	{
+		"id": "09951",
+		"pdm": "MOTOR - AEROMODELO",
+		"grupo": 28
+	},
+	{
+		"id": "09952",
+		"pdm": "MOTOR A JATO EXCETO DE AERONAVE",
+		"grupo": 28
+	},
+	{
+		"id": "09953",
+		"pdm": "MOTOR A JATO EXCETO O DE MISSIL GUIADO",
+		"grupo": 28
+	},
+	{
+		"id": "09956",
+		"pdm": "MOTOR DE AR COMPRIMIDO",
+		"grupo": 28
+	},
+	{
+		"id": "09958",
+		"pdm": "MOTOR DE EXPLOSAO A ALCOOL",
+		"grupo": 28
+	},
+	{
+		"id": "09959",
+		"pdm": "MOTOR DE EXPLOSAO A GAS EXCETO DE AERONAVE",
+		"grupo": 28
+	},
+	{
+		"id": "09960",
+		"pdm": "MOTOR DE EXPLOSAO A GASOLINA EXCETO DE AERONAVE",
+		"grupo": 28
+	},
+	{
+		"id": "09964",
+		"pdm": "MOTOR DE POPA",
+		"grupo": 28
+	},
+	{
+		"id": "09966",
+		"pdm": "MOTOR DIESEL VEÍCULO AUTOMOTIVO",
+		"grupo": 28
+	},
+	{
+		"id": "09967",
+		"pdm": "MOTOR DIESEL DE LOCOMOTIVA",
+		"grupo": 28
+	},
+	{
+		"id": "09968",
+		"pdm": "MOTOR DIESEL MARITIMO",
+		"grupo": 28
+	},
+	{
+		"id": "09984",
+		"pdm": "MOTOR ESTACIONARIO",
+		"grupo": 28
+	},
+	{
+		"id": "09985",
+		"pdm": "MOTOR PRIMARIO DE AERONAVE",
+		"grupo": 28
+	},
+	{
+		"id": "09986",
+		"pdm": "MOTOR PRIMARIO DE AERONAVE",
+		"grupo": 28
+	},
+	{
+		"id": "09987",
+		"pdm": "MOTOR PRIMARIO DE MISSIL GUIADO",
+		"grupo": 28
+	},
+	{
+		"id": "09988",
+		"pdm": "MOTOR PRIMARIO DE TURBO - JATO DE AERONAVE",
+		"grupo": 28
+	},
+	{
+		"id": "09989",
+		"pdm": "MOTOR PRIMARIO DE TURBO - PROPULSOR DE AERONAVE",
+		"grupo": 28
+	},
+	{
+		"id": "09990",
+		"pdm": "MOTOR PRIMARIO DO TIPO FOGUETE A COMBUSTIVEL DE AERONAVE",
+		"grupo": 28
+	},
+	{
+		"id": "09991",
+		"pdm": "MOTOR PRIMARIO DO TIPO FOGUETE A COMBUSTIVEL PARA FOGUETE",
+		"grupo": 28
+	},
+	{
+		"id": "09992",
+		"pdm": "MOTOR PRIMARIO DO TIPO FOGUETE A COMBUSTIVEL PARA MISSIL GUIADO",
+		"grupo": 28
+	},
+	{
+		"id": "09994",
+		"pdm": "MOTOR SEMI - DIESEL MARITIMO",
+		"grupo": 28
+	},
+	{
+		"id": "09995",
+		"pdm": "MOTOR SEMI - DIESEL PARA AUTOMOVEL",
+		"grupo": 28
+	},
+	{
+		"id": "09996",
+		"pdm": "MOTOR SEMI - DIESEL PARA LOCOMOTIVA",
+		"grupo": 28
+	},
+	{
+		"id": 10321,
+		"pdm": "PALHETA FIXA DE TURBINA A VAPOR",
+		"grupo": 28
+	},
+	{
+		"id": 10323,
+		"pdm": "LÂMINA TURBINA DE VAPOR",
+		"grupo": 28
+	},
+	{
+		"id": 10785,
+		"pdm": "PISTAO / EMBOLO DE MOTOR DE EMBARCACAO",
+		"grupo": 28
+	},
+	{
+		"id": 10786,
+		"pdm": "PISTAO DE MAQUINA A VAPOR",
+		"grupo": 28
+	},
+	{
+		"id": 10787,
+		"pdm": "PISTÃO DE MOTOR A DIESEL",
+		"grupo": 28
+	},
+	{
+		"id": 10788,
+		"pdm": "PISTÃO",
+		"grupo": 28
+	},
+	{
+		"id": 10846,
+		"pdm": "PLACA EXPANSORA DE TURBINA A VAPOR",
+		"grupo": 28
+	},
+	{
+		"id": 10949,
+		"pdm": "POLIA ARVORE MANIVELA",
+		"grupo": 28
+	},
+	{
+		"id": 10951,
+		"pdm": "POLIA DE ARVORE DE MANIVELA DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": 11102,
+		"pdm": "PORTINHOLA ESQUERDA / DIREITA SISTEMA PRE - AQUECIMENTO DE CILINDRO",
+		"grupo": 28
+	},
+	{
+		"id": 11268,
+		"pdm": "PROPELENTE LIQUIDO ACONDICIONADO EM EMBALAGEM CONSUMIVEL PARA MISSIL",
+		"grupo": 28
+	},
+	{
+		"id": 11590,
+		"pdm": "REGULADOR DE VELOCIDADE DE TURBINA HIDRAULICA",
+		"grupo": 28
+	},
+	{
+		"id": 11666,
+		"pdm": "RESERVATORIO COMBUSTIVEL PARA MOTOR A JATO - AERONAVE",
+		"grupo": 28
+	},
+	{
+		"id": 11667,
+		"pdm": "RESERVATORIO COMBUSTIVEL PARA TURBINA A GAS - AERONAVE",
+		"grupo": 28
+	},
+	{
+		"id": 11841,
+		"pdm": "ROTOR DE TURBINA A VAPOR",
+		"grupo": 28
+	},
+	{
+		"id": 11842,
+		"pdm": "ROTOR DE TURBINA HIDRÁULICA",
+		"grupo": 28
+	},
+	{
+		"id": 12510,
+		"pdm": "TAMPA CABECOTE DE MOTOR - VEICULO AUTOMOTIVO",
+		"grupo": 28
+	},
+	{
+		"id": 12516,
+		"pdm": "TAMPA DO FILTRO DA BOMBA DE OLEO DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": 12521,
+		"pdm": "TAMPA PROTETORA CABECOTE MOTOR CAMINHAO",
+		"grupo": 28
+	},
+	{
+		"id": 12522,
+		"pdm": "TAMPA PROTETORA CABECOTE MOTOR ONIBUS",
+		"grupo": 28
+	},
+	{
+		"id": 12523,
+		"pdm": "TAMPA PROTETORA CORREIA DENTADA",
+		"grupo": 28
+	},
+	{
+		"id": 13026,
+		"pdm": "TUBO ADMISSAO E ESCAPE - MOTOR DE EMBARCACAO",
+		"grupo": 28
+	},
+	{
+		"id": 13034,
+		"pdm": "TUBO DE ABASTECIMENTO DE OLEO DE MOTOR DIESEL",
+		"grupo": 28
+	},
+	{
+		"id": 13102,
+		"pdm": "TUBO GUIA DA VARETA NIVEL DE OLEO DO BLOCO DO CILINDRO - MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": 13113,
+		"pdm": "TUBO PROTETOR DE ESCAPAMENTO DE DESCARGA - MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": 13124,
+		"pdm": "TUCHO COMANDO VALVULA",
+		"grupo": 28
+	},
+	{
+		"id": 13135,
+		"pdm": "TURBINA A GAS EXCETO A DE MISSIL GUIADO",
+		"grupo": 28
+	},
+	{
+		"id": 13136,
+		"pdm": "TURBINA A GAS EXCETO DE AERONAVE",
+		"grupo": 28
+	},
+	{
+		"id": 13257,
+		"pdm": "VALVULA DE ESCAPAMENTO DO MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": 13264,
+		"pdm": "VALVULA DE MOTOR DE EMBARCACAO",
+		"grupo": 28
+	},
+	{
+		"id": 13308,
+		"pdm": "VARETA MEDIDORA DE NIVEL DO OLEO DE MOTOR A GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": 13477,
+		"pdm": "VOLANTE MOTOR",
+		"grupo": 28
+	},
+	{
+		"id": 15381,
+		"pdm": "CARCAÇA VENTILADOR MOTOR SERRA",
+		"grupo": 28
+	},
+	{
+		"id": 15395,
+		"pdm": "TUBO NÍVEL ÓLEO",
+		"grupo": 28
+	},
+	{
+		"id": 15855,
+		"pdm": "MOTOR ARTICULAÇÃO PORTA",
+		"grupo": 28
+	},
+	{
+		"id": 16293,
+		"pdm": "TUBO NÍVEL ÁGUA MOTOR GASOLINA",
+		"grupo": 28
+	},
+	{
+		"id": 16294,
+		"pdm": "EIXO MANIVELA - MOTOR DIESEL",
+		"grupo": 28
+	},
+	{
+		"id": 16609,
+		"pdm": "MOTOR POPA",
+		"grupo": 28
+	},
+	{
+		"id": 16810,
+		"pdm": "MOTORES A GASOLINA E COMPONENTES - EXCETO OS DE AERONAVES",
+		"grupo": 28
+	},
+	{
+		"id": 16811,
+		"pdm": "MOTORES A GASOLINA PARA AERONAVES E COMPONENTES",
+		"grupo": 28
+	},
+	{
+		"id": 16812,
+		"pdm": "TURBINA MOTOR",
+		"grupo": 28
+	},
+	{
+		"id": 16813,
+		"pdm": "MÁQUINAS ALTERNATIVAS A VAPOR E COMPONENTES",
+		"grupo": 28
+	},
+	{
+		"id": 16814,
+		"pdm": "TURBINAS A VAPOR E COMPONENTES",
+		"grupo": 28
+	},
+	{
+		"id": 16815,
+		"pdm": "TURBINAS E RODAS D'ÁGUA E COMPONENTES",
+		"grupo": 28
+	},
+	{
+		"id": 16816,
+		"pdm": "TURBINAS A GÁS E MOTORES A JATO E COMPONENTES - EXCETO OS DE AERONAVE",
+		"grupo": 28
+	},
+	{
+		"id": 16817,
+		"pdm": "TURBINAS A GÁS E MOTORES A JATO DE AERONAVES E COMPONENTES",
+		"grupo": 28
+	},
+	{
+		"id": 16818,
+		"pdm": "MOTORES DE FOGUETES E COMPONENTES",
+		"grupo": 28
+	},
+	{
+		"id": 16819,
+		"pdm": "MOTORES ROTATIVOS A GASOLINA E COMPONENTES",
+		"grupo": 28
+	},
+	{
+		"id": 16820,
+		"pdm": "MOTORES DIVERSOS E COMPONENTES",
+		"grupo": 28
+	},
+	{
+		"id": 17370,
+		"pdm": "RETENTOR EIXO HÉLICE",
+		"grupo": 28
+	},
+	{
+		"id": 17371,
+		"pdm": "ROTOR BOMBA D'ÁGUA",
+		"grupo": 28
+	},
+	{
+		"id": 17726,
+		"pdm": "ROLETE DE BIELA",
+		"grupo": 28
+	},
+	{
+		"id": 17889,
+		"pdm": "MOTOR DIESEL",
+		"grupo": 28
+	},
+	{
+		"id": "01350",
+		"pdm": "VELA IGNIÇÃO",
+		"grupo": 29
+	},
+	{
+		"id": "01359",
+		"pdm": "FILTRO AR",
+		"grupo": 29
+	},
+	{
+		"id": "01426",
+		"pdm": "RADIADOR",
+		"grupo": 29
+	},
+	{
+		"id": "01679",
+		"pdm": "ACESSORIO DE GERADOR ELETRICO DE MOTOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "01720",
+		"pdm": "ACESSORIO PARA MOTOR EXCETO DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "01723",
+		"pdm": "ACESSORIO PARA TODO O TIPO DE MOTOR EXCETO DE MISSIL GUIADO",
+		"grupo": 29
+	},
+	{
+		"id": "02045",
+		"pdm": "ACIONADOR INTERNO DO ALTERNADOR ( ESTATOR ) DE CORRENTE ELETRICA - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "02065",
+		"pdm": "ACUMULADOR DE CILINDRO HIDRAULICO DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "02070",
+		"pdm": "ACUMULADOR HIDRAULICO DE MOTOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "02080",
+		"pdm": "ADAPTADOR DE CARBURADOR",
+		"grupo": 29
+	},
+	{
+		"id": "02180",
+		"pdm": "AGULHA DE BOIA DE CARBURADOR DE VEICULO",
+		"grupo": 29
+	},
+	{
+		"id": "02225",
+		"pdm": "ALARME SONORO ANTI - FURTO DE VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "02367",
+		"pdm": "ALTERNADOR VEÍCULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "02430",
+		"pdm": "AMORTECEDOR DE RUIDO DE MOTOR DE ADMISSAO EXCETO DE MOTOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "02499",
+		"pdm": "ANEL CIRCULAÇÃO ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": "02551",
+		"pdm": "ANTI - CONGELANTE ESPECIFICO DE MOTOR A JATO DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "02906",
+		"pdm": "APOIO DE AMORTECEDOR DE SUSPENSAO DE MOTOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "02925",
+		"pdm": "AQUECEDOR DE DUTO DE AR",
+		"grupo": 29
+	},
+	{
+		"id": "02926",
+		"pdm": "AQUECEDOR DE DUTO DE AR DE MOTOR AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "03005",
+		"pdm": "ARMADURA PARA MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": "03021",
+		"pdm": "ARO BUZINA - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "03040",
+		"pdm": "ARRANQUE PNEUMATICO DE MOTOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "03041",
+		"pdm": "ARREFECEDOR DE OLEO LUBRIFICANTE DE SISTEMA DE RESFRIAMENTO DE MOTOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "03057",
+		"pdm": "ARRUELA PARA BICO / BOMBA INJETORA DE COMBUSTIVEL DE MOTOR DIESEL",
+		"grupo": 29
+	},
+	{
+		"id": "03122",
+		"pdm": "ATUADOR ELETRICO - ACIONAMENTO DE VALVULA",
+		"grupo": 29
+	},
+	{
+		"id": "03123",
+		"pdm": "ATUADOR ELÉTRICO / MECÂNICO",
+		"grupo": 29
+	},
+	{
+		"id": "03140",
+		"pdm": "AUTOMATICO DE PARTIDA - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "03148",
+		"pdm": "AVANCO DO DISTRIBUIDOR - MOTOR VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "03409",
+		"pdm": "BASE COM VALVULA BORBOLETA DE CARBURADOR DE CORPO DUPLO",
+		"grupo": 29
+	},
+	{
+		"id": "03525",
+		"pdm": "BICO BOMBA INJETORA COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": "03637",
+		"pdm": "BOBINA IGNIÇÃO MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": "03642",
+		"pdm": "BOBINA IGNIÇÃO AUTOMOTIVA",
+		"grupo": 29
+	},
+	{
+		"id": "03655",
+		"pdm": "BOIA DE CARBURADOR DE CORPO DUPLO",
+		"grupo": 29
+	},
+	{
+		"id": "03656",
+		"pdm": "BOIA DE CARBURADOR DE CORPO SIMPLES",
+		"grupo": 29
+	},
+	{
+		"id": "03661",
+		"pdm": "BÓIA TANQUE COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": "03662",
+		"pdm": "BOIA PARA CARBURADOR",
+		"grupo": 29
+	},
+	{
+		"id": "03736",
+		"pdm": "BOMBA D ' AGUA PARA MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": "03742",
+		"pdm": "BOMBA DE ALCOOL",
+		"grupo": 29
+	},
+	{
+		"id": "03749",
+		"pdm": "BOMBA DE COMBUSTIVEL",
+		"grupo": 29
+	},
+	{
+		"id": "03750",
+		"pdm": "BOMBA COMBUSTÍVEL DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "03768",
+		"pdm": "BOMBA DO SISTEMA DE REFRIGERACAO DE MOTOR AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "03770",
+		"pdm": "BOMBA ELÉTRICA INJEÇÃO COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": "03774",
+		"pdm": "BOMBA DIREÇÃO VEÍCULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "03780",
+		"pdm": "BOMBA INJETORA COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": "03943",
+		"pdm": "BUCHA PARA COMPONENTE DO SISTEMA ELETRICO - VEICU LO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "03953",
+		"pdm": "BUJÃO DE SUPORTE DE CALIBRE DE PULVERIZADOR PRINCI",
+		"grupo": 29
+	},
+	{
+		"id": "03973",
+		"pdm": "BUZINA - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "03984",
+		"pdm": "CABEÇOTE BOMBA INJETORA DE COMBUSTÍVEL - MOTOR DIE",
+		"grupo": 29
+	},
+	{
+		"id": "04037",
+		"pdm": "CABO DE VELA",
+		"grupo": 29
+	},
+	{
+		"id": "04044",
+		"pdm": "CABO ELETRICO FONTE EXTERNA - AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "04273",
+		"pdm": "CALIBRE MARCHA LENTA DE CARBURADOR",
+		"grupo": 29
+	},
+	{
+		"id": "04503",
+		"pdm": "CAPTADOR DE AR DO SISTEMA DE PRE - AQUECIMENTO DO MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": "04523",
+		"pdm": "CARBURADOR",
+		"grupo": 29
+	},
+	{
+		"id": "04525",
+		"pdm": "CARBURADOR DE CORPO DUPLO",
+		"grupo": 29
+	},
+	{
+		"id": "04526",
+		"pdm": "CARBURADOR DE CORPO SIMPLES",
+		"grupo": 29
+	},
+	{
+		"id": "04527",
+		"pdm": "CARBURADOR DE MOTOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "04531",
+		"pdm": "CARCACA / CABECOTE PARA FILTRO DE OLEO",
+		"grupo": 29
+	},
+	{
+		"id": "04698",
+		"pdm": "CATALISADOR VEÍCULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "04892",
+		"pdm": "CHAVE CONTATO",
+		"grupo": 29
+	},
+	{
+		"id": "04955",
+		"pdm": "CHICOTE DE VELA DE IGNICAO DE MOTOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "04956",
+		"pdm": "CONJUNTO CILINDRO E PISTÃO",
+		"grupo": 29
+	},
+	{
+		"id": "05001",
+		"pdm": "CILINDRO IGNIÇÃO",
+		"grupo": 29
+	},
+	{
+		"id": "05416",
+		"pdm": "COMPONENTE DE MOTOR EXCETO DE MOTOR PRIMARIO DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "05421",
+		"pdm": "COMPONENTE DE TODO O TIPO DE MOTOR DE RESFRIAMENTO EXCETO MOTOR PRIMARIO DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "05422",
+		"pdm": "COMPONENTE DE TODO TIPO DE MOTOR DE RESFRIAMENTO EXCETO MOTOR PRIMARIO DE MISSIL GUIADO",
+		"grupo": 29
+	},
+	{
+		"id": "05465",
+		"pdm": "COMPONENTE PARA MOTOR EXCETO PARA MOTOR PRIMARIO DE MISSIL GUIADO",
+		"grupo": 29
+	},
+	{
+		"id": "05523",
+		"pdm": "COMUTADOR IGNIÇÃO",
+		"grupo": 29
+	},
+	{
+		"id": "05539",
+		"pdm": "CONDENSADOR IGNIÇÃO - VEÍCULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "05557",
+		"pdm": "CONDUTOR LATERAL ARREFECIMENTO AR-VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "05558",
+		"pdm": "CONDUTOR SUPERIOR ARREFECIMENTO AR - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "05636",
+		"pdm": "CONJUNTO DE ANEL DE CONTATO DE MOTOR ELETRICO -VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "05703",
+		"pdm": "ÁRVORE DE COMANDO",
+		"grupo": 29
+	},
+	{
+		"id": "05704",
+		"pdm": "CONJUNTO DE COMANDO TIPO [ VAI E VEM ] DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "05707",
+		"pdm": "CONJUNTO DE CILINDROS",
+		"grupo": 29
+	},
+	{
+		"id": "05733",
+		"pdm": "CONJUNTO DE MANGUEIRA PARA AGUA",
+		"grupo": 29
+	},
+	{
+		"id": "05757",
+		"pdm": "CONJUNTO GERADOR ELETRICO - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "05762",
+		"pdm": "CONJUNTO MANGUEIRA ÁGUA SISTEMA DE RESFRIAMENTO",
+		"grupo": 29
+	},
+	{
+		"id": "05822",
+		"pdm": "CONTROLE DE COMBUSTIVEL PARA MOTOR A JATO",
+		"grupo": 29
+	},
+	{
+		"id": "05823",
+		"pdm": "CONTROLE DE INJECAO D' AGUA DE SISTEMA DE COMBUSTIVEL DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "05862",
+		"pdm": "CORDÃO DE PARTIDA",
+		"grupo": 29
+	},
+	{
+		"id": "05885",
+		"pdm": "CORPO DISTRIBUIDOR BOMBA INJETORA DE COMBUSTIVEL - MOTOR DIESEL",
+		"grupo": 29
+	},
+	{
+		"id": "05895",
+		"pdm": "TENSOR CORREIA DENTADA",
+		"grupo": 29
+	},
+	{
+		"id": "06156",
+		"pdm": "DIAFRAGMA DE CARBURADOR",
+		"grupo": 29
+	},
+	{
+		"id": "06313",
+		"pdm": "DISPOSITIVO DE PARTIDA DE MOTOR A COMBUSTAO DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "06352",
+		"pdm": "DISTRIBUIDOR DE IGNICAO DE MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": "06353",
+		"pdm": "DISTRIBUIDOR IGNIÇÃO MOTOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "06449",
+		"pdm": "ELEMENTO FILTRANTE COMBUSTÍVEL - VEÍCULO AUTOMOTI",
+		"grupo": 29
+	},
+	{
+		"id": "06450",
+		"pdm": "ELEMENTO FILTRANTE SISTEMA ADMISSAO",
+		"grupo": 29
+	},
+	{
+		"id": "06451",
+		"pdm": "ELEMENTO FILTRO AR - VEÍCULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "06452",
+		"pdm": "ELEMENTO INJETOR DE COMBUSTIVEL PARA BOMBA INJETORA DE COMBUSTIVEL DE MOTOR DIESEL",
+		"grupo": 29
+	},
+	{
+		"id": "06911",
+		"pdm": "ESCAPAMENTO COMPLETO - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "06924",
+		"pdm": "ESCOADOR DE COMBUSTIVEL",
+		"grupo": 29
+	},
+	{
+		"id": "06931",
+		"pdm": "ESCORVADOR DE COMBUSTIVEL DE SISTEMA DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "07456",
+		"pdm": "FILTRO ARVORE INTERMEDIARIA BOMBA OLEO - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "07466",
+		"pdm": "FILTRO COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": "07467",
+		"pdm": "FILTRO DE COMBUSTIVEL PARA BOMBA INJETORA - MOTORDIESEL",
+		"grupo": 29
+	},
+	{
+		"id": "07471",
+		"pdm": "FILTRO ÓLEO HIDRÁULICO",
+		"grupo": 29
+	},
+	{
+		"id": "07481",
+		"pdm": "FILTRO DO SISTEMA DE COMBUSTÍVEL DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "07485",
+		"pdm": "FILTRO ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": "07492",
+		"pdm": "FILTRO PURIFICADOR DE AR - MOTOR VEICULO AUTOMOTI",
+		"grupo": 29
+	},
+	{
+		"id": "07496",
+		"pdm": "FILTRO SISTEMA REFRIGERACAO - MOTOR VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "07633",
+		"pdm": "FLANGE INTERMEDIARIA BOMBA GASOLINA",
+		"grupo": 29
+	},
+	{
+		"id": "07922",
+		"pdm": "GARFO ACIONAMENTO MOTOR DE PARTIDA - VECULO AUTOMO",
+		"grupo": 29
+	},
+	{
+		"id": "07967",
+		"pdm": "GERADOR",
+		"grupo": 29
+	},
+	{
+		"id": "07972",
+		"pdm": "GERADOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "08051",
+		"pdm": "GRADE PROTETORA DO RADIADOR",
+		"grupo": 29
+	},
+	{
+		"id": "08171",
+		"pdm": "HASTE DE COMANDO DE BOMBA DE MOTOR A GASOLINA",
+		"grupo": 29
+	},
+	{
+		"id": "08172",
+		"pdm": "HASTE DE COMANDO DE CARBURADOR",
+		"grupo": 29
+	},
+	{
+		"id": "08182",
+		"pdm": "HASTE UNIAO SISTEMA RESFRIAMENTO - VEICULO AUTOMO TIVO",
+		"grupo": 29
+	},
+	{
+		"id": "08321",
+		"pdm": "IMPULSOR PARA MOTOR DE PARTIDA - VEICULO AUTOMOTI VO",
+		"grupo": 29
+	},
+	{
+		"id": "08366",
+		"pdm": "INDUZIDO DE MOTOR DE PARTIDA - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "08383",
+		"pdm": "INSTALACAO ELETRICA - VEICULO AUTOMOTIVO (FIACAO /CHICOTE ELETRICO )",
+		"grupo": 29
+	},
+	{
+		"id": "08447",
+		"pdm": "INTERRUPTOR DE PARTIDA MOTOR ELETRICO - VEICULO",
+		"grupo": 29
+	},
+	{
+		"id": "08566",
+		"pdm": "JUNTA ( JOGO / KIT ) MOTOR - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "08574",
+		"pdm": "JUNTA PARA BOMBA INJETORA DE COMBUSTIVEL DE MOTOR DIESEL",
+		"grupo": 29
+	},
+	{
+		"id": "09021",
+		"pdm": "MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": "09023",
+		"pdm": "MAGNETO DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "09086",
+		"pdm": "MANETE DE MOTOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "09094",
+		"pdm": "MANGUEIRA COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": "09103",
+		"pdm": "MANGUEIRA RADIADOR VEÍCULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "09104",
+		"pdm": "MANGUEIRA SISTEMA ADMISSAO",
+		"grupo": 29
+	},
+	{
+		"id": "09108",
+		"pdm": "MANGUEIRA VACUO SISTEMA ADMISSAO",
+		"grupo": 29
+	},
+	{
+		"id": "09112",
+		"pdm": "MANIVELA DE PARTIDA DE MOTOR A EXPLOSAO",
+		"grupo": 29
+	},
+	{
+		"id": "09113",
+		"pdm": "MANIVELA DO TIPO COMBUSTAO",
+		"grupo": 29
+	},
+	{
+		"id": "09858",
+		"pdm": "MOLA DE VALVULA DE ESCAPAMENTO",
+		"grupo": 29
+	},
+	{
+		"id": "09925",
+		"pdm": "MOTOCICLETA - BOIA CARBURADOR",
+		"grupo": 29
+	},
+	{
+		"id": "09928",
+		"pdm": "MOTOCICLETA - CANO DESCARGA",
+		"grupo": 29
+	},
+	{
+		"id": "09930",
+		"pdm": "MOTOCICLETA - CARBURADOR",
+		"grupo": 29
+	},
+	{
+		"id": "09940",
+		"pdm": "MOTOCICLETA - INTERRUPTOR SISTEMA ELETRICO",
+		"grupo": 29
+	},
+	{
+		"id": "09947",
+		"pdm": "MOTOCICLETA - VELA MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": "09961",
+		"pdm": "MOTOR DE PARTIDA - VEÍCULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": "09962",
+		"pdm": "MOTOR DE PARTIDA DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": "09963",
+		"pdm": "MOTOR DE PARTIDA DE MOTOR A EXPLOSAO",
+		"grupo": 29
+	},
+	{
+		"id": "09976",
+		"pdm": "MOTOR ELETRICO DE PARTIDA - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 10271,
+		"pdm": "PA - HELICE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 10427,
+		"pdm": "PARAFUSO BOMBA INJETORA DE COMBUSTIVEL - MOTOR DIESEL",
+		"grupo": 29
+	},
+	{
+		"id": 10560,
+		"pdm": "PECA/COMPONENTE ALIMENTACAO COMBUSTIVEL - MOTOR DEPOPA",
+		"grupo": 29
+	},
+	{
+		"id": 10561,
+		"pdm": "PECA/COMPONENTE ALIMENTACAO COMBUSTIVEL - TRATOR",
+		"grupo": 29
+	},
+	{
+		"id": 10568,
+		"pdm": "PEÇA/COMPONENTE MOTOR DE EMBARCAÇÃO",
+		"grupo": 29
+	},
+	{
+		"id": 10571,
+		"pdm": "PECAS E COMPONENTES - AERONAVE / VEICULOS ESPACIAIS / SATELITE",
+		"grupo": 29
+	},
+	{
+		"id": 10789,
+		"pdm": "PISTÃO MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 10907,
+		"pdm": "PLATINADO DISTRIBUIDOR DE ENERGIA ELETRICA - VEICU",
+		"grupo": 29
+	},
+	{
+		"id": 10914,
+		"pdm": "PLUG UNIVERSAL - AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 11143,
+		"pdm": "PRATO ASSENTO VALVULA",
+		"grupo": 29
+	},
+	{
+		"id": 11355,
+		"pdm": "QUADRANTE DA MANETA DO MOTOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 11391,
+		"pdm": "RADIADOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 11587,
+		"pdm": "REGULADOR DE FLUXO SISTEMA DE COMBUSTIVEL - AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 11593,
+		"pdm": "REGULADOR DE VOLTAGEM DE MOTOR AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 11595,
+		"pdm": "REGULADOR HIDRAULICO DE AGUA DE MOTOR A JATO DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 11596,
+		"pdm": "REGULADOR HIDRAULICO DE AR DE MOTOR A JATO DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 11597,
+		"pdm": "REGULADOR HIDRAULICO DE OLEO DE MOTOR A JATO DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 11598,
+		"pdm": "REGULADOR HIDRAULICO PARA OLEO - MOTOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 11599,
+		"pdm": "REGULADOR TEMPERATURA DE OLEO - SISTEMA DE RESFRIAMENTO MOTOR AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 11600,
+		"pdm": "REGULADOR TURBOSUPERCOMPRESSOR DE MOTOR - COMBUSTAO INTERNA",
+		"grupo": 29
+	},
+	{
+		"id": 11601,
+		"pdm": "REGULADOR VELOCIDADE - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 11602,
+		"pdm": "CAIXA REGULADORA VOLTAGEM",
+		"grupo": 29
+	},
+	{
+		"id": 11610,
+		"pdm": "RELÉ VEÍCULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 11643,
+		"pdm": "REPARO BOMBA D'AGUA",
+		"grupo": 29
+	},
+	{
+		"id": 11644,
+		"pdm": "CONJUNTO REPARO CARBURADOR",
+		"grupo": 29
+	},
+	{
+		"id": 11645,
+		"pdm": "REPARO DO MOTOR DE PARTIDA - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 11647,
+		"pdm": "REPARO BOMBA INJETORA COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": 11648,
+		"pdm": "REPARO PARA GERADOR DE ENERGIA ELETRICA - VEICULO",
+		"grupo": 29
+	},
+	{
+		"id": 11668,
+		"pdm": "RESERVATORIO COMPENSACAO DE AGUA DE RADIADOR DE MOTOR - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 11732,
+		"pdm": "REVERSOR HIDRAULICO",
+		"grupo": 29
+	},
+	{
+		"id": 11843,
+		"pdm": "ROTOR DISTRIBUIDOR ENERGIA ELETRICA - VEICULO AUTO",
+		"grupo": 29
+	},
+	{
+		"id": 12017,
+		"pdm": "SENSOR TERMICO - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 12059,
+		"pdm": "SILENCIADOR ESCAPAMENTO DESCARGA",
+		"grupo": 29
+	},
+	{
+		"id": 12114,
+		"pdm": "SISTEMA DE CONTROLE DE FUMACA DE SISTEMA DE COMBUSTIVEL DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 12363,
+		"pdm": "SUPERALIMENTADOR ACIONADO POR MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 12372,
+		"pdm": "SUPORTE BOMBA COMBUSTIVEL",
+		"grupo": 29
+	},
+	{
+		"id": 12380,
+		"pdm": "SUPORTE DE CARENAGEM DE MOTOR DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 12424,
+		"pdm": "SUPORTE RADIADOR - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 12433,
+		"pdm": "SUPRESSOR RUIDO PARA VELA DE IGNICAO - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 12509,
+		"pdm": "TAMPA BOMBA AGUA - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 12515,
+		"pdm": "TAMPA DISTRIBUIDOR ENERGIA ELETRICA - VEICULO AUTO",
+		"grupo": 29
+	},
+	{
+		"id": 12524,
+		"pdm": "TAMPA RESERVATÓRIO COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": 12525,
+		"pdm": "TAMPA RADIADOR",
+		"grupo": 29
+	},
+	{
+		"id": 12526,
+		"pdm": "TAMPA TUBO ABASTECIMENTO",
+		"grupo": 29
+	},
+	{
+		"id": 12539,
+		"pdm": "CONJUNTO CONVERSÃO VEÍCULO",
+		"grupo": 29
+	},
+	{
+		"id": 13059,
+		"pdm": "TUBO BOMBA INJETORA",
+		"grupo": 29
+	},
+	{
+		"id": 13060,
+		"pdm": "TUBO DE INJECAO DE CARBURADOR DE CORPO DUPLO",
+		"grupo": 29
+	},
+	{
+		"id": 13082,
+		"pdm": "TUBO DE TANQUE DE COMBUSTIVEL",
+		"grupo": 29
+	},
+	{
+		"id": 13122,
+		"pdm": "TUBO FILTRO COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": 13123,
+		"pdm": "TUBULACAO ESCAPAMENTO - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 13137,
+		"pdm": "TURBOCOMPRESSOR DE MOTOR DE COMBUSTAO INTERNA",
+		"grupo": 29
+	},
+	{
+		"id": 13246,
+		"pdm": "VALVULA AGULHA CARBURADOR",
+		"grupo": 29
+	},
+	{
+		"id": 13255,
+		"pdm": "VALVULA DE CONTROLE SISTEMA RESFRIAMENTO MOTOR - AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 13256,
+		"pdm": "VALVULA DE ESCAPAMENTO DE CARBURADOR DE MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 13258,
+		"pdm": "VALVULA DE ESTILETE DE CARBURADOR DE MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 13265,
+		"pdm": "VALVULA COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": 13272,
+		"pdm": "VALVULA DO SISTEMA DE COMBUSTIVEL DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 13276,
+		"pdm": "VALVULA INJECAO D' AGUA SISTEMA DE COMBUSTIVEL - AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 13362,
+		"pdm": "VELA DE IGNICAO DE AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 13374,
+		"pdm": "VENTILADOR DE REFRIGERACAO DE MOTOR AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 13381,
+		"pdm": "VENTOINHA PARA RADIADOR - VEICULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 13603,
+		"pdm": "MOTOCICLETA - PEÇA MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 13604,
+		"pdm": "MOTOCICLETA - PECA SISTEMA ELETRICO",
+		"grupo": 29
+	},
+	{
+		"id": 14233,
+		"pdm": "JUNTA BASE BOMBA COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": 14234,
+		"pdm": "JUNTA CARBURADOR",
+		"grupo": 29
+	},
+	{
+		"id": 14245,
+		"pdm": "CHAVE COMANDO FAROL",
+		"grupo": 29
+	},
+	{
+		"id": 14247,
+		"pdm": "RADIADOR ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 14254,
+		"pdm": "SENSOR AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 14265,
+		"pdm": "JUNTA AUTOMOTIVA",
+		"grupo": 29
+	},
+	{
+		"id": 14266,
+		"pdm": "VÁLVULA AUTOMOTIVA",
+		"grupo": 29
+	},
+	{
+		"id": 14271,
+		"pdm": "BOMBA AUTOMOTIVA",
+		"grupo": 29
+	},
+	{
+		"id": 14304,
+		"pdm": "CONEXÃO SISTEMA PARTIDA",
+		"grupo": 29
+	},
+	{
+		"id": 14344,
+		"pdm": "VEDADOR AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 14353,
+		"pdm": "BENDIX VEÍCULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 14355,
+		"pdm": "SUPORTE DIODO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 14356,
+		"pdm": "ARGOLA AUTOMOTIVA",
+		"grupo": 29
+	},
+	{
+		"id": 14358,
+		"pdm": "BOBINA IGNIÇÃO",
+		"grupo": 29
+	},
+	{
+		"id": 14383,
+		"pdm": "COPO FILTRO COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": 14387,
+		"pdm": "SELO VÁLVULA",
+		"grupo": 29
+	},
+	{
+		"id": 14390,
+		"pdm": "CASQUILHO",
+		"grupo": 29
+	},
+	{
+		"id": 14392,
+		"pdm": "RETENTOR MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 14620,
+		"pdm": "SENSOR BÓIA TANQUE COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": 14622,
+		"pdm": "SENSOR BÓIA DE TANQUE DE COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": 14677,
+		"pdm": "JOGO JUNTAS",
+		"grupo": 29
+	},
+	{
+		"id": 14732,
+		"pdm": "JOGO CABOS VELA",
+		"grupo": 29
+	},
+	{
+		"id": 15223,
+		"pdm": "PLUG PISTÃO",
+		"grupo": 29
+	},
+	{
+		"id": 15224,
+		"pdm": "FILTRO ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 15225,
+		"pdm": "CALÇO MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 15226,
+		"pdm": "FILTRO AR",
+		"grupo": 29
+	},
+	{
+		"id": 15227,
+		"pdm": "MANGOTE RETORNO",
+		"grupo": 29
+	},
+	{
+		"id": 15228,
+		"pdm": "VÁLVULA TERMOSTÁTICA MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 15229,
+		"pdm": "MANGOTE ADMISSÃO",
+		"grupo": 29
+	},
+	{
+		"id": 15230,
+		"pdm": "TRAVA CONTRAPESO MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 15231,
+		"pdm": "PLACA CONTRAPESO",
+		"grupo": 29
+	},
+	{
+		"id": 15232,
+		"pdm": "PORCA BIELA",
+		"grupo": 29
+	},
+	{
+		"id": 15234,
+		"pdm": "CALÇO ACOPLAMENTO COXIM MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 15235,
+		"pdm": "CONJUNTO ANEL",
+		"grupo": 29
+	},
+	{
+		"id": 15238,
+		"pdm": "TRAVA PARAFUSO",
+		"grupo": 29
+	},
+	{
+		"id": 15245,
+		"pdm": "PARAFUSO BIELA",
+		"grupo": 29
+	},
+	{
+		"id": 15246,
+		"pdm": "JOGO JUNTAS - AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 15282,
+		"pdm": "TANQUE COMBUSTÍVEL VEÍCULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 15473,
+		"pdm": "ARRUELA LISA",
+		"grupo": 29
+	},
+	{
+		"id": 15474,
+		"pdm": "BRONZINA AERONAVE",
+		"grupo": 29
+	},
+	{
+		"id": 15477,
+		"pdm": "EIXO COMANDO VÁLVULAS",
+		"grupo": 29
+	},
+	{
+		"id": 15479,
+		"pdm": "ARRUELA BICO INJETOR",
+		"grupo": 29
+	},
+	{
+		"id": 15480,
+		"pdm": "ARRUELA TUBO ENVELOPE",
+		"grupo": 29
+	},
+	{
+		"id": 15481,
+		"pdm": "TRAVA PINO BALANCIM",
+		"grupo": 29
+	},
+	{
+		"id": 15482,
+		"pdm": "ARRUELA PRESSÃO",
+		"grupo": 29
+	},
+	{
+		"id": 15483,
+		"pdm": "ARRUELA ENCOSTO BUCHA BALANCIM",
+		"grupo": 29
+	},
+	{
+		"id": 15484,
+		"pdm": "ADAPTADOR SISTEMA RPM",
+		"grupo": 29
+	},
+	{
+		"id": 15485,
+		"pdm": "RETENTOR VENTILAÇÃO BICO INJETOR",
+		"grupo": 29
+	},
+	{
+		"id": 15486,
+		"pdm": "ANEL BORRACHA BICO INJETOR",
+		"grupo": 29
+	},
+	{
+		"id": 15487,
+		"pdm": "BRAÇADEIRA TUBAGEM VENTILAÇÃO",
+		"grupo": 29
+	},
+	{
+		"id": 15488,
+		"pdm": "BUCHA CONTRAPESO EIXO MANIVELA",
+		"grupo": 29
+	},
+	{
+		"id": 15489,
+		"pdm": "BUCHA BIELA",
+		"grupo": 29
+	},
+	{
+		"id": 15491,
+		"pdm": "BUCHA BALANCIM",
+		"grupo": 29
+	},
+	{
+		"id": 15492,
+		"pdm": "TAMPA BOCAL ABASTECIMENTO ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 15493,
+		"pdm": "CONTRAPINO PARAFUSO BIELA",
+		"grupo": 29
+	},
+	{
+		"id": 15494,
+		"pdm": "DEFLETOR VENTILAÇÃO",
+		"grupo": 29
+	},
+	{
+		"id": 15495,
+		"pdm": "EIXO TACÔMETRO",
+		"grupo": 29
+	},
+	{
+		"id": 15496,
+		"pdm": "EIXO BALANCIM",
+		"grupo": 29
+	},
+	{
+		"id": 15497,
+		"pdm": "ENGRENAGEM BOMBA ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 15498,
+		"pdm": "TELA FILTRO ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 15499,
+		"pdm": "FILTRO ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 15500,
+		"pdm": "ROSCA POSTIÇA HELICÓIDE",
+		"grupo": 29
+	},
+	{
+		"id": 15501,
+		"pdm": "JUNTA MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 15502,
+		"pdm": "JUNTA TAMPA BALANCIM",
+		"grupo": 29
+	},
+	{
+		"id": 15503,
+		"pdm": "JUNTA TAMPA BOCAL ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 15504,
+		"pdm": "MOLA CONJUNTO PARTIDA MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 15505,
+		"pdm": "MANGOTE TUBO ADMISSÃO",
+		"grupo": 29
+	},
+	{
+		"id": 15506,
+		"pdm": "MANGOTE BOCA TURBO",
+		"grupo": 29
+	},
+	{
+		"id": 15507,
+		"pdm": "MOLA PARTIDA MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 15508,
+		"pdm": "MOLA COMPRESSÃO HASTE DEFLETOR",
+		"grupo": 29
+	},
+	{
+		"id": 15509,
+		"pdm": "DEFLETOR",
+		"grupo": 29
+	},
+	{
+		"id": 15510,
+		"pdm": "MOLA PRESSÃO ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 15511,
+		"pdm": "HASTE DEFLETOR",
+		"grupo": 29
+	},
+	{
+		"id": 15512,
+		"pdm": "PARAFUSO DEFLETOR",
+		"grupo": 29
+	},
+	{
+		"id": 15513,
+		"pdm": "PARAFUSO ENGRENAGEM EIXO COMANDO",
+		"grupo": 29
+	},
+	{
+		"id": 15514,
+		"pdm": "PARAFUSO ENGRENAGEM EIXO MANIVELA",
+		"grupo": 29
+	},
+	{
+		"id": 15515,
+		"pdm": "ROLETE CONTRAPINO",
+		"grupo": 29
+	},
+	{
+		"id": 15516,
+		"pdm": "ROLETE CONTRAPESO",
+		"grupo": 29
+	},
+	{
+		"id": 15517,
+		"pdm": "PINO PISTÃO",
+		"grupo": 29
+	},
+	{
+		"id": 15518,
+		"pdm": "PORCA PARAFUSO BIELA",
+		"grupo": 29
+	},
+	{
+		"id": 15519,
+		"pdm": "PORCA ESCAPAMENTO",
+		"grupo": 29
+	},
+	{
+		"id": 15520,
+		"pdm": "PLUG PRESSÃO ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 15521,
+		"pdm": "RETENTOR EIXO MANIVELAS",
+		"grupo": 29
+	},
+	{
+		"id": 15522,
+		"pdm": "RETENTOR TUBO VENTILAÇÃO",
+		"grupo": 29
+	},
+	{
+		"id": 15523,
+		"pdm": "RETENTOR PLUG VENTILAÇÃO",
+		"grupo": 29
+	},
+	{
+		"id": 15524,
+		"pdm": "RETENTOR TACÔMETRO",
+		"grupo": 29
+	},
+	{
+		"id": 15525,
+		"pdm": "ROLAMENTO CONJUNTO PARTIDA",
+		"grupo": 29
+	},
+	{
+		"id": 15526,
+		"pdm": "SUPORTE TUBO VENTILAÇÃO",
+		"grupo": 29
+	},
+	{
+		"id": 15527,
+		"pdm": "TRAVA CONTRAPESO",
+		"grupo": 29
+	},
+	{
+		"id": 15528,
+		"pdm": "CHAVETA EIXO COMANDO",
+		"grupo": 29
+	},
+	{
+		"id": 15529,
+		"pdm": "TRAVA BALANCIM",
+		"grupo": 29
+	},
+	{
+		"id": 15530,
+		"pdm": "TUCHO HIDRÁULICO",
+		"grupo": 29
+	},
+	{
+		"id": 15531,
+		"pdm": "VELA IGNIÇÃO",
+		"grupo": 29
+	},
+	{
+		"id": 15533,
+		"pdm": "JUNTA BALANCIM",
+		"grupo": 29
+	},
+	{
+		"id": 15580,
+		"pdm": "GUIA AR RADIADOR",
+		"grupo": 29
+	},
+	{
+		"id": 15602,
+		"pdm": "AFOGADOR MOTOR POPA",
+		"grupo": 29
+	},
+	{
+		"id": 15702,
+		"pdm": "CENTRAL ELETRÔNICA",
+		"grupo": 29
+	},
+	{
+		"id": 15703,
+		"pdm": "IGNIÇÃO ELETRÔNICA AUTOMOTIVA",
+		"grupo": 29
+	},
+	{
+		"id": 15704,
+		"pdm": "CONVERSOR CATALÍTICO",
+		"grupo": 29
+	},
+	{
+		"id": 15713,
+		"pdm": "RADIADOR - VEÍCULO",
+		"grupo": 29
+	},
+	{
+		"id": 15717,
+		"pdm": "VELA AUTOMOTIVA",
+		"grupo": 29
+	},
+	{
+		"id": 15719,
+		"pdm": "JUNTA CABEÇOTE MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 15726,
+		"pdm": "PALHETA BOMBA INJETORA",
+		"grupo": 29
+	},
+	{
+		"id": 15732,
+		"pdm": "BRONZINA",
+		"grupo": 29
+	},
+	{
+		"id": 15733,
+		"pdm": "BUCHA MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 15734,
+		"pdm": "ANEL EXCÊNTRICO",
+		"grupo": 29
+	},
+	{
+		"id": 15735,
+		"pdm": "ADAPTADOR CONTAGIROS",
+		"grupo": 29
+	},
+	{
+		"id": 15736,
+		"pdm": "GUIA DE VÁLVULA",
+		"grupo": 29
+	},
+	{
+		"id": 15763,
+		"pdm": "RETENTOR POLIA MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 15764,
+		"pdm": "SEDE VÁLVULA CABEÇOTE",
+		"grupo": 29
+	},
+	{
+		"id": 15765,
+		"pdm": "VÁLVULA ESCAPE ADMISSÃO MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 15808,
+		"pdm": "GUIA VÁLVULA CABEÇOTE",
+		"grupo": 29
+	},
+	{
+		"id": 15815,
+		"pdm": "SONDA LAMBDA",
+		"grupo": 29
+	},
+	{
+		"id": 15816,
+		"pdm": "BAQUELITE BOMBA COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": 15819,
+		"pdm": "BASE MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 15849,
+		"pdm": "PORTA-ESCOVA VEÍCULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 15906,
+		"pdm": "CACHIMBO VELA IGNIÇÃO",
+		"grupo": 29
+	},
+	{
+		"id": 15907,
+		"pdm": "CABO ACELERADOR",
+		"grupo": 29
+	},
+	{
+		"id": 15909,
+		"pdm": "CABO AFOGADOR",
+		"grupo": 29
+	},
+	{
+		"id": 15921,
+		"pdm": "REPARO DO CARBURADOR - MOTOCICLETA",
+		"grupo": 29
+	},
+	{
+		"id": 15966,
+		"pdm": "ABRAÇADEIRA TUBO ADMISSÃO",
+		"grupo": 29
+	},
+	{
+		"id": 15991,
+		"pdm": "BORRACHA ENGRENAGEM MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 15993,
+		"pdm": "TRAVA CONTRAPESO EIXO MANIVELA",
+		"grupo": 29
+	},
+	{
+		"id": 15995,
+		"pdm": "TRAVA EIXO TACÔMETRO",
+		"grupo": 29
+	},
+	{
+		"id": 15996,
+		"pdm": "CONJUNTO ENGRENAGEM BOMBA ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 15997,
+		"pdm": "PLATINADO IGNIÇÃO MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 15998,
+		"pdm": "CONJUNTO REPARO CARBURADOR",
+		"grupo": 29
+	},
+	{
+		"id": 15999,
+		"pdm": "PLUG VENTILAÇÃO MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 16002,
+		"pdm": "CONJUNTO COMANDO VÁLVULA",
+		"grupo": 29
+	},
+	{
+		"id": 16003,
+		"pdm": "TRAVA EIXO MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 16004,
+		"pdm": "BOMBA VÁCUO MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 16005,
+		"pdm": "ARRUELA BUCHA EIXO MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 16007,
+		"pdm": "BASE ROLAMENTO EIXO MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 16008,
+		"pdm": "ARRUELA PARAFUSO MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 16009,
+		"pdm": "BASE ACOPLAMENTO FILTRO ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 16010,
+		"pdm": "BORRACHA VEDAÇÃO FILTRO ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 16012,
+		"pdm": "BOMBA GASOLINA",
+		"grupo": 29
+	},
+	{
+		"id": 16013,
+		"pdm": "BRONZINA BIELA",
+		"grupo": 29
+	},
+	{
+		"id": 16014,
+		"pdm": "TUBO VARETA MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 16015,
+		"pdm": "CONJUNTO CILINDRO",
+		"grupo": 29
+	},
+	{
+		"id": 16016,
+		"pdm": "CABLAGEM IGNIÇÃO",
+		"grupo": 29
+	},
+	{
+		"id": 16017,
+		"pdm": "ENGRENAGEM MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 16018,
+		"pdm": "ENGRENAGEM EIXO MANIVELA",
+		"grupo": 29
+	},
+	{
+		"id": 16019,
+		"pdm": "ENGRENAGEM BOMBA GASOLINA",
+		"grupo": 29
+	},
+	{
+		"id": 16021,
+		"pdm": "MANGOTE ÓLEO CILINDRO",
+		"grupo": 29
+	},
+	{
+		"id": 16022,
+		"pdm": "BLOCO DISTRIBUIDOR MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 16023,
+		"pdm": "ABRAÇADEIRA MANGOTE",
+		"grupo": 29
+	},
+	{
+		"id": 16024,
+		"pdm": "REPARO CARBURADOR",
+		"grupo": 29
+	},
+	{
+		"id": 16025,
+		"pdm": "BRONZINA MANCAL",
+		"grupo": 29
+	},
+	{
+		"id": 16027,
+		"pdm": "PARAFUSO TAMPA BALANCIM",
+		"grupo": 29
+	},
+	{
+		"id": 16029,
+		"pdm": "PARAFUSO BOMBA GASOLINA",
+		"grupo": 29
+	},
+	{
+		"id": 16030,
+		"pdm": "PARAFUSO ENGRENAGEM BOMBA GASOLINA",
+		"grupo": 29
+	},
+	{
+		"id": 16031,
+		"pdm": "PARAFUSO BLOCO MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 16032,
+		"pdm": "PARAFUSO BASE FILTRO ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 16041,
+		"pdm": "ESFERA PRESSÃO ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 16042,
+		"pdm": "CARCAÇA BOMBA ÓLEO",
+		"grupo": 29
+	},
+	{
+		"id": 16043,
+		"pdm": "FELTRO BLOCO MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 16044,
+		"pdm": "CONDENSADOR MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 16046,
+		"pdm": "CARVÃO ENGRENAGEM MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 16047,
+		"pdm": "CUNHA BOBINA MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 16049,
+		"pdm": "CONTRAPINO EIXO MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 16050,
+		"pdm": "CARTÃO BOBINA MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 16051,
+		"pdm": "CATRACA MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 16057,
+		"pdm": "SUPORTE FIXAÇÃO ALTERNADOR",
+		"grupo": 29
+	},
+	{
+		"id": 16058,
+		"pdm": "TIRA DE FELTRO",
+		"grupo": 29
+	},
+	{
+		"id": 16157,
+		"pdm": "TRAVA FELTRO BLOCO MAGNETO",
+		"grupo": 29
+	},
+	{
+		"id": 16176,
+		"pdm": "PORCA PARAFUSO CARTER",
+		"grupo": 29
+	},
+	{
+		"id": 16255,
+		"pdm": "VÁLVULA QUATRO VIAS",
+		"grupo": 29
+	},
+	{
+		"id": 16269,
+		"pdm": "TANQUE COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": 16283,
+		"pdm": "MANIVELA COMPONENTE AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 16295,
+		"pdm": "CORREIA ALTERNADOR",
+		"grupo": 29
+	},
+	{
+		"id": 16299,
+		"pdm": "PEÇA / COMPONENTE BOMBA INJETORA",
+		"grupo": 29
+	},
+	{
+		"id": 16300,
+		"pdm": "COMPONENTES E ACESSÓRIOS SISTEMA PARTIDA FRIA",
+		"grupo": 29
+	},
+	{
+		"id": 16301,
+		"pdm": "COMPONENTE SISTEMA ALIMENTAÇÃO",
+		"grupo": 29
+	},
+	{
+		"id": 16302,
+		"pdm": "TUBO INJEÇÃO BOMBA ACELERAÇÃO AUTOMOTIVA",
+		"grupo": 29
+	},
+	{
+		"id": 16304,
+		"pdm": "PEÇAS/COMPONENTES SISTEMA ALIMENTAÇÃO COMBUSTÍVEL",
+		"grupo": 29
+	},
+	{
+		"id": 16305,
+		"pdm": "COMPONENTES E ACESSÓRIOS ELETROELETRÔNICOS",
+		"grupo": 29
+	},
+	{
+		"id": 16306,
+		"pdm": "COMPONENTES/ACESSÓRIOS SISTEMA ELÉTRICO AERONAVES",
+		"grupo": 29
+	},
+	{
+		"id": 16307,
+		"pdm": "RADIADOR E COMPONENTES - VEÍCULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 16309,
+		"pdm": "COMPONENTES E ACESSÓRIOS ESCAPAMENTO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 16310,
+		"pdm": "RETENTOR E DEMAIS COMPONENTES MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 16394,
+		"pdm": "ROSCA POSTIÇA",
+		"grupo": 29
+	},
+	{
+		"id": 16492,
+		"pdm": "MOLA RETORNO EIXO CARBURADOR",
+		"grupo": 29
+	},
+	{
+		"id": 16571,
+		"pdm": "BALANCIM VEÍCULO",
+		"grupo": 29
+	},
+	{
+		"id": 16577,
+		"pdm": "SENSOR DO CONTAGIROS",
+		"grupo": 29
+	},
+	{
+		"id": 16585,
+		"pdm": "INJETOR COMBUSTÍVEL VEÍCULO",
+		"grupo": 29
+	},
+	{
+		"id": 16589,
+		"pdm": "CORREIA POLI V - VEÍCULO AUTOMOTIVO",
+		"grupo": 29
+	},
+	{
+		"id": 16596,
+		"pdm": "ESTICADOR CORREIA",
+		"grupo": 29
+	},
+	{
+		"id": 16635,
+		"pdm": "ANEL SEGMENTO PISTÃO",
+		"grupo": 29
+	},
+	{
+		"id": 16821,
+		"pdm": "COMPONENTES DO SISTEMA DE COMBUSTÍVEL DE MOTORES - EXCETO OSDE AERONAVES",
+		"grupo": 29
+	},
+	{
+		"id": 16822,
+		"pdm": "COMPONENTES DO SISTEMA DE COMBUSTÍVEL DE MOTORES DE AERONA-VES",
+		"grupo": 29
+	},
+	{
+		"id": 16823,
+		"pdm": "COMPONENTES DO SISTEMA ELÉTRICO DE MOTORES - EXCETO OS DE AERONAVES",
+		"grupo": 29
+	},
+	{
+		"id": 16824,
+		"pdm": "COMPONENTES DO SISTEMA ELÉTRICO DE MOTORES DE AERONAVES",
+		"grupo": 29
+	},
+	{
+		"id": 16825,
+		"pdm": "COMPONENTES DO SISTEMA DE RESFRIAMENTO (ARREFECIMENTO) DEMOTORES - EXCETO DE AERONAVES",
+		"grupo": 29
+	},
+	{
+		"id": 16826,
+		"pdm": "COMPONENTES DO SISTEMA DE RESFRIAMENTO (ARREFECIMENTO) DEMOTORES DE AERONAVES",
+		"grupo": 29
+	},
+	{
+		"id": 16827,
+		"pdm": "FILTROS DE AR E DE ÓLEO. ELEMENTOS FILTRANTES E PURIFICADORES - EXCETO OS DE AERONAVES",
+		"grupo": 29
+	},
+	{
+		"id": 16828,
+		"pdm": "FILTROS DE AR E DE ÓLEO. ELEMENTOS FILTRANTES PURIFICADORES DE MOTORES DE AERONAVES.",
+		"grupo": 29
+	},
+	{
+		"id": 16829,
+		"pdm": "TURBO- SUPERCOMPRESSORES",
+		"grupo": 29
+	},
+	{
+		"id": 16830,
+		"pdm": "ACESSÓRIOS DIVERSOS DE MOTORES - EXCETO OS DE AERONAVES",
+		"grupo": 29
+	},
+	{
+		"id": 16831,
+		"pdm": "ACESSÓRIOS DIVERSOS DE MOTORES DE AERONAVES",
+		"grupo": 29
+	},
+	{
+		"id": 16949,
+		"pdm": "TROCADORA LÍQUIDO SISTEMA ARREFECIMENTO",
+		"grupo": 29
+	},
+	{
+		"id": 17621,
+		"pdm": "CORREIA MOTOR",
+		"grupo": 29
+	},
+	{
+		"id": 17637,
+		"pdm": "FILTRO ÓLEO LUBRIFICANTE",
+		"grupo": 29
+	},
+	{
+		"id": 18039,
+		"pdm": "RELÉ DO ALTERNADOR",
+		"grupo": 29
+	},
+	{
+		"id": 18273,
+		"pdm": "ARRUELA AUTOMOTIVA",
+		"grupo": 29
+	},
+	{
+		"id": 19060,
+		"pdm": "MÓDULO COMBUSTÍVEIS",
+		"grupo": 29
+	},
+	{
+		"id": 19088,
+		"pdm": "CARTÃO CHAVE",
+		"grupo": 29
+	},
+	{
+		"id": "02051",
+		"pdm": "ACOPLAMENTO ELASTICO DE TRANSMISSAO DE FORCA",
+		"grupo": 30
+	},
+	{
+		"id": "02052",
+		"pdm": "ACOPLAMENTO FLEXIVEL",
+		"grupo": 30
+	},
+	{
+		"id": "02053",
+		"pdm": "ACOPLAMENTO HIDRODINAMICO",
+		"grupo": 30
+	},
+	{
+		"id": "02054",
+		"pdm": "ACOPLAMENTO MECANICO RIGIDO",
+		"grupo": 30
+	},
+	{
+		"id": "02066",
+		"pdm": "ACUMULADOR DE PRESSAO",
+		"grupo": 30
+	},
+	{
+		"id": "02452",
+		"pdm": "AMPLIFICADOR DE TORQUE",
+		"grupo": 30
+	},
+	{
+		"id": "04997",
+		"pdm": "CILINDRO DUPLA AÇÃO",
+		"grupo": 30
+	},
+	{
+		"id": "04998",
+		"pdm": "CILINDRO HIDRÁULICO",
+		"grupo": 30
+	},
+	{
+		"id": "05000",
+		"pdm": "CILINDRO HIDRAULICO DE TREM DE POUSO",
+		"grupo": 30
+	},
+	{
+		"id": "05004",
+		"pdm": "CILINDRO PNEUMÁTICO",
+		"grupo": 30
+	},
+	{
+		"id": "05377",
+		"pdm": "COMANDO HIDRAULICO",
+		"grupo": 30
+	},
+	{
+		"id": "05711",
+		"pdm": "COROA BICICLETA",
+		"grupo": 30
+	},
+	{
+		"id": "05712",
+		"pdm": "CONJUNTO ENGRENAGEM REDUÇÃO",
+		"grupo": 30
+	},
+	{
+		"id": "05713",
+		"pdm": "CONJUNTO ENGRENAGEM TRANSMISSÃO HORIZONTAL",
+		"grupo": 30
+	},
+	{
+		"id": "05836",
+		"pdm": "CONVERSOR DE TORQUE",
+		"grupo": 30
+	},
+	{
+		"id": "05837",
+		"pdm": "CONVERSOR DE TORQUE DE FERRAMENTA HIDRAULICA",
+		"grupo": 30
+	},
+	{
+		"id": "05883",
+		"pdm": "COROA ENGRENAGEM",
+		"grupo": 30
+	},
+	{
+		"id": "05887",
+		"pdm": "CORREAME",
+		"grupo": 30
+	},
+	{
+		"id": "05889",
+		"pdm": "CORREIA - AMIANTO",
+		"grupo": 30
+	},
+	{
+		"id": "05890",
+		"pdm": "CORREIA - ARAMIDA",
+		"grupo": 30
+	},
+	{
+		"id": "05892",
+		"pdm": "CORREIA TRANSMISSÃO",
+		"grupo": 30
+	},
+	{
+		"id": "05894",
+		"pdm": "CORREIA LISA - VEICULO AUTOMOTIVO",
+		"grupo": 30
+	},
+	{
+		"id": "05906",
+		"pdm": "CORRENTE TRANSMISSÃO",
+		"grupo": 30
+	},
+	{
+		"id": "06427",
+		"pdm": "EIXO CARDA",
+		"grupo": 30
+	},
+	{
+		"id": "06428",
+		"pdm": "EIXO COLAR DE TRANSMISSÃO FORÇA",
+		"grupo": 30
+	},
+	{
+		"id": "06489",
+		"pdm": "ELO DE CORRENTE DE TRANSMISSAO",
+		"grupo": 30
+	},
+	{
+		"id": "06520",
+		"pdm": "EMBREAGEM REDUTORA DE VELOCIDADE",
+		"grupo": 30
+	},
+	{
+		"id": "06523",
+		"pdm": "EMENDA DE CORREIA DE TRANSMISSAO",
+		"grupo": 30
+	},
+	{
+		"id": "06576",
+		"pdm": "ENGRENAGEM REDUÇÃO",
+		"grupo": 30
+	},
+	{
+		"id": "07388",
+		"pdm": "FERRAMENTA HIDRAULICA PARA TORQUE",
+		"grupo": 30
+	},
+	{
+		"id": "08066",
+		"pdm": "GRAMPO DE EMENDA DE CORREIA",
+		"grupo": 30
+	},
+	{
+		"id": 10743,
+		"pdm": "PINO DE EMENDA DE CORREIA",
+		"grupo": 30
+	},
+	{
+		"id": 10948,
+		"pdm": "POLIA ACO",
+		"grupo": 30
+	},
+	{
+		"id": 10950,
+		"pdm": "POLIA DE ALUMINIO",
+		"grupo": 30
+	},
+	{
+		"id": 10953,
+		"pdm": "POLIA BORRACHA",
+		"grupo": 30
+	},
+	{
+		"id": 10954,
+		"pdm": "POLIA",
+		"grupo": 30
+	},
+	{
+		"id": 12902,
+		"pdm": "TRANSMISSAO HIDROSTATICA",
+		"grupo": 30
+	},
+	{
+		"id": 16832,
+		"pdm": "CONVERSORES DE TORQUE E CÂMBIOS DE VELOCIDADE",
+		"grupo": 30
+	},
+	{
+		"id": 16833,
+		"pdm": "ENGRENAGENS - POLIAS - COROAS DENTADAS E CORRENTES DE TRANSMISSÃO",
+		"grupo": 30
+	},
+	{
+		"id": 16834,
+		"pdm": "CORREIAS DE TRANSMISSÃO - CORREIAS DOS VENTILADORES E ACESSÓRIOS",
+		"grupo": 30
+	},
+	{
+		"id": 16835,
+		"pdm": "EQUIPAMENTOS DIVERSOS DE TRANSMISSÃO DE FORÇA",
+		"grupo": 30
+	}
+]
