@@ -1,0 +1,322 @@
+[
+  {
+    "id": "02485",
+    "pdm": "ÂNCORA",
+    "grupo": "20"
+  },
+  {
+    "id": "02486",
+    "pdm": "GRAMPO ANCORAGEM",
+    "grupo": "20"
+  },
+  {
+    "id": "03807",
+    "pdm": "BORNAL DE MARINHA",
+    "grupo": "20"
+  },
+  {
+    "id": "03974",
+    "pdm": "BUZINA DE ESCOVEM USO NAVAL",
+    "grupo": "20"
+  },
+  {
+    "id": "04004",
+    "pdm": "CABO APRESTO EMBARCAÇÃO",
+    "grupo": "20"
+  },
+  {
+    "id": "04063",
+    "pdm": "CABRESTANTE DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": "04073",
+    "pdm": "CADASTE DO LEME DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": "04772",
+    "pdm": "CEPO DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": "04809",
+    "pdm": "CHAMINE DE CALDEIRA DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": "05547",
+    "pdm": "CONDUTO DA CALDEIRA PARA EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": "06048",
+    "pdm": "DEFENSA EMBARCAÇÃO",
+    "grupo": "20"
+  },
+  {
+    "id": "06406",
+    "pdm": "DRENO EMBARCAÇÃO",
+    "grupo": "20"
+  },
+  {
+    "id": "06420",
+    "pdm": "ECOBATIMETRO",
+    "grupo": "20"
+  },
+  {
+    "id": "06421",
+    "pdm": "ECOSSONDA",
+    "grupo": "20"
+  },
+  {
+    "id": "06437",
+    "pdm": "EIXO DE PROPULSÃO",
+    "grupo": "20"
+  },
+  {
+    "id": "06876",
+    "pdm": "ESCADA DE CORDA DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": "06877",
+    "pdm": "ESCADA DE CORRENTE DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": "06880",
+    "pdm": "ESCADA DE QUEBRA - PEITO ( NAVIO )",
+    "grupo": "20"
+  },
+  {
+    "id": "06932",
+    "pdm": "ESCOTILHA",
+    "grupo": "20"
+  },
+  {
+    "id": "07322",
+    "pdm": "FATEIXA",
+    "grupo": "20"
+  },
+  {
+    "id": "07378",
+    "pdm": "FERRAGEM DE MASTRO DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": "07379",
+    "pdm": "FERRAGEM DE PAU - DE - CARGA USO NAVAL",
+    "grupo": "20"
+  },
+  {
+    "id": "07682",
+    "pdm": "FOGUETA",
+    "grupo": "20"
+  },
+  {
+    "id": "08150",
+    "pdm": "GUINDASTE DE ESCALER SALVA - VIDAS",
+    "grupo": "20"
+  },
+  {
+    "id": "08183",
+    "pdm": "HÉLICE EMBARCAÇÃO",
+    "grupo": "20"
+  },
+  {
+    "id": "08523",
+    "pdm": "JANELA DE VENTILACAO DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": "08767",
+    "pdm": "LEME DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": "09431",
+    "pdm": "MASTRO DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": "09518",
+    "pdm": "MECANISMO DE PILOTO AUTOMATICO PARA EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": "09818",
+    "pdm": "MOBILIARIO DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": "09876",
+    "pdm": "MOLINETE DE CONVES DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": "09901",
+    "pdm": "MONTANTE MESTRE",
+    "grupo": "20"
+  },
+  {
+    "id": 10214,
+    "pdm": "OLHAL DE REMO DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": 10272,
+    "pdm": "PA - HELICE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": 10277,
+    "pdm": "PA PARA HELICE DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": 10474,
+    "pdm": "PASSAGEM DE INSPECAO DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": 10508,
+    "pdm": "PAU - DE - CARGA DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": 10509,
+    "pdm": "PAU - DE - CARGA NAO LIGADO A GUINCHO",
+    "grupo": "20"
+  },
+  {
+    "id": 10510,
+    "pdm": "PAU - DE - CARGA NAO LIGADO A GUINDASTE",
+    "grupo": "20"
+  },
+  {
+    "id": 10579,
+    "pdm": "PEDESTAL DE MASTRO DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": 11076,
+    "pdm": "PORTA ESTANQUE USO NAVAL",
+    "grupo": "20"
+  },
+  {
+    "id": 11242,
+    "pdm": "PROFUNDIMETRO",
+    "grupo": "20"
+  },
+  {
+    "id": 11631,
+    "pdm": "REMO DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": 12113,
+    "pdm": "SISTEMA DE CONTROLE",
+    "grupo": "20"
+  },
+  {
+    "id": 12120,
+    "pdm": "SISTEMA DE GOVERNO",
+    "grupo": "20"
+  },
+  {
+    "id": 12903,
+    "pdm": "TRANSMISSAO MARITIMA COM TIPO DE ENGRENAGEM DE REDUCAO E REVERSAO",
+    "grupo": "20"
+  },
+  {
+    "id": 13039,
+    "pdm": "TUBO DE AMARRACAO DE REBOQUE",
+    "grupo": "20"
+  },
+  {
+    "id": 13069,
+    "pdm": "TUBO DE PASSAGEM DE CORRENTE DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": 13117,
+    "pdm": "TUBO TELESCOPICO DO EIXO DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": 13139,
+    "pdm": "TURCO USO NAVAL",
+    "grupo": "20"
+  },
+  {
+    "id": 13363,
+    "pdm": "VELA DE PROPULSAO DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": 13365,
+    "pdm": "VELAME DE EMBARCACAO",
+    "grupo": "20"
+  },
+  {
+    "id": 13389,
+    "pdm": "VERGA DE VELAME",
+    "grupo": "20"
+  },
+  {
+    "id": 13442,
+    "pdm": "VIGIA ( NAVIO )",
+    "grupo": "20"
+  },
+  {
+    "id": 16263,
+    "pdm": "VELAME EMBARCAÇÃO",
+    "grupo": "20"
+  },
+  {
+    "id": 16779,
+    "pdm": "COMPONENTES DE PROPULSÃO DE EMBARCAÇÕES",
+    "grupo": "20"
+  },
+  {
+    "id": 16780,
+    "pdm": "MASTREACAO E ACESSORIOS",
+    "grupo": "20"
+  },
+  {
+    "id": 16781,
+    "pdm": "MAQUINARIA DE CONVES",
+    "grupo": "20"
+  },
+  {
+    "id": 16782,
+    "pdm": "FERRAGENS DE MARINHARIA E ITENS DE CASCO",
+    "grupo": "20"
+  },
+  {
+    "id": 16783,
+    "pdm": "BOIAS",
+    "grupo": "20"
+  },
+  {
+    "id": 16784,
+    "pdm": "EQUIPAMENTO COMERCIAL DE PESCA",
+    "grupo": "20"
+  },
+  {
+    "id": 16785,
+    "pdm": "CAPA PROTEÇÃO EMBARCAÇÕES",
+    "grupo": "20"
+  },
+  {
+    "id": 18469,
+    "pdm": "CROQUE TELESCÓPICO",
+    "grupo": "20"
+  },
+  {
+    "id": 18526,
+    "pdm": "ELEMENTO BATERIA",
+    "grupo": "20"
+  }
+]
