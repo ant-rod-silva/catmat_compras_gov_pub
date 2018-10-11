@@ -1,0 +1,914 @@
+[
+  {
+    "id": "01214",
+    "pdm": "PROTETOR AURICULAR"
+  },
+  {
+    "id": "01232",
+    "pdm": "ABSORVEDOR ENERGIA"
+  },
+  {
+    "id": "01277",
+    "pdm": "DIFUSOR"
+  },
+  {
+    "id": "01278",
+    "pdm": "SISTEMA COMBATE INCÊNDIO"
+  },
+  {
+    "id": "01282",
+    "pdm": "CHUVEIRO EMERGÊNCIA"
+  },
+  {
+    "id": "01284",
+    "pdm": "LAVA-OLHOS EMERGÊNCIA"
+  },
+  {
+    "id": "01285",
+    "pdm": "MANGUEIRA COMBATE INCÊNDIO"
+  },
+  {
+    "id": "01288",
+    "pdm": "CARRETEL MANGUEIRA INCÊNDIO"
+  },
+  {
+    "id": "01300",
+    "pdm": "ESQUICHO"
+  },
+  {
+    "id": "01301",
+    "pdm": "EXTINTOR INCÊNDIO"
+  },
+  {
+    "id": "01302",
+    "pdm": "AVENTAL DE SOLDADOR"
+  },
+  {
+    "id": "01303",
+    "pdm": "COLETE SEGURANÇA"
+  },
+  {
+    "id": "01304",
+    "pdm": "LENTE INDUSTRIAL / SEGURANÇA"
+  },
+  {
+    "id": "01305",
+    "pdm": "MANGA ISOLANTE"
+  },
+  {
+    "id": "01306",
+    "pdm": "RESPIRADOR"
+  },
+  {
+    "id": "01312",
+    "pdm": "EXTINTOR INCÊNDIO ÁGUA"
+  },
+  {
+    "id": "01313",
+    "pdm": "EXTINTOR INCÊNDIO PÓ QUÍMICO"
+  },
+  {
+    "id": "01314",
+    "pdm": "CÂMARA AVÍCOLA FUMIGAÇÃO"
+  },
+  {
+    "id": "01315",
+    "pdm": "ESCUDO ANTI-TUMULTO"
+  },
+  {
+    "id": "01316",
+    "pdm": "PROTETOR FACIAL"
+  },
+  {
+    "id": "01362",
+    "pdm": "BALDE COMBATE INCÊNDIO"
+  },
+  {
+    "id": "01370",
+    "pdm": "BARCO INFLÁVEL"
+  },
+  {
+    "id": "01371",
+    "pdm": "BOLSA TRANSPORTE LUVAS"
+  },
+  {
+    "id": "01372",
+    "pdm": "CAPACETE SEGURANÇA"
+  },
+  {
+    "id": "01373",
+    "pdm": "PERNEIRA"
+  },
+  {
+    "id": "01377",
+    "pdm": "ÓCULOS PROTEÇÃO"
+  },
+  {
+    "id": "01661",
+    "pdm": "ACESSÓRIO / PEÇA MERGULHO"
+  },
+  {
+    "id": "02246",
+    "pdm": "ALCA SALVAMENTO ( SLING )"
+  },
+  {
+    "id": "02392",
+    "pdm": "AMARRA CORRENTE ( EPI )"
+  },
+  {
+    "id": "02484",
+    "pdm": "ANCINHO DE BOMBEIRO"
+  },
+  {
+    "id": "02635",
+    "pdm": "APARELHAGEM PARA DESCONTAMINACAO MECANICA. MONTADAEM VIATURA"
+  },
+  {
+    "id": "02721",
+    "pdm": "APARELHO DE MERGULHO"
+  },
+  {
+    "id": "02740",
+    "pdm": "MÁSCARA AUTÔNOMA"
+  },
+  {
+    "id": "02741",
+    "pdm": "APARELHO SALVAMENTO"
+  },
+  {
+    "id": "03099",
+    "pdm": "ASSENTO TÁTICO"
+  },
+  {
+    "id": "03133",
+    "pdm": "AUTOCLAVE DESCONTAMINAÇÃO"
+  },
+  {
+    "id": "03134",
+    "pdm": "PEÇAS / ACESSÓRIOS AUTOCLAVE"
+  },
+  {
+    "id": "03153",
+    "pdm": "AVENTAL"
+  },
+  {
+    "id": "03155",
+    "pdm": "AVENTAL DE SEGURANCA PARA SOLDAGEM"
+  },
+  {
+    "id": "03156",
+    "pdm": "AVENTAL SEGURANÇA USO FUNDIÇÃO"
+  },
+  {
+    "id": "03259",
+    "pdm": "BALSA PNEUMATICA"
+  },
+  {
+    "id": "03331",
+    "pdm": "BARCA INFLAVEL"
+  },
+  {
+    "id": "03447",
+    "pdm": "BATEDOR / ABAFADOR FOGO - COMBATE INCÊNDIO"
+  },
+  {
+    "id": "03524",
+    "pdm": "BICO ASPERSOR MANGUEIRA COMBATE A INCÊNDIO"
+  },
+  {
+    "id": "03632",
+    "pdm": "BLUSÃO RASPA DE COURO ( EPI )"
+  },
+  {
+    "id": "03663",
+    "pdm": "BOIA SALVA - VIDA"
+  },
+  {
+    "id": "03664",
+    "pdm": "BOIA SALVA - VIDAS INFLAVEL"
+  },
+  {
+    "id": "03665",
+    "pdm": "BOIA SALVA - VIDAS NAO INFLAVEL"
+  },
+  {
+    "id": "03713",
+    "pdm": "BOLSA SALVA - VIDA"
+  },
+  {
+    "id": "03735",
+    "pdm": "BOMBA COSTAL"
+  },
+  {
+    "id": "03800",
+    "pdm": "BONE - SALVAMENTO / SEGURANCA / USO DIVERSO"
+  },
+  {
+    "id": "03839",
+    "pdm": "BOTE ALUMÍNIO"
+  },
+  {
+    "id": "03840",
+    "pdm": "BOTE FIBRA VIDRO"
+  },
+  {
+    "id": "03841",
+    "pdm": "BOTE MADEIRA"
+  },
+  {
+    "id": "03842",
+    "pdm": "BOTE METALICO"
+  },
+  {
+    "id": "03843",
+    "pdm": "BOTE INFLÁVEL"
+  },
+  {
+    "id": "03844",
+    "pdm": "BOTE SALVA - VIDAS PNEUMATICO"
+  },
+  {
+    "id": "03848",
+    "pdm": "BOTINA SEGURANÇA"
+  },
+  {
+    "id": "03967",
+    "pdm": "BÚSSOLA SALVAMENTO"
+  },
+  {
+    "id": "04046",
+    "pdm": "CABO SEGURANÇA"
+  },
+  {
+    "id": "04168",
+    "pdm": "ABRIGO MANGUEIRA INCÊNDIO"
+  },
+  {
+    "id": "04327",
+    "pdm": "CAMARA DE ESPUMA DE COMBATE A INCENDIO"
+  },
+  {
+    "id": "04421",
+    "pdm": "CANHAO MONITOR AGUA - COMBATE A INCENDIO"
+  },
+  {
+    "id": "04422",
+    "pdm": "CANHAO MONITOR DE AGUA"
+  },
+  {
+    "id": "04423",
+    "pdm": "CANHAO MONITOR DE AGUA E ESPUMA"
+  },
+  {
+    "id": "04452",
+    "pdm": "CAPACETE MILITAR"
+  },
+  {
+    "id": "04453",
+    "pdm": "CAPACETE POLICIAL"
+  },
+  {
+    "id": "04455",
+    "pdm": "CAPACETE CONDUTOR MOTOCICLETA"
+  },
+  {
+    "id": "04457",
+    "pdm": "CAPACETE SEGURANCA - SOLDADOR"
+  },
+  {
+    "id": "04506",
+    "pdm": "CAPUZ USO SALVAMENTO E SEGURANÇA"
+  },
+  {
+    "id": "04543",
+    "pdm": "CARGA EXTINTOR INCÊNDIO"
+  },
+  {
+    "id": "04599",
+    "pdm": "CARRO COMBATE A INCÊNDIO"
+  },
+  {
+    "id": "04712",
+    "pdm": "CAVALETE CONTROLE TRÂNSITO"
+  },
+  {
+    "id": "04714",
+    "pdm": "CAVALETE E GRADE DE SEGURANCA"
+  },
+  {
+    "id": "04749",
+    "pdm": "CENTRAL DOSADORA DE ESPUMA DE COMBATE A INCENDIO"
+  },
+  {
+    "id": "04795",
+    "pdm": "CESTA DE TRANSPORTE DE PESSOAL DE SALVAMENTO E SEGURANCA"
+  },
+  {
+    "id": "04801",
+    "pdm": "CESTO SEGURANÇA INSPEÇÃO E MANUTENÇÃO"
+  },
+  {
+    "id": "04978",
+    "pdm": "CHUVEIRO E LAVA-OLHOS"
+  },
+  {
+    "id": "05021",
+    "pdm": "CINTO SEGURANÇA VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "05022",
+    "pdm": "CINTO SEGURANÇA"
+  },
+  {
+    "id": "05029",
+    "pdm": "CINTURÃO SEGURANÇA"
+  },
+  {
+    "id": "05031",
+    "pdm": "CINTURAO CADEIRA ( EPI )"
+  },
+  {
+    "id": "05032",
+    "pdm": "CINTURÃO PARA-QUEDISTA ( EPI )"
+  },
+  {
+    "id": "05289",
+    "pdm": "COBERTURA E PROTETOR ISOLANTE DE LINHAS E REDES"
+  },
+  {
+    "id": "05350",
+    "pdm": "COLETE SALVA-VIDAS"
+  },
+  {
+    "id": "05351",
+    "pdm": "COLETE SALVA - VIDAS NAO INFLAVEL"
+  },
+  {
+    "id": "05602",
+    "pdm": "CHAVE ENGATE MANGUEIRA"
+  },
+  {
+    "id": "05623",
+    "pdm": "CONEXÃO MANGUEIRA"
+  },
+  {
+    "id": "05687",
+    "pdm": "COMPONENTE RESPIRADOR SEGURANÇA"
+  },
+  {
+    "id": "05739",
+    "pdm": "CONJUNTO SEGURANÇA CONTRA QUEDA"
+  },
+  {
+    "id": "05857",
+    "pdm": "CORDA E FITA DE SEGURANCA"
+  },
+  {
+    "id": "05897",
+    "pdm": "CORREIA"
+  },
+  {
+    "id": "06066",
+    "pdm": "DERIVANTE MANGUEIRA INCÊNDIO"
+  },
+  {
+    "id": "06103",
+    "pdm": "DESLISADOR DE SEGURANCA ( GERONIMO )"
+  },
+  {
+    "id": "06656",
+    "pdm": "EQUIPAMENTO CORTE HIDRÁULICO"
+  },
+  {
+    "id": "06751",
+    "pdm": "ACESSÓRIO EQUIPAMENTO SEGURANÇA"
+  },
+  {
+    "id": "06752",
+    "pdm": "EQUIPAMENTO DE SOCORRO"
+  },
+  {
+    "id": "06840",
+    "pdm": "EQUIPAMENTO PORTATIL DE FUGA DE INCENDIO"
+  },
+  {
+    "id": "06878",
+    "pdm": "ESCADA FIBRA VIDRO"
+  },
+  {
+    "id": "06883",
+    "pdm": "ESCADA EXTENSÍVEL"
+  },
+  {
+    "id": "06890",
+    "pdm": "ESCADA PORTATIL DE COMBATE A INCENDIO"
+  },
+  {
+    "id": "06894",
+    "pdm": "ESCAFANDRO"
+  },
+  {
+    "id": "06953",
+    "pdm": "ESCUDO PARA SOLDADOR"
+  },
+  {
+    "id": "07013",
+    "pdm": "ESPELHO"
+  },
+  {
+    "id": "07016",
+    "pdm": "ESPERA / ANCORAGEM ( EPI )"
+  },
+  {
+    "id": "07124",
+    "pdm": "ESTERILIZADOR DE VESTUARIO"
+  },
+  {
+    "id": "07184",
+    "pdm": "ESTRIBO - SALVAMENTO"
+  },
+  {
+    "id": "07257",
+    "pdm": "EXTINTOR DE INCENDIO"
+  },
+  {
+    "id": "07258",
+    "pdm": "EXTINTOR DE INCENDIO EM ELETRICIDADE / ELETRONICA"
+  },
+  {
+    "id": "07259",
+    "pdm": "CARRINHO EXTINTOR DE INCÊNDIO"
+  },
+  {
+    "id": "07260",
+    "pdm": "EXTINTOR INCENDIO ESPUMA QUIMICA"
+  },
+  {
+    "id": "07474",
+    "pdm": "FILTRO DE MÁSCARA CONTRA GÁS"
+  },
+  {
+    "id": "07495",
+    "pdm": "FILTRO RESPIRADOR"
+  },
+  {
+    "id": "07557",
+    "pdm": "FITA ANTIDERRAPANTE"
+  },
+  {
+    "id": "07671",
+    "pdm": "FLUTUADOR DE USO PESSOAL"
+  },
+  {
+    "id": "07834",
+    "pdm": "FREIO PROFISSIONAL ( EPI )"
+  },
+  {
+    "id": "08045",
+    "pdm": "GRADE DE CONTROLE DE TRANSITO"
+  },
+  {
+    "id": "08212",
+    "pdm": "HIDRANTE"
+  },
+  {
+    "id": "08580",
+    "pdm": "KIT ELEVACAO - SALVAMENTO"
+  },
+  {
+    "id": "08700",
+    "pdm": "LANCHA INFLAVEL"
+  },
+  {
+    "id": "08740",
+    "pdm": "LAVA - FACE DE IMPREGNACAO E DESCONTAMINACAO"
+  },
+  {
+    "id": "08773",
+    "pdm": "LENCOL DE BORRACHA ISOLANTE DE REDE ELETRICA"
+  },
+  {
+    "id": "08878",
+    "pdm": "LIQUIDO GERADOR DE ESPUMA DE COMBATE A INCENDIO"
+  },
+  {
+    "id": "08957",
+    "pdm": "LUVA COURO - SALVAMENTO"
+  },
+  {
+    "id": "08959",
+    "pdm": "LUVA DE BORRACHA ISOLANTE"
+  },
+  {
+    "id": "08964",
+    "pdm": "LUVA DE POLIPROPILENO"
+  },
+  {
+    "id": "08966",
+    "pdm": "LUVA DE SEGURANCA DE AMIANTO"
+  },
+  {
+    "id": "08967",
+    "pdm": "LUVA DE SEGURANCA DE TECIDO VINILIZADO"
+  },
+  {
+    "id": "08968",
+    "pdm": "LUVA DE SEGURANCA EM MALHA DE ACO"
+  },
+  {
+    "id": "08969",
+    "pdm": "LUVA DE SEGURANCA EM PELICA"
+  },
+  {
+    "id": "08970",
+    "pdm": "LUVA DE SEGURANCA EM SUEDINE"
+  },
+  {
+    "id": "08971",
+    "pdm": "LUVA DE SEGURANCA HEXANOL"
+  },
+  {
+    "id": "08972",
+    "pdm": "LUVA DE SEGURANCA IMPERMEAVEL"
+  },
+  {
+    "id": "08975",
+    "pdm": "LUVA INDUSTRIAL TIPO RASPA DE COURO"
+  },
+  {
+    "id": "08979",
+    "pdm": "LUVA SEGURANÇA - VAQUETA"
+  },
+  {
+    "id": "08981",
+    "pdm": "LUZ DE COLETE SALVA - VIDAS"
+  },
+  {
+    "id": "09003",
+    "pdm": "MACHADO DE BOMBEIRO"
+  },
+  {
+    "id": "09096",
+    "pdm": "MANGUEIRA DE COMBATE A INCENDIO"
+  },
+  {
+    "id": "09117",
+    "pdm": "MANTA ANTIFOGO"
+  },
+  {
+    "id": "09403",
+    "pdm": "MASCARA APICOLA"
+  },
+  {
+    "id": "09404",
+    "pdm": "MÁSCARA CONTRA GASES"
+  },
+  {
+    "id": "09408",
+    "pdm": "MÁSCARA MERGULHADOR"
+  },
+  {
+    "id": "09409",
+    "pdm": "MÁSCARA SOLDADOR"
+  },
+  {
+    "id": "09410",
+    "pdm": "MÁSCARA DESCARTÁVEL USO GERAL"
+  },
+  {
+    "id": "09411",
+    "pdm": "MASCARA PANORAMICA"
+  },
+  {
+    "id": "09455",
+    "pdm": "MATERIAL DE SOBREVIVENCIA"
+  },
+  {
+    "id": "09456",
+    "pdm": "MATERIAL DE SOCORRO"
+  },
+  {
+    "id": "09801",
+    "pdm": "MITENE TIPO SEGURANCA ( LUVA )"
+  },
+  {
+    "id": 10145,
+    "pdm": "OCULOS - VISAO NOTURNA"
+  },
+  {
+    "id": 10146,
+    "pdm": "OCULOS INDUSTRIAL"
+  },
+  {
+    "id": 10147,
+    "pdm": "OCULOS PROTECAO - LASER"
+  },
+  {
+    "id": 10215,
+    "pdm": "OMBREIRA"
+  },
+  {
+    "id": 10415,
+    "pdm": "PÁRA - QUEDAS DE USO INDIVIDUAL"
+  },
+  {
+    "id": 10537,
+    "pdm": "PEÇA REPOSIÇÃO EXTINTOR INCÊNDIO"
+  },
+  {
+    "id": 10678,
+    "pdm": "PERNEIRA TIPO SEGURANCA"
+  },
+  {
+    "id": 10797,
+    "pdm": "PISTOLA PARA PO QUIMICO SECO"
+  },
+  {
+    "id": 10937,
+    "pdm": "PO QUIMICO DE COMBATE A INCENDIO"
+  },
+  {
+    "id": 10941,
+    "pdm": "POLAINA DE SEGURANÇA EM VAQUETA"
+  },
+  {
+    "id": 11068,
+    "pdm": "PORTA CORTA-FOGO / DAMPERS / ACESSÓRIOS"
+  },
+  {
+    "id": 11277,
+    "pdm": "PROPORCIONADOR / EDUTOR DE ESPUMA - COMBATE A INCENDIO"
+  },
+  {
+    "id": 11283,
+    "pdm": "CORDA SALVAMENTO"
+  },
+  {
+    "id": 11311,
+    "pdm": "PROTETOR DE EXTINTOR DE INCENDIO"
+  },
+  {
+    "id": 11374,
+    "pdm": "QUEIMADOR PINGA-FOGO"
+  },
+  {
+    "id": 11457,
+    "pdm": "REBOQUE DE COMBATE A INCENDIO"
+  },
+  {
+    "id": 11506,
+    "pdm": "REDE DE SALVAMENTO FLUTUANTE"
+  },
+  {
+    "id": 11507,
+    "pdm": "REDE DE SALVAMENTO NAO FLUTUANTE"
+  },
+  {
+    "id": 11697,
+    "pdm": "COROA MÁSCARA SOLDADOR"
+  },
+  {
+    "id": 11698,
+    "pdm": "RESPIRADOR PARA JATEAMENTO DE AREIA"
+  },
+  {
+    "id": 11701,
+    "pdm": "AMBU"
+  },
+  {
+    "id": 11849,
+    "pdm": "ROUPA MERGULHADOR"
+  },
+  {
+    "id": 11850,
+    "pdm": "ROUPA IMPERMEAVEL"
+  },
+  {
+    "id": 11931,
+    "pdm": "SALVA - VIDAS INFLAVEL INDIVIDUAL"
+  },
+  {
+    "id": 12101,
+    "pdm": "SISTEMA ( EQUIPAMENTO / SOFTWARE ) TRAFEGO AEREO"
+  },
+  {
+    "id": 12112,
+    "pdm": "SISTEMA DE COMBATE A INCENDIO"
+  },
+  {
+    "id": 12141,
+    "pdm": "SISTEMA FIXO DE COMBATE A INCÊNDIO A CO2"
+  },
+  {
+    "id": 12142,
+    "pdm": "SISTEMA FIXO DE COMBATE A INCENDIO A ESPUMA"
+  },
+  {
+    "id": 12143,
+    "pdm": "SISTEMA FIXO DE COMBATE A INCENDIO A PO QUIMICO"
+  },
+  {
+    "id": 12170,
+    "pdm": "SOBREBOTA DE SALVAMENTO E SEGURANCA"
+  },
+  {
+    "id": 12386,
+    "pdm": "CINTA FIXAÇÃO EXTINTOR INCÊNDIO"
+  },
+  {
+    "id": 12486,
+    "pdm": "TALABARTE DE SALVAMENTO E SEGURANCA"
+  },
+  {
+    "id": 12857,
+    "pdm": "TRAJE DE SEGURANCA"
+  },
+  {
+    "id": 12944,
+    "pdm": "TRAVA QUEDA ( EPI )"
+  },
+  {
+    "id": 13402,
+    "pdm": "VESTUARIO ANTI - CHAMA"
+  },
+  {
+    "id": 13404,
+    "pdm": "VESTUÁRIO COMBATE A INCÊNDIO"
+  },
+  {
+    "id": 13439,
+    "pdm": "VIGA SUSTENTACAO ( EPI )"
+  },
+  {
+    "id": 13454,
+    "pdm": "VISEIRA DE SOLDADOR"
+  },
+  {
+    "id": 13540,
+    "pdm": "CAMARA DE FUMIGACAO"
+  },
+  {
+    "id": 13637,
+    "pdm": "PEÇAS/EQUIPAMENTOS COMBATE A INCÊNCIO"
+  },
+  {
+    "id": 13711,
+    "pdm": "MÁSCARA MULTIUSO"
+  },
+  {
+    "id": 13722,
+    "pdm": "LUVA SEGURANÇA"
+  },
+  {
+    "id": 14010,
+    "pdm": "ÁGUA PRESSURIZADA"
+  },
+  {
+    "id": 14100,
+    "pdm": "EXTINTOR INCÊNDIO VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 14270,
+    "pdm": "BLOCANTE SEGURANÇA"
+  },
+  {
+    "id": 14320,
+    "pdm": "GERADOR ACETILENO"
+  },
+  {
+    "id": 14321,
+    "pdm": "ILUMINADOR ACETILENO"
+  },
+  {
+    "id": 14323,
+    "pdm": "BICO ACETILENO"
+  },
+  {
+    "id": 14333,
+    "pdm": "ABAFADOR RUÍDO AURICULAR"
+  },
+  {
+    "id": 14359,
+    "pdm": "LANTERNA DE CABEÇA/CAPACETE"
+  },
+  {
+    "id": 14396,
+    "pdm": "ÓCULOS NATAÇÃO"
+  },
+  {
+    "id": 14569,
+    "pdm": "ÓCULOS DE PROTEÇÃO INDIVIDUAL"
+  },
+  {
+    "id": 14724,
+    "pdm": "LANTERNA CAPACETE"
+  },
+  {
+    "id": 14765,
+    "pdm": "REDE ANTI-INVERSÃO PÁRA-QUEDAS"
+  },
+  {
+    "id": 14770,
+    "pdm": "TECIDO USO PÁRA-QUEDAS"
+  },
+  {
+    "id": 14771,
+    "pdm": "CABO PÁRA-QUEDAS"
+  },
+  {
+    "id": 14859,
+    "pdm": "REDE PROTEÇÃO"
+  },
+  {
+    "id": 15265,
+    "pdm": "APITO TRÁFEGO"
+  },
+  {
+    "id": 15299,
+    "pdm": "LUVA ISOLANTE"
+  },
+  {
+    "id": 15309,
+    "pdm": "LUVA BORRACHA ISOLANTE"
+  },
+  {
+    "id": 15403,
+    "pdm": "MÁSCARA SEGURANÇA"
+  },
+  {
+    "id": 15925,
+    "pdm": "COLETE IMOBILIZAÇÃO"
+  },
+  {
+    "id": 15964,
+    "pdm": "TRAVA - EXTINTOR INCENDIO"
+  },
+  {
+    "id": 16089,
+    "pdm": "MANGUEIRA EXTINTOR INCÊNDIO"
+  },
+  {
+    "id": 16090,
+    "pdm": "VÁLVULA EXTINTOR INCÊNDIO"
+  },
+  {
+    "id": 16091,
+    "pdm": "PUNHO EXTINTOR INCÊNDIO"
+  },
+  {
+    "id": 16092,
+    "pdm": "DIFUSOR EXTINTOR INCÊNDIO"
+  },
+  {
+    "id": 16093,
+    "pdm": "MANÔMETRO EXTINTOR INCÊNDIO"
+  },
+  {
+    "id": 16200,
+    "pdm": "REPARO EXTINTOR"
+  },
+  {
+    "id": 16419,
+    "pdm": "MÁSCARA CONTRA AGENTES BIOLÓGICOS"
+  },
+  {
+    "id": 16939,
+    "pdm": "ADAPTADOR ENGATE"
+  },
+  {
+    "id": 16940,
+    "pdm": "BASTÃO SINALIZADOR"
+  },
+  {
+    "id": 16941,
+    "pdm": "EQUIPAMENTO PARA DESCONTAMINAÇÃO E IMPREGNAÇÃO"
+  },
+  {
+    "id": 16942,
+    "pdm": "RECIPIENTES PARA COLETA DE MATERIAIS PERIGOSOS. MATERIAIS EEQUIPAMENTOS DE LIMPEZA"
+  },
+  {
+    "id": 16943,
+    "pdm": "ESCUDO PROTEÇÃO"
+  },
+  {
+    "id": 16944,
+    "pdm": "EQUIPAMENTO PARA RECICLAGEM E RECUPERAÇÃO"
+  },
+  {
+    "id": 17436,
+    "pdm": "CAIXA HIDRANTE"
+  },
+  {
+    "id": 17971,
+    "pdm": "ALMOFADA PROTETOR AURICULAR"
+  },
+  {
+    "id": 18642,
+    "pdm": "BARREIRA CONTENÇÃO / ABSORVENTE"
+  },
+  {
+    "id": 18930,
+    "pdm": "EQUIPAMENTO / ACESSÓRIO COMBATE A POLUIÇÃO HÍDRICA"
+  }
+]
