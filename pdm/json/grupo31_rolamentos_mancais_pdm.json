@@ -1,0 +1,352 @@
+[
+  {
+    "id": "01699",
+    "pdm": "ACESSORIO DE ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": "02502",
+    "pdm": "ANEL EXTERNO DE PISTA DE ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": "02505",
+    "pdm": "ANEL INTERNO DE PISTA DE ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": "03060",
+    "pdm": "ARRUELA SEGURANÇA ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": "03935",
+    "pdm": "BUCHA ( MANCAL NÃO MONTADO )",
+    "grupo": "31"
+  },
+  {
+    "id": "03937",
+    "pdm": "BUCHA DE ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": "03938",
+    "pdm": "BUCHA DE ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": "03941",
+    "pdm": "BUCHA FIXACAO ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": "04173",
+    "pdm": "CAIXA ROLAMENTO BIPARTIDA",
+    "grupo": "31"
+  },
+  {
+    "id": "04174",
+    "pdm": "CAIXA ROLAMENTO INTEIRIÇA",
+    "grupo": "31"
+  },
+  {
+    "id": "04218",
+    "pdm": "CALÇO ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": "04446",
+    "pdm": "CAPA DE ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": "04536",
+    "pdm": "CARCAÇA DE ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": "05564",
+    "pdm": "CONE DE ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": "06310",
+    "pdm": "DISPOSITIVO FIXAÇÃO ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": "06956",
+    "pdm": "ESFERA",
+    "grupo": "31"
+  },
+  {
+    "id": "06958",
+    "pdm": "ESFERA DE ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": "09059",
+    "pdm": "MANCAL ACO ESTAMPADO",
+    "grupo": "31"
+  },
+  {
+    "id": "09060",
+    "pdm": "MANCAL ANTI - FRICCAO",
+    "grupo": "31"
+  },
+  {
+    "id": "09061",
+    "pdm": "MANCAL COMPLETO COM CARCACA DE TIPO ESPECIAL",
+    "grupo": "31"
+  },
+  {
+    "id": "09062",
+    "pdm": "MANCAL COMPLETO COM FLANGE",
+    "grupo": "31"
+  },
+  {
+    "id": "09065",
+    "pdm": "MANCAL ESPECIAL SOB ENCOMENDA",
+    "grupo": "31"
+  },
+  {
+    "id": "09066",
+    "pdm": "MANCAL EXPANSAO AXIAL",
+    "grupo": "31"
+  },
+  {
+    "id": "09067",
+    "pdm": "MANCAL FLANGE ROLAMENTO FURO CONICO",
+    "grupo": "31"
+  },
+  {
+    "id": "09068",
+    "pdm": "MANCAL FRICCAO",
+    "grupo": "31"
+  },
+  {
+    "id": "09069",
+    "pdm": "MANCAL MONTADO METAL PATENTE",
+    "grupo": "31"
+  },
+  {
+    "id": "09071",
+    "pdm": "MANCAL PENDENTE HORIZONTAL",
+    "grupo": "31"
+  },
+  {
+    "id": "09072",
+    "pdm": "MANCAL PENDENTE VERTICAL",
+    "grupo": "31"
+  },
+  {
+    "id": "09073",
+    "pdm": "MANCAL SOB ENCOMENDA",
+    "grupo": "31"
+  },
+  {
+    "id": "09074",
+    "pdm": "MANCAL SOB PRESSAO",
+    "grupo": "31"
+  },
+  {
+    "id": "09075",
+    "pdm": "MANCAL TIPO ARRUELA",
+    "grupo": "31"
+  },
+  {
+    "id": "09076",
+    "pdm": "MANCAL TIPO BIPARTIDO",
+    "grupo": "31"
+  },
+  {
+    "id": "09077",
+    "pdm": "MANCAL TIPO LUVA",
+    "grupo": "31"
+  },
+  {
+    "id": "09078",
+    "pdm": "MANCAL TIPO MONOBLOCO",
+    "grupo": "31"
+  },
+  {
+    "id": "09079",
+    "pdm": "MANCAL TIPO TERMINAL",
+    "grupo": "31"
+  },
+  {
+    "id": "09720",
+    "pdm": "MICRO - ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": "09772",
+    "pdm": "MINI - ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": 10642,
+    "pdm": "PEQUENO ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": 11029,
+    "pdm": "PORCA PARA ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": 11073,
+    "pdm": "PORTA ESFERA COM OU SEM REBITE PARA ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": 11074,
+    "pdm": "PORTA ESFERA DE ACO PRE - REBITADO PARA ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": 11075,
+    "pdm": "PORTA ESFERA DE NYLON PARA ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": 11085,
+    "pdm": "PORTA ROLO DE ACO PARA ROLAMENTO CONICO",
+    "grupo": "31"
+  },
+  {
+    "id": 11786,
+    "pdm": "ROLAMENTO ALOJADO",
+    "grupo": "31"
+  },
+  {
+    "id": 11787,
+    "pdm": "ROLAMENTO AUTOCOMPENSADOR ESFERA",
+    "grupo": "31"
+  },
+  {
+    "id": 11788,
+    "pdm": "ROLAMENTO AXIAL AGULHA",
+    "grupo": "31"
+  },
+  {
+    "id": 11789,
+    "pdm": "ROLAMENTO AXIAL AUTOCOMPENSADOR ROLO",
+    "grupo": "31"
+  },
+  {
+    "id": 11790,
+    "pdm": "ROLAMENTO AXIAL ESFERA",
+    "grupo": "31"
+  },
+  {
+    "id": 11791,
+    "pdm": "ROLAMENTO AXIAL ROLO CILINDRICO",
+    "grupo": "31"
+  },
+  {
+    "id": 11793,
+    "pdm": "ROLAMENTO COMPLETO COM CARCACA",
+    "grupo": "31"
+  },
+  {
+    "id": 11794,
+    "pdm": "ROLAMENTO COMPLETO COM FLANGE",
+    "grupo": "31"
+  },
+  {
+    "id": 11795,
+    "pdm": "ROLAMENTO RADIAL AGULHA",
+    "grupo": "31"
+  },
+  {
+    "id": 11796,
+    "pdm": "ROLAMENTO DE CONE",
+    "grupo": "31"
+  },
+  {
+    "id": 11797,
+    "pdm": "ROLAMENTO DE ESFERA",
+    "grupo": "31"
+  },
+  {
+    "id": 11798,
+    "pdm": "ROLAMENTO DE ESTEIRA",
+    "grupo": "31"
+  },
+  {
+    "id": 11799,
+    "pdm": "ROLAMENTO DE ROLETE",
+    "grupo": "31"
+  },
+  {
+    "id": 11800,
+    "pdm": "ROLAMENTO ESFERA CONTATO ANGULAR",
+    "grupo": "31"
+  },
+  {
+    "id": 11801,
+    "pdm": "ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": 11802,
+    "pdm": "ROLAMENTO GAIOLA AGULHA",
+    "grupo": "31"
+  },
+  {
+    "id": 11803,
+    "pdm": "ROLAMENTO RIGIDO ESFERA",
+    "grupo": "31"
+  },
+  {
+    "id": 11804,
+    "pdm": "ROLAMENTO ROLO",
+    "grupo": "31"
+  },
+  {
+    "id": 11813,
+    "pdm": "ROLETE CILINDRICO",
+    "grupo": "31"
+  },
+  {
+    "id": 11816,
+    "pdm": "ROLETE DE ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": 12447,
+    "pdm": "SUSPENSÃO VEÍCULO AUTOMOTIVO - ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": 13155,
+    "pdm": "UNIDADE BLINDADA DE ROLAMENTO",
+    "grupo": "31"
+  },
+  {
+    "id": 15745,
+    "pdm": "ROLAMENTO PARA COPIADORA",
+    "grupo": "31"
+  },
+  {
+    "id": 16274,
+    "pdm": "MANCAL LINEAR FECHADO",
+    "grupo": "31"
+  },
+  {
+    "id": 16836,
+    "pdm": "ROLAMENTOS ANTIFRICÇÃO NÃO MONTADOS",
+    "grupo": "31"
+  },
+  {
+    "id": 16837,
+    "pdm": "MANCAIS NÃO MONTADOS",
+    "grupo": "31"
+  },
+  {
+    "id": 16838,
+    "pdm": "ROLAMENTOS E MANCAIS MONTADOS",
+    "grupo": "31"
+  }
+]
