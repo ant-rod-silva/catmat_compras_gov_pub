@@ -1,0 +1,1258 @@
+[
+  {
+    "id": "00652",
+    "pdm": "PINÇA FREIO - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "00655",
+    "pdm": "PALHETA LIMPADOR PÁRA-BRISA"
+  },
+  {
+    "id": "00684",
+    "pdm": "BRAÇADEIRA"
+  },
+  {
+    "id": "00806",
+    "pdm": "AMORTECEDOR SUSPENSÃO"
+  },
+  {
+    "id": "00807",
+    "pdm": "MOLA SUSPENSÃO"
+  },
+  {
+    "id": "01641",
+    "pdm": "ACENDEDOR CIGARRO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "01654",
+    "pdm": "PEÇAS / ACESSÓRIOS CAMINHÃO"
+  },
+  {
+    "id": "01655",
+    "pdm": "PEÇAS / ACESSÓRIOS ÔNIBUS"
+  },
+  {
+    "id": "01656",
+    "pdm": "ARMAÇÃO SEGURANÇA VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "01665",
+    "pdm": "ACESSÓRIO CARRO BLINDADO"
+  },
+  {
+    "id": "02099",
+    "pdm": "ADAPTADOR TAMBOR DE FREIO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "02233",
+    "pdm": "ALAVANCA VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "02286",
+    "pdm": "ALGEMA DE VEICULO"
+  },
+  {
+    "id": "02341",
+    "pdm": "ALMOFADA ASSENTO - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "02342",
+    "pdm": "ALMOFADA BORRACHA PARA LAGARTA - VEICULO AUTOMOTI"
+  },
+  {
+    "id": "02434",
+    "pdm": "AMORTECEDORES DE SUSPENSAO"
+  },
+  {
+    "id": "02508",
+    "pdm": "RETENTOR VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "02510",
+    "pdm": "ANEL SINCRONIZADOR CAIXA DE MARCHA - VEICULO A UTOMOTIVO"
+  },
+  {
+    "id": "02535",
+    "pdm": "ANTENA VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "02541",
+    "pdm": "ANTENA ELÉTRICA - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "02709",
+    "pdm": "APARELHO DE FORCA DE VEICULO"
+  },
+  {
+    "id": "02915",
+    "pdm": "AQUECEDOR AR - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "02929",
+    "pdm": "AQUECEDOR DE VEÍCULO"
+  },
+  {
+    "id": "02992",
+    "pdm": "ARMA AUTO - PROPULSIONADA SOBRE LAGARTA"
+  },
+  {
+    "id": "03025",
+    "pdm": "ARO FAROL - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "03026",
+    "pdm": "ARO BICICLETA"
+  },
+  {
+    "id": "03100",
+    "pdm": "ASSOALHO - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "03127",
+    "pdm": "ATUADOR PNEUMATICO - ACIONAMENTO DE VALVULA"
+  },
+  {
+    "id": "03200",
+    "pdm": "BAGAGEIRO VEÍCULO"
+  },
+  {
+    "id": "03275",
+    "pdm": "BANCO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "03363",
+    "pdm": "BARRA DIREÇÃO"
+  },
+  {
+    "id": "03385",
+    "pdm": "BARRA DE SUSPENSAO"
+  },
+  {
+    "id": "03387",
+    "pdm": "PONTEIRA PÁRA-CHOQUE"
+  },
+  {
+    "id": "03460",
+    "pdm": "BATENTE DE VEÍCULO"
+  },
+  {
+    "id": "03737",
+    "pdm": "BOMBA D'AGUA VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "03835",
+    "pdm": "BOTAO PAINEL DE INSTRUMENTO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "03838",
+    "pdm": "PEÇAS / ACESSÓRIOS BICICLETA"
+  },
+  {
+    "id": "03996",
+    "pdm": "CABINE COMPLETA DE TRATOR DE ESTEIRA"
+  },
+  {
+    "id": "03997",
+    "pdm": "CABINE COMPLETA DE TRATOR DE RODA"
+  },
+  {
+    "id": "04033",
+    "pdm": "CABO MARCADOR VELOCIDADE"
+  },
+  {
+    "id": "04140",
+    "pdm": "CAIXA MARCHA VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "04152",
+    "pdm": "CAIXA DIRECAO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "04178",
+    "pdm": "CAIXA TRANSMISSAO HIDRAULICA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "04217",
+    "pdm": "CALCO CAIXA DE MARCHA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "04249",
+    "pdm": "CALHA PLASTICA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "04305",
+    "pdm": "CALOTA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "04440",
+    "pdm": "CAPA VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "04441",
+    "pdm": "CAPA BANCO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "04490",
+    "pdm": "CAPOTA AUTOMOTIVA"
+  },
+  {
+    "id": "04502",
+    "pdm": "CAPTADOR DE AR DO SISTEMA DE PRE - AQUECIMENTO DE MOTOR"
+  },
+  {
+    "id": "04631",
+    "pdm": "CARROCERIA BASCULANTE"
+  },
+  {
+    "id": "04632",
+    "pdm": "CARROCERIA FIBRA DE VIDRO"
+  },
+  {
+    "id": "04633",
+    "pdm": "CARROCERIA MADEIRA CAMINHÃO"
+  },
+  {
+    "id": "04634",
+    "pdm": "CARROCERIA"
+  },
+  {
+    "id": "04635",
+    "pdm": "CARROCERIA PARA TRATOR DE ESTEIRA COMPLETA"
+  },
+  {
+    "id": "04636",
+    "pdm": "CARROCERIA PARA TRATOR DE RODA"
+  },
+  {
+    "id": "04637",
+    "pdm": "CARROCERIA TIPO FRIGORIFICO"
+  },
+  {
+    "id": "04999",
+    "pdm": "CILINDRO HIDRAULICO DE FREIO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "05399",
+    "pdm": "COMPLEMENTO ALAVANCA MUDANCA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "05468",
+    "pdm": "COMPONENTE TRANSMISSÃO E CÂMBIO - VEÍCULO AUTO"
+  },
+  {
+    "id": "05469",
+    "pdm": "COMPONENTE TRATOR ESTEIRA"
+  },
+  {
+    "id": "05470",
+    "pdm": "COMPONENTE TRATOR RODA"
+  },
+  {
+    "id": "05520",
+    "pdm": "COMPRESSOR SISTEMA DE FREIO A AR - VEICULO AUTO MOTIVO"
+  },
+  {
+    "id": "05736",
+    "pdm": "CONJUNTO DE PARA-BRISA"
+  },
+  {
+    "id": "05744",
+    "pdm": "CONJUNTO EMBREAGEM VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "05750",
+    "pdm": "CONJUNTO FREIO AUTOMOTIVO"
+  },
+  {
+    "id": "05782",
+    "pdm": "CONSOLE ESPECIAL - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "05835",
+    "pdm": "CONVERSOR DE TORCAO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "05992",
+    "pdm": "CRUZETA TRANSMISSÃO VEÍCULO"
+  },
+  {
+    "id": "06004",
+    "pdm": "RODA LIVRE"
+  },
+  {
+    "id": "06005",
+    "pdm": "CUBO RODA"
+  },
+  {
+    "id": "06080",
+    "pdm": "DESEMBACADOR VIDRO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "06259",
+    "pdm": "DISCO EMBREAGEM"
+  },
+  {
+    "id": "06264",
+    "pdm": "DISCO FREIO"
+  },
+  {
+    "id": "06270",
+    "pdm": "DISCO RODA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "06343",
+    "pdm": "DISTINTIVO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "06440",
+    "pdm": "EIXO TRANSMISSAO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "06516",
+    "pdm": "EMBLEMA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "06566",
+    "pdm": "ENGATE REBOQUE - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "07014",
+    "pdm": "ESPELHO RETROVISOR VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "07015",
+    "pdm": "ESPELHO RETROVISOR DE VEICULO"
+  },
+  {
+    "id": "07071",
+    "pdm": "ESTABILIZADOR ELETRONICO MARCADOR PAINEL - VEICULOAUTOMOTIVO"
+  },
+  {
+    "id": "07777",
+    "pdm": "FORRO PORTA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "07830",
+    "pdm": "VÁLVULA EQUALIZADORA FREIO"
+  },
+  {
+    "id": "07831",
+    "pdm": "FREIO ELETROMAGNETICO / PNEUMATICO"
+  },
+  {
+    "id": "07832",
+    "pdm": "FREIO EMBREAGEM DE TORRE - CARRO DE COMBATE"
+  },
+  {
+    "id": "07833",
+    "pdm": "FREIO HIDRODINAMICO"
+  },
+  {
+    "id": "08160",
+    "pdm": "GUINDASTE PARA CARRO SOCORRO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "08388",
+    "pdm": "INDICADOR COMBUSTÍVEL VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "08575",
+    "pdm": "JUNTA CAIXA TRANSMISSÃO"
+  },
+  {
+    "id": "08678",
+    "pdm": "LANCA - CHAMA AUTO - PROPULSIONADO SOBRE LAGARTA"
+  },
+  {
+    "id": "08732",
+    "pdm": "LATARIA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "08915",
+    "pdm": "LONA FREIO"
+  },
+  {
+    "id": "08983",
+    "pdm": "LUZ FREIO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "09027",
+    "pdm": "MAGUEIRA DE AVANCO DE DISTRIBUIDOR"
+  },
+  {
+    "id": "09087",
+    "pdm": "MANGA DE EIXO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "09098",
+    "pdm": "MANGUEIRA FLEXIVEL DE FREIO"
+  },
+  {
+    "id": "09144",
+    "pdm": "MÁQUINA ACIONAMENTO VIDRO"
+  },
+  {
+    "id": "09375",
+    "pdm": "MARCHA DE FORCA DE VEICULO"
+  },
+  {
+    "id": "09810",
+    "pdm": "MOBILIÁRIO - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "09856",
+    "pdm": "MOLA DE SUSPENSAO"
+  },
+  {
+    "id": "09857",
+    "pdm": "MOLA DE TRATOR DE COLOCACAO DE TRILHO"
+  },
+  {
+    "id": "09922",
+    "pdm": "MOTOCICLETA - PEÇAS E COMPONENTES"
+  },
+  {
+    "id": "09923",
+    "pdm": "MOTOCICLETA - AMORTECEDOR"
+  },
+  {
+    "id": "09926",
+    "pdm": "CABO VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "09927",
+    "pdm": "MOTOCICLETA - CAIXA DIRECAO"
+  },
+  {
+    "id": "09929",
+    "pdm": "MOTOCICLETA - CAPA DE BANCO"
+  },
+  {
+    "id": "09931",
+    "pdm": "MOTOCICLETA - CARCACA DE BANCO"
+  },
+  {
+    "id": "09933",
+    "pdm": "MOTOCICLETA - CARCACA PAINEL"
+  },
+  {
+    "id": "09934",
+    "pdm": "MOTOCICLETA - CAVALETE LATERAL"
+  },
+  {
+    "id": "09935",
+    "pdm": "MOTOCICLETA - CILINDRO GARFO"
+  },
+  {
+    "id": "09937",
+    "pdm": "MOTOCICLETA - CORRENTE"
+  },
+  {
+    "id": "09938",
+    "pdm": "MOTOCICLETA - GUIA DA CORRENTE"
+  },
+  {
+    "id": "09939",
+    "pdm": "GUIDÃO BICICLETA"
+  },
+  {
+    "id": "09942",
+    "pdm": "MOTOCICLETA - MANETE"
+  },
+  {
+    "id": "09943",
+    "pdm": "MOTOCICLETA - PARA-LAMA"
+  },
+  {
+    "id": "09944",
+    "pdm": "MOTOCICLETA - PECA SISTEMA CAMBIO"
+  },
+  {
+    "id": "09945",
+    "pdm": "MOTOCICLETA - PEDAL * PARTIDA / PEDALEIRA / CAMBIO"
+  },
+  {
+    "id": "09946",
+    "pdm": "GARFO BICICLETA"
+  },
+  {
+    "id": 10151,
+    "pdm": "ODOMETRO"
+  },
+  {
+    "id": 10309,
+    "pdm": "PAINEL INSTRUMENTO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 10322,
+    "pdm": "PALHETA LIMPADOR PÁRA-BRISA"
+  },
+  {
+    "id": 10414,
+    "pdm": "SAIA DE PÁRA-CHOQUE"
+  },
+  {
+    "id": 10419,
+    "pdm": "PÁRA-LAMA"
+  },
+  {
+    "id": 10420,
+    "pdm": "PARA-LAMA VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 10502,
+    "pdm": "PASTILHA FREIO"
+  },
+  {
+    "id": 10539,
+    "pdm": "ALTERNADOR AUTOMOTIVO"
+  },
+  {
+    "id": 10563,
+    "pdm": "PECA/COMPONENTE BARRA DIRECAO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 10569,
+    "pdm": "LIMITADOR DIREÇÃO"
+  },
+  {
+    "id": 10685,
+    "pdm": "PESO BALANCEAR RODA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 10790,
+    "pdm": "PISTAO MOTOR GASOLINA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 10806,
+    "pdm": "PLACA VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 10908,
+    "pdm": "PLATO EMBREAGEM - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 11033,
+    "pdm": "PORTA-CAPUZ COMPARTIMENTO DE MOTOR"
+  },
+  {
+    "id": 11058,
+    "pdm": "PORTA-VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 11319,
+    "pdm": "PROTETOR JANELA. PORTA OU VISTA - VEICULO AUTO MOTIVO"
+  },
+  {
+    "id": 11359,
+    "pdm": "QUADRO CHASSI"
+  },
+  {
+    "id": 11394,
+    "pdm": "RADIO / TOCA FITA / CD - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 11517,
+    "pdm": "REDUTOR DE VELOCIDADE"
+  },
+  {
+    "id": 11710,
+    "pdm": "RETENTOR RODA - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 11769,
+    "pdm": "RODA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 11770,
+    "pdm": "RODA BORRACHA MACIÇA - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 11776,
+    "pdm": "RODA BORRACHA MACIÇA"
+  },
+  {
+    "id": 11783,
+    "pdm": "RODOAR"
+  },
+  {
+    "id": 11792,
+    "pdm": "ROLAMENTO COLAR EMBREAGEM - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 11814,
+    "pdm": "ROLETE DE ESTEIRA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 11815,
+    "pdm": "ROLETE DE ESTEIRA DE VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 11987,
+    "pdm": "SELIM"
+  },
+  {
+    "id": 12004,
+    "pdm": "SEMI-EIXO BENGALA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 12086,
+    "pdm": "SINCRONIZADOR"
+  },
+  {
+    "id": 12166,
+    "pdm": "SISTEMA VIDRO ELETRICO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 12400,
+    "pdm": "SUPORTE ESTEPE - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 12401,
+    "pdm": "SUPORTE ESTICADOR CORREIA ALTERNADOR - VEICULO AU TOMOTIVO"
+  },
+  {
+    "id": 12407,
+    "pdm": "MOLA VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 12421,
+    "pdm": "SUPORTE PINÇA"
+  },
+  {
+    "id": 12440,
+    "pdm": "BALANÇA SUSPENSÃO VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 12441,
+    "pdm": "SUSPENSAO VEICULO AUTOMOTIVO - BARRA"
+  },
+  {
+    "id": 12442,
+    "pdm": "SUSPENSAO VEICULO AUTOMOTIVO - BATENTE"
+  },
+  {
+    "id": 12443,
+    "pdm": "BUCHA SUSPENSÃO AUTOMOTIVA"
+  },
+  {
+    "id": 12444,
+    "pdm": "SUSPENSAO VEICULO AUTOMOTIVO - COIFA"
+  },
+  {
+    "id": 12445,
+    "pdm": "SUSPENSAO VEICULO AUTOMOTIVO - JUMELO"
+  },
+  {
+    "id": 12446,
+    "pdm": "SUSPENSAO VEICULO AUTOMOTIVO - PINO MOLA"
+  },
+  {
+    "id": 12504,
+    "pdm": "TAMBOR FREIO"
+  },
+  {
+    "id": 12654,
+    "pdm": "TERMINAL DIREÇÃO"
+  },
+  {
+    "id": 12798,
+    "pdm": "TOCA-FITAS - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 12863,
+    "pdm": "TRANCA VOLANTE DIRECAO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 12942,
+    "pdm": "TRAVA ANTIFURTO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 12943,
+    "pdm": "TRAVA ELETRICA PORTA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 12964,
+    "pdm": "TRIANGULO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 13367,
+    "pdm": "VELOCIMETRO"
+  },
+  {
+    "id": 13429,
+    "pdm": "VIDRO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 13478,
+    "pdm": "VOLANTE DIREÇÃO"
+  },
+  {
+    "id": 13605,
+    "pdm": "MOTOCICLETA - PEÇA SISTEMA FREIO"
+  },
+  {
+    "id": 13615,
+    "pdm": "BRAÇO LIMPADOR PÁRA-BRISA"
+  },
+  {
+    "id": 13798,
+    "pdm": "PEÇA MECÂNICA/ELÉTRICA - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 14060,
+    "pdm": "MARCADOR COMBUSTÍVEL"
+  },
+  {
+    "id": 14061,
+    "pdm": "FAROL APROXIMAÇÃO"
+  },
+  {
+    "id": 14062,
+    "pdm": "ESTOJO RODA"
+  },
+  {
+    "id": 14063,
+    "pdm": "ESPAÇADOR ACIONADOR LIMPADOR PÁRA-BRISA"
+  },
+  {
+    "id": 14064,
+    "pdm": "ENGRENAGEM ACIONAMENTO BOMBA INJETORA"
+  },
+  {
+    "id": 14065,
+    "pdm": "EIXO TRASEIRO COMPLETO"
+  },
+  {
+    "id": 14066,
+    "pdm": "DOBRADIÇA PÁRA-BRISA REBATÍVEL"
+  },
+  {
+    "id": 14067,
+    "pdm": "CILINDRO PRINCIPAL FREIO"
+  },
+  {
+    "id": 14068,
+    "pdm": "GUIA DA JANELA PORTA"
+  },
+  {
+    "id": 14069,
+    "pdm": "HASTE TRAMBULADOR"
+  },
+  {
+    "id": 14070,
+    "pdm": "COIFA GARFO ACIONAMENTO EMBREAGEM"
+  },
+  {
+    "id": 14071,
+    "pdm": "GARFO ACIONAMENTO EMBREAGEM"
+  },
+  {
+    "id": 14243,
+    "pdm": "MANIVELA ACIONAMENTO VIDRO"
+  },
+  {
+    "id": 14244,
+    "pdm": "AMORTECEDOR DIREÇÃO"
+  },
+  {
+    "id": 14246,
+    "pdm": "MAÇANETA AUTOMOTIVA"
+  },
+  {
+    "id": 14252,
+    "pdm": "BRAÇO PITMAN"
+  },
+  {
+    "id": 14255,
+    "pdm": "ENGRENAGEM AUTOMOTIVA"
+  },
+  {
+    "id": 14308,
+    "pdm": "ESTRIBO AUTOMOTIVO"
+  },
+  {
+    "id": 14309,
+    "pdm": "PROTETOR AUTOMOTIVO"
+  },
+  {
+    "id": 14312,
+    "pdm": "REVESTIMENTO CAÇAMBA AUTOMOTIVA"
+  },
+  {
+    "id": 14345,
+    "pdm": "JOGO COROA PINHAO"
+  },
+  {
+    "id": 14346,
+    "pdm": "CILINDRO FREIO"
+  },
+  {
+    "id": 14350,
+    "pdm": "PROTETOR CABO EMBREAGEM"
+  },
+  {
+    "id": 14354,
+    "pdm": "COIFA TRANSMISSÃO AUTOMOTIVA"
+  },
+  {
+    "id": 14357,
+    "pdm": "PARAFUSO ACELERADOR AUTOMOTIVO"
+  },
+  {
+    "id": 14382,
+    "pdm": "PESTANA PORTA AUTOMÓVEL"
+  },
+  {
+    "id": 14393,
+    "pdm": "PÁRA-BRISA"
+  },
+  {
+    "id": 14674,
+    "pdm": "BORRACHA ESTABILIZADOR"
+  },
+  {
+    "id": 14675,
+    "pdm": "BORRACHA PORTA"
+  },
+  {
+    "id": 14731,
+    "pdm": "BRAÇO AUXILIAR DIREÇÃO"
+  },
+  {
+    "id": 14766,
+    "pdm": "TETO TRATOR"
+  },
+  {
+    "id": 15288,
+    "pdm": "FECHADURA PORTA"
+  },
+  {
+    "id": 15310,
+    "pdm": "BORRACHA JANELA"
+  },
+  {
+    "id": 15317,
+    "pdm": "CANALETA VIDRO VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 15579,
+    "pdm": "TRAVESSA VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 15581,
+    "pdm": "BORRACHA AMORTECEDOR"
+  },
+  {
+    "id": 15582,
+    "pdm": "PÁRA-SOL VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 15583,
+    "pdm": "TETO VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 15584,
+    "pdm": "CAPÔ VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 15585,
+    "pdm": "LATERAL CARROCERIA"
+  },
+  {
+    "id": 15586,
+    "pdm": "ARO GRADE"
+  },
+  {
+    "id": 15587,
+    "pdm": "BUCHA GRADE"
+  },
+  {
+    "id": 15588,
+    "pdm": "FORRO VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 15589,
+    "pdm": "GRAMPO REVESTIMENTO VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 15590,
+    "pdm": "SUPORTE PÁRA-CHOQUE"
+  },
+  {
+    "id": 15591,
+    "pdm": "BORRACHA CANALETA"
+  },
+  {
+    "id": 15592,
+    "pdm": "BORRACHA PÁRA-BRISA"
+  },
+  {
+    "id": 15655,
+    "pdm": "COLAR EMBREAGEM AUTOMOTIVA"
+  },
+  {
+    "id": 15656,
+    "pdm": "PLATÔ EMBREAGEM AUTOMOTIVA"
+  },
+  {
+    "id": 15705,
+    "pdm": "CILINDRO MESTRE EMBREAGEM"
+  },
+  {
+    "id": 15709,
+    "pdm": "BRAÇO OSCILANTE"
+  },
+  {
+    "id": 15718,
+    "pdm": "CONJUNTO EMBREAGEM AUTOMOTIVA"
+  },
+  {
+    "id": 15731,
+    "pdm": "CRUZETA EIXO CARDÃ"
+  },
+  {
+    "id": 15814,
+    "pdm": "HÉLICE VENTILADOR VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 15817,
+    "pdm": "APOIO VARETA"
+  },
+  {
+    "id": 15818,
+    "pdm": "TAMPÃO CAIXA AR"
+  },
+  {
+    "id": 15850,
+    "pdm": "TAMPA PORTA-MALA VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 15851,
+    "pdm": "SERVOFREIO"
+  },
+  {
+    "id": 15854,
+    "pdm": "PÁRA-CHOQUE"
+  },
+  {
+    "id": 15856,
+    "pdm": "JUNTA HOMOCINÉTICA"
+  },
+  {
+    "id": 15864,
+    "pdm": "TRAVA SEMI-EIXO"
+  },
+  {
+    "id": 15865,
+    "pdm": "PINO CÂMBIO TRATOR"
+  },
+  {
+    "id": 15877,
+    "pdm": "JOGO REPARO PISTÃO"
+  },
+  {
+    "id": 15878,
+    "pdm": "TUBO SISTEMA FREIO"
+  },
+  {
+    "id": 15880,
+    "pdm": "BUCHA AMORTECEDOR"
+  },
+  {
+    "id": 15881,
+    "pdm": "UNIDADE ATUADORA"
+  },
+  {
+    "id": 15885,
+    "pdm": "GARFO"
+  },
+  {
+    "id": 15886,
+    "pdm": "GUARNIÇÃO SISTEMA CÂMBIO"
+  },
+  {
+    "id": 15888,
+    "pdm": "BIELETA"
+  },
+  {
+    "id": 15902,
+    "pdm": "TAMPA TIPO FOLE"
+  },
+  {
+    "id": 15905,
+    "pdm": "RETENTOR CUBO RODA"
+  },
+  {
+    "id": 15908,
+    "pdm": "COROA TRANSMISSÃO"
+  },
+  {
+    "id": 15920,
+    "pdm": "DISCO EMBREAGEM - MOTOCICLETA"
+  },
+  {
+    "id": 15922,
+    "pdm": "PINHÃO DE TRANSMISSÃO"
+  },
+  {
+    "id": 15937,
+    "pdm": "ARTICULAÇÃO BARRA SELETORA VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 15938,
+    "pdm": "ANEL CÂMBIO"
+  },
+  {
+    "id": 15952,
+    "pdm": "BARRA SELETORA CÂMBIO"
+  },
+  {
+    "id": 15953,
+    "pdm": "PORCA CÂMBIO"
+  },
+  {
+    "id": 15958,
+    "pdm": "MOTOR LIMPADOR DO PARA-BRISA"
+  },
+  {
+    "id": 16165,
+    "pdm": "EIXO BICICLETA"
+  },
+  {
+    "id": 16166,
+    "pdm": "CORRENTE BICICLETA"
+  },
+  {
+    "id": 16167,
+    "pdm": "CATRACA BICICLETA"
+  },
+  {
+    "id": 16168,
+    "pdm": "PEDAL BICICLETA"
+  },
+  {
+    "id": 16225,
+    "pdm": "COMPONENTES DIVERSOS DE VEÍCULOS"
+  },
+  {
+    "id": 16226,
+    "pdm": "CALÇO ESCAPAMENTO VEÍCULO"
+  },
+  {
+    "id": 16237,
+    "pdm": "VÁLVULA CONTROLE PORTA"
+  },
+  {
+    "id": 16238,
+    "pdm": "VÁLVULA FREIO ESTACIONAMENTO"
+  },
+  {
+    "id": 16239,
+    "pdm": "VÁLVULA RETENÇÃO MOLA ESTACIONAMENTO"
+  },
+  {
+    "id": 16245,
+    "pdm": "CHAVE SELETORA"
+  },
+  {
+    "id": 16246,
+    "pdm": "PRESILHA VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 16247,
+    "pdm": "HASTE GUIA"
+  },
+  {
+    "id": 16256,
+    "pdm": "TRAVA ROLAMENTO"
+  },
+  {
+    "id": 16276,
+    "pdm": "SUSPENSÃO VEÍCULO AUTOMOTIVO - AMORTECEDOR"
+  },
+  {
+    "id": 16277,
+    "pdm": "TRAVESSA TETO VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 16279,
+    "pdm": "COROA ENGRENAGEM BICICLETA"
+  },
+  {
+    "id": 16280,
+    "pdm": "SUPORTE PEDAL - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 16296,
+    "pdm": "ESTOJO PRISIONEIRO CUBO RODA"
+  },
+  {
+    "id": 16297,
+    "pdm": "TUBO SISTEMA EMBREAGEM"
+  },
+  {
+    "id": 16354,
+    "pdm": "GUARNIÇÃO ESTRIBO"
+  },
+  {
+    "id": 16491,
+    "pdm": "MANGUEIRA AVANÇO DO DISTRIBUIDOR"
+  },
+  {
+    "id": 16493,
+    "pdm": "COIFA HOMOCINÉTICA"
+  },
+  {
+    "id": 16502,
+    "pdm": "BORRACHA COIFA"
+  },
+  {
+    "id": 16503,
+    "pdm": "CILINDRO RODA"
+  },
+  {
+    "id": 16529,
+    "pdm": "TAPETE VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 16568,
+    "pdm": "FEIXE MOLAS"
+  },
+  {
+    "id": 16570,
+    "pdm": "PIVÔ BALANÇA SUSPENSÃO"
+  },
+  {
+    "id": 16581,
+    "pdm": "SAPATA LONA FREIO"
+  },
+  {
+    "id": 16582,
+    "pdm": "PIVÔ BRAÇO VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 16583,
+    "pdm": "DESCARGA VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 16595,
+    "pdm": "ESTICADOR CORREIA DENTADA"
+  },
+  {
+    "id": 16597,
+    "pdm": "HIDROVÁCUO"
+  },
+  {
+    "id": 16608,
+    "pdm": "MANGUEIRA SUSPIRO ÓLEO"
+  },
+  {
+    "id": 16801,
+    "pdm": "COMPONENTES DE CABINE. CARROCERIA E CHASSIS DE VEÍCULOS"
+  },
+  {
+    "id": 16802,
+    "pdm": "COMPONENTES DE TRANSMISSÃO DE VEÍCULOS"
+  },
+  {
+    "id": 16803,
+    "pdm": "COMPONENTES DE FREIO. DIREÇÃO. EIXO. RODA E LAGARTA DE VEÍCULOS"
+  },
+  {
+    "id": 16804,
+    "pdm": "PÉ VELA"
+  },
+  {
+    "id": 16805,
+    "pdm": "COMPONENTES DIVERSOS PARA VEÍCULOS"
+  },
+  {
+    "id": 17367,
+    "pdm": "REPARO PINÇA FREIO"
+  },
+  {
+    "id": 17377,
+    "pdm": "ACESSÓRIOS VEICULARES ESPECÍFICOS PARA SISTEMAS DE ARMAS"
+  },
+  {
+    "id": 17492,
+    "pdm": "SAPATA FREIO BICICLETA"
+  },
+  {
+    "id": 17511,
+    "pdm": "GARFO DE FREIO"
+  },
+  {
+    "id": 17585,
+    "pdm": "REPARO CILINDRO FREIO"
+  },
+  {
+    "id": 17597,
+    "pdm": "BUCHA FEIXE DE MOLA"
+  },
+  {
+    "id": 17598,
+    "pdm": "BOMBA EMBREAGEM VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 17600,
+    "pdm": "ATUADOR EMBREAGEM VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 17626,
+    "pdm": "GARFO JUNTA UNIVERSAL"
+  },
+  {
+    "id": 17627,
+    "pdm": "TAMPA CARCAÇA"
+  },
+  {
+    "id": 18343,
+    "pdm": "TRAVA FREIO ESTACIONAMENTO"
+  },
+  {
+    "id": 18344,
+    "pdm": "PORCA FREIO ESTACIONAMENTO"
+  },
+  {
+    "id": 18345,
+    "pdm": "PARAFUSO FREIO ESTACIONAMENTO"
+  },
+  {
+    "id": 18346,
+    "pdm": "PRISIONEIRO FREIO ESTACIONAMENTO"
+  },
+  {
+    "id": 18360,
+    "pdm": "RAIO RODA"
+  },
+  {
+    "id": 18389,
+    "pdm": "CANO DE RETORNO DE COMBUSTIVEL"
+  },
+  {
+    "id": 18396,
+    "pdm": "CINTA FILTRO AR"
+  },
+  {
+    "id": 18403,
+    "pdm": "TRAVA ARANHA"
+  },
+  {
+    "id": 18404,
+    "pdm": "reparo cilindro roda"
+  },
+  {
+    "id": 18405,
+    "pdm": "CANO COMBUSTÍVEL"
+  },
+  {
+    "id": 18406,
+    "pdm": "DIAFRAGMA DA CUICA"
+  },
+  {
+    "id": 18450,
+    "pdm": "PIVÔ SUSPENSÃO"
+  }
+]
