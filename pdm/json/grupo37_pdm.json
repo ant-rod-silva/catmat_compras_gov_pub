@@ -1,0 +1,910 @@
+[
+  {
+    "id": "00544",
+    "pdm": "CACHIMBO COLETOR SOLOS"
+  },
+  {
+    "id": "00596",
+    "pdm": "ANCINHO JARDINAGEM"
+  },
+  {
+    "id": "00614",
+    "pdm": "SERROTE PODA"
+  },
+  {
+    "id": "00997",
+    "pdm": "CANHÃO HIDRÁULICO"
+  },
+  {
+    "id": "01074",
+    "pdm": "FITA ENXERTIA"
+  },
+  {
+    "id": "01123",
+    "pdm": "ATOMIZADOR COSTAL"
+  },
+  {
+    "id": "01124",
+    "pdm": "BICO PULVERIZAÇÃO"
+  },
+  {
+    "id": "01164",
+    "pdm": "CLASSIFICADOR SEMENTES"
+  },
+  {
+    "id": "01200",
+    "pdm": "AQUÁRIO"
+  },
+  {
+    "id": "01229",
+    "pdm": "AÇAIMO"
+  },
+  {
+    "id": "01351",
+    "pdm": "RATOEIRA"
+  },
+  {
+    "id": "01352",
+    "pdm": "PULVERIZADOR COSTAL MOTORIZADO"
+  },
+  {
+    "id": "01354",
+    "pdm": "APARADOR GRAMA"
+  },
+  {
+    "id": "01357",
+    "pdm": "CACHIMBO VETERINÁRIO"
+  },
+  {
+    "id": "01358",
+    "pdm": "CANETA IDENTIFICAÇÃO ANIMAL"
+  },
+  {
+    "id": "01360",
+    "pdm": "GARFO JARDINAGEM"
+  },
+  {
+    "id": "01361",
+    "pdm": "SACHO"
+  },
+  {
+    "id": "01365",
+    "pdm": "ESPALHADOR ESTERCO"
+  },
+  {
+    "id": "01366",
+    "pdm": "PLANTADEIRA"
+  },
+  {
+    "id": "01367",
+    "pdm": "SERRA PODA"
+  },
+  {
+    "id": "01368",
+    "pdm": "SEMEADORA"
+  },
+  {
+    "id": "01369",
+    "pdm": "ALFANGE"
+  },
+  {
+    "id": "01374",
+    "pdm": "TESOURA PODA"
+  },
+  {
+    "id": "01375",
+    "pdm": "TRATOR JARDIM"
+  },
+  {
+    "id": "01376",
+    "pdm": "CEIFADEIRA"
+  },
+  {
+    "id": "01378",
+    "pdm": "COLHEITADEIRA"
+  },
+  {
+    "id": "01379",
+    "pdm": "ENFARDADORA"
+  },
+  {
+    "id": "01403",
+    "pdm": "CHOCADEIRA"
+  },
+  {
+    "id": "01404",
+    "pdm": "CULTIVADOR SOLO"
+  },
+  {
+    "id": "01407",
+    "pdm": "ARADO"
+  },
+  {
+    "id": "01409",
+    "pdm": "PERFURADOR SOLO"
+  },
+  {
+    "id": "01411",
+    "pdm": "GRADE ARADORA"
+  },
+  {
+    "id": "01434",
+    "pdm": "BARRIGUEIRA ANIMAL"
+  },
+  {
+    "id": "01435",
+    "pdm": "BRIDÃO"
+  },
+  {
+    "id": "01436",
+    "pdm": "FOCINHEIRA"
+  },
+  {
+    "id": "01437",
+    "pdm": "CABRESTO ANIMAL"
+  },
+  {
+    "id": "01438",
+    "pdm": "ARREIO ANIMAL"
+  },
+  {
+    "id": "01439",
+    "pdm": "COLEIRA"
+  },
+  {
+    "id": "01440",
+    "pdm": "ESTRIBO SELA MONTARIA"
+  },
+  {
+    "id": "01441",
+    "pdm": "FERRO MARCAÇÃO ANIMAL"
+  },
+  {
+    "id": "01442",
+    "pdm": "ESCOVA ANIMAL"
+  },
+  {
+    "id": "01443",
+    "pdm": "BEBEDOURO BOVINO"
+  },
+  {
+    "id": "01444",
+    "pdm": "BATEDEIRA MANTEIGA INDUSTRIAL"
+  },
+  {
+    "id": "01445",
+    "pdm": "CRIADEIRA AVE"
+  },
+  {
+    "id": "01447",
+    "pdm": "BIGORNA"
+  },
+  {
+    "id": "01448",
+    "pdm": "BALDE ORDENHA"
+  },
+  {
+    "id": "01449",
+    "pdm": "BEBEDOURO AVE"
+  },
+  {
+    "id": "01450",
+    "pdm": "BAIXEIRO ANIMAL"
+  },
+  {
+    "id": "01460",
+    "pdm": "ORDENHADEIRA MECÂNICA"
+  },
+  {
+    "id": "01461",
+    "pdm": "ROÇADEIRA MANUAL"
+  },
+  {
+    "id": "01463",
+    "pdm": "LÂMINA CORTE ROÇADEIRA MANUAL"
+  },
+  {
+    "id": "01466",
+    "pdm": "EQUIPAMENTO PREPARAÇÃO RAÇÃO ANIMAL"
+  },
+  {
+    "id": "02121",
+    "pdm": "ADUBADEIRA USO MANUAL"
+  },
+  {
+    "id": "02483",
+    "pdm": "ANCINHO"
+  },
+  {
+    "id": "02633",
+    "pdm": "APARADOR MOTORIZADO DE GRAMA"
+  },
+  {
+    "id": "02902",
+    "pdm": "APLICADOR INSETICIDA"
+  },
+  {
+    "id": "03002",
+    "pdm": "ARMADILHA ANIMAL"
+  },
+  {
+    "id": "03042",
+    "pdm": "HASTE FIXAÇÃO REDE"
+  },
+  {
+    "id": "03252",
+    "pdm": "BALDE DE LONA PARA RACAO ANIMAL"
+  },
+  {
+    "id": "03326",
+    "pdm": "BARBELA MONTARIA"
+  },
+  {
+    "id": "03442",
+    "pdm": "TESOURA"
+  },
+  {
+    "id": "03491",
+    "pdm": "BEBEDOURO ANIMAL LABORATÓRIO"
+  },
+  {
+    "id": "03493",
+    "pdm": "BEBEDOURO SUÍNO"
+  },
+  {
+    "id": "03762",
+    "pdm": "BOMBA DE INSETICIDA"
+  },
+  {
+    "id": "03764",
+    "pdm": "PULVERIZADOR COSTAL MANUAL"
+  },
+  {
+    "id": "03765",
+    "pdm": "BOMBA DE PULVERIZAR INSETICIDA TIPO DOMESTICA"
+  },
+  {
+    "id": "03866",
+    "pdm": "BRINCO FIXAÇÃO IDENTIFICACAO DE ANIMAL"
+  },
+  {
+    "id": "04127",
+    "pdm": "CAIXA CRIAÇÃO COBAIAS"
+  },
+  {
+    "id": "04354",
+    "pdm": "CÂMARA SACRIFÍCIO ANIMAL"
+  },
+  {
+    "id": "04394",
+    "pdm": "CANASTRA USO VETERINÁRIO"
+  },
+  {
+    "id": "04418",
+    "pdm": "CANGALHA"
+  },
+  {
+    "id": "04431",
+    "pdm": "CANTEIRADEIRA / APLICADORA DE ADUBO - USO AGRICOLA"
+  },
+  {
+    "id": "04954",
+    "pdm": "CHICOTE USO ANIMAL"
+  },
+  {
+    "id": "05071",
+    "pdm": "CLASSIFICADOR FARINHA DE MANDIOCA"
+  },
+  {
+    "id": "05072",
+    "pdm": "CLASSIFICADOR OVO"
+  },
+  {
+    "id": "05346",
+    "pdm": "COLAR"
+  },
+  {
+    "id": "05657",
+    "pdm": "CONJUNTO EXPURGO"
+  },
+  {
+    "id": "05694",
+    "pdm": "CONJUNTO COMBINADO AGRÍCOLA COM IMPLEMENTO"
+  },
+  {
+    "id": "05919",
+    "pdm": "CORTADOR DE ALIMENTO PARA ANIMAL"
+  },
+  {
+    "id": "05922",
+    "pdm": "CORTADOR FORRAGEM E ALIMENTO"
+  },
+  {
+    "id": "05967",
+    "pdm": "CRIOSCÓPIO ANALISADOR CONGELAMENTO LEITE"
+  },
+  {
+    "id": "06038",
+    "pdm": "DEBICADOR ELÉTRICO"
+  },
+  {
+    "id": "06039",
+    "pdm": "DEBULHADOR CEREAL"
+  },
+  {
+    "id": "06074",
+    "pdm": "DESCASCADEIRA CEREAL USO AGRÍCOLA"
+  },
+  {
+    "id": "06107",
+    "pdm": "DESNATADEIRA"
+  },
+  {
+    "id": "06142",
+    "pdm": "SECADORA GRÃOS"
+  },
+  {
+    "id": "06491",
+    "pdm": "EMASCULADOR - USO ANIMAL"
+  },
+  {
+    "id": "06567",
+    "pdm": "ENGENHO DE CANA"
+  },
+  {
+    "id": "06645",
+    "pdm": "EQUIPAMENTO AVICULTURA"
+  },
+  {
+    "id": "06818",
+    "pdm": "ESTUFA AGRÍCOLA"
+  },
+  {
+    "id": "06834",
+    "pdm": "EQUIPAMENTO PARA PLANTAR"
+  },
+  {
+    "id": "06987",
+    "pdm": "ESPARGIDOR DE FERTILIZANTE"
+  },
+  {
+    "id": "07103",
+    "pdm": "ESTANTE VENTILADA ANIMAL"
+  },
+  {
+    "id": "07274",
+    "pdm": "EXTRATOR GRAMA / ERVA"
+  },
+  {
+    "id": "07367",
+    "pdm": "FERRADURA"
+  },
+  {
+    "id": "07513",
+    "pdm": "FIO E CABO DE ACO COBREADO"
+  },
+  {
+    "id": "07859",
+    "pdm": "FUMIGADOR"
+  },
+  {
+    "id": "07897",
+    "pdm": "RASQUEADEIRA"
+  },
+  {
+    "id": "07898",
+    "pdm": "GAIOLA AVE"
+  },
+  {
+    "id": "07899",
+    "pdm": "GAIOLA COBAIA PEQUENO PORTE"
+  },
+  {
+    "id": "08302",
+    "pdm": "EIXO GRADE NIVELADORA"
+  },
+  {
+    "id": "08485",
+    "pdm": "ISCA DE PESCARIA"
+  },
+  {
+    "id": "08488",
+    "pdm": "ISOLADOR ANIMAL"
+  },
+  {
+    "id": "09142",
+    "pdm": "MÁQUINA DEPENAR"
+  },
+  {
+    "id": "09146",
+    "pdm": "MAQUINA AGRICOLA DE LIMPAR TERRENO"
+  },
+  {
+    "id": "09147",
+    "pdm": "MAQUINA AGRICOLA DE PREPARAR TERRENO"
+  },
+  {
+    "id": "09207",
+    "pdm": "MAQUINA DE LIMPAR / SELECIONAR FRUTA E LEGUME"
+  },
+  {
+    "id": "09248",
+    "pdm": "MAQUINA E APARELHO PARA TRATAMENTO DE LEITE"
+  },
+  {
+    "id": "09347",
+    "pdm": "MÁQUINA PODA"
+  },
+  {
+    "id": "09454",
+    "pdm": "MATERIAL DE SELARIA"
+  },
+  {
+    "id": "09794",
+    "pdm": "MISTURADOR - SEMENTE"
+  },
+  {
+    "id": 10614,
+    "pdm": "PENEIRA"
+  },
+  {
+    "id": 10629,
+    "pdm": "PENTE DE ANIMAL"
+  },
+  {
+    "id": 10863,
+    "pdm": "PLACA PARA MARCACAO DE ANIMAL"
+  },
+  {
+    "id": 10899,
+    "pdm": "PLATAFORMA - COLHEITA CEREAIS"
+  },
+  {
+    "id": 10900,
+    "pdm": "PLATAFORMA - COLHEITA DE MILHO"
+  },
+  {
+    "id": 11339,
+    "pdm": "PULVERIZADOR"
+  },
+  {
+    "id": 11340,
+    "pdm": "PEÇA/ACESSÓRIO CONTROLE PRAGA"
+  },
+  {
+    "id": 11419,
+    "pdm": "RASTELO"
+  },
+  {
+    "id": 11437,
+    "pdm": "REBENQUE"
+  },
+  {
+    "id": 11454,
+    "pdm": "REBOQUE / SEMI - REBOQUE AUTOCARREGAVEIS OU AUTODESCARREGAVEIS"
+  },
+  {
+    "id": 11756,
+    "pdm": "RISCADOR DE SOLO PARA MARCACAO / PLANTIO"
+  },
+  {
+    "id": 11757,
+    "pdm": "PEÇA / COMPONENTE EQUIPAMENTO AGRÍCOLA"
+  },
+  {
+    "id": 11766,
+    "pdm": "ROÇADEIRA MECÂNICA"
+  },
+  {
+    "id": 11767,
+    "pdm": "ROÇADEIRA COM TRATOR"
+  },
+  {
+    "id": 11768,
+    "pdm": "ROÇADEIRA TRATOR ARADO"
+  },
+  {
+    "id": 11820,
+    "pdm": "BASTÃO IDENTIFACAÇÃO ANIMAL"
+  },
+  {
+    "id": 11825,
+    "pdm": "ROLO FACA DE USO AGRICOLA"
+  },
+  {
+    "id": 11833,
+    "pdm": "ROSCA TRANSPORTADORA"
+  },
+  {
+    "id": 11836,
+    "pdm": "ROSETA DE CAVALARIA"
+  },
+  {
+    "id": 11978,
+    "pdm": "SELA DE MONTARIA ANIMAL"
+  },
+  {
+    "id": 11994,
+    "pdm": "SELOTE"
+  },
+  {
+    "id": 11995,
+    "pdm": "SEMEADEIRA DE GRAMA"
+  },
+  {
+    "id": 12310,
+    "pdm": "DISCO DE GRADE ARADO"
+  },
+  {
+    "id": 12397,
+    "pdm": "SUPORTE DISTRIBUIDOR DE LEITE"
+  },
+  {
+    "id": 12847,
+    "pdm": "TOSQUEADEIRA"
+  },
+  {
+    "id": 12979,
+    "pdm": "TRILHADEIRA"
+  },
+  {
+    "id": 13007,
+    "pdm": "TRITURADOR"
+  },
+  {
+    "id": 13474,
+    "pdm": "BERÇÁRIO PARA ALEVINAGEM"
+  },
+  {
+    "id": 13475,
+    "pdm": "VIVEIRO DE PLANTAS"
+  },
+  {
+    "id": 13556,
+    "pdm": "ROÇADEIRA AGRÍCOLA"
+  },
+  {
+    "id": 13616,
+    "pdm": "PECA/COMPONENTE - BOMBA COSTAL"
+  },
+  {
+    "id": 13634,
+    "pdm": "PEÇA / COMPONENTE ROÇADEIRA"
+  },
+  {
+    "id": 13677,
+    "pdm": "LÂMINA ROÇADEIRA"
+  },
+  {
+    "id": 13781,
+    "pdm": "PULVERIZADOR PORTÁTIL"
+  },
+  {
+    "id": 13958,
+    "pdm": "TAMPA GAIOLA"
+  },
+  {
+    "id": 13960,
+    "pdm": "CAIXA PARA GAIOLA"
+  },
+  {
+    "id": 14059,
+    "pdm": "PODADOR"
+  },
+  {
+    "id": 14092,
+    "pdm": "DESCASCADOR ALHO"
+  },
+  {
+    "id": 14093,
+    "pdm": "CILINDRO ALVEOLADOR - APÍCOLA"
+  },
+  {
+    "id": 14095,
+    "pdm": "COLETOR AMOSTRA SOLO"
+  },
+  {
+    "id": 14096,
+    "pdm": "TANQUE PASTEURIZADOR"
+  },
+  {
+    "id": 14098,
+    "pdm": "BOMBA CENTRÍFUGA"
+  },
+  {
+    "id": 14102,
+    "pdm": "ALICATE TATUADOR"
+  },
+  {
+    "id": 14103,
+    "pdm": "ALICATE MOSSADOR"
+  },
+  {
+    "id": 14104,
+    "pdm": "PADRONIZADORA"
+  },
+  {
+    "id": 14105,
+    "pdm": "ROÇADORA"
+  },
+  {
+    "id": 14106,
+    "pdm": "RECOLHEDOR FENO"
+  },
+  {
+    "id": 14114,
+    "pdm": "DETECTOR DE PRENHEZ (CONSULTAR INC 07145)"
+  },
+  {
+    "id": 14132,
+    "pdm": "EMBALADEIRA"
+  },
+  {
+    "id": 14136,
+    "pdm": "PENEIRA RECICLADORA DEJETOS"
+  },
+  {
+    "id": 14137,
+    "pdm": "CONJUNTO SISTEMA IRRIGAÇÃO"
+  },
+  {
+    "id": 14151,
+    "pdm": "DISTRIBUIDOR RAÇÃO MANUAL"
+  },
+  {
+    "id": 14178,
+    "pdm": "CORTADOR E CAUTERIZADOR"
+  },
+  {
+    "id": 14186,
+    "pdm": "RENOVADOR PASTAGEM"
+  },
+  {
+    "id": 14188,
+    "pdm": "TANQUE REFRIGERADOR"
+  },
+  {
+    "id": 14297,
+    "pdm": "DISTRIBUIDOR CALCÁRIO"
+  },
+  {
+    "id": 14314,
+    "pdm": "EMBUTIDORA ALIMENTÍCIA"
+  },
+  {
+    "id": 14315,
+    "pdm": "MISTURADEIRA"
+  },
+  {
+    "id": 14372,
+    "pdm": "COLETOR DE LEITE"
+  },
+  {
+    "id": 14452,
+    "pdm": "LAVADOR CENTRÍFUGO"
+  },
+  {
+    "id": 14623,
+    "pdm": "FILTRO PULVERIZAÇÃO"
+  },
+  {
+    "id": 14639,
+    "pdm": "PEÇAS/COMPONENTES-ORDENHADEIRA MECÂNICA"
+  },
+  {
+    "id": 14640,
+    "pdm": "PEÇAS E COMPONENTES-ORDENHADEIRA MECÂNICA"
+  },
+  {
+    "id": 14678,
+    "pdm": "FITA GOTEJADORA"
+  },
+  {
+    "id": 14759,
+    "pdm": "TUBO ENGATE RÁPIDO"
+  },
+  {
+    "id": 14760,
+    "pdm": "TUBO SUBIDA"
+  },
+  {
+    "id": 14772,
+    "pdm": "APLICADOR BRINCO ANIMAL"
+  },
+  {
+    "id": 14860,
+    "pdm": "PENEIRA MOINHO"
+  },
+  {
+    "id": 14897,
+    "pdm": "CONJUNTO CRIATÓRIO GALINHAS POEDEIRAS"
+  },
+  {
+    "id": 14987,
+    "pdm": "CÚPULAS"
+  },
+  {
+    "id": 15058,
+    "pdm": "SUPORTE PARA ASPERSOR"
+  },
+  {
+    "id": 15063,
+    "pdm": "REDUÇÃO MACHO/FÊMEA"
+  },
+  {
+    "id": 15064,
+    "pdm": "SAÍDA ASPERSOR"
+  },
+  {
+    "id": 15070,
+    "pdm": "ALIMENTADOR ABELHAS"
+  },
+  {
+    "id": 15074,
+    "pdm": "MELGUEIRA"
+  },
+  {
+    "id": 15077,
+    "pdm": "COLETOR PÓLEN"
+  },
+  {
+    "id": 15291,
+    "pdm": "BANDEJA CULTIVO MUDAS"
+  },
+  {
+    "id": 15379,
+    "pdm": "MESA ABATE AVES"
+  },
+  {
+    "id": 15820,
+    "pdm": "BATOM MARCADOR ANIMAL"
+  },
+  {
+    "id": 16045,
+    "pdm": "CABO ACELERADOR ROÇADEIRA"
+  },
+  {
+    "id": 16048,
+    "pdm": "TRAVA ACELERADOR ROÇADEIRA"
+  },
+  {
+    "id": 16052,
+    "pdm": "TUBETE CULTIVO MUDAS"
+  },
+  {
+    "id": 16075,
+    "pdm": "AQUECEDOR"
+  },
+  {
+    "id": 16076,
+    "pdm": "COMEDOURO AVE"
+  },
+  {
+    "id": 16257,
+    "pdm": "VASSOURA JARDINAGEM"
+  },
+  {
+    "id": 16288,
+    "pdm": "CAIXA TRANSMISSÃO ROÇADEIRA"
+  },
+  {
+    "id": 16314,
+    "pdm": "MOTOR TRATOR PODADOR"
+  },
+  {
+    "id": 16457,
+    "pdm": "GAIOLA"
+  },
+  {
+    "id": 16463,
+    "pdm": "MÁQUINA PICADEIRA ENSILADEIRA"
+  },
+  {
+    "id": 16513,
+    "pdm": "CONJUNTO COMPACTADOR EM V"
+  },
+  {
+    "id": 16600,
+    "pdm": "QUARTEADOR AGRÍCOLA"
+  },
+  {
+    "id": 16624,
+    "pdm": "CLASSIFICADORA DESCASCADORA GRÃOS"
+  },
+  {
+    "id": 16908,
+    "pdm": "SEMEADORA/ADUBADORA"
+  },
+  {
+    "id": 16909,
+    "pdm": "BEBEDOURO COELHO"
+  },
+  {
+    "id": 16910,
+    "pdm": "EQUIPAMENTO DE LATICÍNIOS. AVICULTURA E PECUÁRIA"
+  },
+  {
+    "id": 16911,
+    "pdm": "CÂMARA ATOMIZADORA"
+  },
+  {
+    "id": 16912,
+    "pdm": "PEÇAS / COMPONENTES - JARDINAGEM"
+  },
+  {
+    "id": 16914,
+    "pdm": "REFIL CORRETOR MORDIDA"
+  },
+  {
+    "id": 17156,
+    "pdm": "CABINE TRANSFERÊNCIA ANIMAIS"
+  },
+  {
+    "id": 17362,
+    "pdm": "TERMONEBULIZADOR"
+  },
+  {
+    "id": 17382,
+    "pdm": "CORTADOR GRAMA"
+  },
+  {
+    "id": 17453,
+    "pdm": "ARMADILHA LUMINOSA"
+  },
+  {
+    "id": 17744,
+    "pdm": "COMEDOURO"
+  },
+  {
+    "id": 17747,
+    "pdm": "BOLA TREINAMENTO"
+  },
+  {
+    "id": 17752,
+    "pdm": "PEITORAL TREINAMENTO ANIMAL"
+  },
+  {
+    "id": 17775,
+    "pdm": "GRADE NIVELADORA"
+  },
+  {
+    "id": 17810,
+    "pdm": "LAVA BOTAS"
+  },
+  {
+    "id": 17963,
+    "pdm": "REDE CAPTURA ANIMAL"
+  },
+  {
+    "id": 18060,
+    "pdm": "REGULADOR DE TENSÃO PARA ARMADILHA LUMINOSA"
+  },
+  {
+    "id": 18542,
+    "pdm": "CENTRÍFUGA EXTRATORA MEL"
+  },
+  {
+    "id": 18562,
+    "pdm": "GUIA"
+  },
+  {
+    "id": 18732,
+    "pdm": "IMPLANTADOR MICROCHIP"
+  },
+  {
+    "id": 18733,
+    "pdm": "AGULHA IMPLANTADOR MICROCHIP"
+  },
+  {
+    "id": 18789,
+    "pdm": "ENFORCADOR"
+  },
+  {
+    "id": 19002,
+    "pdm": "EQUIPAMENTO / ACESSÓRIO ANIMAL"
+  },
+  {
+    "id": 19022,
+    "pdm": "PEÇAS E ACESSÓRIOS - COLHEITADEIRA"
+  }
+]
