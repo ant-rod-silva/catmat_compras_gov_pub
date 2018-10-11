@@ -1,0 +1,1758 @@
+[
+  {
+    "id": "00052",
+    "pdm": "GUILHOTINA"
+  },
+  {
+    "id": "00295",
+    "pdm": "LÂMINA LIMPEZA MÁQUINA COPIADORA"
+  },
+  {
+    "id": "01160",
+    "pdm": "DOBRADEIRA PAPEL"
+  },
+  {
+    "id": "01161",
+    "pdm": "BATEDEIRA INDUSTRIAL"
+  },
+  {
+    "id": "01162",
+    "pdm": "BATEDEIRA CEREAL"
+  },
+  {
+    "id": "01163",
+    "pdm": "MÁQUINA ELÉTRICA DE ENCADERNAÇÃO"
+  },
+  {
+    "id": "01165",
+    "pdm": "PRENSA TIPOGRÁFICA"
+  },
+  {
+    "id": "01173",
+    "pdm": "ALCEADEIRA"
+  },
+  {
+    "id": "01176",
+    "pdm": "MÁQUINA PLASTIFICAR"
+  },
+  {
+    "id": "01180",
+    "pdm": "GUILHOTINA MANUAL"
+  },
+  {
+    "id": "01181",
+    "pdm": "DOSADOR INDUSTRIAL"
+  },
+  {
+    "id": "01182",
+    "pdm": "HIDROCICLONE"
+  },
+  {
+    "id": "01183",
+    "pdm": "MÁQUINA FABRICAR FRALDA"
+  },
+  {
+    "id": "01184",
+    "pdm": "MÁQUINA FABRICAR VELA"
+  },
+  {
+    "id": "01188",
+    "pdm": "MÁQUINA GRAMPEADORA TIPOGRÁFICA"
+  },
+  {
+    "id": "01189",
+    "pdm": "BLANQUETA"
+  },
+  {
+    "id": "01190",
+    "pdm": "BOBINADEIRA FIO TÊXTIL"
+  },
+  {
+    "id": "01191",
+    "pdm": "RETORCEDOR FIO TÊXTIL"
+  },
+  {
+    "id": "01194",
+    "pdm": "PENTEADEIRA FIO TÊXTIL"
+  },
+  {
+    "id": "01195",
+    "pdm": "TEAR"
+  },
+  {
+    "id": "01196",
+    "pdm": "URDIDEIRA"
+  },
+  {
+    "id": "01228",
+    "pdm": "ABRIDOR FARDO"
+  },
+  {
+    "id": "01239",
+    "pdm": "GUILHOTINA TIPOGRÁFICA"
+  },
+  {
+    "id": "01240",
+    "pdm": "MÁQUINA ESTAMPAR"
+  },
+  {
+    "id": "01311",
+    "pdm": "MÁQUINA OBTURADORA PAPÉIS"
+  },
+  {
+    "id": "01363",
+    "pdm": "MÁQUINA COSTURA INDUSTRIAL"
+  },
+  {
+    "id": "01564",
+    "pdm": "GRAMPEADOR ELÉTRICO"
+  },
+  {
+    "id": "01686",
+    "pdm": "ACESSORIO DE MONTAGEM DE AR CONDICIONADO DE MAQUINA DE FUNDICAO"
+  },
+  {
+    "id": "01716",
+    "pdm": "ACESSORIO PARA GUILHOTINA"
+  },
+  {
+    "id": "01719",
+    "pdm": "ACESSÓRIO PARA MIMEÓGRAFO A TINTA"
+  },
+  {
+    "id": "02348",
+    "pdm": "ALMOFADA MÁQUINA DE DUPLICAR"
+  },
+  {
+    "id": "02634",
+    "pdm": "APARELHAGEM DE CONTROLE DE POEIRA ( PARA SANEAMENTO AMBIENTAL )"
+  },
+  {
+    "id": "02645",
+    "pdm": "APARELHO AGITADOR - BISMUTO"
+  },
+  {
+    "id": "02697",
+    "pdm": "APARELHO DE ENCHER AMPOLA"
+  },
+  {
+    "id": "02708",
+    "pdm": "APARELHO DE FABRICACAO DE MAGNESIA FLUIDA"
+  },
+  {
+    "id": "02731",
+    "pdm": "APARELHO DE PRODUCAO DE MATRIZ"
+  },
+  {
+    "id": "02822",
+    "pdm": "APARELHO CONTAGEM DE BACTÉRIAS LEITE / DERIVADOS"
+  },
+  {
+    "id": "02840",
+    "pdm": "APARELHO MEDIÇÃO PROPRIEDADES DO LEITE"
+  },
+  {
+    "id": "02899",
+    "pdm": "APLICADOR CHAPA LITOGRÁFICA"
+  },
+  {
+    "id": "02982",
+    "pdm": "AREIA PARA FUNDIÇÃO"
+  },
+  {
+    "id": "03268",
+    "pdm": "BANCAE ESTIRAMENTO ( DE FUSO ) FIO TEXTIL"
+  },
+  {
+    "id": "03444",
+    "pdm": "BATEDEIRA INDUSTRIAL DE POLPA E PAPEL"
+  },
+  {
+    "id": "03556",
+    "pdm": "BINADEIRA ( INDUSTRIA TEXTIL )"
+  },
+  {
+    "id": "03562",
+    "pdm": "BIODIGESTOR USO EM FAZENDAS"
+  },
+  {
+    "id": "03563",
+    "pdm": "BIODIGESTOR USO INDUSTRIAL"
+  },
+  {
+    "id": "03718",
+    "pdm": "BOMBA A VACUO PARA MANUFATURA DE MEDICAMENTOS"
+  },
+  {
+    "id": "03732",
+    "pdm": "BOMBA CENTRIFUGA PARA MANUFATURA DE MEDICAMENTOS"
+  },
+  {
+    "id": "03752",
+    "pdm": "BOMBA DIAFRAGMA DE SODA CÁUSTICA"
+  },
+  {
+    "id": "03781",
+    "pdm": "BOMBA INJETORA ENCHIMENTO DE AMPOLA"
+  },
+  {
+    "id": "03864",
+    "pdm": "BRILHADOR DE ARROZ ( POLIDOR DE ARROZ )"
+  },
+  {
+    "id": "03873",
+    "pdm": "BRITADOR OU TRITURADOR CONICO"
+  },
+  {
+    "id": "03874",
+    "pdm": "BRITADOR OU TRITURADOR DE CILINDRO"
+  },
+  {
+    "id": "03875",
+    "pdm": "BRITADOR/TRITURADOR MANDÍBULA - PEÇAS E ACESSÓRIOS"
+  },
+  {
+    "id": "04075",
+    "pdm": "CADEIA DE TIPO PARA IMPRESSORA TIPOGRAFICA"
+  },
+  {
+    "id": "04164",
+    "pdm": "CAIXA PARA COMPOSICAO"
+  },
+  {
+    "id": "04226",
+    "pdm": "CALDEIRA DE CHUMBO DE MAQUINA IMPRESSORA GRAFICA"
+  },
+  {
+    "id": "04295",
+    "pdm": "CALIBRE PARA LINHA DE IMPRESSAO"
+  },
+  {
+    "id": "04373",
+    "pdm": "CAMISA EQUIPAMENTO GRÁFICO"
+  },
+  {
+    "id": "04764",
+    "pdm": "CENTRO DE USINAGEM"
+  },
+  {
+    "id": "04830",
+    "pdm": "CHAPA DE IMPRESSAO"
+  },
+  {
+    "id": "04972",
+    "pdm": "CHUMBO IMPRESSÃO TIPO TIPOGRÁFICA"
+  },
+  {
+    "id": "05003",
+    "pdm": "CONJUNTO CILINDRO MÁQUINA GRÁFICA"
+  },
+  {
+    "id": "05076",
+    "pdm": "CLICHE"
+  },
+  {
+    "id": "05330",
+    "pdm": "EQUIPAMENTO GRÁFICO"
+  },
+  {
+    "id": "05403",
+    "pdm": "COMPONEDOR"
+  },
+  {
+    "id": "05404",
+    "pdm": "COMPONENTE / ACESSÓRIO - DUPLICADOR DIGITAL"
+  },
+  {
+    "id": "05405",
+    "pdm": "CHAVE CONTADORA"
+  },
+  {
+    "id": "05517",
+    "pdm": "COMPRESSOR PARA INDUSTRIA FARMACEUTICA"
+  },
+  {
+    "id": "05761",
+    "pdm": "CONJUNTO INTEGRADO LAVAGEM E ESTERILIZAÇÃO"
+  },
+  {
+    "id": "05767",
+    "pdm": "CONJUNTO PARA AUTOMACAO DE GUILHOTINA"
+  },
+  {
+    "id": "05853",
+    "pdm": "CORDA FIO TÉXTIL"
+  },
+  {
+    "id": "05888",
+    "pdm": "CORREIA CONDUÇÃO PAPEL IMPRESSÃO"
+  },
+  {
+    "id": "05907",
+    "pdm": "CORRENTE DO CD PARA IMPRESSORA OFF - SET"
+  },
+  {
+    "id": "06085",
+    "pdm": "DESEMPOEIRADOR COMPRIMIDOS PARA INDUSTRIA FARMA-CEUTICA"
+  },
+  {
+    "id": "06093",
+    "pdm": "DESFIBRADOR DE POLPA E PAPEL"
+  },
+  {
+    "id": "06198",
+    "pdm": "DIGESTOR DE POLPA E DE PAPEL"
+  },
+  {
+    "id": "06306",
+    "pdm": "DISPOSITIVO ALIMENTAÇÃO E DESCARGA FORMULÁRIO"
+  },
+  {
+    "id": "06390",
+    "pdm": "DOSADOR EQUIPAMENTO DE IMPRESSÃO"
+  },
+  {
+    "id": "06436",
+    "pdm": "EIXO DE MÁQUINA IMPRESSORA"
+  },
+  {
+    "id": "06480",
+    "pdm": "ELEVADOR HIDRAULICO PARA GUILHOTINA"
+  },
+  {
+    "id": "06525",
+    "pdm": "EMENDADOR AUTOMATICO DE BOBINA DE PAPEL PARA IM-PRESSORA OFF - SET"
+  },
+  {
+    "id": "06545",
+    "pdm": "ENCAPSULADOR - PEÇAS / ACESSÓRIOS"
+  },
+  {
+    "id": "06546",
+    "pdm": "ENCAPSULADOR INDUSTRIA FARMACÊUTICA"
+  },
+  {
+    "id": "06569",
+    "pdm": "ENGOMADEIRA"
+  },
+  {
+    "id": "06587",
+    "pdm": "ENVASADOR PARA INDUSTRIA FARMACÊUTICA"
+  },
+  {
+    "id": "06628",
+    "pdm": "EQUIPAMENTO / ACESSORIO - INDÚSTRIA TEXTEIS"
+  },
+  {
+    "id": "06664",
+    "pdm": "EQUIPAMENTO DE BRANQUEAR POLPA E PAPEL"
+  },
+  {
+    "id": "06673",
+    "pdm": "EQUIPAMENTO DE CONFECCAO DE CONEXAO DE CIRCUITO"
+  },
+  {
+    "id": "06674",
+    "pdm": "EQUIPAMENTO DE CONFECCAO DE EMBALAGEM DE CIRCUITO / PECAS"
+  },
+  {
+    "id": "06726",
+    "pdm": "EQUIPAMENTO DE PREPARACAO DE SUBSTRATO"
+  },
+  {
+    "id": "06729",
+    "pdm": "PENEIRA"
+  },
+  {
+    "id": "06786",
+    "pdm": "EQUIPAMENTO ESPECIALIZADO DE EXPLORACAO DE MADEIRA"
+  },
+  {
+    "id": "06824",
+    "pdm": "EQUIPAMENTO PARA FABRICAÇÃO DE BORRACHA"
+  },
+  {
+    "id": "06836",
+    "pdm": "EQUIPAMENTO PARA REFINO DE PETROLEO"
+  },
+  {
+    "id": "06988",
+    "pdm": "ESPATELADEIRA"
+  },
+  {
+    "id": "07041",
+    "pdm": "ESPONJA LITOGRÁFICA"
+  },
+  {
+    "id": "07047",
+    "pdm": "ESPULADEIRA AUTOMATICA DE FIO TEXTIL"
+  },
+  {
+    "id": "07048",
+    "pdm": "ESPULADEIRA DE FIO TEXTIL"
+  },
+  {
+    "id": "07081",
+    "pdm": "ESTACAO REAPROVEITADORA AGUA"
+  },
+  {
+    "id": "07088",
+    "pdm": "ESTAMPADOR AUTOMATICO ( PRODUTO QUIMICO / FARMACEUTICO )"
+  },
+  {
+    "id": "07195",
+    "pdm": "ESTRUSORA PARA PLASTICO"
+  },
+  {
+    "id": "07207",
+    "pdm": "ESTRUTURA PORTA-PRANCHA"
+  },
+  {
+    "id": "07211",
+    "pdm": "ESTUFA DE MANUFATURA DE MEDICAMENTO"
+  },
+  {
+    "id": "07270",
+    "pdm": "EXTRATOR DE GASES - BANCADA"
+  },
+  {
+    "id": "07408",
+    "pdm": "FIADEIRA"
+  },
+  {
+    "id": "07598",
+    "pdm": "FITA LITOGRAFICA"
+  },
+  {
+    "id": "07620",
+    "pdm": "FIXADOR DE CHAPA GRAFICA"
+  },
+  {
+    "id": "07805",
+    "pdm": "FOTOCOMPOSITORA"
+  },
+  {
+    "id": "08086",
+    "pdm": "GRANULADOR"
+  },
+  {
+    "id": "08087",
+    "pdm": "GRANULADOR INDÚSTRIA FARMACÊUTICA"
+  },
+  {
+    "id": "08224",
+    "pdm": "HIDROLAVADORA"
+  },
+  {
+    "id": "08314",
+    "pdm": "IMPRESSORA DE PLANIGRAVURA"
+  },
+  {
+    "id": "08315",
+    "pdm": "IMPRESSORA DE TIPOGRAFIA"
+  },
+  {
+    "id": "08318",
+    "pdm": "IMPRESSORA ICONOGRAFICA PARA FORMULARIO CONTINUO"
+  },
+  {
+    "id": "08319",
+    "pdm": "IMPRESSORA OFF SET - PLANA / ROTATIVA"
+  },
+  {
+    "id": "08329",
+    "pdm": "INCINERADOR - AGULHA / SERINGA"
+  },
+  {
+    "id": "08330",
+    "pdm": "INCINERADOR - PECA / ACESSORIO"
+  },
+  {
+    "id": "08431",
+    "pdm": "INTERCALADOR DE FOLHA DE PAPEL ENCARDENACAO"
+  },
+  {
+    "id": "08614",
+    "pdm": "LÂMINA CORTE"
+  },
+  {
+    "id": "08636",
+    "pdm": "LAMINADOR DE BORRACHA"
+  },
+  {
+    "id": "08682",
+    "pdm": "LANCADEIRA INDUSTRIAL"
+  },
+  {
+    "id": "08743",
+    "pdm": "MÁQUINA / EQUIPAMENTO INDÚSTRIA VINÍCOLA"
+  },
+  {
+    "id": "09000",
+    "pdm": "MACAROQUEIRA"
+  },
+  {
+    "id": "09148",
+    "pdm": "MAQUINA AUTOMATICA - CONTAGEM E SEPARACAO DE PAPEL"
+  },
+  {
+    "id": "09150",
+    "pdm": "MAQUINA AUTOMATICA PARA ATAR URDIDURA"
+  },
+  {
+    "id": "09151",
+    "pdm": "MÁQUINA AUTOMÁTICA PARA COLAR LAMELA"
+  },
+  {
+    "id": "09153",
+    "pdm": "MAQUINA BENEFICIADORA DE GRAOS"
+  },
+  {
+    "id": "09155",
+    "pdm": "MAQUINA CODIFICACAO - AMPOLA"
+  },
+  {
+    "id": "09162",
+    "pdm": "MAQUINA DE CARREGAMENTO - ENCHIMENTO DE EXPLOSIVO"
+  },
+  {
+    "id": "09166",
+    "pdm": "MÁQUINA DE COMPOSIÇÃO DE TEXTO"
+  },
+  {
+    "id": "09172",
+    "pdm": "MÁQUINA ILHOSEIRA"
+  },
+  {
+    "id": "09175",
+    "pdm": "MÁQUINA DE CORTAR LETRAS DE MATERIAL PLÁSTICO"
+  },
+  {
+    "id": "09194",
+    "pdm": "MAQUINA DE FABRICAR CALCADO"
+  },
+  {
+    "id": "09195",
+    "pdm": "MAQUINA DE FABRICAR EXPLOSIVO QUIMICO"
+  },
+  {
+    "id": "09200",
+    "pdm": "MAQUINA DE FOTOGRAVURA"
+  },
+  {
+    "id": "09202",
+    "pdm": "MAQUINA DE LANCADOR DE FIO DE COMUNICACAO"
+  },
+  {
+    "id": "09211",
+    "pdm": "MAQUINA DE MONTAR CIRCUITO EM CARTAO"
+  },
+  {
+    "id": "09212",
+    "pdm": "MAQUINA DE PROVA E TESTE DE IMPRESSAO EM ROTOGRAVURA"
+  },
+  {
+    "id": "09214",
+    "pdm": "MÁQUINA DE RECAUCHUTAR PNEU"
+  },
+  {
+    "id": "09222",
+    "pdm": "MAQUINA DE SERRAR PARA TRABALHAR PRODUTO CERAMICO"
+  },
+  {
+    "id": "09228",
+    "pdm": "MÁQUINA DE VULCANIZAR"
+  },
+  {
+    "id": "09229",
+    "pdm": "MAQUINA DUPLICADORA A TINTA / PAPEL TERMO SENSIVEL ( MASTER )"
+  },
+  {
+    "id": "09230",
+    "pdm": "VAPORIZADOR"
+  },
+  {
+    "id": "09231",
+    "pdm": "MÁQUINA E APARELHO PARA CARBONIZAR A LÃ"
+  },
+  {
+    "id": "09232",
+    "pdm": "MAQUINA E APARELHO PARA DESENGORDURAR. LAVAR. ALVEJAR OU TINGIR FIBRA TEXTIL"
+  },
+  {
+    "id": "09233",
+    "pdm": "MAQUINA E APARELHO PARA EXTRACAO DE OLEO / GORDURA ANIMAL"
+  },
+  {
+    "id": "09234",
+    "pdm": "MAQUINA E APARELHO PARA EXTRACAO DE OLEO / GORDURA VEGETAL"
+  },
+  {
+    "id": "09235",
+    "pdm": "MÁQUINA ALGODÃO DOCE"
+  },
+  {
+    "id": "09236",
+    "pdm": "MAQUINA E APARELHO PARA INDUSTRIA DE BEBIDA / SUCO"
+  },
+  {
+    "id": "09237",
+    "pdm": "MAQUINA E APARELHO PARA INDUSTRIA DE BOLACHA E BISCOITO"
+  },
+  {
+    "id": "09238",
+    "pdm": "CHOCOLATEIRA"
+  },
+  {
+    "id": "09239",
+    "pdm": "MAQUINA E APARELHO PARA INDUSTRIA DE CONFEITARIA"
+  },
+  {
+    "id": "09240",
+    "pdm": "MÁQUINA E PEÇAS PARA INDÚSTRIA DE PANIFICAÇÃO"
+  },
+  {
+    "id": "09241",
+    "pdm": "MÁQUINA E APARELHO PARA INDÚSTRIA DE QUEIJO"
+  },
+  {
+    "id": "09242",
+    "pdm": "APARELHO EXTRAÇÃO SUCO"
+  },
+  {
+    "id": "09244",
+    "pdm": "MÁQUINA SELECIONADORA"
+  },
+  {
+    "id": "09245",
+    "pdm": "MÁQUINA E APARELHO PARA PREPARAÇÃO FIBRA VEGETAL"
+  },
+  {
+    "id": "09246",
+    "pdm": "MAQUINA E APARELHO PARA REFINACAO DE OLEO / GORDURA ANIMAL / VEGETAL"
+  },
+  {
+    "id": "09247",
+    "pdm": "MAQUINA E APARELHO PARA SELECIONAR. PENEIRAR OU SEPARAR PRODUTOS DE CERAMICA E CONCRETO"
+  },
+  {
+    "id": "09252",
+    "pdm": "MAQUINA ENCHER E FECHAR - FRASCO / AMPOLA"
+  },
+  {
+    "id": "09255",
+    "pdm": "MAQUINA ESMERILHAR OU POLIR - PRODUTO CERAMICO"
+  },
+  {
+    "id": "09259",
+    "pdm": "MAQUINA IMPRESSORA TAMPOGRAFICA"
+  },
+  {
+    "id": "09269",
+    "pdm": "MÁQUINA INDUSTRIAL DE DESCAROÇAR ALGODÃO"
+  },
+  {
+    "id": "09281",
+    "pdm": "APARELHO TÊXTIL"
+  },
+  {
+    "id": "09282",
+    "pdm": "MAQUINA INDUSTRIAL DE FABRICAR TIJOLO"
+  },
+  {
+    "id": "09283",
+    "pdm": "MAQUINA INDUSTRIAL DE FABRICAR UTILIDADE OPTICA"
+  },
+  {
+    "id": "09300",
+    "pdm": "MÁQUINA INDUSTRIAL DE REVESTIR BOTÃO"
+  },
+  {
+    "id": "09307",
+    "pdm": "PEÇA / ACESSÓRIO - MÁQUINA INJETORA DE PLÁSTICO"
+  },
+  {
+    "id": "09314",
+    "pdm": "MAQUINA MANUAL DE ENCADERNAR"
+  },
+  {
+    "id": "09315",
+    "pdm": "MAQUINA MOLDADORA PARA FUNDICAO"
+  },
+  {
+    "id": "09316",
+    "pdm": "MAQUINA MOTORIZADA TIPO CHAVE DE PARAFUSO"
+  },
+  {
+    "id": "09317",
+    "pdm": "MAQUINA PARA CARREGAMENTO ( ENCHIMENTO ) DE MUNICAO"
+  },
+  {
+    "id": "09318",
+    "pdm": "MÁQUINA PARA CORTAR TECIDO"
+  },
+  {
+    "id": "09319",
+    "pdm": "MÁQUINA PARA CORTE VINIL"
+  },
+  {
+    "id": "09320",
+    "pdm": "MÁQUINA PARA DENTEAR TECIDO"
+  },
+  {
+    "id": "09321",
+    "pdm": "MÁQUINA FURADOR TECIDO"
+  },
+  {
+    "id": "09323",
+    "pdm": "MÁQUINA PARA DOBRAR TECIDO"
+  },
+  {
+    "id": "09326",
+    "pdm": "MAQUINA PARA ENROLAR TECIDO"
+  },
+  {
+    "id": "09329",
+    "pdm": "MAQUINA PARA FABRICACAO DE LEITE DE SOJA"
+  },
+  {
+    "id": "09330",
+    "pdm": "MÁQUINA PARA FABRICAÇÃO DE PAPEL"
+  },
+  {
+    "id": "09331",
+    "pdm": "MÁQUINA FABRICAÇÃO ARTEFATO CONCRETO"
+  },
+  {
+    "id": "09332",
+    "pdm": "MAQUINA PARA FAZER CORDAO"
+  },
+  {
+    "id": "09334",
+    "pdm": "MAQUINA PARA MERCERIZAR FIOS"
+  },
+  {
+    "id": "09335",
+    "pdm": "MAQUINA PARA MERCERIZAR TECIDO"
+  },
+  {
+    "id": "09336",
+    "pdm": "MAQUINA PARA MONTAGEM DE EXPLOSIVO"
+  },
+  {
+    "id": "09337",
+    "pdm": "MAQUINA PARA MONTAGEM DE MUNICAO"
+  },
+  {
+    "id": "09340",
+    "pdm": "MAQUINA PARA SELECAO E SEPARACAO DE FARINHAS"
+  },
+  {
+    "id": "09342",
+    "pdm": "CORTADOR PISO"
+  },
+  {
+    "id": "09343",
+    "pdm": "MAQUINA PARA TRITURACAO. ESMAGAMENTO OU MOAGEM DE GRAOS"
+  },
+  {
+    "id": "09356",
+    "pdm": "MAQUINA SOPRADORA - LIMPEZA DE FRASCO DE MEDICAMENTO. POR AR COMPRIMIDO ESTERIL"
+  },
+  {
+    "id": "09359",
+    "pdm": "MESA VIBRATÓRIA"
+  },
+  {
+    "id": "09360",
+    "pdm": "MÁQUINA COPIADORA"
+  },
+  {
+    "id": "09362",
+    "pdm": "MAQUINAS DE DESEMOLDAR"
+  },
+  {
+    "id": "09363",
+    "pdm": "MAQUINAS DE MOLDAR"
+  },
+  {
+    "id": "09364",
+    "pdm": "MÁQUINA HELIOGRÁFICA"
+  },
+  {
+    "id": "09365",
+    "pdm": "MAQUINAS THERMOFAX"
+  },
+  {
+    "id": "09381",
+    "pdm": "MARGINADOR"
+  },
+  {
+    "id": "09417",
+    "pdm": "MASSA DE MODELAR PARA FUNDICAO"
+  },
+  {
+    "id": "09418",
+    "pdm": "MASSA DE MOLDAGEM"
+  },
+  {
+    "id": "09485",
+    "pdm": "MATERIAL PARA GRAVADORA DE STENCIL ELETRONICO"
+  },
+  {
+    "id": "09490",
+    "pdm": "MATERIAL PARA PLASTIFICACAO"
+  },
+  {
+    "id": "09504",
+    "pdm": "MATRIZ DE DUPLICADOR A ALCOOL"
+  },
+  {
+    "id": "09505",
+    "pdm": "MATRIZ DE IMPRESSORA OFF - SET"
+  },
+  {
+    "id": "09506",
+    "pdm": "MATRIZ DE MIMEOGRAFO"
+  },
+  {
+    "id": "09512",
+    "pdm": "MEADEIRA"
+  },
+  {
+    "id": "09529",
+    "pdm": "MEDIDOR DE CAMADA POR FLUORESCENCIA DE RAIO X"
+  },
+  {
+    "id": "09657",
+    "pdm": "MESA PNEUMATICA - USO GRAFICO"
+  },
+  {
+    "id": "09666",
+    "pdm": "MESA VIBRADORA - USO GRAFICO"
+  },
+  {
+    "id": "09766",
+    "pdm": "MIMEOGRAFOS"
+  },
+  {
+    "id": "09767",
+    "pdm": "MIMEOGRAFO"
+  },
+  {
+    "id": "09768",
+    "pdm": "MINERAIS PARA FUNDIÇÃO"
+  },
+  {
+    "id": "09798",
+    "pdm": "MISTURADOR PARA INDUSTRIA FARMACEUTICA"
+  },
+  {
+    "id": "09821",
+    "pdm": "MOBILIARIO DE TIPOGRAFIA"
+  },
+  {
+    "id": "09845",
+    "pdm": "COCHO"
+  },
+  {
+    "id": "09846",
+    "pdm": "MOINHO DE CAFE. PIMENTA E SEMELHANTES"
+  },
+  {
+    "id": "09847",
+    "pdm": "MOINHO INDUSTRIAL PARA POLPA E PAPEL"
+  },
+  {
+    "id": "09848",
+    "pdm": "MOINHO PARA INDUSTRIA DE PRODUTOS FARMACEUTICOS"
+  },
+  {
+    "id": "09849",
+    "pdm": "MOINHO PARA INDUSTRIA DE PRODUTOS QUIMICOS"
+  },
+  {
+    "id": "09850",
+    "pdm": "MOINHO ROTATIVO"
+  },
+  {
+    "id": "09851",
+    "pdm": "MOINHO TRITURADOR"
+  },
+  {
+    "id": "09868",
+    "pdm": "MOLDES PARA FUNDICAO"
+  },
+  {
+    "id": 10129,
+    "pdm": "NOVELEIRA AUTOMATICA"
+  },
+  {
+    "id": 10134,
+    "pdm": "NUMERADOR AUTOMATICO PARA INDUSTRIA GRAFICA"
+  },
+  {
+    "id": 10345,
+    "pdm": "PANO PARA ROLO MOLHADOR USO IMPRESSAO TIPOGRAFICA"
+  },
+  {
+    "id": 10470,
+    "pdm": "PASSADEIRA PARA LICA E PENTE"
+  },
+  {
+    "id": 10488,
+    "pdm": "PASTA DE MODELAR PARA FUNDICAO"
+  },
+  {
+    "id": 10521,
+    "pdm": "PEÇA / ACESSÓRIO - IMPRESSORA / COPIADORA"
+  },
+  {
+    "id": 10524,
+    "pdm": "PEÇA / COMPONENTE - EQUIPAMENTO GRÁFICO"
+  },
+  {
+    "id": 10538,
+    "pdm": "CENTRAL DISTRIBUIÇÃO GÁS"
+  },
+  {
+    "id": 10558,
+    "pdm": "PECA/COMPONENTE - COMPRESSOR ROTATIVO"
+  },
+  {
+    "id": 10585,
+    "pdm": "PEDRA LITOGRAFICA"
+  },
+  {
+    "id": 10618,
+    "pdm": "PENEIRA PARA FUNDIÇÃO"
+  },
+  {
+    "id": 10667,
+    "pdm": "PERFURADOR DE PLACA DE CIRCUITO IMPRESSO"
+  },
+  {
+    "id": 10894,
+    "pdm": "PLASTIFICADORA"
+  },
+  {
+    "id": 11163,
+    "pdm": "PRELO DE IMPRESSAO MANUAL"
+  },
+  {
+    "id": 11177,
+    "pdm": "PRENSA DE MOLDAR COMPRIMIDO"
+  },
+  {
+    "id": 11178,
+    "pdm": "PRENSA DE PLANIGRAVURA ( OFF - SET )"
+  },
+  {
+    "id": 11179,
+    "pdm": "PRENSA DE TRABALHAR BORRACHA / MATERIAL PLÁSTICO"
+  },
+  {
+    "id": 11186,
+    "pdm": "PRENSA PRODUTO ALIMENTÍCIO"
+  },
+  {
+    "id": 11193,
+    "pdm": "PRENSA PARA TABLETE ( COMPRIMIDOS )"
+  },
+  {
+    "id": 11195,
+    "pdm": "PRENSA SELADORA CADARCO - EQUIPAMENTO GRAFICO"
+  },
+  {
+    "id": 11476,
+    "pdm": "RECINTO COM FLUXO LAMINAR"
+  },
+  {
+    "id": 11477,
+    "pdm": "CAPELA FLUXO LAMINAR"
+  },
+  {
+    "id": 11702,
+    "pdm": "RESTAURADOR BLANQUETA"
+  },
+  {
+    "id": 11727,
+    "pdm": "REVELADOR - CHAPA POSITIVA / NEGATIVA"
+  },
+  {
+    "id": 11730,
+    "pdm": "REVELADOR COPIADORA"
+  },
+  {
+    "id": 11909,
+    "pdm": "SACUDIDEIRA"
+  },
+  {
+    "id": 11959,
+    "pdm": "SECADOR DE GRÃOS"
+  },
+  {
+    "id": 12378,
+    "pdm": "SUPORTE DE BALANCIM DE GUILHOTINA DE PAPEL"
+  },
+  {
+    "id": 12506,
+    "pdm": "TAMBORES ROTATIVOS PARA LIMPEZA DE PECAS FUNDIDAS"
+  },
+  {
+    "id": 12770,
+    "pdm": "TIPO DE IMPRESSAO"
+  },
+  {
+    "id": 13001,
+    "pdm": "TRITURADOR FRUTA"
+  },
+  {
+    "id": 13002,
+    "pdm": "TRITURADOR INDUSTRIA - POLPA / PAPEL"
+  },
+  {
+    "id": 13003,
+    "pdm": "TRITURADOR INDUSTRIA - PRODUTOS FARMACEUTICOS"
+  },
+  {
+    "id": 13004,
+    "pdm": "TRITURADOR INDÚSTRIA - PRODUTOS QUÍMICOS"
+  },
+  {
+    "id": 13005,
+    "pdm": "TRITURADOR / MOINHO DE MARTELO"
+  },
+  {
+    "id": 13006,
+    "pdm": "TRITURADOR OU MOINHO DO TIPO DE BOLO E SEMELHANTES"
+  },
+  {
+    "id": 13009,
+    "pdm": "TRITURADOR"
+  },
+  {
+    "id": 13207,
+    "pdm": "UTENSILIO DE CRISTAL"
+  },
+  {
+    "id": 13208,
+    "pdm": "UTENSILIO DE VIDRO"
+  },
+  {
+    "id": 13640,
+    "pdm": "TEAR MANUAL / COMPONENTE"
+  },
+  {
+    "id": 14078,
+    "pdm": "TANQUE ESCALDAR ANIMAL"
+  },
+  {
+    "id": 14079,
+    "pdm": "DEPELADEIRA SUÍNO"
+  },
+  {
+    "id": 14087,
+    "pdm": "TANQUE COZIMENTO"
+  },
+  {
+    "id": 14094,
+    "pdm": "DESIDRATADOR FRUTA"
+  },
+  {
+    "id": 14101,
+    "pdm": "INSENSIBILIZADOR PNEUMÁTICO"
+  },
+  {
+    "id": 14113,
+    "pdm": "MÁQUINA FATIADORA"
+  },
+  {
+    "id": 14116,
+    "pdm": "CARRIOLA SUPER"
+  },
+  {
+    "id": 14117,
+    "pdm": "INJETORA CARNE"
+  },
+  {
+    "id": 14118,
+    "pdm": "PROCESSADOR PRESUNTO"
+  },
+  {
+    "id": 14119,
+    "pdm": "EMBUTIDOR HIDRÁULICA PISTÃO"
+  },
+  {
+    "id": 14179,
+    "pdm": "MÁQUINA FILAR MASSA MUSSARELA"
+  },
+  {
+    "id": 14181,
+    "pdm": "MÁQUINA MOLDAR MASSA MUSSARELA"
+  },
+  {
+    "id": 14263,
+    "pdm": "CABEÇA IMPRESSÃO"
+  },
+  {
+    "id": 14389,
+    "pdm": "COLOCADORA ESPIRAL"
+  },
+  {
+    "id": 14436,
+    "pdm": "CONJUNTO TRATAMENTO EFLUENTES"
+  },
+  {
+    "id": 14439,
+    "pdm": "TANQUE ESCALDAMENTO ANIMAL"
+  },
+  {
+    "id": 14440,
+    "pdm": "MISTURADOR CARNE"
+  },
+  {
+    "id": 14442,
+    "pdm": "DEPILADEIRA SUÍNOS"
+  },
+  {
+    "id": 14444,
+    "pdm": "CARRETILHA SANGRIA ANIMAL"
+  },
+  {
+    "id": 14446,
+    "pdm": "CONJUNTO CARRETILHAS ESFOLA"
+  },
+  {
+    "id": 14448,
+    "pdm": "ESPREMEDOR CASCO ANIMAL"
+  },
+  {
+    "id": 14449,
+    "pdm": "BOX ATORDOAMENTO ANIMAL"
+  },
+  {
+    "id": 14450,
+    "pdm": "GUINCHO SANGRIA ANIMAL"
+  },
+  {
+    "id": 14451,
+    "pdm": "CONJUNTO TRILHAMENTO AÉREO"
+  },
+  {
+    "id": 14453,
+    "pdm": "SUPORTE CILINDRO IMPRESSORA"
+  },
+  {
+    "id": 14527,
+    "pdm": "CHAPA IMPRESSÃO"
+  },
+  {
+    "id": 14591,
+    "pdm": "CONJUNTO CORTE GRAMPEADOR"
+  },
+  {
+    "id": 14593,
+    "pdm": "PEÇAS E ACESSÓRIOS GRAMPEADOR"
+  },
+  {
+    "id": 14665,
+    "pdm": "MICROTRITURADOR FRUTAS - PEÇAS / ACESSÓRIOS"
+  },
+  {
+    "id": 14700,
+    "pdm": "FILME POLIETILENO"
+  },
+  {
+    "id": 14728,
+    "pdm": "DESIDRATADOR"
+  },
+  {
+    "id": 14783,
+    "pdm": "MASSEIRA"
+  },
+  {
+    "id": 14819,
+    "pdm": "MEDIDOR UMIDADE DIGITAL"
+  },
+  {
+    "id": 14837,
+    "pdm": "TIGE ENCAIXE"
+  },
+  {
+    "id": 14838,
+    "pdm": "SUPORTE COM DISCO"
+  },
+  {
+    "id": 14839,
+    "pdm": "PERNIO PARA MOLA"
+  },
+  {
+    "id": 14840,
+    "pdm": "ROLO RONDELE"
+  },
+  {
+    "id": 14841,
+    "pdm": "TESTADOR ERTALON"
+  },
+  {
+    "id": 14842,
+    "pdm": "RONDELE"
+  },
+  {
+    "id": 14843,
+    "pdm": "PERNIO ROTAÇÃO"
+  },
+  {
+    "id": 14844,
+    "pdm": "SEÇÃO DENTADA"
+  },
+  {
+    "id": 14845,
+    "pdm": "TACHO A VAPOR"
+  },
+  {
+    "id": 14846,
+    "pdm": "PARAFUSO A PERNO PARA ROLINHO"
+  },
+  {
+    "id": 14847,
+    "pdm": "PARAFUSO MÁQUINA ENCHER AMPOLA"
+  },
+  {
+    "id": 14848,
+    "pdm": "PLACA EMPURRA AMPOLAS"
+  },
+  {
+    "id": 14849,
+    "pdm": "PLAQUETA COLIGAÇÃO"
+  },
+  {
+    "id": 14850,
+    "pdm": "PULSANTE MARCHA SOBRE ALIMENTADOR"
+  },
+  {
+    "id": 14851,
+    "pdm": "PERNIO"
+  },
+  {
+    "id": 14852,
+    "pdm": "PULSANTE MARCHA POSTERIOR"
+  },
+  {
+    "id": 14853,
+    "pdm": "PULSANTE PARADA SOBRE ALIMENTADOR"
+  },
+  {
+    "id": 14854,
+    "pdm": "PISTÃO"
+  },
+  {
+    "id": 14855,
+    "pdm": "PINO DENTADO"
+  },
+  {
+    "id": 14856,
+    "pdm": "MOLA"
+  },
+  {
+    "id": 14857,
+    "pdm": "RELÉ TÉRMICO"
+  },
+  {
+    "id": 14861,
+    "pdm": "MICROSWITCH"
+  },
+  {
+    "id": 14862,
+    "pdm": "AGULHA MÁQUINA ENCHER AMPOLA"
+  },
+  {
+    "id": 14863,
+    "pdm": "ROLINHO"
+  },
+  {
+    "id": 14864,
+    "pdm": "ARRUELA EIXO CANOPLA"
+  },
+  {
+    "id": 14865,
+    "pdm": "BLOQUINHO ERTALON"
+  },
+  {
+    "id": 14866,
+    "pdm": "BICO QUEIMADOR"
+  },
+  {
+    "id": 14867,
+    "pdm": "GUIA AGULHA"
+  },
+  {
+    "id": 14868,
+    "pdm": "BRAÇO PINÇA"
+  },
+  {
+    "id": 14869,
+    "pdm": "ROLINHO TEFLON"
+  },
+  {
+    "id": 14870,
+    "pdm": "ANEL MÁQUINA ENCHER AMPOLA"
+  },
+  {
+    "id": 14871,
+    "pdm": "PINÇA A2 DIREITA"
+  },
+  {
+    "id": 14872,
+    "pdm": "PINÇA A1 ESQUERDA"
+  },
+  {
+    "id": 14873,
+    "pdm": "MOLA ESPIRAL"
+  },
+  {
+    "id": 14874,
+    "pdm": "MOLA CHAMADA"
+  },
+  {
+    "id": 14875,
+    "pdm": "ARRUELA MÁQUINA ENCHER AMPOLA"
+  },
+  {
+    "id": 14876,
+    "pdm": "BLOCO OSCILANTE MÁQUINA ENCHER AMPOLA"
+  },
+  {
+    "id": 14878,
+    "pdm": "BUCHA BOQUINO"
+  },
+  {
+    "id": 14879,
+    "pdm": "BUCHA OSCILAÇÃO ALAVANCA"
+  },
+  {
+    "id": 14880,
+    "pdm": "BUCHA HASTES"
+  },
+  {
+    "id": 14881,
+    "pdm": "BUCHA ROTOCIONAL"
+  },
+  {
+    "id": 14882,
+    "pdm": "BUCHA MÁQUINA ENCHER AMPOLA"
+  },
+  {
+    "id": 14883,
+    "pdm": "BUCHA TEFLON"
+  },
+  {
+    "id": 14884,
+    "pdm": "CILINDRO ATAQUE MOLA BALANCEAMENTO"
+  },
+  {
+    "id": 14885,
+    "pdm": "CONTRA-CORTE"
+  },
+  {
+    "id": 14886,
+    "pdm": "CAIXA CRUZ DE MALTA"
+  },
+  {
+    "id": 14887,
+    "pdm": "MARTELO TRITURADOR"
+  },
+  {
+    "id": 14888,
+    "pdm": "REDUTOR VELOCIDADE MÁQUINA ENCHER AMPOLA"
+  },
+  {
+    "id": 14890,
+    "pdm": "ROLINHO SOBRE BALANÇO PARA ATAQUE MOLA"
+  },
+  {
+    "id": 14892,
+    "pdm": "PERFIL ONDULADO SOBRE CONTRA-PAREDE"
+  },
+  {
+    "id": 14893,
+    "pdm": "MOLA ESPIRAL CHAMADA"
+  },
+  {
+    "id": 14894,
+    "pdm": "MOLA CONTRASTE"
+  },
+  {
+    "id": 14895,
+    "pdm": "EIXO PARA ROLINHO"
+  },
+  {
+    "id": 14896,
+    "pdm": "ENGRENAGEM DENTADA SOBRE EIXO"
+  },
+  {
+    "id": 14898,
+    "pdm": "CONTRACHAPA"
+  },
+  {
+    "id": 14899,
+    "pdm": "DESTILADOR TEFLON"
+  },
+  {
+    "id": 14900,
+    "pdm": "CONTRAPAREDE"
+  },
+  {
+    "id": 14901,
+    "pdm": "DISCO CORTE"
+  },
+  {
+    "id": 14902,
+    "pdm": "CONVERSOR"
+  },
+  {
+    "id": 14903,
+    "pdm": "DESLIZANTE"
+  },
+  {
+    "id": 14904,
+    "pdm": "TERMINAL AÇO ESQUERDO"
+  },
+  {
+    "id": 14906,
+    "pdm": "TERMINAL AÇO DIREITO"
+  },
+  {
+    "id": 14907,
+    "pdm": "GUIA"
+  },
+  {
+    "id": 14908,
+    "pdm": "PEÇA AJUSTE GUIA"
+  },
+  {
+    "id": 14910,
+    "pdm": "LIXA ROTOCIONAL DIREITO"
+  },
+  {
+    "id": 14911,
+    "pdm": "MALANCINHO DEITADO"
+  },
+  {
+    "id": 14912,
+    "pdm": "HASTE"
+  },
+  {
+    "id": 14913,
+    "pdm": "EIXO SUPERIOR"
+  },
+  {
+    "id": 14914,
+    "pdm": "BUCHA BRONZE"
+  },
+  {
+    "id": 14915,
+    "pdm": "BLOCO PRINCIPAL"
+  },
+  {
+    "id": 14925,
+    "pdm": "MOLA COPINHO"
+  },
+  {
+    "id": 14926,
+    "pdm": "CORPO SISTEMA PARADA ROTAÇÃO"
+  },
+  {
+    "id": 14932,
+    "pdm": "SOPRADOR"
+  },
+  {
+    "id": 14993,
+    "pdm": "SERRILHADEIRA AUTOMÁTICA"
+  },
+  {
+    "id": 15048,
+    "pdm": "PRENSA FOTOLITROGRÁFICA"
+  },
+  {
+    "id": 15175,
+    "pdm": "MODELADORA MASSA PANIFICAÇÃO"
+  },
+  {
+    "id": 15220,
+    "pdm": "ARMÁRIO PANIFICAÇÃO"
+  },
+  {
+    "id": 15251,
+    "pdm": "MÁQUINA MOER CANA"
+  },
+  {
+    "id": 15259,
+    "pdm": "DIVISORA DE COLUNA MASSA ALIMENTÍCIA"
+  },
+  {
+    "id": 15264,
+    "pdm": "PRENSA ESTAMPAGEM TERMOTRANSFERÊNCIA"
+  },
+  {
+    "id": 15352,
+    "pdm": "MESA TÉCNICA"
+  },
+  {
+    "id": 15355,
+    "pdm": "PRENSA LITOGRÁFICA"
+  },
+  {
+    "id": 15356,
+    "pdm": "SECADOR SERIGRAFIA"
+  },
+  {
+    "id": 15447,
+    "pdm": "FILME PLASTIFICAÇÃO DOCUMENTO"
+  },
+  {
+    "id": 15566,
+    "pdm": "CALÇO BLANQUETA"
+  },
+  {
+    "id": 15626,
+    "pdm": "LÂMINA LAVADOR TINTA IMPRESSORA"
+  },
+  {
+    "id": 15660,
+    "pdm": "MALHA CILINDRO IMPRESSORA"
+  },
+  {
+    "id": 15728,
+    "pdm": "CAPA PROTEÇÃO ROTOR"
+  },
+  {
+    "id": 15891,
+    "pdm": "FOLHA DE FILME"
+  },
+  {
+    "id": 15894,
+    "pdm": "SUPORTE FOTOLITO"
+  },
+  {
+    "id": 15926,
+    "pdm": "CABEÇOTE IMPRESSORA"
+  },
+  {
+    "id": 15931,
+    "pdm": "MOLETON USO GRÁFICO"
+  },
+  {
+    "id": 15971,
+    "pdm": "COROTRON"
+  },
+  {
+    "id": 15972,
+    "pdm": "FIO OZÔNIO"
+  },
+  {
+    "id": 15973,
+    "pdm": "ROLO DE PRESSÃO"
+  },
+  {
+    "id": 15974,
+    "pdm": "ROLO ALTA TENSÃO"
+  },
+  {
+    "id": 15975,
+    "pdm": "GRADE SCOROTRON"
+  },
+  {
+    "id": 15976,
+    "pdm": "CILINDRO MÁQUINA GRÁFICA"
+  },
+  {
+    "id": 15977,
+    "pdm": "LÂMINA UNIDADE LIMPEZA"
+  },
+  {
+    "id": 15978,
+    "pdm": "ESCOVA UNIDADE LIMPEZA"
+  },
+  {
+    "id": 15980,
+    "pdm": "TECIDO POLIMENTO PARA FERRAMENTA POLIR"
+  },
+  {
+    "id": 15982,
+    "pdm": "PAPEL POLIMENTO PARA FERRAMENTA POLIR"
+  },
+  {
+    "id": 16106,
+    "pdm": "MANETE PARA MÁQUINA COPIADORA"
+  },
+  {
+    "id": 16211,
+    "pdm": "GRAMPEADOR PNEUMÁTICO"
+  },
+  {
+    "id": 16235,
+    "pdm": "PRENSA BLOCAGEM"
+  },
+  {
+    "id": 16548,
+    "pdm": "EQUIPAMENTO TIPOGRÁFICO"
+  },
+  {
+    "id": 16636,
+    "pdm": "ROLETE COPIADORA / IMPRESSORA"
+  },
+  {
+    "id": 16653,
+    "pdm": "SERRA FITA"
+  },
+  {
+    "id": 16864,
+    "pdm": "MATERIAIS E EQUIPAMENTOS PARA FUNDICAO"
+  },
+  {
+    "id": 16888,
+    "pdm": "MÁQUINAS E EQUIPAMENTOS PARA PRODUTOS ALIMENTÍCIOS"
+  },
+  {
+    "id": 16889,
+    "pdm": "FACA CORTE E VINCO"
+  },
+  {
+    "id": 16890,
+    "pdm": "MÁQUINAS INDUSTRIAIS PARA MARCAÇÃO"
+  },
+  {
+    "id": 16891,
+    "pdm": "MÁQUINAS PARA INDÚSTRIA DE POLPA E DE PAPEL"
+  },
+  {
+    "id": 16892,
+    "pdm": "CORTADOR ISOPOR"
+  },
+  {
+    "id": 16893,
+    "pdm": "MÁQUINA REVISORA TECIDO"
+  },
+  {
+    "id": 16894,
+    "pdm": "MÁQUINAS PARA INDÚSTRIAS DE PRODUTOS DE ARGILA E CONCRETO"
+  },
+  {
+    "id": 16895,
+    "pdm": "MÁQUINAS PARA INDÚSTRIAS DE CRISTAL E VIDRO"
+  },
+  {
+    "id": 16896,
+    "pdm": "MÁQUINAS PARA INDÚSTRIAS DE TABACO"
+  },
+  {
+    "id": 16897,
+    "pdm": "MÁQUINAS PARA INDÚSTRIAS DE COURO E DE CURTUMES"
+  },
+  {
+    "id": 16899,
+    "pdm": "SISTEMAS DE GERAÇÃO E DISTRIBUIÇÃO DE GÁS. FIXOS OU MÓVEIS"
+  },
+  {
+    "id": 16900,
+    "pdm": "MAQUINARIA PARA REDUÇÃO INDUSTRIAL DE TAMANHO"
+  },
+  {
+    "id": 16901,
+    "pdm": "MÁQUINAS ESPECIALIZADAS PARA FABRICAÇÃO DE SEMICONDUTORES.CIRCUITOS MICROELETRÔNICOS E PLACAS DE C"
+  },
+  {
+    "id": 16902,
+    "pdm": "MÁQUINAS PARA FUNDIÇÃO. EQUIPAMENTOS E SUPRIMENTOS CORRELATOS"
+  },
+  {
+    "id": 16903,
+    "pdm": "MÁQUINAS ESPECIALIZADAS PARA FABRICAÇÃO DE RECIPIENTES METÁLICOS E EQUIPAMENTOS CORRELATOS"
+  },
+  {
+    "id": 16904,
+    "pdm": "MÁQUINARIA ESPECIALIZADA PARA ARMAMENTO E MUNIÇÃO E EQUIPA-MENTO CORRELATO"
+  },
+  {
+    "id": 16905,
+    "pdm": "MAQUINARIA INDUSTRIL PARA MONTAGEM"
+  },
+  {
+    "id": 16906,
+    "pdm": "EQUIPAMENTOS E INSTALAÇÕES PARA SANEAMENTO AMBIENTAL"
+  },
+  {
+    "id": 16907,
+    "pdm": "CODIFICADORA LASER"
+  },
+  {
+    "id": 17216,
+    "pdm": "MAQUINAS DE FOTOCOPIAS"
+  },
+  {
+    "id": 17219,
+    "pdm": "MÁQUINA DE REPROGRAFIA"
+  },
+  {
+    "id": 17619,
+    "pdm": "ENSACADEIRA"
+  },
+  {
+    "id": 17801,
+    "pdm": "NUMERADOR PNEUS"
+  },
+  {
+    "id": 17808,
+    "pdm": "DESPOLPADOR"
+  },
+  {
+    "id": 17848,
+    "pdm": "CONJUNTO FORRAGEIRO"
+  },
+  {
+    "id": 18010,
+    "pdm": "DEFUMADOR"
+  },
+  {
+    "id": 18264,
+    "pdm": "SELADORA CRACHÁ"
+  },
+  {
+    "id": 18265,
+    "pdm": "BOMBA ENVASADORA"
+  },
+  {
+    "id": 18329,
+    "pdm": "MÁQUINA FECHADORA DE DUPLO ANEL"
+  },
+  {
+    "id": 18407,
+    "pdm": "BOBINADEIRA ELETRÔNICA"
+  },
+  {
+    "id": 18442,
+    "pdm": "CANECA ELEVADOR"
+  },
+  {
+    "id": 18475,
+    "pdm": "PLOTTER RECORTE"
+  },
+  {
+    "id": 18680,
+    "pdm": "MÁQUINA REENFIBRADORA"
+  },
+  {
+    "id": 18765,
+    "pdm": "HOMOGENEIZADOR"
+  },
+  {
+    "id": 18819,
+    "pdm": "EQUIPAMENTO / ACESSÓRIO - APICULTURA"
+  },
+  {
+    "id": 18837,
+    "pdm": "MOINHO"
+  }
+]
