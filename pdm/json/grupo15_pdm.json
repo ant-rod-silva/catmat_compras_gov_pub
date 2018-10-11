@@ -1,98 +1,122 @@
 [
   {
     "id": "02137",
-    "pdm": "PEÇAS / ACESSÓRIOS AEROMODELO"
+    "pdm": "PEÃ‡AS / ACESSÃ“RIOS AEROMODELO",
+    "grupo": "15"
   },
   {
     "id": "03161",
-    "pdm": "AVIÃO"
+    "pdm": "AVIÃƒO",
+    "grupo": "15"
   },
   {
     "id": "08134",
-    "pdm": "GUIAS DE CABOS PARA AERONAVES"
+    "pdm": "GUIAS DE CABOS PARA AERONAVES",
+    "grupo": "15"
   },
   {
     "id": "08184",
-    "pdm": "HELICÓPTERO"
+    "pdm": "HELICÃ“PTERO",
+    "grupo": "15"
   },
   {
     "id": 10522,
-    "pdm": "PEÇA / COMPONENTE - AEROMODELO"
+    "pdm": "PEÃ‡A / COMPONENTE - AEROMODELO",
+    "grupo": "15"
   },
   {
     "id": 10572,
-    "pdm": "PEÇAS ESPECIAIS DE AERONAVES"
+    "pdm": "PEÃ‡AS ESPECIAIS DE AERONAVES",
+    "grupo": "15"
   },
   {
     "id": 10713,
-    "pdm": "PILONES"
+    "pdm": "PILONES",
+    "grupo": "15"
   },
   {
     "id": 10878,
-    "pdm": "PLANADORES COMPLETOS"
+    "pdm": "PLANADORES COMPLETOS",
+    "grupo": "15"
   },
   {
     "id": 12168,
-    "pdm": "SISTEMAS DE ESCAPAMENTO DE AERONAVES"
+    "pdm": "SISTEMAS DE ESCAPAMENTO DE AERONAVES",
+    "grupo": "15"
   },
   {
     "id": 12428,
-    "pdm": "SUPORTES ESPECIAIS PARA AERONAVES"
+    "pdm": "SUPORTES ESPECIAIS PARA AERONAVES",
+    "grupo": "15"
   },
   {
     "id": 12544,
-    "pdm": "TANQUES AUXILIARES DE COMBUSTIVEL DE AERONAVES"
+    "pdm": "TANQUES AUXILIARES DE COMBUSTIVEL DE AERONAVES",
+    "grupo": "15"
   },
   {
     "id": 12545,
-    "pdm": "TANQUES DE COMBUSTIVEIS DE AERONAVES"
+    "pdm": "TANQUES DE COMBUSTIVEIS DE AERONAVES",
+    "grupo": "15"
   },
   {
     "id": 12546,
-    "pdm": "TANQUES DE COMBUSTIVEL FIXO DE AERONAVES"
+    "pdm": "TANQUES DE COMBUSTIVEL FIXO DE AERONAVES",
+    "grupo": "15"
   },
   {
     "id": 16733,
-    "pdm": "AERONAVES"
+    "pdm": "AERONAVES",
+    "grupo": "15"
   },
   {
     "id": 16734,
-    "pdm": "AERONAVES DE ASAS FIXAS"
+    "pdm": "AERONAVES DE ASAS FIXAS",
+    "grupo": "15"
   },
   {
     "id": 16735,
-    "pdm": "HELICES DE AERONAVES E COMPONENTES"
+    "pdm": "HELICES DE AERONAVES E COMPONENTES",
+    "grupo": "15"
   },
   {
     "id": 16736,
-    "pdm": "AERONAVES DE ASAS ROTATIVAS - HELICOPTEROS E ASSEMELHADOS"
+    "pdm": "AERONAVES DE ASAS ROTATIVAS - HELICOPTEROS E ASSEMELHADOS",
+    "grupo": "15"
   },
   {
     "id": 16737,
-    "pdm": "COMPONENTES DE SISTEMA DE FREIOS E RODAS"
+    "pdm": "COMPONENTES DE SISTEMA DE FREIOS E RODAS",
+    "grupo": "15"
   },
   {
     "id": 16738,
-    "pdm": "COMPONENTES DE SISTEMA HIDRAULICO. DE VACUO E DEGELAMENTO"
+    "pdm": "COMPONENTES DE SISTEMA HIDRAULICO. DE VACUO E DEGELAMENTO",
+    "grupo": "15"
   },
   {
     "id": 16739,
-    "pdm": "COMPONENTE DE SISTEMAS DE CONDICIONAMENTO DE AR. DO AQUECIMENTO E DE PRESSURIZACAO"
+    "pdm": "COMPONENTE DE SISTEMAS DE CONDICIONAMENTO DE AR. DO AQUECIMENTO E DE PRESSURIZACAO",
+    "grupo": "15"
   },
   {
     "id": 16740,
-    "pdm": "PLANADORES"
+    "pdm": "PLANADORES",
+    "grupo": "15"
   },
   {
     "id": 16741,
-    "pdm": "AERONAVES TELEGUIADAS"
+    "pdm": "AERONAVES TELEGUIADAS",
+    "grupo": "15"
   },
   {
     "id": 16742,
-    "pdm": "COMPONENTES ESTRUTURAIS DE AERONAVES"
+    "pdm": "COMPONENTES ESTRUTURAIS DE AERONAVES",
+    "grupo": "15"
   },
   {
     "id": 16743,
-    "pdm": "AERONAVES E COMPONENTES ESTRUTURAIS DIVERSOS"
+    "pdm": "AERONAVES E COMPONENTES ESTRUTURAIS DIVERSOS",
+    "grupo": "15"
   }
 ]
