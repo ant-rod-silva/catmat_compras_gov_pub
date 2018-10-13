@@ -1,550 +1,687 @@
 [
   {
     "id": "01049",
-    "pdm": "EMPILHADEIRA EL…TRICA"
+    "pdm": "EMPILHADEIRA EL√âTRICA",
+    "grupo": 39
   },
   {
     "id": "01674",
-    "pdm": "ACESSORIO DE CONTAINER ESPECIAL - TRANSPORTE DE EXPLOSIVOS"
+    "pdm": "ACESSORIO DE CONTAINER ESPECIAL - TRANSPORTE DE EXPLOSIVOS",
+    "grupo": 39
   },
   {
     "id": "02324",
-    "pdm": "ALIMENTADOR MATERIAL SECO"
+    "pdm": "ALIMENTADOR MATERIAL SECO",
+    "grupo": 39
   },
   {
     "id": "02326",
-    "pdm": "ALIMENTADOR DE PE«A"
+    "pdm": "ALIMENTADOR DE PE√áA",
+    "grupo": 39
   },
   {
     "id": "03068",
-    "pdm": "ARTICULA«√O DE EQUIPAMENTO DE ELEVA«√O DE CARGA"
+    "pdm": "ARTICULA√á√ÉO DE EQUIPAMENTO DE ELEVA√á√ÉO DE CARGA",
+    "grupo": 39
   },
   {
     "id": "03232",
-    "pdm": "BALANCIM INDIVIDUAL / CADEIRA SUSPENSA ( EPI )"
+    "pdm": "BALANCIM INDIVIDUAL / CADEIRA SUSPENSA ( EPI )",
+    "grupo": 39
   },
   {
     "id": "03256",
-    "pdm": "BALDE TRANSPORTE MATERIAL"
+    "pdm": "BALDE TRANSPORTE MATERIAL",
+    "grupo": 39
   },
   {
     "id": "03593",
-    "pdm": "BLOCO"
+    "pdm": "BLOCO",
+    "grupo": 39
   },
   {
     "id": "03857",
-    "pdm": "BRA«O ARTICULADO MOVIMENTA«√O CARREGAMENTO DE MATE"
+    "pdm": "BRA√áO ARTICULADO MOVIMENTA√á√ÉO CARREGAMENTO DE MATE",
+    "grupo": 39
   },
   {
     "id": "04062",
-    "pdm": "CABRESTANTE"
+    "pdm": "CABRESTANTE",
+    "grupo": 39
   },
   {
     "id": "04092",
-    "pdm": "CADERNAL"
+    "pdm": "CADERNAL",
+    "grupo": 39
   },
   {
     "id": "04572",
-    "pdm": "CARRETA - PLATAFORMA MANUAL"
+    "pdm": "CARRETA - PLATAFORMA MANUAL",
+    "grupo": 39
   },
   {
     "id": "04573",
-    "pdm": "CARRETA REBOQUE"
+    "pdm": "CARRETA REBOQUE",
+    "grupo": 39
   },
   {
     "id": "04584",
-    "pdm": "CARRINHO TRANSPORTE"
+    "pdm": "CARRINHO TRANSPORTE",
+    "grupo": 39
   },
   {
     "id": "04585",
-    "pdm": "CARRINHO M√O"
+    "pdm": "CARRINHO M√ÉO",
+    "grupo": 39
   },
   {
     "id": "04587",
-    "pdm": "CARRINHO INDUSTRIAL"
+    "pdm": "CARRINHO INDUSTRIAL",
+    "grupo": 39
   },
   {
     "id": "04589",
-    "pdm": "CARRO - GUINDASTE ( GIRAFA )"
+    "pdm": "CARRO - GUINDASTE ( GIRAFA )",
+    "grupo": 39
   },
   {
     "id": "04591",
-    "pdm": "CARRO - PORTICO ( STRADDLE TRUK )"
+    "pdm": "CARRO - PORTICO ( STRADDLE TRUK )",
+    "grupo": 39
   },
   {
     "id": "04603",
-    "pdm": "CARRO DE MANOBRA MANUAL E MOVIMENTACAO DE MATERIAL"
+    "pdm": "CARRO DE MANOBRA MANUAL E MOVIMENTACAO DE MATERIAL",
+    "grupo": 39
   },
   {
     "id": "04605",
-    "pdm": "CARRO DE MAO DE DUAS RODAS"
+    "pdm": "CARRO DE MAO DE DUAS RODAS",
+    "grupo": 39
   },
   {
     "id": "04606",
-    "pdm": "CARRO DE MAO DE QUATRO RODAS DE MOVIMENTACAO DE MATERIAL"
+    "pdm": "CARRO DE MAO DE QUATRO RODAS DE MOVIMENTACAO DE MATERIAL",
+    "grupo": 39
   },
   {
     "id": "04620",
-    "pdm": "CARRO PLATAFORMA MOTORIZADO ALMOXARIFADO"
+    "pdm": "CARRO PLATAFORMA MOTORIZADO ALMOXARIFADO",
+    "grupo": 39
   },
   {
     "id": "04621",
-    "pdm": "CARRO CARGA"
+    "pdm": "CARRO CARGA",
+    "grupo": 39
   },
   {
     "id": "04622",
-    "pdm": "CARRO REBOCADOR ALMOXARIFADO"
+    "pdm": "CARRO REBOCADOR ALMOXARIFADO",
+    "grupo": 39
   },
   {
     "id": "04624",
-    "pdm": "CARRO TRANSPORTADOR DE BAGAGEM - TIPO DE AEROPORTO"
+    "pdm": "CARRO TRANSPORTADOR DE BAGAGEM - TIPO DE AEROPORTO",
+    "grupo": 39
   },
   {
     "id": "04639",
-    "pdm": "CARROSSEL TRANSPORTADOR DE BAGAGEM"
+    "pdm": "CARROSSEL TRANSPORTADOR DE BAGAGEM",
+    "grupo": 39
   },
   {
     "id": "04994",
-    "pdm": "CILINDRO INCLINA«√O GARFO EMPILHADEIRA"
+    "pdm": "CILINDRO INCLINA√á√ÉO GARFO EMPILHADEIRA",
+    "grupo": 39
   },
   {
     "id": "05016",
-    "pdm": "CINTA SUSPENS√O CARGA"
+    "pdm": "CINTA SUSPENS√ÉO CARGA",
+    "grupo": 39
   },
   {
     "id": "05408",
-    "pdm": "COMPONENTE DE ACABAMENTO - PONTE DE EMBARQUE DE AEROPORTO"
+    "pdm": "COMPONENTE DE ACABAMENTO - PONTE DE EMBARQUE DE AEROPORTO",
+    "grupo": 39
   },
   {
     "id": "05450",
-    "pdm": "COMPONENTE HIDRAULICO - PONTE DE EMBARQUE DE AEROPORTO"
+    "pdm": "COMPONENTE HIDRAULICO - PONTE DE EMBARQUE DE AEROPORTO",
+    "grupo": 39
   },
   {
     "id": "05457",
-    "pdm": "COMPONENTE MECANICO - PONTE DE EMBARQUE DE AEROPORTO"
+    "pdm": "COMPONENTE MECANICO - PONTE DE EMBARQUE DE AEROPORTO",
+    "grupo": 39
   },
   {
     "id": "05795",
-    "pdm": "CONTAINER ESPECIAL - TRANSPORTE DE EXPLOSIVOS EM AERONAVE"
+    "pdm": "CONTAINER ESPECIAL - TRANSPORTE DE EXPLOSIVOS EM AERONAVE",
+    "grupo": 39
   },
   {
     "id": "05896",
-    "pdm": "CORREIA / COMPONENTE - ESTEIRA TRANSPORTADORA"
+    "pdm": "CORREIA / COMPONENTE - ESTEIRA TRANSPORTADORA",
+    "grupo": 39
   },
   {
     "id": "06471",
-    "pdm": "ELEVADOR - MONTA PRATO"
+    "pdm": "ELEVADOR - MONTA PRATO",
+    "grupo": 39
   },
   {
     "id": "06472",
-    "pdm": "PE«A/COMPONENTE ELEVADOR"
+    "pdm": "PE√áA/COMPONENTE ELEVADOR",
+    "grupo": 39
   },
   {
     "id": "06473",
-    "pdm": "ELEVADOR PASSAGEIRO"
+    "pdm": "ELEVADOR PASSAGEIRO",
+    "grupo": 39
   },
   {
     "id": "06475",
-    "pdm": "ELEVADOR DE CARGA"
+    "pdm": "ELEVADOR DE CARGA",
+    "grupo": 39
   },
   {
     "id": "06476",
-    "pdm": "ELEVADOR DE VEICULO PARA EDIFICIO GARAGEM"
+    "pdm": "ELEVADOR DE VEICULO PARA EDIFICIO GARAGEM",
+    "grupo": 39
   },
   {
     "id": "06478",
-    "pdm": "ELEVADOR HIDR¡ULICO"
+    "pdm": "ELEVADOR HIDR√ÅULICO",
+    "grupo": 39
   },
   {
     "id": "06482",
-    "pdm": "ELEVADOR PANORAMICO"
+    "pdm": "ELEVADOR PANORAMICO",
+    "grupo": 39
   },
   {
     "id": "06483",
-    "pdm": "ELEVADOR PNEUM¡TICO"
+    "pdm": "ELEVADOR PNEUM√ÅTICO",
+    "grupo": 39
   },
   {
     "id": "06531",
-    "pdm": "EMPILHADEIRA - GARFO"
+    "pdm": "EMPILHADEIRA - GARFO",
+    "grupo": 39
   },
   {
     "id": "06532",
-    "pdm": "EMPILHADEIRA - MOTOR A EXPLOSAO"
+    "pdm": "EMPILHADEIRA - MOTOR A EXPLOSAO",
+    "grupo": 39
   },
   {
     "id": "06533",
-    "pdm": "EMPILHADEIRA - MOTOR A G¡S"
+    "pdm": "EMPILHADEIRA - MOTOR A G√ÅS",
+    "grupo": 39
   },
   {
     "id": "06534",
-    "pdm": "PE«A / ACESS”RIO EMPILHADEIRA"
+    "pdm": "PE√áA / ACESS√ìRIO EMPILHADEIRA",
+    "grupo": 39
   },
   {
     "id": "06891",
-    "pdm": "ESCADA ROLANTE"
+    "pdm": "ESCADA ROLANTE",
+    "grupo": 39
   },
   {
     "id": "06968",
-    "pdm": "ESLINGA DE CARGA"
+    "pdm": "ESLINGA DE CARGA",
+    "grupo": 39
   },
   {
     "id": "07117",
-    "pdm": "ESTEIRA ROLANTE PARA PASSAGEIROS"
+    "pdm": "ESTEIRA ROLANTE PARA PASSAGEIROS",
+    "grupo": 39
   },
   {
     "id": "07181",
-    "pdm": "ESTRADO DE CARGA ( PALETE )"
+    "pdm": "ESTRADO DE CARGA ( PALETE )",
+    "grupo": 39
   },
   {
     "id": "07191",
-    "pdm": "ESTROPO"
+    "pdm": "ESTROPO",
+    "grupo": 39
   },
   {
     "id": "07192",
-    "pdm": "ESTROPO DE ACO"
+    "pdm": "ESTROPO DE ACO",
+    "grupo": 39
   },
   {
     "id": "07193",
-    "pdm": "ESTROPO N¡ILON"
+    "pdm": "ESTROPO N√ÅILON",
+    "grupo": 39
   },
   {
     "id": "07241",
-    "pdm": "EXPANSOR - FIXO / AJUSTAVEL"
+    "pdm": "EXPANSOR - FIXO / AJUSTAVEL",
+    "grupo": 39
   },
   {
     "id": "07562",
-    "pdm": "FITA DE AMARRACAO"
+    "pdm": "FITA DE AMARRACAO",
+    "grupo": 39
   },
   {
     "id": "07572",
-    "pdm": "FITA DE REBOQUE DE VEICULO / CARGA"
+    "pdm": "FITA DE REBOQUE DE VEICULO / CARGA",
+    "grupo": 39
   },
   {
     "id": "07573",
-    "pdm": "FITA DE SUSPENSAO / MOVIMENTACAO DE CARGA"
+    "pdm": "FITA DE SUSPENSAO / MOVIMENTACAO DE CARGA",
+    "grupo": 39
   },
   {
     "id": "07923",
-    "pdm": "GARFO DE EMPILHADEIRA"
+    "pdm": "GARFO DE EMPILHADEIRA",
+    "grupo": 39
   },
   {
     "id": "08112",
-    "pdm": "GRUA"
+    "pdm": "GRUA",
+    "grupo": 39
   },
   {
     "id": "08138",
-    "pdm": "GUINCHO"
+    "pdm": "GUINCHO",
+    "grupo": 39
   },
   {
     "id": "08144",
-    "pdm": "GUINDASTE"
+    "pdm": "GUINDASTE",
+    "grupo": 39
   },
   {
     "id": "08149",
-    "pdm": "GUINDASTE DE ARMAZEM"
+    "pdm": "GUINDASTE DE ARMAZEM",
+    "grupo": 39
   },
   {
     "id": "08153",
-    "pdm": "GUINDASTE FIXO DE CAIS"
+    "pdm": "GUINDASTE FIXO DE CAIS",
+    "grupo": 39
   },
   {
     "id": "08158",
-    "pdm": "GUINDASTE MOVEL DE CAIS"
+    "pdm": "GUINDASTE MOVEL DE CAIS",
+    "grupo": 39
   },
   {
     "id": "08573",
-    "pdm": "JUNTA GIRATORIA PARA MOVIMENTACAO DE MATERIAL"
+    "pdm": "JUNTA GIRATORIA PARA MOVIMENTACAO DE MATERIAL",
+    "grupo": 39
   },
   {
     "id": "08965",
-    "pdm": "LUVA DE PROTECAO - CINTA DE ELEVACAO / SUSPENSAO"
+    "pdm": "LUVA DE PROTECAO - CINTA DE ELEVACAO / SUSPENSAO",
+    "grupo": 39
   },
   {
     "id": "09852",
-    "pdm": "MOITAO"
+    "pdm": "MOITAO",
+    "grupo": 39
   },
   {
     "id": "09897",
-    "pdm": "MONOVIA"
+    "pdm": "MONOVIA",
+    "grupo": 39
   },
   {
     "id": "09898",
-    "pdm": "MONOVIA ACIMA DE 30 T"
+    "pdm": "MONOVIA ACIMA DE 30 T",
+    "grupo": 39
   },
   {
     "id": "09899",
-    "pdm": "MONOVIA ATE 30 T INCLUSIVE"
+    "pdm": "MONOVIA ATE 30 T INCLUSIVE",
+    "grupo": 39
   },
   {
     "id": "09900",
-    "pdm": "MONTA - CARGA"
+    "pdm": "MONTA - CARGA",
+    "grupo": 39
   },
   {
     "id": 10283,
-    "pdm": "PADIOLA DE TRANSPORTE DE MATERIAL"
+    "pdm": "PADIOLA DE TRANSPORTE DE MATERIAL",
+    "grupo": 39
   },
   {
     "id": 10315,
-    "pdm": "PALETEIRA"
+    "pdm": "PALETEIRA",
+    "grupo": 39
   },
   {
     "id": 10316,
-    "pdm": "PALETEIRA - PECA / COMPONENTE"
+    "pdm": "PALETEIRA - PECA / COMPONENTE",
+    "grupo": 39
   },
   {
     "id": 10505,
-    "pdm": "PATESCA"
+    "pdm": "PATESCA",
+    "grupo": 39
   },
   {
     "id": 10513,
-    "pdm": "PAU DE CARGA"
+    "pdm": "PAU DE CARGA",
+    "grupo": 39
   },
   {
     "id": 10531,
-    "pdm": "PECA CONTAINER ESPECIAL - TRANSPORTE DE EXPLOSIVO"
+    "pdm": "PECA CONTAINER ESPECIAL - TRANSPORTE DE EXPLOSIVO",
+    "grupo": 39
   },
   {
     "id": 10575,
-    "pdm": "PEDAL DE CARRINHO HIDRAULICO"
+    "pdm": "PEDAL DE CARRINHO HIDRAULICO",
+    "grupo": 39
   },
   {
     "id": 10898,
-    "pdm": "PLATAFORMA - AEREA TRABALHO"
+    "pdm": "PLATAFORMA - AEREA TRABALHO",
+    "grupo": 39
   },
   {
     "id": 10901,
-    "pdm": "PLATAFORMA - TRANSPORTE VERTICAL / HORIZONTAL / INCLINADA"
+    "pdm": "PLATAFORMA - TRANSPORTE VERTICAL / HORIZONTAL / INCLINADA",
+    "grupo": 39
   },
   {
     "id": 11002,
-    "pdm": "PONTE DE EMBARQUE / DESEMBARQUE PARA AEROPORTO"
+    "pdm": "PONTE DE EMBARQUE / DESEMBARQUE PARA AEROPORTO",
+    "grupo": 39
   },
   {
     "id": 11004,
-    "pdm": "PONTE ROLANTE PE«AS/ACESS”RIOS"
+    "pdm": "PONTE ROLANTE PE√áAS/ACESS√ìRIOS",
+    "grupo": 39
   },
   {
     "id": 11006,
-    "pdm": "PONTE ROLANTE"
+    "pdm": "PONTE ROLANTE",
+    "grupo": 39
   },
   {
     "id": 11007,
-    "pdm": "PONTE ROLANTE ACIMA DE 30 T"
+    "pdm": "PONTE ROLANTE ACIMA DE 30 T",
+    "grupo": 39
   },
   {
     "id": 11008,
-    "pdm": "PONTE ROLANTE ATE 30 T INCLUSIVE"
+    "pdm": "PONTE ROLANTE ATE 30 T INCLUSIVE",
+    "grupo": 39
   },
   {
     "id": 11009,
-    "pdm": "PONTE ROLANTE PARA AREA CLASSIFICADA"
+    "pdm": "PONTE ROLANTE PARA AREA CLASSIFICADA",
+    "grupo": 39
   },
   {
     "id": 11100,
-    "pdm": "PORTICO ACIMA DE 30 T"
+    "pdm": "PORTICO ACIMA DE 30 T",
+    "grupo": 39
   },
   {
     "id": 11101,
-    "pdm": "PORTICO ATE 30 T INCLUSIVE"
+    "pdm": "PORTICO ATE 30 T INCLUSIVE",
+    "grupo": 39
   },
   {
     "id": 11409,
-    "pdm": "RAMPA"
+    "pdm": "RAMPA",
+    "grupo": 39
   },
   {
     "id": 11447,
-    "pdm": "REBOQUE ( TRAILER ) - TRANSPORTE EXPLOSIVO"
+    "pdm": "REBOQUE ( TRAILER ) - TRANSPORTE EXPLOSIVO",
+    "grupo": 39
   },
   {
     "id": 11448,
-    "pdm": "REBOQUE - ARMAZEM"
+    "pdm": "REBOQUE - ARMAZEM",
+    "grupo": 39
   },
   {
     "id": 11511,
-    "pdm": "REDE TRANSPORTE CARGA"
+    "pdm": "REDE TRANSPORTE CARGA",
+    "grupo": 39
   },
   {
     "id": 11771,
-    "pdm": "RODA CARRO TRANSPORTE MATERIAL"
+    "pdm": "RODA CARRO TRANSPORTE MATERIAL",
+    "grupo": 39
   },
   {
     "id": 11950,
-    "pdm": "SARILHO"
+    "pdm": "SARILHO",
+    "grupo": 39
   },
   {
     "id": 12102,
-    "pdm": "SISTEMA ARMAZENAMENTO AUTOMATICO"
+    "pdm": "SISTEMA ARMAZENAMENTO AUTOMATICO",
+    "grupo": 39
   },
   {
     "id": 12491,
-    "pdm": "TALHA"
+    "pdm": "TALHA",
+    "grupo": 39
   },
   {
     "id": 12492,
-    "pdm": "TALHA DE GUINCHO"
+    "pdm": "TALHA DE GUINCHO",
+    "grupo": 39
   },
   {
     "id": 12494,
-    "pdm": "TALHA EL…TRICA"
+    "pdm": "TALHA EL√âTRICA",
+    "grupo": 39
   },
   {
     "id": 12495,
-    "pdm": "TALHA MANUAL"
+    "pdm": "TALHA MANUAL",
+    "grupo": 39
   },
   {
     "id": 12496,
-    "pdm": "TALHA MOTORIZADA A COMBUSTIVEL"
+    "pdm": "TALHA MOTORIZADA A COMBUSTIVEL",
+    "grupo": 39
   },
   {
     "id": 12721,
-    "pdm": "TIRFOR ALAVANCA"
+    "pdm": "TIRFOR ALAVANCA",
+    "grupo": 39
   },
   {
     "id": 12914,
-    "pdm": "TRANSPORTADOR ALIMENTADOR"
+    "pdm": "TRANSPORTADOR ALIMENTADOR",
+    "grupo": 39
   },
   {
     "id": 12915,
-    "pdm": "TRANSPORTADOR CACAMBA"
+    "pdm": "TRANSPORTADOR CACAMBA",
+    "grupo": 39
   },
   {
     "id": 12916,
-    "pdm": "TRANSPORTADOR CORREIA"
+    "pdm": "TRANSPORTADOR CORREIA",
+    "grupo": 39
   },
   {
     "id": 12917,
-    "pdm": "TRANSPORTADOR CORRENTE"
+    "pdm": "TRANSPORTADOR CORRENTE",
+    "grupo": 39
   },
   {
     "id": 12918,
-    "pdm": "TRANSPORTADOR ESTEIRA"
+    "pdm": "TRANSPORTADOR ESTEIRA",
+    "grupo": 39
   },
   {
     "id": 12919,
-    "pdm": "TRANSPORTADOR ROLETE"
+    "pdm": "TRANSPORTADOR ROLETE",
+    "grupo": 39
   },
   {
     "id": 12920,
-    "pdm": "TRANSPORTADOR DE ROLO MOTORIZADO"
+    "pdm": "TRANSPORTADOR DE ROLO MOTORIZADO",
+    "grupo": 39
   },
   {
     "id": 12921,
-    "pdm": "TRANSPORTADOR DE ROLO NAO MOTORIZADO"
+    "pdm": "TRANSPORTADOR DE ROLO NAO MOTORIZADO",
+    "grupo": 39
   },
   {
     "id": 12922,
-    "pdm": "TRANSPORTADOR EM TUBO PNEUMATICO"
+    "pdm": "TRANSPORTADOR EM TUBO PNEUMATICO",
+    "grupo": 39
   },
   {
     "id": 12923,
-    "pdm": "TRANSPORTADOR ESTACIONARIO"
+    "pdm": "TRANSPORTADOR ESTACIONARIO",
+    "grupo": 39
   },
   {
     "id": 12924,
-    "pdm": "TRANSPORTADOR MECANICO"
+    "pdm": "TRANSPORTADOR MECANICO",
+    "grupo": 39
   },
   {
     "id": 12925,
-    "pdm": "TRANSPORTADOR PORTATIL NAO MECANIZADO"
+    "pdm": "TRANSPORTADOR PORTATIL NAO MECANIZADO",
+    "grupo": 39
   },
   {
     "id": 12926,
-    "pdm": "TRANSPORTADOR VIBRATORIO"
+    "pdm": "TRANSPORTADOR VIBRATORIO",
+    "grupo": 39
   },
   {
     "id": 12932,
-    "pdm": "TRATOR DE ARMAZEM"
+    "pdm": "TRATOR DE ARMAZEM",
+    "grupo": 39
   },
   {
     "id": 13235,
-    "pdm": "VAGONETA"
+    "pdm": "VAGONETA",
+    "grupo": 39
   },
   {
     "id": 13501,
-    "pdm": "ZORRA DE ALMOXARIFADO"
+    "pdm": "ZORRA DE ALMOXARIFADO",
+    "grupo": 39
   },
   {
     "id": 13684,
-    "pdm": "EMPILHADEIRA"
+    "pdm": "EMPILHADEIRA",
+    "grupo": 39
   },
   {
     "id": 13692,
-    "pdm": "CARRO GUINDASTE"
+    "pdm": "CARRO GUINDASTE",
+    "grupo": 39
   },
   {
     "id": 14057,
-    "pdm": "CARRO EL…TRICO"
+    "pdm": "CARRO EL√âTRICO",
+    "grupo": 39
   },
   {
     "id": 14083,
-    "pdm": "CARRETA"
+    "pdm": "CARRETA",
+    "grupo": 39
   },
   {
     "id": 14719,
-    "pdm": "RODÕZIO FIXO"
+    "pdm": "ROD√çZIO FIXO",
+    "grupo": 39
   },
   {
     "id": 15037,
-    "pdm": "PLATAFORMA CARGA E DESCARGA"
+    "pdm": "PLATAFORMA CARGA E DESCARGA",
+    "grupo": 39
   },
   {
     "id": 15853,
-    "pdm": "RAMPA ARTICULADA"
+    "pdm": "RAMPA ARTICULADA",
+    "grupo": 39
   },
   {
     "id": 16077,
-    "pdm": "RODÕZIO GIRAT”RIO"
+    "pdm": "ROD√çZIO GIRAT√ìRIO",
+    "grupo": 39
   },
   {
     "id": 16395,
-    "pdm": "BARREIRA INFRAVERMELHA"
+    "pdm": "BARREIRA INFRAVERMELHA",
+    "grupo": 39
   },
   {
     "id": 16923,
-    "pdm": "TRANSPORTADORES"
+    "pdm": "TRANSPORTADORES",
+    "grupo": 39
   },
   {
     "id": 16924,
-    "pdm": "EQUIPAMENTOS ALIMENTADORES DE MATERIAIS-PRIMAS"
+    "pdm": "EQUIPAMENTOS ALIMENTADORES DE MATERIAIS-PRIMAS",
+    "grupo": 39
   },
   {
     "id": 16925,
-    "pdm": "EQUIPAMENTOS N√O AUTOPROPULSIONADO PARA MOVIMENTA«√O DE MA-TERIAIS"
+    "pdm": "EQUIPAMENTOS N√ÉO AUTOPROPULSIONADO PARA MOVIMENTA√á√ÉO DE MA-TERIAIS",
+    "grupo": 39
   },
   {
     "id": 16926,
-    "pdm": "VEÕCULOS AUTOPROPULSIONADOS"
+    "pdm": "VE√çCULOS AUTOPROPULSIONADOS",
+    "grupo": 39
   },
   {
     "id": 16927,
-    "pdm": "POLEAMES. TALHAS. MOIT’ES. MASSAMES E LINGAS"
+    "pdm": "POLEAMES. TALHAS. MOIT√ïES. MASSAMES E LINGAS",
+    "grupo": 39
   },
   {
     "id": 16928,
-    "pdm": "GUINCHOS. I«ADORES. GUINDASTES E C¡BREAS"
+    "pdm": "GUINCHOS. I√áADORES. GUINDASTES E C√ÅBREAS",
+    "grupo": 39
   },
   {
     "id": 16929,
-    "pdm": "ELEVADORES E ESCADAS ROLANTES"
+    "pdm": "ELEVADORES E ESCADAS ROLANTES",
+    "grupo": 39
   },
   {
     "id": 16930,
-    "pdm": "EQUIPAMENTOS DIVERSOS PARA MOVIMENTA«√O DE MATERIAIS"
+    "pdm": "EQUIPAMENTOS DIVERSOS PARA MOVIMENTA√á√ÉO DE MATERIAIS",
+    "grupo": 39
   },
   {
     "id": 17446,
-    "pdm": "PENTE PARA ESCADA ROLANTE"
+    "pdm": "PENTE PARA ESCADA ROLANTE",
+    "grupo": 39
   },
   {
     "id": 17969,
-    "pdm": "CARRO TRIP…"
+    "pdm": "CARRO TRIP√â",
+    "grupo": 39
   },
   {
     "id": 17989,
-    "pdm": "MESA VEDA«√O"
+    "pdm": "MESA VEDA√á√ÉO",
+    "grupo": 39
   },
   {
     "id": 17990,
-    "pdm": "MESA DE IMPACTO"
+    "pdm": "MESA DE IMPACTO",
+    "grupo": 39
   }
 ]
