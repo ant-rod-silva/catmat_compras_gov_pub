@@ -1,0 +1,766 @@
+[
+  {
+    "id": "01292",
+    "pdm": "SONDA PERFURAÇÃO",
+    "grupo": 38
+  },
+  {
+    "id": "01672",
+    "pdm": "ACESSÓRIO COLUNA PERFURAÇÃO POÇO PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": "02214",
+    "pdm": "ALARGADOR POÇO PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": "02923",
+    "pdm": "AQUECEDOR DE ASFALTO",
+    "grupo": 38
+  },
+  {
+    "id": "02924",
+    "pdm": "AQUECEDOR DE BETUME",
+    "grupo": 38
+  },
+  {
+    "id": "03440",
+    "pdm": "BATE - ESTACA",
+    "grupo": 38
+  },
+  {
+    "id": "03441",
+    "pdm": "BATE - ESTACA - UTILIZADO TANTO EM GUINDASTE QUAN-TO EM GUINDASTE - ESCAVADEIRA",
+    "grupo": 38
+  },
+  {
+    "id": "03592",
+    "pdm": "BLINDAGEM PROTEÇÃO PNEU",
+    "grupo": 38
+  },
+  {
+    "id": "03669",
+    "pdm": "BOLA GUINDASTE DESTRUIDOR",
+    "grupo": 38
+  },
+  {
+    "id": "03747",
+    "pdm": "BOMBA DE ASFALTO COM ACESSORIO DE DISTRIBUICAO",
+    "grupo": 38
+  },
+  {
+    "id": "03748",
+    "pdm": "BOMBA DE BOMBEAMENTO DE CONCRETO",
+    "grupo": 38
+  },
+  {
+    "id": "03820",
+    "pdm": "BORRIFICADOR CAMINHÃO IRRIGADOR",
+    "grupo": 38
+  },
+  {
+    "id": "03871",
+    "pdm": "BRITADEIRA",
+    "grupo": 38
+  },
+  {
+    "id": "03872",
+    "pdm": "BRITADOR",
+    "grupo": 38
+  },
+  {
+    "id": "03889",
+    "pdm": "BROCA PERFURAÇÃO POÇO PETRÓLEO EM ROCHA",
+    "grupo": 38
+  },
+  {
+    "id": "03890",
+    "pdm": "BROCA PERFURAÇÃO POÇO PETRÓLEO EM TERRENO",
+    "grupo": 38
+  },
+  {
+    "id": "03982",
+    "pdm": "CABEÇA POÇO",
+    "grupo": 38
+  },
+  {
+    "id": "03983",
+    "pdm": "CABEÇA POÇO PRODUÇÃO PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": "04064",
+    "pdm": "CAÇAMBA",
+    "grupo": 38
+  },
+  {
+    "id": "04065",
+    "pdm": "CACAMBA DE CAMINHAO",
+    "grupo": 38
+  },
+  {
+    "id": "04229",
+    "pdm": "CALDEIRA PRE - AQUECEDORA DE ASFALTO",
+    "grupo": 38
+  },
+  {
+    "id": "04359",
+    "pdm": "CAMINHÃO ASPERSOR",
+    "grupo": 38
+  },
+  {
+    "id": "04364",
+    "pdm": "CAMINHÃO BASCULANTE",
+    "grupo": 38
+  },
+  {
+    "id": "04365",
+    "pdm": "CAMINHAO ESPECIAL DE CONSTRUCAO PARA ARRASTO",
+    "grupo": 38
+  },
+  {
+    "id": "04366",
+    "pdm": "CAMINHAO ESPECIAL DE CONSTRUCAO PARA TRANSPORTE DE TERRA",
+    "grupo": 38
+  },
+  {
+    "id": "04566",
+    "pdm": "CARREGADEIRA ESPECIAL PARA TRANSPORTE DE TERRA ( FORA DE ESTRADA )",
+    "grupo": 38
+  },
+  {
+    "id": "04567",
+    "pdm": "CARREGADEIRA NIVELADORA",
+    "grupo": 38
+  },
+  {
+    "id": "04747",
+    "pdm": "CENTRAL DOSAGEM",
+    "grupo": 38
+  },
+  {
+    "id": "05371",
+    "pdm": "COLUNA ROTAÇÃO POÇO PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": "05386",
+    "pdm": "COMPACTADOR LISO TERRAPLENAGEM",
+    "grupo": 38
+  },
+  {
+    "id": "05387",
+    "pdm": "COMPACTADOR PE - DE - CARNEIRO",
+    "grupo": 38
+  },
+  {
+    "id": "05830",
+    "pdm": "CONVERSIVEL MONTADO SOBRE ESTEIRA",
+    "grupo": 38
+  },
+  {
+    "id": "05831",
+    "pdm": "CONVERSIVEL MONTADO SOBRE RODA",
+    "grupo": 38
+  },
+  {
+    "id": "06119",
+    "pdm": "DESTACADORA",
+    "grupo": 38
+  },
+  {
+    "id": "06349",
+    "pdm": "DISTRIBUIDOR DE ASFALTO",
+    "grupo": 38
+  },
+  {
+    "id": "06391",
+    "pdm": "DOSADOR DE EQUIPAMENTO DE TRANSFERENCIA DE ASFALTO",
+    "grupo": 38
+  },
+  {
+    "id": "06469",
+    "pdm": "ELETROIMA DE ICAR",
+    "grupo": 38
+  },
+  {
+    "id": "06474",
+    "pdm": "ELEVADOR DE ASFALTO",
+    "grupo": 38
+  },
+  {
+    "id": "06624",
+    "pdm": "EQUIPAMENTO / ACESSÓRIO - PERFURAÇÃO SOLO",
+    "grupo": 38
+  },
+  {
+    "id": "06626",
+    "pdm": "EQUIPAMENTO / ACESSÓRIO - BRITAGEM",
+    "grupo": 38
+  },
+  {
+    "id": "06629",
+    "pdm": "EQUIPAMENTO / ACESSÓRIO - PAVIMENTAÇÃO ASFÁLTICA",
+    "grupo": 38
+  },
+  {
+    "id": "06657",
+    "pdm": "EQUIPAMENTO DE ABRIR ESTRADA",
+    "grupo": 38
+  },
+  {
+    "id": "06660",
+    "pdm": "EQUIPAMENTO DE AMARRAR CABO",
+    "grupo": 38
+  },
+  {
+    "id": "06663",
+    "pdm": "EQUIPAMENTO BOMBEAMENTO PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": "06666",
+    "pdm": "EQUIPAMENTO CABEÇA POÇO PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": "06670",
+    "pdm": "EQUIPAMENTO COMPACTAÇÃO ASFALTO",
+    "grupo": 38
+  },
+  {
+    "id": "06686",
+    "pdm": "EQUIPAMENTO DISTRIBUIÇÃO GÁS",
+    "grupo": 38
+  },
+  {
+    "id": "06687",
+    "pdm": "EQUIPAMENTO DE EMENDAR CABO",
+    "grupo": 38
+  },
+  {
+    "id": "06706",
+    "pdm": "EQUIPAMENTO DE LANCAR CABO",
+    "grupo": 38
+  },
+  {
+    "id": "06707",
+    "pdm": "EQUIPAMENTO DE LIMPAR ESTRADA",
+    "grupo": 38
+  },
+  {
+    "id": "06718",
+    "pdm": "EQUIPAMENTO DE PEDREIRA",
+    "grupo": 38
+  },
+  {
+    "id": "06719",
+    "pdm": "EQUIPAMENTO PENEIRAÇÃO",
+    "grupo": 38
+  },
+  {
+    "id": "06720",
+    "pdm": "EQUIPAMENTO PERFURAÇÃO A PERCUSSÃO - INSERÇÃO",
+    "grupo": 38
+  },
+  {
+    "id": "06721",
+    "pdm": "PERFURATRIZ",
+    "grupo": 38
+  },
+  {
+    "id": "06722",
+    "pdm": "EQUIPAMENTO DE PERFURACAO ROTATIVA - INSERCAO DE EXPLOSIVO",
+    "grupo": 38
+  },
+  {
+    "id": "06731",
+    "pdm": "EQUIPAMENTO DE QUEBRAR PAVIMENTO ASFÁLTICO",
+    "grupo": 38
+  },
+  {
+    "id": "06748",
+    "pdm": "EQUIPAMENTO SEGERANÇA CONTRA FLUXO POÇO PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": "06755",
+    "pdm": "DEFLECTÔMETRO",
+    "grupo": 38
+  },
+  {
+    "id": "06756",
+    "pdm": "EQUIPAMENTO DE SONDA ROTATIVA ( PERFURACAO ROCHA )",
+    "grupo": 38
+  },
+  {
+    "id": "06763",
+    "pdm": "EQUIPAMENTO DE TORCER CABO",
+    "grupo": 38
+  },
+  {
+    "id": "06765",
+    "pdm": "EQUIPAMENTO DE TRANSFERENCIA DE ASFALTO",
+    "grupo": 38
+  },
+  {
+    "id": "06810",
+    "pdm": "EQUIPAMENTO PARA BOBINAR CABO",
+    "grupo": 38
+  },
+  {
+    "id": "06813",
+    "pdm": "EQUIPAMENTO PARA CLASSIFICACAO DE MINERAL",
+    "grupo": 38
+  },
+  {
+    "id": "06823",
+    "pdm": "EQUIPAMENTO ESCAVAÇÃO DE TERRA",
+    "grupo": 38
+  },
+  {
+    "id": "06833",
+    "pdm": "EQUIPAMENTO MOVIMENTAÇÃO DE TERRA",
+    "grupo": 38
+  },
+  {
+    "id": "06838",
+    "pdm": "EQUIPAMENTO PARA SEPARACAO DE MINERIO",
+    "grupo": 38
+  },
+  {
+    "id": "06914",
+    "pdm": "ESCARIFICADOR",
+    "grupo": 38
+  },
+  {
+    "id": "06915",
+    "pdm": "ESCAVADEIRA CONVERSÍVEL MONTADA SOBRE ESTEIRA",
+    "grupo": 38
+  },
+  {
+    "id": "06916",
+    "pdm": "ESCAVADEIRA CONVERSIVEL MONTADA SOBRE RODAS",
+    "grupo": 38
+  },
+  {
+    "id": "06917",
+    "pdm": "ESCAVADEIRA HIDRÁULICA",
+    "grupo": 38
+  },
+  {
+    "id": "06918",
+    "pdm": "ESCAVADEIRA TIPO CONSTRUCAO MANUAL",
+    "grupo": 38
+  },
+  {
+    "id": "07390",
+    "pdm": "FERRAMENTA MANUSEIO COLUNA PERFURAÇÃO POÇO PETRÓLE",
+    "grupo": 38
+  },
+  {
+    "id": "07728",
+    "pdm": "FORMA PARA CORPO DE PROVA PARA CONCRETO",
+    "grupo": 38
+  },
+  {
+    "id": "08129",
+    "pdm": "GUIA DE CABO DE ARRASTO",
+    "grupo": 38
+  },
+  {
+    "id": "08139",
+    "pdm": "GUINCHO DE CAMINHÃO REBOQUE",
+    "grupo": 38
+  },
+  {
+    "id": "08140",
+    "pdm": "GUINCHO DE TRATOR",
+    "grupo": 38
+  },
+  {
+    "id": "08142",
+    "pdm": "GUINCHO PARA MONTAGEM EM REBOQUES",
+    "grupo": 38
+  },
+  {
+    "id": "08145",
+    "pdm": "GUINDASTE - PEÇA / ACESSÓRIO",
+    "grupo": 38
+  },
+  {
+    "id": "08146",
+    "pdm": "GUINDASTE AUTO - PROPELIDO",
+    "grupo": 38
+  },
+  {
+    "id": "08147",
+    "pdm": "GUINDASTE CONVERSIVEL MONTADO SOBRE ESTEIRA",
+    "grupo": 38
+  },
+  {
+    "id": "08148",
+    "pdm": "GUINDASTE CONVERSIVEL MONTADO SOBRE RODA",
+    "grupo": 38
+  },
+  {
+    "id": "08151",
+    "pdm": "GUINDASTE DE TRATOR",
+    "grupo": 38
+  },
+  {
+    "id": "08152",
+    "pdm": "GUINDASTE DE USO EM CONSTRUCAO PREDIAL",
+    "grupo": 38
+  },
+  {
+    "id": "08159",
+    "pdm": "GUINDASTE MOVEL NAO CONVERSIVEL",
+    "grupo": 38
+  },
+  {
+    "id": "08161",
+    "pdm": "GUINDASTE VEICULAR",
+    "grupo": 38
+  },
+  {
+    "id": "08303",
+    "pdm": "IMPLEMENTO PARA MONTAGEM EM CAMINHAO",
+    "grupo": 38
+  },
+  {
+    "id": "08402",
+    "pdm": "INSTRUMENTO SONDA PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": "08409",
+    "pdm": "INSTRUMENTO ESPECIAL PRODUÇÃO E ESTIMULAÇÃO POÇO P",
+    "grupo": 38
+  },
+  {
+    "id": "08622",
+    "pdm": "LÂMINA TRATOR",
+    "grupo": 38
+  },
+  {
+    "id": "08680",
+    "pdm": "LANCA DE GUINDASTE",
+    "grupo": 38
+  },
+  {
+    "id": "09143",
+    "pdm": "MAQUINA ACABADORA ASFALTICA",
+    "grupo": 38
+  },
+  {
+    "id": "09210",
+    "pdm": "MAQUINA DE MARCAR ESTRADA",
+    "grupo": 38
+  },
+  {
+    "id": "09392",
+    "pdm": "MARTELO HIDRÁULICO",
+    "grupo": 38
+  },
+  {
+    "id": "09395",
+    "pdm": "MARTELO - PILAO DE QUEDA LIVRE",
+    "grupo": 38
+  },
+  {
+    "id": "09440",
+    "pdm": "MATERIAL BOMBEIO CAVIDADE PROGRESSIVA (BCP) - PETR",
+    "grupo": 38
+  },
+  {
+    "id": "09441",
+    "pdm": "MATERIAL DE BOMBEIO CENTRÍFUGO SUBMERSO (BCS) - PE",
+    "grupo": 38
+  },
+  {
+    "id": "09442",
+    "pdm": "MATERIAL BOMBEIO MECÂNICO CONVENCIONAL DE PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": "09443",
+    "pdm": "MATERIAL BOMBEIO PNEUMÁTICO (GÁS LIFT) - PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": "09446",
+    "pdm": "MATERIAL COMPLETAÇÃO POÇO PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": "09449",
+    "pdm": "MATERIAL PERFURAÇÃO UTILIZADA EM CABEÇA DE POÇO",
+    "grupo": 38
+  },
+  {
+    "id": "09450",
+    "pdm": "MATERIAL PRODUÇÃO PARA POÇO SUBMARINO",
+    "grupo": 38
+  },
+  {
+    "id": "09451",
+    "pdm": "MATERIAL PRODUÇÃO UTILIZADA EM CABEÇA DE POÇO",
+    "grupo": 38
+  },
+  {
+    "id": "09457",
+    "pdm": "MATERIAL DE SUPERFÍCIE COMPLETAÇÃO POÇO PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": "09459",
+    "pdm": "MATERIAL ESPECIAL PARA UNIDADE PERFURAÇÃO FLUTUANT",
+    "grupo": 38
+  },
+  {
+    "id": "09483",
+    "pdm": "MATERIAL PARA DESVIO POÇO PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": "09487",
+    "pdm": "MATERIAL OPERAÇÃO COM ARAME E DESPARAFINAÇÃO MECÂN",
+    "grupo": 38
+  },
+  {
+    "id": "09489",
+    "pdm": "MATERIAL PERFURAÇÃO PARA CABEÇA POÇO SUBMARINO",
+    "grupo": 38
+  },
+  {
+    "id": "09795",
+    "pdm": "MISTURADOR / AMASSADEIRA",
+    "grupo": 38
+  },
+  {
+    "id": "09796",
+    "pdm": "BETONEIRA",
+    "grupo": 38
+  },
+  {
+    "id": "09949",
+    "pdm": "MOTONIVELADORA",
+    "grupo": 38
+  },
+  {
+    "id": "09950",
+    "pdm": "LÂMINA MOTONIVELADORA",
+    "grupo": 38
+  },
+  {
+    "id": 10267,
+    "pdm": "CARREGADEIRA",
+    "grupo": 38
+  },
+  {
+    "id": 10275,
+    "pdm": "PA - MECANICA",
+    "grupo": 38
+  },
+  {
+    "id": 10278,
+    "pdm": "FIXADOR CRUZETA CARDÃ",
+    "grupo": 38
+  },
+  {
+    "id": 10514,
+    "pdm": "BETUMADEIRA",
+    "grupo": 38
+  },
+  {
+    "id": 10515,
+    "pdm": "PAVIMENTADOR DE CONCRETO",
+    "grupo": 38
+  },
+  {
+    "id": 10523,
+    "pdm": "PEÇA / COMPONENTE - COMPACTADOR SOLO E ASFALTO",
+    "grupo": 38
+  },
+  {
+    "id": 10644,
+    "pdm": "PERA DE GUINDASTE",
+    "grupo": 38
+  },
+  {
+    "id": 11323,
+    "pdm": "PROTETOR PARA DESCONTROLE DO POÇO PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": 11368,
+    "pdm": "CORTADOR CONCRETO / ROCHA",
+    "grupo": 38
+  },
+  {
+    "id": 11416,
+    "pdm": "MOTO-RASPO-TRANSPORTADOR",
+    "grupo": 38
+  },
+  {
+    "id": 11460,
+    "pdm": "REBOQUE ESPECIAL DE CONSTRUCAO - TRANSPORTE DE TERRA",
+    "grupo": 38
+  },
+  {
+    "id": 11461,
+    "pdm": "REBOQUE ESPECIAL DE CONSTRUCAO PARA ARRASTO",
+    "grupo": 38
+  },
+  {
+    "id": 11462,
+    "pdm": "REBOQUE ESPECIAL DE CONSTRUCAO PARA ROCHA ( TRANSPORTADOR BASCULANTE DO TIPO FORA DE ESTRADA )",
+    "grupo": 38
+  },
+  {
+    "id": 11635,
+    "pdm": "REMOVEDOR DE NEVE / GRANIZO EM ESTRADA",
+    "grupo": 38
+  },
+  {
+    "id": 11726,
+    "pdm": "RETROESCAVADEIRA",
+    "grupo": 38
+  },
+  {
+    "id": 11785,
+    "pdm": "ROLADOR DE CARGA - ESTEIRA",
+    "grupo": 38
+  },
+  {
+    "id": 11821,
+    "pdm": "ROLO [ PE DE CARNEIRO ] / ESCARIFICADOR",
+    "grupo": 38
+  },
+  {
+    "id": 11824,
+    "pdm": "ROLO DE VASSOURA",
+    "grupo": 38
+  },
+  {
+    "id": 12935,
+    "pdm": "TRATOR MOVIMENTAÇÃO ROCHA",
+    "grupo": 38
+  },
+  {
+    "id": 12939,
+    "pdm": "TRATOR MOVIMENTAÇÃO TERRA",
+    "grupo": 38
+  },
+  {
+    "id": 13203,
+    "pdm": "USINA DE ASFALTO",
+    "grupo": 38
+  },
+  {
+    "id": 13204,
+    "pdm": "USINA DE BRITAGEM",
+    "grupo": 38
+  },
+  {
+    "id": 13205,
+    "pdm": "USINA DE SOLO CIMENTO",
+    "grupo": 38
+  },
+  {
+    "id": 13239,
+    "pdm": "VALETADEIRA",
+    "grupo": 38
+  },
+  {
+    "id": 13313,
+    "pdm": "VARREDEIRA",
+    "grupo": 38
+  },
+  {
+    "id": 13328,
+    "pdm": "VASSOURA MECANICA - PEÇAS E ACESSÓRIOS",
+    "grupo": 38
+  },
+  {
+    "id": 13420,
+    "pdm": "VIBRADOR CONCRETO",
+    "grupo": 38
+  },
+  {
+    "id": 14554,
+    "pdm": "BROCA TRICÔNICA",
+    "grupo": 38
+  },
+  {
+    "id": 14629,
+    "pdm": "BITS DE PERFURAÇÃO",
+    "grupo": 38
+  },
+  {
+    "id": 16915,
+    "pdm": "EQUIPAMENTOS PARA MOVIMENTAÇÃO E ESCAVAÇÃO DE TERRA",
+    "grupo": 38
+  },
+  {
+    "id": 16916,
+    "pdm": "GUINDASTES E ESCAVADEIRAS",
+    "grupo": 38
+  },
+  {
+    "id": 16917,
+    "pdm": "ACESSÓRIOS PARA GUINDASTES E ESCAVADEIRAS",
+    "grupo": 38
+  },
+  {
+    "id": 16918,
+    "pdm": "PEÇA/COMPONENTE AMOSTRADOR SOLO",
+    "grupo": 38
+  },
+  {
+    "id": 16919,
+    "pdm": "EQUIPAMENTO DE DESOBSTRUÇÃO E LIMPEZA DE ESTRADAS",
+    "grupo": 38
+  },
+  {
+    "id": 16920,
+    "pdm": "ACESSÓRIOS PARA CAMINHÕES E TRATORES",
+    "grupo": 38
+  },
+  {
+    "id": 16921,
+    "pdm": "EQUIPAMENTO PARA PRODUÇÃO E DISTRIBUIÇÃO DE PETRÓLEO",
+    "grupo": 38
+  },
+  {
+    "id": 16922,
+    "pdm": "PEÇAS / ACESSÓRIOS BETONEIRA",
+    "grupo": 38
+  },
+  {
+    "id": 17431,
+    "pdm": "MOINHO DE BOLAS",
+    "grupo": 38
+  },
+  {
+    "id": 17641,
+    "pdm": "PERCURSOR",
+    "grupo": 38
+  },
+  {
+    "id": 18335,
+    "pdm": "MASSEIRA PARA ARGAMASSA",
+    "grupo": 38
+  },
+  {
+    "id": 18342,
+    "pdm": "BROCA ARRASTE",
+    "grupo": 38
+  },
+  {
+    "id": 19092,
+    "pdm": "MISTURADOR"
+  }
+]
