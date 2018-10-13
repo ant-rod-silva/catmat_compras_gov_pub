@@ -1,574 +1,717 @@
 [
   {
     "id": "00270",
-    "pdm": "REFRIGERADOR ALIMENTOS"
+    "pdm": "REFRIGERADOR ALIMENTOS",
+    "grupo": 41
   },
   {
     "id": "00687",
-    "pdm": "AR CONDICIONADO PORT¡TIL"
+    "pdm": "AR CONDICIONADO PORT√ÅTIL",
+    "grupo": 41
   },
   {
     "id": "00688",
-    "pdm": "VENTILADOR TETO"
+    "pdm": "VENTILADOR TETO",
+    "grupo": 41
   },
   {
     "id": "00703",
-    "pdm": "COIFA"
+    "pdm": "COIFA",
+    "grupo": 41
   },
   {
     "id": "00704",
-    "pdm": "EXAUSTOR"
+    "pdm": "EXAUSTOR",
+    "grupo": 41
   },
   {
     "id": "00705",
-    "pdm": "EXAUSTOR CENTRÕFUGO"
+    "pdm": "EXAUSTOR CENTR√çFUGO",
+    "grupo": 41
   },
   {
     "id": "00706",
-    "pdm": "H…LICE VENTILADOR"
+    "pdm": "H√âLICE VENTILADOR",
+    "grupo": 41
   },
   {
     "id": "00707",
-    "pdm": "VENTILADOR AXIAL"
+    "pdm": "VENTILADOR AXIAL",
+    "grupo": 41
   },
   {
     "id": "00708",
-    "pdm": "DEPURADOR/EXAUSTOR AR"
+    "pdm": "DEPURADOR/EXAUSTOR AR",
+    "grupo": 41
   },
   {
     "id": "00710",
-    "pdm": "VENTILADOR"
+    "pdm": "VENTILADOR",
+    "grupo": 41
   },
   {
     "id": "00718",
-    "pdm": "AR CONDICIONADO CENTRAL"
+    "pdm": "AR CONDICIONADO CENTRAL",
+    "grupo": 41
   },
   {
     "id": "00763",
-    "pdm": "BALC√O FRIGORÕFICO"
+    "pdm": "BALC√ÉO FRIGOR√çFICO",
+    "grupo": 41
   },
   {
     "id": "00783",
-    "pdm": "FREEZER"
+    "pdm": "FREEZER",
+    "grupo": 41
   },
   {
     "id": "00784",
-    "pdm": "FRIGOBAR"
+    "pdm": "FRIGOBAR",
+    "grupo": 41
   },
   {
     "id": "00785",
-    "pdm": "REFRIGERADOR DUPLEX"
+    "pdm": "REFRIGERADOR DUPLEX",
+    "grupo": 41
   },
   {
     "id": "02739",
-    "pdm": "APARELHO DE REFRIGERA«√O"
+    "pdm": "APARELHO DE REFRIGERA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": "02938",
-    "pdm": "ACOPLAMENTO EL¡STICO"
+    "pdm": "ACOPLAMENTO EL√ÅSTICO",
+    "grupo": 41
   },
   {
     "id": "02939",
-    "pdm": "BOBINA V¡LVULA SOLEN”IDE"
+    "pdm": "BOBINA V√ÅLVULA SOLEN√ìIDE",
+    "grupo": 41
   },
   {
     "id": "02940",
-    "pdm": "AR CONDICIONADO - COMPRESSOR"
+    "pdm": "AR CONDICIONADO - COMPRESSOR",
+    "grupo": 41
   },
   {
     "id": "02941",
-    "pdm": "AR CONDICIONADO - DEFLETOR"
+    "pdm": "AR CONDICIONADO - DEFLETOR",
+    "grupo": 41
   },
   {
     "id": "02942",
-    "pdm": "AR CONDICIONADO - DIFUSOR"
+    "pdm": "AR CONDICIONADO - DIFUSOR",
+    "grupo": 41
   },
   {
     "id": "02943",
-    "pdm": "AR CONDICIONADO - EMBARCACAO"
+    "pdm": "AR CONDICIONADO - EMBARCACAO",
+    "grupo": 41
   },
   {
     "id": "02944",
-    "pdm": "AR CONDICIONADO - FILTRO REFRIGERA«√O"
+    "pdm": "AR CONDICIONADO - FILTRO REFRIGERA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": "02945",
-    "pdm": "AR CONDICIONADO - H…LICE"
+    "pdm": "AR CONDICIONADO - H√âLICE",
+    "grupo": 41
   },
   {
     "id": "02946",
-    "pdm": "PROTETOR"
+    "pdm": "PROTETOR",
+    "grupo": 41
   },
   {
     "id": "02947",
-    "pdm": "AR CONDICIONADO - VEÕCULO"
+    "pdm": "AR CONDICIONADO - VE√çCULO",
+    "grupo": 41
   },
   {
     "id": "02948",
-    "pdm": "AR CONDICIONADO / REFRIGERA«√O - DUTO"
+    "pdm": "AR CONDICIONADO / REFRIGERA√á√ÉO - DUTO",
+    "grupo": 41
   },
   {
     "id": "02949",
-    "pdm": "AR CONDICIONADO / REFRIGERA«√O - TROCADOR CALOR"
+    "pdm": "AR CONDICIONADO / REFRIGERA√á√ÉO - TROCADOR CALOR",
+    "grupo": 41
   },
   {
     "id": "02950",
-    "pdm": "AR CONDICIONADO / REFRIGERA«√O - TUBULA«√O"
+    "pdm": "AR CONDICIONADO / REFRIGERA√á√ÉO - TUBULA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": "02951",
-    "pdm": "AR CONDICIONADO / REFRIGERA«√O - UNIDADE CARGA"
+    "pdm": "AR CONDICIONADO / REFRIGERA√á√ÉO - UNIDADE CARGA",
+    "grupo": 41
   },
   {
     "id": "02952",
-    "pdm": "AR CONDICIONADO / REFRIGERA«√O - UNIDADE TESTE"
+    "pdm": "AR CONDICIONADO / REFRIGERA√á√ÉO - UNIDADE TESTE",
+    "grupo": 41
   },
   {
     "id": "02953",
-    "pdm": "EQUIPAMENTO ¡GUA GELADA - UNIDADE CLIMATIZADORA"
+    "pdm": "EQUIPAMENTO √ÅGUA GELADA - UNIDADE CLIMATIZADORA",
+    "grupo": 41
   },
   {
     "id": "03489",
-    "pdm": "BEBEDOURO ¡GUA"
+    "pdm": "BEBEDOURO √ÅGUA",
+    "grupo": 41
   },
   {
     "id": "03492",
-    "pdm": "BEBEDOURO ¡GUA GARRAF√O"
+    "pdm": "BEBEDOURO √ÅGUA GARRAF√ÉO",
+    "grupo": 41
   },
   {
     "id": "04346",
-    "pdm": "C¬MARA FRIGORÕFICA MORTU¡RIA"
+    "pdm": "C√ÇMARA FRIGOR√çFICA MORTU√ÅRIA",
+    "grupo": 41
   },
   {
     "id": "04444",
-    "pdm": "CAPA DE CIRCULADOR DE AR TIPO DOMESTICO"
+    "pdm": "CAPA DE CIRCULADOR DE AR TIPO DOMESTICO",
+    "grupo": 41
   },
   {
     "id": "04450",
-    "pdm": "CAPA PARA VENTILADOR"
+    "pdm": "CAPA PARA VENTILADOR",
+    "grupo": 41
   },
   {
     "id": "04748",
-    "pdm": "CAIXA VENTILA«√O"
+    "pdm": "CAIXA VENTILA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": "05045",
-    "pdm": "CIRCULADOR DE AR DE PEDESTAL"
+    "pdm": "CIRCULADOR DE AR DE PEDESTAL",
+    "grupo": 41
   },
   {
     "id": "05046",
-    "pdm": "CIRCULADOR AR"
+    "pdm": "CIRCULADOR AR",
+    "grupo": 41
   },
   {
     "id": "05047",
-    "pdm": "CIRCULADOR DE AR NAO INDUSTRIAL"
+    "pdm": "CIRCULADOR DE AR NAO INDUSTRIAL",
+    "grupo": 41
   },
   {
     "id": "05048",
-    "pdm": "CIRCULADOR INDUSTRIAL DE AR"
+    "pdm": "CIRCULADOR INDUSTRIAL DE AR",
+    "grupo": 41
   },
   {
     "id": "05462",
-    "pdm": "COMPONENTE OPERATIVO - UNIDADE REFRIGERA«√O"
+    "pdm": "COMPONENTE OPERATIVO - UNIDADE REFRIGERA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": "05501",
-    "pdm": "COMPRESSOR REFRIGERA«√O"
+    "pdm": "COMPRESSOR REFRIGERA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": "05632",
-    "pdm": "CONGELADOR EL…TRICO / N√O EL…TRICO"
+    "pdm": "CONGELADOR EL√âTRICO / N√ÉO EL√âTRICO",
+    "grupo": 41
   },
   {
     "id": "05642",
-    "pdm": "CONJUNTO C¬MARA FRIA"
+    "pdm": "CONJUNTO C√ÇMARA FRIA",
+    "grupo": 41
   },
   {
     "id": "05771",
-    "pdm": "CONJUNTO REFRIGERA«√O LÕQUIDO"
+    "pdm": "CONJUNTO REFRIGERA√á√ÉO L√çQUIDO",
+    "grupo": 41
   },
   {
     "id": "05813",
-    "pdm": "CONTROLADOR ELETROMECANICO"
+    "pdm": "CONTROLADOR ELETROMECANICO",
+    "grupo": 41
   },
   {
     "id": "05817",
-    "pdm": "CONTROLADOR ELETRONICO MICROPROCESSADO"
+    "pdm": "CONTROLADOR ELETRONICO MICROPROCESSADO",
+    "grupo": 41
   },
   {
     "id": "06411",
-    "pdm": "DUMPER"
+    "pdm": "DUMPER",
+    "grupo": 41
   },
   {
     "id": "06544",
-    "pdm": "ENCANAMENTO AR CONDICIONADO E REFRIGERA«√O"
+    "pdm": "ENCANAMENTO AR CONDICIONADO E REFRIGERA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": "06635",
-    "pdm": "EQUIPAMENTO / COMPONENTE - REFRIGERA«√O"
+    "pdm": "EQUIPAMENTO / COMPONENTE - REFRIGERA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": "07238",
-    "pdm": "CONJUNTO EXAUSTOR"
+    "pdm": "CONJUNTO EXAUSTOR",
+    "grupo": 41
   },
   {
     "id": "07476",
-    "pdm": "FILTRO REFRIGERA«√O"
+    "pdm": "FILTRO REFRIGERA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": "07480",
-    "pdm": "FILTRO SISTEMA REFRIGERA«√O"
+    "pdm": "FILTRO SISTEMA REFRIGERA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": "07829",
-    "pdm": "FREEZER PARA BAIXAS TEMPERATURAS - HOSPITAL / BAN CO DE SANGUE / LABORATORIO / LATICINIO"
+    "pdm": "FREEZER PARA BAIXAS TEMPERATURAS - HOSPITAL / BAN CO DE SANGUE / LABORATORIO / LATICINIO",
+    "grupo": 41
   },
   {
     "id": "08426",
-    "pdm": "INSUFLADOR AR EST…RIL"
+    "pdm": "INSUFLADOR AR EST√âRIL",
+    "grupo": 41
   },
   {
     "id": "08529",
-    "pdm": "JATO VENTILADOR"
+    "pdm": "JATO VENTILADOR",
+    "grupo": 41
   },
   {
     "id": "09197",
-    "pdm": "M¡QUINA FABRICAR GELO"
+    "pdm": "M√ÅQUINA FABRICAR GELO",
+    "grupo": 41
   },
   {
     "id": "09256",
-    "pdm": "MAQUINA FABRICAR / COMPONENTE - GELO"
+    "pdm": "MAQUINA FABRICAR / COMPONENTE - GELO",
+    "grupo": 41
   },
   {
     "id": "09917",
-    "pdm": "MOSTRUARIO REFRIGERADO DE MERCADORIA"
+    "pdm": "MOSTRUARIO REFRIGERADO DE MERCADORIA",
+    "grupo": 41
   },
   {
     "id": 10527,
-    "pdm": "PE«A / COMPONENTE - REFRIGERADOR"
+    "pdm": "PE√áA / COMPONENTE - REFRIGERADOR",
+    "grupo": 41
   },
   {
     "id": 10557,
-    "pdm": "PECA/COMPONENTE - COMPRESSOR REFRIGERACAO"
+    "pdm": "PECA/COMPONENTE - COMPRESSOR REFRIGERACAO",
+    "grupo": 41
   },
   {
     "id": 11536,
-    "pdm": "REFRIGERADOR A GAS"
+    "pdm": "REFRIGERADOR A GAS",
+    "grupo": 41
   },
   {
     "id": 11537,
-    "pdm": "REFRIGERADOR CIENTIFICO"
+    "pdm": "REFRIGERADOR CIENTIFICO",
+    "grupo": 41
   },
   {
     "id": 11538,
-    "pdm": "REFRIGERADOR COMERCIAL"
+    "pdm": "REFRIGERADOR COMERCIAL",
+    "grupo": 41
   },
   {
     "id": 11539,
-    "pdm": "REFRIGERADOR DE LABORAT”RIO"
+    "pdm": "REFRIGERADOR DE LABORAT√ìRIO",
+    "grupo": 41
   },
   {
     "id": 11540,
-    "pdm": "REFRIGERADOR DE MATERIAL FOTOGRAFICO"
+    "pdm": "REFRIGERADOR DE MATERIAL FOTOGRAFICO",
+    "grupo": 41
   },
   {
     "id": 11541,
-    "pdm": "REFRIGERADOR INDUSTRIAL"
+    "pdm": "REFRIGERADOR INDUSTRIAL",
+    "grupo": 41
   },
   {
     "id": 11986,
-    "pdm": "SELF CONTAINED"
+    "pdm": "SELF CONTAINED",
+    "grupo": 41
   },
   {
     "id": 12030,
-    "pdm": "SERPENTINA DE COBRE"
+    "pdm": "SERPENTINA DE COBRE",
+    "grupo": 41
   },
   {
     "id": 12117,
-    "pdm": "SISTEMA DE EQUIPAMENTO DA CLASSE 4110"
+    "pdm": "SISTEMA DE EQUIPAMENTO DA CLASSE 4110",
+    "grupo": 41
   },
   {
     "id": 12277,
-    "pdm": "SORVETEIRA"
+    "pdm": "SORVETEIRA",
+    "grupo": 41
   },
   {
     "id": 12405,
-    "pdm": "C¬MARA FRIGORÕFICA"
+    "pdm": "C√ÇMARA FRIGOR√çFICA",
+    "grupo": 41
   },
   {
     "id": 12845,
-    "pdm": "TORRE DE REFRIGERACAO"
+    "pdm": "TORRE DE REFRIGERACAO",
+    "grupo": 41
   },
   {
     "id": 13011,
-    "pdm": "TROCADOR DE CALOR PARA REFRIGERACAO"
+    "pdm": "TROCADOR DE CALOR PARA REFRIGERACAO",
+    "grupo": 41
   },
   {
     "id": 13012,
-    "pdm": "TROCADOR DE CALOR TIPO REFRIGERACAO"
+    "pdm": "TROCADOR DE CALOR TIPO REFRIGERACAO",
+    "grupo": 41
   },
   {
     "id": 13144,
-    "pdm": "UMIDIFICADOR E PURIFICADOR AMBIENTE"
+    "pdm": "UMIDIFICADOR E PURIFICADOR AMBIENTE",
+    "grupo": 41
   },
   {
     "id": 13299,
-    "pdm": "VAPORIZADOR DE AMBIENTE"
+    "pdm": "VAPORIZADOR DE AMBIENTE",
+    "grupo": 41
   },
   {
     "id": 13373,
-    "pdm": "VENTILADOR DE EMBARCACAO"
+    "pdm": "VENTILADOR DE EMBARCACAO",
+    "grupo": 41
   },
   {
     "id": 13375,
-    "pdm": "VENTILADOR DE SOTAO ( RESPIRADOURO )"
+    "pdm": "VENTILADOR DE SOTAO ( RESPIRADOURO )",
+    "grupo": 41
   },
   {
     "id": 13376,
-    "pdm": "VENTILADOR INDUSTRIAL"
+    "pdm": "VENTILADOR INDUSTRIAL",
+    "grupo": 41
   },
   {
     "id": 13377,
-    "pdm": "MOTOVENTILADOR"
+    "pdm": "MOTOVENTILADOR",
+    "grupo": 41
   },
   {
     "id": 13380,
-    "pdm": "VENTOINHA"
+    "pdm": "VENTOINHA",
+    "grupo": 41
   },
   {
     "id": 13530,
-    "pdm": "REFIL"
+    "pdm": "REFIL",
+    "grupo": 41
   },
   {
     "id": 13559,
-    "pdm": "EQUIPAMENTO DE REFRIGERA«√O"
+    "pdm": "EQUIPAMENTO DE REFRIGERA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": 13629,
-    "pdm": "REFRIGERADOR DOM…STICO"
+    "pdm": "REFRIGERADOR DOM√âSTICO",
+    "grupo": 41
   },
   {
     "id": 13644,
-    "pdm": "VENTILADOR / EXAUSTOR AXIAL - PE«A / ACESS”RIO"
+    "pdm": "VENTILADOR / EXAUSTOR AXIAL - PE√áA / ACESS√ìRIO",
+    "grupo": 41
   },
   {
     "id": 13768,
-    "pdm": "APARELHO AR CONDICIONADO"
+    "pdm": "APARELHO AR CONDICIONADO",
+    "grupo": 41
   },
   {
     "id": 13939,
-    "pdm": "CONJUNTO MANIFOLD"
+    "pdm": "CONJUNTO MANIFOLD",
+    "grupo": 41
   },
   {
     "id": 13940,
-    "pdm": "ESTA«√O CARGA REFRIGERA«√O"
+    "pdm": "ESTA√á√ÉO CARGA REFRIGERA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": 14026,
-    "pdm": "ENCHIMENTO DE CONTATO"
+    "pdm": "ENCHIMENTO DE CONTATO",
+    "grupo": 41
   },
   {
     "id": 14049,
-    "pdm": "FREEZER HORIZONTAL"
+    "pdm": "FREEZER HORIZONTAL",
+    "grupo": 41
   },
   {
     "id": 14072,
-    "pdm": "FREEZER VERTICAL"
+    "pdm": "FREEZER VERTICAL",
+    "grupo": 41
   },
   {
     "id": 14120,
-    "pdm": "VENTILADOR DE TETO"
+    "pdm": "VENTILADOR DE TETO",
+    "grupo": 41
   },
   {
     "id": 14161,
-    "pdm": "R…GUA EVAPORADORA ¡GUA"
+    "pdm": "R√âGUA EVAPORADORA √ÅGUA",
+    "grupo": 41
   },
   {
     "id": 14437,
-    "pdm": "REFRIGERADOR EXPOSITOR"
+    "pdm": "REFRIGERADOR EXPOSITOR",
+    "grupo": 41
   },
   {
     "id": 14565,
-    "pdm": "AR CONDICIONADO-APARELHO"
+    "pdm": "AR CONDICIONADO-APARELHO",
+    "grupo": 41
   },
   {
     "id": 14611,
-    "pdm": "VENTILADOR TIPO TORRE"
+    "pdm": "VENTILADOR TIPO TORRE",
+    "grupo": 41
   },
   {
     "id": 14773,
-    "pdm": "CHASSI APARELHO AR CONDICIONADO"
+    "pdm": "CHASSI APARELHO AR CONDICIONADO",
+    "grupo": 41
   },
   {
     "id": 15017,
-    "pdm": "RESFRIADOR DE LÕQUIDO"
+    "pdm": "RESFRIADOR DE L√çQUIDO",
+    "grupo": 41
   },
   {
     "id": 15030,
-    "pdm": "DIAFRAGMA V¡LVULA SOLEN”IDE"
+    "pdm": "DIAFRAGMA V√ÅLVULA SOLEN√ìIDE",
+    "grupo": 41
   },
   {
     "id": 15112,
-    "pdm": "EVAPORADOR"
+    "pdm": "EVAPORADOR",
+    "grupo": 41
   },
   {
     "id": 15136,
-    "pdm": "CONDENSADOR APARELHO AR CONDICIONADO"
+    "pdm": "CONDENSADOR APARELHO AR CONDICIONADO",
+    "grupo": 41
   },
   {
     "id": 15167,
-    "pdm": "VENTILADOR EVAPORADOR AR CONDICIONADO"
+    "pdm": "VENTILADOR EVAPORADOR AR CONDICIONADO",
+    "grupo": 41
   },
   {
     "id": 15170,
-    "pdm": "RESERVAT”RIO BEBEDOURO"
+    "pdm": "RESERVAT√ìRIO BEBEDOURO",
+    "grupo": 41
   },
   {
     "id": 15179,
-    "pdm": "MOTOR VENTILADOR APARELHO REFRIGERA«√O"
+    "pdm": "MOTOR VENTILADOR APARELHO REFRIGERA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": 15196,
-    "pdm": "BOT√O APARELHO AR CONDICIONADO"
+    "pdm": "BOT√ÉO APARELHO AR CONDICIONADO",
+    "grupo": 41
   },
   {
     "id": 15198,
-    "pdm": "DRENO BEBEDOURO"
+    "pdm": "DRENO BEBEDOURO",
+    "grupo": 41
   },
   {
     "id": 15239,
-    "pdm": "CONDENSADOR EST¡TICO"
+    "pdm": "CONDENSADOR EST√ÅTICO",
+    "grupo": 41
   },
   {
     "id": 15240,
-    "pdm": "GABINETE BEBEDOURO"
+    "pdm": "GABINETE BEBEDOURO",
+    "grupo": 41
   },
   {
     "id": 15241,
-    "pdm": "V¡LVULA EXPANS√O"
+    "pdm": "V√ÅLVULA EXPANS√ÉO",
+    "grupo": 41
   },
   {
     "id": 15244,
-    "pdm": "PLACA V¡LVULA"
+    "pdm": "PLACA V√ÅLVULA",
+    "grupo": 41
   },
   {
     "id": 15255,
-    "pdm": "CORTINA AR"
+    "pdm": "CORTINA AR",
+    "grupo": 41
   },
   {
     "id": 15616,
-    "pdm": "CONJUNTO VENTILA«√O"
+    "pdm": "CONJUNTO VENTILA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": 15716,
-    "pdm": "MICROMOTOR"
+    "pdm": "MICROMOTOR",
+    "grupo": 41
   },
   {
     "id": 15724,
-    "pdm": "EXAUSTOR E”LICO"
+    "pdm": "EXAUSTOR E√ìLICO",
+    "grupo": 41
   },
   {
     "id": 15800,
-    "pdm": "FOR«ADOR DO CONDENSADOR"
+    "pdm": "FOR√áADOR DO CONDENSADOR",
+    "grupo": 41
   },
   {
     "id": 16198,
-    "pdm": "BORRACHA PORTA GELADEIRA"
+    "pdm": "BORRACHA PORTA GELADEIRA",
+    "grupo": 41
   },
   {
     "id": 16201,
-    "pdm": "CORREIA MOTOR VENTILADOR"
+    "pdm": "CORREIA MOTOR VENTILADOR",
+    "grupo": 41
   },
   {
     "id": 16433,
-    "pdm": "FRENTE PL¡STICA"
+    "pdm": "FRENTE PL√ÅSTICA",
+    "grupo": 41
   },
   {
     "id": 16484,
-    "pdm": "TAMPA GAVETA - GELADEIRA"
+    "pdm": "TAMPA GAVETA - GELADEIRA",
+    "grupo": 41
   },
   {
     "id": 16626,
-    "pdm": "GABINETE AR CONDICIONADO"
+    "pdm": "GABINETE AR CONDICIONADO",
+    "grupo": 41
   },
   {
     "id": 16934,
-    "pdm": "CAIXA ISOT…RMICA"
+    "pdm": "CAIXA ISOT√âRMICA",
+    "grupo": 41
   },
   {
     "id": 16935,
-    "pdm": "EQUIPAMENTO DE AR CONDICIONADO"
+    "pdm": "EQUIPAMENTO DE AR CONDICIONADO",
+    "grupo": 41
   },
   {
     "id": 16936,
-    "pdm": "PE«AS E ACESS”RIOS APARELHO AR CONDICIONADO"
+    "pdm": "PE√áAS E ACESS√ìRIOS APARELHO AR CONDICIONADO",
+    "grupo": 41
   },
   {
     "id": 16937,
-    "pdm": "VENTILADORES. CIRCULADORES DE AR E VENTOINHAS"
+    "pdm": "VENTILADORES. CIRCULADORES DE AR E VENTOINHAS",
+    "grupo": 41
   },
   {
     "id": 16938,
-    "pdm": "TUBOS DE TURBILHONAMENTO E OUTROS TUBOS RELACIONADOS ¿ REFRIGERA«√O"
+    "pdm": "TUBOS DE TURBILHONAMENTO E OUTROS TUBOS RELACIONADOS √Ä REFRIGERA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": 17438,
-    "pdm": "PAINEL DIGITAL"
+    "pdm": "PAINEL DIGITAL",
+    "grupo": 41
   },
   {
     "id": 17582,
-    "pdm": "FILTRO SECADOR"
+    "pdm": "FILTRO SECADOR",
+    "grupo": 41
   },
   {
     "id": 17805,
-    "pdm": "CONJUNTO VOLUTAS"
+    "pdm": "CONJUNTO VOLUTAS",
+    "grupo": 41
   },
   {
     "id": 17980,
-    "pdm": "CHAVE DE COMANDO"
+    "pdm": "CHAVE DE COMANDO",
+    "grupo": 41
   },
   {
     "id": 18027,
-    "pdm": "C¬MARA CONSERVA«√O"
+    "pdm": "C√ÇMARA CONSERVA√á√ÉO",
+    "grupo": 41
   },
   {
     "id": 18050,
-    "pdm": "REFRIGERADOR PARA AUTOM”VEL"
+    "pdm": "REFRIGERADOR PARA AUTOM√ìVEL",
+    "grupo": 41
   },
   {
     "id": 18237,
-    "pdm": "CORREIA AR CONDICIONADO"
+    "pdm": "CORREIA AR CONDICIONADO",
+    "grupo": 41
   },
   {
     "id": 18260,
-    "pdm": "V¡LVULA"
+    "pdm": "V√ÅLVULA",
+    "grupo": 41
   },
   {
     "id": 18268,
-    "pdm": "CARTUCHO V¡LVULA EXPANS√O"
+    "pdm": "CARTUCHO V√ÅLVULA EXPANS√ÉO",
+    "grupo": 41
   },
   {
     "id": 18317,
-    "pdm": "SEPARADOR DE ”LEO"
+    "pdm": "SEPARADOR DE √ìLEO",
+    "grupo": 41
   },
   {
     "id": 18353,
-    "pdm": "DRENO AR CONDICIONADO"
+    "pdm": "DRENO AR CONDICIONADO",
+    "grupo": 41
   },
   {
     "id": 18545,
-    "pdm": "CLIMATIZADOR"
+    "pdm": "CLIMATIZADOR",
+    "grupo": 41
   },
   {
     "id": 18584,
-    "pdm": "CONTROLE REMOTO"
+    "pdm": "CONTROLE REMOTO",
+    "grupo": 41
   },
   {
     "id": 18628,
-    "pdm": "GRADE DIFUSORA"
+    "pdm": "GRADE DIFUSORA",
+    "grupo": 41
   },
   {
     "id": 18728,
-    "pdm": "CONJUNTO ROTOR"
+    "pdm": "CONJUNTO ROTOR",
+    "grupo": 41
   }
 ]
