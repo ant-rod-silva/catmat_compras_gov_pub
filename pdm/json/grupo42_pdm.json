@@ -1,914 +1,1142 @@
 [
   {
     "id": "01214",
-    "pdm": "PROTETOR AURICULAR"
+    "pdm": "PROTETOR AURICULAR",
+    "grupo": 42
   },
   {
     "id": "01232",
-    "pdm": "ABSORVEDOR ENERGIA"
+    "pdm": "ABSORVEDOR ENERGIA",
+    "grupo": 42
   },
   {
     "id": "01277",
-    "pdm": "DIFUSOR"
+    "pdm": "DIFUSOR",
+    "grupo": 42
   },
   {
     "id": "01278",
-    "pdm": "SISTEMA COMBATE INC NDIO"
+    "pdm": "SISTEMA COMBATE INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": "01282",
-    "pdm": "CHUVEIRO EMERG NCIA"
+    "pdm": "CHUVEIRO EMERG√äNCIA",
+    "grupo": 42
   },
   {
     "id": "01284",
-    "pdm": "LAVA-OLHOS EMERG NCIA"
+    "pdm": "LAVA-OLHOS EMERG√äNCIA",
+    "grupo": 42
   },
   {
     "id": "01285",
-    "pdm": "MANGUEIRA COMBATE INC NDIO"
+    "pdm": "MANGUEIRA COMBATE INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": "01288",
-    "pdm": "CARRETEL MANGUEIRA INC NDIO"
+    "pdm": "CARRETEL MANGUEIRA INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": "01300",
-    "pdm": "ESQUICHO"
+    "pdm": "ESQUICHO",
+    "grupo": 42
   },
   {
     "id": "01301",
-    "pdm": "EXTINTOR INC NDIO"
+    "pdm": "EXTINTOR INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": "01302",
-    "pdm": "AVENTAL DE SOLDADOR"
+    "pdm": "AVENTAL DE SOLDADOR",
+    "grupo": 42
   },
   {
     "id": "01303",
-    "pdm": "COLETE SEGURAN«A"
+    "pdm": "COLETE SEGURAN√áA",
+    "grupo": 42
   },
   {
     "id": "01304",
-    "pdm": "LENTE INDUSTRIAL / SEGURAN«A"
+    "pdm": "LENTE INDUSTRIAL / SEGURAN√áA",
+    "grupo": 42
   },
   {
     "id": "01305",
-    "pdm": "MANGA ISOLANTE"
+    "pdm": "MANGA ISOLANTE",
+    "grupo": 42
   },
   {
     "id": "01306",
-    "pdm": "RESPIRADOR"
+    "pdm": "RESPIRADOR",
+    "grupo": 42
   },
   {
     "id": "01312",
-    "pdm": "EXTINTOR INC NDIO ¡GUA"
+    "pdm": "EXTINTOR INC√äNDIO √ÅGUA",
+    "grupo": 42
   },
   {
     "id": "01313",
-    "pdm": "EXTINTOR INC NDIO P” QUÕMICO"
+    "pdm": "EXTINTOR INC√äNDIO P√ì QU√çMICO",
+    "grupo": 42
   },
   {
     "id": "01314",
-    "pdm": "C¬MARA AVÕCOLA FUMIGA«√O"
+    "pdm": "C√ÇMARA AV√çCOLA FUMIGA√á√ÉO",
+    "grupo": 42
   },
   {
     "id": "01315",
-    "pdm": "ESCUDO ANTI-TUMULTO"
+    "pdm": "ESCUDO ANTI-TUMULTO",
+    "grupo": 42
   },
   {
     "id": "01316",
-    "pdm": "PROTETOR FACIAL"
+    "pdm": "PROTETOR FACIAL",
+    "grupo": 42
   },
   {
     "id": "01362",
-    "pdm": "BALDE COMBATE INC NDIO"
+    "pdm": "BALDE COMBATE INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": "01370",
-    "pdm": "BARCO INFL¡VEL"
+    "pdm": "BARCO INFL√ÅVEL",
+    "grupo": 42
   },
   {
     "id": "01371",
-    "pdm": "BOLSA TRANSPORTE LUVAS"
+    "pdm": "BOLSA TRANSPORTE LUVAS",
+    "grupo": 42
   },
   {
     "id": "01372",
-    "pdm": "CAPACETE SEGURAN«A"
+    "pdm": "CAPACETE SEGURAN√áA",
+    "grupo": 42
   },
   {
     "id": "01373",
-    "pdm": "PERNEIRA"
+    "pdm": "PERNEIRA",
+    "grupo": 42
   },
   {
     "id": "01377",
-    "pdm": "”CULOS PROTE«√O"
+    "pdm": "√ìCULOS PROTE√á√ÉO",
+    "grupo": 42
   },
   {
     "id": "01661",
-    "pdm": "ACESS”RIO / PE«A MERGULHO"
+    "pdm": "ACESS√ìRIO / PE√áA MERGULHO",
+    "grupo": 42
   },
   {
     "id": "02246",
-    "pdm": "ALCA SALVAMENTO ( SLING )"
+    "pdm": "ALCA SALVAMENTO ( SLING )",
+    "grupo": 42
   },
   {
     "id": "02392",
-    "pdm": "AMARRA CORRENTE ( EPI )"
+    "pdm": "AMARRA CORRENTE ( EPI )",
+    "grupo": 42
   },
   {
     "id": "02484",
-    "pdm": "ANCINHO DE BOMBEIRO"
+    "pdm": "ANCINHO DE BOMBEIRO",
+    "grupo": 42
   },
   {
     "id": "02635",
-    "pdm": "APARELHAGEM PARA DESCONTAMINACAO MECANICA. MONTADAEM VIATURA"
+    "pdm": "APARELHAGEM PARA DESCONTAMINACAO MECANICA. MONTADAEM VIATURA",
+    "grupo": 42
   },
   {
     "id": "02721",
-    "pdm": "APARELHO DE MERGULHO"
+    "pdm": "APARELHO DE MERGULHO",
+    "grupo": 42
   },
   {
     "id": "02740",
-    "pdm": "M¡SCARA AUT‘NOMA"
+    "pdm": "M√ÅSCARA AUT√îNOMA",
+    "grupo": 42
   },
   {
     "id": "02741",
-    "pdm": "APARELHO SALVAMENTO"
+    "pdm": "APARELHO SALVAMENTO",
+    "grupo": 42
   },
   {
     "id": "03099",
-    "pdm": "ASSENTO T¡TICO"
+    "pdm": "ASSENTO T√ÅTICO",
+    "grupo": 42
   },
   {
     "id": "03133",
-    "pdm": "AUTOCLAVE DESCONTAMINA«√O"
+    "pdm": "AUTOCLAVE DESCONTAMINA√á√ÉO",
+    "grupo": 42
   },
   {
     "id": "03134",
-    "pdm": "PE«AS / ACESS”RIOS AUTOCLAVE"
+    "pdm": "PE√áAS / ACESS√ìRIOS AUTOCLAVE",
+    "grupo": 42
   },
   {
     "id": "03153",
-    "pdm": "AVENTAL"
+    "pdm": "AVENTAL",
+    "grupo": 42
   },
   {
     "id": "03155",
-    "pdm": "AVENTAL DE SEGURANCA PARA SOLDAGEM"
+    "pdm": "AVENTAL DE SEGURANCA PARA SOLDAGEM",
+    "grupo": 42
   },
   {
     "id": "03156",
-    "pdm": "AVENTAL SEGURAN«A USO FUNDI«√O"
+    "pdm": "AVENTAL SEGURAN√áA USO FUNDI√á√ÉO",
+    "grupo": 42
   },
   {
     "id": "03259",
-    "pdm": "BALSA PNEUMATICA"
+    "pdm": "BALSA PNEUMATICA",
+    "grupo": 42
   },
   {
     "id": "03331",
-    "pdm": "BARCA INFLAVEL"
+    "pdm": "BARCA INFLAVEL",
+    "grupo": 42
   },
   {
     "id": "03447",
-    "pdm": "BATEDOR / ABAFADOR FOGO - COMBATE INC NDIO"
+    "pdm": "BATEDOR / ABAFADOR FOGO - COMBATE INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": "03524",
-    "pdm": "BICO ASPERSOR MANGUEIRA COMBATE A INC NDIO"
+    "pdm": "BICO ASPERSOR MANGUEIRA COMBATE A INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": "03632",
-    "pdm": "BLUS√O RASPA DE COURO ( EPI )"
+    "pdm": "BLUS√ÉO RASPA DE COURO ( EPI )",
+    "grupo": 42
   },
   {
     "id": "03663",
-    "pdm": "BOIA SALVA - VIDA"
+    "pdm": "BOIA SALVA - VIDA",
+    "grupo": 42
   },
   {
     "id": "03664",
-    "pdm": "BOIA SALVA - VIDAS INFLAVEL"
+    "pdm": "BOIA SALVA - VIDAS INFLAVEL",
+    "grupo": 42
   },
   {
     "id": "03665",
-    "pdm": "BOIA SALVA - VIDAS NAO INFLAVEL"
+    "pdm": "BOIA SALVA - VIDAS NAO INFLAVEL",
+    "grupo": 42
   },
   {
     "id": "03713",
-    "pdm": "BOLSA SALVA - VIDA"
+    "pdm": "BOLSA SALVA - VIDA",
+    "grupo": 42
   },
   {
     "id": "03735",
-    "pdm": "BOMBA COSTAL"
+    "pdm": "BOMBA COSTAL",
+    "grupo": 42
   },
   {
     "id": "03800",
-    "pdm": "BONE - SALVAMENTO / SEGURANCA / USO DIVERSO"
+    "pdm": "BONE - SALVAMENTO / SEGURANCA / USO DIVERSO",
+    "grupo": 42
   },
   {
     "id": "03839",
-    "pdm": "BOTE ALUMÕNIO"
+    "pdm": "BOTE ALUM√çNIO",
+    "grupo": 42
   },
   {
     "id": "03840",
-    "pdm": "BOTE FIBRA VIDRO"
+    "pdm": "BOTE FIBRA VIDRO",
+    "grupo": 42
   },
   {
     "id": "03841",
-    "pdm": "BOTE MADEIRA"
+    "pdm": "BOTE MADEIRA",
+    "grupo": 42
   },
   {
     "id": "03842",
-    "pdm": "BOTE METALICO"
+    "pdm": "BOTE METALICO",
+    "grupo": 42
   },
   {
     "id": "03843",
-    "pdm": "BOTE INFL¡VEL"
+    "pdm": "BOTE INFL√ÅVEL",
+    "grupo": 42
   },
   {
     "id": "03844",
-    "pdm": "BOTE SALVA - VIDAS PNEUMATICO"
+    "pdm": "BOTE SALVA - VIDAS PNEUMATICO",
+    "grupo": 42
   },
   {
     "id": "03848",
-    "pdm": "BOTINA SEGURAN«A"
+    "pdm": "BOTINA SEGURAN√áA",
+    "grupo": 42
   },
   {
     "id": "03967",
-    "pdm": "B⁄SSOLA SALVAMENTO"
+    "pdm": "B√öSSOLA SALVAMENTO",
+    "grupo": 42
   },
   {
     "id": "04046",
-    "pdm": "CABO SEGURAN«A"
+    "pdm": "CABO SEGURAN√áA",
+    "grupo": 42
   },
   {
     "id": "04168",
-    "pdm": "ABRIGO MANGUEIRA INC NDIO"
+    "pdm": "ABRIGO MANGUEIRA INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": "04327",
-    "pdm": "CAMARA DE ESPUMA DE COMBATE A INCENDIO"
+    "pdm": "CAMARA DE ESPUMA DE COMBATE A INCENDIO",
+    "grupo": 42
   },
   {
     "id": "04421",
-    "pdm": "CANHAO MONITOR AGUA - COMBATE A INCENDIO"
+    "pdm": "CANHAO MONITOR AGUA - COMBATE A INCENDIO",
+    "grupo": 42
   },
   {
     "id": "04422",
-    "pdm": "CANHAO MONITOR DE AGUA"
+    "pdm": "CANHAO MONITOR DE AGUA",
+    "grupo": 42
   },
   {
     "id": "04423",
-    "pdm": "CANHAO MONITOR DE AGUA E ESPUMA"
+    "pdm": "CANHAO MONITOR DE AGUA E ESPUMA",
+    "grupo": 42
   },
   {
     "id": "04452",
-    "pdm": "CAPACETE MILITAR"
+    "pdm": "CAPACETE MILITAR",
+    "grupo": 42
   },
   {
     "id": "04453",
-    "pdm": "CAPACETE POLICIAL"
+    "pdm": "CAPACETE POLICIAL",
+    "grupo": 42
   },
   {
     "id": "04455",
-    "pdm": "CAPACETE CONDUTOR MOTOCICLETA"
+    "pdm": "CAPACETE CONDUTOR MOTOCICLETA",
+    "grupo": 42
   },
   {
     "id": "04457",
-    "pdm": "CAPACETE SEGURANCA - SOLDADOR"
+    "pdm": "CAPACETE SEGURANCA - SOLDADOR",
+    "grupo": 42
   },
   {
     "id": "04506",
-    "pdm": "CAPUZ USO SALVAMENTO E SEGURAN«A"
+    "pdm": "CAPUZ USO SALVAMENTO E SEGURAN√áA",
+    "grupo": 42
   },
   {
     "id": "04543",
-    "pdm": "CARGA EXTINTOR INC NDIO"
+    "pdm": "CARGA EXTINTOR INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": "04599",
-    "pdm": "CARRO COMBATE A INC NDIO"
+    "pdm": "CARRO COMBATE A INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": "04712",
-    "pdm": "CAVALETE CONTROLE TR¬NSITO"
+    "pdm": "CAVALETE CONTROLE TR√ÇNSITO",
+    "grupo": 42
   },
   {
     "id": "04714",
-    "pdm": "CAVALETE E GRADE DE SEGURANCA"
+    "pdm": "CAVALETE E GRADE DE SEGURANCA",
+    "grupo": 42
   },
   {
     "id": "04749",
-    "pdm": "CENTRAL DOSADORA DE ESPUMA DE COMBATE A INCENDIO"
+    "pdm": "CENTRAL DOSADORA DE ESPUMA DE COMBATE A INCENDIO",
+    "grupo": 42
   },
   {
     "id": "04795",
-    "pdm": "CESTA DE TRANSPORTE DE PESSOAL DE SALVAMENTO E SEGURANCA"
+    "pdm": "CESTA DE TRANSPORTE DE PESSOAL DE SALVAMENTO E SEGURANCA",
+    "grupo": 42
   },
   {
     "id": "04801",
-    "pdm": "CESTO SEGURAN«A INSPE«√O E MANUTEN«√O"
+    "pdm": "CESTO SEGURAN√áA INSPE√á√ÉO E MANUTEN√á√ÉO",
+    "grupo": 42
   },
   {
     "id": "04978",
-    "pdm": "CHUVEIRO E LAVA-OLHOS"
+    "pdm": "CHUVEIRO E LAVA-OLHOS",
+    "grupo": 42
   },
   {
     "id": "05021",
-    "pdm": "CINTO SEGURAN«A VEÕCULO AUTOMOTIVO"
+    "pdm": "CINTO SEGURAN√áA VE√çCULO AUTOMOTIVO",
+    "grupo": 42
   },
   {
     "id": "05022",
-    "pdm": "CINTO SEGURAN«A"
+    "pdm": "CINTO SEGURAN√áA",
+    "grupo": 42
   },
   {
     "id": "05029",
-    "pdm": "CINTUR√O SEGURAN«A"
+    "pdm": "CINTUR√ÉO SEGURAN√áA",
+    "grupo": 42
   },
   {
     "id": "05031",
-    "pdm": "CINTURAO CADEIRA ( EPI )"
+    "pdm": "CINTURAO CADEIRA ( EPI )",
+    "grupo": 42
   },
   {
     "id": "05032",
-    "pdm": "CINTUR√O PARA-QUEDISTA ( EPI )"
+    "pdm": "CINTUR√ÉO PARA-QUEDISTA ( EPI )",
+    "grupo": 42
   },
   {
     "id": "05289",
-    "pdm": "COBERTURA E PROTETOR ISOLANTE DE LINHAS E REDES"
+    "pdm": "COBERTURA E PROTETOR ISOLANTE DE LINHAS E REDES",
+    "grupo": 42
   },
   {
     "id": "05350",
-    "pdm": "COLETE SALVA-VIDAS"
+    "pdm": "COLETE SALVA-VIDAS",
+    "grupo": 42
   },
   {
     "id": "05351",
-    "pdm": "COLETE SALVA - VIDAS NAO INFLAVEL"
+    "pdm": "COLETE SALVA - VIDAS NAO INFLAVEL",
+    "grupo": 42
   },
   {
     "id": "05602",
-    "pdm": "CHAVE ENGATE MANGUEIRA"
+    "pdm": "CHAVE ENGATE MANGUEIRA",
+    "grupo": 42
   },
   {
     "id": "05623",
-    "pdm": "CONEX√O MANGUEIRA"
+    "pdm": "CONEX√ÉO MANGUEIRA",
+    "grupo": 42
   },
   {
     "id": "05687",
-    "pdm": "COMPONENTE RESPIRADOR SEGURAN«A"
+    "pdm": "COMPONENTE RESPIRADOR SEGURAN√áA",
+    "grupo": 42
   },
   {
     "id": "05739",
-    "pdm": "CONJUNTO SEGURAN«A CONTRA QUEDA"
+    "pdm": "CONJUNTO SEGURAN√áA CONTRA QUEDA",
+    "grupo": 42
   },
   {
     "id": "05857",
-    "pdm": "CORDA E FITA DE SEGURANCA"
+    "pdm": "CORDA E FITA DE SEGURANCA",
+    "grupo": 42
   },
   {
     "id": "05897",
-    "pdm": "CORREIA"
+    "pdm": "CORREIA",
+    "grupo": 42
   },
   {
     "id": "06066",
-    "pdm": "DERIVANTE MANGUEIRA INC NDIO"
+    "pdm": "DERIVANTE MANGUEIRA INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": "06103",
-    "pdm": "DESLISADOR DE SEGURANCA ( GERONIMO )"
+    "pdm": "DESLISADOR DE SEGURANCA ( GERONIMO )",
+    "grupo": 42
   },
   {
     "id": "06656",
-    "pdm": "EQUIPAMENTO CORTE HIDR¡ULICO"
+    "pdm": "EQUIPAMENTO CORTE HIDR√ÅULICO",
+    "grupo": 42
   },
   {
     "id": "06751",
-    "pdm": "ACESS”RIO EQUIPAMENTO SEGURAN«A"
+    "pdm": "ACESS√ìRIO EQUIPAMENTO SEGURAN√áA",
+    "grupo": 42
   },
   {
     "id": "06752",
-    "pdm": "EQUIPAMENTO DE SOCORRO"
+    "pdm": "EQUIPAMENTO DE SOCORRO",
+    "grupo": 42
   },
   {
     "id": "06840",
-    "pdm": "EQUIPAMENTO PORTATIL DE FUGA DE INCENDIO"
+    "pdm": "EQUIPAMENTO PORTATIL DE FUGA DE INCENDIO",
+    "grupo": 42
   },
   {
     "id": "06878",
-    "pdm": "ESCADA FIBRA VIDRO"
+    "pdm": "ESCADA FIBRA VIDRO",
+    "grupo": 42
   },
   {
     "id": "06883",
-    "pdm": "ESCADA EXTENSÕVEL"
+    "pdm": "ESCADA EXTENS√çVEL",
+    "grupo": 42
   },
   {
     "id": "06890",
-    "pdm": "ESCADA PORTATIL DE COMBATE A INCENDIO"
+    "pdm": "ESCADA PORTATIL DE COMBATE A INCENDIO",
+    "grupo": 42
   },
   {
     "id": "06894",
-    "pdm": "ESCAFANDRO"
+    "pdm": "ESCAFANDRO",
+    "grupo": 42
   },
   {
     "id": "06953",
-    "pdm": "ESCUDO PARA SOLDADOR"
+    "pdm": "ESCUDO PARA SOLDADOR",
+    "grupo": 42
   },
   {
     "id": "07013",
-    "pdm": "ESPELHO"
+    "pdm": "ESPELHO",
+    "grupo": 42
   },
   {
     "id": "07016",
-    "pdm": "ESPERA / ANCORAGEM ( EPI )"
+    "pdm": "ESPERA / ANCORAGEM ( EPI )",
+    "grupo": 42
   },
   {
     "id": "07124",
-    "pdm": "ESTERILIZADOR DE VESTUARIO"
+    "pdm": "ESTERILIZADOR DE VESTUARIO",
+    "grupo": 42
   },
   {
     "id": "07184",
-    "pdm": "ESTRIBO - SALVAMENTO"
+    "pdm": "ESTRIBO - SALVAMENTO",
+    "grupo": 42
   },
   {
     "id": "07257",
-    "pdm": "EXTINTOR DE INCENDIO"
+    "pdm": "EXTINTOR DE INCENDIO",
+    "grupo": 42
   },
   {
     "id": "07258",
-    "pdm": "EXTINTOR DE INCENDIO EM ELETRICIDADE / ELETRONICA"
+    "pdm": "EXTINTOR DE INCENDIO EM ELETRICIDADE / ELETRONICA",
+    "grupo": 42
   },
   {
     "id": "07259",
-    "pdm": "CARRINHO EXTINTOR DE INC NDIO"
+    "pdm": "CARRINHO EXTINTOR DE INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": "07260",
-    "pdm": "EXTINTOR INCENDIO ESPUMA QUIMICA"
+    "pdm": "EXTINTOR INCENDIO ESPUMA QUIMICA",
+    "grupo": 42
   },
   {
     "id": "07474",
-    "pdm": "FILTRO DE M¡SCARA CONTRA G¡S"
+    "pdm": "FILTRO DE M√ÅSCARA CONTRA G√ÅS",
+    "grupo": 42
   },
   {
     "id": "07495",
-    "pdm": "FILTRO RESPIRADOR"
+    "pdm": "FILTRO RESPIRADOR",
+    "grupo": 42
   },
   {
     "id": "07557",
-    "pdm": "FITA ANTIDERRAPANTE"
+    "pdm": "FITA ANTIDERRAPANTE",
+    "grupo": 42
   },
   {
     "id": "07671",
-    "pdm": "FLUTUADOR DE USO PESSOAL"
+    "pdm": "FLUTUADOR DE USO PESSOAL",
+    "grupo": 42
   },
   {
     "id": "07834",
-    "pdm": "FREIO PROFISSIONAL ( EPI )"
+    "pdm": "FREIO PROFISSIONAL ( EPI )",
+    "grupo": 42
   },
   {
     "id": "08045",
-    "pdm": "GRADE DE CONTROLE DE TRANSITO"
+    "pdm": "GRADE DE CONTROLE DE TRANSITO",
+    "grupo": 42
   },
   {
     "id": "08212",
-    "pdm": "HIDRANTE"
+    "pdm": "HIDRANTE",
+    "grupo": 42
   },
   {
     "id": "08580",
-    "pdm": "KIT ELEVACAO - SALVAMENTO"
+    "pdm": "KIT ELEVACAO - SALVAMENTO",
+    "grupo": 42
   },
   {
     "id": "08700",
-    "pdm": "LANCHA INFLAVEL"
+    "pdm": "LANCHA INFLAVEL",
+    "grupo": 42
   },
   {
     "id": "08740",
-    "pdm": "LAVA - FACE DE IMPREGNACAO E DESCONTAMINACAO"
+    "pdm": "LAVA - FACE DE IMPREGNACAO E DESCONTAMINACAO",
+    "grupo": 42
   },
   {
     "id": "08773",
-    "pdm": "LENCOL DE BORRACHA ISOLANTE DE REDE ELETRICA"
+    "pdm": "LENCOL DE BORRACHA ISOLANTE DE REDE ELETRICA",
+    "grupo": 42
   },
   {
     "id": "08878",
-    "pdm": "LIQUIDO GERADOR DE ESPUMA DE COMBATE A INCENDIO"
+    "pdm": "LIQUIDO GERADOR DE ESPUMA DE COMBATE A INCENDIO",
+    "grupo": 42
   },
   {
     "id": "08957",
-    "pdm": "LUVA COURO - SALVAMENTO"
+    "pdm": "LUVA COURO - SALVAMENTO",
+    "grupo": 42
   },
   {
     "id": "08959",
-    "pdm": "LUVA DE BORRACHA ISOLANTE"
+    "pdm": "LUVA DE BORRACHA ISOLANTE",
+    "grupo": 42
   },
   {
     "id": "08964",
-    "pdm": "LUVA DE POLIPROPILENO"
+    "pdm": "LUVA DE POLIPROPILENO",
+    "grupo": 42
   },
   {
     "id": "08966",
-    "pdm": "LUVA DE SEGURANCA DE AMIANTO"
+    "pdm": "LUVA DE SEGURANCA DE AMIANTO",
+    "grupo": 42
   },
   {
     "id": "08967",
-    "pdm": "LUVA DE SEGURANCA DE TECIDO VINILIZADO"
+    "pdm": "LUVA DE SEGURANCA DE TECIDO VINILIZADO",
+    "grupo": 42
   },
   {
     "id": "08968",
-    "pdm": "LUVA DE SEGURANCA EM MALHA DE ACO"
+    "pdm": "LUVA DE SEGURANCA EM MALHA DE ACO",
+    "grupo": 42
   },
   {
     "id": "08969",
-    "pdm": "LUVA DE SEGURANCA EM PELICA"
+    "pdm": "LUVA DE SEGURANCA EM PELICA",
+    "grupo": 42
   },
   {
     "id": "08970",
-    "pdm": "LUVA DE SEGURANCA EM SUEDINE"
+    "pdm": "LUVA DE SEGURANCA EM SUEDINE",
+    "grupo": 42
   },
   {
     "id": "08971",
-    "pdm": "LUVA DE SEGURANCA HEXANOL"
+    "pdm": "LUVA DE SEGURANCA HEXANOL",
+    "grupo": 42
   },
   {
     "id": "08972",
-    "pdm": "LUVA DE SEGURANCA IMPERMEAVEL"
+    "pdm": "LUVA DE SEGURANCA IMPERMEAVEL",
+    "grupo": 42
   },
   {
     "id": "08975",
-    "pdm": "LUVA INDUSTRIAL TIPO RASPA DE COURO"
+    "pdm": "LUVA INDUSTRIAL TIPO RASPA DE COURO",
+    "grupo": 42
   },
   {
     "id": "08979",
-    "pdm": "LUVA SEGURAN«A - VAQUETA"
+    "pdm": "LUVA SEGURAN√áA - VAQUETA",
+    "grupo": 42
   },
   {
     "id": "08981",
-    "pdm": "LUZ DE COLETE SALVA - VIDAS"
+    "pdm": "LUZ DE COLETE SALVA - VIDAS",
+    "grupo": 42
   },
   {
     "id": "09003",
-    "pdm": "MACHADO DE BOMBEIRO"
+    "pdm": "MACHADO DE BOMBEIRO",
+    "grupo": 42
   },
   {
     "id": "09096",
-    "pdm": "MANGUEIRA DE COMBATE A INCENDIO"
+    "pdm": "MANGUEIRA DE COMBATE A INCENDIO",
+    "grupo": 42
   },
   {
     "id": "09117",
-    "pdm": "MANTA ANTIFOGO"
+    "pdm": "MANTA ANTIFOGO",
+    "grupo": 42
   },
   {
     "id": "09403",
-    "pdm": "MASCARA APICOLA"
+    "pdm": "MASCARA APICOLA",
+    "grupo": 42
   },
   {
     "id": "09404",
-    "pdm": "M¡SCARA CONTRA GASES"
+    "pdm": "M√ÅSCARA CONTRA GASES",
+    "grupo": 42
   },
   {
     "id": "09408",
-    "pdm": "M¡SCARA MERGULHADOR"
+    "pdm": "M√ÅSCARA MERGULHADOR",
+    "grupo": 42
   },
   {
     "id": "09409",
-    "pdm": "M¡SCARA SOLDADOR"
+    "pdm": "M√ÅSCARA SOLDADOR",
+    "grupo": 42
   },
   {
     "id": "09410",
-    "pdm": "M¡SCARA DESCART¡VEL USO GERAL"
+    "pdm": "M√ÅSCARA DESCART√ÅVEL USO GERAL",
+    "grupo": 42
   },
   {
     "id": "09411",
-    "pdm": "MASCARA PANORAMICA"
+    "pdm": "MASCARA PANORAMICA",
+    "grupo": 42
   },
   {
     "id": "09455",
-    "pdm": "MATERIAL DE SOBREVIVENCIA"
+    "pdm": "MATERIAL DE SOBREVIVENCIA",
+    "grupo": 42
   },
   {
     "id": "09456",
-    "pdm": "MATERIAL DE SOCORRO"
+    "pdm": "MATERIAL DE SOCORRO",
+    "grupo": 42
   },
   {
     "id": "09801",
-    "pdm": "MITENE TIPO SEGURANCA ( LUVA )"
+    "pdm": "MITENE TIPO SEGURANCA ( LUVA )",
+    "grupo": 42
   },
   {
     "id": 10145,
-    "pdm": "OCULOS - VISAO NOTURNA"
+    "pdm": "OCULOS - VISAO NOTURNA",
+    "grupo": 42
   },
   {
     "id": 10146,
-    "pdm": "OCULOS INDUSTRIAL"
+    "pdm": "OCULOS INDUSTRIAL",
+    "grupo": 42
   },
   {
     "id": 10147,
-    "pdm": "OCULOS PROTECAO - LASER"
+    "pdm": "OCULOS PROTECAO - LASER",
+    "grupo": 42
   },
   {
     "id": 10215,
-    "pdm": "OMBREIRA"
+    "pdm": "OMBREIRA",
+    "grupo": 42
   },
   {
     "id": 10415,
-    "pdm": "P¡RA - QUEDAS DE USO INDIVIDUAL"
+    "pdm": "P√ÅRA - QUEDAS DE USO INDIVIDUAL",
+    "grupo": 42
   },
   {
     "id": 10537,
-    "pdm": "PE«A REPOSI«√O EXTINTOR INC NDIO"
+    "pdm": "PE√áA REPOSI√á√ÉO EXTINTOR INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": 10678,
-    "pdm": "PERNEIRA TIPO SEGURANCA"
+    "pdm": "PERNEIRA TIPO SEGURANCA",
+    "grupo": 42
   },
   {
     "id": 10797,
-    "pdm": "PISTOLA PARA PO QUIMICO SECO"
+    "pdm": "PISTOLA PARA PO QUIMICO SECO",
+    "grupo": 42
   },
   {
     "id": 10937,
-    "pdm": "PO QUIMICO DE COMBATE A INCENDIO"
+    "pdm": "PO QUIMICO DE COMBATE A INCENDIO",
+    "grupo": 42
   },
   {
     "id": 10941,
-    "pdm": "POLAINA DE SEGURAN«A EM VAQUETA"
+    "pdm": "POLAINA DE SEGURAN√áA EM VAQUETA",
+    "grupo": 42
   },
   {
     "id": 11068,
-    "pdm": "PORTA CORTA-FOGO / DAMPERS / ACESS”RIOS"
+    "pdm": "PORTA CORTA-FOGO / DAMPERS / ACESS√ìRIOS",
+    "grupo": 42
   },
   {
     "id": 11277,
-    "pdm": "PROPORCIONADOR / EDUTOR DE ESPUMA - COMBATE A INCENDIO"
+    "pdm": "PROPORCIONADOR / EDUTOR DE ESPUMA - COMBATE A INCENDIO",
+    "grupo": 42
   },
   {
     "id": 11283,
-    "pdm": "CORDA SALVAMENTO"
+    "pdm": "CORDA SALVAMENTO",
+    "grupo": 42
   },
   {
     "id": 11311,
-    "pdm": "PROTETOR DE EXTINTOR DE INCENDIO"
+    "pdm": "PROTETOR DE EXTINTOR DE INCENDIO",
+    "grupo": 42
   },
   {
     "id": 11374,
-    "pdm": "QUEIMADOR PINGA-FOGO"
+    "pdm": "QUEIMADOR PINGA-FOGO",
+    "grupo": 42
   },
   {
     "id": 11457,
-    "pdm": "REBOQUE DE COMBATE A INCENDIO"
+    "pdm": "REBOQUE DE COMBATE A INCENDIO",
+    "grupo": 42
   },
   {
     "id": 11506,
-    "pdm": "REDE DE SALVAMENTO FLUTUANTE"
+    "pdm": "REDE DE SALVAMENTO FLUTUANTE",
+    "grupo": 42
   },
   {
     "id": 11507,
-    "pdm": "REDE DE SALVAMENTO NAO FLUTUANTE"
+    "pdm": "REDE DE SALVAMENTO NAO FLUTUANTE",
+    "grupo": 42
   },
   {
     "id": 11697,
-    "pdm": "COROA M¡SCARA SOLDADOR"
+    "pdm": "COROA M√ÅSCARA SOLDADOR",
+    "grupo": 42
   },
   {
     "id": 11698,
-    "pdm": "RESPIRADOR PARA JATEAMENTO DE AREIA"
+    "pdm": "RESPIRADOR PARA JATEAMENTO DE AREIA",
+    "grupo": 42
   },
   {
     "id": 11701,
-    "pdm": "AMBU"
+    "pdm": "AMBU",
+    "grupo": 42
   },
   {
     "id": 11849,
-    "pdm": "ROUPA MERGULHADOR"
+    "pdm": "ROUPA MERGULHADOR",
+    "grupo": 42
   },
   {
     "id": 11850,
-    "pdm": "ROUPA IMPERMEAVEL"
+    "pdm": "ROUPA IMPERMEAVEL",
+    "grupo": 42
   },
   {
     "id": 11931,
-    "pdm": "SALVA - VIDAS INFLAVEL INDIVIDUAL"
+    "pdm": "SALVA - VIDAS INFLAVEL INDIVIDUAL",
+    "grupo": 42
   },
   {
     "id": 12101,
-    "pdm": "SISTEMA ( EQUIPAMENTO / SOFTWARE ) TRAFEGO AEREO"
+    "pdm": "SISTEMA ( EQUIPAMENTO / SOFTWARE ) TRAFEGO AEREO",
+    "grupo": 42
   },
   {
     "id": 12112,
-    "pdm": "SISTEMA DE COMBATE A INCENDIO"
+    "pdm": "SISTEMA DE COMBATE A INCENDIO",
+    "grupo": 42
   },
   {
     "id": 12141,
-    "pdm": "SISTEMA FIXO DE COMBATE A INC NDIO A CO2"
+    "pdm": "SISTEMA FIXO DE COMBATE A INC√äNDIO A CO2",
+    "grupo": 42
   },
   {
     "id": 12142,
-    "pdm": "SISTEMA FIXO DE COMBATE A INCENDIO A ESPUMA"
+    "pdm": "SISTEMA FIXO DE COMBATE A INCENDIO A ESPUMA",
+    "grupo": 42
   },
   {
     "id": 12143,
-    "pdm": "SISTEMA FIXO DE COMBATE A INCENDIO A PO QUIMICO"
+    "pdm": "SISTEMA FIXO DE COMBATE A INCENDIO A PO QUIMICO",
+    "grupo": 42
   },
   {
     "id": 12170,
-    "pdm": "SOBREBOTA DE SALVAMENTO E SEGURANCA"
+    "pdm": "SOBREBOTA DE SALVAMENTO E SEGURANCA",
+    "grupo": 42
   },
   {
     "id": 12386,
-    "pdm": "CINTA FIXA«√O EXTINTOR INC NDIO"
+    "pdm": "CINTA FIXA√á√ÉO EXTINTOR INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": 12486,
-    "pdm": "TALABARTE DE SALVAMENTO E SEGURANCA"
+    "pdm": "TALABARTE DE SALVAMENTO E SEGURANCA",
+    "grupo": 42
   },
   {
     "id": 12857,
-    "pdm": "TRAJE DE SEGURANCA"
+    "pdm": "TRAJE DE SEGURANCA",
+    "grupo": 42
   },
   {
     "id": 12944,
-    "pdm": "TRAVA QUEDA ( EPI )"
+    "pdm": "TRAVA QUEDA ( EPI )",
+    "grupo": 42
   },
   {
     "id": 13402,
-    "pdm": "VESTUARIO ANTI - CHAMA"
+    "pdm": "VESTUARIO ANTI - CHAMA",
+    "grupo": 42
   },
   {
     "id": 13404,
-    "pdm": "VESTU¡RIO COMBATE A INC NDIO"
+    "pdm": "VESTU√ÅRIO COMBATE A INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": 13439,
-    "pdm": "VIGA SUSTENTACAO ( EPI )"
+    "pdm": "VIGA SUSTENTACAO ( EPI )",
+    "grupo": 42
   },
   {
     "id": 13454,
-    "pdm": "VISEIRA DE SOLDADOR"
+    "pdm": "VISEIRA DE SOLDADOR",
+    "grupo": 42
   },
   {
     "id": 13540,
-    "pdm": "CAMARA DE FUMIGACAO"
+    "pdm": "CAMARA DE FUMIGACAO",
+    "grupo": 42
   },
   {
     "id": 13637,
-    "pdm": "PE«AS/EQUIPAMENTOS COMBATE A INC NCIO"
+    "pdm": "PE√áAS/EQUIPAMENTOS COMBATE A INC√äNCIO",
+    "grupo": 42
   },
   {
     "id": 13711,
-    "pdm": "M¡SCARA MULTIUSO"
+    "pdm": "M√ÅSCARA MULTIUSO",
+    "grupo": 42
   },
   {
     "id": 13722,
-    "pdm": "LUVA SEGURAN«A"
+    "pdm": "LUVA SEGURAN√áA",
+    "grupo": 42
   },
   {
     "id": 14010,
-    "pdm": "¡GUA PRESSURIZADA"
+    "pdm": "√ÅGUA PRESSURIZADA",
+    "grupo": 42
   },
   {
     "id": 14100,
-    "pdm": "EXTINTOR INC NDIO VEÕCULO AUTOMOTIVO"
+    "pdm": "EXTINTOR INC√äNDIO VE√çCULO AUTOMOTIVO",
+    "grupo": 42
   },
   {
     "id": 14270,
-    "pdm": "BLOCANTE SEGURAN«A"
+    "pdm": "BLOCANTE SEGURAN√áA",
+    "grupo": 42
   },
   {
     "id": 14320,
-    "pdm": "GERADOR ACETILENO"
+    "pdm": "GERADOR ACETILENO",
+    "grupo": 42
   },
   {
     "id": 14321,
-    "pdm": "ILUMINADOR ACETILENO"
+    "pdm": "ILUMINADOR ACETILENO",
+    "grupo": 42
   },
   {
     "id": 14323,
-    "pdm": "BICO ACETILENO"
+    "pdm": "BICO ACETILENO",
+    "grupo": 42
   },
   {
     "id": 14333,
-    "pdm": "ABAFADOR RUÕDO AURICULAR"
+    "pdm": "ABAFADOR RU√çDO AURICULAR",
+    "grupo": 42
   },
   {
     "id": 14359,
-    "pdm": "LANTERNA DE CABE«A/CAPACETE"
+    "pdm": "LANTERNA DE CABE√áA/CAPACETE",
+    "grupo": 42
   },
   {
     "id": 14396,
-    "pdm": "”CULOS NATA«√O"
+    "pdm": "√ìCULOS NATA√á√ÉO",
+    "grupo": 42
   },
   {
     "id": 14569,
-    "pdm": "”CULOS DE PROTE«√O INDIVIDUAL"
+    "pdm": "√ìCULOS DE PROTE√á√ÉO INDIVIDUAL",
+    "grupo": 42
   },
   {
     "id": 14724,
-    "pdm": "LANTERNA CAPACETE"
+    "pdm": "LANTERNA CAPACETE",
+    "grupo": 42
   },
   {
     "id": 14765,
-    "pdm": "REDE ANTI-INVERS√O P¡RA-QUEDAS"
+    "pdm": "REDE ANTI-INVERS√ÉO P√ÅRA-QUEDAS",
+    "grupo": 42
   },
   {
     "id": 14770,
-    "pdm": "TECIDO USO P¡RA-QUEDAS"
+    "pdm": "TECIDO USO P√ÅRA-QUEDAS",
+    "grupo": 42
   },
   {
     "id": 14771,
-    "pdm": "CABO P¡RA-QUEDAS"
+    "pdm": "CABO P√ÅRA-QUEDAS",
+    "grupo": 42
   },
   {
     "id": 14859,
-    "pdm": "REDE PROTE«√O"
+    "pdm": "REDE PROTE√á√ÉO",
+    "grupo": 42
   },
   {
     "id": 15265,
-    "pdm": "APITO TR¡FEGO"
+    "pdm": "APITO TR√ÅFEGO",
+    "grupo": 42
   },
   {
     "id": 15299,
-    "pdm": "LUVA ISOLANTE"
+    "pdm": "LUVA ISOLANTE",
+    "grupo": 42
   },
   {
     "id": 15309,
-    "pdm": "LUVA BORRACHA ISOLANTE"
+    "pdm": "LUVA BORRACHA ISOLANTE",
+    "grupo": 42
   },
   {
     "id": 15403,
-    "pdm": "M¡SCARA SEGURAN«A"
+    "pdm": "M√ÅSCARA SEGURAN√áA",
+    "grupo": 42
   },
   {
     "id": 15925,
-    "pdm": "COLETE IMOBILIZA«√O"
+    "pdm": "COLETE IMOBILIZA√á√ÉO",
+    "grupo": 42
   },
   {
     "id": 15964,
-    "pdm": "TRAVA - EXTINTOR INCENDIO"
+    "pdm": "TRAVA - EXTINTOR INCENDIO",
+    "grupo": 42
   },
   {
     "id": 16089,
-    "pdm": "MANGUEIRA EXTINTOR INC NDIO"
+    "pdm": "MANGUEIRA EXTINTOR INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": 16090,
-    "pdm": "V¡LVULA EXTINTOR INC NDIO"
+    "pdm": "V√ÅLVULA EXTINTOR INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": 16091,
-    "pdm": "PUNHO EXTINTOR INC NDIO"
+    "pdm": "PUNHO EXTINTOR INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": 16092,
-    "pdm": "DIFUSOR EXTINTOR INC NDIO"
+    "pdm": "DIFUSOR EXTINTOR INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": 16093,
-    "pdm": "MAN‘METRO EXTINTOR INC NDIO"
+    "pdm": "MAN√îMETRO EXTINTOR INC√äNDIO",
+    "grupo": 42
   },
   {
     "id": 16200,
-    "pdm": "REPARO EXTINTOR"
+    "pdm": "REPARO EXTINTOR",
+    "grupo": 42
   },
   {
     "id": 16419,
-    "pdm": "M¡SCARA CONTRA AGENTES BIOL”GICOS"
+    "pdm": "M√ÅSCARA CONTRA AGENTES BIOL√ìGICOS",
+    "grupo": 42
   },
   {
     "id": 16939,
-    "pdm": "ADAPTADOR ENGATE"
+    "pdm": "ADAPTADOR ENGATE",
+    "grupo": 42
   },
   {
     "id": 16940,
-    "pdm": "BAST√O SINALIZADOR"
+    "pdm": "BAST√ÉO SINALIZADOR",
+    "grupo": 42
   },
   {
     "id": 16941,
-    "pdm": "EQUIPAMENTO PARA DESCONTAMINA«√O E IMPREGNA«√O"
+    "pdm": "EQUIPAMENTO PARA DESCONTAMINA√á√ÉO E IMPREGNA√á√ÉO",
+    "grupo": 42
   },
   {
     "id": 16942,
-    "pdm": "RECIPIENTES PARA COLETA DE MATERIAIS PERIGOSOS. MATERIAIS EEQUIPAMENTOS DE LIMPEZA"
+    "pdm": "RECIPIENTES PARA COLETA DE MATERIAIS PERIGOSOS. MATERIAIS EEQUIPAMENTOS DE LIMPEZA",
+    "grupo": 42
   },
   {
     "id": 16943,
-    "pdm": "ESCUDO PROTE«√O"
+    "pdm": "ESCUDO PROTE√á√ÉO",
+    "grupo": 42
   },
   {
     "id": 16944,
-    "pdm": "EQUIPAMENTO PARA RECICLAGEM E RECUPERA«√O"
+    "pdm": "EQUIPAMENTO PARA RECICLAGEM E RECUPERA√á√ÉO",
+    "grupo": 42
   },
   {
     "id": 17436,
-    "pdm": "CAIXA HIDRANTE"
+    "pdm": "CAIXA HIDRANTE",
+    "grupo": 42
   },
   {
     "id": 17971,
-    "pdm": "ALMOFADA PROTETOR AURICULAR"
+    "pdm": "ALMOFADA PROTETOR AURICULAR",
+    "grupo": 42
   },
   {
     "id": 18642,
-    "pdm": "BARREIRA CONTEN«√O / ABSORVENTE"
+    "pdm": "BARREIRA CONTEN√á√ÉO / ABSORVENTE",
+    "grupo": 42
   },
   {
     "id": 18930,
-    "pdm": "EQUIPAMENTO / ACESS”RIO COMBATE A POLUI«√O HÕDRICA"
+    "pdm": "EQUIPAMENTO / ACESS√ìRIO COMBATE A POLUI√á√ÉO H√çDRICA",
+    "grupo": 42
   }
 ]
