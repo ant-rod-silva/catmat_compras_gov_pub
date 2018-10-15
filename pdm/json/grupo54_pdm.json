@@ -1,0 +1,502 @@
+[
+  {
+    "id": "00765",
+    "pdm": "ESCADA DOMÉSTICA"
+  },
+  {
+    "id": "00970",
+    "pdm": "TORRE AUTOPORTANTE"
+  },
+  {
+    "id": "00971",
+    "pdm": "TORRE LINHA TRANSMISSÃO"
+  },
+  {
+    "id": "00973",
+    "pdm": "ARQUIBANCADA"
+  },
+  {
+    "id": "00974",
+    "pdm": "LAJE ALVEOLAR"
+  },
+  {
+    "id": "00983",
+    "pdm": "RESERVATÓRIO RESFRIADO"
+  },
+  {
+    "id": "00984",
+    "pdm": "TANQUE COMBUSTÍVEL ARMAZENAGEM"
+  },
+  {
+    "id": "00985",
+    "pdm": "TANQUE EXPANSÃO RESFRIAMENTO LEITE"
+  },
+  {
+    "id": "00986",
+    "pdm": "TANQUE REFRIGERADO"
+  },
+  {
+    "id": "00987",
+    "pdm": "TANQUE"
+  },
+  {
+    "id": "00988",
+    "pdm": "VASO PRESSÃO - TANQUE AQUECIDO"
+  },
+  {
+    "id": "00989",
+    "pdm": "VASO PROCESSO"
+  },
+  {
+    "id": "00990",
+    "pdm": "TORRE LINHA TRANSMISSÃO ATÉ 500 KV"
+  },
+  {
+    "id": "00991",
+    "pdm": "VASO PULMÃO"
+  },
+  {
+    "id": "01000",
+    "pdm": "ANDAIME"
+  },
+  {
+    "id": "01001",
+    "pdm": "ESTACA FUNDAÇÃO"
+  },
+  {
+    "id": "01003",
+    "pdm": "ANDAIME ISOLANTE"
+  },
+  {
+    "id": "01004",
+    "pdm": "SAPATA ANDAIME"
+  },
+  {
+    "id": "01005",
+    "pdm": "CORRIMÃO"
+  },
+  {
+    "id": "01006",
+    "pdm": "ESTICADOR"
+  },
+  {
+    "id": "01008",
+    "pdm": "VIGA V"
+  },
+  {
+    "id": "01017",
+    "pdm": "TORRE CONTROLE"
+  },
+  {
+    "id": "01018",
+    "pdm": "TORRE PROJETOR"
+  },
+  {
+    "id": "01023",
+    "pdm": "TORRE ANTENA"
+  },
+  {
+    "id": "01208",
+    "pdm": "ABRIGO"
+  },
+  {
+    "id": "01209",
+    "pdm": "ABRIGO EQUIPAMENTO METEOROLÓGICO"
+  },
+  {
+    "id": "01680",
+    "pdm": "ACESSORIO DE GUARITA"
+  },
+  {
+    "id": "01694",
+    "pdm": "ACESSORIO DE PONTE FIXA"
+  },
+  {
+    "id": "01695",
+    "pdm": "ACESSORIO DE PONTE FLUTUANTE"
+  },
+  {
+    "id": "01696",
+    "pdm": "ACESSORIO DE PONTE MISTA"
+  },
+  {
+    "id": "01722",
+    "pdm": "ACESSORIO PARA TANQUE DE ARMAZENAMENTO"
+  },
+  {
+    "id": "02359",
+    "pdm": "ALOJAMENTO PRE - FABRICADO"
+  },
+  {
+    "id": "03018",
+    "pdm": "ARMAZEM INFLAVEL"
+  },
+  {
+    "id": "03019",
+    "pdm": "ARMAZEM PRE - FABRICADO"
+  },
+  {
+    "id": "03411",
+    "pdm": "BASE DE ANTENA DE USO EXTERNO"
+  },
+  {
+    "id": "03421",
+    "pdm": "BASE DE TORRE DE ANTENA"
+  },
+  {
+    "id": "03621",
+    "pdm": "BLOCO MOLDADO PARA CONSTRUÇÃO"
+  },
+  {
+    "id": "03653",
+    "pdm": "BÓIA DE ANCORAGEM"
+  },
+  {
+    "id": "03796",
+    "pdm": "BOMBA SUCÇÃO FLUTUANTE TANQUE ARMAZENAMENTO"
+  },
+  {
+    "id": "03854",
+    "pdm": "BRACADEIRA PARA TORRE PRE - FABRICADA"
+  },
+  {
+    "id": "04126",
+    "pdm": "CAIXA DE CORREIO"
+  },
+  {
+    "id": "04680",
+    "pdm": "CASA PRÉ - FABRICADA"
+  },
+  {
+    "id": "04733",
+    "pdm": "CELEIRO"
+  },
+  {
+    "id": "04734",
+    "pdm": "CELEIRO PRE - FABRICADO"
+  },
+  {
+    "id": "05290",
+    "pdm": "COBERTURA LEVE"
+  },
+  {
+    "id": "05423",
+    "pdm": "PEÇAS/COMPONENTES PRÉ-FABRICADOS"
+  },
+  {
+    "id": "06051",
+    "pdm": "DEGRAU DE TORRE PRE - FABRICADA"
+  },
+  {
+    "id": "06422",
+    "pdm": "EDIFICAÇÃO PRÉ-FABRICADA"
+  },
+  {
+    "id": "06591",
+    "pdm": "ENVOLTORIO ( TIPO VEDACAO ) - TANQUE DE PETROLEO"
+  },
+  {
+    "id": "06592",
+    "pdm": "ENVOLTÓRIO - TANQUE PRESSÃO"
+  },
+  {
+    "id": "06593",
+    "pdm": "ENVOLTÓRIO - TANQUE VÁCUO"
+  },
+  {
+    "id": "06875",
+    "pdm": "ESCADA DE ALUMINIO SINGELA"
+  },
+  {
+    "id": "06879",
+    "pdm": "ESCADA DE MADEIRA SINGELA"
+  },
+  {
+    "id": "06881",
+    "pdm": "ESCADA TREPADEIRA"
+  },
+  {
+    "id": "06882",
+    "pdm": "ESCADA EXTENSÍVEL DE ALUMÍNIO"
+  },
+  {
+    "id": "06884",
+    "pdm": "ESCADA EXTENSIVEL DE MADEIRA"
+  },
+  {
+    "id": "06885",
+    "pdm": "ESCADA"
+  },
+  {
+    "id": "06892",
+    "pdm": "ESCADA TIPO CAVALETE"
+  },
+  {
+    "id": "06957",
+    "pdm": "ESFERA DE ARMAZENAMENTO"
+  },
+  {
+    "id": "07045",
+    "pdm": "ESPORA PARA TREPAR EM POSTE E COMPONENTES"
+  },
+  {
+    "id": "07076",
+    "pdm": "ESTACA FUNDACAO"
+  },
+  {
+    "id": "07196",
+    "pdm": "ESTRUTURA DE CONCRETO PARA LINHA ACIMA DE 145KV"
+  },
+  {
+    "id": "07197",
+    "pdm": "ESTRUTURA DE CONCRETO PARA LINHA DE ATE 72.5KV INCLUSIVE"
+  },
+  {
+    "id": "07198",
+    "pdm": "ESTRUTURA DE CONCRETO PARA LINHA DE 72.5KV ATE 145KV INCLUSIVE"
+  },
+  {
+    "id": "07199",
+    "pdm": "ESTRUTURA DE CONCRETO PARA PONTE"
+  },
+  {
+    "id": "07201",
+    "pdm": "ESTRUTURA E SUPORTE METALICO PARA SUBESTACAO"
+  },
+  {
+    "id": "07203",
+    "pdm": "ESTRUTURA METÁLICA"
+  },
+  {
+    "id": "07204",
+    "pdm": "ESTRUTURA METÁLICA - MEZANINO/PLATAFORMA/COBERTURA"
+  },
+  {
+    "id": "07205",
+    "pdm": "ESTRUTURA METALICA PARA PONTE"
+  },
+  {
+    "id": "07208",
+    "pdm": "ESTRUTURA TELHADO PRE FABRICADO - MADEIRA"
+  },
+  {
+    "id": "07209",
+    "pdm": "ESTRUTURA PRÉ-FABRICADA - TORRE BÁSICA"
+  },
+  {
+    "id": "07381",
+    "pdm": "FERRAGEM ESPECIFICA DE TORRE PRE - FABRICADA"
+  },
+  {
+    "id": "07672",
+    "pdm": "FLUTUADOR PARA PONTAO"
+  },
+  {
+    "id": "07673",
+    "pdm": "FLUTUADOR PARA PONTE"
+  },
+  {
+    "id": "07727",
+    "pdm": "PEÇAS E COMPONENTES ESCADA"
+  },
+  {
+    "id": "07730",
+    "pdm": "FORMA PRE - FABRICADA DE CONCRETO"
+  },
+  {
+    "id": "08123",
+    "pdm": "GUARITA"
+  },
+  {
+    "id": "08745",
+    "pdm": "LAVANDERIA"
+  },
+  {
+    "id": "09799",
+    "pdm": "MISTURADOR HIDRÁULICO"
+  },
+  {
+    "id": 10026,
+    "pdm": "MURO PRÉ-FABRICADO"
+  },
+  {
+    "id": 10220,
+    "pdm": "ORATORIO"
+  },
+  {
+    "id": 10312,
+    "pdm": "PAINEL PRÉ-FABRICADO"
+  },
+  {
+    "id": 10313,
+    "pdm": "PAINEL PRE - FABRICADO DE MONTAGEM PREDIAL"
+  },
+  {
+    "id": 10477,
+    "pdm": "PASSARELA PRÉ - FABRICADA"
+  },
+  {
+    "id": 10903,
+    "pdm": "PLATAFORMA PARA USO EM REPARO"
+  },
+  {
+    "id": 11000,
+    "pdm": "PONTE / PASSARELA - MADEIRA"
+  },
+  {
+    "id": 11005,
+    "pdm": "PONTE FLUTUANTE"
+  },
+  {
+    "id": 11336,
+    "pdm": "PULPITO PORTATIL"
+  },
+  {
+    "id": 11966,
+    "pdm": "SECAO DE PONTE FIXA"
+  },
+  {
+    "id": 11967,
+    "pdm": "SECAO DE PONTE FLUTUANTE"
+  },
+  {
+    "id": 11991,
+    "pdm": "SELO DE VEDACAO PARA TETO FLUTUANTE"
+  },
+  {
+    "id": 12067,
+    "pdm": "SILO DE MATERIAL METALICO"
+  },
+  {
+    "id": 12456,
+    "pdm": "TABLADO"
+  },
+  {
+    "id": 12534,
+    "pdm": "TANQUE DE ARMAZENAMENTO DESMONTADO - RESERVATORIO"
+  },
+  {
+    "id": 12622,
+    "pdm": "TEMPLATE SUBMARINO PARA MULTIPLO POCO"
+  },
+  {
+    "id": 12700,
+    "pdm": "TETO FLUTUANTE INTERNO"
+  },
+  {
+    "id": 12784,
+    "pdm": "TIRANTE DE TORRE PRE - FABRICADA"
+  },
+  {
+    "id": 12838,
+    "pdm": "TORRE DE HOLOFOTES"
+  },
+  {
+    "id": 12839,
+    "pdm": "TORRE DE LINHA DE TRANSMISSAO ATE 145KV"
+  },
+  {
+    "id": 12840,
+    "pdm": "TORRE DE LINHA DE TRANSMISSAO ATE 242KV"
+  },
+  {
+    "id": 12841,
+    "pdm": "TORRE DE LINHA DE TRANSMISSAO ATE 362KV"
+  },
+  {
+    "id": 12842,
+    "pdm": "TORRE DE LINHA DE TRANSMISSAO ATE 550KV"
+  },
+  {
+    "id": 12843,
+    "pdm": "TORRE DE LINHA DE TRANSMISSAO ATE 800KV"
+  },
+  {
+    "id": 12844,
+    "pdm": "TORRE DE RADAR"
+  },
+  {
+    "id": 12846,
+    "pdm": "TORRE PARA TANQUE DE ARMAZENAMENTO"
+  },
+  {
+    "id": 12946,
+    "pdm": "TRAVESSA PARA TORRE PRE - FABRICADA"
+  },
+  {
+    "id": 13321,
+    "pdm": "VASO PRESSAO - TANQUE AQUECIDO"
+  },
+  {
+    "id": 13435,
+    "pdm": "VIGA DE ANCORAGEM DE TORRE PRE - FABRICADA"
+  },
+  {
+    "id": 13440,
+    "pdm": "VIGA V"
+  },
+  {
+    "id": 13564,
+    "pdm": "ESTRUTURA CONCRETO PRÉ - MOLDADO"
+  },
+  {
+    "id": 13565,
+    "pdm": "ESTRUTURA INDUSTRIAL"
+  },
+  {
+    "id": 13568,
+    "pdm": "FERRAGEM DE METAL NAO FERROSO - REDE DISTRIBUICAO"
+  },
+  {
+    "id": 13572,
+    "pdm": "GALPAO PRE - FABRICADO"
+  },
+  {
+    "id": 13610,
+    "pdm": "PALANQUE PRE - FABRICADO"
+  },
+  {
+    "id": 13611,
+    "pdm": "PASSARELA / PONTE ( FINGER ) EMBARQUE - PASSAGEIRO"
+  },
+  {
+    "id": 15781,
+    "pdm": "ESPIGÃO TELHADO"
+  },
+  {
+    "id": 16643,
+    "pdm": "TORRE COMUNICAÇÃO VIA RÁDIO"
+  },
+  {
+    "id": 17007,
+    "pdm": "EDIFICAÇÕES PRÉ-FABRICADAS E PORTÁTEIS"
+  },
+  {
+    "id": 17008,
+    "pdm": "ABRIGOS DE PAREDE RÍGIDA"
+  },
+  {
+    "id": 17009,
+    "pdm": "CONSTRUÇÕES COLETIVAS MODULARES DE APOIO"
+  },
+  {
+    "id": 17010,
+    "pdm": "PONTES FIXAS E FLUTUANTES"
+  },
+  {
+    "id": 17011,
+    "pdm": "TANQUES DE ARMAZENAGEM"
+  },
+  {
+    "id": 17012,
+    "pdm": "EQUIPAMENTOS PARA MONTAGEM DE ANDAIME E FORMAS DE CONCRETO"
+  },
+  {
+    "id": 17013,
+    "pdm": "ESTRUTURAS DE TORRES PRÉ-FABRICADAS"
+  },
+  {
+    "id": 17014,
+    "pdm": "ESTRUTURAS PRÉ-FABRICADAS DIVERSAS"
+  }
+]
