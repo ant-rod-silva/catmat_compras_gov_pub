@@ -1,0 +1,1556 @@
+[
+  {
+    "id": "00597",
+    "pdm": "CHAVE SOQUETE",
+    "grupo": 51
+  },
+  {
+    "id": "00598",
+    "pdm": "CHAVE SOQUETE - POLEGADA",
+    "grupo": 51
+  },
+  {
+    "id": "00599",
+    "pdm": "COLHER PEDREIRO",
+    "grupo": 51
+  },
+  {
+    "id": "00600",
+    "pdm": "BAÚ FERRAMENTAS",
+    "grupo": 51
+  },
+  {
+    "id": "00601",
+    "pdm": "MALETA FERRAMENTAS",
+    "grupo": 51
+  },
+  {
+    "id": "00627",
+    "pdm": "SERROTE CARPINTEIRO",
+    "grupo": 51
+  },
+  {
+    "id": "00628",
+    "pdm": "TALHADEIRA",
+    "grupo": 51
+  },
+  {
+    "id": "00629",
+    "pdm": "CHAVE ESTRELA - MILIMETRADA",
+    "grupo": 51
+  },
+  {
+    "id": "00630",
+    "pdm": "CHAVE ESTRELA - POLEGADA",
+    "grupo": 51
+  },
+  {
+    "id": "00690",
+    "pdm": "ALICATE BICO MEIA CANA",
+    "grupo": 51
+  },
+  {
+    "id": "00691",
+    "pdm": "ALICATE BICO MEIA CANA RETO COM CORTE",
+    "grupo": 51
+  },
+  {
+    "id": "00692",
+    "pdm": "ALICATE BICO MEIA CANA RETO SEM CORTE",
+    "grupo": 51
+  },
+  {
+    "id": "00693",
+    "pdm": "ALICATE DESCASCAR FIO",
+    "grupo": 51
+  },
+  {
+    "id": "00694",
+    "pdm": "ALICATE VAZADOR DE COURO DE TAMBOR",
+    "grupo": 51
+  },
+  {
+    "id": "00695",
+    "pdm": "ARCO SERRA",
+    "grupo": 51
+  },
+  {
+    "id": "00696",
+    "pdm": "FACÃO",
+    "grupo": 51
+  },
+  {
+    "id": "00697",
+    "pdm": "BOLSA FERRAMENTA",
+    "grupo": 51
+  },
+  {
+    "id": "00702",
+    "pdm": "ALICATE UNIVERSAL",
+    "grupo": 51
+  },
+  {
+    "id": "00817",
+    "pdm": "CAVADEIRA GOIVA",
+    "grupo": 51
+  },
+  {
+    "id": "00818",
+    "pdm": "FOICE",
+    "grupo": 51
+  },
+  {
+    "id": "00819",
+    "pdm": "SERROTE COSTA",
+    "grupo": 51
+  },
+  {
+    "id": "00820",
+    "pdm": "SERROTE PONTA",
+    "grupo": 51
+  },
+  {
+    "id": "00821",
+    "pdm": "SERROTE PROFISSIONAL",
+    "grupo": 51
+  },
+  {
+    "id": "01037",
+    "pdm": "FURADEIRA ELÉTRICA EMPUNHÁVEL",
+    "grupo": 51
+  },
+  {
+    "id": "01050",
+    "pdm": "MACACO HIDRÁULICO",
+    "grupo": 51
+  },
+  {
+    "id": "01051",
+    "pdm": "MACACO HIDRO-PNEUMÁTICO",
+    "grupo": 51
+  },
+  {
+    "id": "01052",
+    "pdm": "MARTELO BORRACHA",
+    "grupo": 51
+  },
+  {
+    "id": "01053",
+    "pdm": "TORNO BANCADA",
+    "grupo": 51
+  },
+  {
+    "id": "01054",
+    "pdm": "LIXADEIRA",
+    "grupo": 51
+  },
+  {
+    "id": "01098",
+    "pdm": "CANIVETE",
+    "grupo": 51
+  },
+  {
+    "id": "01116",
+    "pdm": "MACHADINHA",
+    "grupo": 51
+  },
+  {
+    "id": "01126",
+    "pdm": "FACA CAÇA",
+    "grupo": 51
+  },
+  {
+    "id": "01127",
+    "pdm": "FACA PESCA",
+    "grupo": 51
+  },
+  {
+    "id": "01236",
+    "pdm": "ABRIDOR RELÓGIO",
+    "grupo": 51
+  },
+  {
+    "id": "01269",
+    "pdm": "SOQUETE COM ENCAIXE PARA FERRAMENTA",
+    "grupo": 51
+  },
+  {
+    "id": "01353",
+    "pdm": "PLAINA",
+    "grupo": 51
+  },
+  {
+    "id": "01569",
+    "pdm": "ESPÁTULA",
+    "grupo": 51
+  },
+  {
+    "id": "01718",
+    "pdm": "ACESSORIO PARA MAQUINA OPERATRIZ",
+    "grupo": 51
+  },
+  {
+    "id": "02086",
+    "pdm": "ADAPTADOR DE FERRAMENTA MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": "02217",
+    "pdm": "ALARGADOR PARA FERRAMENTA MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": "02234",
+    "pdm": "ALAVANCA",
+    "grupo": 51
+  },
+  {
+    "id": "02305",
+    "pdm": "ALICATE BICO",
+    "grupo": 51
+  },
+  {
+    "id": "02306",
+    "pdm": "ALICATE COMPRESSÃO HIDRÁULICO",
+    "grupo": 51
+  },
+  {
+    "id": "02307",
+    "pdm": "ALICATE COMPRESSÃO MECÂNICO",
+    "grupo": 51
+  },
+  {
+    "id": "02308",
+    "pdm": "ALICATE DE CORTE",
+    "grupo": 51
+  },
+  {
+    "id": "02309",
+    "pdm": "DECAPADOR",
+    "grupo": 51
+  },
+  {
+    "id": "02311",
+    "pdm": "ALICATE DE PRESSÃO",
+    "grupo": 51
+  },
+  {
+    "id": "02312",
+    "pdm": "ALICATE EMPALMADOR DE TERMINAL",
+    "grupo": 51
+  },
+  {
+    "id": "02313",
+    "pdm": "ALICATE PARA CLIMPAR",
+    "grupo": 51
+  },
+  {
+    "id": "02314",
+    "pdm": "ALICATE PARA COMPRESSAO DO LACRE CHUMBO",
+    "grupo": 51
+  },
+  {
+    "id": "02318",
+    "pdm": "ALICATE REBITADOR PEÇAS / ACESSÓRIOS",
+    "grupo": 51
+  },
+  {
+    "id": "02320",
+    "pdm": "ALICATE TRAVADOR",
+    "grupo": 51
+  },
+  {
+    "id": "02893",
+    "pdm": "APERTADEIRA LEVE PARAFUSO PNEUMATICA",
+    "grupo": 51
+  },
+  {
+    "id": "02894",
+    "pdm": "APERTADEIRA MANUAL CATRACA",
+    "grupo": 51
+  },
+  {
+    "id": "02895",
+    "pdm": "APERTADEIRA MANUAL MULTIPLA ELETRONICA",
+    "grupo": 51
+  },
+  {
+    "id": "02896",
+    "pdm": "APERTADEIRA MANUAL MULTIPLA PNEUMATICA",
+    "grupo": 51
+  },
+  {
+    "id": "02975",
+    "pdm": "ARCO DE FURADEIRA",
+    "grupo": 51
+  },
+  {
+    "id": "02977",
+    "pdm": "ARCO DE PUA",
+    "grupo": 51
+  },
+  {
+    "id": "03011",
+    "pdm": "ARMÁRIO GUARDAR FERRAMENTA",
+    "grupo": 51
+  },
+  {
+    "id": "03485",
+    "pdm": "BAU FERRAMENTAS",
+    "grupo": 51
+  },
+  {
+    "id": "03526",
+    "pdm": "BICO DE ALICATE REBITADOR",
+    "grupo": 51
+  },
+  {
+    "id": "03553",
+    "pdm": "BIGORNA",
+    "grupo": 51
+  },
+  {
+    "id": "03793",
+    "pdm": "BOMBA PNEUMÁTICA",
+    "grupo": 51
+  },
+  {
+    "id": "03878",
+    "pdm": "BROCA ACO CARBONO",
+    "grupo": 51
+  },
+  {
+    "id": "03879",
+    "pdm": "BROCA",
+    "grupo": 51
+  },
+  {
+    "id": "03883",
+    "pdm": "BROCA CHATA",
+    "grupo": 51
+  },
+  {
+    "id": "03884",
+    "pdm": "BROCA CHATA ACO CARBONO",
+    "grupo": 51
+  },
+  {
+    "id": "03894",
+    "pdm": "BROCA EXPANSIVA",
+    "grupo": 51
+  },
+  {
+    "id": "03896",
+    "pdm": "BROCA FORSTNER",
+    "grupo": 51
+  },
+  {
+    "id": "03897",
+    "pdm": "BROCA HELICOIDAL",
+    "grupo": 51
+  },
+  {
+    "id": "03899",
+    "pdm": "BROCA PARA CONCRETO",
+    "grupo": 51
+  },
+  {
+    "id": "03900",
+    "pdm": "BROCA PARA FERRO E ACO",
+    "grupo": 51
+  },
+  {
+    "id": "03901",
+    "pdm": "BROCA PARA MADEIRA",
+    "grupo": 51
+  },
+  {
+    "id": "03903",
+    "pdm": "BROCA PARA PAREDE",
+    "grupo": 51
+  },
+  {
+    "id": "03906",
+    "pdm": "BROCA RETA",
+    "grupo": 51
+  },
+  {
+    "id": "03907",
+    "pdm": "BROCA VASADA PERFURAÇÃO PAPEL",
+    "grupo": 51
+  },
+  {
+    "id": "03908",
+    "pdm": "BROCA WÍDIA",
+    "grupo": 51
+  },
+  {
+    "id": "04026",
+    "pdm": "CABO FERRAMENTA",
+    "grupo": 51
+  },
+  {
+    "id": "04067",
+    "pdm": "CACAROLA DE AQUECIMENTO DE COLA",
+    "grupo": 51
+  },
+  {
+    "id": "04424",
+    "pdm": "CANIVETE ELETRICISTA",
+    "grupo": 51
+  },
+  {
+    "id": "04710",
+    "pdm": "CAVADEIRA DUPLA",
+    "grupo": 51
+  },
+  {
+    "id": "04711",
+    "pdm": "CAVADEIRA TIPO ALAVANCA",
+    "grupo": 51
+  },
+  {
+    "id": "04811",
+    "pdm": "CHANFRADEIRA",
+    "grupo": 51
+  },
+  {
+    "id": "04870",
+    "pdm": "CHAVE CANHÃO TUBULAR",
+    "grupo": 51
+  },
+  {
+    "id": "04871",
+    "pdm": "EMPUNHADEIRA",
+    "grupo": 51
+  },
+  {
+    "id": "04872",
+    "pdm": "CHAVE CATRACA",
+    "grupo": 51
+  },
+  {
+    "id": "04873",
+    "pdm": "CHAVE COMBINADA",
+    "grupo": 51
+  },
+  {
+    "id": "04875",
+    "pdm": "CHAVE AFERIÇÃO",
+    "grupo": 51
+  },
+  {
+    "id": "04876",
+    "pdm": "CHAVE FIXA",
+    "grupo": 51
+  },
+  {
+    "id": "04879",
+    "pdm": "CHAVE DE CORRENTE",
+    "grupo": 51
+  },
+  {
+    "id": "04880",
+    "pdm": "CHAVE REGULAGEM SUSPENSÃO",
+    "grupo": 51
+  },
+  {
+    "id": "04881",
+    "pdm": "CHAVE FENDA",
+    "grupo": 51
+  },
+  {
+    "id": "04883",
+    "pdm": "CHAVE DE FENDA TIPO RELOJOEIRO",
+    "grupo": 51
+  },
+  {
+    "id": "04885",
+    "pdm": "CHAVE BIELA",
+    "grupo": 51
+  },
+  {
+    "id": "04887",
+    "pdm": "CHAVE DE MANDRIL",
+    "grupo": 51
+  },
+  {
+    "id": "04890",
+    "pdm": "CHAVE ALLEN",
+    "grupo": 51
+  },
+  {
+    "id": "04891",
+    "pdm": "CHAVE PARAFUSO FENDA PHILLIPS",
+    "grupo": 51
+  },
+  {
+    "id": "04895",
+    "pdm": "CHAVE REGULAGEM COM BALANCIM",
+    "grupo": 51
+  },
+  {
+    "id": "04896",
+    "pdm": "CHAVE DE RODA",
+    "grupo": 51
+  },
+  {
+    "id": "04906",
+    "pdm": "CHAVE ENGATE RÁPIDO",
+    "grupo": 51
+  },
+  {
+    "id": "04907",
+    "pdm": "CHAVE ESTRELA",
+    "grupo": 51
+  },
+  {
+    "id": "04908",
+    "pdm": "CHAVE LAVATÓRIO",
+    "grupo": 51
+  },
+  {
+    "id": "04915",
+    "pdm": "CHAVE INGLESA",
+    "grupo": 51
+  },
+  {
+    "id": "04920",
+    "pdm": "CHAVE PARA CONEXAO RANHADURA",
+    "grupo": 51
+  },
+  {
+    "id": "04921",
+    "pdm": "CHAVE DOBRAR FERRO",
+    "grupo": 51
+  },
+  {
+    "id": "04922",
+    "pdm": "CHAVE HIDRANTE",
+    "grupo": 51
+  },
+  {
+    "id": "04923",
+    "pdm": "CHAVE PARA TUBO",
+    "grupo": 51
+  },
+  {
+    "id": "04939",
+    "pdm": "FERRAMENTA",
+    "grupo": 51
+  },
+  {
+    "id": "04941",
+    "pdm": "CHAVE TIPO CRUZETA",
+    "grupo": 51
+  },
+  {
+    "id": "04942",
+    "pdm": "CHAVE COM CORTE",
+    "grupo": 51
+  },
+  {
+    "id": "04943",
+    "pdm": "CHAVE TORX",
+    "grupo": 51
+  },
+  {
+    "id": "04951",
+    "pdm": "CHIBANCA",
+    "grupo": 51
+  },
+  {
+    "id": "05037",
+    "pdm": "CINZEL",
+    "grupo": 51
+  },
+  {
+    "id": "05566",
+    "pdm": "CONE PARA USO EXCLUSIVO EM FERRAMENTA MANUAL MOTORIZADA",
+    "grupo": 51
+  },
+  {
+    "id": "05658",
+    "pdm": "CONJUNTO ( KIT ) FERRAMENTA",
+    "grupo": 51
+  },
+  {
+    "id": "05715",
+    "pdm": "CONJUNTO DE FERRAMENTA MANUAL COM CORTE PARA BOM-BEIRO HIDRAULICO",
+    "grupo": 51
+  },
+  {
+    "id": "05716",
+    "pdm": "CONJUNTO DE FERRAMENTA MANUAL COM CORTE PARA CAR-PINTEIRO",
+    "grupo": 51
+  },
+  {
+    "id": "05717",
+    "pdm": "CONJUNTO FERRAMENTAS",
+    "grupo": 51
+  },
+  {
+    "id": "05718",
+    "pdm": "CONJUNTO DE FERRAMENTA MANUAL COM CORTE PARA MECANICO",
+    "grupo": 51
+  },
+  {
+    "id": "05719",
+    "pdm": "CONJUNTO DE FERRAMENTA MANUAL COM CORTE PARA MARCENEIRO",
+    "grupo": 51
+  },
+  {
+    "id": "05720",
+    "pdm": "CONJUNTO DE FERRAMENTA MANUAL COM CORTE PARA VIDRACEIRO",
+    "grupo": 51
+  },
+  {
+    "id": "05721",
+    "pdm": "CONJUNTO DE FERRAMENTA MANUAL SEM CORTE PARA BOM-BEIRO HIDRAULICO",
+    "grupo": 51
+  },
+  {
+    "id": "05722",
+    "pdm": "CONJUNTO DE FERRAMENTA MANUAL SEM CORTE PARA CAR-PINTEIRO",
+    "grupo": 51
+  },
+  {
+    "id": "05723",
+    "pdm": "CONJUNTO DE FERRAMENTA MANUAL SEM CORTE PARA ELE-TRICISTA",
+    "grupo": 51
+  },
+  {
+    "id": "05724",
+    "pdm": "CONJUNTO DE FERRAMENTA MANUAL SEM CORTE PARA MAR-CENEIRO",
+    "grupo": 51
+  },
+  {
+    "id": "05725",
+    "pdm": "CONJUNTO DE FERRAMENTA MANUAL SEM CORTE PARA MECANICO",
+    "grupo": 51
+  },
+  {
+    "id": "05726",
+    "pdm": "CONJUNTO DE FERRAMENTA MANUAL SEM CORTE PARA VIDRACEIRO",
+    "grupo": 51
+  },
+  {
+    "id": "05741",
+    "pdm": "CONJUNTO TARRAXA",
+    "grupo": 51
+  },
+  {
+    "id": "05747",
+    "pdm": "CONJUNTO FERRAMENTA MANUAL CHAVE L",
+    "grupo": 51
+  },
+  {
+    "id": "05914",
+    "pdm": "CORTA - FIO",
+    "grupo": 51
+  },
+  {
+    "id": "05915",
+    "pdm": "CORTA-VERGALHÃO",
+    "grupo": 51
+  },
+  {
+    "id": "05923",
+    "pdm": "CORTADOR DE VIDRO",
+    "grupo": 51
+  },
+  {
+    "id": "05924",
+    "pdm": "CORTADOR MANUAL / ELÉTRICO",
+    "grupo": 51
+  },
+  {
+    "id": "05925",
+    "pdm": "CORTADOR ELETRICO DE TUBO",
+    "grupo": 51
+  },
+  {
+    "id": "05930",
+    "pdm": "CORTADOR MANUAL TUBO",
+    "grupo": 51
+  },
+  {
+    "id": "05939",
+    "pdm": "COSSINETE",
+    "grupo": 51
+  },
+  {
+    "id": "06071",
+    "pdm": "DESANDADOR PARA MACHO",
+    "grupo": 51
+  },
+  {
+    "id": "06079",
+    "pdm": "DESCOURADEIRA PNEUMATICA",
+    "grupo": 51
+  },
+  {
+    "id": "06083",
+    "pdm": "DESEMPENADEIRA PARA ARGAMASSA",
+    "grupo": 51
+  },
+  {
+    "id": "06084",
+    "pdm": "DESEMPENADEIRA MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": "06086",
+    "pdm": "DESENCRUSTADOR PNEUMÁTICO MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": "06088",
+    "pdm": "DESENGROSSADEIRA DE MADEIRA",
+    "grupo": 51
+  },
+  {
+    "id": "06089",
+    "pdm": "DESENROLADOR FIO",
+    "grupo": 51
+  },
+  {
+    "id": "06261",
+    "pdm": "DISCO FACA",
+    "grupo": 51
+  },
+  {
+    "id": "06269",
+    "pdm": "DISCO PARA USO EXCLUSIVO EM FERRAMENTA MANUAL MOTORIZADA",
+    "grupo": 51
+  },
+  {
+    "id": "06372",
+    "pdm": "DOBRADOR CANO / TUBO",
+    "grupo": 51
+  },
+  {
+    "id": "06590",
+    "pdm": "ENVERGADOR DE TUBO HIDRAULICO",
+    "grupo": 51
+  },
+  {
+    "id": "06595",
+    "pdm": "ENXADA",
+    "grupo": 51
+  },
+  {
+    "id": "06596",
+    "pdm": "ENXADA DE CONSTRUCAO",
+    "grupo": 51
+  },
+  {
+    "id": "06608",
+    "pdm": "ENXO",
+    "grupo": 51
+  },
+  {
+    "id": "06825",
+    "pdm": "EQUIPAMENTO PARA FURO OVOIDE",
+    "grupo": 51
+  },
+  {
+    "id": "06913",
+    "pdm": "ESCARIADOR",
+    "grupo": 51
+  },
+  {
+    "id": "06949",
+    "pdm": "ESCOVA METÁLICA",
+    "grupo": 51
+  },
+  {
+    "id": "06971",
+    "pdm": "ESMERILHADEIRA ELETRICA",
+    "grupo": 51
+  },
+  {
+    "id": "06975",
+    "pdm": "ESMERILHADEIRA MANUAL MOTORIZADA TIPO EMPUNHAVEL",
+    "grupo": 51
+  },
+  {
+    "id": "06976",
+    "pdm": "ESMERILHADEIRA PNEUMÁTICA MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": "07159",
+    "pdm": "ESTOJO DE TARRACHA",
+    "grupo": 51
+  },
+  {
+    "id": "07163",
+    "pdm": "ESTOJO PARA GUARDA DE FERRAMENTA",
+    "grupo": 51
+  },
+  {
+    "id": "07246",
+    "pdm": "EXTENSAO DE CHAVE SOQUETE",
+    "grupo": 51
+  },
+  {
+    "id": "07254",
+    "pdm": "EXTENSOR DE CABO DE ACO",
+    "grupo": 51
+  },
+  {
+    "id": "07269",
+    "pdm": "EXTRATOR DE CIRCUITO IMPRESSO",
+    "grupo": 51
+  },
+  {
+    "id": "07387",
+    "pdm": "FERRAMENTA ELETRICA",
+    "grupo": 51
+  },
+  {
+    "id": "07391",
+    "pdm": "FERRAMENTA PARA PORCA GRIMPADA",
+    "grupo": 51
+  },
+  {
+    "id": "07392",
+    "pdm": "FERRAMENTA PNEUMATICA",
+    "grupo": 51
+  },
+  {
+    "id": "07400",
+    "pdm": "FERRO DE PUA",
+    "grupo": 51
+  },
+  {
+    "id": "07499",
+    "pdm": "FINCAPINO PEÇAS / ACESSÓRIOS",
+    "grupo": 51
+  },
+  {
+    "id": "07687",
+    "pdm": "FOLE DE USO EM JOALHERIA",
+    "grupo": 51
+  },
+  {
+    "id": "07733",
+    "pdm": "FORMÃO",
+    "grupo": 51
+  },
+  {
+    "id": "07735",
+    "pdm": "FORMAO DE ACO CARBONO",
+    "grupo": 51
+  },
+  {
+    "id": "07768",
+    "pdm": "FORQUILHAO",
+    "grupo": 51
+  },
+  {
+    "id": "07868",
+    "pdm": "FURADEIRA",
+    "grupo": 51
+  },
+  {
+    "id": "07873",
+    "pdm": "FURADEIRA PNEUMATICA MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": "07915",
+    "pdm": "GANCHO FERRAGEM",
+    "grupo": 51
+  },
+  {
+    "id": "07924",
+    "pdm": "GARFO DE MULTIAPLICACAO",
+    "grupo": 51
+  },
+  {
+    "id": "08055",
+    "pdm": "GRAMINHO",
+    "grupo": 51
+  },
+  {
+    "id": "08059",
+    "pdm": "GRAMPEADOR TIPO PISTOLA",
+    "grupo": 51
+  },
+  {
+    "id": "08063",
+    "pdm": "GRAMPO C ( SARGENTO )",
+    "grupo": 51
+  },
+  {
+    "id": "08108",
+    "pdm": "GROSA - FERRAMENTA",
+    "grupo": 51
+  },
+  {
+    "id": "08110",
+    "pdm": "GROSA MEIA CANA BASTARDA",
+    "grupo": 51
+  },
+  {
+    "id": "08111",
+    "pdm": "GROSA REDONDA",
+    "grupo": 51
+  },
+  {
+    "id": "08135",
+    "pdm": "GUILHOTINA",
+    "grupo": 51
+  },
+  {
+    "id": "08136",
+    "pdm": "GUILHOTINA MECANICA",
+    "grupo": 51
+  },
+  {
+    "id": "08301",
+    "pdm": "IMPLEMENTO ABRASIVO PARA USO EXCLUSIVO EM FERRAMENTA MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": "08546",
+    "pdm": "JOGO DE FERRAMENTA",
+    "grupo": 51
+  },
+  {
+    "id": "08552",
+    "pdm": "JOGO DE TARRACHA",
+    "grupo": 51
+  },
+  {
+    "id": "08620",
+    "pdm": "LÂMINA SERRA MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": "08674",
+    "pdm": "LAMPARINA DE SOLDAGEM",
+    "grupo": 51
+  },
+  {
+    "id": "08831",
+    "pdm": "LIMA MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": "08832",
+    "pdm": "LIMA - FERRAMENTA",
+    "grupo": 51
+  },
+  {
+    "id": "08835",
+    "pdm": "LIMA AÇO MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": "08836",
+    "pdm": "LIMA BASTARDA",
+    "grupo": 51
+  },
+  {
+    "id": "08837",
+    "pdm": "LIMA CHATA",
+    "grupo": 51
+  },
+  {
+    "id": "08840",
+    "pdm": "LIMA ROSQUEADA",
+    "grupo": 51
+  },
+  {
+    "id": "08844",
+    "pdm": "LIMATÃO",
+    "grupo": 51
+  },
+  {
+    "id": "08992",
+    "pdm": "EXTRATOR",
+    "grupo": 51
+  },
+  {
+    "id": "08993",
+    "pdm": "MACACO MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": "08996",
+    "pdm": "MACARICO",
+    "grupo": 51
+  },
+  {
+    "id": "09004",
+    "pdm": "MACHADO",
+    "grupo": 51
+  },
+  {
+    "id": "09005",
+    "pdm": "MACHO",
+    "grupo": 51
+  },
+  {
+    "id": "09051",
+    "pdm": "MALHO",
+    "grupo": 51
+  },
+  {
+    "id": "09080",
+    "pdm": "MANDIBULA DE TORNO",
+    "grupo": 51
+  },
+  {
+    "id": "09389",
+    "pdm": "MARRETA DE BORRACHA",
+    "grupo": 51
+  },
+  {
+    "id": "09390",
+    "pdm": "MARRETA",
+    "grupo": 51
+  },
+  {
+    "id": "09391",
+    "pdm": "MARTELETE ELETRICO",
+    "grupo": 51
+  },
+  {
+    "id": "09393",
+    "pdm": "MARTELETE PNEUMATICO MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": "09399",
+    "pdm": "MARTELO TIPO BOLA",
+    "grupo": 51
+  },
+  {
+    "id": "09503",
+    "pdm": "MATRIZ BIPARTIDA",
+    "grupo": 51
+  },
+  {
+    "id": "09507",
+    "pdm": "PEÇA / ACESSÓRIO MACACO HIDRÁULICO",
+    "grupo": 51
+  },
+  {
+    "id": 10269,
+    "pdm": "PÁ - CORTE",
+    "grupo": 51
+  },
+  {
+    "id": 10273,
+    "pdm": "PÁ",
+    "grupo": 51
+  },
+  {
+    "id": 10276,
+    "pdm": "PA DE MULTIAPLICACAO",
+    "grupo": 51
+  },
+  {
+    "id": 10424,
+    "pdm": "PARAFUSADEIRA",
+    "grupo": 51
+  },
+  {
+    "id": 10425,
+    "pdm": "PARAFUSADEIRA PNEUMATICA MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": 10426,
+    "pdm": "PARAFUSADORA ELETRICA",
+    "grupo": 51
+  },
+  {
+    "id": 10518,
+    "pdm": "PE - DE - CABRA ( FERRAMENTA )",
+    "grupo": 51
+  },
+  {
+    "id": 10593,
+    "pdm": "PEGA CHAPA",
+    "grupo": 51
+  },
+  {
+    "id": 10700,
+    "pdm": "PICARETA",
+    "grupo": 51
+  },
+  {
+    "id": 11020,
+    "pdm": "PONTEIRO ALFABETICO DE GRAVACAO",
+    "grupo": 51
+  },
+  {
+    "id": 11021,
+    "pdm": "PONTEIRO DE FURACAO",
+    "grupo": 51
+  },
+  {
+    "id": 11023,
+    "pdm": "PONTEIRO NUMERICO DE GRAVACAO",
+    "grupo": 51
+  },
+  {
+    "id": 11035,
+    "pdm": "PORTA-COLETOR",
+    "grupo": 51
+  },
+  {
+    "id": 11037,
+    "pdm": "PORTA-COSSINETE",
+    "grupo": 51
+  },
+  {
+    "id": 11331,
+    "pdm": "PUA",
+    "grupo": 51
+  },
+  {
+    "id": 11341,
+    "pdm": "PUNCAO - FERRAMENTA",
+    "grupo": 51
+  },
+  {
+    "id": 11417,
+    "pdm": "RASPADEIRA MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": 11440,
+    "pdm": "REBITADEIRA MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": 11441,
+    "pdm": "REBITADEIRA PORTATIL MOTORIZADA TIPO EMPUNHAVEL",
+    "grupo": 51
+  },
+  {
+    "id": 11518,
+    "pdm": "REFACEADOR DE FERRAMENTA",
+    "grupo": 51
+  },
+  {
+    "id": 11571,
+    "pdm": "RÉGUA PEDREIRO",
+    "grupo": 51
+  },
+  {
+    "id": 11755,
+    "pdm": "RISCADOR",
+    "grupo": 51
+  },
+  {
+    "id": 11875,
+    "pdm": "RISCADOR DE LAMINADO FENÓLICO MELAMÍNICO",
+    "grupo": 51
+  },
+  {
+    "id": 11876,
+    "pdm": "SACA PINO",
+    "grupo": 51
+  },
+  {
+    "id": 11877,
+    "pdm": "SACA-FILTRO",
+    "grupo": 51
+  },
+  {
+    "id": 11878,
+    "pdm": "SACA - PREGO",
+    "grupo": 51
+  },
+  {
+    "id": 11879,
+    "pdm": "SACA - ROLAMENTO",
+    "grupo": 51
+  },
+  {
+    "id": 11949,
+    "pdm": "SARGENTO",
+    "grupo": 51
+  },
+  {
+    "id": 12028,
+    "pdm": "SERINGA DE SOLUCAO DE BATERIA",
+    "grupo": 51
+  },
+  {
+    "id": 12036,
+    "pdm": "SERRA COPO",
+    "grupo": 51
+  },
+  {
+    "id": 12038,
+    "pdm": "SERRA ELETRICA",
+    "grupo": 51
+  },
+  {
+    "id": 12039,
+    "pdm": "SERRA ELETRICA PORTATIL",
+    "grupo": 51
+  },
+  {
+    "id": 12044,
+    "pdm": "SERRA TICO-TICO MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": 12174,
+    "pdm": "SOCADOR DE PISO E BANCADA MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": 12273,
+    "pdm": "SOQUETE",
+    "grupo": 51
+  },
+  {
+    "id": 12279,
+    "pdm": "SOVELA",
+    "grupo": 51
+  },
+  {
+    "id": 12551,
+    "pdm": "TARRAXA",
+    "grupo": 51
+  },
+  {
+    "id": 12688,
+    "pdm": "TESOURA HIDRAULICA",
+    "grupo": 51
+  },
+  {
+    "id": 12689,
+    "pdm": "TESOURA FUNILARIA",
+    "grupo": 51
+  },
+  {
+    "id": 12856,
+    "pdm": "TRADO",
+    "grupo": 51
+  },
+  {
+    "id": 12945,
+    "pdm": "TRAVADOR DE SERROTE",
+    "grupo": 51
+  },
+  {
+    "id": 13314,
+    "pdm": "VAZADOR",
+    "grupo": 51
+  },
+  {
+    "id": 13400,
+    "pdm": "VERRUMA",
+    "grupo": 51
+  },
+  {
+    "id": 13524,
+    "pdm": "ALICATE VASADOR",
+    "grupo": 51
+  },
+  {
+    "id": 13582,
+    "pdm": "LIXADEIRA MANUAL / ELÉTRICA / INDUSTRIAL",
+    "grupo": 51
+  },
+  {
+    "id": 13589,
+    "pdm": "MARTELO",
+    "grupo": 51
+  },
+  {
+    "id": 13636,
+    "pdm": "SERROTE",
+    "grupo": 51
+  },
+  {
+    "id": 13975,
+    "pdm": "CONJUNTO CHAVES COMBINADAS",
+    "grupo": 51
+  },
+  {
+    "id": 13976,
+    "pdm": "CONJUNTO CHAVES COMBINADAS POLEGADAS",
+    "grupo": 51
+  },
+  {
+    "id": 14220,
+    "pdm": "HASTE COM PONTA MAGNÉTICA",
+    "grupo": 51
+  },
+  {
+    "id": 14241,
+    "pdm": "SOQUETE FOTOCELULA",
+    "grupo": 51
+  },
+  {
+    "id": 14429,
+    "pdm": "CHAVE AJUSTÁVEL",
+    "grupo": 51
+  },
+  {
+    "id": 14636,
+    "pdm": "CONJUNTO FERRAMENTAS",
+    "grupo": 51
+  },
+  {
+    "id": 14637,
+    "pdm": "JOGO CHAVE",
+    "grupo": 51
+  },
+  {
+    "id": 14646,
+    "pdm": "MARTELO DE CHAVEIRO",
+    "grupo": 51
+  },
+  {
+    "id": 14648,
+    "pdm": "ALICATE",
+    "grupo": 51
+  },
+  {
+    "id": 14666,
+    "pdm": "PÁ DE BICO",
+    "grupo": 51
+  },
+  {
+    "id": 14667,
+    "pdm": "PONTEIRO",
+    "grupo": 51
+  },
+  {
+    "id": 14681,
+    "pdm": "VASSOURA REGULÁVEL",
+    "grupo": 51
+  },
+  {
+    "id": 14721,
+    "pdm": "PLAINA MANUAL",
+    "grupo": 51
+  },
+  {
+    "id": 14727,
+    "pdm": "JOGO CHAVES FENDA",
+    "grupo": 51
+  },
+  {
+    "id": 14739,
+    "pdm": "ENXADÃO",
+    "grupo": 51
+  },
+  {
+    "id": 14798,
+    "pdm": "JOGO BITS COM MARTELETE IMPACTO",
+    "grupo": 51
+  },
+  {
+    "id": 14823,
+    "pdm": "ALICATE BOMBA D'ÁGUA",
+    "grupo": 51
+  },
+  {
+    "id": 14938,
+    "pdm": "LÂMINA FERRAMENTA INSERÇÃO FIOS",
+    "grupo": 51
+  },
+  {
+    "id": 15177,
+    "pdm": "MACHADINHA CARPINTEIRO",
+    "grupo": 51
+  },
+  {
+    "id": 15178,
+    "pdm": "PÁ BICO",
+    "grupo": 51
+  },
+  {
+    "id": 15249,
+    "pdm": "CHAVE DE FENDA",
+    "grupo": 51
+  },
+  {
+    "id": 15387,
+    "pdm": "ESCOVA",
+    "grupo": 51
+  },
+  {
+    "id": 15658,
+    "pdm": "EXTENSÃO TRADO",
+    "grupo": 51
+  },
+  {
+    "id": 15664,
+    "pdm": "ESTROVENGA",
+    "grupo": 51
+  },
+  {
+    "id": 15665,
+    "pdm": "FORCADO",
+    "grupo": 51
+  },
+  {
+    "id": 15687,
+    "pdm": "MACETE",
+    "grupo": 51
+  },
+  {
+    "id": 15749,
+    "pdm": "TENSOR DE TELA",
+    "grupo": 51
+  },
+  {
+    "id": 16073,
+    "pdm": "TORQUÊS",
+    "grupo": 51
+  },
+  {
+    "id": 16083,
+    "pdm": "ESMERILHADEIRA",
+    "grupo": 51
+  },
+  {
+    "id": 16084,
+    "pdm": "MARTELO PERFURADOR",
+    "grupo": 51
+  },
+  {
+    "id": 16118,
+    "pdm": "CHUPETA ESMERILHADORA",
+    "grupo": 51
+  },
+  {
+    "id": 16202,
+    "pdm": "LÁPIS MOTORIZAÇÃO",
+    "grupo": 51
+  },
+  {
+    "id": 16232,
+    "pdm": "SACA-POLIA",
+    "grupo": 51
+  },
+  {
+    "id": 16252,
+    "pdm": "FURADEIRA INDUSTRIAL",
+    "grupo": 51
+  },
+  {
+    "id": 16289,
+    "pdm": "CAVE BIELA",
+    "grupo": 51
+  },
+  {
+    "id": 16290,
+    "pdm": "CHAVE CANO",
+    "grupo": 51
+  },
+  {
+    "id": 16460,
+    "pdm": "CANETA GRAVADORA",
+    "grupo": 51
+  },
+  {
+    "id": 16512,
+    "pdm": "MÁQUINA CORTAR ALUMÍNIO",
+    "grupo": 51
+  },
+  {
+    "id": 16514,
+    "pdm": "BEDAME",
+    "grupo": 51
+  },
+  {
+    "id": 16522,
+    "pdm": "CONJUNTO TRADO",
+    "grupo": 51
+  },
+  {
+    "id": 16535,
+    "pdm": "SUPORTE BEDAME",
+    "grupo": 51
+  },
+  {
+    "id": 16544,
+    "pdm": "SUPORTE BIT TORNO",
+    "grupo": 51
+  },
+  {
+    "id": 16980,
+    "pdm": "FERRAMENTAS MANUAIS DE CORTE NÃO ACIONADAS POR FORÇA MOTRIZ",
+    "grupo": 51
+  },
+  {
+    "id": 16981,
+    "pdm": "EXTENSÃO FERRAMENTA",
+    "grupo": 51
+  },
+  {
+    "id": 16982,
+    "pdm": "PEÇAS/COMPONENTES DESENCRUSTADOR PNEUMÁTICO",
+    "grupo": 51
+  },
+  {
+    "id": 16983,
+    "pdm": "BROCAS. ALARGADORES. ESCARIADORES. MANUAIS E PARA USO EM MÁQUINAS",
+    "grupo": 51
+  },
+  {
+    "id": 16984,
+    "pdm": "CABOS DE FERRAMENTAS",
+    "grupo": 51
+  },
+  {
+    "id": 16985,
+    "pdm": "MACHOS. MATRIZES E MANDRIS. MANUAIS E MECÂNICOS",
+    "grupo": 51
+  },
+  {
+    "id": 16986,
+    "pdm": "CAIXAS PARA FERRAMENTAS E FERRAGENS",
+    "grupo": 51
+  },
+  {
+    "id": 16987,
+    "pdm": "JOGOS E CONJUNTOS DE FERRAMENTAS MANUAIS",
+    "grupo": 51
+  },
+  {
+    "id": 17817,
+    "pdm": "FACA CABISTA",
+    "grupo": 51
+  },
+  {
+    "id": 18368,
+    "pdm": "PUNÇÃO",
+    "grupo": 51
+  },
+  {
+    "id": 18460,
+    "pdm": "PIRÓGRAFO",
+    "grupo": 51
+  },
+  {
+    "id": 18615,
+    "pdm": "CONJUNTO BROCA",
+    "grupo": 51
+  },
+  {
+    "id": 19030,
+    "pdm": "MARTELO DE INÉRCIA",
+    "grupo": 51
+  },
+  {
+    "id": 19052,
+    "pdm": "CAVADEIRA ARTICULADA"
+  }
+]
