@@ -1,4 +1,3 @@
-
 [
   {
     "id": "07212",
@@ -6,7 +5,7 @@
   },
   {
     "id": "04222",
-    "pdm": "CALDEIRA A VAPOR ( ACIMA DE 1"
+    "pdm": "CALDEIRA A VAPOR ( ACIMA DE 1.1 KGF/CM2 DE PRESSAO"
   },
   {
     "id": "02934",
@@ -162,7 +161,7 @@
   },
   {
     "id": "06636",
-    "pdm": "EQUIPAMENTO / CONJUNTO ( KIT )  PARA  ASPERSAO DE PRODUTO"
+    "pdm": "EQUIPAMENTO / CONJUNTO ( KIT ) PARA ASPERSAO DE PRODUTO"
   },
   {
     "id": "07489",
@@ -189,16 +188,8 @@
     "pdm": "SECADORA PAPÉIS"
   },
   {
-    "id": "03135",
-    "pdm": "PEÇA / COMPONENTE AUTOCLAVE"
-  },
-  {
     "id": 17991,
     "pdm": "SECADORA AR COMPRIMIDO"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
   },
   {
     "id": 16951,
@@ -213,44 +204,12 @@
     "pdm": "EQUIPAMENTOS INDUSTRIAIS DE VENTILACAO E CIRCULACAO"
   },
   {
-    "id": 16951,
-    "pdm": "PEÇAS / ACESSÓRIOS FORNO"
-  },
-  {
     "id": 16952,
     "pdm": "SECADORES"
   },
   {
     "id": 16953,
     "pdm": "ESTERILIZADOR AMBIENTE"
-  },
-  {
-    "id": "01241",
-    "pdm": "SOPRADOR FULIGEM"
-  },
-  {
-    "id": "01241",
-    "pdm": "SOPRADOR FULIGEM"
-  },
-  {
-    "id": "01241",
-    "pdm": "SOPRADOR FULIGEM"
-  },
-  {
-    "id": "01241",
-    "pdm": "SOPRADOR FULIGEM"
-  },
-  {
-    "id": "01339",
-    "pdm": "SECADORA PAPÉIS"
-  },
-  {
-    "id": "01339",
-    "pdm": "SECADORA PAPÉIS"
-  },
-  {
-    "id": "01339",
-    "pdm": "SECADORA PAPÉIS"
   },
   {
     "id": 13506,
@@ -285,82 +244,18 @@
     "pdm": "TUBO LIGA MISTA METAIS"
   },
   {
-    "id": 11344,
-    "pdm": "PURIFICADOR AR"
-  },
-  {
-    "id": 11344,
-    "pdm": "PURIFICADOR AR"
-  },
-  {
-    "id": 11344,
-    "pdm": "PURIFICADOR AR"
-  },
-  {
-    "id": 11344,
-    "pdm": "PURIFICADOR AR"
-  },
-  {
-    "id": 13665,
-    "pdm": "TUBO LIGA MISTA METAIS"
-  },
-  {
     "id": 13813,
     "pdm": "CONJUNTO BOMBA LIMPEZA ÁGUA - REATOR NUCLEAR"
-  },
-  {
-    "id": "07214",
-    "pdm": "ESTUFA INDUSTRIAL"
-  },
-  {
-    "id": 13665,
-    "pdm": "TUBO LIGA MISTA METAIS"
-  },
-  {
-    "id": 13665,
-    "pdm": "TUBO LIGA MISTA METAIS"
   },
   {
     "id": 14627,
     "pdm": "CÂMARA FISSÃO"
   },
   {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": 11344,
-    "pdm": "PURIFICADOR AR"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
     "id": 16216,
     "pdm": "SANFONA VÁLVULA REGULADORA EXAUSTÃO"
   },
   {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
     "id": 16649,
     "pdm": "APARELHO ODORIZADOR AMBIENTE"
   },
@@ -369,479 +264,11 @@
     "pdm": "REFIL ODORIZADOR DE AMBIENTES"
   },
   {
-    "id": "03132",
-    "pdm": "DISCO RUPTURA AUTOCLAVE"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
     "id": 17372,
     "pdm": "RENOVADOR DE AR"
-  },
-  {
-    "id": 17372,
-    "pdm": "RENOVADOR DE AR"
-  },
-  {
-    "id": "07983",
-    "pdm": "GERADOR VAPOR"
   },
   {
     "id": 17564,
     "pdm": "ATOMADIZADOR"
-  },
-  {
-    "id": 13665,
-    "pdm": "TUBO LIGA MISTA METAIS"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "07489",
-    "pdm": "FILTRO PURIFICAÇÃO DE AR"
-  },
-  {
-    "id": "07489",
-    "pdm": "FILTRO PURIFICAÇÃO DE AR"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "07214",
-    "pdm": "ESTUFA INDUSTRIAL"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": 17991,
-    "pdm": "SECADORA AR COMPRIMIDO"
-  },
-  {
-    "id": "07489",
-    "pdm": "FILTRO PURIFICAÇÃO DE AR"
-  },
-  {
-    "id": "07489",
-    "pdm": "FILTRO PURIFICAÇÃO DE AR"
-  },
-  {
-    "id": 16953,
-    "pdm": "ESTERILIZADOR AMBIENTE"
-  },
-  {
-    "id": "07489",
-    "pdm": "FILTRO PURIFICAÇÃO DE AR"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": 16649,
-    "pdm": "APARELHO ODORIZADOR AMBIENTE"
-  },
-  {
-    "id": 16651,
-    "pdm": "REFIL ODORIZADOR DE AMBIENTES"
-  },
-  {
-    "id": 16649,
-    "pdm": "APARELHO ODORIZADOR AMBIENTE"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "06122",
-    "pdm": "DESUMIDIFICADOR DE PAPEL"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": 16953,
-    "pdm": "ESTERILIZADOR AMBIENTE"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": 13665,
-    "pdm": "TUBO LIGA MISTA METAIS"
-  },
-  {
-    "id": 13665,
-    "pdm": "TUBO LIGA MISTA METAIS"
-  },
-  {
-    "id": 13506,
-    "pdm": "UNIDADE DESCONTAMINAÇÃO AR"
-  },
-  {
-    "id": "07489",
-    "pdm": "FILTRO PURIFICAÇÃO DE AR"
-  },
-  {
-    "id": "06122",
-    "pdm": "DESUMIDIFICADOR DE PAPEL"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": 16948,
-    "pdm": "GRELHA"
-  },
-  {
-    "id": "07489",
-    "pdm": "FILTRO PURIFICAÇÃO DE AR"
-  },
-  {
-    "id": "03135",
-    "pdm": "PEÇA / COMPONENTE AUTOCLAVE"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "07489",
-    "pdm": "FILTRO PURIFICAÇÃO DE AR"
-  },
-  {
-    "id": "07489",
-    "pdm": "FILTRO PURIFICAÇÃO DE AR"
-  },
-  {
-    "id": "07489",
-    "pdm": "FILTRO PURIFICAÇÃO DE AR"
-  },
-  {
-    "id": 16948,
-    "pdm": "GRELHA"
-  },
-  {
-    "id": "07489",
-    "pdm": "FILTRO PURIFICAÇÃO DE AR"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "01339",
-    "pdm": "SECADORA PAPÉIS"
-  },
-  {
-    "id": 16649,
-    "pdm": "APARELHO ODORIZADOR AMBIENTE"
-  },
-  {
-    "id": 16651,
-    "pdm": "REFIL ODORIZADOR DE AMBIENTES"
-  },
-  {
-    "id": 16651,
-    "pdm": "REFIL ODORIZADOR DE AMBIENTES"
-  },
-  {
-    "id": 16649,
-    "pdm": "APARELHO ODORIZADOR AMBIENTE"
-  },
-  {
-    "id": 16649,
-    "pdm": "APARELHO ODORIZADOR AMBIENTE"
-  },
-  {
-    "id": 16651,
-    "pdm": "REFIL ODORIZADOR DE AMBIENTES"
-  },
-  {
-    "id": 16651,
-    "pdm": "REFIL ODORIZADOR DE AMBIENTES"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": 16953,
-    "pdm": "ESTERILIZADOR AMBIENTE"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "01339",
-    "pdm": "SECADORA PAPÉIS"
-  },
-  {
-    "id": "07214",
-    "pdm": "ESTUFA INDUSTRIAL"
-  },
-  {
-    "id": "07214",
-    "pdm": "ESTUFA INDUSTRIAL"
-  },
-  {
-    "id": "07214",
-    "pdm": "ESTUFA INDUSTRIAL"
-  },
-  {
-    "id": "07214",
-    "pdm": "ESTUFA INDUSTRIAL"
-  },
-  {
-    "id": "07214",
-    "pdm": "ESTUFA INDUSTRIAL"
-  },
-  {
-    "id": "07214",
-    "pdm": "ESTUFA INDUSTRIAL"
-  },
-  {
-    "id": 16953,
-    "pdm": "ESTERILIZADOR AMBIENTE"
-  },
-  {
-    "id": 13664,
-    "pdm": "DISCO LIGA MISTA METAIS"
-  },
-  {
-    "id": "07489",
-    "pdm": "FILTRO PURIFICAÇÃO DE AR"
-  },
-  {
-    "id": "03135",
-    "pdm": "PEÇA / COMPONENTE AUTOCLAVE"
-  },
-  {
-    "id": "03135",
-    "pdm": "PEÇA / COMPONENTE AUTOCLAVE"
-  },
-  {
-    "id": "03135",
-    "pdm": "PEÇA / COMPONENTE AUTOCLAVE"
-  },
-  {
-    "id": "03135",
-    "pdm": "PEÇA / COMPONENTE AUTOCLAVE"
-  },
-  {
-    "id": "03135",
-    "pdm": "PEÇA / COMPONENTE AUTOCLAVE"
-  },
-  {
-    "id": "03135",
-    "pdm": "PEÇA / COMPONENTE AUTOCLAVE"
-  },
-  {
-    "id": "03135",
-    "pdm": "PEÇA / COMPONENTE AUTOCLAVE"
-  },
-  {
-    "id": "03135",
-    "pdm": "PEÇA / COMPONENTE AUTOCLAVE"
-  },
-  {
-    "id": "03135",
-    "pdm": "PEÇA / COMPONENTE AUTOCLAVE"
-  },
-  {
-    "id": "03135",
-    "pdm": "PEÇA / COMPONENTE AUTOCLAVE"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "06122",
-    "pdm": "DESUMIDIFICADOR DE PAPEL"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": 11344,
-    "pdm": "PURIFICADOR AR"
-  },
-  {
-    "id": 11344,
-    "pdm": "PURIFICADOR AR"
-  },
-  {
-    "id": 13664,
-    "pdm": "DISCO LIGA MISTA METAIS"
-  },
-  {
-    "id": 13664,
-    "pdm": "DISCO LIGA MISTA METAIS"
-  },
-  {
-    "id": 13664,
-    "pdm": "DISCO LIGA MISTA METAIS"
-  },
-  {
-    "id": "01241",
-    "pdm": "SOPRADOR FULIGEM"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "07214",
-    "pdm": "ESTUFA INDUSTRIAL"
-  },
-  {
-    "id": "07214",
-    "pdm": "ESTUFA INDUSTRIAL"
-  },
-  {
-    "id": "07214",
-    "pdm": "ESTUFA INDUSTRIAL"
-  },
-  {
-    "id": "07214",
-    "pdm": "ESTUFA INDUSTRIAL"
-  },
-  {
-    "id": 16651,
-    "pdm": "REFIL ODORIZADOR DE AMBIENTES"
-  },
-  {
-    "id": 16651,
-    "pdm": "REFIL ODORIZADOR DE AMBIENTES"
-  },
-  {
-    "id": "07489",
-    "pdm": "FILTRO PURIFICAÇÃO DE AR"
-  },
-  {
-    "id": 16953,
-    "pdm": "ESTERILIZADOR AMBIENTE"
-  },
-  {
-    "id": 13664,
-    "pdm": "DISCO LIGA MISTA METAIS"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "07214",
-    "pdm": "ESTUFA INDUSTRIAL"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
-  },
-  {
-    "id": 11344,
-    "pdm": "PURIFICADOR AR"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "06123",
-    "pdm": "DESUMIDIFICADOR"
-  },
-  {
-    "id": "07489",
-    "pdm": "FILTRO PURIFICAÇÃO DE AR"
-  },
-  {
-    "id": 11344,
-    "pdm": "PURIFICADOR AR"
-  },
-  {
-    "id": 11344,
-    "pdm": "PURIFICADOR AR"
-  },
-  {
-    "id": "07765",
-    "pdm": "FORNO INDUSTRIAL"
   }
 ]
