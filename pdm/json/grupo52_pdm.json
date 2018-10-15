@@ -1,474 +1,592 @@
 [
   {
     "id": "00870",
-    "pdm": "MICRÔMETRO PROFUNDIDADE"
+    "pdm": "MICRÔMETRO PROFUNDIDADE",
+    "grupo": 52
   },
   {
     "id": "00878",
-    "pdm": "MICRÔMETRO EXTERNO"
+    "pdm": "MICRÔMETRO EXTERNO",
+    "grupo": 52
   },
   {
     "id": "00882",
-    "pdm": "MICRÔMETRO INTERNO"
+    "pdm": "MICRÔMETRO INTERNO",
+    "grupo": 52
   },
   {
     "id": "00913",
-    "pdm": "COMPASSO CALIBRE DIGITAL"
+    "pdm": "COMPASSO CALIBRE DIGITAL",
+    "grupo": 52
   },
   {
     "id": "00914",
-    "pdm": "DURÔMETRO"
+    "pdm": "DURÔMETRO",
+    "grupo": 52
   },
   {
     "id": "00918",
-    "pdm": "ESQUADRO"
+    "pdm": "ESQUADRO",
+    "grupo": 52
   },
   {
     "id": "00919",
-    "pdm": "METRO DOBRÁVEL"
+    "pdm": "METRO DOBRÁVEL",
+    "grupo": 52
   },
   {
     "id": "00920",
-    "pdm": "NÍVEL BOLHA"
+    "pdm": "NÍVEL BOLHA",
+    "grupo": 52
   },
   {
     "id": "00959",
-    "pdm": "CALIBRADOR ROSCA"
+    "pdm": "CALIBRADOR ROSCA",
+    "grupo": 52
   },
   {
     "id": "00960",
-    "pdm": "PENTE MEDIÇÃO ROSCA"
+    "pdm": "PENTE MEDIÇÃO ROSCA",
+    "grupo": 52
   },
   {
     "id": "00961",
-    "pdm": "TACÓGRAFO"
+    "pdm": "TACÓGRAFO",
+    "grupo": 52
   },
   {
     "id": "00963",
-    "pdm": "TORQUÍMETRO ESTALO ESCALA (LB.POL)"
+    "pdm": "TORQUÍMETRO ESTALO ESCALA (LB.POL)",
+    "grupo": 52
   },
   {
     "id": "00965",
-    "pdm": "TORQUÍMETRO ESTALO ESCALA (KG.M)."
+    "pdm": "TORQUÍMETRO ESTALO ESCALA (KG.M).",
+    "grupo": 52
   },
   {
     "id": "00966",
-    "pdm": "TORQUÍMETRO ESTALO ESCALA (LB.PÉ)"
+    "pdm": "TORQUÍMETRO ESTALO ESCALA (LB.PÉ)",
+    "grupo": 52
   },
   {
     "id": "00967",
-    "pdm": "TORQUÍMETRO RELÓGIO ESCALA DUPLA (NM) E (LB.POL)"
+    "pdm": "TORQUÍMETRO RELÓGIO ESCALA DUPLA (NM) E (LB.POL)",
+    "grupo": 52
   },
   {
     "id": "00968",
-    "pdm": "TRENA"
+    "pdm": "TRENA",
+    "grupo": 52
   },
   {
     "id": "01016",
-    "pdm": "CALIBRADOR ÂNGULO SAÍDA"
+    "pdm": "CALIBRADOR ÂNGULO SAÍDA",
+    "grupo": 52
   },
   {
     "id": "01038",
-    "pdm": "MICRÔMETRO DIGITAL"
+    "pdm": "MICRÔMETRO DIGITAL",
+    "grupo": 52
   },
   {
     "id": "01039",
-    "pdm": "PAQUÍMETRO DIGITAL"
+    "pdm": "PAQUÍMETRO DIGITAL",
+    "grupo": 52
   },
   {
     "id": "02140",
-    "pdm": "AFERIDOR"
+    "pdm": "AFERIDOR",
+    "grupo": 52
   },
   {
     "id": "02143",
-    "pdm": "AFIADOR DE FERRAMENTA DE PRECISAO"
+    "pdm": "AFIADOR DE FERRAMENTA DE PRECISAO",
+    "grupo": 52
   },
   {
     "id": "02304",
-    "pdm": "ALICATE AMPERÍMETRO"
+    "pdm": "ALICATE AMPERÍMETRO",
+    "grupo": 52
   },
   {
     "id": "02371",
-    "pdm": "ALTÍMETRO PORTATIL"
+    "pdm": "ALTÍMETRO PORTATIL",
+    "grupo": 52
   },
   {
     "id": "02764",
-    "pdm": "APARELHO DIGITAL DIAGNÓSTICO"
+    "pdm": "APARELHO DIGITAL DIAGNÓSTICO",
+    "grupo": 52
   },
   {
     "id": "03622",
-    "pdm": "MONTADOR BLOCO PADRÃO"
+    "pdm": "MONTADOR BLOCO PADRÃO",
+    "grupo": 52
   },
   {
     "id": "04250",
-    "pdm": "CALIBRADOR ALARGADOR TUBO"
+    "pdm": "CALIBRADOR ALARGADOR TUBO",
+    "grupo": 52
   },
   {
     "id": "04251",
-    "pdm": "CALIBRADOR BORDA TUBO"
+    "pdm": "CALIBRADOR BORDA TUBO",
+    "grupo": 52
   },
   {
     "id": "04252",
-    "pdm": "CALIBRADOR BROCA - HELICOIDAL"
+    "pdm": "CALIBRADOR BROCA - HELICOIDAL",
+    "grupo": 52
   },
   {
     "id": "04253",
-    "pdm": "CALIBRADOR DE ANGULO DE CORTE DE BROCA HELICOIDAL"
+    "pdm": "CALIBRADOR DE ANGULO DE CORTE DE BROCA HELICOIDAL",
+    "grupo": 52
   },
   {
     "id": "04254",
-    "pdm": "CALIBRADOR DOSE"
+    "pdm": "CALIBRADOR DOSE",
+    "grupo": 52
   },
   {
     "id": "04255",
-    "pdm": "CALIBRADOR ESPESSURA TUBO"
+    "pdm": "CALIBRADOR ESPESSURA TUBO",
+    "grupo": 52
   },
   {
     "id": "04256",
-    "pdm": "CALIBRADOR MACHO - HELICOIDAL"
+    "pdm": "CALIBRADOR MACHO - HELICOIDAL",
+    "grupo": 52
   },
   {
     "id": "04259",
-    "pdm": "CALIBRADOR PASSO BROCA"
+    "pdm": "CALIBRADOR PASSO BROCA",
+    "grupo": 52
   },
   {
     "id": "04260",
-    "pdm": "CALIBRADOR PLAINA"
+    "pdm": "CALIBRADOR PLAINA",
+    "grupo": 52
   },
   {
     "id": "04262",
-    "pdm": "CALIBRADOR SUPERFÍCIE"
+    "pdm": "CALIBRADOR SUPERFÍCIE",
+    "grupo": 52
   },
   {
     "id": "04263",
-    "pdm": "CALIBRADOR TELESCÓPICO"
+    "pdm": "CALIBRADOR TELESCÓPICO",
+    "grupo": 52
   },
   {
     "id": "04264",
-    "pdm": "CALIBRE DE ALOJAMENTO"
+    "pdm": "CALIBRE DE ALOJAMENTO",
+    "grupo": 52
   },
   {
     "id": "04265",
-    "pdm": "CALIBRE DE ALTURA GRAMINHO"
+    "pdm": "CALIBRE DE ALTURA GRAMINHO",
+    "grupo": 52
   },
   {
     "id": "04266",
-    "pdm": "CALIBRE DE ANGULO PARA ARTIFICE"
+    "pdm": "CALIBRE DE ANGULO PARA ARTIFICE",
+    "grupo": 52
   },
   {
     "id": "04267",
-    "pdm": "CALIBRE DE ARAME"
+    "pdm": "CALIBRE DE ARAME",
+    "grupo": 52
   },
   {
     "id": "04268",
-    "pdm": "CALIBRE DE CARLOPA"
+    "pdm": "CALIBRE DE CARLOPA",
+    "grupo": 52
   },
   {
     "id": "04269",
-    "pdm": "CALIBRE CENTRAGEM FERRAMENTA DE TORNO"
+    "pdm": "CALIBRE CENTRAGEM FERRAMENTA DE TORNO",
+    "grupo": 52
   },
   {
     "id": "04270",
-    "pdm": "CALIBRE DE DENTE DE SERRA"
+    "pdm": "CALIBRE DE DENTE DE SERRA",
+    "grupo": 52
   },
   {
     "id": "04271",
-    "pdm": "CALIBRE DE ESPESSURA"
+    "pdm": "CALIBRE DE ESPESSURA",
+    "grupo": 52
   },
   {
     "id": "04272",
-    "pdm": "CALIBRE FIXADOR"
+    "pdm": "CALIBRE FIXADOR",
+    "grupo": 52
   },
   {
     "id": "04274",
-    "pdm": "CALIBRE DE MEDIDA EXTERNA"
+    "pdm": "CALIBRE DE MEDIDA EXTERNA",
+    "grupo": 52
   },
   {
     "id": "04275",
-    "pdm": "CALIBRE MEDIDA INTERNA"
+    "pdm": "CALIBRE MEDIDA INTERNA",
+    "grupo": 52
   },
   {
     "id": "04276",
-    "pdm": "CALIBRE DE MOLA"
+    "pdm": "CALIBRE DE MOLA",
+    "grupo": 52
   },
   {
     "id": "04277",
-    "pdm": "CALIBRE DE ORIFICIO CONICO PARA DIAMETRO DE ARAME"
+    "pdm": "CALIBRE DE ORIFICIO CONICO PARA DIAMETRO DE ARAME",
+    "grupo": 52
   },
   {
     "id": "04278",
-    "pdm": "CALIBRE DE PERFIL"
+    "pdm": "CALIBRE DE PERFIL",
+    "grupo": 52
   },
   {
     "id": "04279",
-    "pdm": "CALIBRE DE PLAINA"
+    "pdm": "CALIBRE DE PLAINA",
+    "grupo": 52
   },
   {
     "id": "04280",
-    "pdm": "CALIBRE DE PLAINA MECANICA"
+    "pdm": "CALIBRE DE PLAINA MECANICA",
+    "grupo": 52
   },
   {
     "id": "04281",
-    "pdm": "CALIBRE DE PONTA DE BROCA"
+    "pdm": "CALIBRE DE PONTA DE BROCA",
+    "grupo": 52
   },
   {
     "id": "04282",
-    "pdm": "CALIBRE DE PROFUNDIDADE"
+    "pdm": "CALIBRE DE PROFUNDIDADE",
+    "grupo": 52
   },
   {
     "id": "04283",
-    "pdm": "COMPASSO"
+    "pdm": "COMPASSO",
+    "grupo": 52
   },
   {
     "id": "04284",
-    "pdm": "CALIBRE DE RAIO"
+    "pdm": "CALIBRE DE RAIO",
+    "grupo": 52
   },
   {
     "id": "04285",
-    "pdm": "CALIBRE DE ROSCA"
+    "pdm": "CALIBRE DE ROSCA",
+    "grupo": 52
   },
   {
     "id": "04286",
-    "pdm": "MEDIDOR DISTÂNCIA"
+    "pdm": "MEDIDOR DISTÂNCIA",
+    "grupo": 52
   },
   {
     "id": "04287",
-    "pdm": "CALIBRE DE TRAÇÃO"
+    "pdm": "CALIBRE DE TRAÇÃO",
+    "grupo": 52
   },
   {
     "id": "04288",
-    "pdm": "CALIBRE DE VIDRACEIRO"
+    "pdm": "CALIBRE DE VIDRACEIRO",
+    "grupo": 52
   },
   {
     "id": "04289",
-    "pdm": "CALIBRE ESPECIAL DE INSPECAO"
+    "pdm": "CALIBRE ESPECIAL DE INSPECAO",
+    "grupo": 52
   },
   {
     "id": "04290",
-    "pdm": "CALIBRE ANEL"
+    "pdm": "CALIBRE ANEL",
+    "grupo": 52
   },
   {
     "id": "04291",
-    "pdm": "CALIBRE PARA BUJAO"
+    "pdm": "CALIBRE PARA BUJAO",
+    "grupo": 52
   },
   {
     "id": "04292",
-    "pdm": "CALIBRE PARA CURVA EXTERNA"
+    "pdm": "CALIBRE PARA CURVA EXTERNA",
+    "grupo": 52
   },
   {
     "id": "04293",
-    "pdm": "CALIBRE PARA CURVA INTERNA"
+    "pdm": "CALIBRE PARA CURVA INTERNA",
+    "grupo": 52
   },
   {
     "id": "04294",
-    "pdm": "CALIBRE PARA DIAMETRO DE BROCA HELICOIDAL"
+    "pdm": "CALIBRE PARA DIAMETRO DE BROCA HELICOIDAL",
+    "grupo": 52
   },
   {
     "id": "04296",
-    "pdm": "CALIBRE SELEÇÃO REBITE"
+    "pdm": "CALIBRE SELEÇÃO REBITE",
+    "grupo": 52
   },
   {
     "id": "04297",
-    "pdm": "CALIBRE VERIFICAR RAIO"
+    "pdm": "CALIBRE VERIFICAR RAIO",
+    "grupo": 52
   },
   {
     "id": "04298",
-    "pdm": "CALIBRE PARA VERIFICAR ROSCA"
+    "pdm": "CALIBRE PARA VERIFICAR ROSCA",
+    "grupo": 52
   },
   {
     "id": "04299",
-    "pdm": "PAQUÍMETRO ESPECIAL"
+    "pdm": "PAQUÍMETRO ESPECIAL",
+    "grupo": 52
   },
   {
     "id": "04761",
-    "pdm": "CENTRIMITER"
+    "pdm": "CENTRIMITER",
+    "grupo": 52
   },
   {
     "id": "06896",
-    "pdm": "ESCALA DE ACO DE ARTIFICE"
+    "pdm": "ESCALA DE ACO DE ARTIFICE",
+    "grupo": 52
   },
   {
     "id": "06900",
-    "pdm": "ESCALA DE PROFUNDIDADE"
+    "pdm": "ESCALA DE PROFUNDIDADE",
+    "grupo": 52
   },
   {
     "id": "06901",
-    "pdm": "ESCALA ENCOSTO INTERNO"
+    "pdm": "ESCALA ENCOSTO INTERNO",
+    "grupo": 52
   },
   {
     "id": "06902",
-    "pdm": "ESCALA METROLÓGICA"
+    "pdm": "ESCALA METROLÓGICA",
+    "grupo": 52
   },
   {
     "id": "07341",
-    "pdm": "PEÇAS / ACESSÓRIOS MICRÔMETRO"
+    "pdm": "PEÇAS / ACESSÓRIOS MICRÔMETRO",
+    "grupo": 52
   },
   {
     "id": "07508",
-    "pdm": "FIO DE PRUMO"
+    "pdm": "FIO DE PRUMO",
+    "grupo": 52
   },
   {
     "id": "07561",
-    "pdm": "FITA DE ACO PARA MEDICAO"
+    "pdm": "FITA DE ACO PARA MEDICAO",
+    "grupo": 52
   },
   {
     "id": "07601",
-    "pdm": "FITA METRICA DE ARTIFICE"
+    "pdm": "FITA METRICA DE ARTIFICE",
+    "grupo": 52
   },
   {
     "id": "07893",
-    "pdm": "GABARITO DE SUBMONTAGEM"
+    "pdm": "GABARITO DE SUBMONTAGEM",
+    "grupo": 52
   },
   {
     "id": "08035",
-    "pdm": "GONIOMETRO"
+    "pdm": "GONIOMETRO",
+    "grupo": 52
   },
   {
     "id": "09007",
-    "pdm": "MEDIDOR SULCO PNEU"
+    "pdm": "MEDIDOR SULCO PNEU",
+    "grupo": 52
   },
   {
     "id": "09552",
-    "pdm": "MEDIDOR DE REBORDO DE TUBO"
+    "pdm": "MEDIDOR DE REBORDO DE TUBO",
+    "grupo": 52
   },
   {
     "id": "09563",
-    "pdm": "MEDIDOR DE ESPESSURA"
+    "pdm": "MEDIDOR DE ESPESSURA",
+    "grupo": 52
   },
   {
     "id": "09746",
-    "pdm": "MICROPICNOMETRO"
+    "pdm": "MICROPICNOMETRO",
+    "grupo": 52
   },
   {
     "id": "09780",
-    "pdm": "MIRA DE INSPECAO E MEDICAO"
+    "pdm": "MIRA DE INSPECAO E MEDICAO",
+    "grupo": 52
   },
   {
     "id": 10116,
-    "pdm": "NIVELADOR PARA MEDICAO E INSPECAO"
+    "pdm": "NIVELADOR PARA MEDICAO E INSPECAO",
+    "grupo": 52
   },
   {
     "id": 10219,
-    "pdm": "OPACÍMETRO"
+    "pdm": "OPACÍMETRO",
+    "grupo": 52
   },
   {
     "id": 10631,
-    "pdm": "PENTE MEDICAO ROSCA"
+    "pdm": "PENTE MEDICAO ROSCA",
+    "grupo": 52
   },
   {
     "id": 10992,
-    "pdm": "PONTA PROVA OSCILOSCÓPIO"
+    "pdm": "PONTA PROVA OSCILOSCÓPIO",
+    "grupo": 52
   },
   {
     "id": 11258,
-    "pdm": "PROJETOR OPTICO DE PERFIL DE MEDICAO E INSPECAO"
+    "pdm": "PROJETOR OPTICO DE PERFIL DE MEDICAO E INSPECAO",
+    "grupo": 52
   },
   {
     "id": 11328,
-    "pdm": "PRUMO"
+    "pdm": "PRUMO",
+    "grupo": 52
   },
   {
     "id": 11579,
-    "pdm": "RÉGUA MEDIÇÃO TANQUE COMBUSTÍVEL"
+    "pdm": "RÉGUA MEDIÇÃO TANQUE COMBUSTÍVEL",
+    "grupo": 52
   },
   {
     "id": 11621,
-    "pdm": "RELÓGIO COMPARADOR"
+    "pdm": "RELÓGIO COMPARADOR",
+    "grupo": 52
   },
   {
     "id": 11857,
-    "pdm": "RUGOSIMETRO"
+    "pdm": "RUGOSIMETRO",
+    "grupo": 52
   },
   {
     "id": 12115,
-    "pdm": "SISTEMA DE CONTROLE DE TORQUE"
+    "pdm": "SISTEMA DE CONTROLE DE TORQUE",
+    "grupo": 52
   },
   {
     "id": 12453,
-    "pdm": "TABELA DE CALIBRE COMBINADO DE BROCA HELICOIDAL"
+    "pdm": "TABELA DE CALIBRE COMBINADO DE BROCA HELICOIDAL",
+    "grupo": 52
   },
   {
     "id": 12455,
-    "pdm": "TABELA E CALIBRE COMBINADO PARA MACHO"
+    "pdm": "TABELA E CALIBRE COMBINADO PARA MACHO",
+    "grupo": 52
   },
   {
     "id": 12834,
-    "pdm": "TORQUIMETRO ESCALA DUPLA"
+    "pdm": "TORQUIMETRO ESCALA DUPLA",
+    "grupo": 52
   },
   {
     "id": 12835,
-    "pdm": "TORQUÍMETRO DIGITAL"
+    "pdm": "TORQUÍMETRO DIGITAL",
+    "grupo": 52
   },
   {
     "id": 12876,
-    "pdm": "TRANSFERIDOR COMBINADO"
+    "pdm": "TRANSFERIDOR COMBINADO",
+    "grupo": 52
   },
   {
     "id": 12877,
-    "pdm": "TRANSFERIDOR UNIVERSAL DE PRESSAO"
+    "pdm": "TRANSFERIDOR UNIVERSAL DE PRESSAO",
+    "grupo": 52
   },
   {
     "id": 13304,
-    "pdm": "PONTA PROVA MULTÍMETRO"
+    "pdm": "PONTA PROVA MULTÍMETRO",
+    "grupo": 52
   },
   {
     "id": 13651,
-    "pdm": "MEDIDOR ESPESSURA"
+    "pdm": "MEDIDOR ESPESSURA",
+    "grupo": 52
   },
   {
     "id": 13667,
-    "pdm": "DECIBELÍMETRO"
+    "pdm": "DECIBELÍMETRO",
+    "grupo": 52
   },
   {
     "id": 14143,
-    "pdm": "BORRACHA MICRÔMETRO"
+    "pdm": "BORRACHA MICRÔMETRO",
+    "grupo": 52
   },
   {
     "id": 14545,
-    "pdm": "GUIA LINEAR"
+    "pdm": "GUIA LINEAR",
+    "grupo": 52
   },
   {
     "id": 14701,
-    "pdm": "PAQUÍMETRO UNIVERSAL"
+    "pdm": "PAQUÍMETRO UNIVERSAL",
+    "grupo": 52
   },
   {
     "id": 14964,
-    "pdm": "ALICATE WATTIMETRO"
+    "pdm": "ALICATE WATTIMETRO",
+    "grupo": 52
   },
   {
     "id": 16203,
-    "pdm": "TRENA ELETRÔNICA"
+    "pdm": "TRENA ELETRÔNICA",
+    "grupo": 52
   },
   {
     "id": 16333,
-    "pdm": "LUPA MEDIÇÃO"
+    "pdm": "LUPA MEDIÇÃO",
+    "grupo": 52
   },
   {
     "id": 16988,
-    "pdm": "NÍVEL DE PRECISÃO"
+    "pdm": "NÍVEL DE PRECISÃO",
+    "grupo": 52
   },
   {
     "id": 16989,
-    "pdm": "HASTE PADRÃO CALIBRAÇÃO"
+    "pdm": "HASTE PADRÃO CALIBRAÇÃO",
+    "grupo": 52
   },
   {
     "id": 16990,
-    "pdm": "JOGOS E CONJUNTOS DE INSTRUMENTOS DE MEDIÇÃO"
+    "pdm": "JOGOS E CONJUNTOS DE INSTRUMENTOS DE MEDIÇÃO",
+    "grupo": 52
   },
   {
     "id": 17451,
-    "pdm": "ESFERA PADRÃO"
+    "pdm": "ESFERA PADRÃO",
+    "grupo": 52
   },
   {
     "id": 17516,
-    "pdm": "LINHA PEDREIRO"
+    "pdm": "LINHA PEDREIRO",
+    "grupo": 52
   },
   {
     "id": 18735,
-    "pdm": "DISCO TACÓGRAFO"
+    "pdm": "DISCO TACÓGRAFO",
+    "grupo": 52
   },
   {
     "id": 19072,
-    "pdm": "MEDIDOR DE CASCA"
+    "pdm": "MEDIDOR DE CASCA",
+    "grupo": 52
   }
 ]
