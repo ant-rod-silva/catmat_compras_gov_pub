@@ -1,0 +1,394 @@
+[
+  {
+    "id": "01663",
+    "pdm": "ACESSORIO BOMBA ABASTECIMENTO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "01691",
+    "pdm": "ACESSORIO DE PISTOLA DE PRESSAO PARA LUBRIFICACAO"
+  },
+  {
+    "id": "02094",
+    "pdm": "ADAPTADOR HIDRAULICO DE BOMBA DE LUBRIFICACAO"
+  },
+  {
+    "id": "02111",
+    "pdm": "ADITAMENTO DE PISTOLA DE LUBRIFICACAO"
+  },
+  {
+    "id": "02325",
+    "pdm": "ALIMENTADOR DE MUNICAO"
+  },
+  {
+    "id": "02333",
+    "pdm": "ALINHADOR DE CHASSIS"
+  },
+  {
+    "id": "02335",
+    "pdm": "ALINHADOR FAROL - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "02336",
+    "pdm": "ALINHADOR RODA - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": "02356",
+    "pdm": "SUPORTE DESEMPENO"
+  },
+  {
+    "id": "02357",
+    "pdm": "ALMOTOLIA MANUAL"
+  },
+  {
+    "id": "02476",
+    "pdm": "ANALISADOR DE VIBRACAO DE AERONAVE"
+  },
+  {
+    "id": "02477",
+    "pdm": "ANALISADOR DE BATERIA"
+  },
+  {
+    "id": "02703",
+    "pdm": "APARELHO DE ENSAIO DE VELA DE IGNICAO"
+  },
+  {
+    "id": "02704",
+    "pdm": "APARELHO DE ENSAIO DE VELOCIMETRO"
+  },
+  {
+    "id": "02718",
+    "pdm": "APARELHO LIMPEZA E TESTE DE VELA MOTOR A COMBUSTÃO"
+  },
+  {
+    "id": "02901",
+    "pdm": "DESOXIDANTE"
+  },
+  {
+    "id": "03231",
+    "pdm": "BALANCEADORA DE RODAS"
+  },
+  {
+    "id": "03277",
+    "pdm": "BANCO DE MANUTENCAO PROJETADO PARA RECEBER CONJUN-TO E COMPONENTE DE AERONAVE"
+  },
+  {
+    "id": "03278",
+    "pdm": "BANCO DE PROVA DE MOTOR DE AERONAVE"
+  },
+  {
+    "id": "03284",
+    "pdm": "BANCO PLACAS ENSAIO VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "03527",
+    "pdm": "BICO LUBRIFICAÇÃO"
+  },
+  {
+    "id": "03738",
+    "pdm": "BOMBA DE ABASTECIMENTO DE COMBUSTIVEL - AERONAVE"
+  },
+  {
+    "id": "03739",
+    "pdm": "BOMBA ABASTECIMENTO COMBUSTÍVEL - VEÍCULO AUTOMOTI"
+  },
+  {
+    "id": "03740",
+    "pdm": "BOMBA DE ABASTECIMENTO DE COMBUSTIVEL PARA AERONAVE"
+  },
+  {
+    "id": "03741",
+    "pdm": "BOMBA ABASTECIMENTO DE LUBRIFICANTE VEÍCULO"
+  },
+  {
+    "id": "03753",
+    "pdm": "BOMBA DISTRIBUIÇÃO COMBUSTÍVEL"
+  },
+  {
+    "id": "03783",
+    "pdm": "BOMBA LAVAGEM VEÍCULO PEÇAS / COMPONENTES"
+  },
+  {
+    "id": "03784",
+    "pdm": "BOMBA MANUAL ROTATIVA"
+  },
+  {
+    "id": "03786",
+    "pdm": "BOMBA MANUAL DE BOMBEAMENTO DE LIQUIDO ADAPTAVEL A TAMBOR"
+  },
+  {
+    "id": "03791",
+    "pdm": "BOMBA PARA ENGRAXAR"
+  },
+  {
+    "id": "03998",
+    "pdm": "CABINE PINTURA"
+  },
+  {
+    "id": "04261",
+    "pdm": "CALIBRADOR"
+  },
+  {
+    "id": "04713",
+    "pdm": "CAVALETE ENSAIO OFICINA"
+  },
+  {
+    "id": "05426",
+    "pdm": "COMPONENTE DO SISTEMA DE ABASTECIMENTO EM VOO"
+  },
+  {
+    "id": "05451",
+    "pdm": "COMPONENTE HIDRAULICO DE ABASTECIMENTO EM VOO"
+  },
+  {
+    "id": "05463",
+    "pdm": "COMPONENTE BOMBA ABASTECIMENTO"
+  },
+  {
+    "id": "05770",
+    "pdm": "CONJUNTO LUBRIFICAÇÃO CENTRALIZADA"
+  },
+  {
+    "id": "06082",
+    "pdm": "DESEMPENADEIRA"
+  },
+  {
+    "id": "06351",
+    "pdm": "PROPULSORA PNEUMÁTICA"
+  },
+  {
+    "id": "06477",
+    "pdm": "ELEVADOR ELÉTRICO DE VEÍCULO"
+  },
+  {
+    "id": "06479",
+    "pdm": "ELEVADOR HIDRÁULICO VEÍCULO"
+  },
+  {
+    "id": "06573",
+    "pdm": "ENGRAXADEIRA PORTÁTIL"
+  },
+  {
+    "id": "06688",
+    "pdm": "ESTICADOR"
+  },
+  {
+    "id": "06724",
+    "pdm": "PEÇAS E COMPONENTES PISTOLA PINTURA"
+  },
+  {
+    "id": "06780",
+    "pdm": "EQUIPAMENTO ELETRONICO DE REGULAGEM DE MOTOR DE VEICULO"
+  },
+  {
+    "id": "06791",
+    "pdm": "EQUIPAMENTO HIDRAULICO PARA OFICINA"
+  },
+  {
+    "id": "06831",
+    "pdm": "EQUIPAMENTO PARA MANUTENCAO E REPARO DE PNEU"
+  },
+  {
+    "id": "06832",
+    "pdm": "EQUIPAMENTO PARA MONTAGEM DE CHICOTE ELETRICO"
+  },
+  {
+    "id": "06837",
+    "pdm": "EQUIPAMENTO PARA REPARO DE SISTEMA DE FREIO"
+  },
+  {
+    "id": "06858",
+    "pdm": "EQUIPAMENTO VERIFICACAO FOLGAS DA SUSPENSAO / DIRE"
+  },
+  {
+    "id": "07461",
+    "pdm": "FILTRO COMBUSTÍVEL - POSTO ABASTECIMENTO"
+  },
+  {
+    "id": "07478",
+    "pdm": "FILTRO DESIDRATADOR - ABASTECIMENTO COMBUSTIVEL"
+  },
+  {
+    "id": "08101",
+    "pdm": "GRAXEIRA / PEÇA / COMPONENTE"
+  },
+  {
+    "id": "08221",
+    "pdm": "HIDROCOMPRESSOR"
+  },
+  {
+    "id": "08864",
+    "pdm": "LINHA COMPUTADORIZADA - INSPECAO VEICULAR"
+  },
+  {
+    "id": "08932",
+    "pdm": "LUBRIFICADOR HIDROSTATICO"
+  },
+  {
+    "id": "08933",
+    "pdm": "LUBRIFICADOR"
+  },
+  {
+    "id": "08994",
+    "pdm": "MACACO PORTÁTIL - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "09152",
+    "pdm": "MAQUINA BALANCEAR EIXO MANIVELA (VIRABREQUIM)"
+  },
+  {
+    "id": "09192",
+    "pdm": "MAQUINA DE ESMERILHAR EIXO DE MANIVELA"
+  },
+  {
+    "id": "09193",
+    "pdm": "MAQUINA DE ESMERILHAR EQUIPAMENTO DE VEICULO MOTORIZADO"
+  },
+  {
+    "id": "09203",
+    "pdm": "ALINHADOR EIXO"
+  },
+  {
+    "id": "09204",
+    "pdm": "MÁQUINA DE LAVAR AUTOMÓVEL / PEÇAS E ACESSÓRIOS"
+  },
+  {
+    "id": "09205",
+    "pdm": "MÁQUINA LAVADORA"
+  },
+  {
+    "id": "09220",
+    "pdm": "MAQUINA DE RETIFICAR EQUIPAMENTO DE VEICULO MOTORIZADO"
+  },
+  {
+    "id": 10154,
+    "pdm": "OFICINA MOVEL REPARO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 10564,
+    "pdm": "PECA/COMPONENTE ELEVADOR HIDRAULICO/ELETRICO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 10566,
+    "pdm": "PEÇA/COMPONENTE MÁQUINA LAVAR - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 10793,
+    "pdm": "PISTOLA DE PINTURA"
+  },
+  {
+    "id": 10796,
+    "pdm": "PISTOLA GRAXEIRA MANUAL"
+  },
+  {
+    "id": 10800,
+    "pdm": "PISTOLA"
+  },
+  {
+    "id": 12151,
+    "pdm": "SISTEMA LIMPEZA INJETOR - VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 12493,
+    "pdm": "TALHA DE REPARO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 12690,
+    "pdm": "TESTADOR DE CHICOTE ELETRICO"
+  },
+  {
+    "id": 12830,
+    "pdm": "TORNO PARA TAMBOR DE FREIO"
+  },
+  {
+    "id": 13179,
+    "pdm": "UNIDADE ESPECIAL PARA TRABALHO EM SONDA ( UTILITY UNITS )"
+  },
+  {
+    "id": 13185,
+    "pdm": "UNIDADE MOVEL LUBRIFICACAO E ABASTECIMENTO"
+  },
+  {
+    "id": 14272,
+    "pdm": "ESPIGÃO MANGUEIRA"
+  },
+  {
+    "id": 14274,
+    "pdm": "PULVERIZADOR PEÇAS / ACESSÓRIOS"
+  },
+  {
+    "id": 15173,
+    "pdm": "ENGATE RÁPIDO"
+  },
+  {
+    "id": 15195,
+    "pdm": "ADAPTADOR PARA ENGATE RÁPIDO"
+  },
+  {
+    "id": 15418,
+    "pdm": "COLETOR ÓLEO"
+  },
+  {
+    "id": 15729,
+    "pdm": "PULVERIZADOR DE COMPRESSÃO PRÉVIA"
+  },
+  {
+    "id": 16968,
+    "pdm": "ANALISADOR MOTOR VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": 16969,
+    "pdm": "PEÇAS / ACESSÓRIOS EQUIPAMENTOS OFICINA MANUTENÇÃO"
+  },
+  {
+    "id": 16970,
+    "pdm": "EQUIPAMENTO ESPECIALIZADO PARA MANUTENÇÃO REPARO E INSPEÇÃO DE TORPEDOS"
+  },
+  {
+    "id": 16971,
+    "pdm": "EQUIPAMENTO ESPECIALIZADO PARA MANUTENÇÃO REPARO E INSPEÇÃO DE MINAS SUBMARINAS E BOMBAS DE PROFUNDI"
+  },
+  {
+    "id": 16972,
+    "pdm": "EQUIPAMENTO ESPECIALIZADO PARA MANUTENÇÃO REPARO E INSPEÇÃO DE MUNIÇÃO"
+  },
+  {
+    "id": 16973,
+    "pdm": "EQUIPAMENTO ESPECIALIZADO PARA MANUTENÇÃO REPARO E INSPEÇÃO DE FOGUETES"
+  },
+  {
+    "id": 16974,
+    "pdm": "EQUIPAMENTO PARA ABASTECIMENTO DE COMBUSTÍVEL E LUBRIFICAÇÃO"
+  },
+  {
+    "id": 16975,
+    "pdm": "EQUIPAMENTO ESPECIALIZADO PARA OFICINA DE MANUTENÇÃO E REPA-RO DE MATERIAL DE CONTROLE DE TIRO"
+  },
+  {
+    "id": 16976,
+    "pdm": "EQUIPAMENTO ESPECIALIZADO PARA OFICINA DE MANUTENÇÃO E REPA-RO DE ARMAMENTO"
+  },
+  {
+    "id": 16977,
+    "pdm": "EQUIPAMENTO ESPECIALIZADO PARA MANUTENÇÃO REPARO E INSPEÇÃO DE MÍSSEIS GUIADOS"
+  },
+  {
+    "id": 16978,
+    "pdm": "MESA DESEMPENO"
+  },
+  {
+    "id": 16979,
+    "pdm": "EQUIPAMENTO ESPECIALIZADO PARA MANUTENÇÃO REPARO E INSPEÇÃO DE VEÍCULOS ESPACIAIS"
+  },
+  {
+    "id": 17364,
+    "pdm": "PISTOLA PINTURA"
+  },
+  {
+    "id": 17378,
+    "pdm": "EQUIPAMENTO ESPECIALIZADO PARA MANUTENÇÃO E REPARO DE ARMAS MÚLTIPLAS GUIADAS"
+  },
+  {
+    "id": 17643,
+    "pdm": "PISTOLA DE PULVERIZAÇÃO"
+  }
+]
