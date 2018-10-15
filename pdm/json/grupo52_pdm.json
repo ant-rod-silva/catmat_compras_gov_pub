@@ -1,0 +1,474 @@
+[
+  {
+    "id": "00870",
+    "pdm": "MICRÔMETRO PROFUNDIDADE"
+  },
+  {
+    "id": "00878",
+    "pdm": "MICRÔMETRO EXTERNO"
+  },
+  {
+    "id": "00882",
+    "pdm": "MICRÔMETRO INTERNO"
+  },
+  {
+    "id": "00913",
+    "pdm": "COMPASSO CALIBRE DIGITAL"
+  },
+  {
+    "id": "00914",
+    "pdm": "DURÔMETRO"
+  },
+  {
+    "id": "00918",
+    "pdm": "ESQUADRO"
+  },
+  {
+    "id": "00919",
+    "pdm": "METRO DOBRÁVEL"
+  },
+  {
+    "id": "00920",
+    "pdm": "NÍVEL BOLHA"
+  },
+  {
+    "id": "00959",
+    "pdm": "CALIBRADOR ROSCA"
+  },
+  {
+    "id": "00960",
+    "pdm": "PENTE MEDIÇÃO ROSCA"
+  },
+  {
+    "id": "00961",
+    "pdm": "TACÓGRAFO"
+  },
+  {
+    "id": "00963",
+    "pdm": "TORQUÍMETRO ESTALO ESCALA (LB.POL)"
+  },
+  {
+    "id": "00965",
+    "pdm": "TORQUÍMETRO ESTALO ESCALA (KG.M)."
+  },
+  {
+    "id": "00966",
+    "pdm": "TORQUÍMETRO ESTALO ESCALA (LB.PÉ)"
+  },
+  {
+    "id": "00967",
+    "pdm": "TORQUÍMETRO RELÓGIO ESCALA DUPLA (NM) E (LB.POL)"
+  },
+  {
+    "id": "00968",
+    "pdm": "TRENA"
+  },
+  {
+    "id": "01016",
+    "pdm": "CALIBRADOR ÂNGULO SAÍDA"
+  },
+  {
+    "id": "01038",
+    "pdm": "MICRÔMETRO DIGITAL"
+  },
+  {
+    "id": "01039",
+    "pdm": "PAQUÍMETRO DIGITAL"
+  },
+  {
+    "id": "02140",
+    "pdm": "AFERIDOR"
+  },
+  {
+    "id": "02143",
+    "pdm": "AFIADOR DE FERRAMENTA DE PRECISAO"
+  },
+  {
+    "id": "02304",
+    "pdm": "ALICATE AMPERÍMETRO"
+  },
+  {
+    "id": "02371",
+    "pdm": "ALTÍMETRO PORTATIL"
+  },
+  {
+    "id": "02764",
+    "pdm": "APARELHO DIGITAL DIAGNÓSTICO"
+  },
+  {
+    "id": "03622",
+    "pdm": "MONTADOR BLOCO PADRÃO"
+  },
+  {
+    "id": "04250",
+    "pdm": "CALIBRADOR ALARGADOR TUBO"
+  },
+  {
+    "id": "04251",
+    "pdm": "CALIBRADOR BORDA TUBO"
+  },
+  {
+    "id": "04252",
+    "pdm": "CALIBRADOR BROCA - HELICOIDAL"
+  },
+  {
+    "id": "04253",
+    "pdm": "CALIBRADOR DE ANGULO DE CORTE DE BROCA HELICOIDAL"
+  },
+  {
+    "id": "04254",
+    "pdm": "CALIBRADOR DOSE"
+  },
+  {
+    "id": "04255",
+    "pdm": "CALIBRADOR ESPESSURA TUBO"
+  },
+  {
+    "id": "04256",
+    "pdm": "CALIBRADOR MACHO - HELICOIDAL"
+  },
+  {
+    "id": "04259",
+    "pdm": "CALIBRADOR PASSO BROCA"
+  },
+  {
+    "id": "04260",
+    "pdm": "CALIBRADOR PLAINA"
+  },
+  {
+    "id": "04262",
+    "pdm": "CALIBRADOR SUPERFÍCIE"
+  },
+  {
+    "id": "04263",
+    "pdm": "CALIBRADOR TELESCÓPICO"
+  },
+  {
+    "id": "04264",
+    "pdm": "CALIBRE DE ALOJAMENTO"
+  },
+  {
+    "id": "04265",
+    "pdm": "CALIBRE DE ALTURA GRAMINHO"
+  },
+  {
+    "id": "04266",
+    "pdm": "CALIBRE DE ANGULO PARA ARTIFICE"
+  },
+  {
+    "id": "04267",
+    "pdm": "CALIBRE DE ARAME"
+  },
+  {
+    "id": "04268",
+    "pdm": "CALIBRE DE CARLOPA"
+  },
+  {
+    "id": "04269",
+    "pdm": "CALIBRE CENTRAGEM FERRAMENTA DE TORNO"
+  },
+  {
+    "id": "04270",
+    "pdm": "CALIBRE DE DENTE DE SERRA"
+  },
+  {
+    "id": "04271",
+    "pdm": "CALIBRE DE ESPESSURA"
+  },
+  {
+    "id": "04272",
+    "pdm": "CALIBRE FIXADOR"
+  },
+  {
+    "id": "04274",
+    "pdm": "CALIBRE DE MEDIDA EXTERNA"
+  },
+  {
+    "id": "04275",
+    "pdm": "CALIBRE MEDIDA INTERNA"
+  },
+  {
+    "id": "04276",
+    "pdm": "CALIBRE DE MOLA"
+  },
+  {
+    "id": "04277",
+    "pdm": "CALIBRE DE ORIFICIO CONICO PARA DIAMETRO DE ARAME"
+  },
+  {
+    "id": "04278",
+    "pdm": "CALIBRE DE PERFIL"
+  },
+  {
+    "id": "04279",
+    "pdm": "CALIBRE DE PLAINA"
+  },
+  {
+    "id": "04280",
+    "pdm": "CALIBRE DE PLAINA MECANICA"
+  },
+  {
+    "id": "04281",
+    "pdm": "CALIBRE DE PONTA DE BROCA"
+  },
+  {
+    "id": "04282",
+    "pdm": "CALIBRE DE PROFUNDIDADE"
+  },
+  {
+    "id": "04283",
+    "pdm": "COMPASSO"
+  },
+  {
+    "id": "04284",
+    "pdm": "CALIBRE DE RAIO"
+  },
+  {
+    "id": "04285",
+    "pdm": "CALIBRE DE ROSCA"
+  },
+  {
+    "id": "04286",
+    "pdm": "MEDIDOR DISTÂNCIA"
+  },
+  {
+    "id": "04287",
+    "pdm": "CALIBRE DE TRAÇÃO"
+  },
+  {
+    "id": "04288",
+    "pdm": "CALIBRE DE VIDRACEIRO"
+  },
+  {
+    "id": "04289",
+    "pdm": "CALIBRE ESPECIAL DE INSPECAO"
+  },
+  {
+    "id": "04290",
+    "pdm": "CALIBRE ANEL"
+  },
+  {
+    "id": "04291",
+    "pdm": "CALIBRE PARA BUJAO"
+  },
+  {
+    "id": "04292",
+    "pdm": "CALIBRE PARA CURVA EXTERNA"
+  },
+  {
+    "id": "04293",
+    "pdm": "CALIBRE PARA CURVA INTERNA"
+  },
+  {
+    "id": "04294",
+    "pdm": "CALIBRE PARA DIAMETRO DE BROCA HELICOIDAL"
+  },
+  {
+    "id": "04296",
+    "pdm": "CALIBRE SELEÇÃO REBITE"
+  },
+  {
+    "id": "04297",
+    "pdm": "CALIBRE VERIFICAR RAIO"
+  },
+  {
+    "id": "04298",
+    "pdm": "CALIBRE PARA VERIFICAR ROSCA"
+  },
+  {
+    "id": "04299",
+    "pdm": "PAQUÍMETRO ESPECIAL"
+  },
+  {
+    "id": "04761",
+    "pdm": "CENTRIMITER"
+  },
+  {
+    "id": "06896",
+    "pdm": "ESCALA DE ACO DE ARTIFICE"
+  },
+  {
+    "id": "06900",
+    "pdm": "ESCALA DE PROFUNDIDADE"
+  },
+  {
+    "id": "06901",
+    "pdm": "ESCALA ENCOSTO INTERNO"
+  },
+  {
+    "id": "06902",
+    "pdm": "ESCALA METROLÓGICA"
+  },
+  {
+    "id": "07341",
+    "pdm": "PEÇAS / ACESSÓRIOS MICRÔMETRO"
+  },
+  {
+    "id": "07508",
+    "pdm": "FIO DE PRUMO"
+  },
+  {
+    "id": "07561",
+    "pdm": "FITA DE ACO PARA MEDICAO"
+  },
+  {
+    "id": "07601",
+    "pdm": "FITA METRICA DE ARTIFICE"
+  },
+  {
+    "id": "07893",
+    "pdm": "GABARITO DE SUBMONTAGEM"
+  },
+  {
+    "id": "08035",
+    "pdm": "GONIOMETRO"
+  },
+  {
+    "id": "09007",
+    "pdm": "MEDIDOR SULCO PNEU"
+  },
+  {
+    "id": "09552",
+    "pdm": "MEDIDOR DE REBORDO DE TUBO"
+  },
+  {
+    "id": "09563",
+    "pdm": "MEDIDOR DE ESPESSURA"
+  },
+  {
+    "id": "09746",
+    "pdm": "MICROPICNOMETRO"
+  },
+  {
+    "id": "09780",
+    "pdm": "MIRA DE INSPECAO E MEDICAO"
+  },
+  {
+    "id": 10116,
+    "pdm": "NIVELADOR PARA MEDICAO E INSPECAO"
+  },
+  {
+    "id": 10219,
+    "pdm": "OPACÍMETRO"
+  },
+  {
+    "id": 10631,
+    "pdm": "PENTE MEDICAO ROSCA"
+  },
+  {
+    "id": 10992,
+    "pdm": "PONTA PROVA OSCILOSCÓPIO"
+  },
+  {
+    "id": 11258,
+    "pdm": "PROJETOR OPTICO DE PERFIL DE MEDICAO E INSPECAO"
+  },
+  {
+    "id": 11328,
+    "pdm": "PRUMO"
+  },
+  {
+    "id": 11579,
+    "pdm": "RÉGUA MEDIÇÃO TANQUE COMBUSTÍVEL"
+  },
+  {
+    "id": 11621,
+    "pdm": "RELÓGIO COMPARADOR"
+  },
+  {
+    "id": 11857,
+    "pdm": "RUGOSIMETRO"
+  },
+  {
+    "id": 12115,
+    "pdm": "SISTEMA DE CONTROLE DE TORQUE"
+  },
+  {
+    "id": 12453,
+    "pdm": "TABELA DE CALIBRE COMBINADO DE BROCA HELICOIDAL"
+  },
+  {
+    "id": 12455,
+    "pdm": "TABELA E CALIBRE COMBINADO PARA MACHO"
+  },
+  {
+    "id": 12834,
+    "pdm": "TORQUIMETRO ESCALA DUPLA"
+  },
+  {
+    "id": 12835,
+    "pdm": "TORQUÍMETRO DIGITAL"
+  },
+  {
+    "id": 12876,
+    "pdm": "TRANSFERIDOR COMBINADO"
+  },
+  {
+    "id": 12877,
+    "pdm": "TRANSFERIDOR UNIVERSAL DE PRESSAO"
+  },
+  {
+    "id": 13304,
+    "pdm": "PONTA PROVA MULTÍMETRO"
+  },
+  {
+    "id": 13651,
+    "pdm": "MEDIDOR ESPESSURA"
+  },
+  {
+    "id": 13667,
+    "pdm": "DECIBELÍMETRO"
+  },
+  {
+    "id": 14143,
+    "pdm": "BORRACHA MICRÔMETRO"
+  },
+  {
+    "id": 14545,
+    "pdm": "GUIA LINEAR"
+  },
+  {
+    "id": 14701,
+    "pdm": "PAQUÍMETRO UNIVERSAL"
+  },
+  {
+    "id": 14964,
+    "pdm": "ALICATE WATTIMETRO"
+  },
+  {
+    "id": 16203,
+    "pdm": "TRENA ELETRÔNICA"
+  },
+  {
+    "id": 16333,
+    "pdm": "LUPA MEDIÇÃO"
+  },
+  {
+    "id": 16988,
+    "pdm": "NÍVEL DE PRECISÃO"
+  },
+  {
+    "id": 16989,
+    "pdm": "HASTE PADRÃO CALIBRAÇÃO"
+  },
+  {
+    "id": 16990,
+    "pdm": "JOGOS E CONJUNTOS DE INSTRUMENTOS DE MEDIÇÃO"
+  },
+  {
+    "id": 17451,
+    "pdm": "ESFERA PADRÃO"
+  },
+  {
+    "id": 17516,
+    "pdm": "LINHA PEDREIRO"
+  },
+  {
+    "id": 18735,
+    "pdm": "DISCO TACÓGRAFO"
+  },
+  {
+    "id": 19072,
+    "pdm": "MEDIDOR DE CASCA"
+  }
+]
