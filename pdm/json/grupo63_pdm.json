@@ -1,626 +1,782 @@
 [
   {
     "id": "01380",
-    "pdm": "PORTA-PESO CONE"
+    "pdm": "PORTA-PESO CONE",
+    "grupo": 63
   },
   {
     "id": "01476",
-    "pdm": "DETECTOR METAIS"
+    "pdm": "DETECTOR METAIS",
+    "grupo": 63
   },
   {
     "id": "01477",
-    "pdm": "FITA SINALIZAÇÃO"
+    "pdm": "FITA SINALIZAÇÃO",
+    "grupo": 63
   },
   {
     "id": "01492",
-    "pdm": "CONE SINALIZAÇÃO"
+    "pdm": "CONE SINALIZAÇÃO",
+    "grupo": 63
   },
   {
     "id": "01493",
-    "pdm": "POSTE FIXAÇÃO PLACA"
+    "pdm": "POSTE FIXAÇÃO PLACA",
+    "grupo": 63
   },
   {
     "id": "01494",
-    "pdm": "CIGARRA"
+    "pdm": "CIGARRA",
+    "grupo": 63
   },
   {
     "id": "01495",
-    "pdm": "SENSOR MOVIMENTO"
+    "pdm": "SENSOR MOVIMENTO",
+    "grupo": 63
   },
   {
     "id": "01497",
-    "pdm": "CAVALETE SINALIZAÇÃO"
+    "pdm": "CAVALETE SINALIZAÇÃO",
+    "grupo": 63
   },
   {
     "id": "01505",
-    "pdm": "PLACA SINALIZADORA"
+    "pdm": "PLACA SINALIZADORA",
+    "grupo": 63
   },
   {
     "id": "01506",
-    "pdm": "ALARME SONORO CONTRA-INCÊNDIO"
+    "pdm": "ALARME SONORO CONTRA-INCÊNDIO",
+    "grupo": 63
   },
   {
     "id": "01507",
-    "pdm": "SINALIZADOR OBRA"
+    "pdm": "SINALIZADOR OBRA",
+    "grupo": 63
   },
   {
     "id": "01518",
-    "pdm": "HOLOGRAMA SEGURANÇA"
+    "pdm": "HOLOGRAMA SEGURANÇA",
+    "grupo": 63
   },
   {
     "id": "01519",
-    "pdm": "DETECTOR FUMAÇA"
+    "pdm": "DETECTOR FUMAÇA",
+    "grupo": 63
   },
   {
     "id": "01520",
-    "pdm": "DETECTOR TÉRMICO"
+    "pdm": "DETECTOR TÉRMICO",
+    "grupo": 63
   },
   {
     "id": "01531",
-    "pdm": "SENSOR INFRAVERMELHO"
+    "pdm": "SENSOR INFRAVERMELHO",
+    "grupo": 63
   },
   {
     "id": "01532",
-    "pdm": "PAINEL ALARME"
+    "pdm": "PAINEL ALARME",
+    "grupo": 63
   },
   {
     "id": "01556",
-    "pdm": "BÓIA AMARRAÇÃO"
+    "pdm": "BÓIA AMARRAÇÃO",
+    "grupo": 63
   },
   {
     "id": "01557",
-    "pdm": "LANTERNA BALISAMENTO MARÍTIMO"
+    "pdm": "LANTERNA BALISAMENTO MARÍTIMO",
+    "grupo": 63
   },
   {
     "id": "01558",
-    "pdm": "AUTOMATIZADOR PORTÃO"
+    "pdm": "AUTOMATIZADOR PORTÃO",
+    "grupo": 63
   },
   {
     "id": "01559",
-    "pdm": "CANCELA AUTOMÁTICA"
+    "pdm": "CANCELA AUTOMÁTICA",
+    "grupo": 63
   },
   {
     "id": "01560",
-    "pdm": "CAMPAINHA SEM FIO"
+    "pdm": "CAMPAINHA SEM FIO",
+    "grupo": 63
   },
   {
     "id": "01561",
-    "pdm": "DETECTOR GÁS"
+    "pdm": "DETECTOR GÁS",
+    "grupo": 63
   },
   {
     "id": "01562",
-    "pdm": "DETECTOR ÓPTICO"
+    "pdm": "DETECTOR ÓPTICO",
+    "grupo": 63
   },
   {
     "id": "01583",
-    "pdm": "AUTOMATIZADOR PORTA SOCIAL"
+    "pdm": "AUTOMATIZADOR PORTA SOCIAL",
+    "grupo": 63
   },
   {
     "id": "01584",
-    "pdm": "CAMPAINHA ELÉTRICA"
+    "pdm": "CAMPAINHA ELÉTRICA",
+    "grupo": 63
   },
   {
     "id": "01585",
-    "pdm": "DETECTOR CHAMAS"
+    "pdm": "DETECTOR CHAMAS",
+    "grupo": 63
   },
   {
     "id": "01586",
-    "pdm": "PORTA GIRATÓRIA"
+    "pdm": "PORTA GIRATÓRIA",
+    "grupo": 63
   },
   {
     "id": "01587",
-    "pdm": "PORTAL DETECTOR METAL"
+    "pdm": "PORTAL DETECTOR METAL",
+    "grupo": 63
   },
   {
     "id": "01588",
-    "pdm": "RELÓGIO SINALEIRO DIGITAL"
+    "pdm": "RELÓGIO SINALEIRO DIGITAL",
+    "grupo": 63
   },
   {
     "id": "01700",
-    "pdm": "ACESSORIO DE SINALEIRA DE FERROVIA"
+    "pdm": "ACESSORIO DE SINALEIRA DE FERROVIA",
+    "grupo": 63
   },
   {
     "id": "02044",
-    "pdm": "ACIONADOR / JOYSTICK"
+    "pdm": "ACIONADOR / JOYSTICK",
+    "grupo": 63
   },
   {
     "id": "02219",
-    "pdm": "ALARME DE FUSIVEL QUEIMADO"
+    "pdm": "ALARME DE FUSIVEL QUEIMADO",
+    "grupo": 63
   },
   {
     "id": "02220",
-    "pdm": "ALARME DE PRESSAO DE OXIGENIO DE AERONAVE"
+    "pdm": "ALARME DE PRESSAO DE OXIGENIO DE AERONAVE",
+    "grupo": 63
   },
   {
     "id": "02221",
-    "pdm": "ALARME DE PRESSAO DO OLEO COMBUSTIVEL DE AERONAVE"
+    "pdm": "ALARME DE PRESSAO DO OLEO COMBUSTIVEL DE AERONAVE",
+    "grupo": 63
   },
   {
     "id": "02222",
-    "pdm": "ALARME DE TREM DE POUSO"
+    "pdm": "ALARME DE TREM DE POUSO",
+    "grupo": 63
   },
   {
     "id": "02223",
-    "pdm": "ALARME MANUAL CONTRA GAS"
+    "pdm": "ALARME MANUAL CONTRA GAS",
+    "grupo": 63
   },
   {
     "id": "02226",
-    "pdm": "ALARME SONORO CONTRA INTRUSAO PREDIAL"
+    "pdm": "ALARME SONORO CONTRA INTRUSAO PREDIAL",
+    "grupo": 63
   },
   {
     "id": "02228",
-    "pdm": "ALARME TIPO SIRENE INTERMITENTE"
+    "pdm": "ALARME TIPO SIRENE INTERMITENTE",
+    "grupo": 63
   },
   {
     "id": "02429",
-    "pdm": "AMORTECEDOR - ESTACIONAMENTO"
+    "pdm": "AMORTECEDOR - ESTACIONAMENTO",
+    "grupo": 63
   },
   {
     "id": "02627",
-    "pdm": "ANUNCIADORES DE ALARME"
+    "pdm": "ANUNCIADORES DE ALARME",
+    "grupo": 63
   },
   {
     "id": "02754",
-    "pdm": "APARELHO DETECTOR DE ARMA / EXPLOSIVO POR RAIO X"
+    "pdm": "APARELHO DETECTOR DE ARMA / EXPLOSIVO POR RAIO X",
+    "grupo": 63
   },
   {
     "id": "02755",
-    "pdm": "APARELHO DETECTOR DE ARMA E EXPLOSIVO POR EMANACAO DE VAPOR - TIPO MALETA"
+    "pdm": "APARELHO DETECTOR DE ARMA E EXPLOSIVO POR EMANACAO DE VAPOR - TIPO MALETA",
+    "grupo": 63
   },
   {
     "id": "02756",
-    "pdm": "APARELHO DETECTOR DE EXPLOSIVO POR EMANACAO DE GAS"
+    "pdm": "APARELHO DETECTOR DE EXPLOSIVO POR EMANACAO DE GAS",
+    "grupo": 63
   },
   {
     "id": "03162",
-    "pdm": "AVISO DE ATERRAGEM"
+    "pdm": "AVISO DE ATERRAGEM",
+    "grupo": 63
   },
   {
     "id": "03291",
-    "pdm": "BANDEIRA DE SINALIZACAO DE CODIGO INTERNACIONAL"
+    "pdm": "BANDEIRA DE SINALIZACAO DE CODIGO INTERNACIONAL",
+    "grupo": 63
   },
   {
     "id": "03293",
-    "pdm": "BANDEIRA DE SINALIZACAO METEOROLOGICA"
+    "pdm": "BANDEIRA DE SINALIZACAO METEOROLOGICA",
+    "grupo": 63
   },
   {
     "id": "03569",
-    "pdm": "BIRUTA"
+    "pdm": "BIRUTA",
+    "grupo": 63
   },
   {
     "id": "03658",
-    "pdm": "BOIA DE SINALIZACAO"
+    "pdm": "BOIA DE SINALIZACAO",
+    "grupo": 63
   },
   {
     "id": "03659",
-    "pdm": "BÓIA SINALIZAÇÃO LUMINOSA"
+    "pdm": "BÓIA SINALIZAÇÃO LUMINOSA",
+    "grupo": 63
   },
   {
     "id": "03972",
-    "pdm": "BUZINA"
+    "pdm": "BUZINA",
+    "grupo": 63
   },
   {
     "id": "03975",
-    "pdm": "BUZINA DE VEICULO"
+    "pdm": "BUZINA DE VEICULO",
+    "grupo": 63
   },
   {
     "id": "03976",
-    "pdm": "BUZINA ELÉTRICA DE VEÍCULO"
+    "pdm": "BUZINA ELÉTRICA DE VEÍCULO",
+    "grupo": 63
   },
   {
     "id": "03977",
-    "pdm": "BUZINA MULTIAPLICAÇÃO"
+    "pdm": "BUZINA MULTIAPLICAÇÃO",
+    "grupo": 63
   },
   {
     "id": "04124",
-    "pdm": "CAIXA COMANDO SINALEIRA"
+    "pdm": "CAIXA COMANDO SINALEIRA",
+    "grupo": 63
   },
   {
     "id": "04383",
-    "pdm": "CAMPAINHA ELETRICA INDUSTRIAL"
+    "pdm": "CAMPAINHA ELETRICA INDUSTRIAL",
+    "grupo": 63
   },
   {
     "id": "04384",
-    "pdm": "CAMPAINHA MANUAL"
+    "pdm": "CAMPAINHA MANUAL",
+    "grupo": 63
   },
   {
     "id": "04395",
-    "pdm": "CANCELA FERROVIÁRIA"
+    "pdm": "CANCELA FERROVIÁRIA",
+    "grupo": 63
   },
   {
     "id": "05041",
-    "pdm": "CIRCUITO FECHADO TELEVISÃO"
+    "pdm": "CIRCUITO FECHADO TELEVISÃO",
+    "grupo": 63
   },
   {
     "id": "05453",
-    "pdm": "COMPONENTE MECANICO - APARELHO DETECTOR DE METAL TIPO MALETA"
+    "pdm": "COMPONENTE MECANICO - APARELHO DETECTOR DE METAL TIPO MALETA",
+    "grupo": 63
   },
   {
     "id": "05455",
-    "pdm": "COMPONENTE MECANICO"
+    "pdm": "COMPONENTE MECANICO",
+    "grupo": 63
   },
   {
     "id": "05456",
-    "pdm": "COMPONENTE MECANICO - APARELHO DETECTOR DE EXPLOSIVO POR EMANACAO DE GAS"
+    "pdm": "COMPONENTE MECANICO - APARELHO DETECTOR DE EXPLOSIVO POR EMANACAO DE GAS",
+    "grupo": 63
   },
   {
     "id": "05458",
-    "pdm": "COMPONENTE MECANICO DE APARELHO DETECTOR DE ARMA / EXPLOSIVO POR RAIO X"
+    "pdm": "COMPONENTE MECANICO DE APARELHO DETECTOR DE ARMA / EXPLOSIVO POR RAIO X",
+    "grupo": 63
   },
   {
     "id": "05697",
-    "pdm": "CONJUNTO ALARME CONTRA INTRUSÃO"
+    "pdm": "CONJUNTO ALARME CONTRA INTRUSÃO",
+    "grupo": 63
   },
   {
     "id": "05816",
-    "pdm": "CONTROLADOR ELETRONICO DE TRAFEGO ( ONDA VERDE )"
+    "pdm": "CONTROLADOR ELETRONICO DE TRAFEGO ( ONDA VERDE )",
+    "grupo": 63
   },
   {
     "id": "05820",
-    "pdm": "CONTROLE DE ALARME DE AERONAVE"
+    "pdm": "CONTROLE DE ALARME DE AERONAVE",
+    "grupo": 63
   },
   {
     "id": "05880",
-    "pdm": "CORNETA PNEUMATICA PARA NEVOEIRO"
+    "pdm": "CORNETA PNEUMATICA PARA NEVOEIRO",
+    "grupo": 63
   },
   {
     "id": "06054",
-    "pdm": "DELIMITADOR TRÁFEGO"
+    "pdm": "DELIMITADOR TRÁFEGO",
+    "grupo": 63
   },
   {
     "id": "06126",
-    "pdm": "DETECTOR DE DESCARRILHAMENTO"
+    "pdm": "DETECTOR DE DESCARRILHAMENTO",
+    "grupo": 63
   },
   {
     "id": "06127",
-    "pdm": "DETECTOR GÁS COMBUSTÍVEL"
+    "pdm": "DETECTOR GÁS COMBUSTÍVEL",
+    "grupo": 63
   },
   {
     "id": "06131",
-    "pdm": "DETECTOR MEDIDOR OXIGÊNIO"
+    "pdm": "DETECTOR MEDIDOR OXIGÊNIO",
+    "grupo": 63
   },
   {
     "id": "06133",
-    "pdm": "DETECTOR ESPECTROSCOPIA"
+    "pdm": "DETECTOR ESPECTROSCOPIA",
+    "grupo": 63
   },
   {
     "id": "06299",
-    "pdm": "DISPOSITIVO ACIONAMENTO ALARME"
+    "pdm": "DISPOSITIVO ACIONAMENTO ALARME",
+    "grupo": 63
   },
   {
     "id": "06655",
-    "pdm": "CONJUNTO CONTROLE ACESSO ÁREA RESTRITA"
+    "pdm": "CONJUNTO CONTROLE ACESSO ÁREA RESTRITA",
+    "grupo": 63
   },
   {
     "id": "06658",
-    "pdm": "SISTEMA ALARME GÁS"
+    "pdm": "SISTEMA ALARME GÁS",
+    "grupo": 63
   },
   {
     "id": "06659",
-    "pdm": "EQUIPAMENTO DE ALARME SONORO CONTRA INCENDIO"
+    "pdm": "EQUIPAMENTO DE ALARME SONORO CONTRA INCENDIO",
+    "grupo": 63
   },
   {
     "id": "06778",
-    "pdm": "EQUIPAMENTO ELETRONICO DE COLETA DE PONTO ( FREQUENCIA )"
+    "pdm": "EQUIPAMENTO ELETRONICO DE COLETA DE PONTO ( FREQUENCIA )",
+    "grupo": 63
   },
   {
     "id": "06781",
-    "pdm": "EQUIPAMENTO ELETRÔNICO INTEGRADO DE SEGURANÇA"
+    "pdm": "EQUIPAMENTO ELETRÔNICO INTEGRADO DE SEGURANÇA",
+    "grupo": 63
   },
   {
     "id": "07010",
-    "pdm": "ESPELHO DE SINALIZACAO DE SEGURANCA"
+    "pdm": "ESPELHO DE SINALIZACAO DE SEGURANCA",
+    "grupo": 63
   },
   {
     "id": "07114",
-    "pdm": "ESTEIRA PREGO"
+    "pdm": "ESTEIRA PREGO",
+    "grupo": 63
   },
   {
     "id": "07225",
-    "pdm": "ETIQUETA PROTETORA ELETROMAGNÉTICA"
+    "pdm": "ETIQUETA PROTETORA ELETROMAGNÉTICA",
+    "grupo": 63
   },
   {
     "id": "07307",
-    "pdm": "FAROL DE EMBARCACAO"
+    "pdm": "FAROL DE EMBARCACAO",
+    "grupo": 63
   },
   {
     "id": "07326",
-    "pdm": "FECHADURA ELÉTRICA"
+    "pdm": "FECHADURA ELÉTRICA",
+    "grupo": 63
   },
   {
     "id": "07327",
-    "pdm": "FECHADURA ELETROMAGNÉTICA"
+    "pdm": "FECHADURA ELETROMAGNÉTICA",
+    "grupo": 63
   },
   {
     "id": "07685",
-    "pdm": "FOGUETE DE SINALIZACAO COM ACIONAMENTO MANUAL"
+    "pdm": "FOGUETE DE SINALIZACAO COM ACIONAMENTO MANUAL",
+    "grupo": 63
   },
   {
     "id": "08338",
-    "pdm": "INDICADOR DE ANGULO DE LEME DE EMBARCACAO"
+    "pdm": "INDICADOR DE ANGULO DE LEME DE EMBARCACAO",
+    "grupo": 63
   },
   {
     "id": "08345",
-    "pdm": "INDICADOR DE POSICAO DE MASTRO DE EMBARCACAO"
+    "pdm": "INDICADOR DE POSICAO DE MASTRO DE EMBARCACAO",
+    "grupo": 63
   },
   {
     "id": "08714",
-    "pdm": "LANTERNA SINALIZACAO - TRAFEGO AEREO"
+    "pdm": "LANTERNA SINALIZACAO - TRAFEGO AEREO",
+    "grupo": 63
   },
   {
     "id": "08761",
-    "pdm": "LEITORA DE CARTÃO PARA VIA DE ACESSO"
+    "pdm": "LEITORA DE CARTÃO PARA VIA DE ACESSO",
+    "grupo": 63
   },
   {
     "id": "09879",
-    "pdm": "MONITOR SISTEMA SEGURANÇA"
+    "pdm": "MONITOR SISTEMA SEGURANÇA",
+    "grupo": 63
   },
   {
     "id": 10288,
-    "pdm": "PAINEL DE ALARME DE EMBARCACAO"
+    "pdm": "PAINEL DE ALARME DE EMBARCACAO",
+    "grupo": 63
   },
   {
     "id": 10540,
-    "pdm": "PECA MECANICA APARELHO DETECTOR METAL - MANUAL"
+    "pdm": "PECA MECANICA APARELHO DETECTOR METAL - MANUAL",
+    "grupo": 63
   },
   {
     "id": 10559,
-    "pdm": "PEÇA/ACESSÓRIO - PORTÃO AUTOMÁTICO"
+    "pdm": "PEÇA/ACESSÓRIO - PORTÃO AUTOMÁTICO",
+    "grupo": 63
   },
   {
     "id": 10777,
-    "pdm": "PISCA - PISCA DE SINALIZACAO DE TRANSITO"
+    "pdm": "PISCA - PISCA DE SINALIZACAO DE TRANSITO",
+    "grupo": 63
   },
   {
     "id": 10794,
-    "pdm": "PISTOLA DE SINALIZACAO"
+    "pdm": "PISTOLA DE SINALIZACAO",
+    "grupo": 63
   },
   {
     "id": 11099,
-    "pdm": "PORTEIRO ELETRÔNICO"
+    "pdm": "PORTEIRO ELETRÔNICO",
+    "grupo": 63
   },
   {
     "id": 11436,
-    "pdm": "REATOR DE SINALIZADOR DE ESTRADA"
+    "pdm": "REATOR DE SINALIZADOR DE ESTRADA",
+    "grupo": 63
   },
   {
     "id": 11528,
-    "pdm": "REFLETOR SINALIZADOR DE ESTRADA"
+    "pdm": "REFLETOR SINALIZADOR DE ESTRADA",
+    "grupo": 63
   },
   {
     "id": 11545,
-    "pdm": "REGISTRADOR AUTOMATICO DE TRAFEGO DE VEICULO"
+    "pdm": "REGISTRADOR AUTOMATICO DE TRAFEGO DE VEICULO",
+    "grupo": 63
   },
   {
     "id": 12014,
-    "pdm": "SENSOR SISTEMA SEGURANÇA"
+    "pdm": "SENSOR SISTEMA SEGURANÇA",
+    "grupo": 63
   },
   {
     "id": 12015,
-    "pdm": "PANORIZADOR"
+    "pdm": "PANORIZADOR",
+    "grupo": 63
   },
   {
     "id": 12076,
-    "pdm": "SINALEIRA DE BLOQUEIO"
+    "pdm": "SINALEIRA DE BLOQUEIO",
+    "grupo": 63
   },
   {
     "id": 12077,
-    "pdm": "COMPONENTES SINALEIRA TRÂNSITO VEÍCULO / PEDESTRE"
+    "pdm": "COMPONENTES SINALEIRA TRÂNSITO VEÍCULO / PEDESTRE",
+    "grupo": 63
   },
   {
     "id": 12078,
-    "pdm": "MICROESFERA DE VIDRO PARA REFLETORIZAÇÃO"
+    "pdm": "MICROESFERA DE VIDRO PARA REFLETORIZAÇÃO",
+    "grupo": 63
   },
   {
     "id": 12079,
-    "pdm": "SINALEIRA FERROVIARIA"
+    "pdm": "SINALEIRA FERROVIARIA",
+    "grupo": 63
   },
   {
     "id": 12081,
-    "pdm": "FAIXA REFLETIVA VEÍCULO"
+    "pdm": "FAIXA REFLETIVA VEÍCULO",
+    "grupo": 63
   },
   {
     "id": 12084,
-    "pdm": "SINALIZADOR PIROTÉCNICO"
+    "pdm": "SINALIZADOR PIROTÉCNICO",
+    "grupo": 63
   },
   {
     "id": 12091,
-    "pdm": "SINO PARA ALARME / SINALIZACAO"
+    "pdm": "SINO PARA ALARME / SINALIZACAO",
+    "grupo": 63
   },
   {
     "id": 12097,
-    "pdm": "SIRENE DE NEVOEIRO"
+    "pdm": "SIRENE DE NEVOEIRO",
+    "grupo": 63
   },
   {
     "id": 12098,
-    "pdm": "SIRENE MULTIAPLICAÇÃO"
+    "pdm": "SIRENE MULTIAPLICAÇÃO",
+    "grupo": 63
   },
   {
     "id": 12105,
-    "pdm": "SISTEMA CONTROLE ACESSO"
+    "pdm": "SISTEMA CONTROLE ACESSO",
+    "grupo": 63
   },
   {
     "id": 12106,
-    "pdm": "SISTEMA DE ALARME DE ALTITUDE DE AERONAVE"
+    "pdm": "SISTEMA DE ALARME DE ALTITUDE DE AERONAVE",
+    "grupo": 63
   },
   {
     "id": 12121,
-    "pdm": "SISTEMA ILUMINAÇÃO"
+    "pdm": "SISTEMA ILUMINAÇÃO",
+    "grupo": 63
   },
   {
     "id": 12149,
-    "pdm": "SISTEMA INTEGRADO DE SEGURANCA INDUSTRIAL"
+    "pdm": "SISTEMA INTEGRADO DE SEGURANCA INDUSTRIAL",
+    "grupo": 63
   },
   {
     "id": 12157,
-    "pdm": "SISTEMA PARA ELETRIFICACAO DE CARGA"
+    "pdm": "SISTEMA PARA ELETRIFICACAO DE CARGA",
+    "grupo": 63
   },
   {
     "id": 12162,
-    "pdm": "SISTEMA RONDA ELETRONICA"
+    "pdm": "SISTEMA RONDA ELETRONICA",
+    "grupo": 63
   },
   {
     "id": 12163,
-    "pdm": "SISTEMA SUPERVISÃO PREDIAL E SEGURANÇA PATRIMONIAL"
+    "pdm": "SISTEMA SUPERVISÃO PREDIAL E SEGURANÇA PATRIMONIAL",
+    "grupo": 63
   },
   {
     "id": 12649,
-    "pdm": "CARTÃO CONTROLE ACESSO"
+    "pdm": "CARTÃO CONTROLE ACESSO",
+    "grupo": 63
   },
   {
     "id": 12728,
-    "pdm": "TIMPANO DE MESA"
+    "pdm": "TIMPANO DE MESA",
+    "grupo": 63
   },
   {
     "id": 13553,
-    "pdm": "SISTEMA SONORIZAÇÃO"
+    "pdm": "SISTEMA SONORIZAÇÃO",
+    "grupo": 63
   },
   {
     "id": 13555,
-    "pdm": "EQUIPAMENTO DE DETECCAO DE GAS"
+    "pdm": "EQUIPAMENTO DE DETECCAO DE GAS",
+    "grupo": 63
   },
   {
     "id": 13690,
-    "pdm": "CONTROLADOR PASSAGEM NÍVEL"
+    "pdm": "CONTROLADOR PASSAGEM NÍVEL",
+    "grupo": 63
   },
   {
     "id": 13691,
-    "pdm": "CONTROLADOR SEMAFÓRICO"
+    "pdm": "CONTROLADOR SEMAFÓRICO",
+    "grupo": 63
   },
   {
     "id": 13697,
-    "pdm": "RADAR MÓVEL"
+    "pdm": "RADAR MÓVEL",
+    "grupo": 63
   },
   {
     "id": 14053,
-    "pdm": "FITA RETROREFLETIVA"
+    "pdm": "FITA RETROREFLETIVA",
+    "grupo": 63
   },
   {
     "id": 15233,
-    "pdm": "SINALIZADOR AUTOMOTIVO"
+    "pdm": "SINALIZADOR AUTOMOTIVO",
+    "grupo": 63
   },
   {
     "id": 15343,
-    "pdm": "LENTE CIRCUITO FECHADO TELEVISÃO"
+    "pdm": "LENTE CIRCUITO FECHADO TELEVISÃO",
+    "grupo": 63
   },
   {
     "id": 15372,
-    "pdm": "GRAVADOR LEITOR DE TARJA MAGNÉTICA EM CARTÕES"
+    "pdm": "GRAVADOR LEITOR DE TARJA MAGNÉTICA EM CARTÕES",
+    "grupo": 63
   },
   {
     "id": 15386,
-    "pdm": "LEITORA CAÇA-CRACHÁ"
+    "pdm": "LEITORA CAÇA-CRACHÁ",
+    "grupo": 63
   },
   {
     "id": 15456,
-    "pdm": "DISCO RELÓGIO VIGIA"
+    "pdm": "DISCO RELÓGIO VIGIA",
+    "grupo": 63
   },
   {
     "id": 15567,
-    "pdm": "MESA CONTROLADORA DE CÂMERA"
+    "pdm": "MESA CONTROLADORA DE CÂMERA",
+    "grupo": 63
   },
   {
     "id": 15662,
-    "pdm": "SINALIZADOR SEGURANÇA"
+    "pdm": "SINALIZADOR SEGURANÇA",
+    "grupo": 63
   },
   {
     "id": 16121,
-    "pdm": "SISTEMA CIRCUITO FECHADO TV"
+    "pdm": "SISTEMA CIRCUITO FECHADO TV",
+    "grupo": 63
   },
   {
     "id": 16122,
-    "pdm": "REDE CONTROLE ACESSO"
+    "pdm": "REDE CONTROLE ACESSO",
+    "grupo": 63
   },
   {
     "id": 16123,
-    "pdm": "LEITORA CARTÃO PROXIMIDADE"
+    "pdm": "LEITORA CARTÃO PROXIMIDADE",
+    "grupo": 63
   },
   {
     "id": 16124,
-    "pdm": "CARTÃO PROXIMIDADE VEÍCULO ATIVO"
+    "pdm": "CARTÃO PROXIMIDADE VEÍCULO ATIVO",
+    "grupo": 63
   },
   {
     "id": 16169,
-    "pdm": "GERENCIADOR IMAGEM"
+    "pdm": "GERENCIADOR IMAGEM",
+    "grupo": 63
   },
   {
     "id": 16193,
-    "pdm": "DETECTOR VEÍCULO"
+    "pdm": "DETECTOR VEÍCULO",
+    "grupo": 63
   },
   {
     "id": 16205,
-    "pdm": "BUCHA FIXAÇÃO ACESSÓRIO"
+    "pdm": "BUCHA FIXAÇÃO ACESSÓRIO",
+    "grupo": 63
   },
   {
     "id": 16388,
-    "pdm": "CENTRAL MONITORAMENTO"
+    "pdm": "CENTRAL MONITORAMENTO",
+    "grupo": 63
   },
   {
     "id": 16532,
-    "pdm": "RECEPTOR PARA CÂMERA VIGILANCIA"
+    "pdm": "RECEPTOR PARA CÂMERA VIGILANCIA",
+    "grupo": 63
   },
   {
     "id": 16579,
-    "pdm": "ACESSÓRIO SINALIZADOR AUTOMOTIVO"
+    "pdm": "ACESSÓRIO SINALIZADOR AUTOMOTIVO",
+    "grupo": 63
   },
   {
     "id": 17116,
-    "pdm": "SISTEMA DE SINALIZAÇÃO DE TRÁFEGO E TRÂNSITO"
+    "pdm": "SISTEMA DE SINALIZAÇÃO DE TRÁFEGO E TRÂNSITO",
+    "grupo": 63
   },
   {
     "id": 17117,
-    "pdm": "SISTEMAS DE SINALIZAÇÃO E ALARME DE EMBARCAÇÕES"
+    "pdm": "SISTEMAS DE SINALIZAÇÃO E ALARME DE EMBARCAÇÕES",
+    "grupo": 63
   },
   {
     "id": 17118,
-    "pdm": "SISTEMAS DE SINALIZAÇÃO E ALARME PARA FERROVIAS"
+    "pdm": "SISTEMAS DE SINALIZAÇÃO E ALARME PARA FERROVIAS",
+    "grupo": 63
   },
   {
     "id": 17119,
-    "pdm": "SISTEMAS DE SINALIZAÇÃO E ALARME PARA AERONAVES"
+    "pdm": "SISTEMAS DE SINALIZAÇÃO E ALARME PARA AERONAVES",
+    "grupo": 63
   },
   {
     "id": 17120,
-    "pdm": "DETECTOR ELETROMAGNÉTICO"
+    "pdm": "DETECTOR ELETROMAGNÉTICO",
+    "grupo": 63
   },
   {
     "id": 17395,
-    "pdm": "SINALIZADOR TRÂNSITO"
+    "pdm": "SINALIZADOR TRÂNSITO",
+    "grupo": 63
   },
   {
     "id": 17499,
-    "pdm": "MARTELO - QUEBRA VIDRO"
+    "pdm": "MARTELO - QUEBRA VIDRO",
+    "grupo": 63
   },
   {
     "id": 17740,
-    "pdm": "IDENTIFICADOR BIOMÉTRICO DIGITAL"
+    "pdm": "IDENTIFICADOR BIOMÉTRICO DIGITAL",
+    "grupo": 63
   },
   {
     "id": 17745,
-    "pdm": "SISTEMA DE IDENTIFICAÇÃO DE IMPRESSÕES DIGITAIS"
+    "pdm": "SISTEMA DE IDENTIFICAÇÃO DE IMPRESSÕES DIGITAIS",
+    "grupo": 63
   },
   {
     "id": 17819,
-    "pdm": "ACESSÓRIO SIRENE"
+    "pdm": "ACESSÓRIO SIRENE",
+    "grupo": 63
   },
   {
     "id": 18261,
-    "pdm": "SISTEMA SEGURANÇA"
+    "pdm": "SISTEMA SEGURANÇA",
+    "grupo": 63
   },
   {
     "id": 18262,
-    "pdm": "CONTROLADOR DE CÂMERA"
+    "pdm": "CONTROLADOR DE CÂMERA",
+    "grupo": 63
   },
   {
     "id": 18263,
-    "pdm": "DETECTOR ELETRONICO"
+    "pdm": "DETECTOR ELETRONICO",
+    "grupo": 63
   },
   {
     "id": 18318,
-    "pdm": "FECHADURA BIOMETRICA"
+    "pdm": "FECHADURA BIOMETRICA",
+    "grupo": 63
   },
   {
     "id": 18319,
-    "pdm": "FECHADURA DIGITAL"
+    "pdm": "FECHADURA DIGITAL",
+    "grupo": 63
   }
 ]
