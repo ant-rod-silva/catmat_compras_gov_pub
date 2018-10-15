@@ -1,0 +1,927 @@
+[
+  {
+    "id": "00594",
+    "pdm": "MANGOTE",
+    "grupo": 47
+  },
+  {
+    "id": "00595",
+    "pdm": "MANGUEIRA AR",
+    "grupo": 47
+  },
+  {
+    "id": "00615",
+    "pdm": "MANGUEIRA HIDRÁULICA",
+    "grupo": 47
+  },
+  {
+    "id": "00616",
+    "pdm": "MANGUEIRA JARDIM",
+    "grupo": 47
+  },
+  {
+    "id": "00617",
+    "pdm": "MANGUEIRA SUCÇÃO - SERVIÇOS LEVES",
+    "grupo": 47
+  },
+  {
+    "id": "00618",
+    "pdm": "MANGUEIRA SUCÇÃO - SERVIÇOS PESADOS",
+    "grupo": 47
+  },
+  {
+    "id": "00619",
+    "pdm": "MANGUEIRA SUCÇÃO - SERVIÇOS SUPER PESADOS",
+    "grupo": 47
+  },
+  {
+    "id": "00620",
+    "pdm": "TUBO FLEXÍVEL",
+    "grupo": 47
+  },
+  {
+    "id": "00621",
+    "pdm": "ANEL BORRACHA",
+    "grupo": 47
+  },
+  {
+    "id": "00622",
+    "pdm": "NIPLE PARA TUBOS CANOS - ROSCÁVEL",
+    "grupo": 47
+  },
+  {
+    "id": "00623",
+    "pdm": "TÊ - CONEXÃO PARA TUBOS CANOS - ROSCÁVEL",
+    "grupo": 47
+  },
+  {
+    "id": "00624",
+    "pdm": "TÊ - CONEXÃO PARA TUBOS E CANOS - SOLDÁVEL",
+    "grupo": 47
+  },
+  {
+    "id": "00625",
+    "pdm": "UNIÃO SOLDÁVEL",
+    "grupo": 47
+  },
+  {
+    "id": "00626",
+    "pdm": "UNIÃO ROSCÁVEL",
+    "grupo": 47
+  },
+  {
+    "id": "00656",
+    "pdm": "TUBO AÇO CARBONO COM COSTURA",
+    "grupo": 47
+  },
+  {
+    "id": "00657",
+    "pdm": "TUBO AÇO CARBONO SEM COSTURA",
+    "grupo": 47
+  },
+  {
+    "id": "00658",
+    "pdm": "TUBO FLEXÍVEL POLIETILENO",
+    "grupo": 47
+  },
+  {
+    "id": "00659",
+    "pdm": "TUBO PVC SOLDÁVEL",
+    "grupo": 47
+  },
+  {
+    "id": "00660",
+    "pdm": "TUBO PVC ROSCÁVEL",
+    "grupo": 47
+  },
+  {
+    "id": "00661",
+    "pdm": "MANGUEIRA HIDRANTE",
+    "grupo": 47
+  },
+  {
+    "id": "00662",
+    "pdm": "TUBO METÁLICO FLEXÍVEL",
+    "grupo": 47
+  },
+  {
+    "id": "00663",
+    "pdm": "TUBO POLIETILENO FLEXÍVEL",
+    "grupo": 47
+  },
+  {
+    "id": "00664",
+    "pdm": "ADAPTADOR TUBO PRECISÃO",
+    "grupo": 47
+  },
+  {
+    "id": "00665",
+    "pdm": "BUCHA INSTALAÇÃO PREDIAL ÁGUA FRIA",
+    "grupo": 47
+  },
+  {
+    "id": "00666",
+    "pdm": "COTOVELO TUBO CONDUÇÃO METÁLICO",
+    "grupo": 47
+  },
+  {
+    "id": "00667",
+    "pdm": "NIPLE TUBO CONDUÇÃO METÁLICA",
+    "grupo": 47
+  },
+  {
+    "id": "00668",
+    "pdm": "UNIÃO TUBO CONDUÇÃO METÁLICA",
+    "grupo": 47
+  },
+  {
+    "id": "00669",
+    "pdm": "UNIÃO TUBO PRECISÃO",
+    "grupo": 47
+  },
+  {
+    "id": "00689",
+    "pdm": "TERMINAL TUBO FLEXÍVEL",
+    "grupo": 47
+  },
+  {
+    "id": "00808",
+    "pdm": "TUBO COBRE",
+    "grupo": 47
+  },
+  {
+    "id": "01063",
+    "pdm": "TUBO NÁILON FLEXÍVEL",
+    "grupo": 47
+  },
+  {
+    "id": "01064",
+    "pdm": "TUBO NÁILON SEMI-RÍGIDO",
+    "grupo": 47
+  },
+  {
+    "id": "02432",
+    "pdm": "AMORTECEDOR DE VIBRACAO DE TUBO E CANO",
+    "grupo": 47
+  },
+  {
+    "id": "02433",
+    "pdm": "AMORTECEDOR TIPO STOCKBRIDGE PARA LTS",
+    "grupo": 47
+  },
+  {
+    "id": "03007",
+    "pdm": "ARMÁRIO DISTRIBUIÇÃO TELEFONIA",
+    "grupo": 47
+  },
+  {
+    "id": "03531",
+    "pdm": "BICO MANGUEIRA",
+    "grupo": 47
+  },
+  {
+    "id": "03657",
+    "pdm": "BOIA DE OLEODUTO",
+    "grupo": 47
+  },
+  {
+    "id": "04147",
+    "pdm": "CAIXA SIFONADA",
+    "grupo": 47
+  },
+  {
+    "id": "04425",
+    "pdm": "CANO DE METAL",
+    "grupo": 47
+  },
+  {
+    "id": "04427",
+    "pdm": "CANO RIGIDO DE PLASTICO",
+    "grupo": 47
+  },
+  {
+    "id": "05019",
+    "pdm": "CINTA TÉRMICA / ACESSÓRIOS",
+    "grupo": 47
+  },
+  {
+    "id": "05588",
+    "pdm": "CONEXAO - METALICA",
+    "grupo": 47
+  },
+  {
+    "id": "05589",
+    "pdm": "CONEXAO ACO CARBONO ZINCADO",
+    "grupo": 47
+  },
+  {
+    "id": "05591",
+    "pdm": "CONEXAO DE ACO CARBONO",
+    "grupo": 47
+  },
+  {
+    "id": "05592",
+    "pdm": "CONEXAO DE ACO INOXIDAVEL",
+    "grupo": 47
+  },
+  {
+    "id": "05593",
+    "pdm": "CONEXAO DE ACO LIGA",
+    "grupo": 47
+  },
+  {
+    "id": "05594",
+    "pdm": "CONEXAO DE ALUMINIO",
+    "grupo": 47
+  },
+  {
+    "id": "05596",
+    "pdm": "CONEXAO DE CERAMICA",
+    "grupo": 47
+  },
+  {
+    "id": "05597",
+    "pdm": "CONEXAO DE CIMENTO AMIANTO",
+    "grupo": 47
+  },
+  {
+    "id": "05598",
+    "pdm": "CONEXÃO METÁLICA",
+    "grupo": 47
+  },
+  {
+    "id": "05599",
+    "pdm": "CONEXAO DE CONCRETO PARA TUBO",
+    "grupo": 47
+  },
+  {
+    "id": "05603",
+    "pdm": "CONEXÃO FERRO FUNDIDO",
+    "grupo": 47
+  },
+  {
+    "id": "05604",
+    "pdm": "CONEXAO DE FERRO GALVANIZADO",
+    "grupo": 47
+  },
+  {
+    "id": "05605",
+    "pdm": "CONEXAO DE LIGA DE COBRE",
+    "grupo": 47
+  },
+  {
+    "id": "05606",
+    "pdm": "CONEXAO DE PLASTICO",
+    "grupo": 47
+  },
+  {
+    "id": "05607",
+    "pdm": "CONEXAO DE PVC ARTICULADA DE MANGUEIRA TIPO JARDIM",
+    "grupo": 47
+  },
+  {
+    "id": "05608",
+    "pdm": "CONEXAO DE RESINA DE EPOXI",
+    "grupo": 47
+  },
+  {
+    "id": "05609",
+    "pdm": "CONEXAO DE RESINA DE POLIESTER",
+    "grupo": 47
+  },
+  {
+    "id": "05610",
+    "pdm": "CONEXAO DE TUBO",
+    "grupo": 47
+  },
+  {
+    "id": "05611",
+    "pdm": "CONEXAO DE TUBO FLEXIVEL DE PRODUCAO DE PETROLEO / INJECAO DE AGUA",
+    "grupo": 47
+  },
+  {
+    "id": "05613",
+    "pdm": "CONEXAO FLEXIVEL NAO METALICA",
+    "grupo": 47
+  },
+  {
+    "id": "05614",
+    "pdm": "CONEXAO HIDRAULICA - CIMENTO",
+    "grupo": 47
+  },
+  {
+    "id": "05616",
+    "pdm": "JUNTA FLANGEADA",
+    "grupo": 47
+  },
+  {
+    "id": "05622",
+    "pdm": "CONEXAO PARA LUBRIFICACAO",
+    "grupo": 47
+  },
+  {
+    "id": "05624",
+    "pdm": "CONEXAO PARA MANGUEIRA DE JARDIM",
+    "grupo": 47
+  },
+  {
+    "id": "05625",
+    "pdm": "CONEXAO PARA TUBO",
+    "grupo": 47
+  },
+  {
+    "id": "05626",
+    "pdm": "LUVA CONEXÃO",
+    "grupo": 47
+  },
+  {
+    "id": "05628",
+    "pdm": "CONEXAO PARA TUBULACAO HIDRAULICA - SANITARIA",
+    "grupo": 47
+  },
+  {
+    "id": "06416",
+    "pdm": "DUTO DE PVC",
+    "grupo": 47
+  },
+  {
+    "id": "06424",
+    "pdm": "EDUTOR BOMBA DE SUCÇÃO / ENGATE RÁPIDO",
+    "grupo": 47
+  },
+  {
+    "id": "06966",
+    "pdm": "ESGUICHO",
+    "grupo": 47
+  },
+  {
+    "id": "06967",
+    "pdm": "ESGUICHO NEBULIZADOR / ASPERSOR",
+    "grupo": 47
+  },
+  {
+    "id": "08569",
+    "pdm": "JUNTA EXPANSÃO",
+    "grupo": 47
+  },
+  {
+    "id": "08570",
+    "pdm": "JUNTA DE EXPANSAO DE MATERIAL METALICO",
+    "grupo": 47
+  },
+  {
+    "id": "08571",
+    "pdm": "JUNTA ESPIRALADA",
+    "grupo": 47
+  },
+  {
+    "id": "09090",
+    "pdm": "MANGUEIRA VAPOR",
+    "grupo": 47
+  },
+  {
+    "id": "09092",
+    "pdm": "MANGUEIRA COMBUSTIVEL - ALCOOL",
+    "grupo": 47
+  },
+  {
+    "id": "09093",
+    "pdm": "MANGUEIRA COMBUSTIVEL - GASOLINA",
+    "grupo": 47
+  },
+  {
+    "id": "09095",
+    "pdm": "MANGUEIRA COMPLETA PARA CONDUTO DE OLEO",
+    "grupo": 47
+  },
+  {
+    "id": "09097",
+    "pdm": "MANGUEIRA DIRECAO HIDRAULICA",
+    "grupo": 47
+  },
+  {
+    "id": "09099",
+    "pdm": "MANGUEIRA FLUIDO DE PERFURACAO",
+    "grupo": 47
+  },
+  {
+    "id": "09100",
+    "pdm": "MANGUEIRA PARA PRODUTO QUIMICO",
+    "grupo": 47
+  },
+  {
+    "id": "09101",
+    "pdm": "MANGUEIRA PARA USO DOMESTICO",
+    "grupo": 47
+  },
+  {
+    "id": "09102",
+    "pdm": "MANGUEIRA PRODUTO QUIMICO",
+    "grupo": 47
+  },
+  {
+    "id": "09105",
+    "pdm": "MANGUEIRA SISTEMA REFRIGERACAO",
+    "grupo": 47
+  },
+  {
+    "id": "09106",
+    "pdm": "MANGUEIRA SUCÇÃO",
+    "grupo": 47
+  },
+  {
+    "id": "09107",
+    "pdm": "MANGUEIRA SUCCAO - SERVICOS SUPER PESADOS",
+    "grupo": 47
+  },
+  {
+    "id": "09109",
+    "pdm": "MANILHA - GALVANIZADA",
+    "grupo": 47
+  },
+  {
+    "id": "09889",
+    "pdm": "MONOBOIA",
+    "grupo": 47
+  },
+  {
+    "id": 10015,
+    "pdm": "MULTITUBO DE INSTRUMENTACAO DE LIGA COBRE",
+    "grupo": 47
+  },
+  {
+    "id": 10016,
+    "pdm": "MULTITUBO DE LIGA COBRE PARA TELEFONIA",
+    "grupo": 47
+  },
+  {
+    "id": 10017,
+    "pdm": "MULTITUBO DE MATERIAL PLASTICO PARA TELEFONIA",
+    "grupo": 47
+  },
+  {
+    "id": 10090,
+    "pdm": "NIPLE TUBO CONDUCAO METALICA",
+    "grupo": 47
+  },
+  {
+    "id": 10413,
+    "pdm": "PAR DE UNIAO ENGATE RAPIDO PARA MANGOTE",
+    "grupo": 47
+  },
+  {
+    "id": 10913,
+    "pdm": "PLUG TUBO",
+    "grupo": 47
+  },
+  {
+    "id": 11349,
+    "pdm": "GOTEJADOR",
+    "grupo": 47
+  },
+  {
+    "id": 11404,
+    "pdm": "RALO ENTRADA ENGATE RAPIDO / ROSCA INTERNA",
+    "grupo": 47
+  },
+  {
+    "id": 11513,
+    "pdm": "REDUCAO ENGATE RAPIDO - GIRATORIA",
+    "grupo": 47
+  },
+  {
+    "id": 12123,
+    "pdm": "ASPERSOR",
+    "grupo": 47
+  },
+  {
+    "id": 12519,
+    "pdm": "GRELHA RALO",
+    "grupo": 47
+  },
+  {
+    "id": 12531,
+    "pdm": "TAMPAO ENGATE RAPIDO",
+    "grupo": 47
+  },
+  {
+    "id": 13021,
+    "pdm": "TUBO - CHUMBO",
+    "grupo": 47
+  },
+  {
+    "id": 13024,
+    "pdm": "TUBO ACO COBREADO",
+    "grupo": 47
+  },
+  {
+    "id": 13028,
+    "pdm": "TUBO CAPILAR",
+    "grupo": 47
+  },
+  {
+    "id": 13030,
+    "pdm": "TUBO CERÂMICO",
+    "grupo": 47
+  },
+  {
+    "id": 13032,
+    "pdm": "TUBO CONDENSADOR COBRE",
+    "grupo": 47
+  },
+  {
+    "id": 13035,
+    "pdm": "TUBO DE ACO INOXIDAVEL DE CONSTRUCAO MECANICA",
+    "grupo": 47
+  },
+  {
+    "id": 13036,
+    "pdm": "TUBO DE ACO LIGA DE CONSTRUCAO MECANICA",
+    "grupo": 47
+  },
+  {
+    "id": 13037,
+    "pdm": "TUBO DE ALUMINIO DE CONSTRUCAO MECANICA",
+    "grupo": 47
+  },
+  {
+    "id": 13044,
+    "pdm": "TUBO DE CIMENTO AMIANTO",
+    "grupo": 47
+  },
+  {
+    "id": 13048,
+    "pdm": "TUBO DE CONCRETO",
+    "grupo": 47
+  },
+  {
+    "id": 13049,
+    "pdm": "TUBO DE CONDUCAO - ACO CARBONO",
+    "grupo": 47
+  },
+  {
+    "id": 13050,
+    "pdm": "TUBO DE CONDUCAO - ACO CHUMBO",
+    "grupo": 47
+  },
+  {
+    "id": 13051,
+    "pdm": "TUBO DE CONDUÇÃO",
+    "grupo": 47
+  },
+  {
+    "id": 13052,
+    "pdm": "TUBO DE CONDUCAO - ACO LIGA",
+    "grupo": 47
+  },
+  {
+    "id": 13053,
+    "pdm": "TUBO DE CONDUCAO - ALUMINIO",
+    "grupo": 47
+  },
+  {
+    "id": 13054,
+    "pdm": "TUBO DE CONDUCAO - COBRE",
+    "grupo": 47
+  },
+  {
+    "id": 13055,
+    "pdm": "TUBO DE CONDUCAO - LIGA",
+    "grupo": 47
+  },
+  {
+    "id": 13056,
+    "pdm": "TUBO DE CONDUCAO - NIQUEL / CROMO",
+    "grupo": 47
+  },
+  {
+    "id": 13057,
+    "pdm": "TUBO FERRO FUNDIDO",
+    "grupo": 47
+  },
+  {
+    "id": 13058,
+    "pdm": "TUBO FERRO GALVANIZADO",
+    "grupo": 47
+  },
+  {
+    "id": 13061,
+    "pdm": "TUBO DE INSTRUMENTACAO DE LIGA COBRE",
+    "grupo": 47
+  },
+  {
+    "id": 13064,
+    "pdm": "TUBO DE LATEX",
+    "grupo": 47
+  },
+  {
+    "id": 13066,
+    "pdm": "TUBO DE METAL",
+    "grupo": 47
+  },
+  {
+    "id": 13068,
+    "pdm": "TUBO DE METAL RIGIDO",
+    "grupo": 47
+  },
+  {
+    "id": 13071,
+    "pdm": "TUBO PLÁSTICO",
+    "grupo": 47
+  },
+  {
+    "id": 13072,
+    "pdm": "TUBO DE PLASTICO RIGIDO",
+    "grupo": 47
+  },
+  {
+    "id": 13073,
+    "pdm": "TUBO DE POLIAMIDA",
+    "grupo": 47
+  },
+  {
+    "id": 13074,
+    "pdm": "TUBO DE POLIESTER - COM / SEM REFORçO",
+    "grupo": 47
+  },
+  {
+    "id": 13075,
+    "pdm": "TUBO DE POLIPROPILENO",
+    "grupo": 47
+  },
+  {
+    "id": 13076,
+    "pdm": "TUBULAÇÃO AÇO",
+    "grupo": 47
+  },
+  {
+    "id": 13083,
+    "pdm": "TUBO DE TRANSPORTE DE CORRESPONDENCIA",
+    "grupo": 47
+  },
+  {
+    "id": 13084,
+    "pdm": "TUBO DE TROCA TERMICA DE ACO - LIGA",
+    "grupo": 47
+  },
+  {
+    "id": 13085,
+    "pdm": "TUBO DE TROCA TERMICA DE ACO CARBONO",
+    "grupo": 47
+  },
+  {
+    "id": 13086,
+    "pdm": "TUBO DE TROCA TERMICA DE ACO INOXIDAVEL",
+    "grupo": 47
+  },
+  {
+    "id": 13087,
+    "pdm": "TUBO DE TROCA TERMICA DE ALUMINIO",
+    "grupo": 47
+  },
+  {
+    "id": 13088,
+    "pdm": "TUBO DE TROCA TERMICA DE CROMO",
+    "grupo": 47
+  },
+  {
+    "id": 13089,
+    "pdm": "TUBO DE TROCA TERMICA DE FERRO",
+    "grupo": 47
+  },
+  {
+    "id": 13090,
+    "pdm": "TUBO DE TROCA TERMICA DE NIQUEL",
+    "grupo": 47
+  },
+  {
+    "id": 13095,
+    "pdm": "TUBO EPOXI",
+    "grupo": 47
+  },
+  {
+    "id": 13096,
+    "pdm": "TUBO ESTACA DE ACO CARBONO",
+    "grupo": 47
+  },
+  {
+    "id": 13097,
+    "pdm": "TUBO ESTRUTURAL DE ACO CARBONO",
+    "grupo": 47
+  },
+  {
+    "id": 13098,
+    "pdm": "TUBO ALUMÍNIO",
+    "grupo": 47
+  },
+  {
+    "id": 13100,
+    "pdm": "TUBO FLEXIVEL POLIETILENO",
+    "grupo": 47
+  },
+  {
+    "id": 13104,
+    "pdm": "TUBO LIGA COBRE CONDENSADOR",
+    "grupo": 47
+  },
+  {
+    "id": 13107,
+    "pdm": "TUBO NYLON SEMI-RIGIDO",
+    "grupo": 47
+  },
+  {
+    "id": 13111,
+    "pdm": "TUBO TERMOCONTRÁTIL",
+    "grupo": 47
+  },
+  {
+    "id": 13112,
+    "pdm": "TUBO POLIETILENO",
+    "grupo": 47
+  },
+  {
+    "id": 13115,
+    "pdm": "TUBO HIDRÁULICO",
+    "grupo": 47
+  },
+  {
+    "id": 13116,
+    "pdm": "TUBO PVC ROSCAVEL",
+    "grupo": 47
+  },
+  {
+    "id": 13148,
+    "pdm": "UNIÃO REDUTORA",
+    "grupo": 47
+  },
+  {
+    "id": 13149,
+    "pdm": "CONEXÃO TUBO CONDUÇÃO",
+    "grupo": 47
+  },
+  {
+    "id": 13150,
+    "pdm": "UNIAO TUBO PRECISAO",
+    "grupo": 47
+  },
+  {
+    "id": 13545,
+    "pdm": "CONEXAO HIDRAULICA - MATERIAL METALICO FERROSO",
+    "grupo": 47
+  },
+  {
+    "id": 13546,
+    "pdm": "CONEXÃO HIDRÁULICA",
+    "grupo": 47
+  },
+  {
+    "id": 13547,
+    "pdm": "CONEXAO PARA TUBO FLEXIVEL DE USO GERAL",
+    "grupo": 47
+  },
+  {
+    "id": 13606,
+    "pdm": "NIPLE - ACESSORIO PARA TUBO CANOS",
+    "grupo": 47
+  },
+  {
+    "id": 13642,
+    "pdm": "TUBO AÇO",
+    "grupo": 47
+  },
+  {
+    "id": 13821,
+    "pdm": "MANGUEIRA",
+    "grupo": 47
+  },
+  {
+    "id": 13904,
+    "pdm": "CONEXÃO LABORATÓRIO",
+    "grupo": 47
+  },
+  {
+    "id": 13971,
+    "pdm": "MANGUEIRA ALTA PRESSÃO",
+    "grupo": 47
+  },
+  {
+    "id": 13994,
+    "pdm": "MANGUEIRA SISTEMA EXAUSTÃO",
+    "grupo": 47
+  },
+  {
+    "id": 14211,
+    "pdm": "COTOVELO",
+    "grupo": 47
+  },
+  {
+    "id": 14273,
+    "pdm": "BULBO AFOGADOR",
+    "grupo": 47
+  },
+  {
+    "id": 14416,
+    "pdm": "TAMPA DE SUCÇÃO BOMBA D'ÁGUA",
+    "grupo": 47
+  },
+  {
+    "id": 14418,
+    "pdm": "CORPO RECALQUE BOMBA D'ÁGUA",
+    "grupo": 47
+  },
+  {
+    "id": 14482,
+    "pdm": "CONJUNTO REPARO REGISTRO",
+    "grupo": 47
+  },
+  {
+    "id": 14495,
+    "pdm": "TUBO METALON",
+    "grupo": 47
+  },
+  {
+    "id": 14684,
+    "pdm": "MANGUEIRA GÁS",
+    "grupo": 47
+  },
+  {
+    "id": 14778,
+    "pdm": "BRAÇADEIRA ASPERSOR",
+    "grupo": 47
+  },
+  {
+    "id": 14792,
+    "pdm": "FLANGE",
+    "grupo": 47
+  },
+  {
+    "id": 14799,
+    "pdm": "REDUÇÃO CONCÊNTRICA",
+    "grupo": 47
+  },
+  {
+    "id": 14812,
+    "pdm": "CONJUNTO DISTRIBUIÇÃO GÁS",
+    "grupo": 47
+  },
+  {
+    "id": 15330,
+    "pdm": "TUBO DESCARGA",
+    "grupo": 47
+  },
+  {
+    "id": 15397,
+    "pdm": "TUBO NÍVEL ÁGUA",
+    "grupo": 47
+  },
+  {
+    "id": 16196,
+    "pdm": "PONTA IRRIGAÇÃO",
+    "grupo": 47
+  },
+  {
+    "id": 16197,
+    "pdm": "CANO COBRE",
+    "grupo": 47
+  },
+  {
+    "id": 16313,
+    "pdm": "MANGUEIRA ASPIRAÇÃO",
+    "grupo": 47
+  },
+  {
+    "id": 16962,
+    "pdm": "CANOS E TUBOS",
+    "grupo": 47
+  },
+  {
+    "id": 16963,
+    "pdm": "MANGUEIRAS E TUBULAÇÕES FLEXÍVEIS",
+    "grupo": 47
+  },
+  {
+    "id": 16964,
+    "pdm": "ACESSÓRIOS E FERRAGENS ESPECIAIS PARA MANGUEIRAS. CANOS ETUBOS",
+    "grupo": 47
+  },
+  {
+    "id": 17486,
+    "pdm": "CONEXÃO MANGUEIRA",
+    "grupo": 47
+  },
+  {
+    "id": 17625,
+    "pdm": "TAMPA CEGA",
+    "grupo": 47
+  },
+  {
+    "id": 17800,
+    "pdm": "SILENCIADOR DE ESCAPE",
+    "grupo": 47
+  },
+  {
+    "id": 18278,
+    "pdm": "JUNTA ATIRANTADA",
+    "grupo": 47
+  }
+]
