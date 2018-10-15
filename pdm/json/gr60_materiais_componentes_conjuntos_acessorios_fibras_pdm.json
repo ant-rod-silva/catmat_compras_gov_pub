@@ -1,0 +1,177 @@
+[
+  {
+    "id": "01725",
+    "pdm": "PEÇA / ACESSÓRIO - FIBRA ÓPTICA",
+    "grupo": 60
+  },
+  {
+    "id": "04028",
+    "pdm": "CABO FIBRA ÓTICA",
+    "grupo": 60
+  },
+  {
+    "id": "04029",
+    "pdm": "CABO DE FIBRA OPTICA DE TRANSMISSAO DE DADOS",
+    "grupo": 60
+  },
+  {
+    "id": "04030",
+    "pdm": "CORDÃO ÓPTICO",
+    "grupo": 60
+  },
+  {
+    "id": "05556",
+    "pdm": "CONDUTOR FIBRA ÓTICA",
+    "grupo": 60
+  },
+  {
+    "id": "05763",
+    "pdm": "CONJUNTO MONTADO CABO DE FIBRA OPTICA PARA TRANSMISSAO DE DADOS",
+    "grupo": 60
+  },
+  {
+    "id": "05764",
+    "pdm": "CONJUNTO MONTADO CABO DE FIBRA ÓPTICA",
+    "grupo": 60
+  },
+  {
+    "id": "05861",
+    "pdm": "CORDAO DE FIBRA OPTICA",
+    "grupo": 60
+  },
+  {
+    "id": "05864",
+    "pdm": "CORDAO OTICO / BIFIBRA",
+    "grupo": 60
+  },
+  {
+    "id": "05865",
+    "pdm": "CORDAO OTICO / MONOFIBRA",
+    "grupo": 60
+  },
+  {
+    "id": "09453",
+    "pdm": "MATERIAL DE REFORCO DE CABO DE FIBRA OTICA",
+    "grupo": 60
+  },
+  {
+    "id": 12011,
+    "pdm": "SENSOR FIBRA ÓTICA",
+    "grupo": 60
+  },
+  {
+    "id": 14655,
+    "pdm": "TRANSCEPTOR CONVERSOR CABO FIBRA ÓTICA",
+    "grupo": 60
+  },
+  {
+    "id": 16117,
+    "pdm": "EXTENSÃO ÓPTICA",
+    "grupo": 60
+  },
+  {
+    "id": 17073,
+    "pdm": "JUNTAS ROTATIVAS",
+    "grupo": 60
+  },
+  {
+    "id": 17074,
+    "pdm": "ACOPLADORES ISOLADORES E MISTURADORES",
+    "grupo": 60
+  },
+  {
+    "id": 17075,
+    "pdm": "ATENUADORES",
+    "grupo": 60
+  },
+  {
+    "id": 17076,
+    "pdm": "FILTROS",
+    "grupo": 60
+  },
+  {
+    "id": 17077,
+    "pdm": "MULTIPLEXADORES E DEMULTIPLEXADORES",
+    "grupo": 60
+  },
+  {
+    "id": 17078,
+    "pdm": "CONDUTORES DE FIBRA ÓTICA",
+    "grupo": 60
+  },
+  {
+    "id": 17081,
+    "pdm": "INTERRUPTORES DE FIBRA ÓTICA",
+    "grupo": 60
+  },
+  {
+    "id": 17082,
+    "pdm": "TRANSMISSORES DE FIBRA OTICA",
+    "grupo": 60
+  },
+  {
+    "id": 17083,
+    "pdm": "RECEPTORES DE FIBRA OTICA",
+    "grupo": 60
+  },
+  {
+    "id": 17084,
+    "pdm": "REPETIDORES OTICOS",
+    "grupo": 60
+  },
+  {
+    "id": 17085,
+    "pdm": "DISPOSITIVOS DE FIBRA ÓTICA",
+    "grupo": 60
+  },
+  {
+    "id": 17086,
+    "pdm": "CIRCUITOS OTICOS INTEGRADOS",
+    "grupo": 60
+  },
+  {
+    "id": 17087,
+    "pdm": "FONTES DE LUZ DE FIBRA ÓTICA E FOTODETETORES",
+    "grupo": 60
+  },
+  {
+    "id": 17088,
+    "pdm": "FOTO DETETORES DE FIBRA OTICA",
+    "grupo": 60
+  },
+  {
+    "id": 17090,
+    "pdm": "DISPOSITIVOS DE TRANSFERÊNCIA DE LUZ E DE IMAGEM DE FIBRA Ó-TICA",
+    "grupo": 60
+  },
+  {
+    "id": 17091,
+    "pdm": "MÁQUINA FUSÃO FIBRA ÓTICA",
+    "grupo": 60
+  },
+  {
+    "id": 17092,
+    "pdm": "DISPOSITIVOS PASSIVOS DE FIBRA OTICA",
+    "grupo": 60
+  },
+  {
+    "id": 17093,
+    "pdm": "INTERCONECTORES E SUPRIMENTOS DE FIBRA ÓTICA",
+    "grupo": 60
+  },
+  {
+    "id": 17094,
+    "pdm": "ACESSÓRIOS E MATERIAIS DE FIBRAS ÓTICAS",
+    "grupo": 60
+  },
+  {
+    "id": 17095,
+    "pdm": "JOGOS E CONJUNTOS DE FIBRAS ÓTICAS",
+    "grupo": 60
+  },
+  {
+    "id": 17096,
+    "pdm": "COMPONENTES DIVERSOS DE FIBRA ÓTICA",
+    "grupo": 60
+  }
+]
