@@ -1,0 +1,67 @@
+[
+  {
+    "id": 17121,
+    "pdm": "MEDICAMENTOS PARA APARELHOS DIGESTIVO METABOLISMO E NUTRICAO",
+    "grupo": 64
+  },
+  {
+    "id": 17122,
+    "pdm": "MEDICAMENTOS PARA SANGUE E ORGAOS HEMATOPOETICOS",
+    "grupo": 64
+  },
+  {
+    "id": 17123,
+    "pdm": "MEDICAMENTOS PARA APARELHO CARDIVASCULAR",
+    "grupo": 64
+  },
+  {
+    "id": 17124,
+    "pdm": "MEDICAMENTOS PARA DERMATOLOGICOS OTOLOGICOS E OFTAMOLOGICOS",
+    "grupo": 64
+  },
+  {
+    "id": 17125,
+    "pdm": "MEDICAMENTOS PARA APARELHOS GENITOURINARIO E HARMONIOS SEXUAIS",
+    "grupo": 64
+  },
+  {
+    "id": 17126,
+    "pdm": "MEDICAMENTOS PARA HORMONIOS EXCETO SEXUAIS E METABOLISMO",
+    "grupo": 64
+  },
+  {
+    "id": 17127,
+    "pdm": "MEDICAMENTOS PARA QUIMIOTERAPIA",
+    "grupo": 64
+  },
+  {
+    "id": 17129,
+    "pdm": "MEDICAMENTOS PARA SISTEMA NERVOSO",
+    "grupo": 64
+  },
+  {
+    "id": 17130,
+    "pdm": "MEDICAMENTOS PARA APARELHO RESPIRATORIO",
+    "grupo": 64
+  },
+  {
+    "id": 17131,
+    "pdm": "MEDICAMENTOS PARA SISTEMA MUSCULO ESQUELETICO",
+    "grupo": 64
+  },
+  {
+    "id": 17133,
+    "pdm": "OUTROS PROTOCOLOS",
+    "grupo": 64
+  },
+  {
+    "id": 17134,
+    "pdm": "DROGAS E PRODUTOS QUIMICOS PARA ANALISE LABORATORIAIS",
+    "grupo": 64
+  },
+  {
+    "id": 17136,
+    "pdm": "MEDICAMENTOS DROGAS E PRODUTOS BIOLOGICOS DIVERSOS",
+    "grupo": 64
+  }
+]
