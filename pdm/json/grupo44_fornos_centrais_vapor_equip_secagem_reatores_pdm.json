@@ -1,0 +1,341 @@
+[
+  {
+    "id": "07212",
+    "pdm": "ESTUFA DE SECAGEM DE PINTURA",
+    "grupo": 44
+  },
+  {
+    "id": "04222",
+    "pdm": "CALDEIRA A VAPOR ( ACIMA DE 1.1 KGF/CM2 DE PRESSAO",
+    "grupo": 44
+  },
+  {
+    "id": "02934",
+    "pdm": "AQUECEDOR INDUSTRIAL DE AGUA ( ACIMA DE 400 LITROS DE CAPACIDADE )",
+    "grupo": 44
+  },
+  {
+    "id": "04228",
+    "pdm": "CALDEIRA NAVAL",
+    "grupo": 44
+  },
+  {
+    "id": "05884",
+    "pdm": "CORPO CALDEIRA",
+    "grupo": 44
+  },
+  {
+    "id": "07982",
+    "pdm": "GERADOR DE VAPOR",
+    "grupo": 44
+  },
+  {
+    "id": "05535",
+    "pdm": "CONDENSADOR BAROMETRICO",
+    "grupo": 44
+  },
+  {
+    "id": "07237",
+    "pdm": "EVAPORADOR DESIDRATADOR",
+    "grupo": 44
+  },
+  {
+    "id": 11151,
+    "pdm": "PRECIPITADOR ELETRONICO",
+    "grupo": 44
+  },
+  {
+    "id": "06649",
+    "pdm": "EQUIPAMENTO COLETOR DE POEIRA",
+    "grupo": 44
+  },
+  {
+    "id": "02842",
+    "pdm": "APARELHO PARA PURIFICACAO DE AR",
+    "grupo": 44
+  },
+  {
+    "id": "07764",
+    "pdm": "FORNO FERRAMENTEIRO AUTOMATICO",
+    "grupo": 44
+  },
+  {
+    "id": "07758",
+    "pdm": "FORNO COM CADINHO",
+    "grupo": 44
+  },
+  {
+    "id": "07765",
+    "pdm": "FORNO INDUSTRIAL",
+    "grupo": 44
+  },
+  {
+    "id": "07759",
+    "pdm": "FORNO CUBILOT",
+    "grupo": 44
+  },
+  {
+    "id": "03132",
+    "pdm": "DISCO RUPTURA AUTOCLAVE",
+    "grupo": 44
+  },
+  {
+    "id": "07214",
+    "pdm": "ESTUFA INDUSTRIAL",
+    "grupo": 44
+  },
+  {
+    "id": 13126,
+    "pdm": "TUNEL DE SECAGEM",
+    "grupo": 44
+  },
+  {
+    "id": "06123",
+    "pdm": "DESUMIDIFICADOR",
+    "grupo": 44
+  },
+  {
+    "id": 11961,
+    "pdm": "SECADOR LABORATÓRIO - PEÇA / ACESSÓRIO",
+    "grupo": 44
+  },
+  {
+    "id": 11152,
+    "pdm": "PRECIPITADOR ELETROSTATICO",
+    "grupo": 44
+  },
+  {
+    "id": 12119,
+    "pdm": "SISTEMA DE FILTRO DE MANGA DE PURIFICACAO DE AR",
+    "grupo": 44
+  },
+  {
+    "id": "06014",
+    "pdm": "CÚPULA",
+    "grupo": 44
+  },
+  {
+    "id": "09213",
+    "pdm": "MAQUINA DE REABASTECER REATOR NUCLEAR",
+    "grupo": 44
+  },
+  {
+    "id": 13364,
+    "pdm": "VELADOR PARA CAMARA DE ION DE REATOR NUCLEAR",
+    "grupo": 44
+  },
+  {
+    "id": "08498",
+    "pdm": "ISOLANTE TERMICO DE REATOR NUCLEAR",
+    "grupo": 44
+  },
+  {
+    "id": "03361",
+    "pdm": "BARRA DE CONTROLE DE REATOR NUCLEAR",
+    "grupo": 44
+  },
+  {
+    "id": "07983",
+    "pdm": "GERADOR VAPOR",
+    "grupo": 44
+  },
+  {
+    "id": 11434,
+    "pdm": "REATOR DE AGUA PRESSURIZADA",
+    "grupo": 44
+  },
+  {
+    "id": "08463",
+    "pdm": "INVOLUCRO DO VASO DO REATOR NUCLEAR",
+    "grupo": 44
+  },
+  {
+    "id": "02920",
+    "pdm": "AQUECEDOR DE AGUA ATE 2.100 KG/CM2 DE PRESSAO",
+    "grupo": 44
+  },
+  {
+    "id": "02071",
+    "pdm": "ACUMULADOR NUCLEAR NAO RECARREGAVEL",
+    "grupo": 44
+  },
+  {
+    "id": 11344,
+    "pdm": "PURIFICADOR AR",
+    "grupo": 44
+  },
+  {
+    "id": "04225",
+    "pdm": "CALDEIRA A VAPOR USO INDUSTRIAL",
+    "grupo": 44
+  },
+  {
+    "id": "03135",
+    "pdm": "PEÇA / COMPONENTE AUTOCLAVE",
+    "grupo": 44
+  },
+  {
+    "id": "04227",
+    "pdm": "CALDEIRA ELÉTRICA / VAPOR - PEÇA / ACESSÓRIO",
+    "grupo": 44
+  },
+  {
+    "id": "08343",
+    "pdm": "INDICADOR DE FUMACA DE USO NAVAL",
+    "grupo": 44
+  },
+  {
+    "id": 11583,
+    "pdm": "REGULADOR DE AGUA COM ALIMENTACAO INDUSTRIAL",
+    "grupo": 44
+  },
+  {
+    "id": 11584,
+    "pdm": "REGULADOR DE AGUA COM ALIMENTACAO NAVAL",
+    "grupo": 44
+  },
+  {
+    "id": 11148,
+    "pdm": "PRE - AQUECEDOR DE AGUA INDUSTRIAL",
+    "grupo": 44
+  },
+  {
+    "id": "06636",
+    "pdm": "EQUIPAMENTO / CONJUNTO ( KIT ) PARA ASPERSAO DE PRODUTO",
+    "grupo": 44
+  },
+  {
+    "id": "07489",
+    "pdm": "FILTRO PURIFICAÇÃO DE AR",
+    "grupo": 44
+  },
+  {
+    "id": "06122",
+    "pdm": "DESUMIDIFICADOR DE PAPEL",
+    "grupo": 44
+  },
+  {
+    "id": "07690",
+    "pdm": "FOLHA ATIVACAO - REATOR NUCLEAR",
+    "grupo": 44
+  },
+  {
+    "id": "01293",
+    "pdm": "ACESSÓRIO/COMPONENTE SOPRADOR FULIGEM",
+    "grupo": 44
+  },
+  {
+    "id": "01241",
+    "pdm": "SOPRADOR FULIGEM",
+    "grupo": 44
+  },
+  {
+    "id": "01339",
+    "pdm": "SECADORA PAPÉIS",
+    "grupo": 44
+  },
+  {
+    "id": 17991,
+    "pdm": "SECADORA AR COMPRIMIDO",
+    "grupo": 44
+  },
+  {
+    "id": 16951,
+    "pdm": "PEÇAS / ACESSÓRIOS FORNO",
+    "grupo": 44
+  },
+  {
+    "id": 16948,
+    "pdm": "GRELHA",
+    "grupo": 44
+  },
+  {
+    "id": 16950,
+    "pdm": "EQUIPAMENTOS INDUSTRIAIS DE VENTILACAO E CIRCULACAO",
+    "grupo": 44
+  },
+  {
+    "id": 16952,
+    "pdm": "SECADORES",
+    "grupo": 44
+  },
+  {
+    "id": 16953,
+    "pdm": "ESTERILIZADOR AMBIENTE",
+    "grupo": 44
+  },
+  {
+    "id": 13506,
+    "pdm": "UNIDADE DESCONTAMINAÇÃO AR",
+    "grupo": 44
+  },
+  {
+    "id": 13508,
+    "pdm": "PEÇA / ACESSÓRIO - PURIFICAÇÃO GASES",
+    "grupo": 44
+  },
+  {
+    "id": 13658,
+    "pdm": "ANEL REATOR",
+    "grupo": 44
+  },
+  {
+    "id": 13659,
+    "pdm": "DISCO REATOR",
+    "grupo": 44
+  },
+  {
+    "id": 13660,
+    "pdm": "TUBO REATOR",
+    "grupo": 44
+  },
+  {
+    "id": 13663,
+    "pdm": "ANEL LIGA MISTA METAIS",
+    "grupo": 44
+  },
+  {
+    "id": 13664,
+    "pdm": "DISCO LIGA MISTA METAIS",
+    "grupo": 44
+  },
+  {
+    "id": 13665,
+    "pdm": "TUBO LIGA MISTA METAIS",
+    "grupo": 44
+  },
+  {
+    "id": 13813,
+    "pdm": "CONJUNTO BOMBA LIMPEZA ÁGUA - REATOR NUCLEAR",
+    "grupo": 44
+  },
+  {
+    "id": 14627,
+    "pdm": "CÂMARA FISSÃO",
+    "grupo": 44
+  },
+  {
+    "id": 16216,
+    "pdm": "SANFONA VÁLVULA REGULADORA EXAUSTÃO",
+    "grupo": 44
+  },
+  {
+    "id": 16649,
+    "pdm": "APARELHO ODORIZADOR AMBIENTE",
+    "grupo": 44
+  },
+  {
+    "id": 16651,
+    "pdm": "REFIL ODORIZADOR DE AMBIENTES",
+    "grupo": 44
+  },
+  {
+    "id": 17372,
+    "pdm": "RENOVADOR DE AR",
+    "grupo": 44
+  },
+  {
+    "id": 17564,
+    "pdm": "ATOMADIZADOR"
+  }
+]
