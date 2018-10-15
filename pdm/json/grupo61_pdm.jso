@@ -1,0 +1,1566 @@
+[
+  {
+    "id": "00605",
+    "pdm": "ACUMULADOR ELÉTRICO"
+  },
+  {
+    "id": "00606",
+    "pdm": "CABINHO ELÉTRICO FLEXÍVEL"
+  },
+  {
+    "id": "00607",
+    "pdm": "CABO NÚ ALUMÍNIO COM ALMA AÇO"
+  },
+  {
+    "id": "00608",
+    "pdm": "FIO E CABO ALUMÍNIO"
+  },
+  {
+    "id": "00643",
+    "pdm": "CABO TELEFÔNICO"
+  },
+  {
+    "id": "00671",
+    "pdm": "CHAVE FUSÍVEL REPETIDORA"
+  },
+  {
+    "id": "00672",
+    "pdm": "SECCIONADOR AUTOMÁTICO"
+  },
+  {
+    "id": "00673",
+    "pdm": "ACUMULADOR TENSÃO"
+  },
+  {
+    "id": "00674",
+    "pdm": "BARRAMENTO BLINDADO"
+  },
+  {
+    "id": "00675",
+    "pdm": "CABO AUDIOFREQUÊNCIA"
+  },
+  {
+    "id": "00676",
+    "pdm": "CABO COAXIAL"
+  },
+  {
+    "id": "00677",
+    "pdm": "CABO FLEXÍVEL ESTANHADO"
+  },
+  {
+    "id": "00678",
+    "pdm": "CABO MONOFÁSICO"
+  },
+  {
+    "id": "00699",
+    "pdm": "FIO REVESTIMENTO BAIXA TENSÃO"
+  },
+  {
+    "id": "01428",
+    "pdm": "MOTOR GERADOR ENERGIA"
+  },
+  {
+    "id": "02068",
+    "pdm": "ACUMULADOR ELETRICO ESTACIONARIO ALCALINO"
+  },
+  {
+    "id": "02069",
+    "pdm": "ACUMULADOR ELETRICO ESTATICO ESTACIONARIO CHUMBO - ACIDO"
+  },
+  {
+    "id": "02366",
+    "pdm": "ALTERNADOR"
+  },
+  {
+    "id": "02694",
+    "pdm": "APARELHO DE DISTRIBUICAO ( CONTROLE ELETRICO )"
+  },
+  {
+    "id": "02695",
+    "pdm": "APARELHO DE DISTRIBUICAO PARA CONTROLE ELETRICO"
+  },
+  {
+    "id": "02723",
+    "pdm": "APARELHO DE MOTOR"
+  },
+  {
+    "id": "02927",
+    "pdm": "AQUECEDOR DE ELETROLITO"
+  },
+  {
+    "id": "02957",
+    "pdm": "ARAME DE ACO COM REVESTIMENTO DE MATERIAL PLASTICO"
+  },
+  {
+    "id": "03003",
+    "pdm": "ARMADURA ( EQUIPAMENTO ELETRICO ROTATIVO)"
+  },
+  {
+    "id": "03276",
+    "pdm": "BANCO CAPACITOR DERIVAÇÃO"
+  },
+  {
+    "id": "03303",
+    "pdm": "BANDEJA DE BATERIA"
+  },
+  {
+    "id": "03395",
+    "pdm": "BARRAMENTO COBRE"
+  },
+  {
+    "id": "03462",
+    "pdm": "BATERIA TELEFONE CELULAR"
+  },
+  {
+    "id": "03463",
+    "pdm": "BATERIA - COMPUTADOR"
+  },
+  {
+    "id": "03465",
+    "pdm": "BATERIA FILMADORA"
+  },
+  {
+    "id": "03466",
+    "pdm": "BATERIA NO BREAK"
+  },
+  {
+    "id": "03467",
+    "pdm": "BATERIA AUTOMOTIVA"
+  },
+  {
+    "id": "03468",
+    "pdm": "BATERIA ACUMULADOR"
+  },
+  {
+    "id": "03469",
+    "pdm": "BATERIA SELADA"
+  },
+  {
+    "id": "03470",
+    "pdm": "BATERIA NAO RECARREGAVEL DE VEICULO"
+  },
+  {
+    "id": "03471",
+    "pdm": "BATERIA NAO RECARREGAVEL TIPO AUTOMOTIVA"
+  },
+  {
+    "id": "03472",
+    "pdm": "BATERIA NAO RECARREGAVEL TIPO PILHA"
+  },
+  {
+    "id": "03473",
+    "pdm": "BATERIA PARA DISTANCIOMETRO"
+  },
+  {
+    "id": "03474",
+    "pdm": "BATERIA RÁDIO TRANSCEPTOR"
+  },
+  {
+    "id": "03475",
+    "pdm": "BATERIA RECARREGÁVEL"
+  },
+  {
+    "id": "03476",
+    "pdm": "BATERIA RECARREGAVEL - AERONAVE"
+  },
+  {
+    "id": "03477",
+    "pdm": "BATERIA RECARREGAVEL TIPO AUTOMOTIVA"
+  },
+  {
+    "id": "03478",
+    "pdm": "BATERIA RECARREGAVEL TIPO PILHA"
+  },
+  {
+    "id": "03479",
+    "pdm": "BATERIA NÃO RECARREGÁVEL"
+  },
+  {
+    "id": "03480",
+    "pdm": "BATERIA TERMICA"
+  },
+  {
+    "id": "03481",
+    "pdm": "BATERIA TRACIONARIA"
+  },
+  {
+    "id": "03635",
+    "pdm": "BOBINA BLOQUEIO"
+  },
+  {
+    "id": "03939",
+    "pdm": "BUCHA TRANSFORMADOR"
+  },
+  {
+    "id": "03942",
+    "pdm": "BUCHA ISOLANTE DE PASSAGEM"
+  },
+  {
+    "id": "03999",
+    "pdm": "CABINE PRIMÁRIA DE ENTRADA DE MEDIÇÃO"
+  },
+  {
+    "id": "04003",
+    "pdm": "CABO A OLEO FLUIDO TIPO OF ATE 242KV"
+  },
+  {
+    "id": "04007",
+    "pdm": "CABO LÓGICO BLINDADO"
+  },
+  {
+    "id": "04009",
+    "pdm": "CABO ELÉTRICO FLEXÍVEL"
+  },
+  {
+    "id": "04015",
+    "pdm": "CABO DE COBRE EM TERMOFIXO DE USO INDUSTRIAL"
+  },
+  {
+    "id": "04016",
+    "pdm": "CABO DE COBRE EM TERMOPLASTICO DE USO INDUSTRIAL"
+  },
+  {
+    "id": "04017",
+    "pdm": "CABO DE COBRE EM TERMOPLASTICO DE 1.2 A 25.8KV"
+  },
+  {
+    "id": "04018",
+    "pdm": "CABO DE COBRE ESTANHADO DE LACRE DE MEDIDOR DE CONSUMO DE ENERGIA"
+  },
+  {
+    "id": "04019",
+    "pdm": "CABO MULTIPLEX ATÉ 1.2KV"
+  },
+  {
+    "id": "04020",
+    "pdm": "CABO DE COBRE MULTIPLEX EM TERMOFIXO DE 1.2 A 25.8KV"
+  },
+  {
+    "id": "04021",
+    "pdm": "CABO DE COBRE MULTIPLEX EM TERMOPLASTICO ATE 1.2KV"
+  },
+  {
+    "id": "04022",
+    "pdm": "CABO ELÉTRICO CONTROLE"
+  },
+  {
+    "id": "04023",
+    "pdm": "CABO DE CONTROLE EM PVC / PVC"
+  },
+  {
+    "id": "04031",
+    "pdm": "CABO FIBRA ÓTICA"
+  },
+  {
+    "id": "04032",
+    "pdm": "CABO DE IGNICAO COBERTO"
+  },
+  {
+    "id": "04036",
+    "pdm": "CABO DE USO EM RÁDIO"
+  },
+  {
+    "id": "04039",
+    "pdm": "CABO ELETRICO COM COMPLEMENTO PARA DISTRIBUICAO"
+  },
+  {
+    "id": "04040",
+    "pdm": "CABO ELETRICO COM COMPLEMENTO PARA FORCA"
+  },
+  {
+    "id": "04041",
+    "pdm": "CABO ELETRICO COM COMPLEMENTO PARA MULTIAPLICACAO"
+  },
+  {
+    "id": "04042",
+    "pdm": "CABO ELETRICO SUBAQUÁTICO"
+  },
+  {
+    "id": "04043",
+    "pdm": "CABO SUBTERRÂNEO"
+  },
+  {
+    "id": "04045",
+    "pdm": "CABO ELETRICO-TERMOPAR"
+  },
+  {
+    "id": "04049",
+    "pdm": "CABO PÁRA-RAIOS"
+  },
+  {
+    "id": "04051",
+    "pdm": "CABO BATERIA RECARREGÁVEL AUTOMOTIVA"
+  },
+  {
+    "id": "04055",
+    "pdm": "CABO PARA MAGNETO"
+  },
+  {
+    "id": "04057",
+    "pdm": "CABO SUBAQUATICO"
+  },
+  {
+    "id": "04058",
+    "pdm": "CABO TAMPONADO DE 1.2 A 36.2KV"
+  },
+  {
+    "id": "04059",
+    "pdm": "CABO TERMOPAR"
+  },
+  {
+    "id": "04074",
+    "pdm": "CADEIA DE ANCORAGEM E SUSPENSAO ACIMA 242 KV"
+  },
+  {
+    "id": "04123",
+    "pdm": "CAIXA DE BATERIA"
+  },
+  {
+    "id": "04194",
+    "pdm": "CALÇADO CONDUTIVO - MANUTENCAO DE LINHA ENERGIZADA"
+  },
+  {
+    "id": "04568",
+    "pdm": "CARREGADOR DE BATERIA AUTOMOTIVA"
+  },
+  {
+    "id": "04569",
+    "pdm": "CARREGADOR BATERIA"
+  },
+  {
+    "id": "04571",
+    "pdm": "CARREGADOR BATERIA TELEFONE CELULAR"
+  },
+  {
+    "id": "04735",
+    "pdm": "CÉLULA COMBUSTIVEL"
+  },
+  {
+    "id": "04737",
+    "pdm": "CÉLULA DE FORÇA E ACESSÓRIOS"
+  },
+  {
+    "id": "04762",
+    "pdm": "CENTRO DE CONTROLE DE MOTOR ( CCM )"
+  },
+  {
+    "id": "04910",
+    "pdm": "CHAVE FUSIVEL"
+  },
+  {
+    "id": "05375",
+    "pdm": "COMANDO AUTOMATICO PARA BANCO DE CAPACITOR"
+  },
+  {
+    "id": "05376",
+    "pdm": "COMANDO DE MOTOR ELETRICO"
+  },
+  {
+    "id": "05398",
+    "pdm": "COMPENSADOR SINCRONO"
+  },
+  {
+    "id": "05407",
+    "pdm": "COMPONENTE COMUM PARA EQUIPAMENTO ELETRICO ROTATIVO. TAL COMO CONE TERMINAL E CARCACA"
+  },
+  {
+    "id": "05471",
+    "pdm": "COMPONENTE UTILIZADO EXCLUSIVAMENTE PARA CELULA COMBUSTIVEL"
+  },
+  {
+    "id": "05473",
+    "pdm": "COMPORTA PARA USINA HIDRELETRICA"
+  },
+  {
+    "id": "05536",
+    "pdm": "CONDENSADOR DE FASE"
+  },
+  {
+    "id": "05696",
+    "pdm": "CONJUNTO COMPLETO DE FIO ELETRICO DE MULTIAPLICACAO"
+  },
+  {
+    "id": "05705",
+    "pdm": "CONJUNTO DE CONTATO DE BATERIA"
+  },
+  {
+    "id": "05706",
+    "pdm": "CONJUNTO DE CONTATO DE PARTIDA DE MOTOR ELETRICO"
+  },
+  {
+    "id": "05710",
+    "pdm": "CONJUNTO DE ELETRODO DE BATERIA"
+  },
+  {
+    "id": "05714",
+    "pdm": "EXTENSÃO ELÉTRICA"
+  },
+  {
+    "id": "05734",
+    "pdm": "CONJUNTO DE MEDICAO ATE 25KV"
+  },
+  {
+    "id": "05735",
+    "pdm": "CONJUNTO DE MOTOR ELÉTRICO CA / GERADOR DE CC"
+  },
+  {
+    "id": "05751",
+    "pdm": "CONJUNTO GERADOR ELETRICO - ACIONADO CATA - VENTO"
+  },
+  {
+    "id": "05752",
+    "pdm": "CONJUNTO GERADOR ELETRICO - ACIONADO MOTOR EXPLOSAO"
+  },
+  {
+    "id": "05753",
+    "pdm": "CONJUNTO GERADOR ELETRICO - ACIONADO POR TURBINA"
+  },
+  {
+    "id": "05754",
+    "pdm": "CONJUNTO GERADOR ELETRICO - TURBINA A AR"
+  },
+  {
+    "id": "05755",
+    "pdm": "CONJUNTO GERADOR ELETRICO - TURBINA A GAS"
+  },
+  {
+    "id": "05756",
+    "pdm": "CONJUNTO GERADOR ELETRICO - TURBINA A VAPOR"
+  },
+  {
+    "id": "05772",
+    "pdm": "CONJUNTO RABICHO"
+  },
+  {
+    "id": "05779",
+    "pdm": "CONSOLE DE COMANDO"
+  },
+  {
+    "id": "05781",
+    "pdm": "CONSOLE DE SISTEMA DE MEDICAO"
+  },
+  {
+    "id": "05783",
+    "pdm": "CONTACTOR"
+  },
+  {
+    "id": "05807",
+    "pdm": "CONTROLADOR DEMANDA ENERGIA ELÉTRICA"
+  },
+  {
+    "id": "05829",
+    "pdm": "CONTROLE ELETRÔNICO"
+  },
+  {
+    "id": "05833",
+    "pdm": "CONVERSOR DE FREQUENCIA ( BACK - TO - BACK )"
+  },
+  {
+    "id": "05838",
+    "pdm": "CONVERSOR"
+  },
+  {
+    "id": "05839",
+    "pdm": "CONVERSOR DE VAZÃO"
+  },
+  {
+    "id": "05840",
+    "pdm": "DEMULTIPLEXADOR"
+  },
+  {
+    "id": "05842",
+    "pdm": "CONVERSOR SINCRONO"
+  },
+  {
+    "id": "05860",
+    "pdm": "CORDAO DE EXTENSAO PARA GERACAO E DISTRIBUICAO DE ENERGIA ELETRICA"
+  },
+  {
+    "id": "05868",
+    "pdm": "CORDAO PARA TELEFONE"
+  },
+  {
+    "id": "05874",
+    "pdm": "CORDOALHA DE ALUMINIO"
+  },
+  {
+    "id": "05875",
+    "pdm": "CORDOALHA ELÉTRICA FLEXÍVEL"
+  },
+  {
+    "id": "05877",
+    "pdm": "CORDOALHA FLEXIVEL COM TERMINAL"
+  },
+  {
+    "id": "06219",
+    "pdm": "DINAMO"
+  },
+  {
+    "id": "06222",
+    "pdm": "DINAMOTOR"
+  },
+  {
+    "id": "06289",
+    "pdm": "DISJUNTOR DE CORRENTE CONTINUA"
+  },
+  {
+    "id": "06336",
+    "pdm": "DISPOSITIVO TEMPORARIO DE ATERRAMENTO"
+  },
+  {
+    "id": "06361",
+    "pdm": "DIVISOR CAPACITIVO DE POTENCIAL"
+  },
+  {
+    "id": "06364",
+    "pdm": "DIVISOR DE POTENCIAL CAPACITIVO"
+  },
+  {
+    "id": "06559",
+    "pdm": "ENERGIA SOLAR - PAINEL / CONTROLE ELETRONICO / ME-CANISMO MOVIMENTACAO PAINEL"
+  },
+  {
+    "id": "06560",
+    "pdm": "ELETRIFICADOR CERCA"
+  },
+  {
+    "id": "06581",
+    "pdm": "ENROLAMENTO ( BOBINA ) DE CAMPO - GERADOR ELETRICO"
+  },
+  {
+    "id": "06582",
+    "pdm": "ENROLAMENTO DE CAMPO DE MOTOR ELETRICO"
+  },
+  {
+    "id": "06583",
+    "pdm": "ENROLAMENTO DO ROTOR DO GERADOR ELETRICO"
+  },
+  {
+    "id": "06594",
+    "pdm": "ENVOLUCRO DE BATERIA"
+  },
+  {
+    "id": "06650",
+    "pdm": "EQUIPAMENTO COMPLETO NAO ROTATIVO DE CARGA DE BATERIA"
+  },
+  {
+    "id": "06651",
+    "pdm": "EQUIPAMENTO COMPLETO ROTATIVO DE CARGA DE BATERIA"
+  },
+  {
+    "id": "06652",
+    "pdm": "EQUIPAMENTO COMPLETO ROTATIVO PARA CARGA DE BATERIA"
+  },
+  {
+    "id": "06783",
+    "pdm": "EQUIPAMENTO ENERGIA FOTOVOLTAICA"
+  },
+  {
+    "id": "06959",
+    "pdm": "ESFERA DE SINALIZACAO PARA LINHA DE TRANSMICAO"
+  },
+  {
+    "id": "06979",
+    "pdm": "ESPACADOR - ISOLADOR PARA REDE DE DISTRIBUICAO"
+  },
+  {
+    "id": "06982",
+    "pdm": "ESPACADOR RIGIDO PARA LTS"
+  },
+  {
+    "id": "07067",
+    "pdm": "ESTABILIZADOR - FREQUENCIA"
+  },
+  {
+    "id": "07068",
+    "pdm": "ESTABILIZADOR TENSÃO"
+  },
+  {
+    "id": "07247",
+    "pdm": "EXTENSAO DE FIO ELETRICO"
+  },
+  {
+    "id": "07386",
+    "pdm": "FERRAMENTA DE MANUTENCAO DE LINHA ENERGIZADA"
+  },
+  {
+    "id": "07500",
+    "pdm": "FIO TUNGSTÊNIO"
+  },
+  {
+    "id": "07501",
+    "pdm": "FIO CABO E CORDOALHA DE ACO CARBONO"
+  },
+  {
+    "id": "07502",
+    "pdm": "ZFIO CAPACIDADE DE CONDUTIVIDADE ELETRICA"
+  },
+  {
+    "id": "07504",
+    "pdm": "FIO DE ANTENA"
+  },
+  {
+    "id": "07505",
+    "pdm": "FIO COBRE ESMALTADO"
+  },
+  {
+    "id": "07506",
+    "pdm": "FIO DE IGNICAO"
+  },
+  {
+    "id": "07509",
+    "pdm": "FIO DE RESISTENCIA ( RESITOR )"
+  },
+  {
+    "id": "07512",
+    "pdm": "FIO E CABO DE ACO ALUMINIZADO"
+  },
+  {
+    "id": "07514",
+    "pdm": "FIO E CABO DE ALUMINIO EM TERMOFIXO ATE 1.2KV"
+  },
+  {
+    "id": "07515",
+    "pdm": "FIO E CABO DE ALUMINIO EM TERMOFIXO CLASSE 36.2KV"
+  },
+  {
+    "id": "07516",
+    "pdm": "FIO E CABO DE ALUMINIO EM TERMOFIXO CLASSE 72.5KV"
+  },
+  {
+    "id": "07517",
+    "pdm": "FIO E CABO DE ALUMINIO EM TERMOFIXO 1.2 A 25.8KV"
+  },
+  {
+    "id": "07518",
+    "pdm": "FIO E CABO DE ALUMINIO EM TERMOPLASTICO ATE 1.2KV"
+  },
+  {
+    "id": "07519",
+    "pdm": "FIO E CABO DE ALUMINIO EM TERMOPLASTICO DE 1.2 A 25.8KV"
+  },
+  {
+    "id": "07520",
+    "pdm": "FIO E CABO DE ALUMINIO SERVICO DE TRANSFORMACAO"
+  },
+  {
+    "id": "07521",
+    "pdm": "FIO E CABO DE COBRE COBERTO - REVESTIMENTO PVC"
+  },
+  {
+    "id": "07522",
+    "pdm": "FIO E CABO DE COBRE EM BORRACHA SINTETICA ATE 72.5KV"
+  },
+  {
+    "id": "07523",
+    "pdm": "FIO E CABO DE COBRE EM SILICONE"
+  },
+  {
+    "id": "07524",
+    "pdm": "FIO E CABO DE COBRE EM TERMOFIXO ATE 1.2KV"
+  },
+  {
+    "id": "07525",
+    "pdm": "FIO E CABO DE COBRE EM TERMOFIXO CLASSE 145KV"
+  },
+  {
+    "id": "07526",
+    "pdm": "FIO E CABO DE COBRE EM TERMOFIXO CLASSE 36.2KV"
+  },
+  {
+    "id": "07527",
+    "pdm": "FIO E CABO DE COBRE EM TERMOFIXO CLASSE 72.5KV"
+  },
+  {
+    "id": "07528",
+    "pdm": "FIO E CABO DE COBRE EM TERMOFIXO DE 1.2 A 25.8KV"
+  },
+  {
+    "id": "07529",
+    "pdm": "FIO E CABO DE COBRE EM TERMOPLASTICO ATE 1.2KV"
+  },
+  {
+    "id": "07530",
+    "pdm": "FIO E CABO DE COBRE ISOLADO SERVICO DE TRANSFORMACAO"
+  },
+  {
+    "id": "07531",
+    "pdm": "FIO E CABO DE COBRE NU"
+  },
+  {
+    "id": "07532",
+    "pdm": "FIO E CABO DE COBRE NU SERVICO DE TRANSFORMACAO"
+  },
+  {
+    "id": "07533",
+    "pdm": "FIO ELETRICO"
+  },
+  {
+    "id": "07539",
+    "pdm": "FIO PARA BOBINA"
+  },
+  {
+    "id": "07540",
+    "pdm": "FIO PLÁSTICO"
+  },
+  {
+    "id": "07543",
+    "pdm": "FIO TELEFÔNICO"
+  },
+  {
+    "id": "07545",
+    "pdm": "FIO TITANIO"
+  },
+  {
+    "id": "07608",
+    "pdm": "FITA SEMICONDUTORA"
+  },
+  {
+    "id": "07709",
+    "pdm": "FONTE ALIMENTAÇÃO"
+  },
+  {
+    "id": "07715",
+    "pdm": "FONTE DE ENERGIA DE BATERIA"
+  },
+  {
+    "id": "07716",
+    "pdm": "FONTE DE ENERGIA DE MODO GERAL"
+  },
+  {
+    "id": "07900",
+    "pdm": "GAIOLA PROTEÇÃO DE EQUIPAMENTOS"
+  },
+  {
+    "id": "07973",
+    "pdm": "GERADOR CORRENTE ALTERNADA"
+  },
+  {
+    "id": "07974",
+    "pdm": "GERADOR DE CORRENTE CONTINUA"
+  },
+  {
+    "id": "07985",
+    "pdm": "GERADOR ULTRA - SONICO DE FREQUENCIA FIXA"
+  },
+  {
+    "id": "08049",
+    "pdm": "GRADE PARA USINA HIDROELETRICA"
+  },
+  {
+    "id": "08113",
+    "pdm": "GRUPO DIESEL GERADOR"
+  },
+  {
+    "id": "08141",
+    "pdm": "GUINCHO PARA COMPORTA DE USINA HIDROELETRICA"
+  },
+  {
+    "id": "08367",
+    "pdm": "INDUZIDO DO GERADOR ELETRICO"
+  },
+  {
+    "id": "08460",
+    "pdm": "INVERSOR DE FASE DE CORRENTE ELETRICA"
+  },
+  {
+    "id": "08538",
+    "pdm": "JOGO DE CABO ELETRICO PARA TELEFONE"
+  },
+  {
+    "id": "08956",
+    "pdm": "LUVA CONDUTIVA PARA MANUTENCAO DE LINHA ENERGIZADA"
+  },
+  {
+    "id": "08962",
+    "pdm": "LUVA DE EMENDA DE LINHA DE TRANSMISSAO"
+  },
+  {
+    "id": "08963",
+    "pdm": "LUVA DE EMENDA PARA REDE DE DISTRIBUICAO"
+  },
+  {
+    "id": "09516",
+    "pdm": "MECANISMO DE ALIMENTACAO DE COMBUSTIVEL"
+  },
+  {
+    "id": "09580",
+    "pdm": "MEIA CONDUTIVA PARA MANUTENCAO DE LINHA ENERGIZADA"
+  },
+  {
+    "id": "09625",
+    "pdm": "MESA ILUMINAÇÃO CÊNICA"
+  },
+  {
+    "id": "09918",
+    "pdm": "MOTO - ALTERNADOR / GERADOR"
+  },
+  {
+    "id": "09924",
+    "pdm": "BATERIA MOTOCICLETA"
+  },
+  {
+    "id": "09954",
+    "pdm": "MOTOR COM BASE PARA BOMBA CENTRIFUGA"
+  },
+  {
+    "id": "09955",
+    "pdm": "MOTOR CONVERSOR"
+  },
+  {
+    "id": "09957",
+    "pdm": "MOTOR DE CORRENTE CONTINUA"
+  },
+  {
+    "id": "09969",
+    "pdm": "MOTOR ELETRICO DE CORRENTE ALTERNADA"
+  },
+  {
+    "id": "09970",
+    "pdm": "MOTOR ELETRICO DE CORRENTE CONTINUA ACIMA DE 1000 KW"
+  },
+  {
+    "id": "09971",
+    "pdm": "MOTOR ELETRICO DE CORRENTE CONTINUA ATE 50 KW"
+  },
+  {
+    "id": "09972",
+    "pdm": "MOTOR ELETRICO DE CORRENTE CONTINUA DE 300 A 1000 KW"
+  },
+  {
+    "id": "09973",
+    "pdm": "MOTOR ELETRICO DE CORRENTE CONTINUA DE 50 A 300 KW"
+  },
+  {
+    "id": "09974",
+    "pdm": "MOTOR ELETRICO DE GAIOLA DE ESQUILO"
+  },
+  {
+    "id": "09975",
+    "pdm": "MOTOR ELÉTRICO"
+  },
+  {
+    "id": "09977",
+    "pdm": "MOTOR ELETRICO SINCRONO ACIMA DE 1000 CV"
+  },
+  {
+    "id": "09978",
+    "pdm": "MOTOR ELETRICO SINCRONO ATE 1 CV"
+  },
+  {
+    "id": "09979",
+    "pdm": "MOTOR ELETRICO SINCRONO DE 1 A 10 CV"
+  },
+  {
+    "id": "09980",
+    "pdm": "MOTOR ELETRICO SINCRONO DE 10 A 100 CV"
+  },
+  {
+    "id": "09981",
+    "pdm": "MOTOR ELETRICO SINCRONO DE 100 A 300 CV"
+  },
+  {
+    "id": "09982",
+    "pdm": "MOTOR ELETRICO SINCRONO DE 300 A 1000 CV"
+  },
+  {
+    "id": "09983",
+    "pdm": "MOTOR ELETRICO UNIVERSAL"
+  },
+  {
+    "id": "09997",
+    "pdm": "MOTOR SINCRONO"
+  },
+  {
+    "id": 10008,
+    "pdm": "MUFLA"
+  },
+  {
+    "id": 10292,
+    "pdm": "PAINEL CONTROLE ELÉTRICO"
+  },
+  {
+    "id": 10296,
+    "pdm": "PAINEL DE INDICADOR ELETRICO"
+  },
+  {
+    "id": 10466,
+    "pdm": "PARTIDA ( QUADRO ) DE MOTOR"
+  },
+  {
+    "id": 10708,
+    "pdm": "PILHA"
+  },
+  {
+    "id": 10709,
+    "pdm": "PILHA NAO RECARREGAVEL"
+  },
+  {
+    "id": 10710,
+    "pdm": "PILHA RECARREGAVEL"
+  },
+  {
+    "id": 10807,
+    "pdm": "PLACA"
+  },
+  {
+    "id": 10821,
+    "pdm": "PLACA DE BATERIA"
+  },
+  {
+    "id": 11108,
+    "pdm": "POSTE DE MADEIRA DE LINHA DE COMUNICACAO"
+  },
+  {
+    "id": 11109,
+    "pdm": "POSTE DE MADEIRA DE LINHA DE COMUNICACAO ILUMINACAO E DISTRIBUICAO"
+  },
+  {
+    "id": 11139,
+    "pdm": "PRATELEIRA ESPECIAL PARA BATERIA"
+  },
+  {
+    "id": 11174,
+    "pdm": "PRENSA COMPRESSAO HIDRAULICA PARA CONEXAO ELETRICA"
+  },
+  {
+    "id": 11360,
+    "pdm": "QUADRO DISTRIBUIÇÃO"
+  },
+  {
+    "id": 11384,
+    "pdm": "RABICHO TRIPOLAR PARA CORRENTE ELETRICA"
+  },
+  {
+    "id": 11392,
+    "pdm": "RADIADOR DE TRANSFORMADOR DE ALTA POTENCIA"
+  },
+  {
+    "id": 11435,
+    "pdm": "REATOR POTÊNCIA"
+  },
+  {
+    "id": 11484,
+    "pdm": "RECIPIENTE ESPECIAL PARA BATERIA"
+  },
+  {
+    "id": 11589,
+    "pdm": "REGULADOR TENSAO"
+  },
+  {
+    "id": 11591,
+    "pdm": "REGULADOR DE VELOCIDADE DE TURBINA TERMICA"
+  },
+  {
+    "id": 11592,
+    "pdm": "REGULADOR DE VOLTAGEM"
+  },
+  {
+    "id": 11617,
+    "pdm": "RELIGADOR AUTOMATICO DE TENSAO"
+  },
+  {
+    "id": 11618,
+    "pdm": "RELIGADOR TRIFASICO ATE 15 KV INCLUSIVE"
+  },
+  {
+    "id": 11716,
+    "pdm": "RETIFICADOR DE OXIDO DE COBRE"
+  },
+  {
+    "id": 11717,
+    "pdm": "RETIFICADOR CENTRAL TELEFÔNICA"
+  },
+  {
+    "id": 11718,
+    "pdm": "RETIFICADOR INDUSTRIAL DE PROTECAO CATODICA"
+  },
+  {
+    "id": 11738,
+    "pdm": "REVESTIMENTO DE BATERIA"
+  },
+  {
+    "id": 11839,
+    "pdm": "ROTOR ALTERNADOR DE CORRENTE - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 11840,
+    "pdm": "ROTOR DE MOTOR ELETRICO"
+  },
+  {
+    "id": 11848,
+    "pdm": "ROUPA CONDUTIVA P/ MANUTENCAO DE LINHA ENERGIZADA"
+  },
+  {
+    "id": 12022,
+    "pdm": "SEPARADOR DE PLACAS DE BATERIAS"
+  },
+  {
+    "id": 12051,
+    "pdm": "SERVOMECANISMO DE CONTROLE ELETRICO"
+  },
+  {
+    "id": 12126,
+    "pdm": "SISTEMA DE POTENCIA ININTERRUPTA ( NO BREAK )"
+  },
+  {
+    "id": 12135,
+    "pdm": "SISTEMA ENERGIA SOLAR - AQUECIMENTO DE AGUA"
+  },
+  {
+    "id": 12136,
+    "pdm": "SISTEMA ENERGIA SOLAR - GERACAO ENERGIA ELETRICA"
+  },
+  {
+    "id": 12286,
+    "pdm": "SUBESTAÇÃO ABAIXADORA TENSAO"
+  },
+  {
+    "id": 12287,
+    "pdm": "SUBESTAÇÃO ELEVADORA TENSAO"
+  },
+  {
+    "id": 12379,
+    "pdm": "SUPORTE DE BATERIA"
+  },
+  {
+    "id": 12512,
+    "pdm": "TAMPA DE BATERIA"
+  },
+  {
+    "id": 12644,
+    "pdm": "TERMINADOR DE CABO ( EQUIPAMENTO ELETRICO ROTATIVO"
+  },
+  {
+    "id": 12655,
+    "pdm": "TERMINAL BATERIA"
+  },
+  {
+    "id": 12878,
+    "pdm": "TRANSFORMADOR A SECO"
+  },
+  {
+    "id": 12879,
+    "pdm": "TRANSFORMADOR ACIMA DE 1 KVA"
+  },
+  {
+    "id": 12881,
+    "pdm": "TRANSFORMADOR DE ATERRAMENTO"
+  },
+  {
+    "id": 12883,
+    "pdm": "TRANSFORMADOR DE CORRENTE A OLEO - ATE 69 KV"
+  },
+  {
+    "id": 12884,
+    "pdm": "TRANSFORMADOR DE CORRENTE A OLEO - MAIOR 69 KV"
+  },
+  {
+    "id": 12886,
+    "pdm": "TRANSFORMADOR DE DISTRIBUICAO - APLICACAO SUBTERRANEA"
+  },
+  {
+    "id": 12887,
+    "pdm": "TRANSFORMADOR DE DISTRIBUIÇÃO MONOFÁSICA"
+  },
+  {
+    "id": 12888,
+    "pdm": "TRANSFORMADOR DISTRIBUIÇÃO"
+  },
+  {
+    "id": 12889,
+    "pdm": "TRANSFORMADOR DE POTENCIA A OLEO ATE 34.5KV"
+  },
+  {
+    "id": 12890,
+    "pdm": "TRANSFORMADOR DE POTENCIA A OLEO MAIOR 138 KV"
+  },
+  {
+    "id": 12891,
+    "pdm": "TRANSFORMADOR DE POTENCIA A OLEO 1KV A 25KV"
+  },
+  {
+    "id": 12892,
+    "pdm": "TRANSFORMADOR DE POTENCIA A OLEO 69KV A 138KV"
+  },
+  {
+    "id": 12893,
+    "pdm": "TRANSFORMADOR DE POTENCIA A SECO 1KV A 25KV"
+  },
+  {
+    "id": 12894,
+    "pdm": "TRANSFORMADOR POTÊNCIA"
+  },
+  {
+    "id": 12897,
+    "pdm": "TRANSFORMADOR E AUTOTRANSFORMADOR DE DEFASAMENTO"
+  },
+  {
+    "id": 12899,
+    "pdm": "TRANSFORMADOR PARA ALTA TENSAO"
+  },
+  {
+    "id": 13010,
+    "pdm": "TROCADOR DE CALOR"
+  },
+  {
+    "id": 13038,
+    "pdm": "TUBO DE ALUMINIO PARA FIM ELETRICO"
+  },
+  {
+    "id": 13046,
+    "pdm": "TUBO DE COBRE PARA FIM ELETRICO"
+  },
+  {
+    "id": 13151,
+    "pdm": "UNIDADE A DIESEL COM GERADOR DE ENERGIA ELETRICA"
+  },
+  {
+    "id": 13152,
+    "pdm": "UNIDADE A GASOLINA DE GERACAO DE ENERGIA"
+  },
+  {
+    "id": 13157,
+    "pdm": "UNIDADE COMPLETA DE CELULA COMBUSTIVEL"
+  },
+  {
+    "id": 13301,
+    "pdm": "VARA DE MANOBRA"
+  },
+  {
+    "id": 13310,
+    "pdm": "VARIADOR DE POTENCIA ELETRICA"
+  },
+  {
+    "id": 13417,
+    "pdm": "VIBRADOR"
+  },
+  {
+    "id": 13538,
+    "pdm": "CABO DE USO EM ENERGIA ELÉTRICA"
+  },
+  {
+    "id": 13614,
+    "pdm": "PEÇA / ACESSÓRIO - MOTOR GERADOR ENERGIA"
+  },
+  {
+    "id": 14302,
+    "pdm": "FONTE ALIMENTAÇÃO ININTERRUPTA"
+  },
+  {
+    "id": 14386,
+    "pdm": "CARREGADOR BATERIA RÁDIO TRANSCEPTOR"
+  },
+  {
+    "id": 14705,
+    "pdm": "FIO RÍGIDO"
+  },
+  {
+    "id": 14943,
+    "pdm": "CABO ÁUDIO E VÍDEO"
+  },
+  {
+    "id": 14997,
+    "pdm": "FIO"
+  },
+  {
+    "id": 15144,
+    "pdm": "CABO PP"
+  },
+  {
+    "id": 15210,
+    "pdm": "BATERIA NOTEBOOK"
+  },
+  {
+    "id": 15322,
+    "pdm": "CABO ELÉTRICO NÚ COBRE"
+  },
+  {
+    "id": 15666,
+    "pdm": "QUADRO ELÉTRICO"
+  },
+  {
+    "id": 15812,
+    "pdm": "BATERIA RELÓGIO DE PONTO"
+  },
+  {
+    "id": 16040,
+    "pdm": "FONTE AUXILIAR PARTIDA"
+  },
+  {
+    "id": 16127,
+    "pdm": "BATERIA TELEFONE"
+  },
+  {
+    "id": 16327,
+    "pdm": "RECARREGADOR BATERIA"
+  },
+  {
+    "id": 16472,
+    "pdm": "CABO COBRE"
+  },
+  {
+    "id": 16473,
+    "pdm": "CABO ALUMÍNIO"
+  },
+  {
+    "id": 17097,
+    "pdm": "MOTORES ELÉTRICOS"
+  },
+  {
+    "id": 17098,
+    "pdm": "EQUIPAMENTOS DE CONTROLE ELÉTRICO"
+  },
+  {
+    "id": 17099,
+    "pdm": "GERADORES E CONJUNTOS GERADORES ELÉTRICOS"
+  },
+  {
+    "id": 17100,
+    "pdm": "UNIDADES DE FORÇA DE CÉLULA DE COMBUSTÍVEL COMPONENTES E ACESSÓRIOS"
+  },
+  {
+    "id": 17101,
+    "pdm": "SISTEMA DE ENERGIA ELÉTRICA SOLAR"
+  },
+  {
+    "id": 17102,
+    "pdm": "TRANSFORMADORES PARA ESTAÇÃO DE FORÇA E DE DISTRIBUIÇÃO"
+  },
+  {
+    "id": 17103,
+    "pdm": "CONVERSORES ELÉTRICOS ROTATIVOS"
+  },
+  {
+    "id": 17104,
+    "pdm": "CONVERSORES ELÉTRICOS ESTÁTICOS"
+  },
+  {
+    "id": 17105,
+    "pdm": "BATERIAS NAO RECARREGÁVEIS"
+  },
+  {
+    "id": 17106,
+    "pdm": "BATERIAS RECARREGÁVEIS"
+  },
+  {
+    "id": 17107,
+    "pdm": "FIOS E CABOS ELÉTRICOS"
+  },
+  {
+    "id": 17108,
+    "pdm": "EQUIPAMENTOS DIVERSOS PARA GERAÇÃO E DISTRIBUIÇÃO DE ENERGIA"
+  },
+  {
+    "id": 17109,
+    "pdm": "ACESSÓRIOS E REVESTIMENTOS DIVERSOS PARA BATERIAS"
+  },
+  {
+    "id": 17365,
+    "pdm": "BANCO BATERIA"
+  },
+  {
+    "id": 17552,
+    "pdm": "PAINEL COMANDO"
+  },
+  {
+    "id": 17570,
+    "pdm": "PLACA CONTROLE"
+  },
+  {
+    "id": 18458,
+    "pdm": "DAMPER REGULADOR VAZÃO"
+  },
+  {
+    "id": 18604,
+    "pdm": "CABO ELÉTRICO ISOLADO"
+  },
+  {
+    "id": 18707,
+    "pdm": "CABO ELÉTRICO NÚ CA"
+  },
+  {
+    "id": 18709,
+    "pdm": "CABO ELÉTRICO POTÊNCIA BAIXA TENSÃO"
+  },
+  {
+    "id": 18710,
+    "pdm": "FIO ELÉTRICO NÚ"
+  },
+  {
+    "id": 18723,
+    "pdm": "MÓDULO COMANDO"
+  },
+  {
+    "id": 18724,
+    "pdm": "MÓDULO MEDIÇÃO"
+  },
+  {
+    "id": 18745,
+    "pdm": "CONJUNTO ATERRAMENTO"
+  },
+  {
+    "id": 18761,
+    "pdm": "CABO MENSAGEIRO"
+  },
+  {
+    "id": 18781,
+    "pdm": "FIO ENROLAMENTO"
+  },
+  {
+    "id": 18782,
+    "pdm": "FIO ELÉTRICO ISOLADO"
+  },
+  {
+    "id": 18817,
+    "pdm": "CABO ELÉTRICO MULTIPLEXADO"
+  },
+  {
+    "id": 18828,
+    "pdm": "ATUADOR DAMPER"
+  },
+  {
+    "id": 18836,
+    "pdm": "MÓDULO ISOLADOR ESTABILIZADO"
+  },
+  {
+    "id": 18842,
+    "pdm": "CUBÍCULO BLINDADO"
+  },
+  {
+    "id": 18849,
+    "pdm": "EQUIPAMENTO/ACESSÓRIO GERAÇÃO E DISTRIBUIÇÃO"
+  },
+  {
+    "id": 18851,
+    "pdm": "CABO ELÉTRICO POTÊNCIA MÉDIA TENSÃO"
+  },
+  {
+    "id": 18863,
+    "pdm": "CABO CONEXÃO"
+  },
+  {
+    "id": 18881,
+    "pdm": "BOMBA EMERGÊNCIA DOIS ESTÁGIOS"
+  },
+  {
+    "id": 18890,
+    "pdm": "CONVERSOR FREQÜÊNCIA"
+  },
+  {
+    "id": 18933,
+    "pdm": "PEÇA/ACESSÓRIO - TRANSFORMADOR"
+  },
+  {
+    "id": 18944,
+    "pdm": "PEÇA/COMPONENTE/ACESSÓRIO - TURBINA"
+  },
+  {
+    "id": 18945,
+    "pdm": "TRANSFORMADOR POTENCIAL CAPACITIVO"
+  },
+  {
+    "id": 18946,
+    "pdm": "AUTOTRANSFORMADOR ACIMA 1KVA"
+  },
+  {
+    "id": 18953,
+    "pdm": "CADEIA DE ANCORAGEM ATÉ 242 KV"
+  },
+  {
+    "id": 18975,
+    "pdm": "VARIADOR TENSÃO"
+  },
+  {
+    "id": 18982,
+    "pdm": "BATERIA ESTACIONÁRIA ALTA CAPACIDADE"
+  },
+  {
+    "id": 18994,
+    "pdm": "CLIPE BATERIA"
+  },
+  {
+    "id": 19025,
+    "pdm": "CONTROLADOR CARGA/DESCARGA CORRENTE"
+  },
+  {
+    "id": 19026,
+    "pdm": "CORDÃO ELÉTRICO FLEXÍVEL"
+  },
+  {
+    "id": 19034,
+    "pdm": "MÓDULO BATERIA"
+  },
+  {
+    "id": 19038,
+    "pdm": "CABO ELÉTRICO NÚ CAA"
+  },
+  {
+    "id": 19053,
+    "pdm": "CABO ELÉTRICO COBERTO WPP"
+  },
+  {
+    "id": 19057,
+    "pdm": "PEÇA/ACESSÓRIO"
+  },
+  {
+    "id": 19082,
+    "pdm": "EQUIPAMENTO/PEÇAS/ACESSÓRIOS CENTRAL HIDRÁULICA"
+  },
+  {
+    "id": 19083,
+    "pdm": "PEÇA/COMPONENTE FONTE ALIMENTAÇÃO ININTERRUPTA"
+  },
+  {
+    "id": 19093,
+    "pdm": "INVERSOR FREQUÊNCIA"
+  },
+  {
+    "id": 19098,
+    "pdm": "REATOR ATERRAMENTO NEUTRO"
+  },
+  {
+    "id": 19103,
+    "pdm": "PEÇA/ACESSÓRIO COMUTADOR PARA TRANSFORMADOR"
+  },
+  {
+    "id": 19104,
+    "pdm": "SECCIONADOR"
+  },
+  {
+    "id": 19112,
+    "pdm": "CONTROLADOR DE MOTOR"
+  },
+  {
+    "id": 19131,
+    "pdm": "CONVERSOR CORRENTE PARA PNEUMÁTICO (I/P)"
+  },
+  {
+    "id": 19144,
+    "pdm": "CABO MULTICOAXIAL"
+  },
+  {
+    "id": 19153,
+    "pdm": "CARREGADOR RÁDIO TRANSMISSOR"
+  },
+  {
+    "id": 19156,
+    "pdm": "CABO DE FORÇA"
+  },
+  {
+    "id": 19157,
+    "pdm": "CABO ELÉTRICO ALTA TEMPERATURA"
+  },
+  {
+    "id": 19159,
+    "pdm": "FIO ELÉTRICO COBERTO WPP"
+  },
+  {
+    "id": 19166,
+    "pdm": "GRUPO MOTOR-GERADOR"
+  },
+  {
+    "id": 19175,
+    "pdm": "PEÇA/ACESSÓRIO QUADRO DISTRIBUIÇÃO"
+  },
+  {
+    "id": 19181,
+    "pdm": "CHAVE FUSÍVEL DISTRIBUIÇÃO"
+  },
+  {
+    "id": 19182,
+    "pdm": "PEÇA/ACESSÓRIO - CHAVE FUSÍVEL DISTRIBUIÇÃO"
+  },
+  {
+    "id": 19193,
+    "pdm": "GERADOR ENERGIA"
+  },
+  {
+    "id": 19195,
+    "pdm": "CHAVE FUSÍVEL INDICADORA"
+  },
+  {
+    "id": 19197,
+    "pdm": "CHAVE COMANDO BANCO CAPACITOR"
+  },
+  {
+    "id": 19202,
+    "pdm": "COMPENSADOR ESTÁTICO"
+  },
+  {
+    "id": 19204,
+    "pdm": "SUPORTE PARA PILHA"
+  },
+  {
+    "id": 19206,
+    "pdm": "ELEMENTO DE BATERIA CHUMBO-ÁCIDA"
+  },
+  {
+    "id": 19209,
+    "pdm": "REGULADOR CORRENTE CONSTANTE"
+  },
+  {
+    "id": 19213,
+    "pdm": "CABO DE VÍDEO"
+  },
+  {
+    "id": 19216,
+    "pdm": "GEL REDUTOR"
+  },
+  {
+    "id": 19221,
+    "pdm": "CABO DE LÓGICA"
+  },
+  {
+    "id": 19222,
+    "pdm": "POSTE FIBRA DE VIDRO"
+  },
+  {
+    "id": 19225,
+    "pdm": "CABO ELÉTRICO NÚ CALA"
+  },
+  {
+    "id": 19230,
+    "pdm": "TERMINAÇÃO MODULAR"
+  },
+  {
+    "id": 19237,
+    "pdm": "AUTOMÁTICO PARA BOMBA"
+  },
+  {
+    "id": 19238,
+    "pdm": "P517880C CABO 0.141 POL SEMIRÍGIDO"
+  },
+  {
+    "id": 19241,
+    "pdm": "PLACA CHAVE ESTÁTICA"
+  },
+  {
+    "id": 19242,
+    "pdm": "PLACA RETIFICADOR"
+  },
+  {
+    "id": 19243,
+    "pdm": "PLACA FONTE"
+  },
+  {
+    "id": 19244,
+    "pdm": "PLACA INVERSOR"
+  },
+  {
+    "id": 19257,
+    "pdm": "PEÇA REPOSIÇÃO PARA SUBESTAÇÃO"
+  },
+  {
+    "id": 19379,
+    "pdm": "CONTROLADOR POTÊNCIA"
+  },
+  {
+    "id": 19381,
+    "pdm": "COFRE DERIVAÇÃO"
+  },
+  {
+    "id": 19383,
+    "pdm": "INVERSOR TÉRMICO"
+  }
+]
