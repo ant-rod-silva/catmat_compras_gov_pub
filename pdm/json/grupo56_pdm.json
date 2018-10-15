@@ -1,0 +1,1050 @@
+[
+  {
+    "id": "00054",
+    "pdm": "TELHA AMIANTO"
+  },
+  {
+    "id": "00072",
+    "pdm": "POSTE CONCRETO DUPLO T"
+  },
+  {
+    "id": "00698",
+    "pdm": "ISOLAMENTO TÉRMICO FLEXÍVEL"
+  },
+  {
+    "id": "00810",
+    "pdm": "LAJOTA"
+  },
+  {
+    "id": "00811",
+    "pdm": "TIJOLO"
+  },
+  {
+    "id": "00812",
+    "pdm": "CALHA CONCRETO"
+  },
+  {
+    "id": "00813",
+    "pdm": "TELHA"
+  },
+  {
+    "id": "00814",
+    "pdm": "TUBO CONCRETO"
+  },
+  {
+    "id": "00815",
+    "pdm": "DIVISÓRIA"
+  },
+  {
+    "id": "00816",
+    "pdm": "BETUME"
+  },
+  {
+    "id": "00854",
+    "pdm": "ADESIVO ARGAMASSA"
+  },
+  {
+    "id": "00855",
+    "pdm": "MOURÃO CONCRETO"
+  },
+  {
+    "id": "00856",
+    "pdm": "POSTE CONCRETO"
+  },
+  {
+    "id": "00857",
+    "pdm": "POSTE METÁLICO"
+  },
+  {
+    "id": "00861",
+    "pdm": "ASFALTO"
+  },
+  {
+    "id": "00862",
+    "pdm": "AREIA"
+  },
+  {
+    "id": "00863",
+    "pdm": "BRITA"
+  },
+  {
+    "id": "00864",
+    "pdm": "CAL VIVA"
+  },
+  {
+    "id": "00865",
+    "pdm": "CAL EXTINTA"
+  },
+  {
+    "id": "00866",
+    "pdm": "CIMENTO BRANCO"
+  },
+  {
+    "id": "00867",
+    "pdm": "CIMENTO PORTLAND"
+  },
+  {
+    "id": "00868",
+    "pdm": "PEDRISCO"
+  },
+  {
+    "id": "00869",
+    "pdm": "PÓ DE PEDRA"
+  },
+  {
+    "id": "00871",
+    "pdm": "PORTA SANFONADA"
+  },
+  {
+    "id": "00901",
+    "pdm": "ARAME FARPADO"
+  },
+  {
+    "id": "00972",
+    "pdm": "CUMEEIRA"
+  },
+  {
+    "id": "00992",
+    "pdm": "ESTACA CERCA"
+  },
+  {
+    "id": "01230",
+    "pdm": "ACABAMENTO TERRACOTA"
+  },
+  {
+    "id": "01242",
+    "pdm": "AZULEJO"
+  },
+  {
+    "id": "02123",
+    "pdm": "ADUELA"
+  },
+  {
+    "id": "02338",
+    "pdm": "ALIZAR DE MATERIAL METALICO PARA JANELA"
+  },
+  {
+    "id": "03065",
+    "pdm": "ARTEFATO DE VERMICULA"
+  },
+  {
+    "id": "03201",
+    "pdm": "BAGUETE"
+  },
+  {
+    "id": "03202",
+    "pdm": "BAGUETE PASSAGEM DE FIO"
+  },
+  {
+    "id": "03269",
+    "pdm": "BANCADA"
+  },
+  {
+    "id": "03405",
+    "pdm": "BARRO"
+  },
+  {
+    "id": "03406",
+    "pdm": "BARRO VIDRADO"
+  },
+  {
+    "id": "03408",
+    "pdm": "BASCULANTE"
+  },
+  {
+    "id": "03461",
+    "pdm": "BATENTE PORTA"
+  },
+  {
+    "id": "03517",
+    "pdm": "BETONITA ATIVADA"
+  },
+  {
+    "id": "03601",
+    "pdm": "BLOCO DE CONCRETO"
+  },
+  {
+    "id": "03604",
+    "pdm": "BLOCO"
+  },
+  {
+    "id": "03623",
+    "pdm": "BLOCO ISOLAMENTO TÉRMICO E ACÚSTICO"
+  },
+  {
+    "id": "03649",
+    "pdm": "BOCA DE LOBO MATERIAL METÁLICO"
+  },
+  {
+    "id": "03850",
+    "pdm": "BOX DE BANHEIRO EM ACRILICO"
+  },
+  {
+    "id": "03947",
+    "pdm": "TAMPA BUEIRO"
+  },
+  {
+    "id": "04108",
+    "pdm": "CAIBRO"
+  },
+  {
+    "id": "04112",
+    "pdm": "CAIXA COLETORA DE CONCRETO"
+  },
+  {
+    "id": "04116",
+    "pdm": "CAIXA D ' AGUA"
+  },
+  {
+    "id": "04117",
+    "pdm": "CAIXA D'ÁGUA"
+  },
+  {
+    "id": "04118",
+    "pdm": "CAIXA D'AGUA DE ACO COM COLUNAS"
+  },
+  {
+    "id": "04119",
+    "pdm": "CAIXA D'AGUA DE AMIANTO"
+  },
+  {
+    "id": "04120",
+    "pdm": "CÁPSULA CONSTRUÇÃO"
+  },
+  {
+    "id": "04131",
+    "pdm": "CAIXA FERRO FUNDIDO COLETADORA DE ESGOTO"
+  },
+  {
+    "id": "04180",
+    "pdm": "CAIXILHO FERRO JANELA / PORTA"
+  },
+  {
+    "id": "04182",
+    "pdm": "CAIXILHO METÁLICO PORTA"
+  },
+  {
+    "id": "04184",
+    "pdm": "CAL HIDRATADA"
+  },
+  {
+    "id": "04211",
+    "pdm": "CALCARIO"
+  },
+  {
+    "id": "04242",
+    "pdm": "CALHA DE ALUMÍNIO"
+  },
+  {
+    "id": "04243",
+    "pdm": "CALHA FIBRA DE VIDRO"
+  },
+  {
+    "id": "04244",
+    "pdm": "CALHA DE ISOLAMENTO TERMICO DE TUBULACAO"
+  },
+  {
+    "id": "04245",
+    "pdm": "CALHA TELHADO"
+  },
+  {
+    "id": "04246",
+    "pdm": "CALHA DE ZINCO"
+  },
+  {
+    "id": "04247",
+    "pdm": "CALHA METÁLICA"
+  },
+  {
+    "id": "04248",
+    "pdm": "PROTETOR CALHA"
+  },
+  {
+    "id": "04426",
+    "pdm": "CANO METALÍCO ANCORAGEM POSTE"
+  },
+  {
+    "id": "04430",
+    "pdm": "CANTARIA - MATERIAL CONSTRUÇÃO"
+  },
+  {
+    "id": "04504",
+    "pdm": "SUPORTE CALHA"
+  },
+  {
+    "id": "04689",
+    "pdm": "CASCALHO"
+  },
+  {
+    "id": "04788",
+    "pdm": "CERCA DE MADEIRA"
+  },
+  {
+    "id": "04810",
+    "pdm": "CHAMINÉ METÁLICA"
+  },
+  {
+    "id": "04836",
+    "pdm": "CHAPA DE PLASTICO ONDULADO"
+  },
+  {
+    "id": "04839",
+    "pdm": "CHAPA DE VIDRO"
+  },
+  {
+    "id": "04846",
+    "pdm": "CHAPA TELHADO EM ROLO"
+  },
+  {
+    "id": "05033",
+    "pdm": "CINZA CONCRETO"
+  },
+  {
+    "id": "05291",
+    "pdm": "COBOGO"
+  },
+  {
+    "id": "05529",
+    "pdm": "CONCRETO USINADO"
+  },
+  {
+    "id": "05548",
+    "pdm": "CONDUTO DE BARRO COZIDO"
+  },
+  {
+    "id": "05549",
+    "pdm": "CONDUTO DE BARRO VIDRADO"
+  },
+  {
+    "id": "05550",
+    "pdm": "CONDUTO DE CERAMICA DE USO SUBTERRANEO"
+  },
+  {
+    "id": "05551",
+    "pdm": "CONDUTO DE CIMENTO - AMIANTO"
+  },
+  {
+    "id": "05552",
+    "pdm": "CONDUTO DE CONCRETO"
+  },
+  {
+    "id": "05555",
+    "pdm": "CONDUTO NAO METALICO PARA USO EM SUBSOLO"
+  },
+  {
+    "id": "05595",
+    "pdm": "CONEXÃO BALAUSTRE"
+  },
+  {
+    "id": "05600",
+    "pdm": "CONEXÃO CORRIMÃO"
+  },
+  {
+    "id": "05615",
+    "pdm": "CONEXAO HIDRAULICA - MATERIAL METALICO NAO FERROSO"
+  },
+  {
+    "id": "05617",
+    "pdm": "CONEXAO HIDRAULICA DE TUBO DE CONCRETO"
+  },
+  {
+    "id": "05619",
+    "pdm": "CONEXAO NAO METALICA PARA TUBULACAO DE SUBSOLO"
+  },
+  {
+    "id": "05620",
+    "pdm": "CONEXAO PARA CONDUTO DE CONCRETO"
+  },
+  {
+    "id": "05627",
+    "pdm": "CONEXAO PARA TUBULACAO"
+  },
+  {
+    "id": "05988",
+    "pdm": "CRUZETA LINHA DE COMUNICAÇÃO"
+  },
+  {
+    "id": "05991",
+    "pdm": "CRUZETA"
+  },
+  {
+    "id": "06007",
+    "pdm": "CUMEEIRA DE CONCRETO"
+  },
+  {
+    "id": "06008",
+    "pdm": "CUMEEIRA DE MATERIAL METALICO FERROSO"
+  },
+  {
+    "id": "06009",
+    "pdm": "CUMEEIRA DE MATERIAL NAO METALICO"
+  },
+  {
+    "id": "06010",
+    "pdm": "CUMEEIRA TERMOPLASTICA - LONGITUDINAL / ONDULAR"
+  },
+  {
+    "id": "06405",
+    "pdm": "DRENO DE CERAMICA DE USO SUBTERRANEO"
+  },
+  {
+    "id": "06417",
+    "pdm": "DUTO METALÍCO VENTILAÇÃO"
+  },
+  {
+    "id": "06454",
+    "pdm": "ELEMENTO VASADO"
+  },
+  {
+    "id": "06835",
+    "pdm": "EQUIPAMENTO PARA PROTENSAO"
+  },
+  {
+    "id": "06887",
+    "pdm": "ESCADA METALICA FIXA"
+  },
+  {
+    "id": "06888",
+    "pdm": "ESCADA METALICA FIXA - SAIDA INCENDIO / EMERGENCIA"
+  },
+  {
+    "id": "06928",
+    "pdm": "ESCORIA DE ORIGEM MINERAL"
+  },
+  {
+    "id": "07110",
+    "pdm": "ESTEIRA DE POUSO DE AERONAVE"
+  },
+  {
+    "id": "07112",
+    "pdm": "ESTEIRA DE TRACAO"
+  },
+  {
+    "id": "07132",
+    "pdm": "ESTICADOR DE ARAME PARA ESTAIAMENTO"
+  },
+  {
+    "id": "07200",
+    "pdm": "AGREGADO MINERAL"
+  },
+  {
+    "id": "07206",
+    "pdm": "ESTRUTURA METALICA PARA PORTA / JANELA"
+  },
+  {
+    "id": "07339",
+    "pdm": "FELTRO DE AMIANTO"
+  },
+  {
+    "id": "07409",
+    "pdm": "FIBRA DE VIDRO"
+  },
+  {
+    "id": "07490",
+    "pdm": "FILTRO PARA TETO"
+  },
+  {
+    "id": "07632",
+    "pdm": "FLANGE FERRO FUNDIDO PARA REDE DE CANALIZACAO DEAGUA"
+  },
+  {
+    "id": "07696",
+    "pdm": "FOLHA DE METAL ONDULADO TIPO FOLHA DE FLANDRES"
+  },
+  {
+    "id": "07698",
+    "pdm": "FOLHA DE VIDRO"
+  },
+  {
+    "id": "07767",
+    "pdm": "FORQUILHA E GANCHO PARA MOVIMENTACAO DE POSTE"
+  },
+  {
+    "id": "07770",
+    "pdm": "FORRO DE ALUMINIO"
+  },
+  {
+    "id": "07772",
+    "pdm": "FORRO DE FIBRA MINERAL / VIDRO"
+  },
+  {
+    "id": "07773",
+    "pdm": "FORRO DE MADEIRA ( ISOLANTE TERMICO)"
+  },
+  {
+    "id": "07774",
+    "pdm": "FORRO ISOLANTE TÉRMICO"
+  },
+  {
+    "id": "07776",
+    "pdm": "FORRO PARA ESTRUTURA EM PERFIL DE ACO"
+  },
+  {
+    "id": "07778",
+    "pdm": "FORRO TETO"
+  },
+  {
+    "id": "07990",
+    "pdm": "GESSO"
+  },
+  {
+    "id": "07991",
+    "pdm": "PLACA DE GESSO ACARTONADO"
+  },
+  {
+    "id": "07992",
+    "pdm": "GESSO - REBOCO"
+  },
+  {
+    "id": "08044",
+    "pdm": "GRADE DE CONCRETO DE MONTAGEM DE CERCA"
+  },
+  {
+    "id": "08047",
+    "pdm": "GRADE METALICA PARA ARQUITETURA"
+  },
+  {
+    "id": "08048",
+    "pdm": "GRADE METALICA PARA MONTAGEM DE PISO"
+  },
+  {
+    "id": "08050",
+    "pdm": "GRADE PROTEÇÃO/GUARDA CORPO"
+  },
+  {
+    "id": "08084",
+    "pdm": "GRANITO"
+  },
+  {
+    "id": "08085",
+    "pdm": "GRANITO - DIVISÓRIA / BANCADA"
+  },
+  {
+    "id": "08103",
+    "pdm": "GRELHA / SUPORTE NAO METALICO PARA RALO"
+  },
+  {
+    "id": "08104",
+    "pdm": "GRELHA DE CONCRETO PARA CONSTRUCAO"
+  },
+  {
+    "id": "08106",
+    "pdm": "GRELHA FIXA"
+  },
+  {
+    "id": "08131",
+    "pdm": "GUIA DE TETO ( FIXACAO DE DIVISORIAS )"
+  },
+  {
+    "id": "08497",
+    "pdm": "ISOLANTE TÉRMICO"
+  },
+  {
+    "id": "08519",
+    "pdm": "JANELA BASCULANTE"
+  },
+  {
+    "id": "08522",
+    "pdm": "JANELA"
+  },
+  {
+    "id": "08585",
+    "pdm": "LA DE VIDRO DE CONSTRUCAO"
+  },
+  {
+    "id": "08587",
+    "pdm": "LÃ MINERAL"
+  },
+  {
+    "id": "08606",
+    "pdm": "LAJE DE CONCRETO PRÉ-FABRICADA"
+  },
+  {
+    "id": "08607",
+    "pdm": "LAJOTA DE ISOLAMENTO TERMICO E ACUSTICO"
+  },
+  {
+    "id": "08727",
+    "pdm": "LASTRO MATERIAL CONSTRUÇÃO"
+  },
+  {
+    "id": "09047",
+    "pdm": "MALHA DE METAL EXPANDIDO"
+  },
+  {
+    "id": "09386",
+    "pdm": "MÁRMORE BRITADO"
+  },
+  {
+    "id": "09387",
+    "pdm": "MARMORE EM ESTADO BRUTO"
+  },
+  {
+    "id": "09388",
+    "pdm": "MÁRMORE POLIDO"
+  },
+  {
+    "id": "09582",
+    "pdm": "MEIO - FIO DE CONCRETO"
+  },
+  {
+    "id": "09583",
+    "pdm": "MEIO - FIO DE PEDRA"
+  },
+  {
+    "id": "09870",
+    "pdm": "MOLDURA GRADEADA DE ARAME PARA MONTAGEM DE CERCA"
+  },
+  {
+    "id": "09999",
+    "pdm": "MOURÃO MADEIRA"
+  },
+  {
+    "id": 10286,
+    "pdm": "PAINEL / PLACA - FIBRA DE VIDRO"
+  },
+  {
+    "id": 10290,
+    "pdm": "PAINEL DE CIMENTO - AMIANTO"
+  },
+  {
+    "id": 10291,
+    "pdm": "PAINEL DE CONCRETO PARA MONTAGEM DE CERCA"
+  },
+  {
+    "id": 10294,
+    "pdm": "PAINEL DE CORTICA"
+  },
+  {
+    "id": 10298,
+    "pdm": "PAINEL DE ISOLAMENTO TÉRMICO E ACÚSTICO"
+  },
+  {
+    "id": 10300,
+    "pdm": "PAINEL DE MADEIRA PRENSADA"
+  },
+  {
+    "id": 10301,
+    "pdm": "PAINEL DE PAPELAO ( ISOLANTE TERMICO)"
+  },
+  {
+    "id": 10310,
+    "pdm": "PAINEL PARA CONSTRUCAO"
+  },
+  {
+    "id": 10356,
+    "pdm": "PAPEL ALCATROADO PARA CONSTRUCAO"
+  },
+  {
+    "id": 10388,
+    "pdm": "PAPEL LAMINADO - CONSTRUCAO"
+  },
+  {
+    "id": 10455,
+    "pdm": "PARALELEPIPEDO"
+  },
+  {
+    "id": 10500,
+    "pdm": "PASTILHA DE CERAMICA"
+  },
+  {
+    "id": 10581,
+    "pdm": "PEDRA - POMES"
+  },
+  {
+    "id": 10582,
+    "pdm": "PEDRA BRUTA"
+  },
+  {
+    "id": 10583,
+    "pdm": "PEDRA DE DIMENSAO IRREGULAR"
+  },
+  {
+    "id": 10586,
+    "pdm": "PEDRA NAO DIMENSIONADA PARA REVESTIMENTO DE PAREDE"
+  },
+  {
+    "id": 10589,
+    "pdm": "PEDRA PARA REVESTIMENTO DE PISO NAO DIMENSIONADA"
+  },
+  {
+    "id": 10590,
+    "pdm": "PEDRA POLIDA DE ACABAMENTO DE CONSTRUCAO"
+  },
+  {
+    "id": 10592,
+    "pdm": "PEDREGULHO"
+  },
+  {
+    "id": 10616,
+    "pdm": "PENEIRA"
+  },
+  {
+    "id": 10820,
+    "pdm": "PLACA DE ANCORAGEM DE POSTE"
+  },
+  {
+    "id": 10828,
+    "pdm": "PLACA DE CONCRETO DE MONTAGEM DE CERCA"
+  },
+  {
+    "id": 10862,
+    "pdm": "PLACA PARA CONSTRUCAO"
+  },
+  {
+    "id": 10866,
+    "pdm": "PLACA PVC"
+  },
+  {
+    "id": 11015,
+    "pdm": "PONTEIRA DE POSTE"
+  },
+  {
+    "id": 11018,
+    "pdm": "PONTEIRA PARA MOURAO"
+  },
+  {
+    "id": 11069,
+    "pdm": "PORTA DE AÇO ONDULADO TIPO ENROLÁVEL"
+  },
+  {
+    "id": 11082,
+    "pdm": "PORTA METALICA PRE - FABRICADA"
+  },
+  {
+    "id": 11088,
+    "pdm": "PORTA TIPO BASCULANTE"
+  },
+  {
+    "id": 11095,
+    "pdm": "PORTAO DE MADEIRA"
+  },
+  {
+    "id": 11096,
+    "pdm": "PORTÃO"
+  },
+  {
+    "id": 11098,
+    "pdm": "PORTEIRA"
+  },
+  {
+    "id": 11106,
+    "pdm": "MATERIAL PARA MANUTENÇÃO BENS IMÓVEIS"
+  },
+  {
+    "id": 11227,
+    "pdm": "PRODUTO DE CERAMICA DIMENSIONADO PARA ARQUITETURA"
+  },
+  {
+    "id": 11347,
+    "pdm": "CANTONEIRA"
+  },
+  {
+    "id": 11350,
+    "pdm": "PVC - DIVISORIA"
+  },
+  {
+    "id": 11351,
+    "pdm": "PVC - FORRO / REVESTIMENTO"
+  },
+  {
+    "id": 11353,
+    "pdm": "PROTETOR PORTA / QUINA / PAREDE"
+  },
+  {
+    "id": 11354,
+    "pdm": "PVC - TAMPA RALO"
+  },
+  {
+    "id": 11402,
+    "pdm": "CANALETA CONCRETO"
+  },
+  {
+    "id": 11403,
+    "pdm": "RALO"
+  },
+  {
+    "id": 11405,
+    "pdm": "RALO METALICO"
+  },
+  {
+    "id": 11406,
+    "pdm": "RALO SIFONADO"
+  },
+  {
+    "id": 11663,
+    "pdm": "RESERVATORIO AGUA TIPO AUSTRALIANO DE 14.000 ATE"
+  },
+  {
+    "id": 11737,
+    "pdm": "PLACA CONCRETO"
+  },
+  {
+    "id": 11754,
+    "pdm": "RIPAMENTO PARA TELHADO"
+  },
+  {
+    "id": 11911,
+    "pdm": "SAIBRO"
+  },
+  {
+    "id": 12529,
+    "pdm": "TAMPAO E ARO DE CONCRETO PARA CAMARA SUBTERRANEA"
+  },
+  {
+    "id": 12530,
+    "pdm": "TAMPAO E ARO DE FERRO PARA CAMARA SUBTERRANEA"
+  },
+  {
+    "id": 12598,
+    "pdm": "TELA TIPO CONCERTINA"
+  },
+  {
+    "id": 12611,
+    "pdm": "TELHA - VENTILACAO"
+  },
+  {
+    "id": 12612,
+    "pdm": "TELHA MULTIPLA TERMOPLASTICA - COM/SEM AUTOAPRISIONAMENTO"
+  },
+  {
+    "id": 12679,
+    "pdm": "TERRA VERMELHA"
+  },
+  {
+    "id": 13040,
+    "pdm": "TUBO DE BARRO COZIDO"
+  },
+  {
+    "id": 13041,
+    "pdm": "TUBO DE BARRO VIDRADO"
+  },
+  {
+    "id": 13042,
+    "pdm": "TUBO CERÂMICO"
+  },
+  {
+    "id": 13043,
+    "pdm": "TUBO DE CIMENTO - AMIANTO"
+  },
+  {
+    "id": 13047,
+    "pdm": "TUBO DE CONCRETO"
+  },
+  {
+    "id": 13078,
+    "pdm": "TUBO DE QUEDA DE CONCRETO"
+  },
+  {
+    "id": 13079,
+    "pdm": "TUBO DE QUEDA METALICO"
+  },
+  {
+    "id": 13106,
+    "pdm": "TUBO NAO METALICO PARA USO EM SUBSOLO"
+  },
+  {
+    "id": 13330,
+    "pdm": "VEDA JUNTA DE AZULEJO"
+  },
+  {
+    "id": 13394,
+    "pdm": "VERMICULITE EXPANDIDA"
+  },
+  {
+    "id": 13427,
+    "pdm": "VIDRO BOX"
+  },
+  {
+    "id": 13432,
+    "pdm": "VIDRO PARA ARQUITETURA PRE - CORTADO"
+  },
+  {
+    "id": 13433,
+    "pdm": "VIDRO CAIXILHO"
+  },
+  {
+    "id": 13436,
+    "pdm": "VIGA DE CONCRETO PRE - FABRICADA"
+  },
+  {
+    "id": 13438,
+    "pdm": "VIGA ESTRUTURA METALICA"
+  },
+  {
+    "id": 13519,
+    "pdm": "ACESSORIO NAO METALICO PARA MONTAGEM DE TUBO SUBTERRANEO"
+  },
+  {
+    "id": 13633,
+    "pdm": "REVESTIMENTO DE TUBULACAO"
+  },
+  {
+    "id": 13702,
+    "pdm": "VIDRO TEMPERADO"
+  },
+  {
+    "id": 13708,
+    "pdm": "VIDRO DIVISÓRIA"
+  },
+  {
+    "id": 13892,
+    "pdm": "REVESTIMENTO CERÂMICO"
+  },
+  {
+    "id": 13915,
+    "pdm": "VIDRO LAMINADO"
+  },
+  {
+    "id": 14327,
+    "pdm": "SEIXO ROLADO"
+  },
+  {
+    "id": 14331,
+    "pdm": "ARGAMASSA"
+  },
+  {
+    "id": 14438,
+    "pdm": "VIDRO CRISTAL"
+  },
+  {
+    "id": 14658,
+    "pdm": "REBOCO PRONTO"
+  },
+  {
+    "id": 14951,
+    "pdm": "APOIO BAQUETE"
+  },
+  {
+    "id": 14968,
+    "pdm": "TAMPA PARA CAIXA D'ÁGUA"
+  },
+  {
+    "id": 15323,
+    "pdm": "CALHA PISO"
+  },
+  {
+    "id": 15464,
+    "pdm": "TRAVESSA PARA DIVISÓRIA"
+  },
+  {
+    "id": 15465,
+    "pdm": "GUIA PARA DIVISÓRIA"
+  },
+  {
+    "id": 15470,
+    "pdm": "CAPA MONTANTE DIVISÓRIA"
+  },
+  {
+    "id": 15471,
+    "pdm": "FUSO MONTANTE DIVISÓRIA"
+  },
+  {
+    "id": 15475,
+    "pdm": "PORTA PARA DIVISÓRIA"
+  },
+  {
+    "id": 16199,
+    "pdm": "TELA PARA AVIÁRIO"
+  },
+  {
+    "id": 16391,
+    "pdm": "PEDRA POROSA"
+  },
+  {
+    "id": 16397,
+    "pdm": "ADESIVO ESTRUTURAL"
+  },
+  {
+    "id": 16420,
+    "pdm": "REQUADRO"
+  },
+  {
+    "id": 16632,
+    "pdm": "RESERVATÓRIO"
+  },
+  {
+    "id": 16638,
+    "pdm": "SUPORTE TELESCÓPICO PARA PISO ELEVADO"
+  },
+  {
+    "id": 17018,
+    "pdm": "MATERIAIS DE ORIGEM MINERAL PARA CONSTRUÇÃO - A GRANEL"
+  },
+  {
+    "id": 17019,
+    "pdm": "VIDROS. TELHAS. TIJOLOS E BLOCOS PARA CONSTRUÇÃO"
+  },
+  {
+    "id": 17020,
+    "pdm": "TUBOS E CONDUTOS NÃO METÁLICOS - PARA CONSTRUÇÃO"
+  },
+  {
+    "id": 17021,
+    "pdm": "PAINEL DE PAPELÃO. PAPEL EMPREGADO EM CONSTRUÇÃO E MATERIAISDE ISOLAMENTO TÉRMICO"
+  },
+  {
+    "id": 17022,
+    "pdm": "MATERIAIS PARA TELHADOS E REVESTIMENTO DE PAREDES"
+  },
+  {
+    "id": 17023,
+    "pdm": "CERCAS GRADES E PORTÕES"
+  },
+  {
+    "id": 17024,
+    "pdm": "COMPONENTES PRÉ-FABRICADOS PARA CONSTRUÇÃO"
+  },
+  {
+    "id": 17025,
+    "pdm": "MATERIAL DE CONSTRUÇÃO SINTÉTICO E ARTIGOS CORRELATOS"
+  },
+  {
+    "id": 17026,
+    "pdm": "ESCORA CERCA"
+  },
+  {
+    "id": 17392,
+    "pdm": "SUPORTE PARA COLUNA"
+  },
+  {
+    "id": 17812,
+    "pdm": "SUPORTE APARELHO AR CONDICIONADO"
+  },
+  {
+    "id": 18236,
+    "pdm": "BASE DIVISÓRIA MARMORE"
+  },
+  {
+    "id": 18445,
+    "pdm": "TERRA PRETA"
+  },
+  {
+    "id": 18567,
+    "pdm": "SUPORTE REGULÁVEL DIVISÓRIA"
+  },
+  {
+    "id": 18639,
+    "pdm": "SOLEIRA PORTA"
+  },
+  {
+    "id": 18767,
+    "pdm": "CABINE ELEITORAL"
+  },
+  {
+    "id": 18888,
+    "pdm": "ACABAMENTO"
+  },
+  {
+    "id": 19032,
+    "pdm": "FORMA MOURÃO"
+  },
+  {
+    "id": 19121,
+    "pdm": "FILITO"
+  },
+  {
+    "id": 19123,
+    "pdm": "CABINE ACÚSTICA"
+  }
+]
