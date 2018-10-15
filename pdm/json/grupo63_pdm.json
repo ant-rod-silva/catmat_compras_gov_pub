@@ -1,0 +1,626 @@
+[
+  {
+    "id": "01380",
+    "pdm": "PORTA-PESO CONE"
+  },
+  {
+    "id": "01476",
+    "pdm": "DETECTOR METAIS"
+  },
+  {
+    "id": "01477",
+    "pdm": "FITA SINALIZAÇÃO"
+  },
+  {
+    "id": "01492",
+    "pdm": "CONE SINALIZAÇÃO"
+  },
+  {
+    "id": "01493",
+    "pdm": "POSTE FIXAÇÃO PLACA"
+  },
+  {
+    "id": "01494",
+    "pdm": "CIGARRA"
+  },
+  {
+    "id": "01495",
+    "pdm": "SENSOR MOVIMENTO"
+  },
+  {
+    "id": "01497",
+    "pdm": "CAVALETE SINALIZAÇÃO"
+  },
+  {
+    "id": "01505",
+    "pdm": "PLACA SINALIZADORA"
+  },
+  {
+    "id": "01506",
+    "pdm": "ALARME SONORO CONTRA-INCÊNDIO"
+  },
+  {
+    "id": "01507",
+    "pdm": "SINALIZADOR OBRA"
+  },
+  {
+    "id": "01518",
+    "pdm": "HOLOGRAMA SEGURANÇA"
+  },
+  {
+    "id": "01519",
+    "pdm": "DETECTOR FUMAÇA"
+  },
+  {
+    "id": "01520",
+    "pdm": "DETECTOR TÉRMICO"
+  },
+  {
+    "id": "01531",
+    "pdm": "SENSOR INFRAVERMELHO"
+  },
+  {
+    "id": "01532",
+    "pdm": "PAINEL ALARME"
+  },
+  {
+    "id": "01556",
+    "pdm": "BÓIA AMARRAÇÃO"
+  },
+  {
+    "id": "01557",
+    "pdm": "LANTERNA BALISAMENTO MARÍTIMO"
+  },
+  {
+    "id": "01558",
+    "pdm": "AUTOMATIZADOR PORTÃO"
+  },
+  {
+    "id": "01559",
+    "pdm": "CANCELA AUTOMÁTICA"
+  },
+  {
+    "id": "01560",
+    "pdm": "CAMPAINHA SEM FIO"
+  },
+  {
+    "id": "01561",
+    "pdm": "DETECTOR GÁS"
+  },
+  {
+    "id": "01562",
+    "pdm": "DETECTOR ÓPTICO"
+  },
+  {
+    "id": "01583",
+    "pdm": "AUTOMATIZADOR PORTA SOCIAL"
+  },
+  {
+    "id": "01584",
+    "pdm": "CAMPAINHA ELÉTRICA"
+  },
+  {
+    "id": "01585",
+    "pdm": "DETECTOR CHAMAS"
+  },
+  {
+    "id": "01586",
+    "pdm": "PORTA GIRATÓRIA"
+  },
+  {
+    "id": "01587",
+    "pdm": "PORTAL DETECTOR METAL"
+  },
+  {
+    "id": "01588",
+    "pdm": "RELÓGIO SINALEIRO DIGITAL"
+  },
+  {
+    "id": "01700",
+    "pdm": "ACESSORIO DE SINALEIRA DE FERROVIA"
+  },
+  {
+    "id": "02044",
+    "pdm": "ACIONADOR / JOYSTICK"
+  },
+  {
+    "id": "02219",
+    "pdm": "ALARME DE FUSIVEL QUEIMADO"
+  },
+  {
+    "id": "02220",
+    "pdm": "ALARME DE PRESSAO DE OXIGENIO DE AERONAVE"
+  },
+  {
+    "id": "02221",
+    "pdm": "ALARME DE PRESSAO DO OLEO COMBUSTIVEL DE AERONAVE"
+  },
+  {
+    "id": "02222",
+    "pdm": "ALARME DE TREM DE POUSO"
+  },
+  {
+    "id": "02223",
+    "pdm": "ALARME MANUAL CONTRA GAS"
+  },
+  {
+    "id": "02226",
+    "pdm": "ALARME SONORO CONTRA INTRUSAO PREDIAL"
+  },
+  {
+    "id": "02228",
+    "pdm": "ALARME TIPO SIRENE INTERMITENTE"
+  },
+  {
+    "id": "02429",
+    "pdm": "AMORTECEDOR - ESTACIONAMENTO"
+  },
+  {
+    "id": "02627",
+    "pdm": "ANUNCIADORES DE ALARME"
+  },
+  {
+    "id": "02754",
+    "pdm": "APARELHO DETECTOR DE ARMA / EXPLOSIVO POR RAIO X"
+  },
+  {
+    "id": "02755",
+    "pdm": "APARELHO DETECTOR DE ARMA E EXPLOSIVO POR EMANACAO DE VAPOR - TIPO MALETA"
+  },
+  {
+    "id": "02756",
+    "pdm": "APARELHO DETECTOR DE EXPLOSIVO POR EMANACAO DE GAS"
+  },
+  {
+    "id": "03162",
+    "pdm": "AVISO DE ATERRAGEM"
+  },
+  {
+    "id": "03291",
+    "pdm": "BANDEIRA DE SINALIZACAO DE CODIGO INTERNACIONAL"
+  },
+  {
+    "id": "03293",
+    "pdm": "BANDEIRA DE SINALIZACAO METEOROLOGICA"
+  },
+  {
+    "id": "03569",
+    "pdm": "BIRUTA"
+  },
+  {
+    "id": "03658",
+    "pdm": "BOIA DE SINALIZACAO"
+  },
+  {
+    "id": "03659",
+    "pdm": "BÓIA SINALIZAÇÃO LUMINOSA"
+  },
+  {
+    "id": "03972",
+    "pdm": "BUZINA"
+  },
+  {
+    "id": "03975",
+    "pdm": "BUZINA DE VEICULO"
+  },
+  {
+    "id": "03976",
+    "pdm": "BUZINA ELÉTRICA DE VEÍCULO"
+  },
+  {
+    "id": "03977",
+    "pdm": "BUZINA MULTIAPLICAÇÃO"
+  },
+  {
+    "id": "04124",
+    "pdm": "CAIXA COMANDO SINALEIRA"
+  },
+  {
+    "id": "04383",
+    "pdm": "CAMPAINHA ELETRICA INDUSTRIAL"
+  },
+  {
+    "id": "04384",
+    "pdm": "CAMPAINHA MANUAL"
+  },
+  {
+    "id": "04395",
+    "pdm": "CANCELA FERROVIÁRIA"
+  },
+  {
+    "id": "05041",
+    "pdm": "CIRCUITO FECHADO TELEVISÃO"
+  },
+  {
+    "id": "05453",
+    "pdm": "COMPONENTE MECANICO - APARELHO DETECTOR DE METAL TIPO MALETA"
+  },
+  {
+    "id": "05455",
+    "pdm": "COMPONENTE MECANICO"
+  },
+  {
+    "id": "05456",
+    "pdm": "COMPONENTE MECANICO - APARELHO DETECTOR DE EXPLOSIVO POR EMANACAO DE GAS"
+  },
+  {
+    "id": "05458",
+    "pdm": "COMPONENTE MECANICO DE APARELHO DETECTOR DE ARMA / EXPLOSIVO POR RAIO X"
+  },
+  {
+    "id": "05697",
+    "pdm": "CONJUNTO ALARME CONTRA INTRUSÃO"
+  },
+  {
+    "id": "05816",
+    "pdm": "CONTROLADOR ELETRONICO DE TRAFEGO ( ONDA VERDE )"
+  },
+  {
+    "id": "05820",
+    "pdm": "CONTROLE DE ALARME DE AERONAVE"
+  },
+  {
+    "id": "05880",
+    "pdm": "CORNETA PNEUMATICA PARA NEVOEIRO"
+  },
+  {
+    "id": "06054",
+    "pdm": "DELIMITADOR TRÁFEGO"
+  },
+  {
+    "id": "06126",
+    "pdm": "DETECTOR DE DESCARRILHAMENTO"
+  },
+  {
+    "id": "06127",
+    "pdm": "DETECTOR GÁS COMBUSTÍVEL"
+  },
+  {
+    "id": "06131",
+    "pdm": "DETECTOR MEDIDOR OXIGÊNIO"
+  },
+  {
+    "id": "06133",
+    "pdm": "DETECTOR ESPECTROSCOPIA"
+  },
+  {
+    "id": "06299",
+    "pdm": "DISPOSITIVO ACIONAMENTO ALARME"
+  },
+  {
+    "id": "06655",
+    "pdm": "CONJUNTO CONTROLE ACESSO ÁREA RESTRITA"
+  },
+  {
+    "id": "06658",
+    "pdm": "SISTEMA ALARME GÁS"
+  },
+  {
+    "id": "06659",
+    "pdm": "EQUIPAMENTO DE ALARME SONORO CONTRA INCENDIO"
+  },
+  {
+    "id": "06778",
+    "pdm": "EQUIPAMENTO ELETRONICO DE COLETA DE PONTO ( FREQUENCIA )"
+  },
+  {
+    "id": "06781",
+    "pdm": "EQUIPAMENTO ELETRÔNICO INTEGRADO DE SEGURANÇA"
+  },
+  {
+    "id": "07010",
+    "pdm": "ESPELHO DE SINALIZACAO DE SEGURANCA"
+  },
+  {
+    "id": "07114",
+    "pdm": "ESTEIRA PREGO"
+  },
+  {
+    "id": "07225",
+    "pdm": "ETIQUETA PROTETORA ELETROMAGNÉTICA"
+  },
+  {
+    "id": "07307",
+    "pdm": "FAROL DE EMBARCACAO"
+  },
+  {
+    "id": "07326",
+    "pdm": "FECHADURA ELÉTRICA"
+  },
+  {
+    "id": "07327",
+    "pdm": "FECHADURA ELETROMAGNÉTICA"
+  },
+  {
+    "id": "07685",
+    "pdm": "FOGUETE DE SINALIZACAO COM ACIONAMENTO MANUAL"
+  },
+  {
+    "id": "08338",
+    "pdm": "INDICADOR DE ANGULO DE LEME DE EMBARCACAO"
+  },
+  {
+    "id": "08345",
+    "pdm": "INDICADOR DE POSICAO DE MASTRO DE EMBARCACAO"
+  },
+  {
+    "id": "08714",
+    "pdm": "LANTERNA SINALIZACAO - TRAFEGO AEREO"
+  },
+  {
+    "id": "08761",
+    "pdm": "LEITORA DE CARTÃO PARA VIA DE ACESSO"
+  },
+  {
+    "id": "09879",
+    "pdm": "MONITOR SISTEMA SEGURANÇA"
+  },
+  {
+    "id": 10288,
+    "pdm": "PAINEL DE ALARME DE EMBARCACAO"
+  },
+  {
+    "id": 10540,
+    "pdm": "PECA MECANICA APARELHO DETECTOR METAL - MANUAL"
+  },
+  {
+    "id": 10559,
+    "pdm": "PEÇA/ACESSÓRIO - PORTÃO AUTOMÁTICO"
+  },
+  {
+    "id": 10777,
+    "pdm": "PISCA - PISCA DE SINALIZACAO DE TRANSITO"
+  },
+  {
+    "id": 10794,
+    "pdm": "PISTOLA DE SINALIZACAO"
+  },
+  {
+    "id": 11099,
+    "pdm": "PORTEIRO ELETRÔNICO"
+  },
+  {
+    "id": 11436,
+    "pdm": "REATOR DE SINALIZADOR DE ESTRADA"
+  },
+  {
+    "id": 11528,
+    "pdm": "REFLETOR SINALIZADOR DE ESTRADA"
+  },
+  {
+    "id": 11545,
+    "pdm": "REGISTRADOR AUTOMATICO DE TRAFEGO DE VEICULO"
+  },
+  {
+    "id": 12014,
+    "pdm": "SENSOR SISTEMA SEGURANÇA"
+  },
+  {
+    "id": 12015,
+    "pdm": "PANORIZADOR"
+  },
+  {
+    "id": 12076,
+    "pdm": "SINALEIRA DE BLOQUEIO"
+  },
+  {
+    "id": 12077,
+    "pdm": "COMPONENTES SINALEIRA TRÂNSITO VEÍCULO / PEDESTRE"
+  },
+  {
+    "id": 12078,
+    "pdm": "MICROESFERA DE VIDRO PARA REFLETORIZAÇÃO"
+  },
+  {
+    "id": 12079,
+    "pdm": "SINALEIRA FERROVIARIA"
+  },
+  {
+    "id": 12081,
+    "pdm": "FAIXA REFLETIVA VEÍCULO"
+  },
+  {
+    "id": 12084,
+    "pdm": "SINALIZADOR PIROTÉCNICO"
+  },
+  {
+    "id": 12091,
+    "pdm": "SINO PARA ALARME / SINALIZACAO"
+  },
+  {
+    "id": 12097,
+    "pdm": "SIRENE DE NEVOEIRO"
+  },
+  {
+    "id": 12098,
+    "pdm": "SIRENE MULTIAPLICAÇÃO"
+  },
+  {
+    "id": 12105,
+    "pdm": "SISTEMA CONTROLE ACESSO"
+  },
+  {
+    "id": 12106,
+    "pdm": "SISTEMA DE ALARME DE ALTITUDE DE AERONAVE"
+  },
+  {
+    "id": 12121,
+    "pdm": "SISTEMA ILUMINAÇÃO"
+  },
+  {
+    "id": 12149,
+    "pdm": "SISTEMA INTEGRADO DE SEGURANCA INDUSTRIAL"
+  },
+  {
+    "id": 12157,
+    "pdm": "SISTEMA PARA ELETRIFICACAO DE CARGA"
+  },
+  {
+    "id": 12162,
+    "pdm": "SISTEMA RONDA ELETRONICA"
+  },
+  {
+    "id": 12163,
+    "pdm": "SISTEMA SUPERVISÃO PREDIAL E SEGURANÇA PATRIMONIAL"
+  },
+  {
+    "id": 12649,
+    "pdm": "CARTÃO CONTROLE ACESSO"
+  },
+  {
+    "id": 12728,
+    "pdm": "TIMPANO DE MESA"
+  },
+  {
+    "id": 13553,
+    "pdm": "SISTEMA SONORIZAÇÃO"
+  },
+  {
+    "id": 13555,
+    "pdm": "EQUIPAMENTO DE DETECCAO DE GAS"
+  },
+  {
+    "id": 13690,
+    "pdm": "CONTROLADOR PASSAGEM NÍVEL"
+  },
+  {
+    "id": 13691,
+    "pdm": "CONTROLADOR SEMAFÓRICO"
+  },
+  {
+    "id": 13697,
+    "pdm": "RADAR MÓVEL"
+  },
+  {
+    "id": 14053,
+    "pdm": "FITA RETROREFLETIVA"
+  },
+  {
+    "id": 15233,
+    "pdm": "SINALIZADOR AUTOMOTIVO"
+  },
+  {
+    "id": 15343,
+    "pdm": "LENTE CIRCUITO FECHADO TELEVISÃO"
+  },
+  {
+    "id": 15372,
+    "pdm": "GRAVADOR LEITOR DE TARJA MAGNÉTICA EM CARTÕES"
+  },
+  {
+    "id": 15386,
+    "pdm": "LEITORA CAÇA-CRACHÁ"
+  },
+  {
+    "id": 15456,
+    "pdm": "DISCO RELÓGIO VIGIA"
+  },
+  {
+    "id": 15567,
+    "pdm": "MESA CONTROLADORA DE CÂMERA"
+  },
+  {
+    "id": 15662,
+    "pdm": "SINALIZADOR SEGURANÇA"
+  },
+  {
+    "id": 16121,
+    "pdm": "SISTEMA CIRCUITO FECHADO TV"
+  },
+  {
+    "id": 16122,
+    "pdm": "REDE CONTROLE ACESSO"
+  },
+  {
+    "id": 16123,
+    "pdm": "LEITORA CARTÃO PROXIMIDADE"
+  },
+  {
+    "id": 16124,
+    "pdm": "CARTÃO PROXIMIDADE VEÍCULO ATIVO"
+  },
+  {
+    "id": 16169,
+    "pdm": "GERENCIADOR IMAGEM"
+  },
+  {
+    "id": 16193,
+    "pdm": "DETECTOR VEÍCULO"
+  },
+  {
+    "id": 16205,
+    "pdm": "BUCHA FIXAÇÃO ACESSÓRIO"
+  },
+  {
+    "id": 16388,
+    "pdm": "CENTRAL MONITORAMENTO"
+  },
+  {
+    "id": 16532,
+    "pdm": "RECEPTOR PARA CÂMERA VIGILANCIA"
+  },
+  {
+    "id": 16579,
+    "pdm": "ACESSÓRIO SINALIZADOR AUTOMOTIVO"
+  },
+  {
+    "id": 17116,
+    "pdm": "SISTEMA DE SINALIZAÇÃO DE TRÁFEGO E TRÂNSITO"
+  },
+  {
+    "id": 17117,
+    "pdm": "SISTEMAS DE SINALIZAÇÃO E ALARME DE EMBARCAÇÕES"
+  },
+  {
+    "id": 17118,
+    "pdm": "SISTEMAS DE SINALIZAÇÃO E ALARME PARA FERROVIAS"
+  },
+  {
+    "id": 17119,
+    "pdm": "SISTEMAS DE SINALIZAÇÃO E ALARME PARA AERONAVES"
+  },
+  {
+    "id": 17120,
+    "pdm": "DETECTOR ELETROMAGNÉTICO"
+  },
+  {
+    "id": 17395,
+    "pdm": "SINALIZADOR TRÂNSITO"
+  },
+  {
+    "id": 17499,
+    "pdm": "MARTELO - QUEBRA VIDRO"
+  },
+  {
+    "id": 17740,
+    "pdm": "IDENTIFICADOR BIOMÉTRICO DIGITAL"
+  },
+  {
+    "id": 17745,
+    "pdm": "SISTEMA DE IDENTIFICAÇÃO DE IMPRESSÕES DIGITAIS"
+  },
+  {
+    "id": 17819,
+    "pdm": "ACESSÓRIO SIRENE"
+  },
+  {
+    "id": 18261,
+    "pdm": "SISTEMA SEGURANÇA"
+  },
+  {
+    "id": 18262,
+    "pdm": "CONTROLADOR DE CÂMERA"
+  },
+  {
+    "id": 18263,
+    "pdm": "DETECTOR ELETRONICO"
+  },
+  {
+    "id": 18318,
+    "pdm": "FECHADURA BIOMETRICA"
+  },
+  {
+    "id": 18319,
+    "pdm": "FECHADURA DIGITAL"
+  }
+]
