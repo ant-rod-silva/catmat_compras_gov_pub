@@ -1,0 +1,1522 @@
+[
+  {
+    "id": "00229",
+    "pdm": "MODULADOR DEMODULADOR",
+    "grupo": 58
+  },
+  {
+    "id": "00293",
+    "pdm": "GRAVADOR SOM",
+    "grupo": 58
+  },
+  {
+    "id": "01166",
+    "pdm": "IDENTIFICADOR CHAMADAS TELEFÔNICAS",
+    "grupo": 58
+  },
+  {
+    "id": "01168",
+    "pdm": "FITA IMPRESSÃO TELEX",
+    "grupo": 58
+  },
+  {
+    "id": "01171",
+    "pdm": "TELEIMPRESSORA",
+    "grupo": 58
+  },
+  {
+    "id": "01172",
+    "pdm": "RÁDIO TRANSCEPTOR",
+    "grupo": 58
+  },
+  {
+    "id": "01174",
+    "pdm": "APARELHO TELEFÔNICO SEM FIO",
+    "grupo": 58
+  },
+  {
+    "id": "01185",
+    "pdm": "SISTEMA COMUNICAÇÃO MÓVEL",
+    "grupo": 58
+  },
+  {
+    "id": "01243",
+    "pdm": "APARELHO TELEFÔNICO CELULAR",
+    "grupo": 58
+  },
+  {
+    "id": "01244",
+    "pdm": "APARELHO TELEFÔNICO CONVENCIONAL",
+    "grupo": 58
+  },
+  {
+    "id": "01245",
+    "pdm": "APARELHO TELEFÔNICO DIGITAL",
+    "grupo": 58
+  },
+  {
+    "id": "01246",
+    "pdm": "SONDA SUBMARINA",
+    "grupo": 58
+  },
+  {
+    "id": "01247",
+    "pdm": "SONAR",
+    "grupo": 58
+  },
+  {
+    "id": "01270",
+    "pdm": "ANTENA SISTEMA MICROONDAS",
+    "grupo": 58
+  },
+  {
+    "id": "01271",
+    "pdm": "SISTEMA MICROONDAS",
+    "grupo": 58
+  },
+  {
+    "id": "01274",
+    "pdm": "ANALISADOR PROTOCOLO",
+    "grupo": 58
+  },
+  {
+    "id": "01279",
+    "pdm": "EQUALIZADOR SOM",
+    "grupo": 58
+  },
+  {
+    "id": "01280",
+    "pdm": "AMPLIFICADOR SOM",
+    "grupo": 58
+  },
+  {
+    "id": "01286",
+    "pdm": "MISTURADOR ÁUDIO / VÍDEO",
+    "grupo": 58
+  },
+  {
+    "id": "01307",
+    "pdm": "GRAVADOR/REPRODUTOR",
+    "grupo": 58
+  },
+  {
+    "id": "01317",
+    "pdm": "TELEFONE COMUNICAÇÃO SATÉLITE",
+    "grupo": 58
+  },
+  {
+    "id": "01381",
+    "pdm": "TRANSCEPTOR",
+    "grupo": 58
+  },
+  {
+    "id": "01382",
+    "pdm": "RADAR",
+    "grupo": 58
+  },
+  {
+    "id": "01667",
+    "pdm": "ACESSORIO DE ANTENA DE ONDA LONGA MEDIA E CURTA",
+    "grupo": 58
+  },
+  {
+    "id": "01669",
+    "pdm": "ACESSORIO DE APARELHO DE CRIPTOLOGIA",
+    "grupo": 58
+  },
+  {
+    "id": "01701",
+    "pdm": "ACESSORIO DE SISTEMA DE DOCAGEM DE AERONAVE",
+    "grupo": 58
+  },
+  {
+    "id": "01713",
+    "pdm": "ACESSÓRIO PARA CENTRAL TELEFÔNICA PRIVADA",
+    "grupo": 58
+  },
+  {
+    "id": "02095",
+    "pdm": "ADAPTADOR PARA GRAVADOR SONORO",
+    "grupo": 58
+  },
+  {
+    "id": "02183",
+    "pdm": "AGULHA EQUIPAMENTO FONOGRÁFICO",
+    "grupo": 58
+  },
+  {
+    "id": "02446",
+    "pdm": "AMPLIFICADOR DE ÁUDIO",
+    "grupo": 58
+  },
+  {
+    "id": "02447",
+    "pdm": "AMPLIFICADOR DE AUDIO / FREQUENCIA DE AERONAVE",
+    "grupo": 58
+  },
+  {
+    "id": "02448",
+    "pdm": "AMPLIFICADOR POTÊNCIA",
+    "grupo": 58
+  },
+  {
+    "id": "02449",
+    "pdm": "AMPLIFICADOR FONE OUVIDO",
+    "grupo": 58
+  },
+  {
+    "id": "02450",
+    "pdm": "AMPLIFICADOR DE SINAL TELEFONICO ( COBERTURA )",
+    "grupo": 58
+  },
+  {
+    "id": "02451",
+    "pdm": "AMPLIFICADOR DE SINAL TELEFONICO",
+    "grupo": 58
+  },
+  {
+    "id": "02453",
+    "pdm": "AMPLIFICADOR DE VIDEO",
+    "grupo": 58
+  },
+  {
+    "id": "02454",
+    "pdm": "AMPLIFICADOR DISTRIBUIDOR DE VIDEO",
+    "grupo": 58
+  },
+  {
+    "id": "02537",
+    "pdm": "ANTENA DE AERONAVE",
+    "grupo": 58
+  },
+  {
+    "id": "02641",
+    "pdm": "APARELHO / SISTEMA DE RADIO CHAMADA ( BIP )",
+    "grupo": 58
+  },
+  {
+    "id": "02683",
+    "pdm": "ROLO PRESSOR",
+    "grupo": 58
+  },
+  {
+    "id": "02686",
+    "pdm": "APARELHO DE CRIPTOLOGIA",
+    "grupo": 58
+  },
+  {
+    "id": "02687",
+    "pdm": "APARELHO DE CRIPTOTECNICA",
+    "grupo": 58
+  },
+  {
+    "id": "02726",
+    "pdm": "APARELHO DE OBSERVACAO NOTURNA",
+    "grupo": 58
+  },
+  {
+    "id": "02751",
+    "pdm": "APARELHO DE VISADA ( NOTURNO)",
+    "grupo": 58
+  },
+  {
+    "id": "02875",
+    "pdm": "APARELHO TELEFÔNICO",
+    "grupo": 58
+  },
+  {
+    "id": "02876",
+    "pdm": "APARELHO TELEFONICO - CIFRACAO DE VOZ",
+    "grupo": 58
+  },
+  {
+    "id": "02877",
+    "pdm": "APARELHO TELEFONICO FIXO/MOVEL - SATELITE",
+    "grupo": 58
+  },
+  {
+    "id": "02878",
+    "pdm": "APARELHO TELEFONICO MAGNETICO",
+    "grupo": 58
+  },
+  {
+    "id": "02879",
+    "pdm": "APARELHO TELEFÔNICO PARA DEFICIENTE AUDITIVO",
+    "grupo": 58
+  },
+  {
+    "id": "03137",
+    "pdm": "AUTOCOMUTADOR ELETRONICO DE TRANSITO PARA TELECOMUNICACAO",
+    "grupo": 58
+  },
+  {
+    "id": "03555",
+    "pdm": "BILHETADORA",
+    "grupo": 58
+  },
+  {
+    "id": "03602",
+    "pdm": "BLOCO CONECTOR",
+    "grupo": 58
+  },
+  {
+    "id": "03614",
+    "pdm": "BLOCO DE PROTEÇÃO PARA TELEFONIA",
+    "grupo": 58
+  },
+  {
+    "id": "03629",
+    "pdm": "BLOQUEADOR CHAMADA DE SEGURANÇA",
+    "grupo": 58
+  },
+  {
+    "id": "03630",
+    "pdm": "BLOQUEADOR DE CHAMADAS TELEFÔNICAS",
+    "grupo": 58
+  },
+  {
+    "id": "03660",
+    "pdm": "BÓIA SINALIZAÇÃO SONORA",
+    "grupo": 58
+  },
+  {
+    "id": "04002",
+    "pdm": "CABINE TELEFONICA PORTATIL",
+    "grupo": 58
+  },
+  {
+    "id": "04111",
+    "pdm": "CAIXA ACÚSTICA",
+    "grupo": 58
+  },
+  {
+    "id": "04321",
+    "pdm": "CAMUFLADOR MINI DOME",
+    "grupo": 58
+  },
+  {
+    "id": "04385",
+    "pdm": "CAMPAINHA TELEFÔNICA",
+    "grupo": 58
+  },
+  {
+    "id": "04443",
+    "pdm": "CAPA APARELHO TELEFÔNICO CELULAR",
+    "grupo": 58
+  },
+  {
+    "id": "04451",
+    "pdm": "CAPA CÂMARA VÍDEO",
+    "grupo": 58
+  },
+  {
+    "id": "04494",
+    "pdm": "CAPSULA DE TOCA - DISCO",
+    "grupo": 58
+  },
+  {
+    "id": "04500",
+    "pdm": "CÁPSULA TELEFONE",
+    "grupo": 58
+  },
+  {
+    "id": "04532",
+    "pdm": "CARCACA DE APARELHO TELEFONICO",
+    "grupo": 58
+  },
+  {
+    "id": "04653",
+    "pdm": "CARTAO DE SISTEMA TELEFONICO",
+    "grupo": 58
+  },
+  {
+    "id": "04744",
+    "pdm": "CENTRAL COMUTADORA TELEX PRIVADA",
+    "grupo": 58
+  },
+  {
+    "id": "04745",
+    "pdm": "CENTRAL DE COMUTACAO TELEFONICA",
+    "grupo": 58
+  },
+  {
+    "id": "04746",
+    "pdm": "CENTRAL DISCAGEM DIRETA",
+    "grupo": 58
+  },
+  {
+    "id": "04751",
+    "pdm": "CENTRAL PRIVADA COMUTAÇÃO TELEFÔNICA / RÁDIO",
+    "grupo": 58
+  },
+  {
+    "id": "04752",
+    "pdm": "CENTRAL TELEFÔNICA - COMPONENTE / ACESSÓRIO",
+    "grupo": 58
+  },
+  {
+    "id": "04753",
+    "pdm": "CENTRAL TELEFONICA COMUNITARIA RURAL",
+    "grupo": 58
+  },
+  {
+    "id": "04754",
+    "pdm": "CENTRAL TELEFÔNICA ANALÓGICA DIGITAL",
+    "grupo": 58
+  },
+  {
+    "id": "04919",
+    "pdm": "CHAVE PARA COMUTACAO TELEFONICA",
+    "grupo": 58
+  },
+  {
+    "id": "05300",
+    "pdm": "CODIFICADOR DE AUDIO FREQUENCIA",
+    "grupo": 58
+  },
+  {
+    "id": "05391",
+    "pdm": "COMPARADOR SINAL",
+    "grupo": 58
+  },
+  {
+    "id": "05410",
+    "pdm": "COMPONENTE DE APARELHO DE CRIPTOLOGIA",
+    "grupo": 58
+  },
+  {
+    "id": "05417",
+    "pdm": "COMPONENTE DE REPETIDOR TELEFONICO E TELEGRAFICO",
+    "grupo": 58
+  },
+  {
+    "id": "05447",
+    "pdm": "COMPONENTE ESPECIFICAMENTE PROJETADO PARA VISAO NOTURNA",
+    "grupo": 58
+  },
+  {
+    "id": "05448",
+    "pdm": "COMPONENTE ESPECIFICO - EQUIPAMENTO DE CONTRA - MEDIDA ELETRONICA",
+    "grupo": 58
+  },
+  {
+    "id": "05449",
+    "pdm": "COMPONENTE ESPECIFICO DE EQUIPAMENTO DE CONTRA - CONTRA - MEDIDA ELETRONICA",
+    "grupo": 58
+  },
+  {
+    "id": "05569",
+    "pdm": "CONECTOR - TELEFONIA / PAR TRANCADO",
+    "grupo": 58
+  },
+  {
+    "id": "05689",
+    "pdm": "PEÇAS/ACESSÓRIOS - RADIOCOMUNICAÇÃO",
+    "grupo": 58
+  },
+  {
+    "id": "05691",
+    "pdm": "CONJUNTO TELEFONE MÓVEL",
+    "grupo": 58
+  },
+  {
+    "id": "05785",
+    "pdm": "CONTADOR CHAMADA TELEFÔNICA",
+    "grupo": 58
+  },
+  {
+    "id": "05821",
+    "pdm": "CONTROLE DE CODIGO",
+    "grupo": 58
+  },
+  {
+    "id": "05834",
+    "pdm": "CONVERSOR IMAGEM NOTURNA",
+    "grupo": 58
+  },
+  {
+    "id": "05863",
+    "pdm": "CORDÃO TELEFÔNICO",
+    "grupo": 58
+  },
+  {
+    "id": "06045",
+    "pdm": "DECODIFICADOR ÁUDIO FREQUÊNCIA",
+    "grupo": 58
+  },
+  {
+    "id": "06125",
+    "pdm": "DETECTOR DE ALVO ( VISAO NOTURNA )",
+    "grupo": 58
+  },
+  {
+    "id": "06253",
+    "pdm": "DISCO DE APARELHO TELEFONICO",
+    "grupo": 58
+  },
+  {
+    "id": "06271",
+    "pdm": "DISCRIMINADOR DE SINAL",
+    "grupo": 58
+  },
+  {
+    "id": "06311",
+    "pdm": "DISPOSITIVO DE OBSERVACAO",
+    "grupo": 58
+  },
+  {
+    "id": "06312",
+    "pdm": "DISPOSITIVO DE OBSERVACAO NOTURNA POR RADIACAO",
+    "grupo": 58
+  },
+  {
+    "id": "06319",
+    "pdm": "DISPOSITIVO DE VISADA",
+    "grupo": 58
+  },
+  {
+    "id": "06320",
+    "pdm": "DISPOSITIVO DE VISADA PARA VISAO NOTURNA POR RADIACAO EMITIDA E REFLETIDA",
+    "grupo": 58
+  },
+  {
+    "id": "06321",
+    "pdm": "DISPOSITIVO DE VISADA POR RADIACAO",
+    "grupo": 58
+  },
+  {
+    "id": "06356",
+    "pdm": "DISTRIBUIDOR GERAL CENTRAL TELEFÔNICA",
+    "grupo": 58
+  },
+  {
+    "id": "06641",
+    "pdm": "EQUIPAMENTO SIGTOT",
+    "grupo": 58
+  },
+  {
+    "id": "06646",
+    "pdm": "EQUIPAMENTO BLOQUEADOR DE INTERURBANO",
+    "grupo": 58
+  },
+  {
+    "id": "06665",
+    "pdm": "EQUIPAMENTO DE BUSCA PESSOAL",
+    "grupo": 58
+  },
+  {
+    "id": "06671",
+    "pdm": "EQUIPAMENTO DE COMUNICACAO OPTICO",
+    "grupo": 58
+  },
+  {
+    "id": "06672",
+    "pdm": "EQUIPAMENTO DE COMUNICACAO POR LUZ",
+    "grupo": 58
+  },
+  {
+    "id": "06675",
+    "pdm": "EQUIPAMENTO DE CONTRA. CONTRAMEDIDA ELETRONICA",
+    "grupo": 58
+  },
+  {
+    "id": "06676",
+    "pdm": "EQUIPAMENTO DE CONTRAMEDIDA DE RADIO - RADAR",
+    "grupo": 58
+  },
+  {
+    "id": "06682",
+    "pdm": "EQUIPAMENTO DE CRIPTOLOGIA",
+    "grupo": 58
+  },
+  {
+    "id": "06685",
+    "pdm": "EQUIPAMENTO DE DETECCAO DE SOM SUBMARINO",
+    "grupo": 58
+  },
+  {
+    "id": "06702",
+    "pdm": "EQUIPAMENTO DE INTERCOMUNICACAO E AMPLIFICACAO DE VOZ DE AERONAVE",
+    "grupo": 58
+  },
+  {
+    "id": "06703",
+    "pdm": "EQUIPAMENTO DE INTERCOMUNICACAO E AMPLIFICACAO DE VOZ DE CARRO BLINDADO",
+    "grupo": 58
+  },
+  {
+    "id": "06704",
+    "pdm": "EQUIPAMENTO DE INTERCOMUNICACAO E AMPLIFICACAO DE VOZ EXCETO DE AERONAVE",
+    "grupo": 58
+  },
+  {
+    "id": "06714",
+    "pdm": "EQUIPAMENTO DE ORIENTACAO ( RADIOGONIOMETRIA ) DE AERONAVE",
+    "grupo": 58
+  },
+  {
+    "id": "06715",
+    "pdm": "EQUIPAMENTO DE ORIENTACAO / PROTECAO NAVEGACAO EM ONDAS LONGAS MEDIAS E CURTAS",
+    "grupo": 58
+  },
+  {
+    "id": "06716",
+    "pdm": "EQUIPAMENTO DE ORIENTACAO E PROTECAO A NAVEGACAO E VOO EM VHF E UHF",
+    "grupo": 58
+  },
+  {
+    "id": "06728",
+    "pdm": "EQUIPAMENTO DE PROCESSAMENTO DE SINAL DE ÁUDIO",
+    "grupo": 58
+  },
+  {
+    "id": "06732",
+    "pdm": "EQUIPAMENTO RÁDIOCOMUNICACAO EM SHF",
+    "grupo": 58
+  },
+  {
+    "id": "06733",
+    "pdm": "EQUIPAMENTO RÁDIO COMUNICAÇÃO SSB - CW EM HF",
+    "grupo": 58
+  },
+  {
+    "id": "06734",
+    "pdm": "EQUIPAMENTO DE RADIO COMUNICACAO SSB EM HF",
+    "grupo": 58
+  },
+  {
+    "id": "06735",
+    "pdm": "EQUIPAMENTO DE RADIO NAVEGACAO TIPO LORAN EXCETO DE AERONAVE",
+    "grupo": 58
+  },
+  {
+    "id": "06736",
+    "pdm": "EQUIPAMENTO DE RADIO NAVEGACAO TIPO SHORAN DE AERONAVE",
+    "grupo": 58
+  },
+  {
+    "id": "06750",
+    "pdm": "EQUIPAMENTO DE SINALIZACAO PARA TELECOMUNICACAO",
+    "grupo": 58
+  },
+  {
+    "id": "06754",
+    "pdm": "COMPRESSOR",
+    "grupo": 58
+  },
+  {
+    "id": "06758",
+    "pdm": "EQUIPAMENTO DE TELEMEDICAO DE COMUNICACAO DE RADIO E TELEVISAO",
+    "grupo": 58
+  },
+  {
+    "id": "06759",
+    "pdm": "EQUIPAMENTO DE TELEMEDICAO DE RADIOCOMUNICACAO DE AERONAVE",
+    "grupo": 58
+  },
+  {
+    "id": "06760",
+    "pdm": "EQUIPAMENTO DE TELEX",
+    "grupo": 58
+  },
+  {
+    "id": "06772",
+    "pdm": "EQUIPAMENTO DE TROPODIFUSAO",
+    "grupo": 58
+  },
+  {
+    "id": "06797",
+    "pdm": "EQUIPAMENTO INFRAVERMELHO DO TIPO COMUNICACAO HELIOGRAFO",
+    "grupo": 58
+  },
+  {
+    "id": "06803",
+    "pdm": "EQUIPAMENTO PARA COMUNICAÇÃO",
+    "grupo": 58
+  },
+  {
+    "id": "06804",
+    "pdm": "EQUIPAMENTO MULTIPLEX OPTICO",
+    "grupo": 58
+  },
+  {
+    "id": "06816",
+    "pdm": "EQUIPAMENTO PARA CONTRAMEDIDAS ELETRÔNICAS",
+    "grupo": 58
+  },
+  {
+    "id": "06819",
+    "pdm": "EQUIPAMENTO PARA DETECCAO DE SOM",
+    "grupo": 58
+  },
+  {
+    "id": "06842",
+    "pdm": "EQUIPAMENTO PROFISSIONAL DE RADIOCOMUNICACAO EM ONDAS LONGAS MEDIAS E CURTAS",
+    "grupo": 58
+  },
+  {
+    "id": "06843",
+    "pdm": "EQUIPAMENTO PROFISSIONAL RADIOCOMUNICAÇÃO EM VHF",
+    "grupo": 58
+  },
+  {
+    "id": "06846",
+    "pdm": "EQUIPAMENTO RADIOGONIOMETRICO DE RADIONAVEGACAO AEROTRANSPORTAVEL",
+    "grupo": 58
+  },
+  {
+    "id": "06847",
+    "pdm": "EQUIPAMENTO RADIOGONIOMETRICO DE RADIONAVEGACAO EXCETO DE AERONAVE",
+    "grupo": 58
+  },
+  {
+    "id": "06849",
+    "pdm": "EQUIPAMENTO RECEPCAO SINAL DE TV - VIA SATELITE",
+    "grupo": 58
+  },
+  {
+    "id": "06851",
+    "pdm": "EQUIPAMENTO RETRANSMISSOR DE TV",
+    "grupo": 58
+  },
+  {
+    "id": "06856",
+    "pdm": "EQUIPAMENTO TELEFÔNICO",
+    "grupo": 58
+  },
+  {
+    "id": "06857",
+    "pdm": "EQUIPAMENTO TRANSCEPTOR POR FIBRA OPTICA",
+    "grupo": 58
+  },
+  {
+    "id": "07082",
+    "pdm": "ESTAÇÃO NÃO LINEAR",
+    "grupo": 58
+  },
+  {
+    "id": "07275",
+    "pdm": "APARELHO FAC-SÍMILE",
+    "grupo": 58
+  },
+  {
+    "id": "07372",
+    "pdm": "FERRAGEM DE ACO ZINCADO PARA REDE TELEFONICA",
+    "grupo": 58
+  },
+  {
+    "id": "07567",
+    "pdm": "FITA DE GRAVACAO DE TELETIPO",
+    "grupo": 58
+  },
+  {
+    "id": "07581",
+    "pdm": "FITA GRAVACAO ANALOGICA",
+    "grupo": 58
+  },
+  {
+    "id": "07583",
+    "pdm": "FITA GRAVAÇÃO DIGITAL",
+    "grupo": 58
+  },
+  {
+    "id": "07596",
+    "pdm": "FITA LIMPEZA CAMARA VIDEO / CABECOTE VIDEO",
+    "grupo": 58
+  },
+  {
+    "id": "07713",
+    "pdm": "FONTE DE ENERGIA - APARELHO DE VISAO NOTURNA",
+    "grupo": 58
+  },
+  {
+    "id": "07714",
+    "pdm": "FONTE DE ENERGIA - EQUIPAMENTO DE TELECOMUNICACAO",
+    "grupo": 58
+  },
+  {
+    "id": "07718",
+    "pdm": "FONTE DE RADIACAO ASSOCIADA",
+    "grupo": 58
+  },
+  {
+    "id": "07719",
+    "pdm": "FONTE LUZ",
+    "grupo": 58
+  },
+  {
+    "id": "07720",
+    "pdm": "FONTE LUZ ACELERADORA - REVELACAO IMPRESSOES PAPILARES",
+    "grupo": 58
+  },
+  {
+    "id": "08090",
+    "pdm": "GRAVADOR DE DISCO E DE FITA",
+    "grupo": 58
+  },
+  {
+    "id": "08093",
+    "pdm": "GRAVADOR E REPRODUTOR DE SOM",
+    "grupo": 58
+  },
+  {
+    "id": "08339",
+    "pdm": "INDICADOR DE CODIGO COMUNICACAO",
+    "grupo": 58
+  },
+  {
+    "id": "08433",
+    "pdm": "INTERCOMUNICADOR COM FIO",
+    "grupo": 58
+  },
+  {
+    "id": "08434",
+    "pdm": "INTERCOMUNICADOR SEM FIO",
+    "grupo": 58
+  },
+  {
+    "id": "08439",
+    "pdm": "INTERFONE",
+    "grupo": 58
+  },
+  {
+    "id": "08440",
+    "pdm": "INTERFONE TIPO TELESPEAKER",
+    "grupo": 58
+  },
+  {
+    "id": "08461",
+    "pdm": "INVERSOR PARA TELECOMUNICACAO",
+    "grupo": 58
+  },
+  {
+    "id": "08537",
+    "pdm": "JOGO DE CABO ELETRICO DE TELEFONE",
+    "grupo": 58
+  },
+  {
+    "id": "08683",
+    "pdm": "LANCADOR DE BOIA DE SOM",
+    "grupo": 58
+  },
+  {
+    "id": "08764",
+    "pdm": "LEITORA DE FITA PERFURADA",
+    "grupo": 58
+  },
+  {
+    "id": "08898",
+    "pdm": "LOCALIZADOR DE ALVO",
+    "grupo": 58
+  },
+  {
+    "id": "08899",
+    "pdm": "LOCALIZADOR RADIACAO PROJETADA POR FONTE PROXIMA DE RAIO INFRAVERMELHO",
+    "grupo": 58
+  },
+  {
+    "id": "09432",
+    "pdm": "MASTRO TELESCOPICO PARA UHF VHF",
+    "grupo": 58
+  },
+  {
+    "id": "09558",
+    "pdm": "MEDIDOR DE TRAFEGO TELEFONICO E TELEGRAFICO",
+    "grupo": 58
+  },
+  {
+    "id": "09574",
+    "pdm": "MEGAFONE",
+    "grupo": 58
+  },
+  {
+    "id": "09608",
+    "pdm": "MESA ÁUDIO",
+    "grupo": 58
+  },
+  {
+    "id": "09654",
+    "pdm": "MESA PARA TELEFONIA",
+    "grupo": 58
+  },
+  {
+    "id": "09662",
+    "pdm": "MESA TELEFONICA",
+    "grupo": 58
+  },
+  {
+    "id": "09663",
+    "pdm": "MESA TELEGRAFICA",
+    "grupo": 58
+  },
+  {
+    "id": "09797",
+    "pdm": "MISTURADOR DE SINAIS DE MICROFONE ( MISTURADOR DE MICROFONE. MIXER )",
+    "grupo": 58
+  },
+  {
+    "id": "09841",
+    "pdm": "MODULO FOTOVOLTAICO",
+    "grupo": 58
+  },
+  {
+    "id": "09886",
+    "pdm": "MONITOR IMAGEM",
+    "grupo": 58
+  },
+  {
+    "id": "09892",
+    "pdm": "MONOFONE FAX",
+    "grupo": 58
+  },
+  {
+    "id": 10013,
+    "pdm": "MULTIPLEXADOR",
+    "grupo": 58
+  },
+  {
+    "id": 10529,
+    "pdm": "PECA ACABAMENTO SISTEMA DE DOCAGEM - AERONAVE",
+    "grupo": 58
+  },
+  {
+    "id": 10533,
+    "pdm": "PECA DE APARELHO DE CRIPTOLOGIA",
+    "grupo": 58
+  },
+  {
+    "id": 10666,
+    "pdm": "PERFURADOR DE FITA PARA TELETIPO",
+    "grupo": 58
+  },
+  {
+    "id": 11149,
+    "pdm": "PRÉ AMPLIFICADOR",
+    "grupo": 58
+  },
+  {
+    "id": 11307,
+    "pdm": "PROTETOR DE ACRILICO PARA TELEFONE TIPO ORELHAO",
+    "grupo": 58
+  },
+  {
+    "id": 11312,
+    "pdm": "PROTETOR DE FIBRA DE VIDRO ( ORELHAO )",
+    "grupo": 58
+  },
+  {
+    "id": 11395,
+    "pdm": "RADIO DE BOLSO COM FONE DE OUVIDO",
+    "grupo": 58
+  },
+  {
+    "id": 11398,
+    "pdm": "RADIOGONIOMETRO",
+    "grupo": 58
+  },
+  {
+    "id": 11420,
+    "pdm": "RASTREADOR DE SATELITE",
+    "grupo": 58
+  },
+  {
+    "id": 11652,
+    "pdm": "REPETIDOR DE TV",
+    "grupo": 58
+  },
+  {
+    "id": 11654,
+    "pdm": "REPETIDOR TELEFONICO E TELEGRAFICO",
+    "grupo": 58
+  },
+  {
+    "id": 11659,
+    "pdm": "EQUIPAMENTO REPRODUTOR / PROCESSADOR DE SOM",
+    "grupo": 58
+  },
+  {
+    "id": 11731,
+    "pdm": "REVERBERADOR DIGITAL",
+    "grupo": 58
+  },
+  {
+    "id": 11974,
+    "pdm": "SECRETARIA ELETRONICA",
+    "grupo": 58
+  },
+  {
+    "id": 12095,
+    "pdm": "SINTONIZADOR DE SOM",
+    "grupo": 58
+  },
+  {
+    "id": 12104,
+    "pdm": "SISTEMA COMPLETO DE GRAVACAO RECEPCAO E REPRODUCAO DE SOM",
+    "grupo": 58
+  },
+  {
+    "id": 12107,
+    "pdm": "SISTEMA DE ALARME VIA TELEFONE",
+    "grupo": 58
+  },
+  {
+    "id": 12109,
+    "pdm": "SISTEMA DE ALTO - FALANTE",
+    "grupo": 58
+  },
+  {
+    "id": 12111,
+    "pdm": "SISTEMA DE ÁUDIO COMUNICAÇÃO COM/SEM FIO",
+    "grupo": 58
+  },
+  {
+    "id": 12122,
+    "pdm": "SISTEMA DE INTERCOMUNICACAO PARA EMBARCACAO",
+    "grupo": 58
+  },
+  {
+    "id": 12125,
+    "pdm": "SISTEMA DE ONDA PORTADORA EM LINHAS DE ALTA TENSAO",
+    "grupo": 58
+  },
+  {
+    "id": 12127,
+    "pdm": "SISTEMA DE RADAR",
+    "grupo": 58
+  },
+  {
+    "id": 12133,
+    "pdm": "SISTEMA DOCAGEM DE AERONAVE ( SINALIZACAO DE APROXIMACAO / SENSOR DE SOLO )",
+    "grupo": 58
+  },
+  {
+    "id": 12134,
+    "pdm": "SISTEMA EM SHF - MICROONDAS",
+    "grupo": 58
+  },
+  {
+    "id": 12152,
+    "pdm": "SISTEMA MONITORIZACAO REMOTA",
+    "grupo": 58
+  },
+  {
+    "id": 12285,
+    "pdm": "SUBCOMPONENTE DE APARELHO DE CRIPTOLOGIA",
+    "grupo": 58
+  },
+  {
+    "id": 12583,
+    "pdm": "TECLADO PARA APARELHO TELEFONICO",
+    "grupo": 58
+  },
+  {
+    "id": 12584,
+    "pdm": "TECLADO PARA EQUIPAMENTO TELETIPO",
+    "grupo": 58
+  },
+  {
+    "id": 12600,
+    "pdm": "TELE-TIPO",
+    "grupo": 58
+  },
+  {
+    "id": 12602,
+    "pdm": "TELECOMUNICADORA TELEGRAFICA",
+    "grupo": 58
+  },
+  {
+    "id": 12603,
+    "pdm": "TELEIMPRESSORA ELETRONICA PARA MICRO - TELEX",
+    "grupo": 58
+  },
+  {
+    "id": 12797,
+    "pdm": "TOCA DISCO LASER ( COMPACT DISK - CD )",
+    "grupo": 58
+  },
+  {
+    "id": 12866,
+    "pdm": "TRANSCEPTOR DE SOM FSK PARA SISTEMA ONDA PORTADORA",
+    "grupo": 58
+  },
+  {
+    "id": 12867,
+    "pdm": "TRANSCEPTOR PARA SISTEMA SHF",
+    "grupo": 58
+  },
+  {
+    "id": 12906,
+    "pdm": "TRANSMISSOR DE RADAR",
+    "grupo": 58
+  },
+  {
+    "id": 13158,
+    "pdm": "UNIDADE COMPONENTE DE CENTRAL TELEFONICA",
+    "grupo": 58
+  },
+  {
+    "id": 13159,
+    "pdm": "UNIDADE COMPONENTE DE CENTRAL TELEGRAFICA",
+    "grupo": 58
+  },
+  {
+    "id": 13160,
+    "pdm": "PAINEL",
+    "grupo": 58
+  },
+  {
+    "id": 13162,
+    "pdm": "UNIDADE DE APARELHO DE CRIPTOLOGIA",
+    "grupo": 58
+  },
+  {
+    "id": 13191,
+    "pdm": "UNIDADE RETIFICADORA TELEFONICA E TELEGRAFICA",
+    "grupo": 58
+  },
+  {
+    "id": 13192,
+    "pdm": "UNIDADE SUBCOMPONENTE DE CENTRAL TELEFONICA",
+    "grupo": 58
+  },
+  {
+    "id": 13193,
+    "pdm": "UNIDADE SUBCOMPONENTE DE CENTRAL TELEGRAFICA",
+    "grupo": 58
+  },
+  {
+    "id": 13261,
+    "pdm": "VALVULA DE INTENSIFICACAO DE RADIACAO",
+    "grupo": 58
+  },
+  {
+    "id": 13460,
+    "pdm": "VISOR NOTURNO",
+    "grupo": 58
+  },
+  {
+    "id": 13461,
+    "pdm": "VISOR QUE UTILIZA RADIACAO PROJETADA POR FONTE PROXIMA DE RAIO INFRAVERMELHO",
+    "grupo": 58
+  },
+  {
+    "id": 13528,
+    "pdm": "APARELHO TELEFÔNICO CELULAR / ACESSÓRIOS",
+    "grupo": 58
+  },
+  {
+    "id": 13543,
+    "pdm": "COMPONENTE SISTEMA MICROONDAS",
+    "grupo": 58
+  },
+  {
+    "id": 13554,
+    "pdm": "EQUIPAMENTO COMUNICAÇÃO - SATÉLITE",
+    "grupo": 58
+  },
+  {
+    "id": 13557,
+    "pdm": "EQUIPAMENTO DE RADIOCOMUNICACAO CW EM UHF E VHF",
+    "grupo": 58
+  },
+  {
+    "id": 13558,
+    "pdm": "EQUIPAMENTO DE RADIOCOMUNICACAO MULTICANAL EM UHF E VHF",
+    "grupo": 58
+  },
+  {
+    "id": 13838,
+    "pdm": "APARELHO TELEFONISTA",
+    "grupo": 58
+  },
+  {
+    "id": 13868,
+    "pdm": "MÓDULO PERIFÉRICO",
+    "grupo": 58
+  },
+  {
+    "id": 13877,
+    "pdm": "MODEM EXTERNO",
+    "grupo": 58
+  },
+  {
+    "id": 14054,
+    "pdm": "TELEFONE SEM FIO",
+    "grupo": 58
+  },
+  {
+    "id": 14474,
+    "pdm": "PLACA COMUNICAÇÃO RAMAIS TELEFONE",
+    "grupo": 58
+  },
+  {
+    "id": 14479,
+    "pdm": "CONJUNTO CABO TELEFÔNICO",
+    "grupo": 58
+  },
+  {
+    "id": 14499,
+    "pdm": "ADAPTADOR VÍDEOCASSETE",
+    "grupo": 58
+  },
+  {
+    "id": 14530,
+    "pdm": "MINIGRAVADOR ÁUDIO",
+    "grupo": 58
+  },
+  {
+    "id": 14532,
+    "pdm": "TRANSMISSOR",
+    "grupo": 58
+  },
+  {
+    "id": 14535,
+    "pdm": "MICROCÂMERA",
+    "grupo": 58
+  },
+  {
+    "id": 14536,
+    "pdm": "MICRO RECEPTOR OUVIDO",
+    "grupo": 58
+  },
+  {
+    "id": 14537,
+    "pdm": "RASTREADOR",
+    "grupo": 58
+  },
+  {
+    "id": 14538,
+    "pdm": "RECEPTOR / GRAVADOR",
+    "grupo": 58
+  },
+  {
+    "id": 14539,
+    "pdm": "MICRO TRANSMISSOR",
+    "grupo": 58
+  },
+  {
+    "id": 14541,
+    "pdm": "RECEPTOR",
+    "grupo": 58
+  },
+  {
+    "id": 14542,
+    "pdm": "MICRO TRANSMISSOR TELEFÔNICO",
+    "grupo": 58
+  },
+  {
+    "id": 14549,
+    "pdm": "MONÓCULO VISÃO NOTURNA",
+    "grupo": 58
+  },
+  {
+    "id": 14650,
+    "pdm": "CÂMERA VIDEOCONFERÊNCIA",
+    "grupo": 58
+  },
+  {
+    "id": 14703,
+    "pdm": "PLATAFORMA COMUNICAÇÃO TELEFÔNICA",
+    "grupo": 58
+  },
+  {
+    "id": 14704,
+    "pdm": "TELEFONE CABEÇA",
+    "grupo": 58
+  },
+  {
+    "id": 14718,
+    "pdm": "BASTIDOR TELEFÔNICO",
+    "grupo": 58
+  },
+  {
+    "id": 14750,
+    "pdm": "CONECTOR TELEFÔNICO",
+    "grupo": 58
+  },
+  {
+    "id": 14775,
+    "pdm": "MÓDULO CENTRAL TELEFÔNICA",
+    "grupo": 58
+  },
+  {
+    "id": 15000,
+    "pdm": "RETORNO PARA PALCO",
+    "grupo": 58
+  },
+  {
+    "id": 15041,
+    "pdm": "CÂMERA VÍDEO DE SEGURANÇA",
+    "grupo": 58
+  },
+  {
+    "id": 15046,
+    "pdm": "APARELHO AUDIOCONFERÊNCIA",
+    "grupo": 58
+  },
+  {
+    "id": 15200,
+    "pdm": "MINIGRAVADOR SOM",
+    "grupo": 58
+  },
+  {
+    "id": 15275,
+    "pdm": "MOLA",
+    "grupo": 58
+  },
+  {
+    "id": 15289,
+    "pdm": "DISPLAY SISTEMA RÁDIO AERONAVE",
+    "grupo": 58
+  },
+  {
+    "id": 15345,
+    "pdm": "RÁDIO TRANSCEPTOR",
+    "grupo": 58
+  },
+  {
+    "id": 15375,
+    "pdm": "CONJUNTO MALA COMUNICAÇÃO MÓVEL",
+    "grupo": 58
+  },
+  {
+    "id": 15376,
+    "pdm": "TERMINAL COMUNICAÇÃO MÓVEL (MCT)",
+    "grupo": 58
+  },
+  {
+    "id": 15391,
+    "pdm": "DUPLICADORA CD-ROM / DVD",
+    "grupo": 58
+  },
+  {
+    "id": 15542,
+    "pdm": "DIVISOR FREQÜÊNCIA",
+    "grupo": 58
+  },
+  {
+    "id": 15692,
+    "pdm": "CÂMERA VÍDEO",
+    "grupo": 58
+  },
+  {
+    "id": 15722,
+    "pdm": "CÂMERA VÍDEO FALSA",
+    "grupo": 58
+  },
+  {
+    "id": 15773,
+    "pdm": "ESTAÇÃO REPETIDORA",
+    "grupo": 58
+  },
+  {
+    "id": 15826,
+    "pdm": "CAIXA PROTEÇÃO CAMERA",
+    "grupo": 58
+  },
+  {
+    "id": 16115,
+    "pdm": "BUCHA FIXAÇÃO",
+    "grupo": 58
+  },
+  {
+    "id": 16182,
+    "pdm": "MÓDULO DIMMER",
+    "grupo": 58
+  },
+  {
+    "id": 16533,
+    "pdm": "TRANSCEPTOR SISTEMA VIGILANCIA",
+    "grupo": 58
+  },
+  {
+    "id": 16545,
+    "pdm": "BADISCO",
+    "grupo": 58
+  },
+  {
+    "id": 16558,
+    "pdm": "PLACA DE DIGITALIZAÇÃO DE VOZ",
+    "grupo": 58
+  },
+  {
+    "id": 17027,
+    "pdm": "EQUIPAMENTO TELEFÔNICO E TELEGRÁFICO",
+    "grupo": 58
+  },
+  {
+    "id": 17028,
+    "pdm": "EQUIPAMENTO MONITORAÇÃO ESPECTRO",
+    "grupo": 58
+  },
+  {
+    "id": 17029,
+    "pdm": "OUTROS EQUIPAMENTOS CRIPTOLÓGICOS E COMPONENTES",
+    "grupo": 58
+  },
+  {
+    "id": 17030,
+    "pdm": "EQUIPAMENTOS DE TELETIPO E FAC-SÍMILE",
+    "grupo": 58
+  },
+  {
+    "id": 17031,
+    "pdm": "EQUIPAMENTOS PARA COMUNICAÇÃO POR RÁDIO E TELEVISÃO - EXCETO OS DE AERONAVES",
+    "grupo": 58
+  },
+  {
+    "id": 17032,
+    "pdm": "EQUIPAMENTOS PARA COMUNICACÃO POR RÁDIO E TELEVISÃO PARA AERONAVES",
+    "grupo": 58
+  },
+  {
+    "id": 17033,
+    "pdm": "EQUIPAMENTOS DE RADIONAVEGAÇÃO - EXCETO OS DE AERONAVES",
+    "grupo": 58
+  },
+  {
+    "id": 17034,
+    "pdm": "EQUIPAMENTOS PARA RADIONAVEGAÇÃO DE AERONAVES",
+    "grupo": 58
+  },
+  {
+    "id": 17035,
+    "pdm": "SISTEMAS DE INTERCOMUNICAÇÃO E AMPLIFICAÇÃO DE VOZ - EXCETO OS DE AERONAVES",
+    "grupo": 58
+  },
+  {
+    "id": 17036,
+    "pdm": "SISTEMAS PARA INTERCOMUNICAÇÃO E AMPLIFICAÇÃO DE VOZ DE AERONAVES",
+    "grupo": 58
+  },
+  {
+    "id": 17037,
+    "pdm": "REPARO ACESSÓRIOS SOM",
+    "grupo": 58
+  },
+  {
+    "id": 17038,
+    "pdm": "EQUIPAMENTOS PARA GRAVAÇÃO E REPRODUÇÃO DE VÍDEO",
+    "grupo": 58
+  },
+  {
+    "id": 17039,
+    "pdm": "EQUIPAMENTOS DE RADAR - EXCETO OS DE AERONAVES",
+    "grupo": 58
+  },
+  {
+    "id": 17040,
+    "pdm": "EQUIPAMENTOS DE RADAR PARA AERONAVES",
+    "grupo": 58
+  },
+  {
+    "id": 17041,
+    "pdm": "EQUIPAMENTOS SUBMARINO DE SOM",
+    "grupo": 58
+  },
+  {
+    "id": 17042,
+    "pdm": "EQUIPAMENTOS PARA COMUNICAÇÃO COM LUZ VISÍVEL E INVISÍVEL",
+    "grupo": 58
+  },
+  {
+    "id": 17043,
+    "pdm": "EQUIPAMENTOS PARA VISÃO NOTURNA. POR RADIAÇÃO EMITIDA E REFLETIDA",
+    "grupo": 58
+  },
+  {
+    "id": 17044,
+    "pdm": "DISPOSITIVOS DE RADIAÇÃO COERENTE ESTIMULADA. SEUS COMPONENTES E ACESSÓRIOS",
+    "grupo": 58
+  },
+  {
+    "id": 17045,
+    "pdm": "EQUIPAMENTOS PARA CONTRAMEDIDAS ELETRÔNICAS. CONTRA-CONTRA-MEDIDAS E DE CAPACIDADE DE REAÇÃO RÁPIDA",
+    "grupo": 58
+  },
+  {
+    "id": 17046,
+    "pdm": "CONVERSOR PROTOCOLO",
+    "grupo": 58
+  },
+  {
+    "id": 17089,
+    "pdm": "MODULADOR",
+    "grupo": 58
+  },
+  {
+    "id": 17366,
+    "pdm": "RECEPTOR DECODIFICADOR",
+    "grupo": 58
+  },
+  {
+    "id": 17383,
+    "pdm": "APARELHO GRAVADOR",
+    "grupo": 58
+  },
+  {
+    "id": 17418,
+    "pdm": "REPARO CAIXA ACÚSTICA",
+    "grupo": 58
+  },
+  {
+    "id": 17429,
+    "pdm": "PLACA ENTRONCAMENTO",
+    "grupo": 58
+  },
+  {
+    "id": 17485,
+    "pdm": "CHAVE CONECTORA/DESCONECTORA",
+    "grupo": 58
+  },
+  {
+    "id": 17488,
+    "pdm": "CONJUNTO AVALIAÇÃO TRANSMISSÃO RÁDIOFREQÜÊNCIA",
+    "grupo": 58
+  },
+  {
+    "id": 17591,
+    "pdm": "INTERFACE CELULAR",
+    "grupo": 58
+  },
+  {
+    "id": 17741,
+    "pdm": "CRIPTÓGRAFO",
+    "grupo": 58
+  },
+  {
+    "id": 17888,
+    "pdm": "PLACA CENTRAL TELEFÔNICA",
+    "grupo": 58
+  },
+  {
+    "id": 18247,
+    "pdm": "HÍBRIDA TELEFÔNICA",
+    "grupo": 58
+  },
+  {
+    "id": 18514,
+    "pdm": "TRANSCEIVER",
+    "grupo": 58
+  },
+  {
+    "id": 18547,
+    "pdm": "ADAPTADOR TELEFÔNICO",
+    "grupo": 58
+  },
+  {
+    "id": 18593,
+    "pdm": "TELA FILTRO SOM",
+    "grupo": 58
+  },
+  {
+    "id": 18885,
+    "pdm": "TELEPROMPTER",
+    "grupo": 58
+  },
+  {
+    "id": 19248,
+    "pdm": "PROCESSADOR ÁUDIO",
+    "grupo": 58
+  }
+]
