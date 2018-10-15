@@ -1,0 +1,1492 @@
+[
+  {
+    "id": "00536",
+    "pdm": "PARAFUSO CABEÇA QUADRADA",
+    "grupo": 53
+  },
+  {
+    "id": "00550",
+    "pdm": "PARAFUSO AUTO-ATARRAXANTE",
+    "grupo": 53
+  },
+  {
+    "id": "00551",
+    "pdm": "PARAFUSO ROSCA MADEIRA",
+    "grupo": 53
+  },
+  {
+    "id": "00552",
+    "pdm": "ANEL VEDAÇÃO",
+    "grupo": 53
+  },
+  {
+    "id": "00553",
+    "pdm": "ARRUELA VEDAÇÃO",
+    "grupo": 53
+  },
+  {
+    "id": "00554",
+    "pdm": "CADEADO",
+    "grupo": 53
+  },
+  {
+    "id": "00555",
+    "pdm": "CORDÃO VEDAÇÃO",
+    "grupo": 53
+  },
+  {
+    "id": "00556",
+    "pdm": "DOBRADIÇA JANELA",
+    "grupo": 53
+  },
+  {
+    "id": "00557",
+    "pdm": "DOBRADIÇA PORTA",
+    "grupo": 53
+  },
+  {
+    "id": "00558",
+    "pdm": "DOBRADIÇA PORTEIRA",
+    "grupo": 53
+  },
+  {
+    "id": "00559",
+    "pdm": "DOBRADIÇA MÓVEIS",
+    "grupo": 53
+  },
+  {
+    "id": "00560",
+    "pdm": "DOBRADIÇA PORTÃO",
+    "grupo": 53
+  },
+  {
+    "id": "00562",
+    "pdm": "GANCHO REDE",
+    "grupo": 53
+  },
+  {
+    "id": "00563",
+    "pdm": "PORTA-CADEADO",
+    "grupo": 53
+  },
+  {
+    "id": "00564",
+    "pdm": "TARJETA",
+    "grupo": 53
+  },
+  {
+    "id": "00565",
+    "pdm": "ESPELHO FECHADURA",
+    "grupo": 53
+  },
+  {
+    "id": "00566",
+    "pdm": "FECHADURA",
+    "grupo": 53
+  },
+  {
+    "id": "00567",
+    "pdm": "DISCO CORTE",
+    "grupo": 53
+  },
+  {
+    "id": "00568",
+    "pdm": "DISCO DIAMANTADO",
+    "grupo": 53
+  },
+  {
+    "id": "00569",
+    "pdm": "DISCO DESBASTE",
+    "grupo": 53
+  },
+  {
+    "id": "00570",
+    "pdm": "ESCOVA ABRASIVA",
+    "grupo": 53
+  },
+  {
+    "id": "00578",
+    "pdm": "ABRAÇADEIRA",
+    "grupo": 53
+  },
+  {
+    "id": "00579",
+    "pdm": "GAXETA",
+    "grupo": 53
+  },
+  {
+    "id": "00580",
+    "pdm": "TELA METÁLICA",
+    "grupo": 53
+  },
+  {
+    "id": "00581",
+    "pdm": "DISCO ABRASIVO",
+    "grupo": 53
+  },
+  {
+    "id": "00582",
+    "pdm": "PEDRA AFIAR",
+    "grupo": 53
+  },
+  {
+    "id": "00584",
+    "pdm": "REBOLO ABRASIVO",
+    "grupo": 53
+  },
+  {
+    "id": "00585",
+    "pdm": "LIXA",
+    "grupo": 53
+  },
+  {
+    "id": "00602",
+    "pdm": "JUNTA FITA VEDAÇÃO",
+    "grupo": 53
+  },
+  {
+    "id": "00603",
+    "pdm": "JUNTA VEDAÇÃO PLANA",
+    "grupo": 53
+  },
+  {
+    "id": "00604",
+    "pdm": "MOLA HELICOIDAL",
+    "grupo": 53
+  },
+  {
+    "id": "00610",
+    "pdm": "REBITE POP",
+    "grupo": 53
+  },
+  {
+    "id": "00612",
+    "pdm": "ABRAÇADEIRA PARA MANGOTE",
+    "grupo": 53
+  },
+  {
+    "id": "00613",
+    "pdm": "PONTA MONTADA",
+    "grupo": 53
+  },
+  {
+    "id": "00631",
+    "pdm": "PREGO ANELADO",
+    "grupo": 53
+  },
+  {
+    "id": "00632",
+    "pdm": "PREGO ARDOX COM CABEÇA",
+    "grupo": 53
+  },
+  {
+    "id": "00633",
+    "pdm": "PREGO ARDOX SEM CABEÇA",
+    "grupo": 53
+  },
+  {
+    "id": "00634",
+    "pdm": "BUCHA PARAFUSO",
+    "grupo": 53
+  },
+  {
+    "id": "00635",
+    "pdm": "PREGO COM CABEÇA",
+    "grupo": 53
+  },
+  {
+    "id": "00636",
+    "pdm": "PREGO COM CABEÇA DUPLA",
+    "grupo": 53
+  },
+  {
+    "id": "00637",
+    "pdm": "PREGO PARA TACO",
+    "grupo": 53
+  },
+  {
+    "id": "00638",
+    "pdm": "PREGO QUADRADO",
+    "grupo": 53
+  },
+  {
+    "id": "00639",
+    "pdm": "PREGO SEM CABEÇA",
+    "grupo": 53
+  },
+  {
+    "id": "00640",
+    "pdm": "PREGO PARA TELHA",
+    "grupo": 53
+  },
+  {
+    "id": "00641",
+    "pdm": "PREGO VIDRACEIRO",
+    "grupo": 53
+  },
+  {
+    "id": "00642",
+    "pdm": "ARRUELA",
+    "grupo": 53
+  },
+  {
+    "id": "00831",
+    "pdm": "PARAFUSO PRISIONEIRO",
+    "grupo": 53
+  },
+  {
+    "id": "00982",
+    "pdm": "PORCA PLANA",
+    "grupo": 53
+  },
+  {
+    "id": "01221",
+    "pdm": "ABRASIVO",
+    "grupo": 53
+  },
+  {
+    "id": "01234",
+    "pdm": "ABRAÇADEIRA",
+    "grupo": 53
+  },
+  {
+    "id": "01609",
+    "pdm": "ABRACADEIRA",
+    "grupo": 53
+  },
+  {
+    "id": "02271",
+    "pdm": "ALDRABA",
+    "grupo": 53
+  },
+  {
+    "id": "02431",
+    "pdm": "AMORTECEDOR DE VIBRACAO ( FERRAGEM )",
+    "grupo": 53
+  },
+  {
+    "id": "02489",
+    "pdm": "ANEL",
+    "grupo": 53
+  },
+  {
+    "id": "02494",
+    "pdm": "ANEL DE FRENAMENTO",
+    "grupo": 53
+  },
+  {
+    "id": "02501",
+    "pdm": "ANEL DE TRAVA SERRILHADO E COM CHAVETA",
+    "grupo": 53
+  },
+  {
+    "id": "02506",
+    "pdm": "ANEL ADAPTADOR",
+    "grupo": 53
+  },
+  {
+    "id": "02908",
+    "pdm": "APOIO E SUPORTE PARA TUBO E TUBULACAO",
+    "grupo": 53
+  },
+  {
+    "id": "02984",
+    "pdm": "ARESTA PARA CALÇADO",
+    "grupo": 53
+  },
+  {
+    "id": "02991",
+    "pdm": "ARGOLA FERRO",
+    "grupo": 53
+  },
+  {
+    "id": "03004",
+    "pdm": "ARMADURA METÁLICA PARA CONCRETO",
+    "grupo": 53
+  },
+  {
+    "id": "03044",
+    "pdm": "ARRUELA ABAULADA",
+    "grupo": 53
+  },
+  {
+    "id": "03045",
+    "pdm": "ARRUELA ABERTA ( MEIA ARGOLA )",
+    "grupo": 53
+  },
+  {
+    "id": "03046",
+    "pdm": "ARRUELA ALUMINIO",
+    "grupo": 53
+  },
+  {
+    "id": "03047",
+    "pdm": "ARRUELA CÔNICA",
+    "grupo": 53
+  },
+  {
+    "id": "03048",
+    "pdm": "ARRUELA DE AJUSTE",
+    "grupo": 53
+  },
+  {
+    "id": "03050",
+    "pdm": "ARRUELA PRESSÃO ( ARRUELA - TRAVA )",
+    "grupo": 53
+  },
+  {
+    "id": "03051",
+    "pdm": "ARRUELA DE ROLAMENTO",
+    "grupo": 53
+  },
+  {
+    "id": "03052",
+    "pdm": "ARRUELA DENTEADA",
+    "grupo": 53
+  },
+  {
+    "id": "03053",
+    "pdm": "ARRUELA DUPLA PRESSÃO",
+    "grupo": 53
+  },
+  {
+    "id": "03054",
+    "pdm": "ARRUELA ENCOSTO",
+    "grupo": 53
+  },
+  {
+    "id": "03055",
+    "pdm": "ARRUELA ESTRELADA",
+    "grupo": 53
+  },
+  {
+    "id": "03058",
+    "pdm": "ARRUELA ROSQUEADA DE ALUMINIO - ELETRODUTO DE PVC",
+    "grupo": 53
+  },
+  {
+    "id": "03059",
+    "pdm": "ARRUELA ROSQUEADA EXTERNAMENTE",
+    "grupo": 53
+  },
+  {
+    "id": "03817",
+    "pdm": "BORRACHA VEDAÇÃO",
+    "grupo": 53
+  },
+  {
+    "id": "03824",
+    "pdm": "BOTÃO",
+    "grupo": 53
+  },
+  {
+    "id": "03826",
+    "pdm": "BOTAO ABRASIVO",
+    "grupo": 53
+  },
+  {
+    "id": "03827",
+    "pdm": "BOTAO CALIBRADO",
+    "grupo": 53
+  },
+  {
+    "id": "03834",
+    "pdm": "BOTAO MULTIAPLICACAO",
+    "grupo": 53
+  },
+  {
+    "id": "03853",
+    "pdm": "BRACADEIRA METALICA - FERRAGEM",
+    "grupo": 53
+  },
+  {
+    "id": "03855",
+    "pdm": "BRACADEIRA PLASTICA",
+    "grupo": 53
+  },
+  {
+    "id": "03940",
+    "pdm": "BUCHA DE VEDACAO HIDRAULICA",
+    "grupo": 53
+  },
+  {
+    "id": "03945",
+    "pdm": "BUCHA REDUÇÃO",
+    "grupo": 53
+  },
+  {
+    "id": "03952",
+    "pdm": "BUJÃO DE ROSCA USINADO",
+    "grupo": 53
+  },
+  {
+    "id": "04564",
+    "pdm": "CARRANCA METAL JANELA",
+    "grupo": 53
+  },
+  {
+    "id": "04578",
+    "pdm": "CARRETILHA",
+    "grupo": 53
+  },
+  {
+    "id": "04579",
+    "pdm": "CARRETILHA - USO APICOLA",
+    "grupo": 53
+  },
+  {
+    "id": "04580",
+    "pdm": "CARRETILHA DE USO EM CONSTRUCAO CIVIL",
+    "grupo": 53
+  },
+  {
+    "id": "04715",
+    "pdm": "CAVILHA",
+    "grupo": 53
+  },
+  {
+    "id": "04944",
+    "pdm": "CHAVEIRO",
+    "grupo": 53
+  },
+  {
+    "id": "04945",
+    "pdm": "CHAVE VELA",
+    "grupo": 53
+  },
+  {
+    "id": "04946",
+    "pdm": "CHAVETA MEIA - LUA",
+    "grupo": 53
+  },
+  {
+    "id": "04947",
+    "pdm": "CHAVETA PARA EIXO",
+    "grupo": 53
+  },
+  {
+    "id": "04950",
+    "pdm": "CHIAVO ABRASIVO",
+    "grupo": 53
+  },
+  {
+    "id": "04966",
+    "pdm": "CHUMBADOR ESPECIAL",
+    "grupo": 53
+  },
+  {
+    "id": "04967",
+    "pdm": "CHUMBADOR ESPECIAL TIPO PRISIONEIRO",
+    "grupo": 53
+  },
+  {
+    "id": "04968",
+    "pdm": "CHUMBADOR PADRONIZADO",
+    "grupo": 53
+  },
+  {
+    "id": "04969",
+    "pdm": "CHUMBADOR PADRONIZADO TIPO PRISIONEIRO",
+    "grupo": 53
+  },
+  {
+    "id": "04993",
+    "pdm": "CILINDRO FECHADURA",
+    "grupo": 53
+  },
+  {
+    "id": "05801",
+    "pdm": "CONTRAPINO",
+    "grupo": 53
+  },
+  {
+    "id": "05891",
+    "pdm": "CORREIA ABRASIVA",
+    "grupo": 53
+  },
+  {
+    "id": "05954",
+    "pdm": "CRAVO",
+    "grupo": 53
+  },
+  {
+    "id": "05956",
+    "pdm": "CRAVO DE FIXACAO DE FERRADURA",
+    "grupo": 53
+  },
+  {
+    "id": "06013",
+    "pdm": "CUPILHA",
+    "grupo": 53
+  },
+  {
+    "id": "06161",
+    "pdm": "DIAMANTE INDUSTRIAL",
+    "grupo": 53
+  },
+  {
+    "id": "06260",
+    "pdm": "DISCO DE VISCOSE",
+    "grupo": 53
+  },
+  {
+    "id": "06368",
+    "pdm": "DOBRADICA MOVEIS",
+    "grupo": 53
+  },
+  {
+    "id": "06369",
+    "pdm": "DOBRADICA PORTA",
+    "grupo": 53
+  },
+  {
+    "id": "06370",
+    "pdm": "DOBRADICA PORTAO",
+    "grupo": 53
+  },
+  {
+    "id": "06371",
+    "pdm": "DOBRADICA PORTEIRA",
+    "grupo": 53
+  },
+  {
+    "id": "06899",
+    "pdm": "ESCALA DE MOSTRADOR",
+    "grupo": 53
+  },
+  {
+    "id": "06912",
+    "pdm": "ESCÁPULA",
+    "grupo": 53
+  },
+  {
+    "id": "07131",
+    "pdm": "ESTICADOR",
+    "grupo": 53
+  },
+  {
+    "id": "07175",
+    "pdm": "ESTOPA DE VEDACAO",
+    "grupo": 53
+  },
+  {
+    "id": "07288",
+    "pdm": "FAIXA PARA VEDACAO",
+    "grupo": 53
+  },
+  {
+    "id": "07325",
+    "pdm": "PEÇAS E ACESSÓRIOS FECHADURA",
+    "grupo": 53
+  },
+  {
+    "id": "07333",
+    "pdm": "FECHO",
+    "grupo": 53
+  },
+  {
+    "id": "07368",
+    "pdm": "FERRAGEM - DIVISORIA MARMORE/GRANITO",
+    "grupo": 53
+  },
+  {
+    "id": "07369",
+    "pdm": "FERRAGEM - PORTA / JANELA / TRANCA",
+    "grupo": 53
+  },
+  {
+    "id": "07370",
+    "pdm": "CONJUNTO FERRAGENS FIXAÇÃO",
+    "grupo": 53
+  },
+  {
+    "id": "07374",
+    "pdm": "FERRAGEM ARMÁRIO",
+    "grupo": 53
+  },
+  {
+    "id": "07376",
+    "pdm": "FERRAGEM DE MALA",
+    "grupo": 53
+  },
+  {
+    "id": "07377",
+    "pdm": "FERRAGEM DE MARCENARIA",
+    "grupo": 53
+  },
+  {
+    "id": "07383",
+    "pdm": "FERRAGEM PARA VALISE",
+    "grupo": 53
+  },
+  {
+    "id": "07406",
+    "pdm": "FERROLHO",
+    "grupo": 53
+  },
+  {
+    "id": "07546",
+    "pdm": "FITA ABRASIVA",
+    "grupo": 53
+  },
+  {
+    "id": "07574",
+    "pdm": "FITA DE VEDAÇÃO / BORRACHA",
+    "grupo": 53
+  },
+  {
+    "id": "07612",
+    "pdm": "FITA VEDA ROSCA",
+    "grupo": 53
+  },
+  {
+    "id": "07619",
+    "pdm": "FIXADOR DE CAPOTA DE VEICULO",
+    "grupo": 53
+  },
+  {
+    "id": "07623",
+    "pdm": "FIXADOR PARA TEXTIL",
+    "grupo": 53
+  },
+  {
+    "id": "07948",
+    "pdm": "GAXETA - FIBRA TRANCADA",
+    "grupo": 53
+  },
+  {
+    "id": "07949",
+    "pdm": "GAXETA EM V / U",
+    "grupo": 53
+  },
+  {
+    "id": "07950",
+    "pdm": "GAXETA EM FITA",
+    "grupo": 53
+  },
+  {
+    "id": "07951",
+    "pdm": "GAXETA EM ROLO",
+    "grupo": 53
+  },
+  {
+    "id": "08043",
+    "pdm": "GRADE METÁLICA",
+    "grupo": 53
+  },
+  {
+    "id": "08065",
+    "pdm": "GRAMPO DE CERCA",
+    "grupo": 53
+  },
+  {
+    "id": "08070",
+    "pdm": "GRAMPO DE TACO DE ASSOALHO",
+    "grupo": 53
+  },
+  {
+    "id": "08071",
+    "pdm": "GRAMPO ESTOFADO",
+    "grupo": 53
+  },
+  {
+    "id": "08072",
+    "pdm": "GRAMPO ISOLADO",
+    "grupo": 53
+  },
+  {
+    "id": "08077",
+    "pdm": "GRAMPO TIPO C",
+    "grupo": 53
+  },
+  {
+    "id": "08283",
+    "pdm": "ILHOS FIXADOR DE CARENAGEM DE AERONAVE",
+    "grupo": 53
+  },
+  {
+    "id": "08540",
+    "pdm": "JOGO DE CALCO USO AUTOMOTIVO",
+    "grupo": 53
+  },
+  {
+    "id": "08545",
+    "pdm": "JOGO DE ESPACADOR USO AUTOMOTIVO",
+    "grupo": 53
+  },
+  {
+    "id": "08568",
+    "pdm": "JUNTA CORRUGADA PARA UNIAO DE TABUAS",
+    "grupo": 53
+  },
+  {
+    "id": "08572",
+    "pdm": "JUNTA VEDAÇÃO",
+    "grupo": 53
+  },
+  {
+    "id": "08834",
+    "pdm": "LIMA ACABADA",
+    "grupo": 53
+  },
+  {
+    "id": "08863",
+    "pdm": "LINGUETA DE FECHADURA",
+    "grupo": 53
+  },
+  {
+    "id": "08868",
+    "pdm": "LINHOL DE SAPATEIRO",
+    "grupo": 53
+  },
+  {
+    "id": "08995",
+    "pdm": "MAÇANETA",
+    "grupo": 53
+  },
+  {
+    "id": "09048",
+    "pdm": "MALHA METÁLICA",
+    "grupo": 53
+  },
+  {
+    "id": "09110",
+    "pdm": "MANILHA",
+    "grupo": 53
+  },
+  {
+    "id": "09416",
+    "pdm": "MASSA DE FIXAR VIDRO",
+    "grupo": 53
+  },
+  {
+    "id": "09424",
+    "pdm": "MASSA CALAFETAR",
+    "grupo": 53
+  },
+  {
+    "id": "09494",
+    "pdm": "JUNTA UNIVERSAL",
+    "grupo": 53
+  },
+  {
+    "id": "09854",
+    "pdm": "MOLA PORTA",
+    "grupo": 53
+  },
+  {
+    "id": "09859",
+    "pdm": "MOLA EM LAMINA ( FERRAGEM)",
+    "grupo": 53
+  },
+  {
+    "id": "09861",
+    "pdm": "MOLA DE ARAME",
+    "grupo": 53
+  },
+  {
+    "id": "09862",
+    "pdm": "MOLA ESPIRAL DE ARAME. MULTIAPLICACAO",
+    "grupo": 53
+  },
+  {
+    "id": "09912",
+    "pdm": "MOSTRADOR DE BALANCA",
+    "grupo": 53
+  },
+  {
+    "id": "09913",
+    "pdm": "MOSTRADOR PARA APLICACAO MULTIPLA",
+    "grupo": 53
+  },
+  {
+    "id": 10355,
+    "pdm": "PAPEL ABRASIVO",
+    "grupo": 53
+  },
+  {
+    "id": 10428,
+    "pdm": "PARAFUSO CABECA RECARTILHADA",
+    "grupo": 53
+  },
+  {
+    "id": 10429,
+    "pdm": "PARAFUSO COM PORCA",
+    "grupo": 53
+  },
+  {
+    "id": 10431,
+    "pdm": "PARAFUSO DE ALUMINIO",
+    "grupo": 53
+  },
+  {
+    "id": 10433,
+    "pdm": "PARAFUSO DE MATERIAL PLASTICO AUTO - ATARRACHANTE",
+    "grupo": 53
+  },
+  {
+    "id": 10435,
+    "pdm": "PARAFUSO FIXAÇÃO TELHADO",
+    "grupo": 53
+  },
+  {
+    "id": 10437,
+    "pdm": "PARAFUSO MAQUINA - FERROSO",
+    "grupo": 53
+  },
+  {
+    "id": 10438,
+    "pdm": "PARAFUSO MÁQUINA",
+    "grupo": 53
+  },
+  {
+    "id": 10439,
+    "pdm": "PARAFUSO METÁLICO",
+    "grupo": 53
+  },
+  {
+    "id": 10440,
+    "pdm": "PARAFUSO METALICO DE OLHAL",
+    "grupo": 53
+  },
+  {
+    "id": 10441,
+    "pdm": "PARAFUSO METALICO SEM PORCA - MADEIRA",
+    "grupo": 53
+  },
+  {
+    "id": 10442,
+    "pdm": "PARAFUSO OLHAL DE USO GERAL",
+    "grupo": 53
+  },
+  {
+    "id": 10444,
+    "pdm": "PARAFUSO PLÁSTICO",
+    "grupo": 53
+  },
+  {
+    "id": 10445,
+    "pdm": "PARAFUSO PORCA AUTO - ROSCANTE DE AUTOMOVEL",
+    "grupo": 53
+  },
+  {
+    "id": 10446,
+    "pdm": "PARAFUSO PORCA AUTO - ROSCANTE DE CARROCERIA TIPO PITAO",
+    "grupo": 53
+  },
+  {
+    "id": 10447,
+    "pdm": "PARAFUSO PORCA AUTO - ROSCANTE DE RODA",
+    "grupo": 53
+  },
+  {
+    "id": 10448,
+    "pdm": "PARAFUSO PORCA AUTO - ROSCANTE PARA CARROCERIA TIPO FRANCES",
+    "grupo": 53
+  },
+  {
+    "id": 10449,
+    "pdm": "PARAFUSO PRESSAO DE MADEIRA COM PORCA AUTO - ROSCANTE",
+    "grupo": 53
+  },
+  {
+    "id": 10450,
+    "pdm": "PARAFUSO RETEM",
+    "grupo": 53
+  },
+  {
+    "id": 10451,
+    "pdm": "PARAFUSO SEM CABECA COM FENDA",
+    "grupo": 53
+  },
+  {
+    "id": 10452,
+    "pdm": "PARAFUSO TIPO ALLEN",
+    "grupo": 53
+  },
+  {
+    "id": 10453,
+    "pdm": "PARAFUSO CABEÇA CHATA",
+    "grupo": 53
+  },
+  {
+    "id": 10454,
+    "pdm": "PARAFUSO TRAVA NYLON",
+    "grupo": 53
+  },
+  {
+    "id": 10486,
+    "pdm": "PASTA DE ESMERILHAR",
+    "grupo": 53
+  },
+  {
+    "id": 10588,
+    "pdm": "PEDRA PARA POLIR",
+    "grupo": 53
+  },
+  {
+    "id": 10739,
+    "pdm": "PINO - MACHO / FEMEA",
+    "grupo": 53
+  },
+  {
+    "id": 10741,
+    "pdm": "PINO CILÍNDRICO",
+    "grupo": 53
+  },
+  {
+    "id": 10742,
+    "pdm": "PINO CONICO",
+    "grupo": 53
+  },
+  {
+    "id": 10746,
+    "pdm": "PINO ELÁSTICO",
+    "grupo": 53
+  },
+  {
+    "id": 10747,
+    "pdm": "PINO LISO",
+    "grupo": 53
+  },
+  {
+    "id": 10748,
+    "pdm": "PINO PARA PISTOLA DE FIXACAO",
+    "grupo": 53
+  },
+  {
+    "id": 10749,
+    "pdm": "PINO PARA TRANSMISSÃO",
+    "grupo": 53
+  },
+  {
+    "id": 10925,
+    "pdm": "PO ABRASIVO PARA POLIMENTO DE MATERIAL METALICO",
+    "grupo": 53
+  },
+  {
+    "id": 11022,
+    "pdm": "PONTEIRO DE MOSTRADOR",
+    "grupo": 53
+  },
+  {
+    "id": 11024,
+    "pdm": "PORCA BORBOLETA",
+    "grupo": 53
+  },
+  {
+    "id": 11025,
+    "pdm": "PORCA CASTELO",
+    "grupo": 53
+  },
+  {
+    "id": 11026,
+    "pdm": "PORCA",
+    "grupo": 53
+  },
+  {
+    "id": 11027,
+    "pdm": "PORCA DE PRESSAO ( CONTRAPORCA )",
+    "grupo": 53
+  },
+  {
+    "id": 11157,
+    "pdm": "PREGO ARDOX COM CABECA",
+    "grupo": 53
+  },
+  {
+    "id": 11158,
+    "pdm": "PREGO ARDOX SEM CABECA",
+    "grupo": 53
+  },
+  {
+    "id": 11159,
+    "pdm": "PREGO COM CABECA",
+    "grupo": 53
+  },
+  {
+    "id": 11160,
+    "pdm": "PREGO COM CABECA DUPLA",
+    "grupo": 53
+  },
+  {
+    "id": 11161,
+    "pdm": "PREGO PARA CALCADO",
+    "grupo": 53
+  },
+  {
+    "id": 11162,
+    "pdm": "PREGO SEM CABECA",
+    "grupo": 53
+  },
+  {
+    "id": 11170,
+    "pdm": "PRENDEDOR PORTA",
+    "grupo": 53
+  },
+  {
+    "id": 11202,
+    "pdm": "PRESILHA DE ARAME PARA FIXACAO DE FAROL",
+    "grupo": 53
+  },
+  {
+    "id": 11205,
+    "pdm": "PRESILHA PARA JUNTA",
+    "grupo": 53
+  },
+  {
+    "id": 11214,
+    "pdm": "PRISIONEIRO DE ROSCA DUPLA",
+    "grupo": 53
+  },
+  {
+    "id": 11345,
+    "pdm": "PUXADOR",
+    "grupo": 53
+  },
+  {
+    "id": 11442,
+    "pdm": "REBITE AUTO - ROSCANTE",
+    "grupo": 53
+  },
+  {
+    "id": 11443,
+    "pdm": "REBITE",
+    "grupo": 53
+  },
+  {
+    "id": 11444,
+    "pdm": "REBITE TUBULAR",
+    "grupo": 53
+  },
+  {
+    "id": 11446,
+    "pdm": "REBOLO MULTIAPLICACAO",
+    "grupo": 53
+  },
+  {
+    "id": 11707,
+    "pdm": "RETENTOR",
+    "grupo": 53
+  },
+  {
+    "id": 11708,
+    "pdm": "RETENTOR DE ÓLEO",
+    "grupo": 53
+  },
+  {
+    "id": 11711,
+    "pdm": "RETENTOR VEDAÇÃO",
+    "grupo": 53
+  },
+  {
+    "id": 11772,
+    "pdm": "RODA POLIMENTO",
+    "grupo": 53
+  },
+  {
+    "id": 11774,
+    "pdm": "RODA PG",
+    "grupo": 53
+  },
+  {
+    "id": 11805,
+    "pdm": "ROLDANA",
+    "grupo": 53
+  },
+  {
+    "id": 11806,
+    "pdm": "ROLDANA DE PORCELANA",
+    "grupo": 53
+  },
+  {
+    "id": 11807,
+    "pdm": "ROLDANA METÁLICA",
+    "grupo": 53
+  },
+  {
+    "id": 11988,
+    "pdm": "SELO - CHUMBO",
+    "grupo": 53
+  },
+  {
+    "id": 11990,
+    "pdm": "SELO VEDAÇÃO",
+    "grupo": 53
+  },
+  {
+    "id": 11992,
+    "pdm": "SELO MECÂNICO",
+    "grupo": 53
+  },
+  {
+    "id": 12368,
+    "pdm": "SUPORTE ( REPARO ) NAO HIDRAULICO ( FERRAGEM )",
+    "grupo": 53
+  },
+  {
+    "id": 12385,
+    "pdm": "SUPORTE DE EXTINTOR DE INCENDIO",
+    "grupo": 53
+  },
+  {
+    "id": 12470,
+    "pdm": "TACHA",
+    "grupo": 53
+  },
+  {
+    "id": 12471,
+    "pdm": "TACHA DE CALCADO",
+    "grupo": 53
+  },
+  {
+    "id": 12472,
+    "pdm": "TACHA DE ESTOFAMENTO",
+    "grupo": 53
+  },
+  {
+    "id": 12473,
+    "pdm": "TACHA PARA TAPECEIRO",
+    "grupo": 53
+  },
+  {
+    "id": 12564,
+    "pdm": "TECIDO ABRASIVO",
+    "grupo": 53
+  },
+  {
+    "id": 12576,
+    "pdm": "TECIDO INDUSTRIAL METALICO",
+    "grupo": 53
+  },
+  {
+    "id": 12589,
+    "pdm": "TELA CHAPA DE AÇO CORRUGADA",
+    "grupo": 53
+  },
+  {
+    "id": 12778,
+    "pdm": "TALA FIXAÇÃO",
+    "grupo": 53
+  },
+  {
+    "id": 12862,
+    "pdm": "TRANCA PARA PORTA / JANELA",
+    "grupo": 53
+  },
+  {
+    "id": 12991,
+    "pdm": "TRINCO",
+    "grupo": 53
+  },
+  {
+    "id": 13300,
+    "pdm": "VARA DE FECHADURA TIPO CREMONA",
+    "grupo": 53
+  },
+  {
+    "id": 13331,
+    "pdm": "VEDADOR DE MULTIAPLICACAO",
+    "grupo": 53
+  },
+  {
+    "id": 13332,
+    "pdm": "VEDADOR DE OLEO",
+    "grupo": 53
+  },
+  {
+    "id": 13333,
+    "pdm": "VEDANTE TORNEIRA",
+    "grupo": 53
+  },
+  {
+    "id": 13549,
+    "pdm": "DOBRADICA",
+    "grupo": 53
+  },
+  {
+    "id": 13621,
+    "pdm": "PREGO",
+    "grupo": 53
+  },
+  {
+    "id": 13827,
+    "pdm": "VENTILADOR ARMÁRIO",
+    "grupo": 53
+  },
+  {
+    "id": 13880,
+    "pdm": "DOBRADIÇA",
+    "grupo": 53
+  },
+  {
+    "id": 13916,
+    "pdm": "PRESILHA",
+    "grupo": 53
+  },
+  {
+    "id": 13980,
+    "pdm": "GAIOLA PARA ESPUMANTE",
+    "grupo": 53
+  },
+  {
+    "id": 14082,
+    "pdm": "ARRUELA CÔNCAVA",
+    "grupo": 53
+  },
+  {
+    "id": 14500,
+    "pdm": "SUPORTE PRATELEIRA",
+    "grupo": 53
+  },
+  {
+    "id": 14522,
+    "pdm": "PARAFUSO",
+    "grupo": 53
+  },
+  {
+    "id": 14604,
+    "pdm": "ROLDANA MÁQUINA VINCO",
+    "grupo": 53
+  },
+  {
+    "id": 14644,
+    "pdm": "VEDA ROSCA",
+    "grupo": 53
+  },
+  {
+    "id": 14661,
+    "pdm": "PARAFUSO ROSCA FERRO",
+    "grupo": 53
+  },
+  {
+    "id": 14948,
+    "pdm": "RODA ESCOVA AÇO",
+    "grupo": 53
+  },
+  {
+    "id": 15093,
+    "pdm": "BUCHA",
+    "grupo": 53
+  },
+  {
+    "id": 15125,
+    "pdm": "FECHADURA TETRA",
+    "grupo": 53
+  },
+  {
+    "id": 15217,
+    "pdm": "PARAFUSO COM BUCHA E PORCA",
+    "grupo": 53
+  },
+  {
+    "id": 15312,
+    "pdm": "MÃO-FRANCESA",
+    "grupo": 53
+  },
+  {
+    "id": 15324,
+    "pdm": "GRAMPO",
+    "grupo": 53
+  },
+  {
+    "id": 15721,
+    "pdm": "CHAVE MATRIZ",
+    "grupo": 53
+  },
+  {
+    "id": 15828,
+    "pdm": "SUPORTE FIXAÇÃO PROJETOR",
+    "grupo": 53
+  },
+  {
+    "id": 16194,
+    "pdm": "PROLONGADOR PARAFUSO",
+    "grupo": 53
+  },
+  {
+    "id": 16227,
+    "pdm": "GUARNIÇÃO",
+    "grupo": 53
+  },
+  {
+    "id": 16358,
+    "pdm": "CHAVEIRO LASER PROFISSIONAL",
+    "grupo": 53
+  },
+  {
+    "id": 16434,
+    "pdm": "GAXETA MANCAL MOTOR VEÍCULO",
+    "grupo": 53
+  },
+  {
+    "id": 16474,
+    "pdm": "SUPORTE FIXAÇÃO SERRA COPO",
+    "grupo": 53
+  },
+  {
+    "id": 16519,
+    "pdm": "LETRA METÁLICA",
+    "grupo": 53
+  },
+  {
+    "id": 16550,
+    "pdm": "FILME ABRASIVO",
+    "grupo": 53
+  },
+  {
+    "id": 16991,
+    "pdm": "PARAFUSOS SEM PORCA",
+    "grupo": 53
+  },
+  {
+    "id": 16992,
+    "pdm": "PARAFUSOS COM PORCA",
+    "grupo": 53
+  },
+  {
+    "id": 16993,
+    "pdm": "PRISIONEIROS",
+    "grupo": 53
+  },
+  {
+    "id": 16994,
+    "pdm": "PORCAS E ARRUELAS",
+    "grupo": 53
+  },
+  {
+    "id": 16995,
+    "pdm": "PREGOS. CHAVETAS E PINOS",
+    "grupo": 53
+  },
+  {
+    "id": 16996,
+    "pdm": "REBITES",
+    "grupo": 53
+  },
+  {
+    "id": 16997,
+    "pdm": "DISPOSITIVOS PARA FIXAÇÃO",
+    "grupo": 53
+  },
+  {
+    "id": 16998,
+    "pdm": "GAXETAS E OUTROS MATERIAIS PARA VEDAÇÃO",
+    "grupo": 53
+  },
+  {
+    "id": 16999,
+    "pdm": "TELAS METÁLICAS",
+    "grupo": 53
+  },
+  {
+    "id": 17000,
+    "pdm": "FERRAGENS DIVERSAS",
+    "grupo": 53
+  },
+  {
+    "id": 17001,
+    "pdm": "CANTONEIRAS",
+    "grupo": 53
+  },
+  {
+    "id": 17002,
+    "pdm": "DISCOS E PEDRAS ABRASIVOS",
+    "grupo": 53
+  },
+  {
+    "id": 17003,
+    "pdm": "MATERIAIS ABRASIVOS",
+    "grupo": 53
+  },
+  {
+    "id": 17004,
+    "pdm": "BOTÕES E PONTEIROS",
+    "grupo": 53
+  },
+  {
+    "id": 17005,
+    "pdm": "MOLAS DE ARAME. PLANAS E HELICOIDAIS",
+    "grupo": 53
+  },
+  {
+    "id": 17006,
+    "pdm": "ANÉIS. BUCHAS E ESPAÇADORES",
+    "grupo": 53
+  },
+  {
+    "id": 17379,
+    "pdm": "ANÉIS",
+    "grupo": 53
+  },
+  {
+    "id": 17380,
+    "pdm": "FERRAGENS DE PEÇA DE SISTEMAS DE ARMAS",
+    "grupo": 53
+  },
+  {
+    "id": 17530,
+    "pdm": "PITÃO",
+    "grupo": 53
+  },
+  {
+    "id": 17531,
+    "pdm": "JUNTA DE BOCA VISITA",
+    "grupo": 53
+  },
+  {
+    "id": 17584,
+    "pdm": "CASTELO",
+    "grupo": 53
+  },
+  {
+    "id": 17799,
+    "pdm": "CATRACA ARAME",
+    "grupo": 53
+  },
+  {
+    "id": 17853,
+    "pdm": "VEDA PORTA",
+    "grupo": 53
+  },
+  {
+    "id": 17982,
+    "pdm": "ENGATE PORTEIRA",
+    "grupo": 53
+  },
+  {
+    "id": 18480,
+    "pdm": "LIXADOR",
+    "grupo": 53
+  },
+  {
+    "id": 18502,
+    "pdm": "DISTANCIADOR CERCA",
+    "grupo": 53
+  },
+  {
+    "id": 18552,
+    "pdm": "CONECTOR",
+    "grupo": 53
+  },
+  {
+    "id": 18648,
+    "pdm": "FIXA TUBOS",
+    "grupo": 53
+  },
+  {
+    "id": 18720,
+    "pdm": "CAPACETE PINO",
+    "grupo": 53
+  },
+  {
+    "id": 18987,
+    "pdm": "SISTEMA MESTRAGEM CHAVES",
+    "grupo": 53
+  },
+  {
+    "id": 19070,
+    "pdm": "FIXA FIO",
+    "grupo": 53
+  }
+]
