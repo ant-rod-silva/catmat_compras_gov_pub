@@ -115,3 +115,6 @@ http://www.dedupelist.com/
 
 http://www.unit-conversion.info/texttools/replace-text/
 
+#### csv-extract-column
+
+https://www.browserling.com/tools/csv-extract-column
