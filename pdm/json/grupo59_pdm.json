@@ -1,0 +1,3490 @@
+[
+  {
+    "id": "00001",
+    "pdm": "RESISTOR CARBONO"
+  },
+  {
+    "id": "00002",
+    "pdm": "RESISTOR FILME METÁLICO"
+  },
+  {
+    "id": "00003",
+    "pdm": "RESISTOR FIO"
+  },
+  {
+    "id": "00004",
+    "pdm": "DISJUNTOR BAIXA TENSÃO"
+  },
+  {
+    "id": "00062",
+    "pdm": "CONECTOR EMENDA"
+  },
+  {
+    "id": "00100",
+    "pdm": "ELO FUSÍVEL"
+  },
+  {
+    "id": "00101",
+    "pdm": "CONECTOR ESTRIBO TIPO CUNHA"
+  },
+  {
+    "id": "00102",
+    "pdm": "ISOLADOR SUPORTE"
+  },
+  {
+    "id": "00103",
+    "pdm": "GRAMPO LINHA VIVA"
+  },
+  {
+    "id": "00285",
+    "pdm": "AGENDA ELETRÔNICA"
+  },
+  {
+    "id": "00469",
+    "pdm": "DISJUNTOR"
+  },
+  {
+    "id": "00470",
+    "pdm": "DISJUNTOR MONOPOLAR"
+  },
+  {
+    "id": "00471",
+    "pdm": "DISJUNTOR MONOPOLAR MINI"
+  },
+  {
+    "id": "00472",
+    "pdm": "INTERRUPTOR"
+  },
+  {
+    "id": "00473",
+    "pdm": "INTERRUPTOR DIFERENCIAL RESIDUAL"
+  },
+  {
+    "id": "00476",
+    "pdm": "CONECTOR ADAPTAÇÃO TERMINAL"
+  },
+  {
+    "id": "00477",
+    "pdm": "CONECTOR ATERRAMENTO"
+  },
+  {
+    "id": "00478",
+    "pdm": "CONECTOR PARALELO"
+  },
+  {
+    "id": "00479",
+    "pdm": "CONECTOR SUPORTE"
+  },
+  {
+    "id": "00480",
+    "pdm": "PLUGUE"
+  },
+  {
+    "id": "00481",
+    "pdm": "PLUGUE BLINDADO"
+  },
+  {
+    "id": "00484",
+    "pdm": "TOMADA"
+  },
+  {
+    "id": "00485",
+    "pdm": "TOMADA BLINDADA"
+  },
+  {
+    "id": "00486",
+    "pdm": "TOMADA PISO"
+  },
+  {
+    "id": "00487",
+    "pdm": "FUSÍVEL LIMITADOR CORRENTE"
+  },
+  {
+    "id": "00488",
+    "pdm": "PÁRA-RAIOS DISTRIBUIÇÃO"
+  },
+  {
+    "id": "00492",
+    "pdm": "LUVA EMENDA COMPRESSÃO ESTANHADA"
+  },
+  {
+    "id": "00493",
+    "pdm": "PRENSA-FIOS"
+  },
+  {
+    "id": "00494",
+    "pdm": "CAPACITOR FIXO CERÂMICO"
+  },
+  {
+    "id": "00495",
+    "pdm": "HASTE ATERRAMENTO"
+  },
+  {
+    "id": "00496",
+    "pdm": "ANEL PROTEÇÃO FUSÍVEL D"
+  },
+  {
+    "id": "00497",
+    "pdm": "TRANSFORMADOR"
+  },
+  {
+    "id": "00499",
+    "pdm": "ISOLADOR PEDESTAL"
+  },
+  {
+    "id": "00500",
+    "pdm": "DIODO ZENER"
+  },
+  {
+    "id": "00501",
+    "pdm": "TIRISTOR POTÊNCIA"
+  },
+  {
+    "id": "00502",
+    "pdm": "ISOLADOR ROLDANA"
+  },
+  {
+    "id": "00503",
+    "pdm": "ISOLADOR PINO"
+  },
+  {
+    "id": "00504",
+    "pdm": "TUBO ISOLANTE"
+  },
+  {
+    "id": "00505",
+    "pdm": "ISOLADOR CASTANHA"
+  },
+  {
+    "id": "00506",
+    "pdm": "ISOLADOR DESCARREGADOR CHIFRE"
+  },
+  {
+    "id": "00507",
+    "pdm": "BUCHA ELÉTRICA TENSÃO ALTERNADA"
+  },
+  {
+    "id": "00519",
+    "pdm": "ISOLADOR DISCO"
+  },
+  {
+    "id": "00537",
+    "pdm": "PROGRAMADOR"
+  },
+  {
+    "id": "00586",
+    "pdm": "BASE RELÉ FOTOELÉTRICO ILUMINAÇÃO"
+  },
+  {
+    "id": "00587",
+    "pdm": "RELÉ COMUTAÇÃO"
+  },
+  {
+    "id": "00590",
+    "pdm": "CONTATOR AUXILIAR"
+  },
+  {
+    "id": "00832",
+    "pdm": "CHAVE FACA PORTA-FUSÍVEL"
+  },
+  {
+    "id": "00903",
+    "pdm": "ELETROCALHA"
+  },
+  {
+    "id": "01007",
+    "pdm": "FERRAGEM REDE ELÉTRICA"
+  },
+  {
+    "id": "01294",
+    "pdm": "SOQUETE COMPONENTE ELETRÔNICO"
+  },
+  {
+    "id": "01668",
+    "pdm": "ACESSÓRIO DE ANTENA VHF E UHF"
+  },
+  {
+    "id": "01671",
+    "pdm": "ACESSORIO DE CABO ELETRICO"
+  },
+  {
+    "id": "01673",
+    "pdm": "ACESSÓRIO/COMPONENTE ELÉTRICO ELETRÔNICO"
+  },
+  {
+    "id": "01675",
+    "pdm": "ACESSORIO DE DISJUNTOR"
+  },
+  {
+    "id": "01687",
+    "pdm": "ACESSORIO DE MONTAGEM DE CAPACITOR"
+  },
+  {
+    "id": "01688",
+    "pdm": "ACESSORIO DE MONTAGEM DE RESISTOR"
+  },
+  {
+    "id": "01698",
+    "pdm": "PEÇA/ACESSÓRI0 RELÉ"
+  },
+  {
+    "id": "01708",
+    "pdm": "LOCALIZADOR CABO"
+  },
+  {
+    "id": "01714",
+    "pdm": "ACESSÓRIO CAIXA PASSAGEM"
+  },
+  {
+    "id": "01721",
+    "pdm": "ACESSORIO PARA SOQUETE DE COMPONENTE ELETRONICO"
+  },
+  {
+    "id": "02042",
+    "pdm": "ACIONADOR ELETROMAGNÉTICO"
+  },
+  {
+    "id": "02050",
+    "pdm": "ACOPLADOR OPTRÔNICO"
+  },
+  {
+    "id": "02076",
+    "pdm": "ADAPTADOR DE ANTENA"
+  },
+  {
+    "id": "02077",
+    "pdm": "ADAPTADOR DE ANTENA DE GUIA"
+  },
+  {
+    "id": "02078",
+    "pdm": "ADAPTADOR DE ANTENA DE ONDA"
+  },
+  {
+    "id": "02084",
+    "pdm": "ADAPTADOR DE CONTADOR"
+  },
+  {
+    "id": "02085",
+    "pdm": "ADAPTADOR"
+  },
+  {
+    "id": "02089",
+    "pdm": "ADAPTADOR DE TERMINAL DE BATERIA"
+  },
+  {
+    "id": "02189",
+    "pdm": "AGULHA DE PARA - RAIOS TIPO FRANKLIM"
+  },
+  {
+    "id": "02372",
+    "pdm": "ALTO-FALANTE"
+  },
+  {
+    "id": "02457",
+    "pdm": "AMPLIFICADOR LINEAR"
+  },
+  {
+    "id": "02458",
+    "pdm": "AMPLIFICADOR OPERACIONAL"
+  },
+  {
+    "id": "02498",
+    "pdm": "ANEL DE PROTECAO DE DESCARGA"
+  },
+  {
+    "id": "02534",
+    "pdm": "ANTENA GPS"
+  },
+  {
+    "id": "02536",
+    "pdm": "ANTENA COLETIVA"
+  },
+  {
+    "id": "02538",
+    "pdm": "ANTENA DIRECIONAL"
+  },
+  {
+    "id": "02539",
+    "pdm": "ANTENA E ACESSORIO DE ONDA CURTA MEDIA E LONGA"
+  },
+  {
+    "id": "02540",
+    "pdm": "ANTENA E ACESSORIO DE SISTEMA EM SHF DE MICROONDA"
+  },
+  {
+    "id": "02542",
+    "pdm": "ANTENA AMPLIFICADORA"
+  },
+  {
+    "id": "02543",
+    "pdm": "ANTENA INTERNA"
+  },
+  {
+    "id": "02544",
+    "pdm": "ANTENA PARABÓLICA"
+  },
+  {
+    "id": "02545",
+    "pdm": "ANTENA PORTÁTIL"
+  },
+  {
+    "id": "02546",
+    "pdm": "ANTENA REFLETORA"
+  },
+  {
+    "id": "02547",
+    "pdm": "ANTENA ROMBICA"
+  },
+  {
+    "id": "02548",
+    "pdm": "ANTENA TELESCOPICA"
+  },
+  {
+    "id": "02549",
+    "pdm": "ANTENAS E ACESSORIOS PARA SISTEMA EM SHF - MICRONDAS"
+  },
+  {
+    "id": "02768",
+    "pdm": "APARELHO ELETRICO - ELIMINADOR INSETOS"
+  },
+  {
+    "id": "02774",
+    "pdm": "APARELHO ELETRONICO HIBRIDO"
+  },
+  {
+    "id": "02775",
+    "pdm": "APARELHO ELETRONICO INTEGRADO"
+  },
+  {
+    "id": "02776",
+    "pdm": "APARELHO ELETRONICO MAGNETICO"
+  },
+  {
+    "id": "02777",
+    "pdm": "APARELHO ELETRONICO MOLECULAR"
+  },
+  {
+    "id": "02809",
+    "pdm": "APARELHO OPTICO - ELETRONICO"
+  },
+  {
+    "id": "03001",
+    "pdm": "ARMACAO SECUNDARIA"
+  },
+  {
+    "id": "03056",
+    "pdm": "ARRUELA ISOLANTE"
+  },
+  {
+    "id": "03108",
+    "pdm": "ATENUADOR DE SINAL"
+  },
+  {
+    "id": "03109",
+    "pdm": "ATENUADOR FIXO CAPACITIVO"
+  },
+  {
+    "id": "03110",
+    "pdm": "ATENUADOR FIXO RESISTIVO"
+  },
+  {
+    "id": "03111",
+    "pdm": "ATENUADOR VARIAVEL CAPACITIVO"
+  },
+  {
+    "id": "03112",
+    "pdm": "ATENUADOR VARIAVEL RESISTIVO"
+  },
+  {
+    "id": "03124",
+    "pdm": "ATUADOR ELETROMAGNÉTICO"
+  },
+  {
+    "id": "03131",
+    "pdm": "AUTO TRANSFORMADOR A SECO"
+  },
+  {
+    "id": "03144",
+    "pdm": "AUTOTRANSFORMADOR"
+  },
+  {
+    "id": "03147",
+    "pdm": "AVALIADOR SISTEMA VIDEO"
+  },
+  {
+    "id": "03279",
+    "pdm": "BANCO DE RESISTORES"
+  },
+  {
+    "id": "03312",
+    "pdm": "BANDEJA METALICA PARA CABO ELETRICO"
+  },
+  {
+    "id": "03314",
+    "pdm": "BANDEJA PLASTICA PARA CABO ELETRICO"
+  },
+  {
+    "id": "03362",
+    "pdm": "BARRA DE CURTO - CIRCUITO PARA BATERIA"
+  },
+  {
+    "id": "03370",
+    "pdm": "BARRA DE GRAFITE PARA FIM ELETRODO"
+  },
+  {
+    "id": "03383",
+    "pdm": "BARRA PINO"
+  },
+  {
+    "id": "03396",
+    "pdm": "BARRAMENTO DE PARA - RAIOS"
+  },
+  {
+    "id": "03398",
+    "pdm": "BARRETA DE GRAFITE PARA FIM ELETRODO"
+  },
+  {
+    "id": "03410",
+    "pdm": "BASE DE ANTENA"
+  },
+  {
+    "id": "03412",
+    "pdm": "BASE DE ANTENA DE USO INTERNO"
+  },
+  {
+    "id": "03416",
+    "pdm": "BASE DE DISJUNTOR"
+  },
+  {
+    "id": "03420",
+    "pdm": "BASE DE TOMADA DE PINO"
+  },
+  {
+    "id": "03424",
+    "pdm": "BASE PARA FUSIVEL TIPO CARTUCHO - BAIXA TENSAO"
+  },
+  {
+    "id": "03425",
+    "pdm": "BASE FUSÍVEL NH"
+  },
+  {
+    "id": "03426",
+    "pdm": "BASE PARA FUSIVEL TIPO ROLHA-BAIXA TENSAO"
+  },
+  {
+    "id": "03607",
+    "pdm": "BLOCO CONTATO AUXILIAR"
+  },
+  {
+    "id": "03626",
+    "pdm": "BLOCO TERMINAL"
+  },
+  {
+    "id": "03636",
+    "pdm": "BOBINA CONTATOR"
+  },
+  {
+    "id": "03638",
+    "pdm": "BOBINA DE INDUCAO"
+  },
+  {
+    "id": "03641",
+    "pdm": "BOBINA DE PUPINIZACAO"
+  },
+  {
+    "id": "03645",
+    "pdm": "BOBINA PARA RELE"
+  },
+  {
+    "id": "03808",
+    "pdm": "BORNE TERMINAL"
+  },
+  {
+    "id": "03829",
+    "pdm": "BOTÃO COMANDO"
+  },
+  {
+    "id": "03833",
+    "pdm": "BOTAO ILUMINADO"
+  },
+  {
+    "id": "03849",
+    "pdm": "BOTOEIRA DE COMANDO"
+  },
+  {
+    "id": "03859",
+    "pdm": "BRACO DE ESCOVA DE CONTATO"
+  },
+  {
+    "id": "04047",
+    "pdm": "CABO EXTENSOR"
+  },
+  {
+    "id": "04128",
+    "pdm": "CAIXA ELETRODUTO"
+  },
+  {
+    "id": "04134",
+    "pdm": "CAIXA DE FUSIVEL ( PREDIAL)"
+  },
+  {
+    "id": "04137",
+    "pdm": "CAIXA JUNÇÃO"
+  },
+  {
+    "id": "04145",
+    "pdm": "CAIXA DE PAREDE DE FONTE COM DISJUNTOR"
+  },
+  {
+    "id": "04146",
+    "pdm": "CAIXA DE PASSAGEM - CABEAMENTO REDE"
+  },
+  {
+    "id": "04148",
+    "pdm": "CAIXA PASSAGEM"
+  },
+  {
+    "id": "04176",
+    "pdm": "CAIXA TERMINAL ELETRICO"
+  },
+  {
+    "id": "04177",
+    "pdm": "CAIXA DISTRIBUIÇÃO TELEFÔNICA"
+  },
+  {
+    "id": "04459",
+    "pdm": "CAPACITOR FIXO POTÊNCIA"
+  },
+  {
+    "id": "04460",
+    "pdm": "CAPACITOR DE POTENCIA - TENSAO NOMINAL ACIMA DE 440 V A 1.2 KV"
+  },
+  {
+    "id": "04461",
+    "pdm": "CAPACITOR DE POTENCIA - TENSAO NOMINAL ACIMA 1.2 A 7.2 KV"
+  },
+  {
+    "id": "04462",
+    "pdm": "CAPACITOR DE POTENCIA - TENSAO NOMINAL ATE 440 V"
+  },
+  {
+    "id": "04463",
+    "pdm": "CAPACITOR FILTRO DE INTERFERENCIA"
+  },
+  {
+    "id": "04464",
+    "pdm": "CAPACITOR FIXO"
+  },
+  {
+    "id": "04465",
+    "pdm": "CAPACITOR FIXO A AR ( DIELETRICO )"
+  },
+  {
+    "id": "04466",
+    "pdm": "CAPACITOR FIXO A OLEO"
+  },
+  {
+    "id": "04467",
+    "pdm": "CAPACITOR FIXO A VACUO"
+  },
+  {
+    "id": "04468",
+    "pdm": "CAPACITOR FIXO DE MICA"
+  },
+  {
+    "id": "04469",
+    "pdm": "CAPACITOR FIXO DE PAPEL"
+  },
+  {
+    "id": "04470",
+    "pdm": "CAPACITOR FIXO DE PLASTICO"
+  },
+  {
+    "id": "04471",
+    "pdm": "CAPACITOR FIXO DE QUARTZO"
+  },
+  {
+    "id": "04472",
+    "pdm": "CAPACITOR FIXO DE VIDRO"
+  },
+  {
+    "id": "04473",
+    "pdm": "CAPACITOR PADRAO"
+  },
+  {
+    "id": "04474",
+    "pdm": "CAPACITOR PARA USO EM ELETRONICA"
+  },
+  {
+    "id": "04475",
+    "pdm": "CAPACITOR PARA USO EM SISTEMA DE POTENCIA"
+  },
+  {
+    "id": "04476",
+    "pdm": "CAPACITOR VARIÁVEL PLACA"
+  },
+  {
+    "id": "04477",
+    "pdm": "CAPACITOR VARIAVEL A AR ( DIELETRICO )"
+  },
+  {
+    "id": "04478",
+    "pdm": "CAPACITOR VARIAVEL A OLEO"
+  },
+  {
+    "id": "04479",
+    "pdm": "CAPACITOR VARIAVEL A VACUO"
+  },
+  {
+    "id": "04480",
+    "pdm": "CAPACITOR VARIÁVEL CERÂMICO"
+  },
+  {
+    "id": "04481",
+    "pdm": "CAPACITOR VARIAVEL DE MICA"
+  },
+  {
+    "id": "04482",
+    "pdm": "CAPACITOR VARIAVEL DE PAPEL"
+  },
+  {
+    "id": "04483",
+    "pdm": "CAPACITOR VARIAVEL DE PLASTICO"
+  },
+  {
+    "id": "04484",
+    "pdm": "CAPACITOR VARIAVEL DE QUARTZO"
+  },
+  {
+    "id": "04485",
+    "pdm": "CAPACITOR VARIAVEL DE VIDRO"
+  },
+  {
+    "id": "04486",
+    "pdm": "CAPACITOR VARIAVEL PADDERS"
+  },
+  {
+    "id": "04487",
+    "pdm": "CAPACITOR VARIAVEL TRIMMERS"
+  },
+  {
+    "id": "04544",
+    "pdm": "CARGA RESISTIVA"
+  },
+  {
+    "id": "04648",
+    "pdm": "CARTAO CONVERSOR"
+  },
+  {
+    "id": "04674",
+    "pdm": "CARVAO DE ESCOVA DE CONTATO ELETRICO"
+  },
+  {
+    "id": "04738",
+    "pdm": "CÉLULA FOTOELÉTRICA"
+  },
+  {
+    "id": "04785",
+    "pdm": "CERÂMICA ESTRUTURAL"
+  },
+  {
+    "id": "04786",
+    "pdm": "CERÂMICA PIEZOELÉTRICA"
+  },
+  {
+    "id": "04787",
+    "pdm": "CERAMICA TECNICA"
+  },
+  {
+    "id": "04859",
+    "pdm": "CHASSI DE EQUIPAMENTO ELETRICO"
+  },
+  {
+    "id": "04861",
+    "pdm": "CHASSI PARA EQUIPAMENTO ELETRONICO"
+  },
+  {
+    "id": "04869",
+    "pdm": "CHAVE AUTOMÁTICA"
+  },
+  {
+    "id": "04874",
+    "pdm": "CHAVE COMUTADORA"
+  },
+  {
+    "id": "04878",
+    "pdm": "CHAVE DE BOTAO"
+  },
+  {
+    "id": "04884",
+    "pdm": "CHAVE FIM DE CURSO"
+  },
+  {
+    "id": "04886",
+    "pdm": "CHAVE DE INVERSAO"
+  },
+  {
+    "id": "04888",
+    "pdm": "CHAVE DE MERCURIO"
+  },
+  {
+    "id": "04889",
+    "pdm": "CHAVE DE NIVEL"
+  },
+  {
+    "id": "04893",
+    "pdm": "CHAVE PARTIDA ESTÁTICA"
+  },
+  {
+    "id": "04894",
+    "pdm": "CHAVE DE PRESSAO DIFERENCIAL"
+  },
+  {
+    "id": "04898",
+    "pdm": "CHAVE ELETRICA A OLEO ACIMA DE 7.2KV ATE 38KV"
+  },
+  {
+    "id": "04899",
+    "pdm": "CHAVE ELÉTRICA BLINDADA"
+  },
+  {
+    "id": "04900",
+    "pdm": "CHAVE ELÉTRICA"
+  },
+  {
+    "id": "04901",
+    "pdm": "CHAVE ELETRICA INTERRUPTORA"
+  },
+  {
+    "id": "04902",
+    "pdm": "CHAVE ELÉTRICA ROTATIVA"
+  },
+  {
+    "id": "04903",
+    "pdm": "CHAVE ELETRICA ROTATIVA"
+  },
+  {
+    "id": "04904",
+    "pdm": "CHAVE ELÉTRICA TIPO BÓIA"
+  },
+  {
+    "id": "04909",
+    "pdm": "CHAVE FUSIVEL"
+  },
+  {
+    "id": "04911",
+    "pdm": "CHAVE FUSIVEL ACIMA DE 1.2KV ATE 7.2KV"
+  },
+  {
+    "id": "04912",
+    "pdm": "CHAVE FUSIVEL ACIMA DE 36.2KV"
+  },
+  {
+    "id": "04913",
+    "pdm": "CHAVE FUSIVEL ACIMA DE 7.2KV ATE 36.2KV"
+  },
+  {
+    "id": "04914",
+    "pdm": "CHAVE FUSIVEL ATE 1.2KV"
+  },
+  {
+    "id": "04916",
+    "pdm": "CHAVE INTERRUPTORA DESLIZANTE"
+  },
+  {
+    "id": "04917",
+    "pdm": "CHAVE MAGNÉTICA"
+  },
+  {
+    "id": "04918",
+    "pdm": "CHAVE MAGNETICA ILUMINACAO PUBLICA"
+  },
+  {
+    "id": "04924",
+    "pdm": "CHAVE ELETRÔNICA"
+  },
+  {
+    "id": "04925",
+    "pdm": "SECCIONADOR"
+  },
+  {
+    "id": "04926",
+    "pdm": "CHAVE SECCIONADORA ACIMA DE 242KV"
+  },
+  {
+    "id": "04927",
+    "pdm": "CHAVE SECCIONADORA ATE 1.2KV"
+  },
+  {
+    "id": "04928",
+    "pdm": "CHAVE SECCIONADORA DE ATERRAMENTO"
+  },
+  {
+    "id": "04929",
+    "pdm": "CHAVE SECCIONADORA DE 1.2KV ATE 7.2KV"
+  },
+  {
+    "id": "04930",
+    "pdm": "CHAVE SECCIONADORA DE 36.2KV ATE 242KV"
+  },
+  {
+    "id": "04931",
+    "pdm": "CHAVE SECCIONADORA DE 7.2KV ATE 36.2KV"
+  },
+  {
+    "id": "04932",
+    "pdm": "CHAVE SECCIONADORA MONOPOLAR"
+  },
+  {
+    "id": "04933",
+    "pdm": "CHAVE SECCIONADORA MONOPOLAR A OLEO"
+  },
+  {
+    "id": "04934",
+    "pdm": "CHAVE SECCIONADORA PANTOGRAFICA E SEMIPANTOGRAFICA"
+  },
+  {
+    "id": "04935",
+    "pdm": "CHAVE SECCIONADORA TRIPOLAR"
+  },
+  {
+    "id": "04936",
+    "pdm": "CHAVE SECCIONADORA TRIPOLAR A OLEO"
+  },
+  {
+    "id": "04937",
+    "pdm": "CHAVE SELETORA"
+  },
+  {
+    "id": "04938",
+    "pdm": "CHAVE SINALIZADORA"
+  },
+  {
+    "id": "04940",
+    "pdm": "CHAVE TERMOSTATICA"
+  },
+  {
+    "id": "05017",
+    "pdm": "CINTA POSTE"
+  },
+  {
+    "id": "05043",
+    "pdm": "CIRCUITO INTEGRADO"
+  },
+  {
+    "id": "05044",
+    "pdm": "CIRCUITO MINIATURIZADO"
+  },
+  {
+    "id": "05069",
+    "pdm": "CLANISTRON"
+  },
+  {
+    "id": "05378",
+    "pdm": "COMANDO PARA INTERLIGACAO DE RELE"
+  },
+  {
+    "id": "05427",
+    "pdm": "COMPONENTE ELETRICO - PONTE DE EMBARQUE DE AEROPORTO"
+  },
+  {
+    "id": "05428",
+    "pdm": "COMPONENTE ELETRICO - SENSOR INDICADOR DE PRESENCAPOR CELULA INFRAVERMELHA"
+  },
+  {
+    "id": "05429",
+    "pdm": "COMPONENTE ELETRICO - SISTEMA DE DOCAGEM DE AERONAVE"
+  },
+  {
+    "id": "05430",
+    "pdm": "COMPONENTE ELETRICO DE APARELHO DETECTOR DE METAL TIPO MALETA"
+  },
+  {
+    "id": "05431",
+    "pdm": "COMPONENTE ELETRICO DE SISTEMA INFORMATIVO DE VOO"
+  },
+  {
+    "id": "05432",
+    "pdm": "COMPONENTE ELETRICO DE VEICULO DE CONTROLE REMOTO DE MANIPULACAO DE CARGA EXPLOSIVA"
+  },
+  {
+    "id": "05433",
+    "pdm": "COMPONENTE ELETROELETRONICO - APARELHO DETECTOR DEARMA/EXPLOSIVO POR EMANACAO DE GAS - MALETA"
+  },
+  {
+    "id": "05434",
+    "pdm": "COMPONENTE ELETROELETRONICO - APARELHO DETECTORDE METAL TIPO MALETA"
+  },
+  {
+    "id": "05435",
+    "pdm": "COMPONENTE ELETROELETRONICO - EXPLOSIVO POR EMANA-CAO DE GAS"
+  },
+  {
+    "id": "05436",
+    "pdm": "COMPONENTE ELETROELETRONICO - PONTE EMBARQUE AERO-PORTO"
+  },
+  {
+    "id": "05437",
+    "pdm": "COMPONENTE ELETROELETRONICO - SENSOR INDICADOR_DE PRESENCA POR CELULA INFRAVERMELHA"
+  },
+  {
+    "id": "05438",
+    "pdm": "COMPONENTE ELETROELETRÔNICO - SISTEMA CONTROLE"
+  },
+  {
+    "id": "05439",
+    "pdm": "COMPONENTE ELETROELETRONICO - VEICULO DE CONTROLEREMOTO MANIPULACAO CARGA EXPLOSIVA"
+  },
+  {
+    "id": "05440",
+    "pdm": "COMPONENTE ELETROELETRONICO DE APARELHO DETECTOR DE ARMA / EXPLOSIVO POR RAIO X"
+  },
+  {
+    "id": "05441",
+    "pdm": "COMPONENTE ELETRONICO - APARELHO DETECTOR DE METALTIPO MALETA"
+  },
+  {
+    "id": "05442",
+    "pdm": "COMPONENTE ELETRONICO - PONTE DE EMBARQUE DE AEROPORTO"
+  },
+  {
+    "id": "05443",
+    "pdm": "COMPONENTE ELETRONICO - SENSOR INDICADOR DE PRESENCA POR CELULA INFRAVERMELHA"
+  },
+  {
+    "id": "05444",
+    "pdm": "COMPONENTE ELETRONICO - SISTEMA DE DOCAGEM DE AERONAVE"
+  },
+  {
+    "id": "05445",
+    "pdm": "COMPONENTE ELETRONICO - SISTEMA INFORMATIVO DE VOO"
+  },
+  {
+    "id": "05446",
+    "pdm": "COMPONENTE ELETRONICO DE VEICULOS DE CONTROLE REMOTO DE MANIPULACAO DE CARGA EXPLOSIVA"
+  },
+  {
+    "id": "05452",
+    "pdm": "ISOLANTE ELÉTRICO"
+  },
+  {
+    "id": "05476",
+    "pdm": "COMPOSTO ANTI - OXIDO PARA CONEXAO ELETRICA"
+  },
+  {
+    "id": "05543",
+    "pdm": "CONDUITE FLEXIVEL / ELETRODUTO METALICO FLEXIVEL"
+  },
+  {
+    "id": "05544",
+    "pdm": "CONDUITE RIGIDO / ELETRODUTO METALICO RIGIDO"
+  },
+  {
+    "id": "05545",
+    "pdm": "CONDULETE"
+  },
+  {
+    "id": "05553",
+    "pdm": "CONDUTO ELETRICO"
+  },
+  {
+    "id": "05562",
+    "pdm": "CONE DE ALTO - FALANTE"
+  },
+  {
+    "id": "05567",
+    "pdm": "CONECTOR CABO COAXIAL"
+  },
+  {
+    "id": "05568",
+    "pdm": "CAPA CONECTOR"
+  },
+  {
+    "id": "05573",
+    "pdm": "CONECTOR DE ALTA - FREQUENCIA"
+  },
+  {
+    "id": "05574",
+    "pdm": "CONECTOR ANTENA"
+  },
+  {
+    "id": "05575",
+    "pdm": "CONECTOR ÁUDIO-VÍDEO"
+  },
+  {
+    "id": "05576",
+    "pdm": "CONECTOR ELETRICO DE INSERCAO"
+  },
+  {
+    "id": "05577",
+    "pdm": "CONECTOR ELÉTRICO PARA VEÍCULO"
+  },
+  {
+    "id": "05578",
+    "pdm": "CONECTOR ELETRONICO CIRCULAR"
+  },
+  {
+    "id": "05579",
+    "pdm": "CONECTOR ELETRONICO CONCENTRICO"
+  },
+  {
+    "id": "05580",
+    "pdm": "CONECTOR ELETRONICO DE INSERCAO"
+  },
+  {
+    "id": "05581",
+    "pdm": "CONECTOR ELETRONICO DIN"
+  },
+  {
+    "id": "05582",
+    "pdm": "CONECTOR ELETRONICO LINEAR"
+  },
+  {
+    "id": "05583",
+    "pdm": "CONECTOR ELETRONICO RCA"
+  },
+  {
+    "id": "05584",
+    "pdm": "CONECTOR PARALELO REFORCADO"
+  },
+  {
+    "id": "05601",
+    "pdm": "CONEXÃO ELETROCALHA"
+  },
+  {
+    "id": "05621",
+    "pdm": "CONEXAO PARA ELETRODUTO PLASTICO"
+  },
+  {
+    "id": "05656",
+    "pdm": "CONJUNTO ( KIT ) DISSIPATIVO ESTATICO"
+  },
+  {
+    "id": "05702",
+    "pdm": "CONJUNTO DE CABO DE EQUIPAMENTO DE COMUNICACAO"
+  },
+  {
+    "id": "05737",
+    "pdm": "CONJUNTO DE REFLETOR DE SINAL"
+  },
+  {
+    "id": "05740",
+    "pdm": "CONJUNTO DE SINCRONIZACAO"
+  },
+  {
+    "id": "05766",
+    "pdm": "CONJUNTO OPTRONICO"
+  },
+  {
+    "id": "05773",
+    "pdm": "CONJUNTO RESISTIVO ENCAPSULADO"
+  },
+  {
+    "id": "05784",
+    "pdm": "CONTADOR"
+  },
+  {
+    "id": "05796",
+    "pdm": "CONTATO ELÉTRICO"
+  },
+  {
+    "id": "05797",
+    "pdm": "CONTATO ELETRONICO"
+  },
+  {
+    "id": "05810",
+    "pdm": "CONTROLADOR EDICAO"
+  },
+  {
+    "id": "05824",
+    "pdm": "CONTROLE DESLIZANTE"
+  },
+  {
+    "id": "05841",
+    "pdm": "CONVERSOR IMAGEM"
+  },
+  {
+    "id": "05859",
+    "pdm": "CORDÃO / PULSEIRA ATERRAMENTO"
+  },
+  {
+    "id": "05867",
+    "pdm": "CORDAO PARA MICROONDA"
+  },
+  {
+    "id": "05879",
+    "pdm": "CORNETA DE ALTO - FALANTE"
+  },
+  {
+    "id": "05970",
+    "pdm": "FILTRO CRISTAL"
+  },
+  {
+    "id": "05973",
+    "pdm": "CRISTAL OSCILADOR - PIEZOELETRICO QUARTZO"
+  },
+  {
+    "id": "05974",
+    "pdm": "CRISTAL QUARTZO"
+  },
+  {
+    "id": "05975",
+    "pdm": "CRISTAL RESSONANTE - PIEZOELETRICO"
+  },
+  {
+    "id": "06012",
+    "pdm": "CUPILHA"
+  },
+  {
+    "id": "06040",
+    "pdm": "DECADA DE CAPACITOR"
+  },
+  {
+    "id": "06077",
+    "pdm": "DESCONECTOR"
+  },
+  {
+    "id": "06132",
+    "pdm": "DETECTOR OPTRONICO"
+  },
+  {
+    "id": "06153",
+    "pdm": "DIAC"
+  },
+  {
+    "id": "06218",
+    "pdm": "DIMINUIDORA"
+  },
+  {
+    "id": "06225",
+    "pdm": "DIODO EMISSOR LUZ INFRAVERMELHA"
+  },
+  {
+    "id": "06258",
+    "pdm": "DISCO DE PÁRA - RAIOS"
+  },
+  {
+    "id": "06272",
+    "pdm": "DISJUNTOR A AR COMPRIMIDO"
+  },
+  {
+    "id": "06273",
+    "pdm": "DISJUNTOR A GAS SF6"
+  },
+  {
+    "id": "06274",
+    "pdm": "DISJUNTOR A GAS SF6 CLASSE 145KV"
+  },
+  {
+    "id": "06275",
+    "pdm": "DISJUNTOR A GAS SF6 CLASSE 36.2KV"
+  },
+  {
+    "id": "06276",
+    "pdm": "DISJUNTOR A PEQUENO VOLUME DE OLEO ATE 15KV"
+  },
+  {
+    "id": "06277",
+    "pdm": "DISJUNTOR A PEQUENO VOLUME DE OLEO CLASSE 145 KV"
+  },
+  {
+    "id": "06278",
+    "pdm": "DISJUNTOR A SOPRO MAGNETICO ACIMA DE 7.2KV ATE 38KV"
+  },
+  {
+    "id": "06279",
+    "pdm": "DISJUNTOR A SOPRO MAGNETICO ATE 7.2KV"
+  },
+  {
+    "id": "06280",
+    "pdm": "DISJUNTOR A VACUO"
+  },
+  {
+    "id": "06281",
+    "pdm": "DISJUNTOR A VACUO ACIMA DE 15KV"
+  },
+  {
+    "id": "06282",
+    "pdm": "DISJUNTOR A VACUO ACIMA DE 7.2KV ATE 15KV"
+  },
+  {
+    "id": "06283",
+    "pdm": "DISJUNTOR A VACUO ATE 7.2KV"
+  },
+  {
+    "id": "06284",
+    "pdm": "DISJUNTOR A VOLUME NORMAL DE OLEO ACIMA 15 KV"
+  },
+  {
+    "id": "06285",
+    "pdm": "DISJUNTOR A VOLUME NORMAL DE OLEO ATE 15 KV"
+  },
+  {
+    "id": "06286",
+    "pdm": "DISJUNTOR A VOLUME NORMAL DE OLEO CLASSE 15KV"
+  },
+  {
+    "id": "06287",
+    "pdm": "DISJUNTOR ABERTO DE BAIXA TENSAO"
+  },
+  {
+    "id": "06288",
+    "pdm": "DISJUNTOR DE CORRENTE CONTINUA"
+  },
+  {
+    "id": "06290",
+    "pdm": "DISJUNTOR ELETROSTÁTICO"
+  },
+  {
+    "id": "06291",
+    "pdm": "DISJUNTOR ELETROSTATICO"
+  },
+  {
+    "id": "06296",
+    "pdm": "DISPLAY TIPO LCD"
+  },
+  {
+    "id": "06297",
+    "pdm": "DISPLAY TIPO LED"
+  },
+  {
+    "id": "06298",
+    "pdm": "DISPOSITIVO A SEMICONDUTOR"
+  },
+  {
+    "id": "06300",
+    "pdm": "DISPOSITIVO COM CIRCUITO INTEGRADO"
+  },
+  {
+    "id": "06301",
+    "pdm": "DISPOSITIVO COM CONTADOR"
+  },
+  {
+    "id": "06302",
+    "pdm": "DISPOSITIVO COM FLIP FLOP"
+  },
+  {
+    "id": "06303",
+    "pdm": "DISPOSITIVO COM MEMORIA"
+  },
+  {
+    "id": "06309",
+    "pdm": "DISPOSITIVO DE FILME EXPRESSO"
+  },
+  {
+    "id": "06322",
+    "pdm": "DISPOSITIVO HIBRIDO"
+  },
+  {
+    "id": "06323",
+    "pdm": "DISPOSITIVO INTEGRADO"
+  },
+  {
+    "id": "06327",
+    "pdm": "DISPOSITIVO LOGICO"
+  },
+  {
+    "id": "06328",
+    "pdm": "DISPOSITIVO MAGNETICO"
+  },
+  {
+    "id": "06329",
+    "pdm": "DISPOSITIVO MOLECULAR"
+  },
+  {
+    "id": "06330",
+    "pdm": "DISPOSITIVO OPTICO - ELETRONICO"
+  },
+  {
+    "id": "06331",
+    "pdm": "DISPOSITIVO OPTRONICO"
+  },
+  {
+    "id": "06339",
+    "pdm": "DISSIPADOR DE CALOR"
+  },
+  {
+    "id": "06363",
+    "pdm": "DIVISOR DE CABOS DE COMUNICACAO"
+  },
+  {
+    "id": "06415",
+    "pdm": "DUTO DE CHAPA METALICA"
+  },
+  {
+    "id": "06418",
+    "pdm": "DUTO PISO / ACESSORIO"
+  },
+  {
+    "id": "06443",
+    "pdm": "ELEMENTO CIRCUITO LÓGICO ( GATEWAY )"
+  },
+  {
+    "id": "06462",
+    "pdm": "ELETRODUTO"
+  },
+  {
+    "id": "06464",
+    "pdm": "ELETRODUTO DE MATERIAL METALICO"
+  },
+  {
+    "id": "06465",
+    "pdm": "ELETRODUTO DE MATERIAL PLASTICO"
+  },
+  {
+    "id": "06466",
+    "pdm": "ELETRODUTO RÍGIDO AÇO CARBONO"
+  },
+  {
+    "id": "06485",
+    "pdm": "ELIMINADOR DE PILHA"
+  },
+  {
+    "id": "06527",
+    "pdm": "EMISSOR OPTRONICO COM INFORMACAO ALFANUMERICA"
+  },
+  {
+    "id": "06528",
+    "pdm": "EMISSOR OPTRONICO COM INFORMACAO DE GRAFICO"
+  },
+  {
+    "id": "06529",
+    "pdm": "EMISSOR OPTRONICO COM INFORMACAO DE SIMBOLO"
+  },
+  {
+    "id": "06530",
+    "pdm": "EMISSOR OPTRONICO COM INFORMACAO NUMERICA"
+  },
+  {
+    "id": "06638",
+    "pdm": "EQUIPAMENTO / DISPOSITIVO - TROCA DE FUSIVEL"
+  },
+  {
+    "id": "06644",
+    "pdm": "EQUIPAMENTO AUTO - ATENDIMENTO ( CAIXA RAPIDA / ELETRONICA )"
+  },
+  {
+    "id": "06693",
+    "pdm": "EQUIPAMENTO DE ESTABILIZACAO TENSAO"
+  },
+  {
+    "id": "06764",
+    "pdm": "EQUIPAMENTO DE TORRE DE ANTENA"
+  },
+  {
+    "id": "06777",
+    "pdm": "EQUIPAMENTO ELETRÔNICO - PAINEL CONEXÃO"
+  },
+  {
+    "id": "06779",
+    "pdm": "EQUIPAMENTO ELETRÔNICO DE PROCESSAMENTO DIGITAL"
+  },
+  {
+    "id": "06852",
+    "pdm": "EQUIPAMENTO SEGURANCA INTRINSECA"
+  },
+  {
+    "id": "06854",
+    "pdm": "CENTRAL PROCESSADORA VÍDEO"
+  },
+  {
+    "id": "06935",
+    "pdm": "ESCOVA ALIMENTADORA DE ELETRICIDADE"
+  },
+  {
+    "id": "06940",
+    "pdm": "ESCOVA DE CONTATO DE EQUIPAMENTO ELÉTRICO"
+  },
+  {
+    "id": "06981",
+    "pdm": "ESPAÇADOR DE CABOS"
+  },
+  {
+    "id": "06984",
+    "pdm": "ESPAGUETE PARA USO EM ELETRICIDADE"
+  },
+  {
+    "id": "07009",
+    "pdm": "PLACA CEGA"
+  },
+  {
+    "id": "07371",
+    "pdm": "FERRAGEM DE ACO ZINCADO PARA DISTRIBUICAO"
+  },
+  {
+    "id": "07373",
+    "pdm": "FERRAGEM DE ALUMINIO PARA DISTRIBUICAO"
+  },
+  {
+    "id": "07380",
+    "pdm": "FERRAGEM DE POSTE"
+  },
+  {
+    "id": "07382",
+    "pdm": "FERRAGEM PARA POSTE ESPECIAL"
+  },
+  {
+    "id": "07410",
+    "pdm": "FIBRA ISOLANTE"
+  },
+  {
+    "id": "07412",
+    "pdm": "FIBRA OPTICA DE EQUIPAMENTO DE COMUNICACAO"
+  },
+  {
+    "id": "07469",
+    "pdm": "FILTRO DE CORRENTE CONTINUA"
+  },
+  {
+    "id": "07472",
+    "pdm": "FILTRO LINHA"
+  },
+  {
+    "id": "07534",
+    "pdm": "FIO FUSIVEL"
+  },
+  {
+    "id": "07544",
+    "pdm": "FIO TERRA"
+  },
+  {
+    "id": "07563",
+    "pdm": "FITA"
+  },
+  {
+    "id": "07592",
+    "pdm": "FITA ISOLANTE ELÉTRICA"
+  },
+  {
+    "id": "07593",
+    "pdm": "FITA ISOLANTE DE AUTO - FUSAO"
+  },
+  {
+    "id": "07594",
+    "pdm": "FITA ISOLANTE DE FIBRA DE VIDRO"
+  },
+  {
+    "id": "07595",
+    "pdm": "FITA ISOLANTE DE PVC"
+  },
+  {
+    "id": "07634",
+    "pdm": "FLANGE PARA GUIAS DE ONDAS"
+  },
+  {
+    "id": "07703",
+    "pdm": "FONE OUVIDO"
+  },
+  {
+    "id": "07707",
+    "pdm": "FONTE ALIMENTAÇÃO CONTROLE PROCESSO INDUSTRIAL"
+  },
+  {
+    "id": "07708",
+    "pdm": "FONTE ALIMENTACAO DE LABORATORIO"
+  },
+  {
+    "id": "07712",
+    "pdm": "FONTE ENERGIA - APARELHO ELETROFORESE"
+  },
+  {
+    "id": "07806",
+    "pdm": "FOTODIODO"
+  },
+  {
+    "id": "07818",
+    "pdm": "FOTORRESISTOR"
+  },
+  {
+    "id": "07880",
+    "pdm": "FUSISTOR"
+  },
+  {
+    "id": "07881",
+    "pdm": "FUSIVEIS HRS ( FUSE TRAP )"
+  },
+  {
+    "id": "07882",
+    "pdm": "FUSÍVEL VEÍCULO AUTOMOTIVO"
+  },
+  {
+    "id": "07883",
+    "pdm": "FUSÍVEL DIAZED"
+  },
+  {
+    "id": "07884",
+    "pdm": "FUSÍVEL NH"
+  },
+  {
+    "id": "07885",
+    "pdm": "FUSIVEL DE ALARME"
+  },
+  {
+    "id": "07886",
+    "pdm": "FUSÍVEL VIDRO"
+  },
+  {
+    "id": "07887",
+    "pdm": "FUSIVEL TIPO CARTUCHO - BAIXA TENSAO"
+  },
+  {
+    "id": "07888",
+    "pdm": "FUSIVEL TIPO ROLHA"
+  },
+  {
+    "id": "07930",
+    "pdm": "GARRA JACARÉ"
+  },
+  {
+    "id": "07970",
+    "pdm": "GERADOR BARRA"
+  },
+  {
+    "id": "07971",
+    "pdm": "GERADOR CARACTER"
+  },
+  {
+    "id": "07980",
+    "pdm": "GERADOR DE SENO/CO-SENO"
+  },
+  {
+    "id": "07984",
+    "pdm": "GERADOR SINCRONO"
+  },
+  {
+    "id": "08040",
+    "pdm": "GOVERNADOR DE RELE"
+  },
+  {
+    "id": "08064",
+    "pdm": "GRAMPO DE BATERIA"
+  },
+  {
+    "id": "08068",
+    "pdm": "GRAMPO DE GUIA DE ONDA"
+  },
+  {
+    "id": "08069",
+    "pdm": "GRAMPO DE PROVA"
+  },
+  {
+    "id": "08076",
+    "pdm": "GRAMPO TERRA"
+  },
+  {
+    "id": "08130",
+    "pdm": "GUIA DE ONDA"
+  },
+  {
+    "id": "08170",
+    "pdm": "HASTE DE ATERRAMENTO"
+  },
+  {
+    "id": "08174",
+    "pdm": "HASTE DE PARA - RAIOS"
+  },
+  {
+    "id": "08285",
+    "pdm": "IMA PERMANENTE"
+  },
+  {
+    "id": "08363",
+    "pdm": "INDUTOR"
+  },
+  {
+    "id": "08365",
+    "pdm": "INDUTOR RÁDIO-FREQUÊNCIA"
+  },
+  {
+    "id": "08406",
+    "pdm": "INSTRUMENTO ELETROELETRONICO"
+  },
+  {
+    "id": "08443",
+    "pdm": "INTERRUPTOR DE BOTAO"
+  },
+  {
+    "id": "08444",
+    "pdm": "INTERRUPTOR DE FUNCAO ATIVO EM SISTEMA ELETRONICO ( TIMER )"
+  },
+  {
+    "id": "08448",
+    "pdm": "INTERRUPTOR DE PISO DE EMBUTIR"
+  },
+  {
+    "id": "08449",
+    "pdm": "INTERRUPTOR DE PISO DE SOBREPOR"
+  },
+  {
+    "id": "08451",
+    "pdm": "INTERRUPTOR DE VAI - E - VEM"
+  },
+  {
+    "id": "08452",
+    "pdm": "INTERRUPTOR MANUAL"
+  },
+  {
+    "id": "08453",
+    "pdm": "INTERRUPTOR ROTATIVO"
+  },
+  {
+    "id": "08454",
+    "pdm": "INTERRUPTOR SEQUENCIAL PARA PAINEL LUMINOSO"
+  },
+  {
+    "id": "08455",
+    "pdm": "INTERRUPTOR TERMOSTATICO"
+  },
+  {
+    "id": "08489",
+    "pdm": "ISOLADOR DE RESINA SINTETICA"
+  },
+  {
+    "id": "08490",
+    "pdm": "ISOLADOR ELETRICO DE PORCELANA ATE 1.2KV"
+  },
+  {
+    "id": "08491",
+    "pdm": "ISOLADOR ELETRONICO"
+  },
+  {
+    "id": "08492",
+    "pdm": "ISOLADOR EPOXI"
+  },
+  {
+    "id": "08517",
+    "pdm": "JACK DE MICROFONE"
+  },
+  {
+    "id": "08536",
+    "pdm": "JOGO DE CABO DE RADIO - FREQUENCIA"
+  },
+  {
+    "id": "08539",
+    "pdm": "JOGO DE CABO PARA RADIO - FREQUENCIA"
+  },
+  {
+    "id": "08582",
+    "pdm": "KLYSTRON"
+  },
+  {
+    "id": "08628",
+    "pdm": "LAMINA PARA FUSIVEL"
+  },
+  {
+    "id": "08649",
+    "pdm": "LÂMPADA DE CARGA"
+  },
+  {
+    "id": "08736",
+    "pdm": "LATRON"
+  },
+  {
+    "id": "08758",
+    "pdm": "LEITO PARA CABO / ACESSORIO"
+  },
+  {
+    "id": "08765",
+    "pdm": "LEITORA EPROM - UNIVERSAL"
+  },
+  {
+    "id": "08866",
+    "pdm": "LINHA DE TRANSMISSAO"
+  },
+  {
+    "id": "09022",
+    "pdm": "MAGNETO - RESISTOR"
+  },
+  {
+    "id": "09024",
+    "pdm": "MAGNETO PERMANENTE"
+  },
+  {
+    "id": "09025",
+    "pdm": "MAGNETO RESISTOR"
+  },
+  {
+    "id": "09026",
+    "pdm": "MAGNETROM"
+  },
+  {
+    "id": "09139",
+    "pdm": "MAQUETE PERMANENTE"
+  },
+  {
+    "id": "09174",
+    "pdm": "MAQUINA DE CORROSAO - FABRICACAO CIRCUITO IMPRESSO"
+  },
+  {
+    "id": "09368",
+    "pdm": "MARCADOR DE FIO ELÉTRICO"
+  },
+  {
+    "id": "09430",
+    "pdm": "MASTRO DE ANTENA"
+  },
+  {
+    "id": "09486",
+    "pdm": "ISOLADOR ELÉTRICO"
+  },
+  {
+    "id": "09719",
+    "pdm": "MICRO-RELÉ"
+  },
+  {
+    "id": "09732",
+    "pdm": "MICROFONE"
+  },
+  {
+    "id": "09733",
+    "pdm": "MICROFONE - LAPELA"
+  },
+  {
+    "id": "09734",
+    "pdm": "MICROFONE - MESA"
+  },
+  {
+    "id": "09735",
+    "pdm": "BASE MICROFONE"
+  },
+  {
+    "id": "09736",
+    "pdm": "PEÇA / COMPONENTE MICROFONE"
+  },
+  {
+    "id": "09737",
+    "pdm": "MICROFONE A CRISTAL"
+  },
+  {
+    "id": "09738",
+    "pdm": "MICROFONE CAPACITIVO"
+  },
+  {
+    "id": "09739",
+    "pdm": "MICROFONE ELETRODINAMICO"
+  },
+  {
+    "id": "09750",
+    "pdm": "MICROPROCESSADOR"
+  },
+  {
+    "id": "09751",
+    "pdm": "TRANSMISSOR DE NÍVEL"
+  },
+  {
+    "id": "09777",
+    "pdm": "MINUTERIA"
+  },
+  {
+    "id": "09840",
+    "pdm": "MODULO DE CIRCUITO INTEGRADO"
+  },
+  {
+    "id": 10018,
+    "pdm": "MULTIVIBRADOR BIESTAVEL"
+  },
+  {
+    "id": 10226,
+    "pdm": "OSCILADOR DE CRISTAL"
+  },
+  {
+    "id": 10227,
+    "pdm": "OSCILADOR DE NAO CRISTAL"
+  },
+  {
+    "id": 10306,
+    "pdm": "PAINEL ELETRÔNICO"
+  },
+  {
+    "id": 10385,
+    "pdm": "PAPEL ISOLANTE"
+  },
+  {
+    "id": 10416,
+    "pdm": "PARA - RAIOS ACIMA DE 242KV"
+  },
+  {
+    "id": 10417,
+    "pdm": "PARA - RAIOS ATE 15KV"
+  },
+  {
+    "id": 10418,
+    "pdm": "PÁRA-RAIOS FRANKLIN"
+  },
+  {
+    "id": 10541,
+    "pdm": "PECA MECANICA DE SENSOR INDICADOR DE PRESENCA POR CELULA INFRAVERMELHA"
+  },
+  {
+    "id": 10577,
+    "pdm": "PEDESTAL DE ANTENA"
+  },
+  {
+    "id": 10580,
+    "pdm": "PEDESTAL MICROFONE"
+  },
+  {
+    "id": 10600,
+    "pdm": "PELICULA FINA ( MICROCIRCUITO ELETRONICO )"
+  },
+  {
+    "id": 10654,
+    "pdm": "PERFIL PARA ELETRODUTO"
+  },
+  {
+    "id": 10655,
+    "pdm": "PERFILADO"
+  },
+  {
+    "id": 10696,
+    "pdm": "PETROLETE"
+  },
+  {
+    "id": 10745,
+    "pdm": "PINO DERIVAÇÃO TRÊS SAÍDAS"
+  },
+  {
+    "id": 10822,
+    "pdm": "PLACA CIRCUITO IMPRESSO"
+  },
+  {
+    "id": 10823,
+    "pdm": "PLACA DE CIRCUITO IMPRESSO NAO MONTADA"
+  },
+  {
+    "id": 10835,
+    "pdm": "PLACA DE MICA DE ISOLAMENTO ELETRICO"
+  },
+  {
+    "id": 10836,
+    "pdm": "PLACA CAIXA EMBUTIR"
+  },
+  {
+    "id": 10837,
+    "pdm": "PLACA DE PAREDE PARA TOMADA"
+  },
+  {
+    "id": 10842,
+    "pdm": "PLACA DE TERMINAL"
+  },
+  {
+    "id": 10852,
+    "pdm": "PLACA ISOLANTE"
+  },
+  {
+    "id": 10874,
+    "pdm": "PLACAS DE CIRCUITO ELETRONICO PARA COPIADORA"
+  },
+  {
+    "id": 10875,
+    "pdm": "PLACAS DE CIRCUITO ELETRONICO PARA PROJETOR"
+  },
+  {
+    "id": 10912,
+    "pdm": "PLUG ÁUDIO"
+  },
+  {
+    "id": 10980,
+    "pdm": "POLO DE LIGACAO"
+  },
+  {
+    "id": 11001,
+    "pdm": "PONTE DE DIODO"
+  },
+  {
+    "id": 11042,
+    "pdm": "PORTA-FUSÍVEL"
+  },
+  {
+    "id": 11116,
+    "pdm": "POTE DE PUPINIZACAO - CHOQUE"
+  },
+  {
+    "id": 11118,
+    "pdm": "POTENCIÔMETRO"
+  },
+  {
+    "id": 11119,
+    "pdm": "POTENCIOMETRO DE CARBONO MULTIVOLTA"
+  },
+  {
+    "id": 11120,
+    "pdm": "POTENCIOMETRO DE CARBONO SIMPLES"
+  },
+  {
+    "id": 11121,
+    "pdm": "POTENCIOMETRO DE CERAMICA"
+  },
+  {
+    "id": 11122,
+    "pdm": "POTENCIOMETRO DE FILME METALICO"
+  },
+  {
+    "id": 11123,
+    "pdm": "POTENCIOMETRO DE FIO DUPLO COM CHAVE"
+  },
+  {
+    "id": 11124,
+    "pdm": "POTENCIOMETRO DE FIO DUPLO SEM CHAVE"
+  },
+  {
+    "id": 11125,
+    "pdm": "POTENCIÔMETRO MULTIVOLTAS"
+  },
+  {
+    "id": 11126,
+    "pdm": "POTENCIOMETRO DE FIO RETILINEO"
+  },
+  {
+    "id": 11127,
+    "pdm": "POTENCIOMETRO DE FIO SIMPLES COM CHAVE"
+  },
+  {
+    "id": 11128,
+    "pdm": "POTENCIOMETRO DE FIO SIMPLES SEM CHAVE"
+  },
+  {
+    "id": 11138,
+    "pdm": "PRATELEIRA DE CABO ELETRICO"
+  },
+  {
+    "id": 11204,
+    "pdm": "PRESILHA DE CABO GUIA DE RADIO FREQUENCIA"
+  },
+  {
+    "id": 11305,
+    "pdm": "PROTETOR CONTRA SURTO TRANSITORIO ELETRICO - COMPONENTE"
+  },
+  {
+    "id": 11306,
+    "pdm": "PROTETOR CONTRA SURTO TRANSITORIO ELETRICO - RAIOS / DESCARGA ATMOSFERICA"
+  },
+  {
+    "id": 11309,
+    "pdm": "PROTETOR DE CABO"
+  },
+  {
+    "id": 11314,
+    "pdm": "PROTETOR DE LINHA - CENTELHADOR"
+  },
+  {
+    "id": 11315,
+    "pdm": "PROTETOR ELETRONICO LINHA - ELETRICA / TELEFONICA"
+  },
+  {
+    "id": 11470,
+    "pdm": "RECEPTACULO"
+  },
+  {
+    "id": 11471,
+    "pdm": "RECEPTACULO PROVISORIO"
+  },
+  {
+    "id": 11472,
+    "pdm": "RECEPTOR / DECODIFICADOR - SINAIS DIGITAIS"
+  },
+  {
+    "id": 11504,
+    "pdm": "REDE DE INVERSAO DE FASE"
+  },
+  {
+    "id": 11509,
+    "pdm": "REDE PARA COMPENSACAO DE LINHA"
+  },
+  {
+    "id": 11546,
+    "pdm": "REGISTRADOR DE COMUTACAO"
+  },
+  {
+    "id": 11547,
+    "pdm": "REGISTRADOR DE MEIA COMUTACAO"
+  },
+  {
+    "id": 11575,
+    "pdm": "RÉGUA ELÉTRICA"
+  },
+  {
+    "id": 11606,
+    "pdm": "RELE ALARME USO INDUSTRIAL"
+  },
+  {
+    "id": 11607,
+    "pdm": "RELE AUXILIAR USO INDUSTRIAL"
+  },
+  {
+    "id": 11608,
+    "pdm": "RELE BLOQUEIO USO INDUSTRIAL"
+  },
+  {
+    "id": 11609,
+    "pdm": "RELE DE MERCURIO"
+  },
+  {
+    "id": 11611,
+    "pdm": "RELÉ DE RETARDO"
+  },
+  {
+    "id": 11612,
+    "pdm": "RELÉ TEMPERATURA"
+  },
+  {
+    "id": 11613,
+    "pdm": "RELE DE TEMPO"
+  },
+  {
+    "id": 11614,
+    "pdm": "RELÉ PROTEÇÃO SISTEMA ELÉTRICO"
+  },
+  {
+    "id": 11615,
+    "pdm": "RELÉ REED SWITCH"
+  },
+  {
+    "id": 11616,
+    "pdm": "RELÉ TÉRMICO"
+  },
+  {
+    "id": 11639,
+    "pdm": "REOSTATO"
+  },
+  {
+    "id": 11640,
+    "pdm": "REOSTATO DE BAIXA POTENCIA"
+  },
+  {
+    "id": 11653,
+    "pdm": "REPETIDOR SINCRONO"
+  },
+  {
+    "id": 11680,
+    "pdm": "RESISTENCIA ( FUSIVEL DE CERAMICA ) BOBINA DE IGNICAO - VEICULO AUTOMOTIVO"
+  },
+  {
+    "id": 11681,
+    "pdm": "RESISTENCIA ELETRICA"
+  },
+  {
+    "id": 11682,
+    "pdm": "RESISTOR AJUSTAVEL ( VARIAVEL )"
+  },
+  {
+    "id": 11683,
+    "pdm": "RESISTOR DE AQUECIMENTO DE LIQUIDO"
+  },
+  {
+    "id": 11684,
+    "pdm": "RESISTOR ATERRAMENTO"
+  },
+  {
+    "id": 11685,
+    "pdm": "RESISTOR DE COMPENSACAO"
+  },
+  {
+    "id": 11686,
+    "pdm": "RESISTOR DE FITA"
+  },
+  {
+    "id": 11687,
+    "pdm": "RESISTOR MONTAGEM EM SUPERFÍCIE"
+  },
+  {
+    "id": 11688,
+    "pdm": "RESISTOR IMPRESSO"
+  },
+  {
+    "id": 11689,
+    "pdm": "RESISTOR"
+  },
+  {
+    "id": 11690,
+    "pdm": "RESISTOR PARA AQUECIMENTO"
+  },
+  {
+    "id": 11691,
+    "pdm": "RESISTÊNCIA CÁRTER"
+  },
+  {
+    "id": 11692,
+    "pdm": "RESOLUCAO SENO - CO - SENO"
+  },
+  {
+    "id": 11706,
+    "pdm": "RETENTOR DE ESCOVA DE CONTATO"
+  },
+  {
+    "id": 11713,
+    "pdm": "RETIFICADOR"
+  },
+  {
+    "id": 12005,
+    "pdm": "SEMICONDUTOR"
+  },
+  {
+    "id": 12010,
+    "pdm": "SENSOR ELETRÔNICO"
+  },
+  {
+    "id": 12012,
+    "pdm": "SENSOR INDICADOR DE PRESENCA POR CELULA INFRAVERMELHA"
+  },
+  {
+    "id": 12018,
+    "pdm": "SEPARADOR CABO"
+  },
+  {
+    "id": 12052,
+    "pdm": "SERVOMECANISMO DE CONTROLE HIDRO - PNEUMATICO"
+  },
+  {
+    "id": 12069,
+    "pdm": "SIMETRIZADOR"
+  },
+  {
+    "id": 12088,
+    "pdm": "SINCRONOSCOPIO"
+  },
+  {
+    "id": 12093,
+    "pdm": "SINTONIZADOR DE ANTENA"
+  },
+  {
+    "id": 12193,
+    "pdm": "SOLENÓIDE"
+  },
+  {
+    "id": 12264,
+    "pdm": "SOMADOR PARCIAL"
+  },
+  {
+    "id": 12265,
+    "pdm": "SOMADORA"
+  },
+  {
+    "id": 12274,
+    "pdm": "SOQUETE PARA VALVULA"
+  },
+  {
+    "id": 12282,
+    "pdm": "STRIBITRIN"
+  },
+  {
+    "id": 12371,
+    "pdm": "SUPORTE PLACA CIRCUITO IMPRESSO"
+  },
+  {
+    "id": 12374,
+    "pdm": "SUPORTE DE ANTENA"
+  },
+  {
+    "id": 12383,
+    "pdm": "SUPORTE DE ESCOVA DE CONTATO ELÉTRICO"
+  },
+  {
+    "id": 12398,
+    "pdm": "SUPORTE ELETROCALHA"
+  },
+  {
+    "id": 12431,
+    "pdm": "SUPRESSOR DE CORRENTE PARASITARIA"
+  },
+  {
+    "id": 12432,
+    "pdm": "SUPRESSOR DE RUIDO"
+  },
+  {
+    "id": 12549,
+    "pdm": "TAPETE / MANTA DISSIPATIVO ESTATICO"
+  },
+  {
+    "id": 12577,
+    "pdm": "TECIDO ISOLANTE"
+  },
+  {
+    "id": 12581,
+    "pdm": "TECLA DE INTERRUPTOR DE PAREDE"
+  },
+  {
+    "id": 12601,
+    "pdm": "TELECOMUNICAÇÃO - EQUIPAMENTO/ACESSÓRIO/COMPONENTE"
+  },
+  {
+    "id": 12645,
+    "pdm": "TERMINAIS"
+  },
+  {
+    "id": 12648,
+    "pdm": "TERMINAL CABO"
+  },
+  {
+    "id": 12658,
+    "pdm": "TERMISTOR"
+  },
+  {
+    "id": 12806,
+    "pdm": "TOMADA DE CORRENTE"
+  },
+  {
+    "id": 12807,
+    "pdm": "TOMADA DE FACA"
+  },
+  {
+    "id": 12808,
+    "pdm": "TOMADA DE PAREDE DE SOBREPOR"
+  },
+  {
+    "id": 12809,
+    "pdm": "TOMADA POLARIZADA"
+  },
+  {
+    "id": 12868,
+    "pdm": "TRANSCODIFICADOR - FITA VIDEO"
+  },
+  {
+    "id": 12880,
+    "pdm": "TRANSFORMADOR COM NUCLEO DE FERRITE ATE 1KVA"
+  },
+  {
+    "id": 12882,
+    "pdm": "TRANSFORMADOR ÁUDIO"
+  },
+  {
+    "id": 12885,
+    "pdm": "TRANSFORMADOR CORRENTE"
+  },
+  {
+    "id": 12895,
+    "pdm": "TRANSFORMADOR DE PULSO ATE 1KVA"
+  },
+  {
+    "id": 12896,
+    "pdm": "TRANSFORMADOR DE ULTRA ISOLACAO MONOFASICA"
+  },
+  {
+    "id": 12898,
+    "pdm": "CRANSFORMADOR IMPEDÂNCIA"
+  },
+  {
+    "id": 12900,
+    "pdm": "TRANSISTOR"
+  },
+  {
+    "id": 12962,
+    "pdm": "TRIACK"
+  },
+  {
+    "id": 12984,
+    "pdm": "TRILHO PARA CONECTOR"
+  },
+  {
+    "id": 12989,
+    "pdm": "TRIMPOT CARBONO"
+  },
+  {
+    "id": 12990,
+    "pdm": "TRIMPOT CERMET"
+  },
+  {
+    "id": 13081,
+    "pdm": "TUBO DE RAIO CATODICO"
+  },
+  {
+    "id": 13166,
+    "pdm": "UNIDADE DE COMANDO DE IGNICAO ELETRONICA - VEICULOAUTOMOTIVO"
+  },
+  {
+    "id": 13170,
+    "pdm": "UNIDADE DE CRISTAL PIEZOELETRICO"
+  },
+  {
+    "id": 13263,
+    "pdm": "VALVULA DE MICROONDA"
+  },
+  {
+    "id": 13270,
+    "pdm": "VALVULA DIODO"
+  },
+  {
+    "id": 13275,
+    "pdm": "VALVULA FOTOELETRICA"
+  },
+  {
+    "id": 13280,
+    "pdm": "VALVULA PENTODO"
+  },
+  {
+    "id": 13287,
+    "pdm": "VALVULA RETIFICADORA"
+  },
+  {
+    "id": 13291,
+    "pdm": "VALVULA TETRODO"
+  },
+  {
+    "id": 13292,
+    "pdm": "VALVULA TRIODO"
+  },
+  {
+    "id": 13311,
+    "pdm": "VARIADOR DE VELOCIDADE - MOTOR / VENTILADOR / BOMBA / ACIONAMENTO REGULAVEL"
+  },
+  {
+    "id": 13312,
+    "pdm": "VARISTOR"
+  },
+  {
+    "id": 13359,
+    "pdm": "VEICULOS ESPACIAIS - SISTEMA DE CONTROLE / COMPONENTES"
+  },
+  {
+    "id": 13398,
+    "pdm": "VERNIZ ISOLANTE"
+  },
+  {
+    "id": 13421,
+    "pdm": "VÁLVULA ELETRÔNICA"
+  },
+  {
+    "id": 13459,
+    "pdm": "VISOR DE VALVULA DE RAIO CATODICO"
+  },
+  {
+    "id": 13544,
+    "pdm": "CONECTOR ELÉTRICO"
+  },
+  {
+    "id": 13548,
+    "pdm": "CONJUNTO DE CONTATO DE RELE"
+  },
+  {
+    "id": 13551,
+    "pdm": "TALA ELETROCALHA"
+  },
+  {
+    "id": 13583,
+    "pdm": "LUVA EMENDA COMPRESSÃO"
+  },
+  {
+    "id": 13630,
+    "pdm": "RELÉ FOTELÉTRICO"
+  },
+  {
+    "id": 13861,
+    "pdm": "PLACA SOM"
+  },
+  {
+    "id": 13918,
+    "pdm": "TOMADA TELEFONE"
+  },
+  {
+    "id": 13953,
+    "pdm": "PLACA FONTE CENTRÍFUGA"
+  },
+  {
+    "id": 13954,
+    "pdm": "PEDESTAL CAIXA ACÚSTICA"
+  },
+  {
+    "id": 13965,
+    "pdm": "CANALETA MOLDURA"
+  },
+  {
+    "id": 14239,
+    "pdm": "PLACA ELETRÔNICA"
+  },
+  {
+    "id": 14240,
+    "pdm": "CHAVE LIGA/DESLIGA"
+  },
+  {
+    "id": 14260,
+    "pdm": "CANALETA"
+  },
+  {
+    "id": 14306,
+    "pdm": "TOMADA AUTOMOTIVA"
+  },
+  {
+    "id": 14335,
+    "pdm": "CANALETA EVOLUTIVA"
+  },
+  {
+    "id": 14336,
+    "pdm": "COTOVELO 90°"
+  },
+  {
+    "id": 14337,
+    "pdm": "TAMPA EXTREMIDADE"
+  },
+  {
+    "id": 14338,
+    "pdm": "DERIVAÇÃO"
+  },
+  {
+    "id": 14339,
+    "pdm": "CAVILHA FIXAÇÃO RÁPIDA"
+  },
+  {
+    "id": 14340,
+    "pdm": "GRAMPO SUSTENTAÇÃO"
+  },
+  {
+    "id": 14341,
+    "pdm": "COTOVELO INTERN0"
+  },
+  {
+    "id": 14343,
+    "pdm": "CURVA ELETRODUTO"
+  },
+  {
+    "id": 14348,
+    "pdm": "ARRUELA ELETRODUTO"
+  },
+  {
+    "id": 14349,
+    "pdm": "BUCHA ELETRODUTO"
+  },
+  {
+    "id": 14501,
+    "pdm": "CONTROLADOR ACESSO"
+  },
+  {
+    "id": 14517,
+    "pdm": "CONTATOR"
+  },
+  {
+    "id": 14533,
+    "pdm": "MICROFONE ESTETOSCÓPIO"
+  },
+  {
+    "id": 14534,
+    "pdm": "MICROFONE DIRECIONAL"
+  },
+  {
+    "id": 14543,
+    "pdm": "PLUGUE REDUTOR"
+  },
+  {
+    "id": 14712,
+    "pdm": "FERRAMENTA TERMINAÇÃO CABEAMENTO"
+  },
+  {
+    "id": 14715,
+    "pdm": "ESPELHO CONDULETE"
+  },
+  {
+    "id": 14716,
+    "pdm": "ESPELHO TOMADA"
+  },
+  {
+    "id": 14743,
+    "pdm": "CONECTOR CABO PAR TRANÇADO"
+  },
+  {
+    "id": 14754,
+    "pdm": "FERRAMENTA DE INSERÇÃO"
+  },
+  {
+    "id": 14774,
+    "pdm": "CAPACITOR"
+  },
+  {
+    "id": 14923,
+    "pdm": "PRONT-BOARD"
+  },
+  {
+    "id": 14950,
+    "pdm": "TRANSFORMADOR ABAIXADOR TENSÃO"
+  },
+  {
+    "id": 14958,
+    "pdm": "TERMINAL ELÉTRICO"
+  },
+  {
+    "id": 14959,
+    "pdm": "BASE FUSÍVEL DIAZED"
+  },
+  {
+    "id": 14960,
+    "pdm": "ANTENA"
+  },
+  {
+    "id": 14961,
+    "pdm": "TAMPA FUSÍVEL DIAZED"
+  },
+  {
+    "id": 14963,
+    "pdm": "CONEXÃO ELETRODUTO"
+  },
+  {
+    "id": 14977,
+    "pdm": "BOTÃO POTENCIÔMETRO"
+  },
+  {
+    "id": 15049,
+    "pdm": "ESFERA SOM"
+  },
+  {
+    "id": 15095,
+    "pdm": "PROTETOR REDE ELÉTRICA"
+  },
+  {
+    "id": 15096,
+    "pdm": "PROTETOR REDE TELEFÔNICA"
+  },
+  {
+    "id": 15141,
+    "pdm": "RESISTÊNCIA ELÉTRICA"
+  },
+  {
+    "id": 15142,
+    "pdm": "BRAÇADEIRA ELETRODUTO"
+  },
+  {
+    "id": 15171,
+    "pdm": "ESCOVA CONTATO ELÉTRICO"
+  },
+  {
+    "id": 15201,
+    "pdm": "EXPOSÍMETRO AMPLIADOR FILME"
+  },
+  {
+    "id": 15261,
+    "pdm": "CAIXA TOMADA"
+  },
+  {
+    "id": 15266,
+    "pdm": "FOTOTRANSISTOR"
+  },
+  {
+    "id": 15392,
+    "pdm": "RESITÊNCIA VARETA"
+  },
+  {
+    "id": 15413,
+    "pdm": "MATA-JUNTAS CANALETA"
+  },
+  {
+    "id": 15560,
+    "pdm": "CONECTOR"
+  },
+  {
+    "id": 15568,
+    "pdm": "SUPORTE CAIXA"
+  },
+  {
+    "id": 15599,
+    "pdm": "LUVA ELETRODUTO"
+  },
+  {
+    "id": 15619,
+    "pdm": "TAMPÃO CONDULETE"
+  },
+  {
+    "id": 15620,
+    "pdm": "ADAPTADOR CONDULETE"
+  },
+  {
+    "id": 15621,
+    "pdm": "TAMPA CONDULETE"
+  },
+  {
+    "id": 15710,
+    "pdm": "PASSA FIO"
+  },
+  {
+    "id": 15777,
+    "pdm": "ESTOJO MICROFONES"
+  },
+  {
+    "id": 15782,
+    "pdm": "MÓDULO DE TIRISTORES"
+  },
+  {
+    "id": 15834,
+    "pdm": "COMPONENTE ELETRÔNICO - DISPLAY 7 SEGMENTOS"
+  },
+  {
+    "id": 15927,
+    "pdm": "PLACA MONTAGEM CIRCUITO ELETRÔNICO"
+  },
+  {
+    "id": 16020,
+    "pdm": "CONJUNTO MONTADO DISJUNTORES"
+  },
+  {
+    "id": 16053,
+    "pdm": "DISJUNTOR TERMOMAGNÉTICO"
+  },
+  {
+    "id": 16119,
+    "pdm": "PLUGUE PROLONGADOR"
+  },
+  {
+    "id": 16270,
+    "pdm": "CONVERSOR CABO COAXIAL"
+  },
+  {
+    "id": 16399,
+    "pdm": "CAIXA MEDIÇÃO"
+  },
+  {
+    "id": 16574,
+    "pdm": "ALÇA PREFORMADA"
+  },
+  {
+    "id": 16593,
+    "pdm": "CAIXA FIXAÇÃO CIRCUITO IMPRESSO"
+  },
+  {
+    "id": 16616,
+    "pdm": "CONEXÃO DISTRIBUIDORA ÁUDIO"
+  },
+  {
+    "id": 16617,
+    "pdm": "INTERRUPTOR AUTOMÁTICO DE CIRCUITO"
+  },
+  {
+    "id": 16618,
+    "pdm": "DIODO RETIFICADOR"
+  },
+  {
+    "id": 16637,
+    "pdm": "DIODO EMISSOR LUZ"
+  },
+  {
+    "id": 16646,
+    "pdm": "MODULO DIDÁTICO"
+  },
+  {
+    "id": 17047,
+    "pdm": "RESISTORES"
+  },
+  {
+    "id": 17048,
+    "pdm": "CAPACITORES"
+  },
+  {
+    "id": 17049,
+    "pdm": "FILTROS E REDES"
+  },
+  {
+    "id": 17050,
+    "pdm": "FUSÍVEIS INTERRUPTORES ISOLANTES E PROTETORES"
+  },
+  {
+    "id": 17051,
+    "pdm": "PEÇA / ACESSÓRIO DISJUNTOR"
+  },
+  {
+    "id": 17052,
+    "pdm": "CHAVES ELÉTRICAS"
+  },
+  {
+    "id": 17053,
+    "pdm": "CONECTORES ELÉTRICOS"
+  },
+  {
+    "id": 17054,
+    "pdm": "BORNES TERMINAIS E LÂMINAS TERMINAIS"
+  },
+  {
+    "id": 17055,
+    "pdm": "RELÉS E SOLENÓIDES"
+  },
+  {
+    "id": 17056,
+    "pdm": "BOBINAS E TRANSFORMADORES"
+  },
+  {
+    "id": 17057,
+    "pdm": "CRISTAIS OSCILADORES E PIEZOELÉTRICOS"
+  },
+  {
+    "id": 17058,
+    "pdm": "VÁLVULAS ELETRÔNICAS E FERRAGENS CORRELATAS"
+  },
+  {
+    "id": 17059,
+    "pdm": "DISPOSITIVOS A SEMICONDUTOR E PLACAS ASSOCIADAS (CIRCUITOS)"
+  },
+  {
+    "id": 17060,
+    "pdm": "MICROCIRCUITOS ELETRÔNICOS"
+  },
+  {
+    "id": 17061,
+    "pdm": "MÓDULO AMPLIFICADOR"
+  },
+  {
+    "id": 17062,
+    "pdm": "FONES MICROFONES E ALTO-FALANTES"
+  },
+  {
+    "id": 17063,
+    "pdm": "ISOLADORES ELÉTRICOS E MATERIAIS ISOLANTES"
+  },
+  {
+    "id": 17064,
+    "pdm": "FERRAGENS E SUPRIMENTOS DE ELETRICIDADE"
+  },
+  {
+    "id": 17065,
+    "pdm": "ESCOVAS DE CONTATO ELÉTRICO E ELETRODOS"
+  },
+  {
+    "id": 17066,
+    "pdm": "DISPOSITIVOS OPTOELETRÔNICOS E ITENS CORRELATOS"
+  },
+  {
+    "id": 17067,
+    "pdm": "ANTENAS GUIAS DE ONDA E ITENS CORRELATOS"
+  },
+  {
+    "id": 17068,
+    "pdm": "SINCRONIZADORES E ANALISADORES"
+  },
+  {
+    "id": 17069,
+    "pdm": "CONJUNTOS DE CABOS. CORDÕES E FIOS ELÉTRICOS PARA EQUIPAMENTOS DE COMUNICAÇÕES"
+  },
+  {
+    "id": 17070,
+    "pdm": "AMPLIFICADORES"
+  },
+  {
+    "id": 17071,
+    "pdm": "CONJUNTOS ELÉTRICOS E ELETRÔNICOS. PLACAS. CARTÕES E ITENS CORRELATOS"
+  },
+  {
+    "id": 17072,
+    "pdm": "COMPONENTES ELÉTRICOS E ELETRÔNICOS DIVERSOS"
+  },
+  {
+    "id": 17408,
+    "pdm": "TAMPÃO CONEXÃO"
+  },
+  {
+    "id": 17466,
+    "pdm": "RELÉ DE PULSO"
+  },
+  {
+    "id": 17476,
+    "pdm": "TAMPA FINAL"
+  },
+  {
+    "id": 17477,
+    "pdm": "PONTE CONECTORA"
+  },
+  {
+    "id": 17478,
+    "pdm": "SUPORTE MICROFONE"
+  },
+  {
+    "id": 17481,
+    "pdm": "PLACA SEPARAÇÃO"
+  },
+  {
+    "id": 17547,
+    "pdm": "MANGUEIRA ASPIRALADA"
+  },
+  {
+    "id": 17615,
+    "pdm": "PROTETOR FONE"
+  },
+  {
+    "id": 17782,
+    "pdm": "TESTADOR ISOLAÇÃO ALTA VOLTAGEM"
+  },
+  {
+    "id": 17802,
+    "pdm": "VARA DIRECIONAL"
+  },
+  {
+    "id": 17955,
+    "pdm": "MESA"
+  },
+  {
+    "id": 18112,
+    "pdm": "PULSEIRA ANTI-ESTÁTICA"
+  },
+  {
+    "id": 18198,
+    "pdm": "PROTOBOARD"
+  },
+  {
+    "id": 18289,
+    "pdm": "CANALETA EXTERNA"
+  },
+  {
+    "id": 18373,
+    "pdm": "FITA AQUECIMENTO"
+  },
+  {
+    "id": 18459,
+    "pdm": "PENTE DE SOQUETES"
+  },
+  {
+    "id": 18484,
+    "pdm": "ACESSÓRIO CANALETA"
+  },
+  {
+    "id": 18565,
+    "pdm": "ACESSÓRIO ELETROCALHA"
+  },
+  {
+    "id": 18586,
+    "pdm": "ESPIRADUTO"
+  },
+  {
+    "id": 18596,
+    "pdm": "TERMINAL CONEXÃO"
+  },
+  {
+    "id": 18663,
+    "pdm": "MÓDULO ELETRÔNICO"
+  },
+  {
+    "id": 18704,
+    "pdm": "BUCHA CONDENSIVA"
+  },
+  {
+    "id": 18743,
+    "pdm": "RELÉ TEMPO"
+  },
+  {
+    "id": 18746,
+    "pdm": "FUSÍVEL NEOZED"
+  },
+  {
+    "id": 18754,
+    "pdm": "RELÉ SOBRECORRENTE"
+  },
+  {
+    "id": 18787,
+    "pdm": "ARMAÇÃO SECUNDÁRIA"
+  },
+  {
+    "id": 18812,
+    "pdm": "JOGO CONTATO"
+  },
+  {
+    "id": 18815,
+    "pdm": "ALÇA PRÉ-FORMADA DISTRIBUIÇÃO"
+  },
+  {
+    "id": 18816,
+    "pdm": "ALÇA PRÉ-FORMADA ESTAI"
+  },
+  {
+    "id": 18818,
+    "pdm": "CHAPA ESTAI"
+  },
+  {
+    "id": 18821,
+    "pdm": "ISOLADOR PLÁSTICO"
+  },
+  {
+    "id": 18822,
+    "pdm": "HASTE ÂNCORA"
+  },
+  {
+    "id": 18829,
+    "pdm": "RELÉ FALTA DE FASE E TERRA"
+  },
+  {
+    "id": 18832,
+    "pdm": "PÁRA-RAIOS TIPO ESTAÇÃO"
+  },
+  {
+    "id": 18833,
+    "pdm": "CONECTOR DERIVAÇÃO"
+  },
+  {
+    "id": 18845,
+    "pdm": "TRANSFORMADOR POTENCIAL INDUTIVO"
+  },
+  {
+    "id": 18848,
+    "pdm": "PRENSA-CABO"
+  },
+  {
+    "id": 18852,
+    "pdm": "FUSÍVEL"
+  },
+  {
+    "id": 18853,
+    "pdm": "FITA ISOLANTE ELÉTRICA ADESIVA"
+  },
+  {
+    "id": 18861,
+    "pdm": "CONJUNTO DE ANCORAGEM"
+  },
+  {
+    "id": 18872,
+    "pdm": "ISOLADOR BASTÃO"
+  },
+  {
+    "id": 18876,
+    "pdm": "CAIXA DERIVAÇÃO USO EXTERNO"
+  },
+  {
+    "id": 18895,
+    "pdm": "ISOLADOR ANCORAGEM"
+  },
+  {
+    "id": 18896,
+    "pdm": "LAÇO PLÁSTICO"
+  },
+  {
+    "id": 18897,
+    "pdm": "ANEL AMARRAÇÃO"
+  },
+  {
+    "id": 18898,
+    "pdm": "GRAMPO ANCORAGEM"
+  },
+  {
+    "id": 18899,
+    "pdm": "PINO CURTO"
+  },
+  {
+    "id": 18900,
+    "pdm": "ESTRIBO"
+  },
+  {
+    "id": 18901,
+    "pdm": "CANTONEIRA RETA"
+  },
+  {
+    "id": 18902,
+    "pdm": "BRAÇO TIPO L"
+  },
+  {
+    "id": 18903,
+    "pdm": "CONEXÃO ELETRODUTO"
+  },
+  {
+    "id": 18904,
+    "pdm": "CHAVE DE FLUXO"
+  },
+  {
+    "id": 18905,
+    "pdm": "RELÉ ESTADO SÓLIDO"
+  },
+  {
+    "id": 18906,
+    "pdm": "COTOVELO ELETRODUTO"
+  },
+  {
+    "id": 18914,
+    "pdm": "SELA PARA CRUZETA"
+  },
+  {
+    "id": 18916,
+    "pdm": "GERADOR DIGITAL ECO"
+  },
+  {
+    "id": 18917,
+    "pdm": "SUPORTE L"
+  },
+  {
+    "id": 18918,
+    "pdm": "SAPATILHA"
+  },
+  {
+    "id": 18919,
+    "pdm": "MANILHA-SAPATILHA"
+  },
+  {
+    "id": 18921,
+    "pdm": "BRAÇO SUPORTE"
+  },
+  {
+    "id": 18922,
+    "pdm": "CONECTOR CUNHA BAIXA TENSÃO"
+  },
+  {
+    "id": 18924,
+    "pdm": "SUPORTE Z"
+  },
+  {
+    "id": 18925,
+    "pdm": "EMENDA"
+  },
+  {
+    "id": 18937,
+    "pdm": "CONJUNTO ELÉTRICO"
+  },
+  {
+    "id": 18938,
+    "pdm": "TAMPA CAIXA DERIVAÇÃO"
+  },
+  {
+    "id": 18939,
+    "pdm": "CONJUNTO DIDÁTICO AUTOMAÇÃO"
+  },
+  {
+    "id": 18940,
+    "pdm": "CONJUNTO ( KIT ) DIDÁTICO INSTALAÇÕES ELÉTRICAS"
+  },
+  {
+    "id": 18941,
+    "pdm": "TRILHO SUPORTE PAINEL"
+  },
+  {
+    "id": 18943,
+    "pdm": "TRANSFORMADOR CORRENTE ATÉ 138 KV"
+  },
+  {
+    "id": 18948,
+    "pdm": "CONJUNTO (KIT) VEDAÇÃO PARA DISJUNTOR"
+  },
+  {
+    "id": 18951,
+    "pdm": "CAPACITOR POTÊNCIA - TENSÃO NOMINAL ACIMA 7.2 KV"
+  },
+  {
+    "id": 18952,
+    "pdm": "RELÉ DE GÁS"
+  },
+  {
+    "id": 18955,
+    "pdm": "SENSOR CORRENTE TENSÃO"
+  },
+  {
+    "id": 18959,
+    "pdm": "CABEÇOTE ELETRODUTO"
+  },
+  {
+    "id": 18962,
+    "pdm": "TERMINAL ILHÓS"
+  },
+  {
+    "id": 18963,
+    "pdm": "POSTE FINAL"
+  },
+  {
+    "id": 18965,
+    "pdm": "TRIMPOT MULTIVOLTAS"
+  },
+  {
+    "id": 18966,
+    "pdm": "ACOPLADOR A RELE"
+  },
+  {
+    "id": 18967,
+    "pdm": "PLACA SEPARAÇÃO"
+  },
+  {
+    "id": 18968,
+    "pdm": "TAMPA CONECTOR"
+  },
+  {
+    "id": 18969,
+    "pdm": "CONECTOR PASSAGEM"
+  },
+  {
+    "id": 18970,
+    "pdm": "TRANSFORMADOR COMANDO"
+  },
+  {
+    "id": 18972,
+    "pdm": "DERIVADOR SINAL VÍDEO"
+  },
+  {
+    "id": 18976,
+    "pdm": "SENSOR CORRENTE"
+  },
+  {
+    "id": 18977,
+    "pdm": "TRANSFORMADOR ISOLADOR"
+  },
+  {
+    "id": 18992,
+    "pdm": "ALÇA PRÉ-FORMADA CONDUTOR AÇO"
+  },
+  {
+    "id": 19004,
+    "pdm": "MOLDURA CONECTOR"
+  },
+  {
+    "id": 19008,
+    "pdm": "BLOCO CONTATO"
+  },
+  {
+    "id": 19020,
+    "pdm": "DISJUNTOR ALTA TENSÃO"
+  },
+  {
+    "id": 19028,
+    "pdm": "EQUIPAMENTO/ACESSÓRIO/PEÇA TELEPROTEÇÃO LINHA TRAN"
+  },
+  {
+    "id": 19033,
+    "pdm": "DISSIPADOR CALOR"
+  },
+  {
+    "id": 19035,
+    "pdm": "DÉCADA RESISTIVA"
+  },
+  {
+    "id": 19045,
+    "pdm": "CRUZETA CONCRETO"
+  },
+  {
+    "id": 19055,
+    "pdm": "PEÇA/ACESSÓRIO PÁRA-RAIOS"
+  },
+  {
+    "id": 19056,
+    "pdm": "PEÇA/ACESSÓRIO ISOLADOR"
+  },
+  {
+    "id": 19058,
+    "pdm": "PEÇAS / ACESSÓRIOS - SECCIONADOR"
+  },
+  {
+    "id": 19059,
+    "pdm": "PEÇA/ACESSÓRIO BOBINA"
+  },
+  {
+    "id": 19061,
+    "pdm": "TAMPA BORNE"
+  },
+  {
+    "id": 19062,
+    "pdm": "TRANSFORMADOR ELETRÔNICO"
+  },
+  {
+    "id": 19066,
+    "pdm": "RELÉ SUPERVISÃO"
+  },
+  {
+    "id": 19069,
+    "pdm": "RELÉ DE NÍVEL"
+  },
+  {
+    "id": 19094,
+    "pdm": "RELÉ TENSÃO"
+  },
+  {
+    "id": 19096,
+    "pdm": "PINO CONTATO"
+  },
+  {
+    "id": 19097,
+    "pdm": "EMENDA PRÉ-FORMADA CONDUTORA"
+  },
+  {
+    "id": 19102,
+    "pdm": "DUTO"
+  },
+  {
+    "id": 19106,
+    "pdm": "CAIXA PORTA EQUIPAMENTO"
+  },
+  {
+    "id": 19107,
+    "pdm": "PRÉ-AMPLIFICADOR MICROFONE"
+  },
+  {
+    "id": 19108,
+    "pdm": "BASE BLOCO CONTATO"
+  },
+  {
+    "id": 19109,
+    "pdm": "CONECTOR SAÍDA"
+  },
+  {
+    "id": 19122,
+    "pdm": "FUSÍVEL CARTUCHO"
+  },
+  {
+    "id": 19124,
+    "pdm": "CONVERSOR IMPEDÂNCIA"
+  },
+  {
+    "id": 19127,
+    "pdm": "RELÉ POTÊNCIA"
+  },
+  {
+    "id": 19128,
+    "pdm": "RELÉ MODULAR INTERFACE"
+  },
+  {
+    "id": 19140,
+    "pdm": "TRANSFORMADOR BAIXA POTÊNCIA"
+  },
+  {
+    "id": 19141,
+    "pdm": "ISOLADOR DE SINAL"
+  },
+  {
+    "id": 19142,
+    "pdm": "AMPLIFICADOR DE SINAIS"
+  },
+  {
+    "id": 19143,
+    "pdm": "DETECTOR COAXIAL"
+  },
+  {
+    "id": 19145,
+    "pdm": "TRANSISTOR POTÊNCIA"
+  },
+  {
+    "id": 19146,
+    "pdm": "PROTETOR CONTRA SURTO DE TENSÃO"
+  },
+  {
+    "id": 19147,
+    "pdm": "FECHO PARA CINTA DE POSTE"
+  },
+  {
+    "id": 19150,
+    "pdm": "RELÉ DE ENCAIXE T"
+  },
+  {
+    "id": 19151,
+    "pdm": "RELÉ DE SEQÜÊNCIA DE FASES"
+  },
+  {
+    "id": 19155,
+    "pdm": "TRANSFORMADOR POTENCIAL"
+  },
+  {
+    "id": 19167,
+    "pdm": "GRAMPO ANCORAGEM PASSANTE"
+  },
+  {
+    "id": 19168,
+    "pdm": "RESISTOR LDR"
+  },
+  {
+    "id": 19169,
+    "pdm": "DISJUNTOR MÉDIA TENSÃO"
+  },
+  {
+    "id": 19170,
+    "pdm": "MANILHA"
+  },
+  {
+    "id": 19171,
+    "pdm": "SECCIONADOR PRE-FORMADO PARA CERCA"
+  },
+  {
+    "id": 19172,
+    "pdm": "GARRA TIPO C-CLAMP"
+  },
+  {
+    "id": 19173,
+    "pdm": "JANELA DE INSPEÇÃO"
+  },
+  {
+    "id": 19174,
+    "pdm": "CONEXÃO PERFILADO"
+  },
+  {
+    "id": 19176,
+    "pdm": "CAPACITOR FIXO ELETROLÍTICO ALUMINÍO"
+  },
+  {
+    "id": 19177,
+    "pdm": "PEÇA/COMPONENTE NO-BREAK"
+  },
+  {
+    "id": 19180,
+    "pdm": "LAÇO PRÉ-FORMADO"
+  },
+  {
+    "id": 19184,
+    "pdm": "PINO ISOLADOR"
+  },
+  {
+    "id": 19185,
+    "pdm": "GANCHO-OLHAL"
+  },
+  {
+    "id": 19188,
+    "pdm": "MEDUSA PARA MICROFONE"
+  },
+  {
+    "id": 19191,
+    "pdm": "CAPACITOR FIXO POLIÉSTER"
+  },
+  {
+    "id": 19194,
+    "pdm": "PINO TOMADA"
+  },
+  {
+    "id": 19196,
+    "pdm": "PORTA-FUSÍVEL DISTRIBUIÇÃO"
+  },
+  {
+    "id": 19198,
+    "pdm": "ISOLADOR CILÍNDRICO"
+  },
+  {
+    "id": 19200,
+    "pdm": "CADEIA SUSPENSÃO"
+  },
+  {
+    "id": 19201,
+    "pdm": "CAPACITOR FIXO POLIPROPILENO METALIZADO"
+  },
+  {
+    "id": 19203,
+    "pdm": "POTENCIÔMETRO ROTATIVO"
+  },
+  {
+    "id": 19207,
+    "pdm": "FIXADORES DE FIOS E CABOS"
+  },
+  {
+    "id": 19208,
+    "pdm": "RELÉ SINALIZADOR"
+  },
+  {
+    "id": 19211,
+    "pdm": "TAMPA PETROLETE"
+  },
+  {
+    "id": 19212,
+    "pdm": "DISTRIBUIDOR SINAL"
+  },
+  {
+    "id": 19214,
+    "pdm": "FUSÍVEL ULTRA-RÁPIDO SITOR"
+  },
+  {
+    "id": 19215,
+    "pdm": "RELÉ SOBRECARGA ELETRÔNICO"
+  },
+  {
+    "id": 19217,
+    "pdm": "DETECTOR AUSENCIA TENSÃO"
+  },
+  {
+    "id": 19219,
+    "pdm": "PÁRA-RAIOS BAIXA TENSÃO"
+  },
+  {
+    "id": 19223,
+    "pdm": "KIT DE FÍSICA MODERNA"
+  },
+  {
+    "id": 19224,
+    "pdm": "KIT DE ELETRICIDADE E MAGNETISMO"
+  },
+  {
+    "id": 19226,
+    "pdm": "SUPORTE PARA PLACA"
+  },
+  {
+    "id": 19228,
+    "pdm": "CABO DE REDE PACHT CORD 110"
+  },
+  {
+    "id": 19229,
+    "pdm": "BOBINA DE CABEÇA"
+  },
+  {
+    "id": 19233,
+    "pdm": "BLOQUEIO FONTE ENERGIA"
+  },
+  {
+    "id": 19234,
+    "pdm": "ACESSÓRIO BLOQUEIO FONTE ENERGIA"
+  },
+  {
+    "id": 19235,
+    "pdm": "VARIADOR LUMINOSIDADE"
+  },
+  {
+    "id": 19236,
+    "pdm": "PEÇAS/COMPONENTES ELETROCALHA - RODAPÉ"
+  },
+  {
+    "id": 19240,
+    "pdm": "DISJUNTOR-MOTOR"
+  },
+  {
+    "id": 19245,
+    "pdm": "CONJUNTO DE CABOS PARA EXPERIÊNCIAS COM TUBOS"
+  },
+  {
+    "id": 19249,
+    "pdm": "DIVISOR SINAL RF"
+  },
+  {
+    "id": 19251,
+    "pdm": "FUSÍVEL CERÂMICA"
+  },
+  {
+    "id": 19252,
+    "pdm": "CAVALOTE"
+  },
+  {
+    "id": 19253,
+    "pdm": "RESSONADOR CERÂMICO"
+  },
+  {
+    "id": 19254,
+    "pdm": "FUSÍVEL TÉRMICO"
+  },
+  {
+    "id": 19255,
+    "pdm": "DERIVADOR SINAL"
+  },
+  {
+    "id": 19256,
+    "pdm": "ELO-ELO"
+  },
+  {
+    "id": 19259,
+    "pdm": "BASE FUSÍVEL NEOZED"
+  },
+  {
+    "id": 19260,
+    "pdm": "ELO-BOLA"
+  },
+  {
+    "id": 19261,
+    "pdm": "CONEXÃO CANALETA"
+  },
+  {
+    "id": 19262,
+    "pdm": "CONCHA-ELO"
+  },
+  {
+    "id": 19263,
+    "pdm": "ELO-OLHAL"
+  },
+  {
+    "id": 19266,
+    "pdm": "ACESSÓRIO PERFILADO"
+  },
+  {
+    "id": 19281,
+    "pdm": "RESISTOR REDE RESISTIVA"
+  },
+  {
+    "id": 19310,
+    "pdm": "FUSÍVEL SILIZED"
+  },
+  {
+    "id": 19354,
+    "pdm": "SACA FUSÍVEL"
+  },
+  {
+    "id": 19373,
+    "pdm": "INTERRUPTOR AUTOMÁTICO POR PRESENÇA"
+  },
+  {
+    "id": 19382,
+    "pdm": "CONECTOR PORTA FUSÍVEL SECCIONÁVEL"
+  },
+  {
+    "id": 19384,
+    "pdm": "CRUZETA POLIMÉRICA"
+  }
+]
