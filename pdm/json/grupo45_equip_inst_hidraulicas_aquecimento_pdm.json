@@ -1,0 +1,662 @@
+[
+  {
+    "id": "02046",
+    "pdm": "ACIONAMENTO ELETRICO - TORNEIRA / CHUVEIRO",
+    "grupo": 45
+  },
+  {
+    "id": "02322",
+    "pdm": "ALIMENTADOR DE FORNALHA AUTOMÁTICO",
+    "grupo": 45
+  },
+  {
+    "id": "02806",
+    "pdm": "APARELHO NAO AUTOMATICO DE DEPOSITO / DISTRIBUICAO DE SABONETE",
+    "grupo": 45
+  },
+  {
+    "id": "02825",
+    "pdm": "BOLSA LIGAÇÃO",
+    "grupo": 45
+  },
+  {
+    "id": "02827",
+    "pdm": "APARELHO PARA DEPOSITO / DISTRIBUICAO DE TOALHA DE PAPEL",
+    "grupo": 45
+  },
+  {
+    "id": "02914",
+    "pdm": "AQUECEDOR A COMBUSTIVEL SOLIDO",
+    "grupo": 45
+  },
+  {
+    "id": "02916",
+    "pdm": "AQUECEDOR DE AGUA A COMBUSTIVEL LIQUIDO",
+    "grupo": 45
+  },
+  {
+    "id": "02917",
+    "pdm": "AQUECEDOR DE AGUA A COMBUSTIVEL SOLIDO",
+    "grupo": 45
+  },
+  {
+    "id": "02918",
+    "pdm": "AQUECEDOR DE AGUA A GAS",
+    "grupo": 45
+  },
+  {
+    "id": "02919",
+    "pdm": "AQUECEDOR DE AGUA ATE 100 GALOES DE CAPACIDADE DE RECUPERACAO",
+    "grupo": 45
+  },
+  {
+    "id": "02921",
+    "pdm": "AQUECEDOR DE ÁGUA ELÉTRICO",
+    "grupo": 45
+  },
+  {
+    "id": "02922",
+    "pdm": "AQUECEDOR DE AR A GÁS - PEÇAS / ACESSÓRIOS",
+    "grupo": 45
+  },
+  {
+    "id": "02930",
+    "pdm": "AQUECEDOR DE AMBIENTE",
+    "grupo": 45
+  },
+  {
+    "id": "02931",
+    "pdm": "AQUECEDOR ELÉTRICO DE AR",
+    "grupo": 45
+  },
+  {
+    "id": "02933",
+    "pdm": "AQUECEDOR ELETROTÉRMICO INDUTIVO",
+    "grupo": 45
+  },
+  {
+    "id": "02935",
+    "pdm": "AQUECEDOR NAO ELETRICO DE AMBIENTE",
+    "grupo": 45
+  },
+  {
+    "id": "03316",
+    "pdm": "CESTA VÁLVULA ESCOAMENTO",
+    "grupo": 45
+  },
+  {
+    "id": "03317",
+    "pdm": "BANHEIRA DE FIBRA DE VIDRO DE USO DOMESTICO",
+    "grupo": 45
+  },
+  {
+    "id": "03318",
+    "pdm": "BANHEIRA DE PVC DE USO DOMESTICO",
+    "grupo": 45
+  },
+  {
+    "id": "03319",
+    "pdm": "BANHEIRA",
+    "grupo": 45
+  },
+  {
+    "id": "03654",
+    "pdm": "BÓIA CAIXA D'ÁGUA",
+    "grupo": 45
+  },
+  {
+    "id": "03666",
+    "pdm": "BOILER",
+    "grupo": 45
+  },
+  {
+    "id": "03706",
+    "pdm": "TELA ODORIZANTE",
+    "grupo": 45
+  },
+  {
+    "id": "03714",
+    "pdm": "ESPUDE VASO SANITÁRIO",
+    "grupo": 45
+  },
+  {
+    "id": "03828",
+    "pdm": "BOTÃO ACIONAMENTO CAIXA DESCARGA",
+    "grupo": 45
+  },
+  {
+    "id": "03856",
+    "pdm": "BRAÇO ARTICULADO",
+    "grupo": 45
+  },
+  {
+    "id": "04001",
+    "pdm": "CABINE SANITARIA PORTATIL",
+    "grupo": 45
+  },
+  {
+    "id": "04109",
+    "pdm": "CAIXA / COMPONENTES - CAIXA SANITÁRIA",
+    "grupo": 45
+  },
+  {
+    "id": "04114",
+    "pdm": "COMPACTADOR RESÍDUO",
+    "grupo": 45
+  },
+  {
+    "id": "04121",
+    "pdm": "CAIXA DE ACO PARA LIXO",
+    "grupo": 45
+  },
+  {
+    "id": "04122",
+    "pdm": "CAIXA DE ACO PARA LIXO - COM RODIZIO",
+    "grupo": 45
+  },
+  {
+    "id": "04135",
+    "pdm": "CAIXA DE GORDURA EM PVC",
+    "grupo": 45
+  },
+  {
+    "id": "04156",
+    "pdm": "CAIXA GORDURA",
+    "grupo": 45
+  },
+  {
+    "id": "04157",
+    "pdm": "CAIXA INSPEÇÃO",
+    "grupo": 45
+  },
+  {
+    "id": "04171",
+    "pdm": "CAIXA PROTETORA HIDRÔMETRO",
+    "grupo": 45
+  },
+  {
+    "id": "04223",
+    "pdm": "CALDEIRA GERADORA VAPOR",
+    "grupo": 45
+  },
+  {
+    "id": "04224",
+    "pdm": "CALDEIRA A VAPOR ATE 2.2 KGF/CM2 DE PRESSAO",
+    "grupo": 45
+  },
+  {
+    "id": "04429",
+    "pdm": "CANOPLA",
+    "grupo": 45
+  },
+  {
+    "id": "04533",
+    "pdm": "CARCAÇA BEBEDOURO",
+    "grupo": 45
+  },
+  {
+    "id": "04868",
+    "pdm": "CHAVE APLICADORA",
+    "grupo": 45
+  },
+  {
+    "id": "04976",
+    "pdm": "CHUVEIRO ELÉTRICO",
+    "grupo": 45
+  },
+  {
+    "id": "04977",
+    "pdm": "CHUVEIRO NÃO ELÉTRICO",
+    "grupo": 45
+  },
+  {
+    "id": "05353",
+    "pdm": "COLETOR DE LIXO - ARTICULADO - COM CABO",
+    "grupo": 45
+  },
+  {
+    "id": "05385",
+    "pdm": "COMPACTADOR ELETRICO DE LIXO",
+    "grupo": 45
+  },
+  {
+    "id": "05669",
+    "pdm": "CONJUNTO PARA HIDRÔMETRO",
+    "grupo": 45
+  },
+  {
+    "id": "05748",
+    "pdm": "CONJUNTO FIXAÇÃO LAVATÓRIO / SANITÁRIO",
+    "grupo": 45
+  },
+  {
+    "id": "05996",
+    "pdm": "CUBA DE ACO INOXIDAVEL PARA PIA",
+    "grupo": 45
+  },
+  {
+    "id": "05997",
+    "pdm": "CUBA DE AGATA PARA PIA",
+    "grupo": 45
+  },
+  {
+    "id": "05998",
+    "pdm": "CUBA DE CIMENTO PARA PIA",
+    "grupo": 45
+  },
+  {
+    "id": "05999",
+    "pdm": "CUBA DE LOUCA PARA PIA",
+    "grupo": 45
+  },
+  {
+    "id": "06000",
+    "pdm": "CUBA DE MARMORE PARA PIA",
+    "grupo": 45
+  },
+  {
+    "id": "06001",
+    "pdm": "CUBA DE PVC PARA PIA",
+    "grupo": 45
+  },
+  {
+    "id": "06002",
+    "pdm": "CUBA",
+    "grupo": 45
+  },
+  {
+    "id": "06063",
+    "pdm": "DEPOSITO DE LIXO",
+    "grupo": 45
+  },
+  {
+    "id": "06090",
+    "pdm": "DESENTUPIDOR PIA",
+    "grupo": 45
+  },
+  {
+    "id": "06092",
+    "pdm": "DESENTUPIDOR VASO SANITÁRIO",
+    "grupo": 45
+  },
+  {
+    "id": "06157",
+    "pdm": "DIAFRAGMA CHUVEIRO",
+    "grupo": 45
+  },
+  {
+    "id": "06158",
+    "pdm": "DIAFRAGMA VÁLVULA DESCARGA",
+    "grupo": 45
+  },
+  {
+    "id": "06410",
+    "pdm": "DUCHA HIGIÊNICA",
+    "grupo": 45
+  },
+  {
+    "id": "06419",
+    "pdm": "EBULIDOR",
+    "grupo": 45
+  },
+  {
+    "id": "07146",
+    "pdm": "ESTIRANTE DE VASO SANITARIO",
+    "grupo": 45
+  },
+  {
+    "id": "07755",
+    "pdm": "FORNO AQUECEDOR DE AR COM TUBULACAO",
+    "grupo": 45
+  },
+  {
+    "id": "07756",
+    "pdm": "FORNO AQUECEDOR DE AR SEM TUBULACAO",
+    "grupo": 45
+  },
+  {
+    "id": "07800",
+    "pdm": "FOSSA SEPTICA",
+    "grupo": 45
+  },
+  {
+    "id": "08226",
+    "pdm": "HIDROMETRO - ELIMINADOR AR",
+    "grupo": 45
+  },
+  {
+    "id": "08735",
+    "pdm": "LATRINA PORTATIL",
+    "grupo": 45
+  },
+  {
+    "id": "08747",
+    "pdm": "LAVATÓRIO",
+    "grupo": 45
+  },
+  {
+    "id": "08927",
+    "pdm": "LOUCA SANITARIA",
+    "grupo": 45
+  },
+  {
+    "id": "09686",
+    "pdm": "METAL SANITARIO",
+    "grupo": 45
+  },
+  {
+    "id": "09760",
+    "pdm": "MICTORIO DE ACO",
+    "grupo": 45
+  },
+  {
+    "id": "09761",
+    "pdm": "MICTÓRIO",
+    "grupo": 45
+  },
+  {
+    "id": 10697,
+    "pdm": "PIA",
+    "grupo": 45
+  },
+  {
+    "id": 10778,
+    "pdm": "PISCINA",
+    "grupo": 45
+  },
+  {
+    "id": 11049,
+    "pdm": "PORTA-PAPEL HIGIÊNICO",
+    "grupo": 45
+  },
+  {
+    "id": 11056,
+    "pdm": "PORTA-TOALHA DE TECIDO",
+    "grupo": 45
+  },
+  {
+    "id": 11057,
+    "pdm": "PORTA-TOALHA",
+    "grupo": 45
+  },
+  {
+    "id": 11371,
+    "pdm": "QUEIMADOR DE COMBUSTIVEL",
+    "grupo": 45
+  },
+  {
+    "id": 11372,
+    "pdm": "QUEIMADOR DE GÁS",
+    "grupo": 45
+  },
+  {
+    "id": 11373,
+    "pdm": "QUEIMADOR DE OLEO",
+    "grupo": 45
+  },
+  {
+    "id": 11383,
+    "pdm": "ENGATE HIDRÁULICO",
+    "grupo": 45
+  },
+  {
+    "id": 11649,
+    "pdm": "REPARO VÁLVULA HIDRÁULICA",
+    "grupo": 45
+  },
+  {
+    "id": 11872,
+    "pdm": "SABONETEIRA",
+    "grupo": 45
+  },
+  {
+    "id": 12056,
+    "pdm": "SIFÃO",
+    "grupo": 45
+  },
+  {
+    "id": 12513,
+    "pdm": "TAMPA CAIXA DE INSPEÇÃO",
+    "grupo": 45
+  },
+  {
+    "id": 12514,
+    "pdm": "TAMPA VASO SANITÁRIO",
+    "grupo": 45
+  },
+  {
+    "id": 12533,
+    "pdm": "TANQUE DE AGUA DOMESTICO ATE 400 LITROS",
+    "grupo": 45
+  },
+  {
+    "id": 12535,
+    "pdm": "TANQUE DE CIMENTO PARA LAVAR ROUPA",
+    "grupo": 45
+  },
+  {
+    "id": 12536,
+    "pdm": "TANQUE LAVAR ROUPA",
+    "grupo": 45
+  },
+  {
+    "id": 12537,
+    "pdm": "TANQUE DE MATERIAL PLASTICO PARA LAVAR ROUPA",
+    "grupo": 45
+  },
+  {
+    "id": 12538,
+    "pdm": "TANQUE DE METAL DE LAVAR ROUPA",
+    "grupo": 45
+  },
+  {
+    "id": 12817,
+    "pdm": "TORNEIRA DE PLASTICO PARA INSTALACAO HIDRAULICA",
+    "grupo": 45
+  },
+  {
+    "id": 12818,
+    "pdm": "TORNEIRA ELETRICA",
+    "grupo": 45
+  },
+  {
+    "id": 12820,
+    "pdm": "TORNEIRA",
+    "grupo": 45
+  },
+  {
+    "id": 13000,
+    "pdm": "TRITURADOR ELETRICO DE RESIDUO",
+    "grupo": 45
+  },
+  {
+    "id": 13252,
+    "pdm": "VALVULA DE BATENTE",
+    "grupo": 45
+  },
+  {
+    "id": 13322,
+    "pdm": "VASO SANITÁRIO",
+    "grupo": 45
+  },
+  {
+    "id": 14088,
+    "pdm": "LAVATÓRIO MÃOS",
+    "grupo": 45
+  },
+  {
+    "id": 14144,
+    "pdm": "VÁLVULA ESCOAMENTO",
+    "grupo": 45
+  },
+  {
+    "id": 14145,
+    "pdm": "DUCHA BANHO",
+    "grupo": 45
+  },
+  {
+    "id": 14146,
+    "pdm": "VÁLVULA DE PÉ",
+    "grupo": 45
+  },
+  {
+    "id": 14317,
+    "pdm": "ACESSÓRIOS BANHEIRO",
+    "grupo": 45
+  },
+  {
+    "id": 14630,
+    "pdm": "CAIXA DESCARGA",
+    "grupo": 45
+  },
+  {
+    "id": 14980,
+    "pdm": "BARRA ARTICULADA",
+    "grupo": 45
+  },
+  {
+    "id": 15305,
+    "pdm": "CONJUNTO OBTURADOR CAIXA DESCARGA",
+    "grupo": 45
+  },
+  {
+    "id": 15694,
+    "pdm": "BASE PROTETORA CONTATOS CHUVEIRO",
+    "grupo": 45
+  },
+  {
+    "id": 15696,
+    "pdm": "CONTATO GAVETA CHUVEIRO",
+    "grupo": 45
+  },
+  {
+    "id": 15697,
+    "pdm": "BASE GUIA CHUVEIRO",
+    "grupo": 45
+  },
+  {
+    "id": 15698,
+    "pdm": "BASE CONTATOS CHUVEIRO",
+    "grupo": 45
+  },
+  {
+    "id": 15700,
+    "pdm": "NIPLE COMPLETO CHUVEIRO",
+    "grupo": 45
+  },
+  {
+    "id": 15706,
+    "pdm": "ALAVANCA CONTATO CHUVEIRO",
+    "grupo": 45
+  },
+  {
+    "id": 15708,
+    "pdm": "TAMPA CHUVEIRO",
+    "grupo": 45
+  },
+  {
+    "id": 15917,
+    "pdm": "COMPACTADOR LIXO",
+    "grupo": 45
+  },
+  {
+    "id": 16155,
+    "pdm": "AREJADOR PARA TORNEIRA",
+    "grupo": 45
+  },
+  {
+    "id": 16192,
+    "pdm": "REPARO TORNEIRA",
+    "grupo": 45
+  },
+  {
+    "id": 16221,
+    "pdm": "ACABAMENTO PARA VÁLVULA HIDRÁULICA",
+    "grupo": 45
+  },
+  {
+    "id": 16385,
+    "pdm": "SISTEMA AQUECIMENTO AR",
+    "grupo": 45
+  },
+  {
+    "id": 16390,
+    "pdm": "REGISTRO DE AR",
+    "grupo": 45
+  },
+  {
+    "id": 16403,
+    "pdm": "VÁLVULA DESCARGA",
+    "grupo": 45
+  },
+  {
+    "id": 16955,
+    "pdm": "DISPOSITIVOS E ACESSÓRIOS PARA INSTALAÇÕES HIDRÁULICAS",
+    "grupo": 45
+  },
+  {
+    "id": 16956,
+    "pdm": "EQUIPAMENTOS PARA CALEFAÇÃO E AQUECEDORES DOMÉSTICOS DE ÁGUA",
+    "grupo": 45
+  },
+  {
+    "id": 16957,
+    "pdm": "EQUIPAMENTOS PARA QUEIMA DE COMBUSTIVEL",
+    "grupo": 45
+  },
+  {
+    "id": 16958,
+    "pdm": "EQUIPAMENTOS DIVERSOS DE INSTALAÇÕES HIDRÁULICAS. SANITÁRIAS E DE CALEFAÇÃO",
+    "grupo": 45
+  },
+  {
+    "id": 17358,
+    "pdm": "ASSENTO VASO SANITÁRIO",
+    "grupo": 45
+  },
+  {
+    "id": 17435,
+    "pdm": "SUPORTE PORTA-PAPEL",
+    "grupo": 45
+  },
+  {
+    "id": 17465,
+    "pdm": "BRAÇO CHUVEIRO",
+    "grupo": 45
+  },
+  {
+    "id": 17622,
+    "pdm": "SUPORTE MICTÓRIO",
+    "grupo": 45
+  },
+  {
+    "id": 17797,
+    "pdm": "SUPORTE COPA",
+    "grupo": 45
+  },
+  {
+    "id": 18790,
+    "pdm": "MECANISMO VEDAÇÃO",
+    "grupo": 45
+  },
+  {
+    "id": 18791,
+    "pdm": "VOLANTE",
+    "grupo": 45
+  },
+  {
+    "id": 18792,
+    "pdm": "MOLA",
+    "grupo": 45
+  },
+  {
+    "id": 18793,
+    "pdm": "PARAFUSO",
+    "grupo": 45
+  },
+  {
+    "id": 18873,
+    "pdm": "ADAPTADOR MANGUEIRA",
+    "grupo": 45
+  }
+]
