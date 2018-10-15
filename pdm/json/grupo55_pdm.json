@@ -1,0 +1,334 @@
+[
+  {
+    "id": "01697",
+    "pdm": "ACESSORIO DE PORTA"
+  },
+  {
+    "id": "02337",
+    "pdm": "ALIZAR DE MADEIRA"
+  },
+  {
+    "id": "02632",
+    "pdm": "APARA DE MADEIRA"
+  },
+  {
+    "id": "03407",
+    "pdm": "BARROTE"
+  },
+  {
+    "id": "04181",
+    "pdm": "CAIXILHO MADEIRA"
+  },
+  {
+    "id": "04434",
+    "pdm": "CANTONEIRA DE MADEIRA"
+  },
+  {
+    "id": "04576",
+    "pdm": "CARRETEL MADEIRA PARA CABO"
+  },
+  {
+    "id": "04709",
+    "pdm": "CAVACO MADEIRA"
+  },
+  {
+    "id": "05382",
+    "pdm": "COMEIA"
+  },
+  {
+    "id": "05396",
+    "pdm": "COMPENSADO MADEIRA"
+  },
+  {
+    "id": "05397",
+    "pdm": "COMPENSADO DE MADEIRA A PROVA DE FOGO"
+  },
+  {
+    "id": "05587",
+    "pdm": "CONEXAO - AGLOMERADO"
+  },
+  {
+    "id": "05800",
+    "pdm": "CONTRAMARCO - PORTA"
+  },
+  {
+    "id": "05940",
+    "pdm": "COSTANEIRA"
+  },
+  {
+    "id": "05987",
+    "pdm": "CRUZETA DE MADEIRA DE LEI PARA REDE"
+  },
+  {
+    "id": "05989",
+    "pdm": "CRUZETA IMUNIZADA REDE ELÉTRICA"
+  },
+  {
+    "id": "07053",
+    "pdm": "ESQUADRIA - MADEIRA"
+  },
+  {
+    "id": "07054",
+    "pdm": "ESQUADRIA - METALICA"
+  },
+  {
+    "id": "07055",
+    "pdm": "FITA BORDA"
+  },
+  {
+    "id": "07075",
+    "pdm": "ESTACA DE MADEIRA"
+  },
+  {
+    "id": "07736",
+    "pdm": "FÓRMICA"
+  },
+  {
+    "id": "08046",
+    "pdm": "GRADE JANELA"
+  },
+  {
+    "id": "08521",
+    "pdm": "JANELA DE MADEIRA"
+  },
+  {
+    "id": "08633",
+    "pdm": "LAMINADO MADEIRA"
+  },
+  {
+    "id": "08634",
+    "pdm": "CUNHA MADEIRA"
+  },
+  {
+    "id": "08635",
+    "pdm": "LAMINADO MELAMÍNICO"
+  },
+  {
+    "id": "09011",
+    "pdm": "LAMBRIL"
+  },
+  {
+    "id": "09012",
+    "pdm": "MADEIRA ASSOALHO"
+  },
+  {
+    "id": "09013",
+    "pdm": "MADEIRA ENTALHAMENTO"
+  },
+  {
+    "id": "09014",
+    "pdm": "MADEIRA DE TORNEAMENTO"
+  },
+  {
+    "id": "09015",
+    "pdm": "MADEIRA CONSTRUÇÃO"
+  },
+  {
+    "id": "09017",
+    "pdm": "MADEIRA PREPARADA PARA FOSFORO"
+  },
+  {
+    "id": "09018",
+    "pdm": "PALITO MADEIRA"
+  },
+  {
+    "id": "09378",
+    "pdm": "PORTAL MADEIRA"
+  },
+  {
+    "id": 10086,
+    "pdm": "NINHO"
+  },
+  {
+    "id": 10299,
+    "pdm": "PAINEL DE MADEIRA COMPENSADA"
+  },
+  {
+    "id": 10781,
+    "pdm": "PISO ELEVADO - PEÇA/COMPONENTE"
+  },
+  {
+    "id": 10825,
+    "pdm": "PLACA COMPENSADO"
+  },
+  {
+    "id": 10826,
+    "pdm": "PLACA DE COMPENSADO DE MADEIRA A PROVA DE AGUA"
+  },
+  {
+    "id": 10827,
+    "pdm": "PLACA DE COMPENSADO DE MADEIRA A PROVA DE FOGO"
+  },
+  {
+    "id": 10831,
+    "pdm": "PLACA DE FOLHEADO"
+  },
+  {
+    "id": 10996,
+    "pdm": "PONTAL DE MADEIRA"
+  },
+  {
+    "id": 10997,
+    "pdm": "PONTALETE DE MADEIRA"
+  },
+  {
+    "id": 11030,
+    "pdm": "PORTAS"
+  },
+  {
+    "id": 11071,
+    "pdm": "PORTA"
+  },
+  {
+    "id": 11078,
+    "pdm": "PORTA GIRATORIA DE MADEIRA"
+  },
+  {
+    "id": 11107,
+    "pdm": "POSTE DE MADEIRA"
+  },
+  {
+    "id": 11110,
+    "pdm": "POSTE DE MADEIRA PARA LINHA DE DISTRIBUICAO"
+  },
+  {
+    "id": 11111,
+    "pdm": "POSTE DE MADEIRA PARA LINHA DE FORCA"
+  },
+  {
+    "id": 11134,
+    "pdm": "PRANCHAO BITOLADO"
+  },
+  {
+    "id": 11230,
+    "pdm": "PRODUTO DE PRESERVACAO DE MADEIRA"
+  },
+  {
+    "id": 11753,
+    "pdm": "RIPA"
+  },
+  {
+    "id": 11775,
+    "pdm": "RODAPÉ"
+  },
+  {
+    "id": 12045,
+    "pdm": "SERRAGEM"
+  },
+  {
+    "id": 12190,
+    "pdm": "SOLEIRA DE MADEIRA"
+  },
+  {
+    "id": 12191,
+    "pdm": "SOLEIRA DE PEDRA"
+  },
+  {
+    "id": 12192,
+    "pdm": "SOLEIRA METALICA"
+  },
+  {
+    "id": 12460,
+    "pdm": "TÁBUA BITOLADA"
+  },
+  {
+    "id": 12463,
+    "pdm": "TÁBUA MADEIRA"
+  },
+  {
+    "id": 12477,
+    "pdm": "TACO DE MADEIRA"
+  },
+  {
+    "id": 12478,
+    "pdm": "TACO PARA ASSOALHO"
+  },
+  {
+    "id": 12558,
+    "pdm": "TARUGO DE MADEIRA"
+  },
+  {
+    "id": 12593,
+    "pdm": "TELA EXCLUIDORA - APICOLA"
+  },
+  {
+    "id": 12739,
+    "pdm": "TINTA DE MADEIRA"
+  },
+  {
+    "id": 13437,
+    "pdm": "VIGA DE MADEIRA"
+  },
+  {
+    "id": 13443,
+    "pdm": "VIGOTA DE MADEIRA"
+  },
+  {
+    "id": 13882,
+    "pdm": "FILETE MADEIRA"
+  },
+  {
+    "id": 14035,
+    "pdm": "PLACA DE AGLOMERADO"
+  },
+  {
+    "id": 14744,
+    "pdm": "PLACA MADEIRA"
+  },
+  {
+    "id": 15016,
+    "pdm": "CHAPA PAPELÃO PRENSADO"
+  },
+  {
+    "id": 15034,
+    "pdm": "MOLDURA TETO"
+  },
+  {
+    "id": 15283,
+    "pdm": "SARRAFO"
+  },
+  {
+    "id": 15638,
+    "pdm": "MARCO MADEIRA"
+  },
+  {
+    "id": 16285,
+    "pdm": "PORTA VAI-VEM"
+  },
+  {
+    "id": 16606,
+    "pdm": "FOLHA FORMICA"
+  },
+  {
+    "id": 17015,
+    "pdm": "TÁBUAS E ARTIGOS CORRELATOS À BASE DE MADEIRA"
+  },
+  {
+    "id": 17016,
+    "pdm": "ESQUADRIA"
+  },
+  {
+    "id": 17017,
+    "pdm": "COMPENSADOS E FOLHEADOS"
+  },
+  {
+    "id": 18427,
+    "pdm": "LAMINADO DECORATIVO"
+  },
+  {
+    "id": 18609,
+    "pdm": "GRANZEPE MADEIRA"
+  },
+  {
+    "id": 18645,
+    "pdm": "RODAMEIO"
+  },
+  {
+    "id": 18759,
+    "pdm": "FITA ENCABEÇAMENTO"
+  },
+  {
+    "id": 19015,
+    "pdm": "CRUZETA MADEIRA"
+  }
+]
