@@ -1,0 +1,967 @@
+[
+  {
+    "id": "00368",
+    "pdm": "REATOR LÂMPADA VAPOR SÓDIO",
+    "grupo": 62
+  },
+  {
+    "id": "00369",
+    "pdm": "REATOR LÂMPADA VAPOR MERCÚRIO",
+    "grupo": 62
+  },
+  {
+    "id": "00398",
+    "pdm": "RECEPTÁCULO LÂMPADA",
+    "grupo": 62
+  },
+  {
+    "id": "00411",
+    "pdm": "BRAÇO LUMINÁRIA EXTERNA",
+    "grupo": 62
+  },
+  {
+    "id": "00412",
+    "pdm": "LUMINÁRIA ILUMINAÇÃO PÚBLICA",
+    "grupo": 62
+  },
+  {
+    "id": "00413",
+    "pdm": "LÂMPADA HALÓGENA",
+    "grupo": 62
+  },
+  {
+    "id": "00414",
+    "pdm": "LÂMPADA LUZ MISTA",
+    "grupo": 62
+  },
+  {
+    "id": "00415",
+    "pdm": "LÂMPADA VAPOR MERCÚRIO ALTA PRESSÃO",
+    "grupo": 62
+  },
+  {
+    "id": "00416",
+    "pdm": "LÂMPADA VAPOR SÓDIO ALTA PRESSÃO",
+    "grupo": 62
+  },
+  {
+    "id": "00417",
+    "pdm": "APARELHO ILUMINAÇÃO PORTÁTIL",
+    "grupo": 62
+  },
+  {
+    "id": "00456",
+    "pdm": "BALIZAMENTO NOTURNO",
+    "grupo": 62
+  },
+  {
+    "id": "00457",
+    "pdm": "PROJETOR ILUMINAÇÃO",
+    "grupo": 62
+  },
+  {
+    "id": "00466",
+    "pdm": "ADAPTADOR ROSCA EDSON",
+    "grupo": 62
+  },
+  {
+    "id": "00514",
+    "pdm": "REATOR IGNITOR",
+    "grupo": 62
+  },
+  {
+    "id": "00538",
+    "pdm": "LÂMPADA INCANDESCENTE",
+    "grupo": 62
+  },
+  {
+    "id": "00679",
+    "pdm": "VELA ILUMINAÇÃO",
+    "grupo": 62
+  },
+  {
+    "id": "00833",
+    "pdm": "SOQUETE LÂMPADA",
+    "grupo": 62
+  },
+  {
+    "id": "01201",
+    "pdm": "ARANDELA",
+    "grupo": 62
+  },
+  {
+    "id": "01237",
+    "pdm": "ABAJUR",
+    "grupo": 62
+  },
+  {
+    "id": "01530",
+    "pdm": "SOQUETE LÂMPADA FLUORESCENTE",
+    "grupo": 62
+  },
+  {
+    "id": "01602",
+    "pdm": "ABAJUR",
+    "grupo": 62
+  },
+  {
+    "id": "01603",
+    "pdm": "ABAJUR - USO HOSPITALAR",
+    "grupo": 62
+  },
+  {
+    "id": "02096",
+    "pdm": "ADAPTADOR PARA LUZ DE REFLETOR",
+    "grupo": 62
+  },
+  {
+    "id": "02274",
+    "pdm": "ALETA LUMINÁRIA",
+    "grupo": 62
+  },
+  {
+    "id": "02846",
+    "pdm": "APARELHO SISTEMA DE ILUMINAÇÃO AERONAVE",
+    "grupo": 62
+  },
+  {
+    "id": "02847",
+    "pdm": "APARELHO SISTEMA DE ILUMINAÇÃO EMBARCAÇÃO",
+    "grupo": 62
+  },
+  {
+    "id": "02848",
+    "pdm": "APARELHO PARA SISTEMA DE ILUMINACAO - LOCOMOTIVA",
+    "grupo": 62
+  },
+  {
+    "id": "02849",
+    "pdm": "APARELHO PARA SISTEMA DE ILUMINACAO - VEICULO AU-TOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": "02980",
+    "pdm": "LÂMPADA OFTALMOSCÓPIO",
+    "grupo": 62
+  },
+  {
+    "id": "03139",
+    "pdm": "AUTOMÁTICO DE FAROL",
+    "grupo": 62
+  },
+  {
+    "id": "03141",
+    "pdm": "AUTOMÁTICO SETA DE VEÍCULO",
+    "grupo": 62
+  },
+  {
+    "id": "03417",
+    "pdm": "BASE DE GLOBO ILUMINAÇÃO",
+    "grupo": 62
+  },
+  {
+    "id": "03427",
+    "pdm": "BASE PARA LAMPADA",
+    "grupo": 62
+  },
+  {
+    "id": "03434",
+    "pdm": "BASTAO ISOLANTE",
+    "grupo": 62
+  },
+  {
+    "id": "03650",
+    "pdm": "BOCAL COM INTERRUPTOR CONJUNGADO",
+    "grupo": 62
+  },
+  {
+    "id": "03651",
+    "pdm": "BOCAL COM TOMADA CONJUGADA",
+    "grupo": 62
+  },
+  {
+    "id": "03861",
+    "pdm": "BRAÇO ILUMINAÇÃO PÚBLICA",
+    "grupo": 62
+  },
+  {
+    "id": "04375",
+    "pdm": "CAMISA DE TELA DE AMIANTO PARA LAMPIAO",
+    "grupo": 62
+  },
+  {
+    "id": "04376",
+    "pdm": "CAMISA VIDRO LAMPIÃO",
+    "grupo": 62
+  },
+  {
+    "id": "04396",
+    "pdm": "CANDEEIRO",
+    "grupo": 62
+  },
+  {
+    "id": "06631",
+    "pdm": "LUZ EMERGÊNCIA",
+    "grupo": 62
+  },
+  {
+    "id": "06700",
+    "pdm": "EQUIPAMENTO DE ILUMINACAO DE AEROPORTO",
+    "grupo": 62
+  },
+  {
+    "id": "06701",
+    "pdm": "EQUIPAMENTO DE ILUMINACAO SUBAQUATICA",
+    "grupo": 62
+  },
+  {
+    "id": "06792",
+    "pdm": "LUMINÁRIA",
+    "grupo": 62
+  },
+  {
+    "id": "06817",
+    "pdm": "EQUIPAMENTO PARA CONTROLE DE ILUMINACAO DE RUA",
+    "grupo": 62
+  },
+  {
+    "id": "07070",
+    "pdm": "ESTABILIZADOR DE LUZ FLUORESCENTE ( BALLAST )",
+    "grupo": 62
+  },
+  {
+    "id": "07279",
+    "pdm": "LÂMPADA LENSÔMETRO",
+    "grupo": 62
+  },
+  {
+    "id": "07297",
+    "pdm": "FAROL COMUM",
+    "grupo": 62
+  },
+  {
+    "id": "07298",
+    "pdm": "FAROL COMUM - VEÍCULO AUTOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": "07299",
+    "pdm": "FAROL COMUM PARA AERONAVE",
+    "grupo": 62
+  },
+  {
+    "id": "07300",
+    "pdm": "FAROL COMUM PARA EMBARCACAO",
+    "grupo": 62
+  },
+  {
+    "id": "07301",
+    "pdm": "FAROL COMUM PARA LOCOMOTIVA",
+    "grupo": 62
+  },
+  {
+    "id": "07302",
+    "pdm": "FAROL NEBLINA",
+    "grupo": 62
+  },
+  {
+    "id": "07303",
+    "pdm": "FAROL CONTRA NEBLINA - VEICULO AUTOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": "07304",
+    "pdm": "FAROL CONTRA NEBLINA PARA AERONAVE",
+    "grupo": 62
+  },
+  {
+    "id": "07305",
+    "pdm": "FAROL CONTRA NEBLINA PARA EMBARCACAO",
+    "grupo": 62
+  },
+  {
+    "id": "07306",
+    "pdm": "FAROL CONTRA NEBLINA PARA LOCOMOTIVA",
+    "grupo": 62
+  },
+  {
+    "id": "07308",
+    "pdm": "FAROL DE MILHA",
+    "grupo": 62
+  },
+  {
+    "id": "07309",
+    "pdm": "FAROL MANUAL LOCALIZADOR PARA VEICULOS",
+    "grupo": 62
+  },
+  {
+    "id": "07310",
+    "pdm": "FAROL SELADO ( SEALED BEAM )",
+    "grupo": 62
+  },
+  {
+    "id": "07311",
+    "pdm": "FAROL SELADO",
+    "grupo": 62
+  },
+  {
+    "id": "07312",
+    "pdm": "FAROL SELADO ( SEALED BEAM ) PARA AERONAVE",
+    "grupo": 62
+  },
+  {
+    "id": "07313",
+    "pdm": "FAROL SELADO ( SEALED BEAM ) PARA EMBARCACAO",
+    "grupo": 62
+  },
+  {
+    "id": "07314",
+    "pdm": "FAROL SELADO ( SEALED BEAM ) PARA LOCOMOTIVA",
+    "grupo": 62
+  },
+  {
+    "id": "07315",
+    "pdm": "FAROLETE",
+    "grupo": 62
+  },
+  {
+    "id": "07316",
+    "pdm": "FAROLETE - VEICULO AUTOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": "07317",
+    "pdm": "FAROLETE PARA AERONAVE",
+    "grupo": 62
+  },
+  {
+    "id": "07318",
+    "pdm": "FAROLETE PARA EMBARCACAO",
+    "grupo": 62
+  },
+  {
+    "id": "07319",
+    "pdm": "FAROLETE PARA LOCOMOTIVA",
+    "grupo": 62
+  },
+  {
+    "id": "08015",
+    "pdm": "GLOBO DE LUMINARIA",
+    "grupo": 62
+  },
+  {
+    "id": "08265",
+    "pdm": "HOLOFOTE",
+    "grupo": 62
+  },
+  {
+    "id": "08445",
+    "pdm": "INTERRUPTOR DE LUZ DE FREIO - VEICULO AUTOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": "08446",
+    "pdm": "INTERRUPTOR DE LUZ DE MARCHA RE - VEICULO AUTOMOTI",
+    "grupo": 62
+  },
+  {
+    "id": "08641",
+    "pdm": "LÂMPADA - APARELHO LUZ MULTI-ESPECTRAL",
+    "grupo": 62
+  },
+  {
+    "id": "08642",
+    "pdm": "LÂMPADA - APARELHO OFTALMOLÓGICO",
+    "grupo": 62
+  },
+  {
+    "id": "08643",
+    "pdm": "LÂMPADA - APARELHO VIDEOLAPAROSCOPIA",
+    "grupo": 62
+  },
+  {
+    "id": "08644",
+    "pdm": "LÂMPADA - COMPARADOR ÓTICO",
+    "grupo": 62
+  },
+  {
+    "id": "08645",
+    "pdm": "LÂMPADA",
+    "grupo": 62
+  },
+  {
+    "id": "08646",
+    "pdm": "LÂMPADA - LARINGOSCÓPIO",
+    "grupo": 62
+  },
+  {
+    "id": "08647",
+    "pdm": "LÂMPADA RETROPROJETOR",
+    "grupo": 62
+  },
+  {
+    "id": "08648",
+    "pdm": "LÂMPADA DE ACETILENO",
+    "grupo": 62
+  },
+  {
+    "id": "08650",
+    "pdm": "LÂMPADA DE ESPECTRÔMETRO",
+    "grupo": 62
+  },
+  {
+    "id": "08652",
+    "pdm": "LÂMPADA DE LANTERNA",
+    "grupo": 62
+  },
+  {
+    "id": "08653",
+    "pdm": "LÂMPADA DE LEITORA DE MICROFICHA",
+    "grupo": 62
+  },
+  {
+    "id": "08654",
+    "pdm": "LÂMPADA NEON",
+    "grupo": 62
+  },
+  {
+    "id": "08655",
+    "pdm": "LÂMPADA DE USO EM FOTOGRAFIA",
+    "grupo": 62
+  },
+  {
+    "id": "08656",
+    "pdm": "LÂMPADA DE VAPOR DE IODO",
+    "grupo": 62
+  },
+  {
+    "id": "08657",
+    "pdm": "LÂMPADA DICRÓICA",
+    "grupo": 62
+  },
+  {
+    "id": "08658",
+    "pdm": "LÂMPADA FLUORESCENTE",
+    "grupo": 62
+  },
+  {
+    "id": "08659",
+    "pdm": "CALHA LÂMPADA FLUORESCENTE",
+    "grupo": 62
+  },
+  {
+    "id": "08660",
+    "pdm": "LÂMPADA FLUORESCENTE - LUMINÁRIA",
+    "grupo": 62
+  },
+  {
+    "id": "08661",
+    "pdm": "INICIALIZADOR",
+    "grupo": 62
+  },
+  {
+    "id": "08662",
+    "pdm": "LÂMPADA FLUORESCENTE COMPACTA",
+    "grupo": 62
+  },
+  {
+    "id": "08663",
+    "pdm": "LÂMPADA FLUORESCENTE MINIATURA - REATOR",
+    "grupo": 62
+  },
+  {
+    "id": "08664",
+    "pdm": "LÂMPADA INCANDESCENTE - VEÍCULO AUTOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": "08665",
+    "pdm": "LÂMPADA INFRAVERMELHA",
+    "grupo": 62
+  },
+  {
+    "id": "08666",
+    "pdm": "LÂMPADA MINIATURA",
+    "grupo": 62
+  },
+  {
+    "id": "08667",
+    "pdm": "LÂMPADA PARA DIAL",
+    "grupo": 62
+  },
+  {
+    "id": "08668",
+    "pdm": "LÂMPADA PILOTO",
+    "grupo": 62
+  },
+  {
+    "id": "08669",
+    "pdm": "LÂMPADA REFLETORA",
+    "grupo": 62
+  },
+  {
+    "id": "08670",
+    "pdm": "LÂMPADA ULTRAVIOLETA",
+    "grupo": 62
+  },
+  {
+    "id": "08671",
+    "pdm": "LÂMPADA VAPOR MERCÚRIO",
+    "grupo": 62
+  },
+  {
+    "id": "08672",
+    "pdm": "LÂMPADA VAPOR METÁLICO",
+    "grupo": 62
+  },
+  {
+    "id": "08675",
+    "pdm": "LAMPIÃO A GÁS",
+    "grupo": 62
+  },
+  {
+    "id": "08676",
+    "pdm": "LAMPIAO A GASOLINA",
+    "grupo": 62
+  },
+  {
+    "id": "08677",
+    "pdm": "LAMPIÃO A QUEROSENE",
+    "grupo": 62
+  },
+  {
+    "id": "08712",
+    "pdm": "LANTERNA ELÉTRICA",
+    "grupo": 62
+  },
+  {
+    "id": "08713",
+    "pdm": "LANTERNA NÃO ELÉTRICA",
+    "grupo": 62
+  },
+  {
+    "id": "08715",
+    "pdm": "LANTERNA VEÍCULO AUTOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": "08780",
+    "pdm": "LENTE DE FAROL PARA AERONAVE",
+    "grupo": 62
+  },
+  {
+    "id": "08781",
+    "pdm": "LENTE DE FAROL PARA EMBARCACAO",
+    "grupo": 62
+  },
+  {
+    "id": "08782",
+    "pdm": "LENTE DE FAROL PARA LOCOMOTIVA",
+    "grupo": 62
+  },
+  {
+    "id": "08783",
+    "pdm": "LENTE SINALIZADOR VEÍCULO AUTOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": "08784",
+    "pdm": "LENTE LAMPADA INDICADORA - AERONAVE",
+    "grupo": 62
+  },
+  {
+    "id": "08785",
+    "pdm": "LENTE LAMPADA INDICADORA - VEICULO AUTOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": "08786",
+    "pdm": "LENTE LANTERNA SINALIZAÇÃO",
+    "grupo": 62
+  },
+  {
+    "id": "08789",
+    "pdm": "LENTE PARA LAMPADA INDICADORA",
+    "grupo": 62
+  },
+  {
+    "id": "08790",
+    "pdm": "LENTE PARA LAMPADA INDICADORA PARA EMBARCACAO",
+    "grupo": 62
+  },
+  {
+    "id": "08791",
+    "pdm": "LENTE PARA LAMPADA INDICADORA PARA LOCOMOTIVA",
+    "grupo": 62
+  },
+  {
+    "id": "08792",
+    "pdm": "LENTE PARA USO EM APARELHO DE ILUMINACAO",
+    "grupo": 62
+  },
+  {
+    "id": "08937",
+    "pdm": "LUMINARIA A PROVA DE GAS - VAPOR - PO",
+    "grupo": 62
+  },
+  {
+    "id": "08939",
+    "pdm": "LUMINARIA COMERCIAL E RESIDENCIAL",
+    "grupo": 62
+  },
+  {
+    "id": "08940",
+    "pdm": "LUMINARIA DE ILUMINACAO CENICA",
+    "grupo": 62
+  },
+  {
+    "id": "08941",
+    "pdm": "LUMINARIA DE PRANCHETA DE DESENHISTA",
+    "grupo": 62
+  },
+  {
+    "id": "08942",
+    "pdm": "LUMINARIA VEDADA",
+    "grupo": 62
+  },
+  {
+    "id": "08953",
+    "pdm": "LUSTRE",
+    "grupo": 62
+  },
+  {
+    "id": "08982",
+    "pdm": "LUZ DE EXTENSAO PENDENTE ( MANUTENCAO )",
+    "grupo": 62
+  },
+  {
+    "id": "08985",
+    "pdm": "LUZ SEGURANCA - AERONAVE",
+    "grupo": 62
+  },
+  {
+    "id": "08986",
+    "pdm": "LUZ SEGURANCA - EMBARCACAO",
+    "grupo": 62
+  },
+  {
+    "id": "08987",
+    "pdm": "LUZ SEGURANCA - LOCOMOTIVA",
+    "grupo": 62
+  },
+  {
+    "id": "08988",
+    "pdm": "LUZ SEGURANCA - VEICULO AUTOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": "09464",
+    "pdm": "MATERIAL ILUMINACAO - ESTACAO FERROVIARIA",
+    "grupo": 62
+  },
+  {
+    "id": "09465",
+    "pdm": "PEÇA / ACESSÓRIO ILUMINAÇÃO",
+    "grupo": 62
+  },
+  {
+    "id": "09466",
+    "pdm": "MATERIAL ILUMINACAO ELETRICA - AERONAVE",
+    "grupo": 62
+  },
+  {
+    "id": "09467",
+    "pdm": "MATERIAL ILUMINACAO ELETRICA - VEICULO AUTOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": "09468",
+    "pdm": "MATERIAL ILUMINACAO ELETRICA - VEICULO FERROVIARIO",
+    "grupo": 62
+  },
+  {
+    "id": "09469",
+    "pdm": "MATERIAL ILUMINACAO ELETRICA - VEICULO MARITIMO",
+    "grupo": 62
+  },
+  {
+    "id": "09932",
+    "pdm": "MOTOCICLETA - CARCACA FAROL",
+    "grupo": 62
+  },
+  {
+    "id": "09941",
+    "pdm": "LENTE VEÍCULO AUTOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": 10516,
+    "pdm": "PAVIO - LAMPARINA / TOUCHEIRA",
+    "grupo": 62
+  },
+  {
+    "id": 10877,
+    "pdm": "PLAFONIER",
+    "grupo": 62
+  },
+  {
+    "id": 11044,
+    "pdm": "PORTA-LÂMPADA",
+    "grupo": 62
+  },
+  {
+    "id": 11094,
+    "pdm": "PORTA-STARTER",
+    "grupo": 62
+  },
+  {
+    "id": 11366,
+    "pdm": "QUEBRA - LUZ",
+    "grupo": 62
+  },
+  {
+    "id": 11370,
+    "pdm": "QUEIMADOR",
+    "grupo": 62
+  },
+  {
+    "id": 11433,
+    "pdm": "REATOR LÂMPADA VAPOR METÁLICO",
+    "grupo": 62
+  },
+  {
+    "id": 11524,
+    "pdm": "REFLETOR",
+    "grupo": 62
+  },
+  {
+    "id": 11526,
+    "pdm": "REFLETOR ILUMINAÇÃO",
+    "grupo": 62
+  },
+  {
+    "id": 11527,
+    "pdm": "REFLETOR PISCINA - PECA / COMPONENTE",
+    "grupo": 62
+  },
+  {
+    "id": 11594,
+    "pdm": "REGULADOR FAROL - VEICULO AUTOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": 11984,
+    "pdm": "SELETOR LUZ ALTA / BAIXA - VEICULO AUTOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": 12080,
+    "pdm": "SINALIZACAO MOVEL",
+    "grupo": 62
+  },
+  {
+    "id": 12083,
+    "pdm": "SINALIZADOR LUMINOSO DE PAINEL ELÉTRICO",
+    "grupo": 62
+  },
+  {
+    "id": 12280,
+    "pdm": "SPOT DE ILUMINACAO",
+    "grupo": 62
+  },
+  {
+    "id": 12983,
+    "pdm": "TRILHO ELETRIFICADO",
+    "grupo": 62
+  },
+  {
+    "id": 13101,
+    "pdm": "TUBO FLUORESCENTE",
+    "grupo": 62
+  },
+  {
+    "id": 13520,
+    "pdm": "ADAPTADOR DE LAMPADA SOQUETE / ROSCA / SOQUETE",
+    "grupo": 62
+  },
+  {
+    "id": 13579,
+    "pdm": "LÂMPADA DE SÓDIO",
+    "grupo": 62
+  },
+  {
+    "id": 13625,
+    "pdm": "PROJETOR E REFLETOR",
+    "grupo": 62
+  },
+  {
+    "id": 13628,
+    "pdm": "REATOR LÂMPADA",
+    "grupo": 62
+  },
+  {
+    "id": 14351,
+    "pdm": "LÂMPADA GERMICIDA",
+    "grupo": 62
+  },
+  {
+    "id": 14384,
+    "pdm": "INTERRUPTOR DE LUZ VEÍCULO AUTOMOTIVO",
+    "grupo": 62
+  },
+  {
+    "id": 14423,
+    "pdm": "LÂMPADA PROJETOR MULTIMÍDIA",
+    "grupo": 62
+  },
+  {
+    "id": 14690,
+    "pdm": "LÂMPADA DEUTÉRIO",
+    "grupo": 62
+  },
+  {
+    "id": 14830,
+    "pdm": "LÂMPADA FLASH",
+    "grupo": 62
+  },
+  {
+    "id": 15169,
+    "pdm": "LÂMPADA PROJETOR ESLAIDE",
+    "grupo": 62
+  },
+  {
+    "id": 15364,
+    "pdm": "MANGUEIRA LUMINOSA",
+    "grupo": 62
+  },
+  {
+    "id": 15561,
+    "pdm": "LÂMPADA XENÔNIO",
+    "grupo": 62
+  },
+  {
+    "id": 15606,
+    "pdm": "LÂMPADA PARA FOTOCOPIADORA",
+    "grupo": 62
+  },
+  {
+    "id": 15642,
+    "pdm": "LÂMPADA ARCO DE XENÔNIO",
+    "grupo": 62
+  },
+  {
+    "id": 15806,
+    "pdm": "REFLETOR",
+    "grupo": 62
+  },
+  {
+    "id": 15837,
+    "pdm": "CANHÃO SEGUIDOR",
+    "grupo": 62
+  },
+  {
+    "id": 16149,
+    "pdm": "LÂMPADA XENOPHOT",
+    "grupo": 62
+  },
+  {
+    "id": 17110,
+    "pdm": "APARELHOS DE ILUMINAÇÃO ELÉTRICA DE USO INTERNO E EXTERNO",
+    "grupo": 62
+  },
+  {
+    "id": 17111,
+    "pdm": "LUZES E EQUIPAMENTOS DE ILUMINAÇÃO ELÉTRICA PARA VEÍCULOS",
+    "grupo": 62
+  },
+  {
+    "id": 17112,
+    "pdm": "EQUIPAMENTOS DE ILUMINAÇÃO ELÉTRICA MANUAL E PORTÁTIL",
+    "grupo": 62
+  },
+  {
+    "id": 17113,
+    "pdm": "LÂMPADAS ELÉTRICAS",
+    "grupo": 62
+  },
+  {
+    "id": 17114,
+    "pdm": "LUSTRES SUPORTES PARA LÂMPADAS E ELEMENTOS DE PARTIDA",
+    "grupo": 62
+  },
+  {
+    "id": 17115,
+    "pdm": "EQUIPAMENTOS DE ILUMINAÇÃO NÃO ELÉTRICOS",
+    "grupo": 62
+  },
+  {
+    "id": 18038,
+    "pdm": "PORTA FILTRO LUZ",
+    "grupo": 62
+  },
+  {
+    "id": 18638,
+    "pdm": "DIFUSOR",
+    "grupo": 62
+  },
+  {
+    "id": 19095,
+    "pdm": "LÂMPADA LED",
+    "grupo": 62
+  },
+  {
+    "id": 19178,
+    "pdm": "IGNITOR",
+    "grupo": 62
+  },
+  {
+    "id": 19183,
+    "pdm": "ESTROBOSCÓPIO",
+    "grupo": 62
+  },
+  {
+    "id": 19189,
+    "pdm": "LÂMPADA CATODO OCO",
+    "grupo": 62
+  },
+  {
+    "id": 19199,
+    "pdm": "INVERSOR LÂMPADA",
+    "grupo": 62
+  },
+  {
+    "id": 19210,
+    "pdm": "BALIZADOR",
+    "grupo": 62
+  },
+  {
+    "id": 19227,
+    "pdm": "KIT ILUMINAÇÃO EXTERNA",
+    "grupo": 62
+  },
+  {
+    "id": 19258,
+    "pdm": "REATOR LÂMPADA FLUORESCENTE",
+    "grupo": 62
+  },
+  {
+    "id": 19329,
+    "pdm": "REFLETOR ILUMINAÇÃO - PEÇAS/COMPONENTES",
+    "grupo": 62
+  },
+  {
+    "id": 19338,
+    "pdm": "PORTA GOBO",
+    "grupo": 62
+  },
+  {
+    "id": 19374,
+    "pdm": "LAMPIÃO À PILHA",
+    "grupo": 62
+  },
+  {
+    "id": 19459,
+    "pdm": "SISTEMA ILUMINAÇÃO NATURAL",
+    "grupo": 62
+  }
+]
