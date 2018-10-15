@@ -1,182 +1,227 @@
 [
   {
     "id": "02124",
-    "pdm": "AERADOR"
+    "pdm": "AERADOR",
+    "grupo": 46
   },
   {
     "id": "02208",
-    "pdm": "ALAMBIQUE DESTILADOR DE AGUA"
+    "pdm": "ALAMBIQUE DESTILADOR DE AGUA",
+    "grupo": 46
   },
   {
     "id": "02781",
-    "pdm": "APARELHO ESTERILIZADOR ÁGUA"
+    "pdm": "APARELHO ESTERILIZADOR ÁGUA",
+    "grupo": 46
   },
   {
     "id": "03092",
-    "pdm": "ASPIRADOR MECÂNICO"
+    "pdm": "ASPIRADOR MECÂNICO",
+    "grupo": 46
   },
   {
     "id": "03488",
-    "pdm": "PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA"
+    "pdm": "PEÇAS E ACESSÓRIOS PURIFICADOR ÁGUA",
+    "grupo": 46
   },
   {
     "id": "03490",
-    "pdm": "BEBEDOURO NAO REFRIGERADO PARA GARRAFAO"
+    "pdm": "BEBEDOURO NAO REFRIGERADO PARA GARRAFAO",
+    "grupo": 46
   },
   {
     "id": "05091",
-    "pdm": "EQUIPAMENTO CLORADOR PARA TRATAMENTO DE AGUA"
+    "pdm": "EQUIPAMENTO CLORADOR PARA TRATAMENTO DE AGUA",
+    "grupo": 46
   },
   {
     "id": "06043",
-    "pdm": "FILTRO ANAERÓBICO"
+    "pdm": "FILTRO ANAERÓBICO",
+    "grupo": 46
   },
   {
     "id": "06091",
-    "pdm": "DESENTUPIDOR TUBO / ACESSÓRIOS - COMPONENTES"
+    "pdm": "DESENTUPIDOR TUBO / ACESSÓRIOS - COMPONENTES",
+    "grupo": 46
   },
   {
     "id": "06095",
-    "pdm": "DESGASEIFICADOR DE AGUA"
+    "pdm": "DESGASEIFICADOR DE AGUA",
+    "grupo": 46
   },
   {
     "id": "06114",
-    "pdm": "DESSALINIZADOR INDUSTRIAL"
+    "pdm": "DESSALINIZADOR INDUSTRIAL",
+    "grupo": 46
   },
   {
     "id": "06115",
-    "pdm": "DESSALINIZADOR MARITIMO"
+    "pdm": "DESSALINIZADOR MARITIMO",
+    "grupo": 46
   },
   {
     "id": "06120",
-    "pdm": "DESTILADOR ÁGUA EQUIPAMENTO SALVA - VIDAS"
+    "pdm": "DESTILADOR ÁGUA EQUIPAMENTO SALVA - VIDAS",
+    "grupo": 46
   },
   {
     "id": "06121",
-    "pdm": "DESTILADOR ÁGUA"
+    "pdm": "DESTILADOR ÁGUA",
+    "grupo": 46
   },
   {
     "id": "06395",
-    "pdm": "DOSADOR QUIMICO"
+    "pdm": "DOSADOR QUIMICO",
+    "grupo": 46
   },
   {
     "id": "06695",
-    "pdm": "CONJUNTO FILTRAGEM"
+    "pdm": "CONJUNTO FILTRAGEM",
+    "grupo": 46
   },
   {
     "id": "06766",
-    "pdm": "EQUIPAMENTO DE TRATAMENTO DE ESGOTO INDUSTRIAL"
+    "pdm": "EQUIPAMENTO DE TRATAMENTO DE ESGOTO INDUSTRIAL",
+    "grupo": 46
   },
   {
     "id": "06796",
-    "pdm": "EQUIPAMENTO/COMPONENTE - DRENAGEM/TRATAMENTO ÁGUA"
+    "pdm": "EQUIPAMENTO/COMPONENTE - DRENAGEM/TRATAMENTO ÁGUA",
+    "grupo": 46
   },
   {
     "id": "07078",
-    "pdm": "ESTACAO COMPACTA DE TRATAMENTO DE ESGOTO"
+    "pdm": "ESTACAO COMPACTA DE TRATAMENTO DE ESGOTO",
+    "grupo": 46
   },
   {
     "id": "07080",
-    "pdm": "ESTACAO INDUSTRIAL DE TRATAMENTO DE AGUA"
+    "pdm": "ESTACAO INDUSTRIAL DE TRATAMENTO DE AGUA",
+    "grupo": 46
   },
   {
     "id": "07451",
-    "pdm": "FILTRO PURIFICAÇÃO ÁGUA"
+    "pdm": "FILTRO PURIFICAÇÃO ÁGUA",
+    "grupo": 46
   },
   {
     "id": "07454",
-    "pdm": "FILTRO AQUÁRIO / REFIL"
+    "pdm": "FILTRO AQUÁRIO / REFIL",
+    "grupo": 46
   },
   {
     "id": "07463",
-    "pdm": "REATOR ANAERÓBICO"
+    "pdm": "REATOR ANAERÓBICO",
+    "grupo": 46
   },
   {
     "id": "07464",
-    "pdm": "FILTRO DE ÁGUA"
+    "pdm": "FILTRO DE ÁGUA",
+    "grupo": 46
   },
   {
     "id": "07465",
-    "pdm": "FILTRO DE AGUA INDUSTRIAL"
+    "pdm": "FILTRO DE AGUA INDUSTRIAL",
+    "grupo": 46
   },
   {
     "id": "07639",
-    "pdm": "APARELHO TESTE FLOCULAÇÃO"
+    "pdm": "APARELHO TESTE FLOCULAÇÃO",
+    "grupo": 46
   },
   {
     "id": "07642",
-    "pdm": "FLOTADOR USO INDUSTRIAL"
+    "pdm": "FLOTADOR USO INDUSTRIAL",
+    "grupo": 46
   },
   {
     "id": 10266,
-    "pdm": "OZONIZADOR DE AGUA"
+    "pdm": "OZONIZADOR DE AGUA",
+    "grupo": 46
   },
   {
     "id": 10847,
-    "pdm": "PLACA FILTRO BIOLOGICO - PISCICULTURA"
+    "pdm": "PLACA FILTRO BIOLOGICO - PISCICULTURA",
+    "grupo": 46
   },
   {
     "id": 12404,
-    "pdm": "SUPORTE GARRAFAO DE AGUA NAO REFRIGERADO. COM TORNEIRA"
+    "pdm": "SUPORTE GARRAFAO DE AGUA NAO REFRIGERADO. COM TORNEIRA",
+    "grupo": 46
   },
   {
     "id": 13163,
-    "pdm": "UNIDADE DE BOMBEAMENTO DE ESGOTO"
+    "pdm": "UNIDADE DE BOMBEAMENTO DE ESGOTO",
+    "grupo": 46
   },
   {
     "id": 13361,
-    "pdm": "VELA DE FILTRO"
+    "pdm": "VELA DE FILTRO",
+    "grupo": 46
   },
   {
     "id": 13709,
-    "pdm": "ELEMENTO FILTRO"
+    "pdm": "ELEMENTO FILTRO",
+    "grupo": 46
   },
   {
     "id": 14091,
-    "pdm": "TANQUE DECANTADOR"
+    "pdm": "TANQUE DECANTADOR",
+    "grupo": 46
   },
   {
     "id": 14571,
-    "pdm": "FILTRO GEOMECÂNICO"
+    "pdm": "FILTRO GEOMECÂNICO",
+    "grupo": 46
   },
   {
     "id": 15207,
-    "pdm": "SISTEMA ULTRAPURIFICAÇÃO ÁGUA"
+    "pdm": "SISTEMA ULTRAPURIFICAÇÃO ÁGUA",
+    "grupo": 46
   },
   {
     "id": 15695,
-    "pdm": "APARELHO PURIFICADOR DE ÁGUA"
+    "pdm": "APARELHO PURIFICADOR DE ÁGUA",
+    "grupo": 46
   },
   {
     "id": 16068,
-    "pdm": "PROPULSOR PARA AERADOR"
+    "pdm": "PROPULSOR PARA AERADOR",
+    "grupo": 46
   },
   {
     "id": 16959,
-    "pdm": "SISTEMA ESTERILIZAÇÃO ÁGUA"
+    "pdm": "SISTEMA ESTERILIZAÇÃO ÁGUA",
+    "grupo": 46
   },
   {
     "id": 16960,
-    "pdm": "EQUIPAMENTOS PARA DESTILAÇÃO DE ÁGUA. PARA USO MARÍTIMO EINDUSTRIAL"
+    "pdm": "EQUIPAMENTOS PARA DESTILAÇÃO DE ÁGUA. PARA USO MARÍTIMO EINDUSTRIAL",
+    "grupo": 46
   },
   {
     "id": 16961,
-    "pdm": "JATEADOR LIMPADOR"
+    "pdm": "JATEADOR LIMPADOR",
+    "grupo": 46
   },
   {
     "id": 17843,
-    "pdm": "SUMIDOURO"
+    "pdm": "SUMIDOURO",
+    "grupo": 46
   },
   {
     "id": 18296,
-    "pdm": "CAIXA SEPARADORA ÁGUA / ÓLEO"
+    "pdm": "CAIXA SEPARADORA ÁGUA / ÓLEO",
+    "grupo": 46
   },
   {
     "id": 18337,
-    "pdm": "MULTIPROCESSADOR HIDROCINÉTICO"
+    "pdm": "MULTIPROCESSADOR HIDROCINÉTICO",
+    "grupo": 46
   },
   {
     "id": 18527,
-    "pdm": "MÓDULO PRÉ-TRATAMENTO ÁGUA"
+    "pdm": "MÓDULO PRÉ-TRATAMENTO ÁGUA",
+    "grupo": 46
   }
 ]
