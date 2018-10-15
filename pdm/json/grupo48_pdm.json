@@ -1,0 +1,254 @@
+[
+  {
+    "id": "00951",
+    "pdm": "VÁLVULA ESFERA"
+  },
+  {
+    "id": "00958",
+    "pdm": "VÁLVULA GLOBO"
+  },
+  {
+    "id": "00962",
+    "pdm": "VÁLVULA RETENÇÃO"
+  },
+  {
+    "id": "00964",
+    "pdm": "VÁLVULA AGULHA"
+  },
+  {
+    "id": "00969",
+    "pdm": "VÁLVULA GAVETA"
+  },
+  {
+    "id": "00981",
+    "pdm": "VÁLVULA MACHO"
+  },
+  {
+    "id": "00998",
+    "pdm": "VÁLVULA BORBOLETA"
+  },
+  {
+    "id": "00999",
+    "pdm": "VÁLVULA DIAFRAGMA"
+  },
+  {
+    "id": "01002",
+    "pdm": "VÁLVULA SOLENÓIDE"
+  },
+  {
+    "id": "01192",
+    "pdm": "POSICIONADOR PNEUMÁTICO"
+  },
+  {
+    "id": "01261",
+    "pdm": "POSICIONADOR ELETROPNEUMÁTICO"
+  },
+  {
+    "id": "03125",
+    "pdm": "ATUADOR HIDRAÚLICO"
+  },
+  {
+    "id": "03126",
+    "pdm": "ATUADOR PNEUMÁTICO"
+  },
+  {
+    "id": "06518",
+    "pdm": "ÊMBOLO VÁLVULA HIDRÁULICA"
+  },
+  {
+    "id": 11104,
+    "pdm": "POSICIONADOR DE VALVULA"
+  },
+  {
+    "id": 11558,
+    "pdm": "REGISTRO PEÇAS E COMPONENTES"
+  },
+  {
+    "id": 11559,
+    "pdm": "REGISTRO DE ALIVIO MANUAL"
+  },
+  {
+    "id": 11560,
+    "pdm": "REGISTRO GAVETA"
+  },
+  {
+    "id": 11561,
+    "pdm": "REGISTRO DE SEGURANCA MANUAL"
+  },
+  {
+    "id": 11562,
+    "pdm": "REGISTRO EM ANGULO MANUAL"
+  },
+  {
+    "id": 11563,
+    "pdm": "REGISTRO PRESSÃO"
+  },
+  {
+    "id": 11564,
+    "pdm": "REGISTRO TIPO TORNEIRA MANUAL"
+  },
+  {
+    "id": 12805,
+    "pdm": "TOMADA COM VALVULA GAS - RETA / OBLIQUA"
+  },
+  {
+    "id": 13245,
+    "pdm": "VÁLVULA"
+  },
+  {
+    "id": 13247,
+    "pdm": "VALVULA ANGULAR"
+  },
+  {
+    "id": 13248,
+    "pdm": "VALVULA"
+  },
+  {
+    "id": 13251,
+    "pdm": "VALVULA DE ALIVIO MANUAL"
+  },
+  {
+    "id": 13253,
+    "pdm": "VALVULA DE COMANDO HIDRAULICO"
+  },
+  {
+    "id": 13254,
+    "pdm": "VÁLVULA DE CONTROLE DE FLUXO"
+  },
+  {
+    "id": 13259,
+    "pdm": "VÁLVULA REDUTORA"
+  },
+  {
+    "id": 13260,
+    "pdm": "VALVULA DE GUILHOTINA"
+  },
+  {
+    "id": 13262,
+    "pdm": "VALVULA DE MANGOTE"
+  },
+  {
+    "id": 13266,
+    "pdm": "VALVULA DE PRESSAO E VACUO MANUAL"
+  },
+  {
+    "id": 13267,
+    "pdm": "VÁLVULA SEGURANÇA"
+  },
+  {
+    "id": 13268,
+    "pdm": "VALVULA DE SEGURANCA MANUAL"
+  },
+  {
+    "id": 13269,
+    "pdm": "VALVULA DE SUCCAO / DESCARGA DE COMPRESSOR"
+  },
+  {
+    "id": 13271,
+    "pdm": "VALVULA DISPERSORA"
+  },
+  {
+    "id": 13274,
+    "pdm": "VÁLVULA ESFÉRICA"
+  },
+  {
+    "id": 13277,
+    "pdm": "VALVULA OBLIQUA"
+  },
+  {
+    "id": 13278,
+    "pdm": "VALVULA OPERADA A MOTOR ELETRICO"
+  },
+  {
+    "id": 13281,
+    "pdm": "VÁLVULA PNEUMÁTICA"
+  },
+  {
+    "id": 13282,
+    "pdm": "VALVULA REGULADORA DE NIVEL"
+  },
+  {
+    "id": 13283,
+    "pdm": "VÁLVULA REGULADORA DE PRESSÃO / PEÇAS E ACESSÓRIOS"
+  },
+  {
+    "id": 13284,
+    "pdm": "VALVULA REGULADORA DE PRESSAO - SISTEMA HIDRAULICO"
+  },
+  {
+    "id": 13285,
+    "pdm": "VALVULA REGULADORA DE VAZAO"
+  },
+  {
+    "id": 13288,
+    "pdm": "VALVULA SISTEMA COLETA A VACUO"
+  },
+  {
+    "id": 13289,
+    "pdm": "VALVULA TERMOPLASTICA"
+  },
+  {
+    "id": 13290,
+    "pdm": "VÁLVULA TERMOSTÁTICA"
+  },
+  {
+    "id": 13294,
+    "pdm": "VÁLVULA VENTOSA"
+  },
+  {
+    "id": 14030,
+    "pdm": "VÁLVULA DE ESFERA"
+  },
+  {
+    "id": 14447,
+    "pdm": "VÁLVULA ELIMINADORA AR"
+  },
+  {
+    "id": 14461,
+    "pdm": "REGISTRO ESFERA"
+  },
+  {
+    "id": 14777,
+    "pdm": "VÁLVULA AUTOMÁTICA IRRIGAÇÃO"
+  },
+  {
+    "id": 15065,
+    "pdm": "VALVULA ROTATIVA"
+  },
+  {
+    "id": 15075,
+    "pdm": "CONJUNTO REPARO VÁLVULA PNEUMÁTICA"
+  },
+  {
+    "id": 15206,
+    "pdm": "REGULADOR PRESSÃO ÁGUA"
+  },
+  {
+    "id": 15337,
+    "pdm": "SALVA REGISTRO"
+  },
+  {
+    "id": 15373,
+    "pdm": "VÁLVULA LINHA"
+  },
+  {
+    "id": 16965,
+    "pdm": "VÁLVULAS ACIONADAS POR FORÇA MOTRIZ"
+  },
+  {
+    "id": 16966,
+    "pdm": "VÁLVULAS NÃO ACIONADAS POR FORÇA MOTRIZ"
+  },
+  {
+    "id": 16967,
+    "pdm": "ATUADORES PARA MOVIMENTACAO DE VALVULAS"
+  },
+  {
+    "id": 18243,
+    "pdm": "VALVULA REVERSAO"
+  },
+  {
+    "id": 18750,
+    "pdm": "REGISTRO GLOBO"
+  }
+]
