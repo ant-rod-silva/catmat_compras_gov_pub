@@ -91,6 +91,8 @@ Os dados foram extraídos nos dias 01 e 02 de outubro de 2018
 
 http://compras.dados.gov.br/materiais/v1/materiais.html?grupo=10
 
+## FERRAMENTAS AUXILIARES
+
 #### Ferramenta usada para remover os espaços em branco desnecessários
 
 https://www.textfixer.com/tools/remove-white-spaces.php
@@ -118,3 +120,7 @@ http://www.unit-conversion.info/texttools/replace-text/
 #### csv-extract-column
 
 https://www.browserling.com/tools/csv-extract-column
+
+#### Adicionar texto ao final de uma linha
+
+http://www.toolsvoid.com/append-string
