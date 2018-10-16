@@ -1,0 +1,1667 @@
+[
+  {
+    "id": "01022",
+    "pdm": "MAÇARICO SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "01027",
+    "pdm": "MAÇARICO CORTE",
+    "grupo": 34
+  },
+  {
+    "id": "01028",
+    "pdm": "FORNO MUFLA",
+    "grupo": 34
+  },
+  {
+    "id": "01029",
+    "pdm": "GABINETE JATEAMENTO AREIA",
+    "grupo": 34
+  },
+  {
+    "id": "01030",
+    "pdm": "EQUIPAMENTO SOLDAGEM ARCO",
+    "grupo": 34
+  },
+  {
+    "id": "01033",
+    "pdm": "FURADEIRA COLUNA",
+    "grupo": 34
+  },
+  {
+    "id": "01034",
+    "pdm": "TRANSFORMADOR SOLDAGEM",
+    "grupo": 34
+  },
+  {
+    "id": "01035",
+    "pdm": "RETIFICADOR SOLDAGEM",
+    "grupo": 34
+  },
+  {
+    "id": "01036",
+    "pdm": "MÁQUINA SOLDA PORTÁTIL",
+    "grupo": 34
+  },
+  {
+    "id": "01040",
+    "pdm": "SOLDAGEM SEMI-AUTOMÁTICA",
+    "grupo": 34
+  },
+  {
+    "id": "01047",
+    "pdm": "REBARBADORA ANGULAR",
+    "grupo": 34
+  },
+  {
+    "id": "01048",
+    "pdm": "FORNO CÂMARA",
+    "grupo": 34
+  },
+  {
+    "id": "01061",
+    "pdm": "CALANDRA ROTATIVA",
+    "grupo": 34
+  },
+  {
+    "id": "01062",
+    "pdm": "MÁQUINA TREFILAR",
+    "grupo": 34
+  },
+  {
+    "id": "01065",
+    "pdm": "GUILHOTINA INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": "01066",
+    "pdm": "CHAMFRADEIRA",
+    "grupo": 34
+  },
+  {
+    "id": "01078",
+    "pdm": "PRENSA PNEUMÁTICA CADERNO DOBRADO/LIVRO COSTURADO",
+    "grupo": 34
+  },
+  {
+    "id": "01081",
+    "pdm": "MANDRIL COM PINÇA",
+    "grupo": 34
+  },
+  {
+    "id": "01084",
+    "pdm": "TORNO VERTICAL",
+    "grupo": 34
+  },
+  {
+    "id": "01085",
+    "pdm": "FRESADORA COMANDO NUMÉRICO",
+    "grupo": 34
+  },
+  {
+    "id": "01086",
+    "pdm": "FRESADORA UNIVERSAL",
+    "grupo": 34
+  },
+  {
+    "id": "01087",
+    "pdm": "PINÇA",
+    "grupo": 34
+  },
+  {
+    "id": "01088",
+    "pdm": "PORTA-MACHO",
+    "grupo": 34
+  },
+  {
+    "id": "01089",
+    "pdm": "AFIADORA BURIL FRESA",
+    "grupo": 34
+  },
+  {
+    "id": "01090",
+    "pdm": "AFIADORA FERRAMENTA GRAVAÇÃO",
+    "grupo": 34
+  },
+  {
+    "id": "01091",
+    "pdm": "PRENSA HIDRÁULICA REPUXE",
+    "grupo": 34
+  },
+  {
+    "id": "01092",
+    "pdm": "PRENSA MANUAL",
+    "grupo": 34
+  },
+  {
+    "id": "01096",
+    "pdm": "TESOURA MECÂNICA",
+    "grupo": 34
+  },
+  {
+    "id": "01107",
+    "pdm": "SERRA CIRCULAR",
+    "grupo": 34
+  },
+  {
+    "id": "01108",
+    "pdm": "ROSQUEADEIRA PORTÁTIL",
+    "grupo": 34
+  },
+  {
+    "id": "01109",
+    "pdm": "SERRA PORTÁTIL",
+    "grupo": 34
+  },
+  {
+    "id": "01110",
+    "pdm": "TESOURA PORTÁTIL",
+    "grupo": 34
+  },
+  {
+    "id": "01111",
+    "pdm": "ESMERILHADEIRA PORTÁTIL",
+    "grupo": 34
+  },
+  {
+    "id": "01119",
+    "pdm": "TORNO UNIVERSAL",
+    "grupo": 34
+  },
+  {
+    "id": "01120",
+    "pdm": "PRENSA HIDRÁULICA ELÉTRICA",
+    "grupo": 34
+  },
+  {
+    "id": "01121",
+    "pdm": "SERRA RÁPIDA PORTÁTIL",
+    "grupo": 34
+  },
+  {
+    "id": "01122",
+    "pdm": "MARTELETE",
+    "grupo": 34
+  },
+  {
+    "id": "01131",
+    "pdm": "POLITRIZ MOTORIZADA",
+    "grupo": 34
+  },
+  {
+    "id": "01136",
+    "pdm": "FIO SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "01137",
+    "pdm": "FLUXO SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "01141",
+    "pdm": "SOLDA ESTANHO",
+    "grupo": 34
+  },
+  {
+    "id": "01144",
+    "pdm": "POLITRIZ ANGULAR",
+    "grupo": 34
+  },
+  {
+    "id": "01147",
+    "pdm": "ARAME SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "01148",
+    "pdm": "PRENSA HIDRÁULICA ELÉTRICA DIGITAL",
+    "grupo": 34
+  },
+  {
+    "id": "01149",
+    "pdm": "PRENSA HIDRÁULICA MANUAL DIGITAL",
+    "grupo": 34
+  },
+  {
+    "id": "01152",
+    "pdm": "PRENSA HORIZONTAL",
+    "grupo": 34
+  },
+  {
+    "id": "01153",
+    "pdm": "SULCADOR",
+    "grupo": 34
+  },
+  {
+    "id": "01157",
+    "pdm": "ELETRODO SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "01158",
+    "pdm": "PRENSA PARA ENSAIO ELÉTRICA",
+    "grupo": 34
+  },
+  {
+    "id": "01159",
+    "pdm": "SERRA ESQUADRIA",
+    "grupo": 34
+  },
+  {
+    "id": "01175",
+    "pdm": "SUPORTE FERRO SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "01177",
+    "pdm": "ESTAÇÃO SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "01179",
+    "pdm": "MÁQUINA SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "01193",
+    "pdm": "SUGADOR SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "01215",
+    "pdm": "ABAFADOR ARCO VOLTAICO",
+    "grupo": 34
+  },
+  {
+    "id": "01666",
+    "pdm": "ACESSORIO DE AFIADOR DE LAMINA DE MAQUINA DE TRABALHO EM MADEIRA",
+    "grupo": 34
+  },
+  {
+    "id": "01677",
+    "pdm": "ACESSÓRIO DE FURADEIRA",
+    "grupo": 34
+  },
+  {
+    "id": "01684",
+    "pdm": "ACESSÓRIO MÁQUINA RETIFICADORA",
+    "grupo": 34
+  },
+  {
+    "id": "01689",
+    "pdm": "ACESSORIO DE MOTO-ESMERIL",
+    "grupo": 34
+  },
+  {
+    "id": "01693",
+    "pdm": "ACESSORIO DE POLITRIZ",
+    "grupo": 34
+  },
+  {
+    "id": "01703",
+    "pdm": "ACESSORIO DE TORNO REPUXADOR",
+    "grupo": 34
+  },
+  {
+    "id": "02142",
+    "pdm": "CONJUNTO AFIADOR FERRAMENTA",
+    "grupo": 34
+  },
+  {
+    "id": "02144",
+    "pdm": "AFIADORA FERRAMENTA GRAVACAO",
+    "grupo": 34
+  },
+  {
+    "id": "02215",
+    "pdm": "ALARGADOR INDUSTRIAL DE TUBO",
+    "grupo": 34
+  },
+  {
+    "id": "02218",
+    "pdm": "ALARGADOR PARA MAQUINA - FERRAMENTA",
+    "grupo": 34
+  },
+  {
+    "id": "02532",
+    "pdm": "ANODO",
+    "grupo": 34
+  },
+  {
+    "id": "02533",
+    "pdm": "ANODO INERTE / MAGNÉSIO - ACABAMENTO EM METAL",
+    "grupo": 34
+  },
+  {
+    "id": "02813",
+    "pdm": "APARELHO OXIGÊNIO SOLDAGEM",
+    "grupo": 34
+  },
+  {
+    "id": "03273",
+    "pdm": "BANCADA INDUSTRIAL DE ESTIRAR METAL",
+    "grupo": 34
+  },
+  {
+    "id": "03533",
+    "pdm": "BICO SOLDAGEM",
+    "grupo": 34
+  },
+  {
+    "id": "03535",
+    "pdm": "BICO INJETOR JATEAMENTO DE AREIA",
+    "grupo": 34
+  },
+  {
+    "id": "03617",
+    "pdm": "BLOCO EM V MÁQUINA FERRAMENTA",
+    "grupo": 34
+  },
+  {
+    "id": "03646",
+    "pdm": "BOBINADORA INDUSTRIAL DE ARAME",
+    "grupo": 34
+  },
+  {
+    "id": "03647",
+    "pdm": "BOBINADORA INDUSTRIAL DE FITA METÁLICA",
+    "grupo": 34
+  },
+  {
+    "id": "04035",
+    "pdm": "CABO SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "04096",
+    "pdm": "CADINHO SOLDAGEM",
+    "grupo": 34
+  },
+  {
+    "id": "04188",
+    "pdm": "CALANDRA MANUAL",
+    "grupo": 34
+  },
+  {
+    "id": "04706",
+    "pdm": "CATODO - EQUIPAMENTO ACABAMENTO EM METAIS",
+    "grupo": 34
+  },
+  {
+    "id": "04905",
+    "pdm": "CHAVE ELETROLITICA DE PROTECAO CATODICA",
+    "grupo": 34
+  },
+  {
+    "id": "05306",
+    "pdm": "COIFA DE FORJA",
+    "grupo": 34
+  },
+  {
+    "id": "05832",
+    "pdm": "CONVERSOR DE ARCO",
+    "grupo": 34
+  },
+  {
+    "id": "05843",
+    "pdm": "CONVERSOR SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "05918",
+    "pdm": "CORTADOR AUTOMÁTICO CHAMA",
+    "grupo": 34
+  },
+  {
+    "id": "06044",
+    "pdm": "DECAPANTE SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "06118",
+    "pdm": "DESSOLDADOR",
+    "grupo": 34
+  },
+  {
+    "id": "06255",
+    "pdm": "DISCO DE LAPIDACAO",
+    "grupo": 34
+  },
+  {
+    "id": "06348",
+    "pdm": "DISTRIBUIDOR DE ACIDO PARA SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "06463",
+    "pdm": "ELETRODUTO DE CARVAO E GRAFITE",
+    "grupo": 34
+  },
+  {
+    "id": "06667",
+    "pdm": "EQUIPAMENTO DE CARBONETACAO",
+    "grupo": 34
+  },
+  {
+    "id": "06668",
+    "pdm": "EQUIPAMENTO DE CIANETACAO",
+    "grupo": 34
+  },
+  {
+    "id": "06683",
+    "pdm": "EQUIPAMENTO DE DECAPAGEM POR ACIDO",
+    "grupo": 34
+  },
+  {
+    "id": "06694",
+    "pdm": "EQUIPAMENTO DE ESTANHAGEM",
+    "grupo": 34
+  },
+  {
+    "id": "06697",
+    "pdm": "EQUIPAMENTO DE FONTE DE SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "06699",
+    "pdm": "EQUIPAMENTO DE GALVANIZACAO",
+    "grupo": 34
+  },
+  {
+    "id": "06710",
+    "pdm": "EQUIPAMENTO DE NITRETACAO",
+    "grupo": 34
+  },
+  {
+    "id": "06711",
+    "pdm": "EQUIPAMENTO DE NORMALIZACAO",
+    "grupo": 34
+  },
+  {
+    "id": "06712",
+    "pdm": "EQUIPAMENTO DE OFICINA DE SOLDA MONTADO EM VEICULO",
+    "grupo": 34
+  },
+  {
+    "id": "06713",
+    "pdm": "EQUIPAMENTO DE OFICINA MECÂNICA",
+    "grupo": 34
+  },
+  {
+    "id": "06717",
+    "pdm": "EQUIPAMENTO DE OXIDACAO A OLEO",
+    "grupo": 34
+  },
+  {
+    "id": "06739",
+    "pdm": "EQUIPAMENTO DE RECOZIMENTO",
+    "grupo": 34
+  },
+  {
+    "id": "06745",
+    "pdm": "EQUIPAMENTO DE REVENIDO",
+    "grupo": 34
+  },
+  {
+    "id": "06746",
+    "pdm": "EQUIPAMENTO DE REVESTIMENTO ELETROLITICO",
+    "grupo": 34
+  },
+  {
+    "id": "06747",
+    "pdm": "EQUIPAMENTO REVESTIMENTO ELETROSTÁTICO",
+    "grupo": 34
+  },
+  {
+    "id": "06753",
+    "pdm": "VÁLVULA CORTA-CHAMA",
+    "grupo": 34
+  },
+  {
+    "id": "06761",
+    "pdm": "EQUIPAMENTO DE TEMPERA",
+    "grupo": 34
+  },
+  {
+    "id": "06808",
+    "pdm": "EQUIPAMENTO PARA ANODIZACAO",
+    "grupo": 34
+  },
+  {
+    "id": "06821",
+    "pdm": "EQUIPAMENTO PARA ENDURECIMENTO DE METAL",
+    "grupo": 34
+  },
+  {
+    "id": "06826",
+    "pdm": "EQUIPAMENTO PARA GALVANOPLASTIA",
+    "grupo": 34
+  },
+  {
+    "id": "06828",
+    "pdm": "EQUIPAMENTO PARA IMPREGNACAO DE OLEO",
+    "grupo": 34
+  },
+  {
+    "id": "06972",
+    "pdm": "ESMERILHADEIRA INDUSTRIAL COM EIXO FLEXIVEL",
+    "grupo": 34
+  },
+  {
+    "id": "06973",
+    "pdm": "ESMERILHADEIRA INDUSTRIAL MANUAL DE BAIXA ROTACAO",
+    "grupo": 34
+  },
+  {
+    "id": "06974",
+    "pdm": "ESMERILHADEIRA INDUSTRIAL MOTORIZADA DE BAIXA ROTACAO",
+    "grupo": 34
+  },
+  {
+    "id": "07384",
+    "pdm": "FERRAMENTA DE BROCAR PARA MAQUINA - FERRAMENTA",
+    "grupo": 34
+  },
+  {
+    "id": "07401",
+    "pdm": "FERRO DE SOLDAR",
+    "grupo": 34
+  },
+  {
+    "id": "07402",
+    "pdm": "FERRO NAO ELETRICO DE SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": "07403",
+    "pdm": "FERRO PARA SOLDA A GAS",
+    "grupo": 34
+  },
+  {
+    "id": "07424",
+    "pdm": "FIEIRA DE ESTIRAGEM OU DE EXTRUSAO PARA METAIS",
+    "grupo": 34
+  },
+  {
+    "id": "07724",
+    "pdm": "FORJA DE FERREIRO",
+    "grupo": 34
+  },
+  {
+    "id": "07761",
+    "pdm": "FORNO DE ENDURECIMENTO DE MATERIAL METALICO",
+    "grupo": 34
+  },
+  {
+    "id": "07762",
+    "pdm": "FORNO DE UNIAO CONICA ( TOOLL JOINTS )",
+    "grupo": 34
+  },
+  {
+    "id": "07840",
+    "pdm": "FRESA",
+    "grupo": 34
+  },
+  {
+    "id": "07841",
+    "pdm": "FRESADORA COPIADORA INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": "07869",
+    "pdm": "FURADEIRA - FRESADORA11310 DE BANCADA INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": "07870",
+    "pdm": "FURADEIRA DE BANCADA INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": "07871",
+    "pdm": "FURADEIRA DE MULTICABECOTE INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": "07872",
+    "pdm": "FURADEIRA DE MULTIFUSO INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": "07874",
+    "pdm": "FURADEIRA RADIAL INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": "08060",
+    "pdm": "GRAMPO - TERRA DE SOLDAGEM",
+    "grupo": 34
+  },
+  {
+    "id": "08181",
+    "pdm": "PLACA MAGNÉTICA",
+    "grupo": 34
+  },
+  {
+    "id": "08838",
+    "pdm": "LIMA DE MAQUINA - FERRAMENTA",
+    "grupo": 34
+  },
+  {
+    "id": "08842",
+    "pdm": "LIMADOR PORTATIL",
+    "grupo": 34
+  },
+  {
+    "id": "08854",
+    "pdm": "LIMPADOR MACARICO",
+    "grupo": 34
+  },
+  {
+    "id": "08997",
+    "pdm": "MACARICO ENXOFRE",
+    "grupo": 34
+  },
+  {
+    "id": "09083",
+    "pdm": "MANDRILADEIRA HORIZONTAL UNIVERSAL",
+    "grupo": 34
+  },
+  {
+    "id": "09084",
+    "pdm": "MANDRILADEIRA VERTICAL",
+    "grupo": 34
+  },
+  {
+    "id": "09140",
+    "pdm": "MAQUINA - FERRAMENTA PORTATIL OPERADA POR SUSPENSAO DESLOCAVEL EM VIGA I",
+    "grupo": 34
+  },
+  {
+    "id": "09145",
+    "pdm": "MAQUINA AFIAR SERRA - TRABALHO MATERIAL METALICO",
+    "grupo": 34
+  },
+  {
+    "id": "09149",
+    "pdm": "MAQUINA AUTOMATICA DE SOLDA A ARCO",
+    "grupo": 34
+  },
+  {
+    "id": "09156",
+    "pdm": "MAQUINA COM LAMINA DE SERRA MECANICA",
+    "grupo": 34
+  },
+  {
+    "id": "09158",
+    "pdm": "MAQUINA DE APLAINAR ENGRENAGEM",
+    "grupo": 34
+  },
+  {
+    "id": "09176",
+    "pdm": "PEÇAS / COMPONENTES MÁQUINA CORTE",
+    "grupo": 34
+  },
+  {
+    "id": "09178",
+    "pdm": "MAQUINA DE DENTAR ( RETIFICAR E FAZER DENTES )",
+    "grupo": 34
+  },
+  {
+    "id": "09179",
+    "pdm": "MAQUINA DE DESBASTAR DESCARGA ELETRICA ( ELETROEROSAO )",
+    "grupo": 34
+  },
+  {
+    "id": "09184",
+    "pdm": "MAQUINA DE ENDIREITAR E EMPACOTAR FIO",
+    "grupo": 34
+  },
+  {
+    "id": "09191",
+    "pdm": "MAQUINA DE ESMERILHAMENTO ELETROLITICO",
+    "grupo": 34
+  },
+  {
+    "id": "09196",
+    "pdm": "MAQUINA DE FABRICAR FITA DE METAL",
+    "grupo": 34
+  },
+  {
+    "id": "09199",
+    "pdm": "MAQUINA DE FORJAR",
+    "grupo": 34
+  },
+  {
+    "id": "09215",
+    "pdm": "MAQUINA DE RECUPERAR ACIDO",
+    "grupo": 34
+  },
+  {
+    "id": "09216",
+    "pdm": "MAQUINA DE RECUPERAR FUNDENTE",
+    "grupo": 34
+  },
+  {
+    "id": "09218",
+    "pdm": "MAQUINA DE RESISTENCIA ELETRICA PARA SOLDA COM ACUMULADOR DE ENERGIA",
+    "grupo": 34
+  },
+  {
+    "id": "09219",
+    "pdm": "MAQUINA DE RESISTENCIA ELETRICA PARA SOLDA FORTE",
+    "grupo": 34
+  },
+  {
+    "id": "09223",
+    "pdm": "MAQUINA DE SOBREPOLIMENTO",
+    "grupo": 34
+  },
+  {
+    "id": "09224",
+    "pdm": "MAQUINA DE SOLDAR A ARCO SUBMERSO",
+    "grupo": 34
+  },
+  {
+    "id": "09225",
+    "pdm": "MAQUINA DE SOLDAR A PONTO",
+    "grupo": 34
+  },
+  {
+    "id": "09243",
+    "pdm": "LÂMINA SERRA",
+    "grupo": 34
+  },
+  {
+    "id": "09250",
+    "pdm": "MAQUINA ELETRICA DE REBITAR",
+    "grupo": 34
+  },
+  {
+    "id": "09260",
+    "pdm": "MAQUINA INDUSTRIAL COM LAMINA DE SERRA ALTERNATIVA",
+    "grupo": 34
+  },
+  {
+    "id": "09261",
+    "pdm": "MAQUINA INDUSTRIAL COM LAMINA DE SERRA MOTORIZADA",
+    "grupo": 34
+  },
+  {
+    "id": "09262",
+    "pdm": "MAQUINA INDUSTRIAL COMBINADA DE APLAINAR E TALHAR",
+    "grupo": 34
+  },
+  {
+    "id": "09263",
+    "pdm": "MAQUINA INDUSTRIAL DE ACABAMENTO DE ENGRENAGEM",
+    "grupo": 34
+  },
+  {
+    "id": "09265",
+    "pdm": "MAQUINA INDUSTRIAL DE CORTAR ENGRENAGEM",
+    "grupo": 34
+  },
+  {
+    "id": "09266",
+    "pdm": "MAQUINA INDUSTRIAL DE CORTAR ROSCA EM TUBO E PARA FUSO",
+    "grupo": 34
+  },
+  {
+    "id": "09268",
+    "pdm": "MAQUINA INDUSTRIAL DE DESBASTAR",
+    "grupo": 34
+  },
+  {
+    "id": "09271",
+    "pdm": "MAQUINA INDUSTRIAL DE DOBRAR FIO DE METAL",
+    "grupo": 34
+  },
+  {
+    "id": "09272",
+    "pdm": "MAQUINA INDUSTRIAL DE DOBRAR FITA DE METAL",
+    "grupo": 34
+  },
+  {
+    "id": "09273",
+    "pdm": "MAQUINA INDUSTRIAL DE DOBRAR METAL",
+    "grupo": 34
+  },
+  {
+    "id": "09274",
+    "pdm": "MAQUINA INDUSTRIAL DE ELETROEROSAO",
+    "grupo": 34
+  },
+  {
+    "id": "09276",
+    "pdm": "MAQUINA INDUSTRIAL DE ESMERILHAR",
+    "grupo": 34
+  },
+  {
+    "id": "09277",
+    "pdm": "MAQUINA INDUSTRIAL DE ESMERILHAR - BANCADA MOTORIZADA",
+    "grupo": 34
+  },
+  {
+    "id": "09278",
+    "pdm": "MAQUINA INDUSTRIAL DE ESMERILHAR - BANCADA MANUAL",
+    "grupo": 34
+  },
+  {
+    "id": "09279",
+    "pdm": "MAQUINA INDUSTRIAL DE ESMERILHAR - PEDESTAL MOTORIIZADO",
+    "grupo": 34
+  },
+  {
+    "id": "09280",
+    "pdm": "MAQUINA INDUSTRIAL DE ESMERILHAR DE PEDESTAL MANUAAL",
+    "grupo": 34
+  },
+  {
+    "id": "09284",
+    "pdm": "FRESADORA",
+    "grupo": 34
+  },
+  {
+    "id": "09285",
+    "pdm": "MAQUINA INDUSTRIAL DE GRAMPEAR METAL",
+    "grupo": 34
+  },
+  {
+    "id": "09286",
+    "pdm": "MAQUINA INDUSTRIAL DE LAMINA DE SERRA CIRCULAR",
+    "grupo": 34
+  },
+  {
+    "id": "09287",
+    "pdm": "MAQUINA INDUSTRIAL DE LAMINAR ROSCA EM TUBO E PARAFUSO",
+    "grupo": 34
+  },
+  {
+    "id": "09288",
+    "pdm": "MAQUINA INDUSTRIAL DE LIMAR ENGRENAGEM",
+    "grupo": 34
+  },
+  {
+    "id": "09289",
+    "pdm": "MAQUINA INDUSTRIAL DE MANDRILAR INTERIOR",
+    "grupo": 34
+  },
+  {
+    "id": "09290",
+    "pdm": "MAQUINA INDUSTRIAL DE MANDRILAR SUPERFICIE",
+    "grupo": 34
+  },
+  {
+    "id": "09291",
+    "pdm": "MAQUINA INDUSTRIAL DE MODELAR FIO DE METAL",
+    "grupo": 34
+  },
+  {
+    "id": "09292",
+    "pdm": "MAQUINA INDUSTRIAL DE MODELAR FITA DE METAL",
+    "grupo": 34
+  },
+  {
+    "id": "09294",
+    "pdm": "MAQUINA INDUSTRIAL DE PLAINAR METAL",
+    "grupo": 34
+  },
+  {
+    "id": "09295",
+    "pdm": "MAQUINA INDUSTRIAL DE POLIR E BRUNIR",
+    "grupo": 34
+  },
+  {
+    "id": "09296",
+    "pdm": "MAQUINA INDUSTRIAL DE POLIR ENGRENAGEM",
+    "grupo": 34
+  },
+  {
+    "id": "09297",
+    "pdm": "MAQUINA INDUSTRIAL DE RAIAR TUBO",
+    "grupo": 34
+  },
+  {
+    "id": "09298",
+    "pdm": "MAQUINA INDUSTRIAL DE REFAZER DENTE - SERRA MANUAL",
+    "grupo": 34
+  },
+  {
+    "id": "09299",
+    "pdm": "MAQUINA INDUSTRIAL DE RETIFICAR DENTE - ENGRENAGEM",
+    "grupo": 34
+  },
+  {
+    "id": "09303",
+    "pdm": "MAQUINA INDUSTRIAL DE SERRAR METAL - SERRA DE FITA",
+    "grupo": 34
+  },
+  {
+    "id": "09304",
+    "pdm": "MAQUINA INDUSTRIAL DE TORNEAR",
+    "grupo": 34
+  },
+  {
+    "id": "09305",
+    "pdm": "MAQUINA INDUSTRIAL DE TRAVAR DENTE DE SERRA",
+    "grupo": 34
+  },
+  {
+    "id": "09306",
+    "pdm": "MAQUINA INDUSTRIAL EIXO MULTIPLO - FURAR E ABRIR ROSCA",
+    "grupo": 34
+  },
+  {
+    "id": "09313",
+    "pdm": "MAQUINA MANUAL DE CORTE OXIACETILENICA",
+    "grupo": 34
+  },
+  {
+    "id": "09322",
+    "pdm": "MAQUINA PARA DESINTEGRACAO",
+    "grupo": 34
+  },
+  {
+    "id": "09338",
+    "pdm": "MAQUINA PARA RETIFICA DE MOTOR",
+    "grupo": 34
+  },
+  {
+    "id": "09346",
+    "pdm": "MAQUINA PNEUMATICA DE REBITAR",
+    "grupo": 34
+  },
+  {
+    "id": "09349",
+    "pdm": "MAQUINA PORTATIL DE ABRASIVO",
+    "grupo": 34
+  },
+  {
+    "id": "09350",
+    "pdm": "MAQUINA PORTATIL DE BROCAR",
+    "grupo": 34
+  },
+  {
+    "id": "09351",
+    "pdm": "MAQUINA PORTATIL PARA LAMINAR ROSCA",
+    "grupo": 34
+  },
+  {
+    "id": "09352",
+    "pdm": "MAQUINA PORTATIL PARA RANHURAR",
+    "grupo": 34
+  },
+  {
+    "id": "09355",
+    "pdm": "MAQUINA SEMI - AUTOMATICA DE SOLDA A ARCO",
+    "grupo": 34
+  },
+  {
+    "id": "09394",
+    "pdm": "MARTELO - PILAO DE DUPLO EFEITO",
+    "grupo": 34
+  },
+  {
+    "id": "09396",
+    "pdm": "MARTELO - PILAO PNEUMATICO",
+    "grupo": 34
+  },
+  {
+    "id": "09508",
+    "pdm": "MATRIZ PARA ESTAMPAR",
+    "grupo": 34
+  },
+  {
+    "id": "09509",
+    "pdm": "MATRIZ PARA MARCAR METAL",
+    "grupo": 34
+  },
+  {
+    "id": "09633",
+    "pdm": "MESA DE SOLDAGEM",
+    "grupo": 34
+  },
+  {
+    "id": "09687",
+    "pdm": "METALIZADOR A VACUO",
+    "grupo": 34
+  },
+  {
+    "id": "09688",
+    "pdm": "METALIZADOR POR CENTELHA",
+    "grupo": 34
+  },
+  {
+    "id": "09908",
+    "pdm": "MORSA DE BANCADA",
+    "grupo": 34
+  },
+  {
+    "id": "09920",
+    "pdm": "MOTO-ESMERIL",
+    "grupo": 34
+  },
+  {
+    "id": 10303,
+    "pdm": "PAINEL DE SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": 10304,
+    "pdm": "PAINEL DE SOLDAGEM",
+    "grupo": 34
+  },
+  {
+    "id": 10503,
+    "pdm": "PASTILHA METÁLICA",
+    "grupo": 34
+  },
+  {
+    "id": 10532,
+    "pdm": "PECA DE ALIMENTADOR PARA MAQUINA AUXILIAR PARA TRABALHO EM METAL",
+    "grupo": 34
+  },
+  {
+    "id": 10798,
+    "pdm": "PISTOLA VAPORIZADORA PARA METALIZACAO",
+    "grupo": 34
+  },
+  {
+    "id": 10971,
+    "pdm": "POLIMOTRIZ ANGULAR",
+    "grupo": 34
+  },
+  {
+    "id": 11012,
+    "pdm": "PONTEIRA DE FERRO DE SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": 11039,
+    "pdm": "PORTA-ELETRODO",
+    "grupo": 34
+  },
+  {
+    "id": 11040,
+    "pdm": "PORTA-ELETRODO SOLDAGEM ELÉTRICA",
+    "grupo": 34
+  },
+  {
+    "id": 11103,
+    "pdm": "PICADEIRA PARA SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": 11130,
+    "pdm": "PRANCHA DE CURVA",
+    "grupo": 34
+  },
+  {
+    "id": 11173,
+    "pdm": "PRENSA AXIAL MANUAL",
+    "grupo": 34
+  },
+  {
+    "id": 11175,
+    "pdm": "PRENSA DE COMPACTAR MATERIAL METALICO EM PO",
+    "grupo": 34
+  },
+  {
+    "id": 11176,
+    "pdm": "PRENSA DE FRICCAO",
+    "grupo": 34
+  },
+  {
+    "id": 11180,
+    "pdm": "PRENSA FORJADORA",
+    "grupo": 34
+  },
+  {
+    "id": 11181,
+    "pdm": "PRENSA HIDRAULICA ELETRICA",
+    "grupo": 34
+  },
+  {
+    "id": 11182,
+    "pdm": "PRENSA HIDRAULICA ELETRICA DIGITAL",
+    "grupo": 34
+  },
+  {
+    "id": 11183,
+    "pdm": "PRENSA HIDRAULICA MANUAL DIGITAL",
+    "grupo": 34
+  },
+  {
+    "id": 11184,
+    "pdm": "PRENSA HIDRAULICA MOTORIZADA TRANSVERSAL",
+    "grupo": 34
+  },
+  {
+    "id": 11187,
+    "pdm": "PRENSA PARA ALINHAMENTO",
+    "grupo": 34
+  },
+  {
+    "id": 11188,
+    "pdm": "PRENSA PARA COMPRESSAO",
+    "grupo": 34
+  },
+  {
+    "id": 11189,
+    "pdm": "PRENSA PARA EIXO",
+    "grupo": 34
+  },
+  {
+    "id": 11190,
+    "pdm": "PRENSA PARA ENSAIO ELETRICA",
+    "grupo": 34
+  },
+  {
+    "id": 11191,
+    "pdm": "PRENSA PARA MONTAGEM",
+    "grupo": 34
+  },
+  {
+    "id": 11194,
+    "pdm": "PRENSA PORTATIL DE BROCAR",
+    "grupo": 34
+  },
+  {
+    "id": 11196,
+    "pdm": "PRENSA VIRADEIRA",
+    "grupo": 34
+  },
+  {
+    "id": 11310,
+    "pdm": "PROTETOR DE DISCO - MAQUINA ESMERILHAR, INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": 11342,
+    "pdm": "PUNCIONADEIRA DE CABECOTE DE BANCADA",
+    "grupo": 34
+  },
+  {
+    "id": 11660,
+    "pdm": "REPUXADORA INDUSTRIAL DE METAL",
+    "grupo": 34
+  },
+  {
+    "id": 11714,
+    "pdm": "RETIFICADOR CILINDRICO INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": 11715,
+    "pdm": "RETIFICADOR CORRENTE",
+    "grupo": 34
+  },
+  {
+    "id": 11719,
+    "pdm": "RETIFICADOR SEM CENTRO ( CENTERLESS ) INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": 11720,
+    "pdm": "RETIFICADOR UNIVERSAL INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": 11721,
+    "pdm": "RETIFICADORA HIDRAULICA INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": 11722,
+    "pdm": "RETIFICADORA MECANICA INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": 11837,
+    "pdm": "ROSQUEADEIRA",
+    "grupo": 34
+  },
+  {
+    "id": 12037,
+    "pdm": "SERRA DE MAQUINA - FERRAMENTA",
+    "grupo": 34
+  },
+  {
+    "id": 12040,
+    "pdm": "SERRA DE FITA",
+    "grupo": 34
+  },
+  {
+    "id": 12042,
+    "pdm": "SERRA PORTATIL",
+    "grupo": 34
+  },
+  {
+    "id": 12108,
+    "pdm": "SISTEMA DE ALIVIAMENTO DE PRESSAO NAO TERMICO",
+    "grupo": 34
+  },
+  {
+    "id": 12173,
+    "pdm": "SOBRESSALENTE EQUIPAMENTO ELETRICO CORTE E SOLDAGEM",
+    "grupo": 34
+  },
+  {
+    "id": 12183,
+    "pdm": "SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": 12185,
+    "pdm": "SOLDA ACETILENO",
+    "grupo": 34
+  },
+  {
+    "id": 12187,
+    "pdm": "SOLDA PRATA",
+    "grupo": 34
+  },
+  {
+    "id": 12188,
+    "pdm": "SOLDA TERMITE",
+    "grupo": 34
+  },
+  {
+    "id": 12189,
+    "pdm": "SOLDADOR SERRA FITA",
+    "grupo": 34
+  },
+  {
+    "id": 12434,
+    "pdm": "PEÇAS E ACESSÓRIOS SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": 12823,
+    "pdm": "TORNO COPIADOR",
+    "grupo": 34
+  },
+  {
+    "id": 12824,
+    "pdm": "TORNO DE REPUXAR MATERIAL METALICO INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": 12825,
+    "pdm": "TORNO DE TRAVAR MADEIRA",
+    "grupo": 34
+  },
+  {
+    "id": 12826,
+    "pdm": "TORNO FERRAMENTEIRO FRONTAL ( PLATO )",
+    "grupo": 34
+  },
+  {
+    "id": 12827,
+    "pdm": "TORNO FERRAMENTEIRO PARALELO UNIVERSAL DE BANCADA",
+    "grupo": 34
+  },
+  {
+    "id": 12828,
+    "pdm": "TORNO FERRAMENTEIRO PARALELO UNIVERSAL DE OURIVES",
+    "grupo": 34
+  },
+  {
+    "id": 12954,
+    "pdm": "TREM INDUSTRIAL LAMINADOR DE TREFILAR",
+    "grupo": 34
+  },
+  {
+    "id": 13306,
+    "pdm": "VARETA SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": 13511,
+    "pdm": "ACESSORIO DE EQUIPAMENTO DE JATO DE AREIA",
+    "grupo": 34
+  },
+  {
+    "id": 13512,
+    "pdm": "PEÇAS / ACESSÓRIOS FRESADORA",
+    "grupo": 34
+  },
+  {
+    "id": 13513,
+    "pdm": "ACESSORIO DE FURADEIRA ELETRICA",
+    "grupo": 34
+  },
+  {
+    "id": 13514,
+    "pdm": "ACESSORIO DE MANDRILADORA",
+    "grupo": 34
+  },
+  {
+    "id": 13515,
+    "pdm": "ACESSORIO DE OFICINA DE TRATAMENTO SUPERFICIAL DE METAL",
+    "grupo": 34
+  },
+  {
+    "id": 13517,
+    "pdm": "ACESSÓRIO DE TORNO MECÂNICO",
+    "grupo": 34
+  },
+  {
+    "id": 13585,
+    "pdm": "MANDRIL",
+    "grupo": 34
+  },
+  {
+    "id": 13587,
+    "pdm": "MAQUINA INDUSTRIAL DE BROCAR",
+    "grupo": 34
+  },
+  {
+    "id": 13588,
+    "pdm": "MÁQUINA DE CORTAR METAL",
+    "grupo": 34
+  },
+  {
+    "id": 13619,
+    "pdm": "POLITRIZ INDUSTRIAL",
+    "grupo": 34
+  },
+  {
+    "id": 13622,
+    "pdm": "PRENSA HIDRÁULICA / COMPONENTE",
+    "grupo": 34
+  },
+  {
+    "id": 13623,
+    "pdm": "PRENSA PNEUMATICA",
+    "grupo": 34
+  },
+  {
+    "id": 13693,
+    "pdm": "MACHO",
+    "grupo": 34
+  },
+  {
+    "id": 13694,
+    "pdm": "FRESA TOPO",
+    "grupo": 34
+  },
+  {
+    "id": 13789,
+    "pdm": "INTERMEDIÁRIO DOBRADEIRA",
+    "grupo": 34
+  },
+  {
+    "id": 13791,
+    "pdm": "VOLANTE DOBRADEIRA",
+    "grupo": 34
+  },
+  {
+    "id": 13936,
+    "pdm": "CONJUNTO FLANGEADOR",
+    "grupo": 34
+  },
+  {
+    "id": 14133,
+    "pdm": "PLACA INDEPENDENTE PARA TORNO",
+    "grupo": 34
+  },
+  {
+    "id": 15047,
+    "pdm": "PRENSA SELO",
+    "grupo": 34
+  },
+  {
+    "id": 15163,
+    "pdm": "BICO AR COMPRIMIDO",
+    "grupo": 34
+  },
+  {
+    "id": 15301,
+    "pdm": "MÁQUINA ELÉTRICA ARQUEAMENTO PERFIS METAL",
+    "grupo": 34
+  },
+  {
+    "id": 15957,
+    "pdm": "CONJUNTO SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": 16112,
+    "pdm": "SERRA-FITA",
+    "grupo": 34
+  },
+  {
+    "id": 16146,
+    "pdm": "LAMINADOR ELÉTRICO",
+    "grupo": 34
+  },
+  {
+    "id": 16272,
+    "pdm": "TORNO HORIZONTAL",
+    "grupo": 34
+  },
+  {
+    "id": 16547,
+    "pdm": "EQUIPAMENTO SOLDA POR ULTRASOM",
+    "grupo": 34
+  },
+  {
+    "id": 16842,
+    "pdm": "RETIFICADORA PNEUMÁTICA",
+    "grupo": 34
+  },
+  {
+    "id": 16843,
+    "pdm": "MÁQUINAS DE FUNÇÕES MÚLTIPLAS",
+    "grupo": 34
+  },
+  {
+    "id": 16844,
+    "pdm": "MÁQUINAS DE DESBASTAR, ELÉTRICAS E ULTRA-SÔNICAS",
+    "grupo": 34
+  },
+  {
+    "id": 16845,
+    "pdm": "MÁQUINAS DE BROCAR",
+    "grupo": 34
+  },
+  {
+    "id": 16846,
+    "pdm": "MÁQUINAS DE MANDRILAR",
+    "grupo": 34
+  },
+  {
+    "id": 16847,
+    "pdm": "MÁQUINAS DE FURAR E ABRIR ROSCAS",
+    "grupo": 34
+  },
+  {
+    "id": 16848,
+    "pdm": "MÁQUINAS PARA CORTE E ACABAMENTO DE ENGRENAGENS",
+    "grupo": 34
+  },
+  {
+    "id": 16849,
+    "pdm": "MÁQUINAS RETIFICADORAS",
+    "grupo": 34
+  },
+  {
+    "id": 16850,
+    "pdm": "PEÇAS / ACESSÓRIOS TORNO",
+    "grupo": 34
+  },
+  {
+    "id": 16851,
+    "pdm": "MÁQUINAS DE FRESAR",
+    "grupo": 34
+  },
+  {
+    "id": 16852,
+    "pdm": "MÁQUINAS DE APLAINAR E TALHAR",
+    "grupo": 34
+  },
+  {
+    "id": 16853,
+    "pdm": "MÁQUINAS-FERRAMENTA DIVERSAS",
+    "grupo": 34
+  },
+  {
+    "id": 16854,
+    "pdm": "MÁQUINAS DE LAMINAR E TREFILAR",
+    "grupo": 34
+  },
+  {
+    "id": 16855,
+    "pdm": "EQUIPAMENTO DE TRATAMENTO TÉRMICO E NÃO TÉRMICO DE METAIS",
+    "grupo": 34
+  },
+  {
+    "id": 16856,
+    "pdm": "EQUIPAMENTOS PARA ACABAMENTO EM METAL",
+    "grupo": 34
+  },
+  {
+    "id": 16857,
+    "pdm": "DEBASTADORAS E PLAINAS-LIMADORAS",
+    "grupo": 34
+  },
+  {
+    "id": 16858,
+    "pdm": "EQUIPAMENTO PARA SOLDA A ARCO VOLTAICO",
+    "grupo": 34
+  },
+  {
+    "id": 16859,
+    "pdm": "EQUIPAMENTO PARA SOLDA A RESISTÊNCIA ELÉTRICA",
+    "grupo": 34
+  },
+  {
+    "id": 16860,
+    "pdm": "EQUIPAMENTO PARA SOLDA A GÁS, CORTE POR AQUECIMENTO E DEME- TALIZAÇÃO",
+    "grupo": 34
+  },
+  {
+    "id": 16861,
+    "pdm": "POSICIONADORES E MANIPULADORES DE SOLDA",
+    "grupo": 34
+  },
+  {
+    "id": 16862,
+    "pdm": "PISTOLA DESSOLDADORA",
+    "grupo": 34
+  },
+  {
+    "id": 16863,
+    "pdm": "MALHA DESSOLDADORA",
+    "grupo": 34
+  },
+  {
+    "id": 16865,
+    "pdm": "PEÇA / COMPONENTE CALANDRA",
+    "grupo": 34
+  },
+  {
+    "id": 16866,
+    "pdm": "PRENSAS HIDRÁULICAS E PNEUMÁTICAS ACIONADAS POR ENERGIA",
+    "grupo": 34
+  },
+  {
+    "id": 16867,
+    "pdm": "PRENSAS MECÂNICAS ACIONADAS POR ENERGIA",
+    "grupo": 34
+  },
+  {
+    "id": 16868,
+    "pdm": "PRENSAS MANUAIS",
+    "grupo": 34
+  },
+  {
+    "id": 16869,
+    "pdm": "MÁQUINAS DE PUNCIONAR E CORTAR",
+    "grupo": 34
+  },
+  {
+    "id": 16870,
+    "pdm": "FORJAS MECÂNICAS E MARTELOS PARA FORJAS",
+    "grupo": 34
+  },
+  {
+    "id": 16871,
+    "pdm": "MÁQUINAS DE MODELAR FIOS E FITAS METÁLICAS",
+    "grupo": 34
+  },
+  {
+    "id": 16872,
+    "pdm": "MÁQUINAS DE REBITAR",
+    "grupo": 34
+  },
+  {
+    "id": 16873,
+    "pdm": "MÁQUINAS AUXILIARES PARA MODELAGEM E CORTE DE METAL",
+    "grupo": 34
+  },
+  {
+    "id": 16874,
+    "pdm": "MÁQUINAS-FERRAMENTA PORTÁTEIS",
+    "grupo": 34
+  },
+  {
+    "id": 16875,
+    "pdm": "FERRAMENTAS DE CORTE PARA MÁQUINAS-FERRAMENTA",
+    "grupo": 34
+  },
+  {
+    "id": 16876,
+    "pdm": "FERRAMENTAS DE CORTE E MODELAGEM DE PEÇAS DE MÁQUINAS.",
+    "grupo": 34
+  },
+  {
+    "id": 16877,
+    "pdm": "ACESSÓRIOS PARA MÁQUINAS-FERRAMENTAS",
+    "grupo": 34
+  },
+  {
+    "id": 16878,
+    "pdm": "ACESSÓRIOS PARA MÁQUINAS AUXILIARES PARA TRABALHO EM METAIS",
+    "grupo": 34
+  },
+  {
+    "id": 16879,
+    "pdm": "GABARITOS E MOLDES DE PRODUÇÃO",
+    "grupo": 34
+  },
+  {
+    "id": 16880,
+    "pdm": "PENTE ROSCA",
+    "grupo": 34
+  },
+  {
+    "id": 17424,
+    "pdm": "SERRA MÁRMORE",
+    "grupo": 34
+  },
+  {
+    "id": 17538,
+    "pdm": "DIFUSOR GÁS",
+    "grupo": 34
+  },
+  {
+    "id": 17930,
+    "pdm": "CORTADOR HIDRÁULICO",
+    "grupo": 34
+  },
+  {
+    "id": 17945,
+    "pdm": "LÂMINA",
+    "grupo": 34
+  },
+  {
+    "id": 18775,
+    "pdm": "PRATO POLIMENTO",
+    "grupo": 34
+  }
+]
