@@ -1,1127 +1,1132 @@
 [
   {
-    "84": 84,
-    "00419": "01203",
-    "LUVA DE PROTEÇÃO": "AVENTAL"
+    "id": "00419",
+    "pdm": "LUVA DE PROTEÇÃO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01206",
-    "LUVA DE PROTEÇÃO": "BOLSA ESPORTIVA"
+    "id": "01203",
+    "pdm": "AVENTAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01220",
-    "LUVA DE PROTEÇÃO": "ABOTOADURA"
+    "id": "01206",
+    "pdm": "BOLSA ESPORTIVA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01262",
-    "LUVA DE PROTEÇÃO": "BLUSA MASCULINA"
+    "id": "01220",
+    "pdm": "ABOTOADURA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01263",
-    "LUVA DE PROTEÇÃO": "BLUSA FEMININA"
+    "id": "01262",
+    "pdm": "BLUSA MASCULINA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01264",
-    "LUVA DE PROTEÇÃO": "BOLSA FEMININA"
+    "id": "01263",
+    "pdm": "BLUSA FEMININA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01364",
-    "LUVA DE PROTEÇÃO": "MACACÃO"
+    "id": "01264",
+    "pdm": "BOLSA FEMININA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01391",
-    "LUVA DE PROTEÇÃO": "BERMUDA"
+    "id": "01364",
+    "pdm": "MACACÃO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01393",
-    "LUVA DE PROTEÇÃO": "BOINA"
+    "id": "01391",
+    "pdm": "BERMUDA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01395",
-    "LUVA DE PROTEÇÃO": "CALÇA MASCULINA"
+    "id": "01393",
+    "pdm": "BOINA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01402",
-    "LUVA DE PROTEÇÃO": "CUECA"
+    "id": "01395",
+    "pdm": "CALÇA MASCULINA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01405",
-    "LUVA DE PROTEÇÃO": "CALÇÃO BANHO"
+    "id": "01402",
+    "pdm": "CUECA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01406",
-    "LUVA DE PROTEÇÃO": "PIJAMA"
+    "id": "01405",
+    "pdm": "CALÇÃO BANHO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01408",
-    "LUVA DE PROTEÇÃO": "CAMISA MASCULINA"
+    "id": "01406",
+    "pdm": "PIJAMA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01410",
-    "LUVA DE PROTEÇÃO": "JAQUETA MASCULINA"
+    "id": "01408",
+    "pdm": "CAMISA MASCULINA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01412",
-    "LUVA DE PROTEÇÃO": "SHORT MASCULINO"
+    "id": "01410",
+    "pdm": "JAQUETA MASCULINA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01413",
-    "LUVA DE PROTEÇÃO": "CAPA CHUVA"
+    "id": "01412",
+    "pdm": "SHORT MASCULINO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01414",
-    "LUVA DE PROTEÇÃO": "VESTUÁRIO EXTERNO MASCULINO"
+    "id": "01413",
+    "pdm": "CAPA CHUVA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01415",
-    "LUVA DE PROTEÇÃO": "BOTA SEGURANÇA"
+    "id": "01414",
+    "pdm": "VESTUÁRIO EXTERNO MASCULINO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01416",
-    "LUVA DE PROTEÇÃO": "CAPA FEMININA"
+    "id": "01415",
+    "pdm": "BOTA SEGURANÇA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01417",
-    "LUVA DE PROTEÇÃO": "COTURNO"
+    "id": "01416",
+    "pdm": "CAPA FEMININA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01418",
-    "LUVA DE PROTEÇÃO": "MAIÔ"
+    "id": "01417",
+    "pdm": "COTURNO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01419",
-    "LUVA DE PROTEÇÃO": "BOTINA MASCULINA"
+    "id": "01418",
+    "pdm": "MAIÔ",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01420",
-    "LUVA DE PROTEÇÃO": "SAIA"
+    "id": "01419",
+    "pdm": "BOTINA MASCULINA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01421",
-    "LUVA DE PROTEÇÃO": "ALGEMA"
+    "id": "01420",
+    "pdm": "SAIA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01422",
-    "LUVA DE PROTEÇÃO": "VESTIDO"
+    "id": "01421",
+    "pdm": "ALGEMA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01423",
-    "LUVA DE PROTEÇÃO": "APARELHO CHOQUE ELÉTRICO"
+    "id": "01422",
+    "pdm": "VESTIDO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01424",
-    "LUVA DE PROTEÇÃO": "CANTIL"
+    "id": "01423",
+    "pdm": "APARELHO CHOQUE ELÉTRICO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01425",
-    "LUVA DE PROTEÇÃO": "BASTÃO ANTITUMULTO"
+    "id": "01424",
+    "pdm": "CANTIL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01427",
-    "LUVA DE PROTEÇÃO": "SACO DORMIR"
+    "id": "01425",
+    "pdm": "BASTÃO ANTITUMULTO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01431",
-    "LUVA DE PROTEÇÃO": "COLETE PROVA TIRO"
+    "id": "01427",
+    "pdm": "SACO DORMIR",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01432",
-    "LUVA DE PROTEÇÃO": "CAPA"
+    "id": "01431",
+    "pdm": "COLETE PROVA TIRO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01433",
-    "LUVA DE PROTEÇÃO": "MAIÔ FEMININO"
+    "id": "01432",
+    "pdm": "CAPA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01446",
-    "LUVA DE PROTEÇÃO": "AGASALHO ATLETISMO"
+    "id": "01433",
+    "pdm": "MAIÔ FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01451",
-    "LUVA DE PROTEÇÃO": "MEDALHA"
+    "id": "01446",
+    "pdm": "AGASALHO ATLETISMO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01452",
-    "LUVA DE PROTEÇÃO": "CALÇADOS INFANTIL"
+    "id": "01451",
+    "pdm": "MEDALHA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01453",
-    "LUVA DE PROTEÇÃO": "TROFÉU"
+    "id": "01452",
+    "pdm": "CALÇADOS INFANTIL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01455",
-    "LUVA DE PROTEÇÃO": "GALOCHA"
+    "id": "01453",
+    "pdm": "TROFÉU",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01456",
-    "LUVA DE PROTEÇÃO": "LUVA INDUSTRIAL"
+    "id": "01455",
+    "pdm": "GALOCHA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01457",
-    "LUVA DE PROTEÇÃO": "PIJAMA INFANTIL"
+    "id": "01456",
+    "pdm": "LUVA INDUSTRIAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01462",
-    "LUVA DE PROTEÇÃO": "CALÇADO INFANTIL"
+    "id": "01457",
+    "pdm": "PIJAMA INFANTIL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01464",
-    "LUVA DE PROTEÇÃO": "LUVA INFANTIL"
+    "id": "01462",
+    "pdm": "CALÇADO INFANTIL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01465",
-    "LUVA DE PROTEÇÃO": "CALÇA PROTEÇÃO INDIVIDUAL"
+    "id": "01464",
+    "pdm": "LUVA INFANTIL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01470",
-    "LUVA DE PROTEÇÃO": "SUTIÃ"
+    "id": "01465",
+    "pdm": "CALÇA PROTEÇÃO INDIVIDUAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01471",
-    "LUVA DE PROTEÇÃO": "CALCINHA"
+    "id": "01470",
+    "pdm": "SUTIÃ",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01472",
-    "LUVA DE PROTEÇÃO": "ROUPÃO BANHO"
+    "id": "01471",
+    "pdm": "CALCINHA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01478",
-    "LUVA DE PROTEÇÃO": "CALÇÃO"
+    "id": "01472",
+    "pdm": "ROUPÃO BANHO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01486",
-    "LUVA DE PROTEÇÃO": "BUSTIER"
+    "id": "01478",
+    "pdm": "CALÇÃO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01491",
-    "LUVA DE PROTEÇÃO": "CINTA ESTÉTICA"
+    "id": "01486",
+    "pdm": "BUSTIER",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01535",
-    "LUVA DE PROTEÇÃO": "BAÚ VIAGEM"
+    "id": "01491",
+    "pdm": "CINTA ESTÉTICA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01542",
-    "LUVA DE PROTEÇÃO": "ESPARTILHO"
+    "id": "01535",
+    "pdm": "BAÚ VIAGEM",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01545",
-    "LUVA DE PROTEÇÃO": "BOTINA FEMININA"
+    "id": "01542",
+    "pdm": "ESPARTILHO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01546",
-    "LUVA DE PROTEÇÃO": "CHINELO FEMININO"
+    "id": "01545",
+    "pdm": "BOTINA FEMININA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01547",
-    "LUVA DE PROTEÇÃO": "COLETE FEMININO"
+    "id": "01546",
+    "pdm": "CHINELO FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01548",
-    "LUVA DE PROTEÇÃO": "SAPATO FEMININO"
+    "id": "01547",
+    "pdm": "COLETE FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01549",
-    "LUVA DE PROTEÇÃO": "LENÇO FEMININO"
+    "id": "01548",
+    "pdm": "SAPATO FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01550",
-    "LUVA DE PROTEÇÃO": "LUVA FEMININA"
+    "id": "01549",
+    "pdm": "LENÇO FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01551",
-    "LUVA DE PROTEÇÃO": "MEIA CALÇA FEMININA"
+    "id": "01550",
+    "pdm": "LUVA FEMININA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01552",
-    "LUVA DE PROTEÇÃO": "REDE CABELO"
+    "id": "01551",
+    "pdm": "MEIA CALÇA FEMININA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "01553",
-    "LUVA DE PROTEÇÃO": "GUARDA-CHUVA"
+    "id": "01552",
+    "pdm": "REDE CABELO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "02279",
-    "LUVA DE PROTEÇÃO": "ALFINETE DE GRAVATA"
+    "id": "01553",
+    "pdm": "GUARDA-CHUVA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "03067",
-    "LUVA DE PROTEÇÃO": "ARTES MARCIAIS - ARTIGOS / ACESSÓRIOS / PROTETORES"
+    "id": "02279",
+    "pdm": "ALFINETE DE GRAVATA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "03203",
-    "LUVA DE PROTEÇÃO": "BAINHA DE FACA"
+    "id": "03067",
+    "pdm": "ARTES MARCIAIS - ARTIGOS / ACESSÓRIOS / PROTETORES",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "03418",
-    "LUVA DE PROTEÇÃO": "BASE DE MALA"
+    "id": "03203",
+    "pdm": "BAINHA DE FACA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "03554",
-    "LUVA DE PROTEÇÃO": "BIJUTERIA"
+    "id": "03418",
+    "pdm": "BASE DE MALA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "03691",
-    "LUVA DE PROTEÇÃO": "PROTETOR CRACHÁ"
+    "id": "03554",
+    "pdm": "BIJUTERIA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "03806",
-    "LUVA DE PROTEÇÃO": "BORNAL"
+    "id": "03691",
+    "pdm": "PROTETOR CRACHÁ",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "03822",
-    "LUVA DE PROTEÇÃO": "BOTA"
+    "id": "03806",
+    "pdm": "BORNAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04189",
-    "LUVA DE PROTEÇÃO": "CALÇA - RASPA DE COURO ( EPI )"
+    "id": "03822",
+    "pdm": "BOTA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04190",
-    "LUVA DE PROTEÇÃO": "CALÇA FEMININA"
+    "id": "04189",
+    "pdm": "CALÇA - RASPA DE COURO ( EPI )",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04193",
-    "LUVA DE PROTEÇÃO": "CALÇADEIRA"
+    "id": "04190",
+    "pdm": "CALÇA FEMININA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04195",
-    "LUVA DE PROTEÇÃO": "CALÇADO ATLETISMO"
+    "id": "04193",
+    "pdm": "CALÇADEIRA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04196",
-    "LUVA DE PROTEÇÃO": "CALÇADO BORRACHA MASCULINO"
+    "id": "04195",
+    "pdm": "CALÇADO ATLETISMO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04197",
-    "LUVA DE PROTEÇÃO": "CALÇADO DE EXPOSICAO SUBMARINA"
+    "id": "04196",
+    "pdm": "CALÇADO BORRACHA MASCULINO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04198",
-    "LUVA DE PROTEÇÃO": "CALCADO TIPO SEGURANCA"
+    "id": "04197",
+    "pdm": "CALÇADO DE EXPOSICAO SUBMARINA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04199",
-    "LUVA DE PROTEÇÃO": "CADEIRA ALIMENTAÇÃO"
+    "id": "04198",
+    "pdm": "CALCADO TIPO SEGURANCA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04380",
-    "LUVA DE PROTEÇÃO": "CAMISETA"
+    "id": "04199",
+    "pdm": "CADEIRA ALIMENTAÇÃO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04442",
-    "LUVA DE PROTEÇÃO": "CAPA"
+    "id": "04380",
+    "pdm": "CAMISETA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04456",
-    "LUVA DE PROTEÇÃO": "CAPACETE NAO PRESSURIZADO - PILOTO"
+    "id": "04442",
+    "pdm": "CAPA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04660",
-    "LUVA DE PROTEÇÃO": "CARTEIRA DE DINHEIRO"
+    "id": "04456",
+    "pdm": "CAPACETE NAO PRESSURIZADO - PILOTO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04686",
-    "LUVA DE PROTEÇÃO": "CASACO FEMININO"
+    "id": "04660",
+    "pdm": "CARTEIRA DE DINHEIRO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04687",
-    "LUVA DE PROTEÇÃO": "CASACO MASCULINO"
+    "id": "04686",
+    "pdm": "CASACO FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04852",
-    "LUVA DE PROTEÇÃO": "CHAPELETA DURALUMINIO - ALPINISMO"
+    "id": "04687",
+    "pdm": "CASACO MASCULINO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04853",
-    "LUVA DE PROTEÇÃO": "CHAPÉU APÍCOLA"
+    "id": "04852",
+    "pdm": "CHAPELETA DURALUMINIO - ALPINISMO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04854",
-    "LUVA DE PROTEÇÃO": "CHAPÉU FEMININO"
+    "id": "04853",
+    "pdm": "CHAPÉU APÍCOLA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04855",
-    "LUVA DE PROTEÇÃO": "CHAPÉU MASCULINO"
+    "id": "04854",
+    "pdm": "CHAPÉU FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04958",
-    "LUVA DE PROTEÇÃO": "CHINELO"
+    "id": "04855",
+    "pdm": "CHAPÉU MASCULINO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04959",
-    "LUVA DE PROTEÇÃO": "CHINELO MASCULINO"
+    "id": "04958",
+    "pdm": "CHINELO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "04975",
-    "LUVA DE PROTEÇÃO": "CHUTEIRA"
+    "id": "04959",
+    "pdm": "CHINELO MASCULINO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "05023",
-    "LUVA DE PROTEÇÃO": "CORREIA"
+    "id": "04975",
+    "pdm": "CHUTEIRA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "05024",
-    "LUVA DE PROTEÇÃO": "CINTO DE UTILIDADE PROFISSIONAL"
+    "id": "05023",
+    "pdm": "CORREIA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "05025",
-    "LUVA DE PROTEÇÃO": "CINTO VESTUÁRIO"
+    "id": "05024",
+    "pdm": "CINTO DE UTILIDADE PROFISSIONAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "05027",
-    "LUVA DE PROTEÇÃO": "CINTO CAPACETE"
+    "id": "05025",
+    "pdm": "CINTO VESTUÁRIO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "05288",
-    "LUVA DE PROTEÇÃO": "COBERTURA CABEÇA INFANTIL"
+    "id": "05027",
+    "pdm": "CINTO CAPACETE",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "05335",
-    "LUVA DE PROTEÇÃO": "COLARINHO CAMISA"
+    "id": "05288",
+    "pdm": "COBERTURA CABEÇA INFANTIL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "05342",
-    "LUVA DE PROTEÇÃO": "COLDRE"
+    "id": "05335",
+    "pdm": "COLARINHO CAMISA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "05343",
-    "LUVA DE PROTEÇÃO": "COLDRE PARA ARMA DE FOGO"
+    "id": "05342",
+    "pdm": "COLDRE",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "05424",
-    "LUVA DE PROTEÇÃO": "COMPONENTE DE VESTUARIO ANTIGRAVITACIONAL"
+    "id": "05343",
+    "pdm": "COLDRE PARA ARMA DE FOGO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "05425",
-    "LUVA DE PROTEÇÃO": "COMPONENTE DE VESTUARIO PRESSURIZADO"
+    "id": "05424",
+    "pdm": "COMPONENTE DE VESTUARIO ANTIGRAVITACIONAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "05530",
-    "LUVA DE PROTEÇÃO": "FAIXA PRESIDENCIAL"
+    "id": "05425",
+    "pdm": "COMPONENTE DE VESTUARIO PRESSURIZADO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "05745",
-    "LUVA DE PROTEÇÃO": "CONJUNTO ESPORTIVO - MOLETON / TACTEL / POLIESTER"
+    "id": "05530",
+    "pdm": "FAIXA PRESIDENCIAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "06334",
-    "LUVA DE PROTEÇÃO": "DISPOSITIVO PROTETOR DE OUVIDO"
+    "id": "05745",
+    "pdm": "CONJUNTO ESPORTIVO - MOLETON / TACTEL / POLIESTER",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "06335",
-    "LUVA DE PROTEÇÃO": "DISPOSITIVO PROTETOR DE VISTA"
+    "id": "06334",
+    "pdm": "DISPOSITIVO PROTETOR DE OUVIDO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "06344",
-    "LUVA DE PROTEÇÃO": "DISTINTIVO CLUBE ESPORTIVO"
+    "id": "06335",
+    "pdm": "DISPOSITIVO PROTETOR DE VISTA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "06346",
-    "LUVA DE PROTEÇÃO": "DISTINTIVO USO PESSOAL"
+    "id": "06344",
+    "pdm": "DISTINTIVO CLUBE ESPORTIVO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "06347",
-    "LUVA DE PROTEÇÃO": "DISTINTIVO VESTUÁRIO"
+    "id": "06346",
+    "pdm": "DISTINTIVO USO PESSOAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "06515",
-    "LUVA DE PROTEÇÃO": "PANÓPLIA"
+    "id": "06347",
+    "pdm": "DISTINTIVO VESTUÁRIO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "06625",
-    "LUVA DE PROTEÇÃO": "EQUIPAMENTO / ACESSORIO - ALPINISMO"
+    "id": "06515",
+    "pdm": "PANÓPLIA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "06983",
-    "LUVA DE PROTEÇÃO": "ESPADA COM BAINHA"
+    "id": "06625",
+    "pdm": "EQUIPAMENTO / ACESSORIO - ALPINISMO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "07090",
-    "LUVA DE PROTEÇÃO": "ESTANDARTE"
+    "id": "06983",
+    "pdm": "ESPADA COM BAINHA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "07289",
-    "LUVA DE PROTEÇÃO": "FARDAMENTO / ACESSÓRIO"
+    "id": "07090",
+    "pdm": "ESTANDARTE",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "07578",
-    "LUVA DE PROTEÇÃO": "FITA TUBULAR"
+    "id": "07289",
+    "pdm": "FARDAMENTO / ACESSÓRIO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "07820",
-    "LUVA DE PROTEÇÃO": "FRALDA REUTILIZAVEL"
+    "id": "07578",
+    "pdm": "FITA TUBULAR",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "08039",
-    "LUVA DE PROTEÇÃO": "GORRO MASCULINO"
+    "id": "07820",
+    "pdm": "FRALDA REUTILIZAVEL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "08096",
-    "LUVA DE PROTEÇÃO": "GRAVATA"
+    "id": "08039",
+    "pdm": "GORRO MASCULINO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "08117",
-    "LUVA DE PROTEÇÃO": "PORTA GUARDA-CHUVAS"
+    "id": "08096",
+    "pdm": "GRAVATA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "08118",
-    "LUVA DE PROTEÇÃO": "GUARDA-PÓ"
+    "id": "08117",
+    "pdm": "PORTA GUARDA-CHUVAS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "08382",
-    "LUVA DE PROTEÇÃO": "INSIGNIA DE USO PESSOAL"
+    "id": "08118",
+    "pdm": "GUARDA-PÓ",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "08518",
-    "LUVA DE PROTEÇÃO": "JALECO"
+    "id": "08382",
+    "pdm": "INSIGNIA DE USO PESSOAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "08524",
-    "LUVA DE PROTEÇÃO": "JAPONA"
+    "id": "08518",
+    "pdm": "JALECO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "08525",
-    "LUVA DE PROTEÇÃO": "JAQUETA COM MASCARA - APICOLA"
+    "id": "08524",
+    "pdm": "JAPONA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "08526",
-    "LUVA DE PROTEÇÃO": "JAQUETA FEMININA"
+    "id": "08525",
+    "pdm": "JAQUETA COM MASCARA - APICOLA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "08565",
-    "LUVA DE PROTEÇÃO": "PEÇA / ACESSÓRIO CAPACETE"
+    "id": "08526",
+    "pdm": "JAQUETA FEMININA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "08769",
-    "LUVA DE PROTEÇÃO": "LENCO DE TECIDO"
+    "id": "08565",
+    "pdm": "PEÇA / ACESSÓRIO CAPACETE",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "08827",
-    "LUVA DE PROTEÇÃO": "LIGA FEMININA"
+    "id": "08769",
+    "pdm": "LENCO DE TECIDO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "08974",
-    "LUVA DE PROTEÇÃO": "LUVA PROTEÇÃO"
+    "id": "08827",
+    "pdm": "LIGA FEMININA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "08978",
-    "LUVA DE PROTEÇÃO": "LUVA PVC"
+    "id": "08974",
+    "pdm": "LUVA PROTEÇÃO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "09028",
-    "LUVA DE PROTEÇÃO": "MALA"
+    "id": "08978",
+    "pdm": "LUVA PVC",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "09029",
-    "LUVA DE PROTEÇÃO": "MALA PARA ROUPA"
+    "id": "09028",
+    "pdm": "MALA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "09044",
-    "LUVA DE PROTEÇÃO": "MALETA"
+    "id": "09029",
+    "pdm": "MALA PARA ROUPA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "09045",
-    "LUVA DE PROTEÇÃO": "MALETA NOTEBOOK"
+    "id": "09044",
+    "pdm": "MALETA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "09495",
-    "LUVA DE PROTEÇÃO": "VESTUÁRIO ESPECIAL / ACESSÓRIOS"
+    "id": "09045",
+    "pdm": "MALETA NOTEBOOK",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "09581",
-    "LUVA DE PROTEÇÃO": "MEIA VESTUÁRIO MASCULINO"
+    "id": "09495",
+    "pdm": "VESTUÁRIO ESPECIAL / ACESSÓRIOS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": "09831",
-    "LUVA DE PROTEÇÃO": "MOCHILA"
+    "id": "09581",
+    "pdm": "MEIA VESTUÁRIO MASCULINO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 10148,
-    "LUVA DE PROTEÇÃO": "OCULOS PROTECAO - RAIOS SOLARES"
+    "id": "09831",
+    "pdm": "MOCHILA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 10317,
-    "LUVA DE PROTEÇÃO": "PALETÓ"
+    "id": 10148,
+    "pdm": "OCULOS PROTECAO - RAIOS SOLARES",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 10484,
-    "LUVA DE PROTEÇÃO": "PASTA EXECUTIVA"
+    "id": 10317,
+    "pdm": "PALETÓ",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 10578,
-    "LUVA DE PROTEÇÃO": "PEDESTAL DE MALA"
+    "id": 10484,
+    "pdm": "PASTA EXECUTIVA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 10833,
-    "LUVA DE PROTEÇÃO": "CARTÃO IDENTIFICAÇÃO"
+    "id": 10578,
+    "pdm": "PEDESTAL DE MALA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 11038,
-    "LUVA DE PROTEÇÃO": "PORTA-DOCUMENTOS"
+    "id": 10833,
+    "pdm": "CARTÃO IDENTIFICAÇÃO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 11043,
-    "LUVA DE PROTEÇÃO": "PORTA-JÓIAS"
+    "id": 11038,
+    "pdm": "PORTA-DOCUMENTOS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 11066,
-    "LUVA DE PROTEÇÃO": "PORTA CASSETETES"
+    "id": 11043,
+    "pdm": "PORTA-JÓIAS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 11167,
-    "LUVA DE PROTEÇÃO": "PRENDEDOR DE CRACHÁ"
+    "id": 11066,
+    "pdm": "PORTA CASSETETES",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 11168,
-    "LUVA DE PROTEÇÃO": "PRENDEDOR DE GRAVATA"
+    "id": 11167,
+    "pdm": "PRENDEDOR DE CRACHÁ",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 11502,
-    "LUVA DE PROTEÇÃO": "REDE DE DORMIR"
+    "id": 11168,
+    "pdm": "PRENDEDOR DE GRAVATA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 11851,
-    "LUVA DE PROTEÇÃO": "ROUPA INTIMA INFANTIL"
+    "id": 11502,
+    "pdm": "REDE DE DORMIR",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 11852,
-    "LUVA DE PROTEÇÃO": "ROUPA PROTEÇÃO FIM ESPECÍFICO"
+    "id": 11851,
+    "pdm": "ROUPA INTIMA INFANTIL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 11853,
-    "LUVA DE PROTEÇÃO": "ROUPAO MASCULINO"
+    "id": 11852,
+    "pdm": "ROUPA PROTEÇÃO FIM ESPECÍFICO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 11892,
-    "LUVA DE PROTEÇÃO": "SACO DE EQUIPAMENTO PESSOAL"
+    "id": 11853,
+    "pdm": "ROUPAO MASCULINO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 11943,
-    "LUVA DE PROTEÇÃO": "SAPATO MASCULINO"
+    "id": 11892,
+    "pdm": "SACO DE EQUIPAMENTO PESSOAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 12305,
-    "LUVA DE PROTEÇÃO": "SUÉTER"
+    "id": 11943,
+    "pdm": "SAPATO MASCULINO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 12448,
-    "LUVA DE PROTEÇÃO": "SUSPENSORIO ( VESTUARIO )"
+    "id": 12305,
+    "pdm": "SUÉTER",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 12629,
-    "LUVA DE PROTEÇÃO": "TÊNIS"
+    "id": 12448,
+    "pdm": "SUSPENSORIO ( VESTUARIO )",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 12678,
-    "LUVA DE PROTEÇÃO": "TERNO"
+    "id": 12629,
+    "pdm": "TÊNIS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 12848,
-    "LUVA DE PROTEÇÃO": "TOUCA"
+    "id": 12678,
+    "pdm": "TERNO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 12858,
-    "LUVA DE PROTEÇÃO": "TRAJE SOCIAL FEMININO"
+    "id": 12848,
+    "pdm": "TOUCA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 12859,
-    "LUVA DE PROTEÇÃO": "TRAJE SOCIAL MASCULINO"
+    "id": 12858,
+    "pdm": "TRAJE SOCIAL FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 12860,
-    "LUVA DE PROTEÇÃO": "TRAJE USUAL INFANTIL"
+    "id": 12859,
+    "pdm": "TRAJE SOCIAL MASCULINO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13131,
-    "LUVA DE PROTEÇÃO": "TURBANTE FEMININO"
+    "id": 12860,
+    "pdm": "TRAJE USUAL INFANTIL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13197,
-    "LUVA DE PROTEÇÃO": "ECHARPE"
+    "id": 13131,
+    "pdm": "TURBANTE FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13198,
-    "LUVA DE PROTEÇÃO": "UNIFORME MASCULINO"
+    "id": 13197,
+    "pdm": "ECHARPE",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13242,
-    "LUVA DE PROTEÇÃO": "VALISE DE ROUPA"
+    "id": 13198,
+    "pdm": "UNIFORME MASCULINO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13401,
-    "LUVA DE PROTEÇÃO": "CAPA COLETE BALÍSTICO"
+    "id": 13242,
+    "pdm": "VALISE DE ROUPA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13403,
-    "LUVA DE PROTEÇÃO": "VESTUARIO ANTIGRAVITACIONAL"
+    "id": 13401,
+    "pdm": "CAPA COLETE BALÍSTICO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13405,
-    "LUVA DE PROTEÇÃO": "VESTUÁRIO DE SEGURANÇA"
+    "id": 13403,
+    "pdm": "VESTUARIO ANTIGRAVITACIONAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13406,
-    "LUVA DE PROTEÇÃO": "VESTUARIO EXTERNO FEMININO"
+    "id": 13405,
+    "pdm": "VESTUÁRIO DE SEGURANÇA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13407,
-    "LUVA DE PROTEÇÃO": "VESTUÁRIO PARA COMBATE"
+    "id": 13406,
+    "pdm": "VESTUARIO EXTERNO FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13408,
-    "LUVA DE PROTEÇÃO": "VESTUARIO PARA DESPORTO / UNIFORME ESPORTIVO"
+    "id": 13407,
+    "pdm": "VESTUÁRIO PARA COMBATE",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13409,
-    "LUVA DE PROTEÇÃO": "SHORT FEMININO"
+    "id": 13408,
+    "pdm": "VESTUARIO PARA DESPORTO / UNIFORME ESPORTIVO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13410,
-    "LUVA DE PROTEÇÃO": "VESTUÁRIO PARA PROTEÇÃO"
+    "id": 13409,
+    "pdm": "SHORT FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13411,
-    "LUVA DE PROTEÇÃO": "VESTUARIO PRESSURIZADO"
+    "id": 13410,
+    "pdm": "VESTUÁRIO PARA PROTEÇÃO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13412,
-    "LUVA DE PROTEÇÃO": "VESTUARIO PROTECAO - BAIXA TEMPERATURA"
+    "id": 13411,
+    "pdm": "VESTUARIO PRESSURIZADO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13413,
-    "LUVA DE PROTEÇÃO": "SAPATO SEGURANÇA"
+    "id": 13412,
+    "pdm": "VESTUARIO PROTECAO - BAIXA TEMPERATURA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13584,
-    "LUVA DE PROTEÇÃO": "LUVA TIPO SOCIAL"
+    "id": 13413,
+    "pdm": "SAPATO SEGURANÇA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13595,
-    "LUVA DE PROTEÇÃO": "MEIA DE VESTUARIO FEMININO"
+    "id": 13584,
+    "pdm": "LUVA TIPO SOCIAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 13647,
-    "LUVA DE PROTEÇÃO": "BERMUDA"
+    "id": 13595,
+    "pdm": "MEIA DE VESTUARIO FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 14085,
-    "LUVA DE PROTEÇÃO": "CALÇA"
+    "id": 13647,
+    "pdm": "BERMUDA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 14086,
-    "LUVA DE PROTEÇÃO": "CAMISA UNIFORME"
+    "id": 14085,
+    "pdm": "CALÇA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 14162,
-    "LUVA DE PROTEÇÃO": "CALÇA PROFISSIONAL"
+    "id": 14086,
+    "pdm": "CAMISA UNIFORME",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 14269,
-    "LUVA DE PROTEÇÃO": "COLETE IDENTIFICAÇÃO"
+    "id": 14162,
+    "pdm": "CALÇA PROFISSIONAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 14313,
-    "LUVA DE PROTEÇÃO": "BOLSA NECESSIDADES PESSOAIS"
+    "id": 14269,
+    "pdm": "COLETE IDENTIFICAÇÃO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 14316,
-    "LUVA DE PROTEÇÃO": "CALÇA UNIFORME SEGURANÇA"
+    "id": 14313,
+    "pdm": "BOLSA NECESSIDADES PESSOAIS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 14318,
-    "LUVA DE PROTEÇÃO": "BONÉ"
+    "id": 14316,
+    "pdm": "CALÇA UNIFORME SEGURANÇA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 14380,
-    "LUVA DE PROTEÇÃO": "PORTA DOCUMENTOS"
+    "id": 14318,
+    "pdm": "BONÉ",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 14488,
-    "LUVA DE PROTEÇÃO": "COTURNO COMBATE INCÊNDIO"
+    "id": 14380,
+    "pdm": "PORTA DOCUMENTOS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 14605,
-    "LUVA DE PROTEÇÃO": "VESTUÁRIO PROTEÇÃO"
+    "id": 14488,
+    "pdm": "COTURNO COMBATE INCÊNDIO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 15158,
-    "LUVA DE PROTEÇÃO": "CHORÃO"
+    "id": 14605,
+    "pdm": "VESTUÁRIO PROTEÇÃO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 15194,
-    "LUVA DE PROTEÇÃO": "UNIFORME HISTÓRICO DRAGÃO"
+    "id": 15158,
+    "pdm": "CHORÃO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 15248,
-    "LUVA DE PROTEÇÃO": "PASSADOR"
+    "id": 15194,
+    "pdm": "UNIFORME HISTÓRICO DRAGÃO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 15257,
-    "LUVA DE PROTEÇÃO": "COLETE"
+    "id": 15248,
+    "pdm": "PASSADOR",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 15469,
-    "LUVA DE PROTEÇÃO": "TURBANTE MASCULINO"
+    "id": 15257,
+    "pdm": "COLETE",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 15562,
-    "LUVA DE PROTEÇÃO": "BRAÇAL"
+    "id": 15469,
+    "pdm": "TURBANTE MASCULINO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 15779,
-    "LUVA DE PROTEÇÃO": "BOTOM"
+    "id": 15562,
+    "pdm": "BRAÇAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 16028,
-    "LUVA DE PROTEÇÃO": "BLUSÃO"
+    "id": 15779,
+    "pdm": "BOTOM",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 16428,
-    "LUVA DE PROTEÇÃO": "BLUSA UNIFORME"
+    "id": 16028,
+    "pdm": "BLUSÃO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 16506,
-    "LUVA DE PROTEÇÃO": "ROUPÃO ESPORTIVO"
+    "id": 16428,
+    "pdm": "BLUSA UNIFORME",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 16510,
-    "LUVA DE PROTEÇÃO": "UNIFORME FEMININO"
+    "id": 16506,
+    "pdm": "ROUPÃO ESPORTIVO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 16516,
-    "LUVA DE PROTEÇÃO": "AGASALHO DESPORTIVO"
+    "id": 16510,
+    "pdm": "UNIFORME FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 16640,
-    "LUVA DE PROTEÇÃO": "SANDÁLIA FEMININA"
+    "id": 16516,
+    "pdm": "AGASALHO DESPORTIVO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17271,
-    "LUVA DE PROTEÇÃO": "VESTUÁRIO EXTERNO FEMININO"
+    "id": 16640,
+    "pdm": "SANDÁLIA FEMININA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17272,
-    "LUVA DE PROTEÇÃO": "CANELEIRA ANTITUMULTO"
+    "id": 17271,
+    "pdm": "VESTUÁRIO EXTERNO FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17273,
-    "LUVA DE PROTEÇÃO": "ROUPAS ÍNTIMAS E PARA DORMIR, MASCULINAS"
+    "id": 17272,
+    "pdm": "CANELEIRA ANTITUMULTO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17274,
-    "LUVA DE PROTEÇÃO": "ROUPAS ÍNTIMAS E PARA DORMIR, FEMININAS"
+    "id": 17273,
+    "pdm": "ROUPAS ÍNTIMAS E PARA DORMIR, MASCULINAS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17275,
-    "LUVA DE PROTEÇÃO": "CALÇADOS MASCULINOS"
+    "id": 17274,
+    "pdm": "ROUPAS ÍNTIMAS E PARA DORMIR, FEMININAS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17276,
-    "LUVA DE PROTEÇÃO": "CALÇADOS FEMININOS"
+    "id": 17275,
+    "pdm": "CALÇADOS MASCULINOS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17277,
-    "LUVA DE PROTEÇÃO": "TORÇAL"
+    "id": 17276,
+    "pdm": "CALÇADOS FEMININOS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17278,
-    "LUVA DE PROTEÇÃO": "MEIAS, LUVAS E OUTROS COMPLEMENTOS DO VESTUÁRIO FEMININO"
+    "id": 17277,
+    "pdm": "TORÇAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17279,
-    "LUVA DE PROTEÇÃO": "VESTUÁRIO INFANTO-JUVENIL E COMPLEMENTOS"
+    "id": 17278,
+    "pdm": "MEIAS, LUVAS E OUTROS COMPLEMENTOS DO VESTUÁRIO FEMININO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17280,
-    "LUVA DE PROTEÇÃO": "DISTINTIVOS E INSÍGNIAS"
+    "id": 17279,
+    "pdm": "VESTUÁRIO INFANTO-JUVENIL E COMPLEMENTOS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17281,
-    "LUVA DE PROTEÇÃO": "BAGAGENS"
+    "id": 17280,
+    "pdm": "DISTINTIVOS E INSÍGNIAS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17282,
-    "LUVA DE PROTEÇÃO": "CADEIRA PARA AUTOMÓVEL"
+    "id": 17281,
+    "pdm": "BAGAGENS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17283,
-    "LUVA DE PROTEÇÃO": "ROUPAS DE PROTEÇÃO CONTRA PROJÉTEIS"
+    "id": 17282,
+    "pdm": "CADEIRA PARA AUTOMÓVEL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17284,
-    "LUVA DE PROTEÇÃO": "VESTUÁRIO ESPECIALIZADO PARA VÔO E ACESSÓRIOS"
+    "id": 17283,
+    "pdm": "ROUPAS DE PROTEÇÃO CONTRA PROJÉTEIS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17513,
-    "LUVA DE PROTEÇÃO": "SAPATILHA FEMININA"
+    "id": 17284,
+    "pdm": "VESTUÁRIO ESPECIALIZADO PARA VÔO E ACESSÓRIOS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17739,
-    "LUVA DE PROTEÇÃO": "FIVELA"
+    "id": 17513,
+    "pdm": "SAPATILHA FEMININA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17753,
-    "LUVA DE PROTEÇÃO": "GRAMPO FIXAÇÃO"
+    "id": 17739,
+    "pdm": "FIVELA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17791,
-    "LUVA DE PROTEÇÃO": "TOGA"
+    "id": 17753,
+    "pdm": "GRAMPO FIXAÇÃO",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 17983,
-    "LUVA DE PROTEÇÃO": "UNIFORME PROFISSIONAL"
+    "id": 17791,
+    "pdm": "TOGA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 18330,
-    "LUVA DE PROTEÇÃO": "REGULADOR"
+    "id": 17983,
+    "pdm": "UNIFORME PROFISSIONAL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 18479,
-    "LUVA DE PROTEÇÃO": "VENDA OLHOS"
+    "id": 18330,
+    "pdm": "REGULADOR",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 18553,
-    "LUVA DE PROTEÇÃO": "SAPATILHA"
+    "id": 18479,
+    "pdm": "VENDA OLHOS",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 18582,
-    "LUVA DE PROTEÇÃO": "TONFA"
+    "id": 18553,
+    "pdm": "SAPATILHA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 18800,
-    "LUVA DE PROTEÇÃO": "CACHECOL"
+    "id": 18582,
+    "pdm": "TONFA",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 18989,
-    "LUVA DE PROTEÇÃO": "UNIFORME ESCOLAR"
+    "id": 18800,
+    "pdm": "CACHECOL",
+    "grupo": 84
   },
   {
-    "84": 84,
-    "00419": 19041,
-    "LUVA DE PROTEÇÃO": "GRAVATA FEMININA"
+    "id": 18989,
+    "pdm": "UNIFORME ESCOLAR",
+    "grupo": 84
+  },
+  {
+    "id": 19041,
+    "pdm": "GRAVATA FEMININA",
+    "grupo": 84
   }
 ]
