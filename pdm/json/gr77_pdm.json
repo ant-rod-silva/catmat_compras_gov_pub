@@ -1,0 +1,327 @@
+[
+  {
+    "id": "01218",
+    "pdm": "PEÇAS E ACESSÓRIOS INSTRUMENTO MUSICAL",
+    "grupo": 77
+  },
+  {
+    "id": "02088",
+    "pdm": "ADAPTADOR DE PRATO DE INSTRUMENTO DE PERCUSSAO",
+    "grupo": 77
+  },
+  {
+    "id": "02145",
+    "pdm": "AFINADOR DE INSTRUMENTO MUSICAL",
+    "grupo": 77
+  },
+  {
+    "id": "02864",
+    "pdm": "APARELHO RAIO LASER PARA REPRODUÇÃO DISCO SONORO",
+    "grupo": 77
+  },
+  {
+    "id": "02874",
+    "pdm": "APARELHO SOM",
+    "grupo": 77
+  },
+  {
+    "id": "02892",
+    "pdm": "APARELHO VIDEO / SONORO CONJUGADO TIPO DOMESTICO",
+    "grupo": 77
+  },
+  {
+    "id": "03484",
+    "pdm": "BATUTA DE REGENTE",
+    "grupo": 77
+  },
+  {
+    "id": "03798",
+    "pdm": "BOMBO",
+    "grupo": 77
+  },
+  {
+    "id": "03802",
+    "pdm": "BOQUILHA DE INSTRUMENTO MUSICAL",
+    "grupo": 77
+  },
+  {
+    "id": "04136",
+    "pdm": "CAIXA DE INSTRUMENTO MUSICAL",
+    "grupo": 77
+  },
+  {
+    "id": "04445",
+    "pdm": "CAPA INSTRUMENTO MUSICAL",
+    "grupo": 77
+  },
+  {
+    "id": "05695",
+    "pdm": "CONJUNTO COMBINADO FONÓGRAFO, RÁDIO E TELEVISOR",
+    "grupo": 77
+  },
+  {
+    "id": "05746",
+    "pdm": "CONJUNTO ESTEREOFÔNICO",
+    "grupo": 77
+  },
+  {
+    "id": "06162",
+    "pdm": "DIAPASÃO",
+    "grupo": 77
+  },
+  {
+    "id": "06263",
+    "pdm": "DISCO FONOGRAFICO",
+    "grupo": 77
+  },
+  {
+    "id": "06265",
+    "pdm": "MINI CD",
+    "grupo": 77
+  },
+  {
+    "id": "06266",
+    "pdm": "DISCO LASER CDR",
+    "grupo": 77
+  },
+  {
+    "id": "06550",
+    "pdm": "ENCORDOAMENTO DE INSTRUMENTO MUSICAL",
+    "grupo": 77
+  },
+  {
+    "id": "07095",
+    "pdm": "ESTANTE - PARTITURA",
+    "grupo": 77
+  },
+  {
+    "id": "07162",
+    "pdm": "ESTOJO PARA FITA DE VIDEO CASSETE",
+    "grupo": 77
+  },
+  {
+    "id": "07575",
+    "pdm": "FITA VIDEOCASSETE",
+    "grupo": 77
+  },
+  {
+    "id": "07579",
+    "pdm": "FITA FONOGRAFICA",
+    "grupo": 77
+  },
+  {
+    "id": "07603",
+    "pdm": "FITA GRAVAÇÃO",
+    "grupo": 77
+  },
+  {
+    "id": "07705",
+    "pdm": "FONOGRAFO",
+    "grupo": 77
+  },
+  {
+    "id": "08410",
+    "pdm": "INSTRUMENTO MUSICAL",
+    "grupo": 77
+  },
+  {
+    "id": "08411",
+    "pdm": "INSTRUMENTO MUSICAL - CORDA",
+    "grupo": 77
+  },
+  {
+    "id": "08412",
+    "pdm": "INSTRUMENTO MUSICAL - FOLE",
+    "grupo": 77
+  },
+  {
+    "id": "08413",
+    "pdm": "INSTRUMENTO MUSICAL - GONGO",
+    "grupo": 77
+  },
+  {
+    "id": "08414",
+    "pdm": "INSTRUMENTO MUSICAL - PERCURSÃO",
+    "grupo": 77
+  },
+  {
+    "id": "08415",
+    "pdm": "INSTRUMENTO MUSICAL - SOM AMPLIFICADO POR MEIOS ELETRICOS",
+    "grupo": 77
+  },
+  {
+    "id": "08416",
+    "pdm": "INSTRUMENTO MUSICAL - SOPRO",
+    "grupo": 77
+  },
+  {
+    "id": "08417",
+    "pdm": "INSTRUMENTO MUSICAL - TECLADO COM PALHETAS METALICAS LIVRES",
+    "grupo": 77
+  },
+  {
+    "id": 10320,
+    "pdm": "PALHETA DE INSTRUMENTO MUSICAL",
+    "grupo": 77
+  },
+  {
+    "id": 10535,
+    "pdm": "PEÇA DE INSTRUMENTO MUSICAL",
+    "grupo": 77
+  },
+  {
+    "id": 10576,
+    "pdm": "PEDAL DE INSTRUMENTO MUSICAL",
+    "grupo": 77
+  },
+  {
+    "id": 10698,
+    "pdm": "PIANO",
+    "grupo": 77
+  },
+  {
+    "id": 11393,
+    "pdm": "RÁDIO - RELÓGIO",
+    "grupo": 77
+  },
+  {
+    "id": 11396,
+    "pdm": "RÁDIO RECEPTOR",
+    "grupo": 77
+  },
+  {
+    "id": 11397,
+    "pdm": "RADIO RECEPTOR TIPO DOMESTICO",
+    "grupo": 77
+  },
+  {
+    "id": 12393,
+    "pdm": "SUPORTE DE PARTITURA DE MUSICA",
+    "grupo": 77
+  },
+  {
+    "id": 12415,
+    "pdm": "SUPORTE PARA PARTITURAS MUSICAIS",
+    "grupo": 77
+  },
+  {
+    "id": 12609,
+    "pdm": "TELEVISOR",
+    "grupo": 77
+  },
+  {
+    "id": 12796,
+    "pdm": "TOCA - DISCO",
+    "grupo": 77
+  },
+  {
+    "id": 13423,
+    "pdm": "VIDEOCASSETE",
+    "grupo": 77
+  },
+  {
+    "id": 13830,
+    "pdm": "DISCO LASER CDRW",
+    "grupo": 77
+  },
+  {
+    "id": 14139,
+    "pdm": "RÁDIO GRAVADOR AM/FM",
+    "grupo": 77
+  },
+  {
+    "id": 14529,
+    "pdm": "MICRO VIDEOCASSETE",
+    "grupo": 77
+  },
+  {
+    "id": 15157,
+    "pdm": "ESTOJO PARA DVD",
+    "grupo": 77
+  },
+  {
+    "id": 15303,
+    "pdm": "APARELHO DVD",
+    "grupo": 77
+  },
+  {
+    "id": 15360,
+    "pdm": "VIOLA",
+    "grupo": 77
+  },
+  {
+    "id": 15534,
+    "pdm": "FITA TAPE PROFISSIONAL",
+    "grupo": 77
+  },
+  {
+    "id": 15653,
+    "pdm": "ROTEADOR RÁDIO",
+    "grupo": 77
+  },
+  {
+    "id": 16191,
+    "pdm": "HOME THEATER",
+    "grupo": 77
+  },
+  {
+    "id": 16195,
+    "pdm": "ESTEIRA CAIXA CLARA",
+    "grupo": 77
+  },
+  {
+    "id": 16248,
+    "pdm": "CABO APARELHO ELETRÔNICO",
+    "grupo": 77
+  },
+  {
+    "id": 16479,
+    "pdm": "MINI DISCO",
+    "grupo": 77
+  },
+  {
+    "id": 17239,
+    "pdm": "INSTRUMENTOS MUSICAIS",
+    "grupo": 77
+  },
+  {
+    "id": 17240,
+    "pdm": "PEÇAS E ACESSÓRIOS DE INSTRUMENTOS MUSICAIS",
+    "grupo": 77
+  },
+  {
+    "id": 17241,
+    "pdm": "FONÓGRAFOS, RÁDIOS E TELEVISORES DE TIPO DOMÉSTICO",
+    "grupo": 77
+  },
+  {
+    "id": 17242,
+    "pdm": "DISCO LASER",
+    "grupo": 77
+  },
+  {
+    "id": 17561,
+    "pdm": "APARELHO VÍDEOCASSETE E DVD",
+    "grupo": 77
+  },
+  {
+    "id": 17623,
+    "pdm": "PELE INSTRUMENTO MUSICAL",
+    "grupo": 77
+  },
+  {
+    "id": 17624,
+    "pdm": "CAIXA CLARA",
+    "grupo": 77
+  },
+  {
+    "id": 17631,
+    "pdm": "TAROL",
+    "grupo": 77
+  },
+  {
+    "id": 18051,
+    "pdm": "APARELHO DVD PARA AUTOMÓVEL",
+    "grupo": 77
+  }
+]

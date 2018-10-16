@@ -1,0 +1,782 @@
+[
+  {
+    "id": "01197",
+    "pdm": "BALÃO FESTA",
+    "grupo": 78
+  },
+  {
+    "id": "01199",
+    "pdm": "APITO",
+    "grupo": 78
+  },
+  {
+    "id": "01266",
+    "pdm": "BOLA SINUCA",
+    "grupo": 78
+  },
+  {
+    "id": "01386",
+    "pdm": "PLATAFORMA FUNDO PISCINA",
+    "grupo": 78
+  },
+  {
+    "id": "01400",
+    "pdm": "CORDA DE PULAR",
+    "grupo": 78
+  },
+  {
+    "id": "02040",
+    "pdm": "ACIONADOR DE JOGO TIPO JOYSTICK",
+    "grupo": 78
+  },
+  {
+    "id": "02381",
+    "pdm": "ALVO DE ARCO E FLEXA",
+    "grupo": 78
+  },
+  {
+    "id": "02629",
+    "pdm": "ANZOL DE PESCARIA",
+    "grupo": 78
+  },
+  {
+    "id": "02638",
+    "pdm": "APARELHO / ACESSÓRIO - ACONDICIONAMENTO FÍSICO",
+    "grupo": 78
+  },
+  {
+    "id": "02640",
+    "pdm": "APARELHO / EQUIPAMENTO PARA CONDICIONAMENTO FÍSICO",
+    "grupo": 78
+  },
+  {
+    "id": "02649",
+    "pdm": "APARELHO APOLO DE GINÁSTICA / COMPONENTES",
+    "grupo": 78
+  },
+  {
+    "id": "02746",
+    "pdm": "APARELHO DE TREINAMENTO FISICO",
+    "grupo": 78
+  },
+  {
+    "id": "02829",
+    "pdm": "APARELHO PARA DIVERSÃO",
+    "grupo": 78
+  },
+  {
+    "id": "02976",
+    "pdm": "ARCO DE GINÁSTICA RÍTMICA ( BAMBOLÊ )",
+    "grupo": 78
+  },
+  {
+    "id": "03027",
+    "pdm": "ARPÃO DE PESCA",
+    "grupo": 78
+  },
+  {
+    "id": "03233",
+    "pdm": "BALANÇO INFANTIL",
+    "grupo": 78
+  },
+  {
+    "id": "03323",
+    "pdm": "BARALHO",
+    "grupo": 78
+  },
+  {
+    "id": "03431",
+    "pdm": "BASTÃO GINÁSTICA",
+    "grupo": 78
+  },
+  {
+    "id": "03522",
+    "pdm": "BICICLETA ERGOMÉTRICA",
+    "grupo": 78
+  },
+  {
+    "id": "03534",
+    "pdm": "BICO ENCHER BOLA",
+    "grupo": 78
+  },
+  {
+    "id": "03612",
+    "pdm": "BLOCO PARTIDA PARA CORRIDA",
+    "grupo": 78
+  },
+  {
+    "id": "03628",
+    "pdm": "BLOQUEADOR MOSQUETÃO",
+    "grupo": 78
+  },
+  {
+    "id": "03667",
+    "pdm": "BOLA MEDICINAL",
+    "grupo": 78
+  },
+  {
+    "id": "03670",
+    "pdm": "BOLA SQUASH",
+    "grupo": 78
+  },
+  {
+    "id": "03671",
+    "pdm": "BOLA DE TÊNIS",
+    "grupo": 78
+  },
+  {
+    "id": "03672",
+    "pdm": "BOLA DE TÊNIS DE MESA",
+    "grupo": 78
+  },
+  {
+    "id": "03673",
+    "pdm": "BOLA DE VIDRO",
+    "grupo": 78
+  },
+  {
+    "id": "03674",
+    "pdm": "BOLA HANDEBOL - FEMININA",
+    "grupo": 78
+  },
+  {
+    "id": "03675",
+    "pdm": "BOLA HANDEBOL - MASCULINA",
+    "grupo": 78
+  },
+  {
+    "id": "03676",
+    "pdm": "BOLA FUTEBOL",
+    "grupo": 78
+  },
+  {
+    "id": "03677",
+    "pdm": "BOLA POLO AQUÁTICO",
+    "grupo": 78
+  },
+  {
+    "id": "03801",
+    "pdm": "BONECA / BONECO",
+    "grupo": 78
+  },
+  {
+    "id": "03867",
+    "pdm": "BRINQUEDO DE ARMAR",
+    "grupo": 78
+  },
+  {
+    "id": "03868",
+    "pdm": "BRINQUEDO EM GERAL",
+    "grupo": 78
+  },
+  {
+    "id": "03869",
+    "pdm": "BRINQUEDO INFLAVEL",
+    "grupo": 78
+  },
+  {
+    "id": "04308",
+    "pdm": "CAMA ELÁSTICA",
+    "grupo": 78
+  },
+  {
+    "id": "04405",
+    "pdm": "CANELEIRA",
+    "grupo": 78
+  },
+  {
+    "id": "04582",
+    "pdm": "CARRETILHA USO PESCARIA",
+    "grupo": 78
+  },
+  {
+    "id": "04596",
+    "pdm": "CARRO BONECA - BRINQUEDO",
+    "grupo": 78
+  },
+  {
+    "id": "04598",
+    "pdm": "CARRO DE BEBÊ",
+    "grupo": 78
+  },
+  {
+    "id": "04669",
+    "pdm": "CARTUCHO PARA JOGO TIPO VIDEO GAME",
+    "grupo": 78
+  },
+  {
+    "id": "04678",
+    "pdm": "CASA BONECA - BRINQUEDO",
+    "grupo": 78
+  },
+  {
+    "id": "05026",
+    "pdm": "CINTO ELÁSTICO - USO NATAÇÃO",
+    "grupo": 78
+  },
+  {
+    "id": "05028",
+    "pdm": "CINTO ESCALADA",
+    "grupo": 78
+  },
+  {
+    "id": "05030",
+    "pdm": "CINTURAO ABDOMINAL LOMBAR",
+    "grupo": 78
+  },
+  {
+    "id": "05341",
+    "pdm": "COLCHONETE GINÁSTICA",
+    "grupo": 78
+  },
+  {
+    "id": "05349",
+    "pdm": "COLETE PISCINA",
+    "grupo": 78
+  },
+  {
+    "id": "05942",
+    "pdm": "COTOVELEIRA",
+    "grupo": 78
+  },
+  {
+    "id": "06033",
+    "pdm": "DADO JOGO",
+    "grupo": 78
+  },
+  {
+    "id": "06036",
+    "pdm": "DARDO PEÇAS E ACESSÓRIOS",
+    "grupo": 78
+  },
+  {
+    "id": "06256",
+    "pdm": "DISCO DE MATERIAL METALICO PARA ESPORTE",
+    "grupo": 78
+  },
+  {
+    "id": "06267",
+    "pdm": "DISCO PARA ARREMESSO",
+    "grupo": 78
+  },
+  {
+    "id": "06662",
+    "pdm": "EQUIPAMENTO DE BASQUETEBOL",
+    "grupo": 78
+  },
+  {
+    "id": "06698",
+    "pdm": "EQUIPAMENTO DE FUTEBOL",
+    "grupo": 78
+  },
+  {
+    "id": "06723",
+    "pdm": "EQUIPAMENTO DE PESCA ESPORTIVA",
+    "grupo": 78
+  },
+  {
+    "id": "06762",
+    "pdm": "EQUIPAMENTO DE TENIS DE MESA",
+    "grupo": 78
+  },
+  {
+    "id": "06773",
+    "pdm": "POSTE REDE VOLEIBOL",
+    "grupo": 78
+  },
+  {
+    "id": "06811",
+    "pdm": "EQUIPAMENTO / ACESSÓRIOS DESPORTO",
+    "grupo": 78
+  },
+  {
+    "id": "06812",
+    "pdm": "EQUIPAMENTO PARA CAMPO DE RECREACAO",
+    "grupo": 78
+  },
+  {
+    "id": "06820",
+    "pdm": "EQUIPAMENTO PARA DIVERSÃO",
+    "grupo": 78
+  },
+  {
+    "id": "06827",
+    "pdm": "EQUIPAMENTO PARA GINASIO DE EDUCACAO FISICA",
+    "grupo": 78
+  },
+  {
+    "id": "06886",
+    "pdm": "ESCADA HORIZONTAL DE GINASTICA",
+    "grupo": 78
+  },
+  {
+    "id": "06929",
+    "pdm": "ESCORREGADEIRA - BRINQUEDO",
+    "grupo": 78
+  },
+  {
+    "id": "06930",
+    "pdm": "ESCORREGADOR - FIBRA DE VIDRO",
+    "grupo": 78
+  },
+  {
+    "id": "07022",
+    "pdm": "ESPIROBOL",
+    "grupo": 78
+  },
+  {
+    "id": "07100",
+    "pdm": "ESTANTE MATERIAL ESPORTIVO",
+    "grupo": 78
+  },
+  {
+    "id": "07111",
+    "pdm": "ESTEIRA DE PRAIA",
+    "grupo": 78
+  },
+  {
+    "id": "07113",
+    "pdm": "ESTEIRA ERGONOMICA",
+    "grupo": 78
+  },
+  {
+    "id": "07115",
+    "pdm": "ESTEIRA ELÉTRICA",
+    "grupo": 78
+  },
+  {
+    "id": "07116",
+    "pdm": "ESTEIRA ROLANTE NAO ELETRICA",
+    "grupo": 78
+  },
+  {
+    "id": "07253",
+    "pdm": "EXTENSOR DE BRACO PARA GINASTICA",
+    "grupo": 78
+  },
+  {
+    "id": "07921",
+    "pdm": "GANGORRA - BRINQUEDO",
+    "grupo": 78
+  },
+  {
+    "id": "08166",
+    "pdm": "HALTERE",
+    "grupo": 78
+  },
+  {
+    "id": "08167",
+    "pdm": "HALTERE - USO PISCINA",
+    "grupo": 78
+  },
+  {
+    "id": "08532",
+    "pdm": "JOELHEIRA",
+    "grupo": 78
+  },
+  {
+    "id": "08533",
+    "pdm": "JOGO / BRINQUEDO PEDAGÓGICO",
+    "grupo": 78
+  },
+  {
+    "id": "08543",
+    "pdm": "JOGO DE DAMAS",
+    "grupo": 78
+  },
+  {
+    "id": "08544",
+    "pdm": "JOGO DOMINÓ",
+    "grupo": 78
+  },
+  {
+    "id": "08547",
+    "pdm": "JOGO DE GAMAO",
+    "grupo": 78
+  },
+  {
+    "id": "08555",
+    "pdm": "JOGO DE VISPORA",
+    "grupo": 78
+  },
+  {
+    "id": "08556",
+    "pdm": "JOGO XADREZ",
+    "grupo": 78
+  },
+  {
+    "id": "08557",
+    "pdm": "JOGO FERRAMENTA",
+    "grupo": 78
+  },
+  {
+    "id": "08960",
+    "pdm": "LUVA DE BOXE",
+    "grupo": 78
+  },
+  {
+    "id": "08973",
+    "pdm": "LUVA HIDROGINÁSTICA",
+    "grupo": 78
+  },
+  {
+    "id": "09016",
+    "pdm": "MADEIRA PARA DIVERSAO",
+    "grupo": 78
+  },
+  {
+    "id": "09406",
+    "pdm": "MASCARA DE ESGRIMA",
+    "grupo": 78
+  },
+  {
+    "id": "09423",
+    "pdm": "MASSA MODELAR",
+    "grupo": 78
+  },
+  {
+    "id": "09496",
+    "pdm": "MATERIAL PEDAGÓGICO",
+    "grupo": 78
+  },
+  {
+    "id": "09624",
+    "pdm": "BOLA ESPORTIVA",
+    "grupo": 78
+  },
+  {
+    "id": "09629",
+    "pdm": "MESA DE PEBOLIM",
+    "grupo": 78
+  },
+  {
+    "id": "09632",
+    "pdm": "MESA DE SINUCA",
+    "grupo": 78
+  },
+  {
+    "id": "09634",
+    "pdm": "MESA TÊNIS DE MESA",
+    "grupo": 78
+  },
+  {
+    "id": "09653",
+    "pdm": "MESA PARA SINUCA",
+    "grupo": 78
+  },
+  {
+    "id": "09877",
+    "pdm": "MOLINETE DE USO EM PESCARIA",
+    "grupo": 78
+  },
+  {
+    "id": "09909",
+    "pdm": "MOSQUETÃO",
+    "grupo": 78
+  },
+  {
+    "id": 10019,
+    "pdm": "MUNHEQUEIRA",
+    "grupo": 78
+  },
+  {
+    "id": 10030,
+    "pdm": "PÓDIO",
+    "grupo": 78
+  },
+  {
+    "id": 10329,
+    "pdm": "PANAGEM - PARA CONFECCAO DE APARELHO DE PESCA",
+    "grupo": 78
+  },
+  {
+    "id": 10462,
+    "pdm": "PARQUE INFANTIL",
+    "grupo": 78
+  },
+  {
+    "id": 10506,
+    "pdm": "PATIM",
+    "grupo": 78
+  },
+  {
+    "id": 10507,
+    "pdm": "PATINETE",
+    "grupo": 78
+  },
+  {
+    "id": 10687,
+    "pdm": "PESO DE GINÁSTICA",
+    "grupo": 78
+  },
+  {
+    "id": 10688,
+    "pdm": "PESO PARA ARREMESSO",
+    "grupo": 78
+  },
+  {
+    "id": 10689,
+    "pdm": "PETECA",
+    "grupo": 78
+  },
+  {
+    "id": 10699,
+    "pdm": "PIAO - BRINQUEDO",
+    "grupo": 78
+  },
+  {
+    "id": 10897,
+    "pdm": "PLATAFORMA PARA GINÁSTICA",
+    "grupo": 78
+  },
+  {
+    "id": 11083,
+    "pdm": "PORTA PARA REDE - PESCA PROFISSIONAL",
+    "grupo": 78
+  },
+  {
+    "id": 11131,
+    "pdm": "PRANCHA PARA ABDOMINAL",
+    "grupo": 78
+  },
+  {
+    "id": 11132,
+    "pdm": "PRANCHA NATAÇÃO",
+    "grupo": 78
+  },
+  {
+    "id": 11414,
+    "pdm": "RAQUETE ESPORTIVA",
+    "grupo": 78
+  },
+  {
+    "id": 11503,
+    "pdm": "REDE ESPORTE",
+    "grupo": 78
+  },
+  {
+    "id": 11505,
+    "pdm": "REDE PESCA",
+    "grupo": 78
+  },
+  {
+    "id": 11510,
+    "pdm": "REDE COLETORA",
+    "grupo": 78
+  },
+  {
+    "id": 11907,
+    "pdm": "SACOLA DE MATERIAL ESPORTIVO",
+    "grupo": 78
+  },
+  {
+    "id": 12466,
+    "pdm": "TABULEIRO",
+    "grupo": 78
+  },
+  {
+    "id": 12476,
+    "pdm": "TACO DE ESPORTE",
+    "grupo": 78
+  },
+  {
+    "id": 12552,
+    "pdm": "TARRAFA",
+    "grupo": 78
+  },
+  {
+    "id": 12831,
+    "pdm": "TORNOZELEIRA",
+    "grupo": 78
+  },
+  {
+    "id": 12850,
+    "pdm": "TOUCA NATACAO",
+    "grupo": 78
+  },
+  {
+    "id": 12968,
+    "pdm": "TRICICLO INFANTIL",
+    "grupo": 78
+  },
+  {
+    "id": 13302,
+    "pdm": "VARA PESCA",
+    "grupo": 78
+  },
+  {
+    "id": 13368,
+    "pdm": "VELOCIPEDE",
+    "grupo": 78
+  },
+  {
+    "id": 14398,
+    "pdm": "PALMAR",
+    "grupo": 78
+  },
+  {
+    "id": 14417,
+    "pdm": "ESPAGUETE HIDROGINÁSTICA",
+    "grupo": 78
+  },
+  {
+    "id": 14832,
+    "pdm": "BOLA VOLEIBOL",
+    "grupo": 78
+  },
+  {
+    "id": 14833,
+    "pdm": "BOLA FUTSAL",
+    "grupo": 78
+  },
+  {
+    "id": 14835,
+    "pdm": "BOLA HANDEBOL",
+    "grupo": 78
+  },
+  {
+    "id": 14836,
+    "pdm": "BOLA BASQUETEBOL",
+    "grupo": 78
+  },
+  {
+    "id": 15146,
+    "pdm": "BOLA - MEDICINE BAL",
+    "grupo": 78
+  },
+  {
+    "id": 15153,
+    "pdm": "BASTÃO",
+    "grupo": 78
+  },
+  {
+    "id": 15172,
+    "pdm": "FITA GINÁSTICA RÍTMICA",
+    "grupo": 78
+  },
+  {
+    "id": 15216,
+    "pdm": "BARREIRA ATLETISMO",
+    "grupo": 78
+  },
+  {
+    "id": 15243,
+    "pdm": "ESTILETE GRD",
+    "grupo": 78
+  },
+  {
+    "id": 15285,
+    "pdm": "MAÇA",
+    "grupo": 78
+  },
+  {
+    "id": 15625,
+    "pdm": "FITA MARCAÇÃO ESPORTIVA",
+    "grupo": 78
+  },
+  {
+    "id": 15677,
+    "pdm": "RAIA ANTIMAROLA",
+    "grupo": 78
+  },
+  {
+    "id": 15679,
+    "pdm": "CATRACA RAIA ANTIMAROLA",
+    "grupo": 78
+  },
+  {
+    "id": 15681,
+    "pdm": "GANCHO RAIA ANTIMAROLA",
+    "grupo": 78
+  },
+  {
+    "id": 16189,
+    "pdm": "CORDA ELÁSTICA",
+    "grupo": 78
+  },
+  {
+    "id": 16190,
+    "pdm": "ANILHA",
+    "grupo": 78
+  },
+  {
+    "id": 16229,
+    "pdm": "BANCO SUECO",
+    "grupo": 78
+  },
+  {
+    "id": 16416,
+    "pdm": "REDE PUÇÁ",
+    "grupo": 78
+  },
+  {
+    "id": 16525,
+    "pdm": "PROTETOR PARA EMPUNHADURA",
+    "grupo": 78
+  },
+  {
+    "id": 17243,
+    "pdm": "FAIXA GRADUAÇÃO ESPORTIVA",
+    "grupo": 78
+  },
+  {
+    "id": 17244,
+    "pdm": "JOGOS, BRINQUEDOS E ARTIGOS CORRELATOS COM RODAS",
+    "grupo": 78
+  },
+  {
+    "id": 17245,
+    "pdm": "APOIO NATAÇÃO",
+    "grupo": 78
+  },
+  {
+    "id": 17443,
+    "pdm": "ANTENA REDE VOLEIBOL",
+    "grupo": 78
+  },
+  {
+    "id": 17468,
+    "pdm": "ESTANTE ANILHAS",
+    "grupo": 78
+  },
+  {
+    "id": 17469,
+    "pdm": "ESTANTE HALTERES",
+    "grupo": 78
+  },
+  {
+    "id": 17470,
+    "pdm": "SUPORTE BARRAS",
+    "grupo": 78
+  },
+  {
+    "id": 17496,
+    "pdm": "LUVA PARA GOLEIRO",
+    "grupo": 78
+  },
+  {
+    "id": 17574,
+    "pdm": "APARELHO GINÁSTICA",
+    "grupo": 78
+  },
+  {
+    "id": 17610,
+    "pdm": "PROTETOR GENITAL",
+    "grupo": 78
+  },
+  {
+    "id": 17733,
+    "pdm": "ROLO ESPUMA",
+    "grupo": 78
+  },
+  {
+    "id": 18452,
+    "pdm": "TATAME",
+    "grupo": 78
+  },
+  {
+    "id": 18453,
+    "pdm": "SACO PANCADA",
+    "grupo": 78
+  }
+]

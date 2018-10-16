@@ -1,0 +1,1412 @@
+[
+  {
+    "id": "01026",
+    "pdm": "FORNO ELÉTRICO",
+    "grupo": 73
+  },
+  {
+    "id": "01031",
+    "pdm": "DESPOLPADEIRA FRUTAS",
+    "grupo": 73
+  },
+  {
+    "id": "01032",
+    "pdm": "COLHER PAU",
+    "grupo": 73
+  },
+  {
+    "id": "01041",
+    "pdm": "FOGÃO GÁS",
+    "grupo": 73
+  },
+  {
+    "id": "01042",
+    "pdm": "FOGÃO LENHA",
+    "grupo": 73
+  },
+  {
+    "id": "01043",
+    "pdm": "FORNO LENHA",
+    "grupo": 73
+  },
+  {
+    "id": "01044",
+    "pdm": "FORNO ELÉTRICO PORTÁTIL",
+    "grupo": 73
+  },
+  {
+    "id": "01045",
+    "pdm": "FORNO MICROONDAS",
+    "grupo": 73
+  },
+  {
+    "id": "01046",
+    "pdm": "CAÇAROLA",
+    "grupo": 73
+  },
+  {
+    "id": "01055",
+    "pdm": "ASSADEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "01056",
+    "pdm": "CHAPA ASSADEIRA/FRITADEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "01057",
+    "pdm": "ASSADEIRA COZINHA COMERCIAL",
+    "grupo": 73
+  },
+  {
+    "id": "01058",
+    "pdm": "CALDEIRÃO",
+    "grupo": 73
+  },
+  {
+    "id": "01059",
+    "pdm": "ESCORREDOR MACARRÃO",
+    "grupo": 73
+  },
+  {
+    "id": "01060",
+    "pdm": "FORMA",
+    "grupo": 73
+  },
+  {
+    "id": "01068",
+    "pdm": "FOGAREIRO",
+    "grupo": 73
+  },
+  {
+    "id": "01069",
+    "pdm": "CAFETEIRA ELÉTRICA",
+    "grupo": 73
+  },
+  {
+    "id": "01070",
+    "pdm": "FOGÃO INDUSTRIAL",
+    "grupo": 73
+  },
+  {
+    "id": "01071",
+    "pdm": "ESPREMEDOR FRUTA",
+    "grupo": 73
+  },
+  {
+    "id": "01072",
+    "pdm": "JARRA TÉRMICA",
+    "grupo": 73
+  },
+  {
+    "id": "01073",
+    "pdm": "COADOR DESCARTÁVEL CAFÉ",
+    "grupo": 73
+  },
+  {
+    "id": "01075",
+    "pdm": "PANELA PRESSÃO",
+    "grupo": 73
+  },
+  {
+    "id": "01076",
+    "pdm": "ESPETO CHURRASCO",
+    "grupo": 73
+  },
+  {
+    "id": "01077",
+    "pdm": "AÇUCAREIRO",
+    "grupo": 73
+  },
+  {
+    "id": "01079",
+    "pdm": "BALDE GELO",
+    "grupo": 73
+  },
+  {
+    "id": "01080",
+    "pdm": "COPO",
+    "grupo": 73
+  },
+  {
+    "id": "01082",
+    "pdm": "ASSADEIRA DOMÉSTICA",
+    "grupo": 73
+  },
+  {
+    "id": "01083",
+    "pdm": "MANTEIGUEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "01093",
+    "pdm": "LIQUIDIFICADOR INDUSTRIAL",
+    "grupo": 73
+  },
+  {
+    "id": "01094",
+    "pdm": "BOMBONEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "01095",
+    "pdm": "CANECA CERÂMICA",
+    "grupo": 73
+  },
+  {
+    "id": "01097",
+    "pdm": "SANDUICHEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "01099",
+    "pdm": "CESTA PÃO",
+    "grupo": 73
+  },
+  {
+    "id": "01100",
+    "pdm": "BANDEJA METÁLICA",
+    "grupo": 73
+  },
+  {
+    "id": "01101",
+    "pdm": "COQUETELEIRA METÁLICA",
+    "grupo": 73
+  },
+  {
+    "id": "01102",
+    "pdm": "MOLHEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "01103",
+    "pdm": "PALITEIRO",
+    "grupo": 73
+  },
+  {
+    "id": "01104",
+    "pdm": "POTE ALIMENTOS",
+    "grupo": 73
+  },
+  {
+    "id": "01105",
+    "pdm": "FAQUEIRO",
+    "grupo": 73
+  },
+  {
+    "id": "01106",
+    "pdm": "MULTIPROCESSADOR ALIMENTOS",
+    "grupo": 73
+  },
+  {
+    "id": "01112",
+    "pdm": "CORTADOR ELÉTRICO FRIOS",
+    "grupo": 73
+  },
+  {
+    "id": "01113",
+    "pdm": "LAVA-LOUÇAS",
+    "grupo": 73
+  },
+  {
+    "id": "01114",
+    "pdm": "RALADOR ELÉTRICO",
+    "grupo": 73
+  },
+  {
+    "id": "01115",
+    "pdm": "GARRAFA TÉRMICA",
+    "grupo": 73
+  },
+  {
+    "id": "01117",
+    "pdm": "BULE",
+    "grupo": 73
+  },
+  {
+    "id": "01118",
+    "pdm": "PRATO PORCELANA",
+    "grupo": 73
+  },
+  {
+    "id": "01125",
+    "pdm": "PROCESSADOR ALIMENTOS",
+    "grupo": 73
+  },
+  {
+    "id": "01128",
+    "pdm": "GARFO TRINCHANTE",
+    "grupo": 73
+  },
+  {
+    "id": "01129",
+    "pdm": "GALHETEIRO METAL",
+    "grupo": 73
+  },
+  {
+    "id": "01130",
+    "pdm": "DESCASCADOR LEGUMES",
+    "grupo": 73
+  },
+  {
+    "id": "01132",
+    "pdm": "CONCHA",
+    "grupo": 73
+  },
+  {
+    "id": "01133",
+    "pdm": "BANDEJA",
+    "grupo": 73
+  },
+  {
+    "id": "01134",
+    "pdm": "POTE VIDRO",
+    "grupo": 73
+  },
+  {
+    "id": "01135",
+    "pdm": "ESPUMADEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "01138",
+    "pdm": "PRATO",
+    "grupo": 73
+  },
+  {
+    "id": "01139",
+    "pdm": "FACA MESA",
+    "grupo": 73
+  },
+  {
+    "id": "01140",
+    "pdm": "SOPEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "01142",
+    "pdm": "COLHER MESA",
+    "grupo": 73
+  },
+  {
+    "id": "01143",
+    "pdm": "SALEIRO PAREDE",
+    "grupo": 73
+  },
+  {
+    "id": "01145",
+    "pdm": "LEITEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "01146",
+    "pdm": "GARFO MESA",
+    "grupo": 73
+  },
+  {
+    "id": "01150",
+    "pdm": "FACA ELÉTRICA",
+    "grupo": 73
+  },
+  {
+    "id": "01151",
+    "pdm": "TRAVESSA",
+    "grupo": 73
+  },
+  {
+    "id": "01154",
+    "pdm": "XÍCARA",
+    "grupo": 73
+  },
+  {
+    "id": "01155",
+    "pdm": "PALITO",
+    "grupo": 73
+  },
+  {
+    "id": "01156",
+    "pdm": "PORTA-GUARDANAPO",
+    "grupo": 73
+  },
+  {
+    "id": "01212",
+    "pdm": "ABRIDOR GARRAFA",
+    "grupo": 73
+  },
+  {
+    "id": "01225",
+    "pdm": "ABRIDOR",
+    "grupo": 73
+  },
+  {
+    "id": "01235",
+    "pdm": "ABRIDOR LATA MOTORIZADO",
+    "grupo": 73
+  },
+  {
+    "id": "01287",
+    "pdm": "JARRA",
+    "grupo": 73
+  },
+  {
+    "id": "01430",
+    "pdm": "FACA DESCARTÁVEL",
+    "grupo": 73
+  },
+  {
+    "id": "01611",
+    "pdm": "ABRIDOR DE LATA",
+    "grupo": 73
+  },
+  {
+    "id": "01640",
+    "pdm": "ACENDEDOR A PEDRA DE FOGAO",
+    "grupo": 73
+  },
+  {
+    "id": "01643",
+    "pdm": "ACENDEDOR FOGÃO",
+    "grupo": 73
+  },
+  {
+    "id": "01644",
+    "pdm": "ACENDEDOR ELETRICO DE FOGAO",
+    "grupo": 73
+  },
+  {
+    "id": "01645",
+    "pdm": "ACENDEDOR ELETRONICO DE FOGAO",
+    "grupo": 73
+  },
+  {
+    "id": "02064",
+    "pdm": "PETISQUEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "02093",
+    "pdm": "ADAPTADOR GARRAFA TÉRMICA",
+    "grupo": 73
+  },
+  {
+    "id": "02141",
+    "pdm": "AFIADOR FACA MANUAL/ELÉTRICO",
+    "grupo": 73
+  },
+  {
+    "id": "02385",
+    "pdm": "AMACIADOR ELETRICO DE CARNE",
+    "grupo": 73
+  },
+  {
+    "id": "02393",
+    "pdm": "AMASSADOR ELETRICO DE ALIMENTO",
+    "grupo": 73
+  },
+  {
+    "id": "02394",
+    "pdm": "AMASSADOR ALIMENTO",
+    "grupo": 73
+  },
+  {
+    "id": "02423",
+    "pdm": "AMOLADOR ELETRICO DE FACA",
+    "grupo": 73
+  },
+  {
+    "id": "02424",
+    "pdm": "AMOLADOR MANUAL",
+    "grupo": 73
+  },
+  {
+    "id": "02663",
+    "pdm": "APARELHO COMPLETO SERVIÇO DE CAFÉ",
+    "grupo": 73
+  },
+  {
+    "id": "02664",
+    "pdm": "APARELHO COMPLETO DE SERVICO DE CHA",
+    "grupo": 73
+  },
+  {
+    "id": "02665",
+    "pdm": "APARELHO COMPLETO SERVIÇO DE JANTAR",
+    "grupo": 73
+  },
+  {
+    "id": "02928",
+    "pdm": "AQUECEDOR DE MARMITA",
+    "grupo": 73
+  },
+  {
+    "id": "02932",
+    "pdm": "AQUECEDOR DE XÍCARAS",
+    "grupo": 73
+  },
+  {
+    "id": "03074",
+    "pdm": "ARTIGO DE PLASTICO PARA MESA",
+    "grupo": 73
+  },
+  {
+    "id": "03193",
+    "pdm": "BACIA",
+    "grupo": 73
+  },
+  {
+    "id": "03205",
+    "pdm": "BAIXELA",
+    "grupo": 73
+  },
+  {
+    "id": "03206",
+    "pdm": "CONJUNTO BAIXELA",
+    "grupo": 73
+  },
+  {
+    "id": "03207",
+    "pdm": "BAIXELA DE PORCELANA",
+    "grupo": 73
+  },
+  {
+    "id": "03208",
+    "pdm": "BAIXELA DE PRATA",
+    "grupo": 73
+  },
+  {
+    "id": "03244",
+    "pdm": "BALCÃO CONSERVAÇÃO ALIMENTO",
+    "grupo": 73
+  },
+  {
+    "id": "03300",
+    "pdm": "BANDEJA DE AÇO",
+    "grupo": 73
+  },
+  {
+    "id": "03304",
+    "pdm": "BANDEJA DE CERAMICA DE REFEICAO",
+    "grupo": 73
+  },
+  {
+    "id": "03307",
+    "pdm": "BANDEJA DE PLASTICO DE REFEICAO",
+    "grupo": 73
+  },
+  {
+    "id": "03309",
+    "pdm": "BANDEJA DE REFEIÇÃO",
+    "grupo": 73
+  },
+  {
+    "id": "03443",
+    "pdm": "BATEDEIRA ELETRICA DE BOLO",
+    "grupo": 73
+  },
+  {
+    "id": "03445",
+    "pdm": "BATEDEIRA DOMÉSTICA",
+    "grupo": 73
+  },
+  {
+    "id": "03448",
+    "pdm": "BATEDOR MANUAL",
+    "grupo": 73
+  },
+  {
+    "id": "03529",
+    "pdm": "UTENSÍLIOS / ACESSÓRIOS PARA CONFEITAR",
+    "grupo": 73
+  },
+  {
+    "id": "03812",
+    "pdm": "BORRACHA VEDAÇÃO PANELA DE PRESSÃO",
+    "grupo": 73
+  },
+  {
+    "id": "04105",
+    "pdm": "PEÇAS / ACESSÓRIOS ELETRODOMÉSTICOS",
+    "grupo": 73
+  },
+  {
+    "id": "04106",
+    "pdm": "CAFETEIRA ELETRICA",
+    "grupo": 73
+  },
+  {
+    "id": "04107",
+    "pdm": "CAFETEIRA NÃO ELÉTRICA",
+    "grupo": 73
+  },
+  {
+    "id": "04230",
+    "pdm": "CALDEIRAO",
+    "grupo": 73
+  },
+  {
+    "id": "04400",
+    "pdm": "CANECA",
+    "grupo": 73
+  },
+  {
+    "id": "04401",
+    "pdm": "CANECA DE PLÁSTICO",
+    "grupo": 73
+  },
+  {
+    "id": "04402",
+    "pdm": "CANECA DE ACRÍLICO",
+    "grupo": 73
+  },
+  {
+    "id": "04436",
+    "pdm": "CANUDO REFRESCO",
+    "grupo": 73
+  },
+  {
+    "id": "04586",
+    "pdm": "CARRINHO DISTRIBUIÇÃO",
+    "grupo": 73
+  },
+  {
+    "id": "04607",
+    "pdm": "SOCADOR",
+    "grupo": 73
+  },
+  {
+    "id": "04758",
+    "pdm": "CENTRIFUGA COZINHA",
+    "grupo": 73
+  },
+  {
+    "id": "04806",
+    "pdm": "CHALEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "04807",
+    "pdm": "CHALEIRA DE VIDRO",
+    "grupo": 73
+  },
+  {
+    "id": "04829",
+    "pdm": "CHAPA FOGÃO EM FERRO FUNDIDO",
+    "grupo": 73
+  },
+  {
+    "id": "04974",
+    "pdm": "CHURRASQUEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "05282",
+    "pdm": "COADOR CAFÉ",
+    "grupo": 73
+  },
+  {
+    "id": "05283",
+    "pdm": "COADOR TIPO PENEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "05362",
+    "pdm": "COLHER",
+    "grupo": 73
+  },
+  {
+    "id": "05638",
+    "pdm": "CONJUNTO FORMAS DE COZINHA",
+    "grupo": 73
+  },
+  {
+    "id": "05690",
+    "pdm": "CONJUNTO ALIMENTAÇÃO",
+    "grupo": 73
+  },
+  {
+    "id": "05846",
+    "pdm": "COPO CRISTAL",
+    "grupo": 73
+  },
+  {
+    "id": "05847",
+    "pdm": "COPO DE LIQUIDIFICADOR",
+    "grupo": 73
+  },
+  {
+    "id": "05848",
+    "pdm": "COPO DE VIDRO",
+    "grupo": 73
+  },
+  {
+    "id": "05849",
+    "pdm": "COPO DESCARTÁVEL",
+    "grupo": 73
+  },
+  {
+    "id": "05850",
+    "pdm": "COQUETELEIRA DE CERAMICA",
+    "grupo": 73
+  },
+  {
+    "id": "05927",
+    "pdm": "PICADOR LEGUMES",
+    "grupo": 73
+  },
+  {
+    "id": "05929",
+    "pdm": "CORTADOR MANUAL DE FRIOS",
+    "grupo": 73
+  },
+  {
+    "id": "06075",
+    "pdm": "DESCASCADOR OVO",
+    "grupo": 73
+  },
+  {
+    "id": "06262",
+    "pdm": "DISCO FATIADOR DE MAQUINA DE CORTAR FRIOS",
+    "grupo": 73
+  },
+  {
+    "id": "06350",
+    "pdm": "DISTRIBUIDOR CHAMA DE FOGÃO",
+    "grupo": 73
+  },
+  {
+    "id": "06354",
+    "pdm": "DISTRIBUIDOR REFRIGERANTE",
+    "grupo": 73
+  },
+  {
+    "id": "06355",
+    "pdm": "DISTRIBUIDOR SORVETE",
+    "grupo": 73
+  },
+  {
+    "id": "06392",
+    "pdm": "DOSADOR INOX - GARRAFA",
+    "grupo": 73
+  },
+  {
+    "id": "06654",
+    "pdm": "EQUIPAMENTO CONJUGADO COM UNIDADE DE AQUECIMENTO DE ALIMENTO",
+    "grupo": 73
+  },
+  {
+    "id": "06679",
+    "pdm": "EQUIPAMENTO DE COZINHA DE AERONAVE",
+    "grupo": 73
+  },
+  {
+    "id": "06680",
+    "pdm": "EQUIPAMENTO DE COZINHA DE VEICULO FERROVIARIO",
+    "grupo": 73
+  },
+  {
+    "id": "06681",
+    "pdm": "EQUIPAMENTO DE COZINHA DOMESTICA",
+    "grupo": 73
+  },
+  {
+    "id": "06784",
+    "pdm": "EQUIPAMENTO ESPECIALIZADO DE COZINHA DE AERONAVE",
+    "grupo": 73
+  },
+  {
+    "id": "06992",
+    "pdm": "ESPÁTULA DE FRITURA",
+    "grupo": 73
+  },
+  {
+    "id": "07160",
+    "pdm": "ESPÁTULA",
+    "grupo": 73
+  },
+  {
+    "id": "07210",
+    "pdm": "ESTUFA A GAS PARA COZINHA",
+    "grupo": 73
+  },
+  {
+    "id": "07213",
+    "pdm": "ESTUFA ELÉTRICA PARA COZINHA",
+    "grupo": 73
+  },
+  {
+    "id": "07276",
+    "pdm": "FACA",
+    "grupo": 73
+  },
+  {
+    "id": "07296",
+    "pdm": "FARINHEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "07475",
+    "pdm": "FILTRO DE PAPEL PARA OLEO ALIMENTICIO",
+    "grupo": 73
+  },
+  {
+    "id": "07678",
+    "pdm": "FOGAO ELETRICO TIPO DOMESTICO",
+    "grupo": 73
+  },
+  {
+    "id": "07679",
+    "pdm": "FOGAREIRO ELÉTRICO",
+    "grupo": 73
+  },
+  {
+    "id": "07729",
+    "pdm": "FORMA PARA EMPADA",
+    "grupo": 73
+  },
+  {
+    "id": "07754",
+    "pdm": "FORNO A GAS PARA COZINHA",
+    "grupo": 73
+  },
+  {
+    "id": "07760",
+    "pdm": "FORNO DE CAMPANHA",
+    "grupo": 73
+  },
+  {
+    "id": "07763",
+    "pdm": "FORNO ELETRICO PORTATIL",
+    "grupo": 73
+  },
+  {
+    "id": "07766",
+    "pdm": "FORNO PARA ASSAR",
+    "grupo": 73
+  },
+  {
+    "id": "07843",
+    "pdm": "FRIGIDEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "07844",
+    "pdm": "FRIGIDEIRA ELÉTRICA",
+    "grupo": 73
+  },
+  {
+    "id": "07855",
+    "pdm": "FRUTEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "07876",
+    "pdm": "FURADOR MANUAL DE COCO",
+    "grupo": 73
+  },
+  {
+    "id": "07905",
+    "pdm": "GALHETEIRO",
+    "grupo": 73
+  },
+  {
+    "id": "07906",
+    "pdm": "GALHETEIRO DE CERAMICA",
+    "grupo": 73
+  },
+  {
+    "id": "07907",
+    "pdm": "GALHETEIRO DE PLASTICO",
+    "grupo": 73
+  },
+  {
+    "id": "07926",
+    "pdm": "GARFO PARA FRITURA",
+    "grupo": 73
+  },
+  {
+    "id": "08105",
+    "pdm": "FRITADEIRA",
+    "grupo": 73
+  },
+  {
+    "id": "08462",
+    "pdm": "INVOLUCRO DE ALIMENTO",
+    "grupo": 73
+  },
+  {
+    "id": "08477",
+    "pdm": "IOGURTEIRA ELÉTRICA",
+    "grupo": 73
+  },
+  {
+    "id": "08551",
+    "pdm": "JOGO DE TALHERES",
+    "grupo": 73
+  },
+  {
+    "id": "08554",
+    "pdm": "JOGO DE UTENSÍLIO DE COZINHA",
+    "grupo": 73
+  },
+  {
+    "id": "08924",
+    "pdm": "LOUCA DE CRISTAL",
+    "grupo": 73
+  },
+  {
+    "id": "08926",
+    "pdm": "LOUCA EM GERAL",
+    "grupo": 73
+  },
+  {
+    "id": "09383",
+    "pdm": "MARMITA",
+    "grupo": 73
+  },
+  {
+    "id": "09384",
+    "pdm": "MARMITA PARA REFEICAO",
+    "grupo": 73
+  },
+  {
+    "id": "09447",
+    "pdm": "MATERIAL DE COPA E COZINHA",
+    "grupo": 73
+  },
+  {
+    "id": "09603",
+    "pdm": "MERGULHÃO ELÉTRICO",
+    "grupo": 73
+  },
+  {
+    "id": "09609",
+    "pdm": "MESA A VAPOR FIXA",
+    "grupo": 73
+  },
+  {
+    "id": "09610",
+    "pdm": "MESA A VAPOR PORTATIL",
+    "grupo": 73
+  },
+  {
+    "id": "09617",
+    "pdm": "MESA COM AQUECIMENTO FIXO - COZINHAR, ASSAR E SERVIR ALIMENTO",
+    "grupo": 73
+  },
+  {
+    "id": "09618",
+    "pdm": "MESA COM AQUECIMENTO PORTATIL - COZINHAR, ASSAR E SERVIR ALIMENTO",
+    "grupo": 73
+  },
+  {
+    "id": "09619",
+    "pdm": "MESA COM RESFRIAMENTO FIXO - SERVIR ALIMENTO",
+    "grupo": 73
+  },
+  {
+    "id": "09620",
+    "pdm": "MESA COM RESFRIAMENTO PORTATIL - SERVIR ALIMENTO",
+    "grupo": 73
+  },
+  {
+    "id": "09843",
+    "pdm": "MOEDOR DE ALIMENTO - PEÇA / COMPONENTE",
+    "grupo": 73
+  },
+  {
+    "id": "09844",
+    "pdm": "MOEDOR DE CARNE INDUSTRIAL",
+    "grupo": 73
+  },
+  {
+    "id": "09873",
+    "pdm": "MOLHEIRA DE CERAMICA",
+    "grupo": 73
+  },
+  {
+    "id": 10268,
+    "pdm": "PÁ CULINÁRIA",
+    "grupo": 73
+  },
+  {
+    "id": 10270,
+    "pdm": "PA - COZINHA",
+    "grupo": 73
+  },
+  {
+    "id": 10334,
+    "pdm": "PANELA",
+    "grupo": 73
+  },
+  {
+    "id": 10335,
+    "pdm": "PANELA DE CERAMICA",
+    "grupo": 73
+  },
+  {
+    "id": 10336,
+    "pdm": "PANELA DE METAL",
+    "grupo": 73
+  },
+  {
+    "id": 10337,
+    "pdm": "PANELA DE PRATA ( RECHAUD )",
+    "grupo": 73
+  },
+  {
+    "id": 10338,
+    "pdm": "PANELA DE VIDRO",
+    "grupo": 73
+  },
+  {
+    "id": 10595,
+    "pdm": "PEGADOR ALIMENTO",
+    "grupo": 73
+  },
+  {
+    "id": 10617,
+    "pdm": "PENEIRA COZINHA",
+    "grupo": 73
+  },
+  {
+    "id": 10762,
+    "pdm": "PIRES DE XICARA",
+    "grupo": 73
+  },
+  {
+    "id": 11036,
+    "pdm": "PORTA-COPO",
+    "grupo": 73
+  },
+  {
+    "id": 11067,
+    "pdm": "PORTA COADOR CAFE",
+    "grupo": 73
+  },
+  {
+    "id": 11115,
+    "pdm": "POTE DE CONDIMENTO",
+    "grupo": 73
+  },
+  {
+    "id": 11365,
+    "pdm": "QUEBRA - GELO",
+    "grupo": 73
+  },
+  {
+    "id": 11367,
+    "pdm": "QUEBRA - NOZES",
+    "grupo": 73
+  },
+  {
+    "id": 11401,
+    "pdm": "RALADOR ALIMENTO",
+    "grupo": 73
+  },
+  {
+    "id": 11481,
+    "pdm": "RECIPIENTE DE ALUMINIO - MANTIMENTO / ALIMENTO",
+    "grupo": 73
+  },
+  {
+    "id": 11482,
+    "pdm": "MORINGA",
+    "grupo": 73
+  },
+  {
+    "id": 11492,
+    "pdm": "RECIPIENTE ALIMENTOS",
+    "grupo": 73
+  },
+  {
+    "id": 11519,
+    "pdm": "REFIL BANDEJA TÉRMICA",
+    "grupo": 73
+  },
+  {
+    "id": 11520,
+    "pdm": "REFIL - SOPEIRA TERMICA",
+    "grupo": 73
+  },
+  {
+    "id": 11535,
+    "pdm": "REFRESQUEIRA",
+    "grupo": 73
+  },
+  {
+    "id": 11826,
+    "pdm": "ROLO MASSA",
+    "grupo": 73
+  },
+  {
+    "id": 11880,
+    "pdm": "SACA - ROLHA",
+    "grupo": 73
+  },
+  {
+    "id": 11881,
+    "pdm": "SACA - ROLHA A GAS",
+    "grupo": 73
+  },
+  {
+    "id": 11916,
+    "pdm": "SALADEIRA",
+    "grupo": 73
+  },
+  {
+    "id": 11918,
+    "pdm": "SALEIRO",
+    "grupo": 73
+  },
+  {
+    "id": 12390,
+    "pdm": "SUPORTE DE GARRAFAO DE AGUA",
+    "grupo": 73
+  },
+  {
+    "id": 12410,
+    "pdm": "SUPORTE PARA COPO",
+    "grupo": 73
+  },
+  {
+    "id": 12427,
+    "pdm": "SUPORTE XÍCARA DESCARTÁVEL",
+    "grupo": 73
+  },
+  {
+    "id": 12461,
+    "pdm": "PRANCHA ALIMENTOS",
+    "grupo": 73
+  },
+  {
+    "id": 12468,
+    "pdm": "TAÇA",
+    "grupo": 73
+  },
+  {
+    "id": 12474,
+    "pdm": "TACHO",
+    "grupo": 73
+  },
+  {
+    "id": 12475,
+    "pdm": "TACHO DE CERAMICA",
+    "grupo": 73
+  },
+  {
+    "id": 12499,
+    "pdm": "TALHER DE COZINHA",
+    "grupo": 73
+  },
+  {
+    "id": 12500,
+    "pdm": "TALHER DE MESA",
+    "grupo": 73
+  },
+  {
+    "id": 12501,
+    "pdm": "TALHER DESCARTÁVEL",
+    "grupo": 73
+  },
+  {
+    "id": 12722,
+    "pdm": "TIGELA",
+    "grupo": 73
+  },
+  {
+    "id": 12793,
+    "pdm": "TOALHA PAPEL MESA",
+    "grupo": 73
+  },
+  {
+    "id": 12836,
+    "pdm": "TORRADEIRA DE PÃO",
+    "grupo": 73
+  },
+  {
+    "id": 12837,
+    "pdm": "TORRADOR",
+    "grupo": 73
+  },
+  {
+    "id": 13206,
+    "pdm": "UTENSILIO CONJUGADO COM UNIDADE DE AQUECIMENTO DE ALIMENTO",
+    "grupo": 73
+  },
+  {
+    "id": 13488,
+    "pdm": "XÍCARA DESCARTÁVEL",
+    "grupo": 73
+  },
+  {
+    "id": 13532,
+    "pdm": "ARTIGO DE CRISTAL PARA MESA",
+    "grupo": 73
+  },
+  {
+    "id": 13533,
+    "pdm": "ARTIGO DE PORCELANA PARA MESA",
+    "grupo": 73
+  },
+  {
+    "id": 13534,
+    "pdm": "ARTIGO DE VIDRO PARA MESA",
+    "grupo": 73
+  },
+  {
+    "id": 13562,
+    "pdm": "ESPREMEDOR LEGUME",
+    "grupo": 73
+  },
+  {
+    "id": 13581,
+    "pdm": "LIQUIDIFICADOR",
+    "grupo": 73
+  },
+  {
+    "id": 13586,
+    "pdm": "CILINDRO ELÉTRICO",
+    "grupo": 73
+  },
+  {
+    "id": 13792,
+    "pdm": "FOGÃO SEMI-INDUSTRIAL",
+    "grupo": 73
+  },
+  {
+    "id": 14036,
+    "pdm": "ESPÁTULA",
+    "grupo": 73
+  },
+  {
+    "id": 14109,
+    "pdm": "DESCASCADOR INDUSTRIAL",
+    "grupo": 73
+  },
+  {
+    "id": 14291,
+    "pdm": "GRELHA",
+    "grupo": 73
+  },
+  {
+    "id": 14460,
+    "pdm": "ESCORREDOR",
+    "grupo": 73
+  },
+  {
+    "id": 14491,
+    "pdm": "DESCASCADOR BATATA",
+    "grupo": 73
+  },
+  {
+    "id": 14921,
+    "pdm": "COLHER DESCARTÁVEL",
+    "grupo": 73
+  },
+  {
+    "id": 15023,
+    "pdm": "FOGÃO PASTELEIRO",
+    "grupo": 73
+  },
+  {
+    "id": 15328,
+    "pdm": "BANHO MARIA",
+    "grupo": 73
+  },
+  {
+    "id": 15341,
+    "pdm": "MESA DECANTAÇÃO",
+    "grupo": 73
+  },
+  {
+    "id": 15350,
+    "pdm": "BATEDOR MILK SHAKE",
+    "grupo": 73
+  },
+  {
+    "id": 15550,
+    "pdm": "ESCORREDOR LOUÇA",
+    "grupo": 73
+  },
+  {
+    "id": 15564,
+    "pdm": "MÁQUINA CAFÉ",
+    "grupo": 73
+  },
+  {
+    "id": 15593,
+    "pdm": "FILTRO DESCARTÁVEL CAFÉ",
+    "grupo": 73
+  },
+  {
+    "id": 15754,
+    "pdm": "PORTA-CANUDO",
+    "grupo": 73
+  },
+  {
+    "id": 15786,
+    "pdm": "TAMPA CALDEIRÃO",
+    "grupo": 73
+  },
+  {
+    "id": 15858,
+    "pdm": "SUPORTE FILTRO CAFÉ",
+    "grupo": 73
+  },
+  {
+    "id": 15930,
+    "pdm": "CAIXA TALHERES",
+    "grupo": 73
+  },
+  {
+    "id": 15960,
+    "pdm": "COMPONENTE CORTADOR LEGUMES",
+    "grupo": 73
+  },
+  {
+    "id": 16036,
+    "pdm": "CONJUNTO DE POTES",
+    "grupo": 73
+  },
+  {
+    "id": 16080,
+    "pdm": "CORTADOR",
+    "grupo": 73
+  },
+  {
+    "id": 16152,
+    "pdm": "TAMPA COPO",
+    "grupo": 73
+  },
+  {
+    "id": 16378,
+    "pdm": "PENEIRA FRITURA",
+    "grupo": 73
+  },
+  {
+    "id": 16379,
+    "pdm": "TABULEIRO COZINHA",
+    "grupo": 73
+  },
+  {
+    "id": 16422,
+    "pdm": "EQUIPAMENTO MULTIUSO COZINHA",
+    "grupo": 73
+  },
+  {
+    "id": 16429,
+    "pdm": "PANELA CUSCUZ",
+    "grupo": 73
+  },
+  {
+    "id": 16480,
+    "pdm": "CONJUNTO SALADEIRA",
+    "grupo": 73
+  },
+  {
+    "id": 16507,
+    "pdm": "CANECO DE METAL",
+    "grupo": 73
+  },
+  {
+    "id": 16654,
+    "pdm": "MODELADOR HAMBURGUER",
+    "grupo": 73
+  },
+  {
+    "id": 16655,
+    "pdm": "TRITURADOR",
+    "grupo": 73
+  },
+  {
+    "id": 17209,
+    "pdm": "EQUIPAMENTOS PARA COZINHAR, ASSAR E SERVIR ALIMENTOS",
+    "grupo": 73
+  },
+  {
+    "id": 17210,
+    "pdm": "MISTURADEIRA ALIMENTOS",
+    "grupo": 73
+  },
+  {
+    "id": 17211,
+    "pdm": "PORTA SABÃO, DETERGENTE E ESPONJA",
+    "grupo": 73
+  },
+  {
+    "id": 17212,
+    "pdm": "CUTELARIA E TALHERES",
+    "grupo": 73
+  },
+  {
+    "id": 17213,
+    "pdm": "LOUÇA E ARTIGOS DE MESA",
+    "grupo": 73
+  },
+  {
+    "id": 17214,
+    "pdm": "JOGOS, CONJUNTOS E EQUIPAMENTOS PARA PREPARAR E SERVIR ALIMENTOS",
+    "grupo": 73
+  },
+  {
+    "id": 17611,
+    "pdm": "DESCASCADOR LARANJA",
+    "grupo": 73
+  },
+  {
+    "id": 17617,
+    "pdm": "PORTA-PATÊ",
+    "grupo": 73
+  },
+  {
+    "id": 17704,
+    "pdm": "FOGÃO ELÉTRICO",
+    "grupo": 73
+  },
+  {
+    "id": 17712,
+    "pdm": "CUTELO",
+    "grupo": 73
+  },
+  {
+    "id": 17776,
+    "pdm": "CHAVE PARA AMACIADORA CARNE",
+    "grupo": 73
+  },
+  {
+    "id": 17793,
+    "pdm": "GARFO PARA ASSADO",
+    "grupo": 73
+  },
+  {
+    "id": 17809,
+    "pdm": "APARELHO COZIMENTO FIAMBRE",
+    "grupo": 73
+  },
+  {
+    "id": 17826,
+    "pdm": "SAMOVAR",
+    "grupo": 73
+  },
+  {
+    "id": 17922,
+    "pdm": "CORTADOR PIZZA",
+    "grupo": 73
+  },
+  {
+    "id": 18049,
+    "pdm": "CAIXA DECANTAÇÃO",
+    "grupo": 73
+  },
+  {
+    "id": 18163,
+    "pdm": "PORTA ADOÇANTE",
+    "grupo": 73
+  },
+  {
+    "id": 18599,
+    "pdm": "FORMA PAPEL",
+    "grupo": 73
+  }
+]

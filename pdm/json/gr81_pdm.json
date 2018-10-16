@@ -1,0 +1,1047 @@
+[
+  {
+    "id": "00112",
+    "pdm": "TUBO PORTA-DOCUMENTO",
+    "grupo": 81
+  },
+  {
+    "id": "01178",
+    "pdm": "CILINDRO GÁS",
+    "grupo": 81
+  },
+  {
+    "id": "01186",
+    "pdm": "SACO IMPERMEÁVEL",
+    "grupo": 81
+  },
+  {
+    "id": "01187",
+    "pdm": "TAMBOR",
+    "grupo": 81
+  },
+  {
+    "id": "01272",
+    "pdm": "ENGRADADO MADEIRA",
+    "grupo": 81
+  },
+  {
+    "id": "01273",
+    "pdm": "BOBINA PLÁSTICA",
+    "grupo": 81
+  },
+  {
+    "id": "01275",
+    "pdm": "EMBALAGEM PLÁSTICA",
+    "grupo": 81
+  },
+  {
+    "id": "01281",
+    "pdm": "GARRAFÃO",
+    "grupo": 81
+  },
+  {
+    "id": "01283",
+    "pdm": "SELO EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "01309",
+    "pdm": "FITA ALUMÍNIO",
+    "grupo": 81
+  },
+  {
+    "id": "01310",
+    "pdm": "PAPEL EMBRULHO",
+    "grupo": 81
+  },
+  {
+    "id": "01341",
+    "pdm": "BOTIJÃO GÁS LIQUEFEITO DE PETRÓLEO - GLP",
+    "grupo": 81
+  },
+  {
+    "id": "01342",
+    "pdm": "AMPOLA GARRAFA TÉRMICA",
+    "grupo": 81
+  },
+  {
+    "id": "01343",
+    "pdm": "VÁLVULA REGULADORA CILINDRO GÁS",
+    "grupo": 81
+  },
+  {
+    "id": "01344",
+    "pdm": "FILME EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "01345",
+    "pdm": "FITA PLÁSTICA",
+    "grupo": 81
+  },
+  {
+    "id": "01346",
+    "pdm": "PALETE",
+    "grupo": 81
+  },
+  {
+    "id": "01347",
+    "pdm": "PAPEL FILME",
+    "grupo": 81
+  },
+  {
+    "id": "01348",
+    "pdm": "PAPEL IMPERMEÁVEL",
+    "grupo": 81
+  },
+  {
+    "id": "01349",
+    "pdm": "PLÁSTICO BOLHA",
+    "grupo": 81
+  },
+  {
+    "id": "01384",
+    "pdm": "BOTIJA",
+    "grupo": 81
+  },
+  {
+    "id": "01387",
+    "pdm": "GARRAFA",
+    "grupo": 81
+  },
+  {
+    "id": "01388",
+    "pdm": "ARAME PARA ENFARDAMENTO",
+    "grupo": 81
+  },
+  {
+    "id": "01389",
+    "pdm": "PAPEL ALUMÍNIO",
+    "grupo": 81
+  },
+  {
+    "id": "01390",
+    "pdm": "TALCO INDUSTRIAL",
+    "grupo": 81
+  },
+  {
+    "id": "01429",
+    "pdm": "EMBALAGEM ISOPOR",
+    "grupo": 81
+  },
+  {
+    "id": "01528",
+    "pdm": "ACOLCHOADO TRANSPORTE BENS",
+    "grupo": 81
+  },
+  {
+    "id": "02091",
+    "pdm": "REGULADOR DE CILINDRO DE GAS",
+    "grupo": 81
+  },
+  {
+    "id": "02282",
+    "pdm": "ALFORGE",
+    "grupo": 81
+  },
+  {
+    "id": "02346",
+    "pdm": "ALMOFADA EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "02459",
+    "pdm": "AMPOLA",
+    "grupo": 81
+  },
+  {
+    "id": "02460",
+    "pdm": "AMPOLA CONTA - GOTAS",
+    "grupo": 81
+  },
+  {
+    "id": "02651",
+    "pdm": "APARELHO ARQUEADOR DE FITA DE ACO",
+    "grupo": 81
+  },
+  {
+    "id": "02652",
+    "pdm": "APARELHO ARQUEADOR FITA",
+    "grupo": 81
+  },
+  {
+    "id": "02805",
+    "pdm": "APARELHO MUNICIADOR DE PAPEL GOMADO",
+    "grupo": 81
+  },
+  {
+    "id": "03022",
+    "pdm": "ARO DE BARRIL",
+    "grupo": 81
+  },
+  {
+    "id": "03024",
+    "pdm": "ARO DE TAMBOR",
+    "grupo": 81
+  },
+  {
+    "id": "03250",
+    "pdm": "BALDE",
+    "grupo": 81
+  },
+  {
+    "id": "03251",
+    "pdm": "BALDE DE ARMAZENAMENTO DE MATERIAL",
+    "grupo": 81
+  },
+  {
+    "id": "03254",
+    "pdm": "BALDE DE TRANSPORTE DE MATERIAL",
+    "grupo": 81
+  },
+  {
+    "id": "03299",
+    "pdm": "BANDEJA",
+    "grupo": 81
+  },
+  {
+    "id": "03301",
+    "pdm": "SUPORTE EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "03400",
+    "pdm": "BARRICA",
+    "grupo": 81
+  },
+  {
+    "id": "03401",
+    "pdm": "BARRIL",
+    "grupo": 81
+  },
+  {
+    "id": "03403",
+    "pdm": "BARRILETE",
+    "grupo": 81
+  },
+  {
+    "id": "03572",
+    "pdm": "BISNAGA",
+    "grupo": 81
+  },
+  {
+    "id": "03643",
+    "pdm": "BOBINA PARA CABO ELETRICO",
+    "grupo": 81
+  },
+  {
+    "id": "03644",
+    "pdm": "BOBINA PARA FIO ELÉTRICO",
+    "grupo": 81
+  },
+  {
+    "id": "03688",
+    "pdm": "BOLSA DE ALGODAO",
+    "grupo": 81
+  },
+  {
+    "id": "03689",
+    "pdm": "BOLSA DE ALUMINIO",
+    "grupo": 81
+  },
+  {
+    "id": "03690",
+    "pdm": "BOLSA DE CORRESPONDENCIA",
+    "grupo": 81
+  },
+  {
+    "id": "03693",
+    "pdm": "BOLSA DE FIBRA NATURAL",
+    "grupo": 81
+  },
+  {
+    "id": "03694",
+    "pdm": "BOLSA DE FIBRA SINTÉTICA",
+    "grupo": 81
+  },
+  {
+    "id": "03695",
+    "pdm": "BOLSA DE JUTA",
+    "grupo": 81
+  },
+  {
+    "id": "03696",
+    "pdm": "BOLSA",
+    "grupo": 81
+  },
+  {
+    "id": "03697",
+    "pdm": "BOLSA DE PAPEL",
+    "grupo": 81
+  },
+  {
+    "id": "03698",
+    "pdm": "BOLSA PLÁSTICO",
+    "grupo": 81
+  },
+  {
+    "id": "03702",
+    "pdm": "BOLSA IMPERMEAVEL",
+    "grupo": 81
+  },
+  {
+    "id": "03799",
+    "pdm": "BOMBONA",
+    "grupo": 81
+  },
+  {
+    "id": "04129",
+    "pdm": "CAIXA DE EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "04138",
+    "pdm": "CAIXA TRANSPORTE ANIMAL",
+    "grupo": 81
+  },
+  {
+    "id": "04142",
+    "pdm": "CAIXA EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "04143",
+    "pdm": "CAIXA DE PAPELAO DOBRAVEL",
+    "grupo": 81
+  },
+  {
+    "id": "04144",
+    "pdm": "CAIXA DE PAPELAO PARA TRANSPORTE INDIVIDUAL DE FITA MAGNETICA",
+    "grupo": 81
+  },
+  {
+    "id": "04150",
+    "pdm": "CAIXA DE TRANSPORTE DE BEBIDA ( ENGRADADO )",
+    "grupo": 81
+  },
+  {
+    "id": "04151",
+    "pdm": "CAIXA TRANSPORTE MOTOR",
+    "grupo": 81
+  },
+  {
+    "id": "04162",
+    "pdm": "CAIXA",
+    "grupo": 81
+  },
+  {
+    "id": "04165",
+    "pdm": "CAIXA PARA TRANSPORTE DE SAPATO",
+    "grupo": 81
+  },
+  {
+    "id": "04167",
+    "pdm": "CAIXA GUARDA ANIMAIS",
+    "grupo": 81
+  },
+  {
+    "id": "04183",
+    "pdm": "CAIXOTE MADEIRA",
+    "grupo": 81
+  },
+  {
+    "id": "04499",
+    "pdm": "CÁPSULA",
+    "grupo": 81
+  },
+  {
+    "id": "04574",
+    "pdm": "CARRETEL DE EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "04575",
+    "pdm": "CARRETEL",
+    "grupo": 81
+  },
+  {
+    "id": "04991",
+    "pdm": "CILINDRO AMOSTRA - USO LABORATORIO",
+    "grupo": 81
+  },
+  {
+    "id": "04992",
+    "pdm": "CILINDRO",
+    "grupo": 81
+  },
+  {
+    "id": "04996",
+    "pdm": "CILINDRO DE TRANSPORTE E GUARDA DE DOCUMENTOS",
+    "grupo": 81
+  },
+  {
+    "id": "05002",
+    "pdm": "CILINDRO DOCUMENTO",
+    "grupo": 81
+  },
+  {
+    "id": "05792",
+    "pdm": "CONTAINER",
+    "grupo": 81
+  },
+  {
+    "id": "05793",
+    "pdm": "CONTAINER - FRIGORIFICO",
+    "grupo": 81
+  },
+  {
+    "id": "05794",
+    "pdm": "CONTAINER - TELEFONIA MOVEL",
+    "grupo": 81
+  },
+  {
+    "id": "05798",
+    "pdm": "CONTENTOR",
+    "grupo": 81
+  },
+  {
+    "id": "06366",
+    "pdm": "DIVISÓRIA DE EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "06492",
+    "pdm": "EMBALAGEM PRODUTO FARMACÊUTICO",
+    "grupo": 81
+  },
+  {
+    "id": "06494",
+    "pdm": "EMBALAGEM DE ARMAZENAGEM - EXPLOSIVO",
+    "grupo": 81
+  },
+  {
+    "id": "06495",
+    "pdm": "EMBALAGEM DE ARMAZENAGEM - PRODUCAO QUIMICO MILITAR",
+    "grupo": 81
+  },
+  {
+    "id": "06498",
+    "pdm": "EMBALAGEM PARA ARMAZENAGEM - MUNICAO",
+    "grupo": 81
+  },
+  {
+    "id": "06499",
+    "pdm": "EMBALAGEM PARA MANUSEIO DE AGENTE QUIMICO MILITAR",
+    "grupo": 81
+  },
+  {
+    "id": "06500",
+    "pdm": "EMBALAGEM PARA MANUSEIO DE EXPLOSIVO",
+    "grupo": 81
+  },
+  {
+    "id": "06501",
+    "pdm": "EMBALAGEM PARA MANUSEIO DE MUNIÇÃO",
+    "grupo": 81
+  },
+  {
+    "id": "06502",
+    "pdm": "EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "06503",
+    "pdm": "EMBALAGEM PARA TRANSPORTE - AGENTE QUIMICO MILITAR",
+    "grupo": 81
+  },
+  {
+    "id": "06504",
+    "pdm": "EMBALAGEM PARA TRANSPORTE - EXPLOSIVO",
+    "grupo": 81
+  },
+  {
+    "id": "06505",
+    "pdm": "EMBALAGEM PARA TRANSPORTE - MUNIÇÃO",
+    "grupo": 81
+  },
+  {
+    "id": "06570",
+    "pdm": "ENGRADADO GARRAFÃO ÁGUA",
+    "grupo": 81
+  },
+  {
+    "id": "06571",
+    "pdm": "ENGRADADO PLÁSTICO",
+    "grupo": 81
+  },
+  {
+    "id": "06572",
+    "pdm": "ENGRADADO PLASTICO PARA REFRIGERANTE",
+    "grupo": 81
+  },
+  {
+    "id": "06589",
+    "pdm": "ENVELOPE PLÁSTICO",
+    "grupo": 81
+  },
+  {
+    "id": "07052",
+    "pdm": "TARUGO ESPUMA",
+    "grupo": 81
+  },
+  {
+    "id": "07092",
+    "pdm": "ESTANTE RACK",
+    "grupo": 81
+  },
+  {
+    "id": "07161",
+    "pdm": "ANEL EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "07164",
+    "pdm": "ESTOJO PARA MAQUINA GRAFICA",
+    "grupo": 81
+  },
+  {
+    "id": "07223",
+    "pdm": "ETIQUETA DE EXPEDICAO DE CARGA",
+    "grupo": 81
+  },
+  {
+    "id": "07226",
+    "pdm": "ETIQUETA PARA EXPEDICAO DE CARGA",
+    "grupo": 81
+  },
+  {
+    "id": "07328",
+    "pdm": "FECHO DE BOLSA",
+    "grupo": 81
+  },
+  {
+    "id": "07329",
+    "pdm": "FECHO DE LATA",
+    "grupo": 81
+  },
+  {
+    "id": "07330",
+    "pdm": "FECHO DE SACO",
+    "grupo": 81
+  },
+  {
+    "id": "07331",
+    "pdm": "FECHO PARA BOLSA",
+    "grupo": 81
+  },
+  {
+    "id": "07332",
+    "pdm": "FECHO PARA LATA",
+    "grupo": 81
+  },
+  {
+    "id": "07334",
+    "pdm": "FECHO PARA SACO",
+    "grupo": 81
+  },
+  {
+    "id": "07335",
+    "pdm": "FECHO PARA TAMBOR",
+    "grupo": 81
+  },
+  {
+    "id": "07556",
+    "pdm": "FITA ADESIVA EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "07560",
+    "pdm": "FITA DE ACO PARA ENCINTAMENTO DE EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "07566",
+    "pdm": "FITA ENCINTAMENTO",
+    "grupo": 81
+  },
+  {
+    "id": "07568",
+    "pdm": "FITA DE MATERIAL PLASTICO PARA ENCINTAMENTO",
+    "grupo": 81
+  },
+  {
+    "id": "07570",
+    "pdm": "FITA DE PAPEL GOMADO",
+    "grupo": 81
+  },
+  {
+    "id": "07599",
+    "pdm": "FITA METALICA PARA ENCINTAMENTO DE EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "07771",
+    "pdm": "FORRO DE CAIXA",
+    "grupo": 81
+  },
+  {
+    "id": "07775",
+    "pdm": "FORRO PARA CAIXA",
+    "grupo": 81
+  },
+  {
+    "id": "07822",
+    "pdm": "FRASCO CONTA-GOTAS",
+    "grupo": 81
+  },
+  {
+    "id": "07823",
+    "pdm": "FRASCO DE EXPEDICAO",
+    "grupo": 81
+  },
+  {
+    "id": "07824",
+    "pdm": "FRASCO",
+    "grupo": 81
+  },
+  {
+    "id": "07931",
+    "pdm": "GARRAFA DE ACIDO",
+    "grupo": 81
+  },
+  {
+    "id": "07933",
+    "pdm": "GARRAFAO COM REVESTIMENTO DE VIME",
+    "grupo": 81
+  },
+  {
+    "id": "07934",
+    "pdm": "GARRAFAO PARA ACIDO",
+    "grupo": 81
+  },
+  {
+    "id": "07935",
+    "pdm": "GARRAFAO SEM REVESTIMENTO DE VIME",
+    "grupo": 81
+  },
+  {
+    "id": "08067",
+    "pdm": "GRAMPO DE GRAMPEADOR TIPO EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "08075",
+    "pdm": "GRAMPO PARA GRAMPEADOR TIPO EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": "08731",
+    "pdm": "LATA PARA ACONDICIONAMENTO",
+    "grupo": 81
+  },
+  {
+    "id": "09053",
+    "pdm": "MALOTE",
+    "grupo": 81
+  },
+  {
+    "id": "09476",
+    "pdm": "MATERIAL PARA ACONDICIONAMENTO",
+    "grupo": 81
+  },
+  {
+    "id": "09484",
+    "pdm": "MATERIAL PARA EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": 10362,
+    "pdm": "PAPEL CONTRA UMIDADE",
+    "grupo": 81
+  },
+  {
+    "id": 10363,
+    "pdm": "PAPEL CONTRA VAPOR",
+    "grupo": 81
+  },
+  {
+    "id": 10374,
+    "pdm": "DISCO EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": 10398,
+    "pdm": "PAPEL PICADO PARA EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": 10399,
+    "pdm": "PAPEL PICADO PARA EMBALAGEM CORRUGADO",
+    "grupo": 81
+  },
+  {
+    "id": 11031,
+    "pdm": "PORTA-BARBANTE",
+    "grupo": 81
+  },
+  {
+    "id": 11048,
+    "pdm": "PORTA-PAPEL DE EMBRULHO",
+    "grupo": 81
+  },
+  {
+    "id": 11285,
+    "pdm": "RECIPIENTE PROTETOR RADIOLÓGICO",
+    "grupo": 81
+  },
+  {
+    "id": 11479,
+    "pdm": "RECIPIENTE / BOTIJÃO CRIOGÊNICO",
+    "grupo": 81
+  },
+  {
+    "id": 11493,
+    "pdm": "BALEIRO",
+    "grupo": 81
+  },
+  {
+    "id": 11494,
+    "pdm": "PORTA-XAMPU",
+    "grupo": 81
+  },
+  {
+    "id": 11741,
+    "pdm": "REVESTIMENTO PARA CAIXA DE EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": 11890,
+    "pdm": "SACO DE ALGODÃO",
+    "grupo": 81
+  },
+  {
+    "id": 11891,
+    "pdm": "SACO DE ALUMINIO",
+    "grupo": 81
+  },
+  {
+    "id": 11893,
+    "pdm": "SACO DE FIBRA NATURAL",
+    "grupo": 81
+  },
+  {
+    "id": 11894,
+    "pdm": "SACO DE FIBRA SINTETICA",
+    "grupo": 81
+  },
+  {
+    "id": 11895,
+    "pdm": "SACO DE JUTA",
+    "grupo": 81
+  },
+  {
+    "id": 11896,
+    "pdm": "SACO DE LONA",
+    "grupo": 81
+  },
+  {
+    "id": 11897,
+    "pdm": "SACO PAPEL",
+    "grupo": 81
+  },
+  {
+    "id": 11898,
+    "pdm": "SACO DE PAPEL MULTIFOLHEADO",
+    "grupo": 81
+  },
+  {
+    "id": 11900,
+    "pdm": "SACO P/ HAMPER",
+    "grupo": 81
+  },
+  {
+    "id": 11902,
+    "pdm": "SACO",
+    "grupo": 81
+  },
+  {
+    "id": 11903,
+    "pdm": "SACO PLÁSTICO LIXO",
+    "grupo": 81
+  },
+  {
+    "id": 11904,
+    "pdm": "MEMBRANA PLÁSTICA",
+    "grupo": 81
+  },
+  {
+    "id": 11908,
+    "pdm": "SACOLA",
+    "grupo": 81
+  },
+  {
+    "id": 12023,
+    "pdm": "SEPARADOR DE USO EM EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": 12144,
+    "pdm": "SISTEMA FIXO DE DISTRIBUICAO DE PRODUTO GASOSO",
+    "grupo": 81
+  },
+  {
+    "id": 12145,
+    "pdm": "SISTEMA FIXO DE DISTRIBUICAO DE PRODUTO LIQUEFEITO DE PETROLEO",
+    "grupo": 81
+  },
+  {
+    "id": 12153,
+    "pdm": "SISTEMA MOVEL DE DISTRIBUICAO DE PRODUTO GASOSO",
+    "grupo": 81
+  },
+  {
+    "id": 12154,
+    "pdm": "SISTEMA MOVEL DISTRIBUICAO PRODUTO LIQUEFEITO DE PETROLEO",
+    "grupo": 81
+  },
+  {
+    "id": 12518,
+    "pdm": "TAMPA EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": 12532,
+    "pdm": "TANQUE - GALVANIZADO / INOX",
+    "grupo": 81
+  },
+  {
+    "id": 12543,
+    "pdm": "TANQUE SALGA - FIBRA VIDRO",
+    "grupo": 81
+  },
+  {
+    "id": 12813,
+    "pdm": "TONEL - GALVANIZADO",
+    "grupo": 81
+  },
+  {
+    "id": 13017,
+    "pdm": "TRONCOS DE CONTENCAO",
+    "grupo": 81
+  },
+  {
+    "id": 13045,
+    "pdm": "TUBO DE CLASSIFICACAO DE CORRESPONDENCIA",
+    "grupo": 81
+  },
+  {
+    "id": 13537,
+    "pdm": "BOBINA DE FIO",
+    "grupo": 81
+  },
+  {
+    "id": 13639,
+    "pdm": "TANQUE",
+    "grupo": 81
+  },
+  {
+    "id": 13716,
+    "pdm": "CAIXA REVÓLVER",
+    "grupo": 81
+  },
+  {
+    "id": 13723,
+    "pdm": "CAIXA FUZIL",
+    "grupo": 81
+  },
+  {
+    "id": 13731,
+    "pdm": "MARMITA DESCARTÁVEL",
+    "grupo": 81
+  },
+  {
+    "id": 13786,
+    "pdm": "TAMPA BALDE PROTEÇÃO RADIOATIVA",
+    "grupo": 81
+  },
+  {
+    "id": 13977,
+    "pdm": "VÁLVULA ESTABILIZADORA",
+    "grupo": 81
+  },
+  {
+    "id": 14156,
+    "pdm": "ENVELOPE PLÁSTICO ABA ADESIVA",
+    "grupo": 81
+  },
+  {
+    "id": 14237,
+    "pdm": "CAIXA PARA BLOCOS PARAFINA",
+    "grupo": 81
+  },
+  {
+    "id": 14307,
+    "pdm": "SELO AUTO-ADESIVO",
+    "grupo": 81
+  },
+  {
+    "id": 14342,
+    "pdm": "BOBINA PAPEL SENHA",
+    "grupo": 81
+  },
+  {
+    "id": 14391,
+    "pdm": "SACO PLÁSTICO CAPA",
+    "grupo": 81
+  },
+  {
+    "id": 14403,
+    "pdm": "SACO LIXO",
+    "grupo": 81
+  },
+  {
+    "id": 14588,
+    "pdm": "PROTETOR ELEVADOR",
+    "grupo": 81
+  },
+  {
+    "id": 14685,
+    "pdm": "BANDEJA OVOS",
+    "grupo": 81
+  },
+  {
+    "id": 14751,
+    "pdm": "ESTOJO CONJUNTO PESOS",
+    "grupo": 81
+  },
+  {
+    "id": 14800,
+    "pdm": "LACRE DE VEDAÇÃO",
+    "grupo": 81
+  },
+  {
+    "id": 14831,
+    "pdm": "LACRE SEGURANÇA",
+    "grupo": 81
+  },
+  {
+    "id": 15296,
+    "pdm": "VASILHAME LEITE",
+    "grupo": 81
+  },
+  {
+    "id": 15627,
+    "pdm": "TANQUE REJEITO RADIOATIVO",
+    "grupo": 81
+  },
+  {
+    "id": 15657,
+    "pdm": "PORTA-PALETE",
+    "grupo": 81
+  },
+  {
+    "id": 15911,
+    "pdm": "TANQUE FIBRA VIDRO",
+    "grupo": 81
+  },
+  {
+    "id": 15912,
+    "pdm": "VERTEDOR ÁGUA",
+    "grupo": 81
+  },
+  {
+    "id": 16072,
+    "pdm": "SACO PARA ASPIRADOR PÓ",
+    "grupo": 81
+  },
+  {
+    "id": 16085,
+    "pdm": "ESTAÇÃO LIMPEZA TANQUE",
+    "grupo": 81
+  },
+  {
+    "id": 16087,
+    "pdm": "TANQUE AGITADOR",
+    "grupo": 81
+  },
+  {
+    "id": 16328,
+    "pdm": "BOLSA TRANSPORTE",
+    "grupo": 81
+  },
+  {
+    "id": 16497,
+    "pdm": "CONJUNTO REGULADOR CILINDRO",
+    "grupo": 81
+  },
+  {
+    "id": 16590,
+    "pdm": "BOTIJÃO GÁS",
+    "grupo": 81
+  },
+  {
+    "id": 17253,
+    "pdm": "SACOS E BOLSAS",
+    "grupo": 81
+  },
+  {
+    "id": 17254,
+    "pdm": "TAMBORES E LATAS",
+    "grupo": 81
+  },
+  {
+    "id": 17255,
+    "pdm": "CAIXAS, CAIXOTES E ENGRADADOS",
+    "grupo": 81
+  },
+  {
+    "id": 17256,
+    "pdm": "CILINDROS COMERCIAIS E INDUSTRIAIS PARA GASES",
+    "grupo": 81
+  },
+  {
+    "id": 17257,
+    "pdm": "GARRAFAS E JARROS",
+    "grupo": 81
+  },
+  {
+    "id": 17258,
+    "pdm": "CARRETÉIS E BOBINAS",
+    "grupo": 81
+  },
+  {
+    "id": 17259,
+    "pdm": "MATERIAIS A GRANEL PARA ACONDICIONAMENTO E EMBALAGEM",
+    "grupo": 81
+  },
+  {
+    "id": 17260,
+    "pdm": "CAIXAS, RECIPIENTES E EMBALAGENS ESPECIAIS PARA ARMAMENTONUCLEAR E MUNIÇÃO",
+    "grupo": 81
+  },
+  {
+    "id": 17261,
+    "pdm": "RECIPIENTES ESPECIALIZADOS PARA TRANSPORTE E ARMAZENAGEM",
+    "grupo": 81
+  },
+  {
+    "id": 17480,
+    "pdm": "DISCO LIGA DE ALUMÍNIO",
+    "grupo": 81
+  },
+  {
+    "id": 17768,
+    "pdm": "BERÇO TRANSPORTE",
+    "grupo": 81
+  },
+  {
+    "id": 18255,
+    "pdm": "FITA LACRE ADUANEIRO",
+    "grupo": 81
+  },
+  {
+    "id": 18472,
+    "pdm": "ORGANIZADOR",
+    "grupo": 81
+  }
+]

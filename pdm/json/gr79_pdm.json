@@ -1,0 +1,592 @@
+[
+  {
+    "id": "00715",
+    "pdm": "ÁLCOOL ETÍLICO LIMPEZA DE AMBIENTES",
+    "grupo": 79
+  },
+  {
+    "id": "02166",
+    "pdm": "ÁGUA SANITÁRIA",
+    "grupo": 79
+  },
+  {
+    "id": "02378",
+    "pdm": "ALVEJANTE TECIDO",
+    "grupo": 79
+  },
+  {
+    "id": "02387",
+    "pdm": "AMACIANTE DE ROUPA",
+    "grupo": 79
+  },
+  {
+    "id": "03093",
+    "pdm": "ASPIRADOR PO - LIVRO",
+    "grupo": 79
+  },
+  {
+    "id": "03094",
+    "pdm": "ASPIRADOR PÓ - MICROCOMPUTADOR",
+    "grupo": 79
+  },
+  {
+    "id": "03095",
+    "pdm": "ASPIRADOR PÓ/LÍQUIDO",
+    "grupo": 79
+  },
+  {
+    "id": "03096",
+    "pdm": "ASPIRADOR PÓ / ÁGUA - INDUSTRIAL",
+    "grupo": 79
+  },
+  {
+    "id": "04583",
+    "pdm": "CARRINHO LIMPEZA MULTIFUNÇÃO",
+    "grupo": 79
+  },
+  {
+    "id": "04779",
+    "pdm": "CERA PINTURA AUTOMOTIVA",
+    "grupo": 79
+  },
+  {
+    "id": "04780",
+    "pdm": "CERA POLIMENTO PISO",
+    "grupo": 79
+  },
+  {
+    "id": "04782",
+    "pdm": "CERA ASSOALHO INSETICIDA",
+    "grupo": 79
+  },
+  {
+    "id": "04783",
+    "pdm": "CERA MÓVEIS",
+    "grupo": 79
+  },
+  {
+    "id": "05670",
+    "pdm": "CONJUNTO PARA LIMPEZA",
+    "grupo": 79
+  },
+  {
+    "id": "06087",
+    "pdm": "DESENGRAXANTE",
+    "grupo": 79
+  },
+  {
+    "id": "06135",
+    "pdm": "DETERGENTE - INDUSTRIAL",
+    "grupo": 79
+  },
+  {
+    "id": "06136",
+    "pdm": "DETERGENTE",
+    "grupo": 79
+  },
+  {
+    "id": "06138",
+    "pdm": "DETERGENTE LIMPEZA VEÍCULO",
+    "grupo": 79
+  },
+  {
+    "id": "06139",
+    "pdm": "DETERGENTE COM CERA - USO DOMESTICO",
+    "grupo": 79
+  },
+  {
+    "id": "06254",
+    "pdm": "DISCO DE FELTRO DE ENCERADEIRA",
+    "grupo": 79
+  },
+  {
+    "id": "06547",
+    "pdm": "PEÇA/COMPONENTE ENCERADEIRA",
+    "grupo": 79
+  },
+  {
+    "id": "06548",
+    "pdm": "ENCERADEIRA",
+    "grupo": 79
+  },
+  {
+    "id": "06609",
+    "pdm": "ENXUGADOR",
+    "grupo": 79
+  },
+  {
+    "id": "06630",
+    "pdm": "EQUIPAMENTO / ACESSÓRIO JATEAMENTO - AR COMPRIMIDO",
+    "grupo": 79
+  },
+  {
+    "id": "06799",
+    "pdm": "EQUIPAMENTO JATEAMENTO POR TURBINA",
+    "grupo": 79
+  },
+  {
+    "id": "06939",
+    "pdm": "CABO RODO / VASSOURA",
+    "grupo": 79
+  },
+  {
+    "id": "06943",
+    "pdm": "ESCOVA ENCERADEIRA",
+    "grupo": 79
+  },
+  {
+    "id": "06945",
+    "pdm": "ESCOVA DE POLIR CALCADO",
+    "grupo": 79
+  },
+  {
+    "id": "06948",
+    "pdm": "ESCOVA DE VASSOURA MAGICA",
+    "grupo": 79
+  },
+  {
+    "id": "06950",
+    "pdm": "ESCOVA LIMPEZA GERAL",
+    "grupo": 79
+  },
+  {
+    "id": "06952",
+    "pdm": "ESCOVÃO",
+    "grupo": 79
+  },
+  {
+    "id": "06963",
+    "pdm": "ESFREGÃO",
+    "grupo": 79
+  },
+  {
+    "id": "06964",
+    "pdm": "ESFREGAO DE CERDAS PARA LIMPEZA",
+    "grupo": 79
+  },
+  {
+    "id": "06986",
+    "pdm": "ESPANADOR",
+    "grupo": 79
+  },
+  {
+    "id": "07039",
+    "pdm": "ESPONJA DE ACO",
+    "grupo": 79
+  },
+  {
+    "id": "07040",
+    "pdm": "BOINA POLIMENTO",
+    "grupo": 79
+  },
+  {
+    "id": "07042",
+    "pdm": "ESPONJA LIMPEZA",
+    "grupo": 79
+  },
+  {
+    "id": "07174",
+    "pdm": "ESTOPA",
+    "grupo": 79
+  },
+  {
+    "id": "07176",
+    "pdm": "ESTOPA PARA LIMPEZA",
+    "grupo": 79
+  },
+  {
+    "id": "07393",
+    "pdm": "FERRAMENTA REMOVEDORA DE CERA DE ASSOALHO",
+    "grupo": 79
+  },
+  {
+    "id": "07630",
+    "pdm": "FLANELA",
+    "grupo": 79
+  },
+  {
+    "id": "08029",
+    "pdm": "GOMA DE ROUPA",
+    "grupo": 79
+  },
+  {
+    "id": "08100",
+    "pdm": "GRAXA PARA CALCADO",
+    "grupo": 79
+  },
+  {
+    "id": "08258",
+    "pdm": "DESCARBONIZANTE",
+    "grupo": 79
+  },
+  {
+    "id": "08845",
+    "pdm": "LIMPA CARPETE",
+    "grupo": 79
+  },
+  {
+    "id": "08847",
+    "pdm": "LIMPA-VIDRO",
+    "grupo": 79
+  },
+  {
+    "id": "08848",
+    "pdm": "LIMPADOR - VIDRO",
+    "grupo": 79
+  },
+  {
+    "id": "08853",
+    "pdm": "LIMPADOR BASE ÁCIDA",
+    "grupo": 79
+  },
+  {
+    "id": "08951",
+    "pdm": "LUSTRADOR DE MADEIRA",
+    "grupo": 79
+  },
+  {
+    "id": "08952",
+    "pdm": "POLIDOR",
+    "grupo": 79
+  },
+  {
+    "id": "09206",
+    "pdm": "MAQUINA DE LIMPAR / ESTERILIZAR A VAPOR",
+    "grupo": 79
+  },
+  {
+    "id": "09208",
+    "pdm": "MAQUINA DE LIMPAR CARPETE / TAPETE",
+    "grupo": 79
+  },
+  {
+    "id": "09209",
+    "pdm": "MAQUINA DE LIMPAR TAPETE / CARPETE",
+    "grupo": 79
+  },
+  {
+    "id": "09472",
+    "pdm": "MATERIAL LIMPEZA EM GERAL",
+    "grupo": 79
+  },
+  {
+    "id": 10319,
+    "pdm": "PALHA AÇO",
+    "grupo": 79
+  },
+  {
+    "id": 10340,
+    "pdm": "PANO DE CHAO",
+    "grupo": 79
+  },
+  {
+    "id": 10344,
+    "pdm": "PANO LIMPEZA",
+    "grupo": 79
+  },
+  {
+    "id": 10483,
+    "pdm": "PASTA DE CALCADO",
+    "grupo": 79
+  },
+  {
+    "id": 10928,
+    "pdm": "PO DESENGORDURADOR",
+    "grupo": 79
+  },
+  {
+    "id": 10957,
+    "pdm": "POLIDOR DOMESTICO DE LOUCA",
+    "grupo": 79
+  },
+  {
+    "id": 10958,
+    "pdm": "POLIDOR DOMESTICO DE MOVEL",
+    "grupo": 79
+  },
+  {
+    "id": 10959,
+    "pdm": "POLIDOR PARA CALCADO",
+    "grupo": 79
+  },
+  {
+    "id": 10960,
+    "pdm": "POLIDOR PARA PINTURA AUTOMOTIVA",
+    "grupo": 79
+  },
+  {
+    "id": 11200,
+    "pdm": "SOLUÇÃO LIMPEZA MULTIUSO",
+    "grupo": 79
+  },
+  {
+    "id": 11226,
+    "pdm": "PRODUTO CONCENTRADO - LIMPEZA VEICULO AUTOMOTIVO",
+    "grupo": 79
+  },
+  {
+    "id": 11233,
+    "pdm": "PRODUTO PARA POLIMENTO",
+    "grupo": 79
+  },
+  {
+    "id": 11633,
+    "pdm": "REMOVEDOR DE CERA DE ASSOALHO",
+    "grupo": 79
+  },
+  {
+    "id": 11634,
+    "pdm": "REMOVEDOR",
+    "grupo": 79
+  },
+  {
+    "id": 11637,
+    "pdm": "REMOVEDOR DE PICHACAO",
+    "grupo": 79
+  },
+  {
+    "id": 11709,
+    "pdm": "RETENTOR DE PÓ",
+    "grupo": 79
+  },
+  {
+    "id": 11781,
+    "pdm": "RODO",
+    "grupo": 79
+  },
+  {
+    "id": 11782,
+    "pdm": "RODO ASPIRADOR - PISCINA",
+    "grupo": 79
+  },
+  {
+    "id": 11863,
+    "pdm": "SABÃO BARRA",
+    "grupo": 79
+  },
+  {
+    "id": 11864,
+    "pdm": "SABÃO PASTA",
+    "grupo": 79
+  },
+  {
+    "id": 11865,
+    "pdm": "SABÃO PÓ",
+    "grupo": 79
+  },
+  {
+    "id": 11866,
+    "pdm": "SABAO EXCETO TOUCADOR",
+    "grupo": 79
+  },
+  {
+    "id": 11867,
+    "pdm": "SABAO LIQUIDO",
+    "grupo": 79
+  },
+  {
+    "id": 11868,
+    "pdm": "SABÃO RALADO",
+    "grupo": 79
+  },
+  {
+    "id": 11945,
+    "pdm": "SAPONACEO EM PO",
+    "grupo": 79
+  },
+  {
+    "id": 11946,
+    "pdm": "SAPONACEO EM TABLETE",
+    "grupo": 79
+  },
+  {
+    "id": 12382,
+    "pdm": "SUPORTE DE DISCO PARA ENCERADEIRA",
+    "grupo": 79
+  },
+  {
+    "id": 12928,
+    "pdm": "TRAPO DE TECIDO",
+    "grupo": 79
+  },
+  {
+    "id": 13327,
+    "pdm": "VASSOURA",
+    "grupo": 79
+  },
+  {
+    "id": 13772,
+    "pdm": "LUSTRADOR MÓVEIS",
+    "grupo": 79
+  },
+  {
+    "id": 13773,
+    "pdm": "LUSTRADOR MADEIRA",
+    "grupo": 79
+  },
+  {
+    "id": 13814,
+    "pdm": "ASPIRADOR DE PÓ E ÁGUA",
+    "grupo": 79
+  },
+  {
+    "id": 13935,
+    "pdm": "ALVEJANTE LOUÇA",
+    "grupo": 79
+  },
+  {
+    "id": 13989,
+    "pdm": "MOP ÚMIDO",
+    "grupo": 79
+  },
+  {
+    "id": 14017,
+    "pdm": "PÁ COLETORA LIXO",
+    "grupo": 79
+  },
+  {
+    "id": 14027,
+    "pdm": "SUPORTE MOP",
+    "grupo": 79
+  },
+  {
+    "id": 14028,
+    "pdm": "CABO MOP",
+    "grupo": 79
+  },
+  {
+    "id": 14031,
+    "pdm": "MOP PÓ",
+    "grupo": 79
+  },
+  {
+    "id": 14032,
+    "pdm": "LIMPADOR VIDRO",
+    "grupo": 79
+  },
+  {
+    "id": 14033,
+    "pdm": "APLICADOR CERA",
+    "grupo": 79
+  },
+  {
+    "id": 14034,
+    "pdm": "REFIL LIMPADOR VIDRO",
+    "grupo": 79
+  },
+  {
+    "id": 14037,
+    "pdm": "REFIL APLICADOR CERA",
+    "grupo": 79
+  },
+  {
+    "id": 14039,
+    "pdm": "BALDE APLICADOR CERA",
+    "grupo": 79
+  },
+  {
+    "id": 14042,
+    "pdm": "CLORO ALVEJANTE",
+    "grupo": 79
+  },
+  {
+    "id": 14441,
+    "pdm": "VASSOURINHA",
+    "grupo": 79
+  },
+  {
+    "id": 14464,
+    "pdm": "RODO SERIGRAFIA",
+    "grupo": 79
+  },
+  {
+    "id": 14576,
+    "pdm": "AROMATIZANTE AMBIENTAL",
+    "grupo": 79
+  },
+  {
+    "id": 14713,
+    "pdm": "CONJUNTO ESCOVA",
+    "grupo": 79
+  },
+  {
+    "id": 14720,
+    "pdm": "LIMPA BICO INJETOR (KIT LIMPEZA)",
+    "grupo": 79
+  },
+  {
+    "id": 14877,
+    "pdm": "SUPORTE PARA FIBRA DE LIMPEZA",
+    "grupo": 79
+  },
+  {
+    "id": 14947,
+    "pdm": "MICROESFERA JATEAMENTO",
+    "grupo": 79
+  },
+  {
+    "id": 15022,
+    "pdm": "SAPONÁCEO",
+    "grupo": 79
+  },
+  {
+    "id": 15221,
+    "pdm": "DETERGENTE ÁCIDO",
+    "grupo": 79
+  },
+  {
+    "id": 15556,
+    "pdm": "PASTA LIMPEZA",
+    "grupo": 79
+  },
+  {
+    "id": 16133,
+    "pdm": "SILICONE",
+    "grupo": 79
+  },
+  {
+    "id": 16401,
+    "pdm": "SUPORTE FIBRA / PANO",
+    "grupo": 79
+  },
+  {
+    "id": 16496,
+    "pdm": "LIMPA PNEU",
+    "grupo": 79
+  },
+  {
+    "id": 16500,
+    "pdm": "LIMPADOR IMPUREZAS",
+    "grupo": 79
+  },
+  {
+    "id": 16501,
+    "pdm": "LIMPADOR EQUIPAMENTO",
+    "grupo": 79
+  },
+  {
+    "id": 17246,
+    "pdm": "BOCAL ASPIRAÇÃO",
+    "grupo": 79
+  },
+  {
+    "id": 17247,
+    "pdm": "PEÇA / ACESSÓRIO / COMPONENTE PARA MOP ÁGUA / PÓ",
+    "grupo": 79
+  },
+  {
+    "id": 17248,
+    "pdm": "COMPOSTOS E PREPARADOS PARA LIMPEZA E POLIMENTO",
+    "grupo": 79
+  },
+  {
+    "id": 17562,
+    "pdm": "SOLUÇÃO LIMPADORA",
+    "grupo": 79
+  },
+  {
+    "id": 19054,
+    "pdm": "RASPADOR - PEÇAS E ACESSÓRIOS",
+    "grupo": 79
+  }
+]

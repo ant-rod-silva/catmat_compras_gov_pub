@@ -1,0 +1,97 @@
+[
+  {
+    "id": "01216",
+    "pdm": "ABELHA RAINHA",
+    "grupo": 88
+  },
+  {
+    "id": "02522",
+    "pdm": "ANIMAL PARA ALIMENTAÇÃO HUMANA",
+    "grupo": 88
+  },
+  {
+    "id": "02523",
+    "pdm": "ANIMAL PARA CARGA",
+    "grupo": 88
+  },
+  {
+    "id": "02524",
+    "pdm": "ANIMAL LABORATÓRIO",
+    "grupo": 88
+  },
+  {
+    "id": "02525",
+    "pdm": "ANIMAL PARA EXTRACAO DE COURO",
+    "grupo": 88
+  },
+  {
+    "id": "02526",
+    "pdm": "ANIMAL PARA EXTRACAO DE LA",
+    "grupo": 88
+  },
+  {
+    "id": "02527",
+    "pdm": "ANIMAL PARA PRODUCAO DE LEITE",
+    "grupo": 88
+  },
+  {
+    "id": "02528",
+    "pdm": "ANIMAL PARA PRODUCAO DE MEL",
+    "grupo": 88
+  },
+  {
+    "id": "02529",
+    "pdm": "ANIMAL VIVO",
+    "grupo": 88
+  },
+  {
+    "id": "03149",
+    "pdm": "AVE - PESQUISA",
+    "grupo": 88
+  },
+  {
+    "id": "03150",
+    "pdm": "AVE - POSTURA",
+    "grupo": 88
+  },
+  {
+    "id": "06597",
+    "pdm": "ENXAME ABELHA",
+    "grupo": 88
+  },
+  {
+    "id": 10991,
+    "pdm": "POMBO CORREIO",
+    "grupo": 88
+  },
+  {
+    "id": 12006,
+    "pdm": "SEMOVENTE",
+    "grupo": 88
+  },
+  {
+    "id": 13984,
+    "pdm": "PINTO CORTE",
+    "grupo": 88
+  },
+  {
+    "id": 14319,
+    "pdm": "ALEVINO",
+    "grupo": 88
+  },
+  {
+    "id": 16411,
+    "pdm": "CARCAÇA ANIMAL",
+    "grupo": 88
+  },
+  {
+    "id": 17292,
+    "pdm": "ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO",
+    "grupo": 88
+  },
+  {
+    "id": 17293,
+    "pdm": "ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO",
+    "grupo": 88
+  }
+]

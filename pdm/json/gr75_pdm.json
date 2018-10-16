@@ -1,0 +1,2317 @@
+[
+  {
+    "id": "00005",
+    "pdm": "FITAS ADESIVAS",
+    "grupo": 75
+  },
+  {
+    "id": "00006",
+    "pdm": "FITA CORRETIVA MÁQUINA ESCREVER",
+    "grupo": 75
+  },
+  {
+    "id": "00007",
+    "pdm": "FITA IMPRESSÃO MÁQUINA ESCREVER",
+    "grupo": 75
+  },
+  {
+    "id": "00008",
+    "pdm": "FITA IMPRESSÃO MÁQUINA CALCULAR",
+    "grupo": 75
+  },
+  {
+    "id": "00010",
+    "pdm": "FITA ROTULADORA",
+    "grupo": 75
+  },
+  {
+    "id": "00011",
+    "pdm": "CLIPE",
+    "grupo": 75
+  },
+  {
+    "id": "00012",
+    "pdm": "LÁPIS PRETO",
+    "grupo": 75
+  },
+  {
+    "id": "00014",
+    "pdm": "CANETAS HIDROGRAFICAS",
+    "grupo": 75
+  },
+  {
+    "id": "00015",
+    "pdm": "LÁPIS BORRACHA",
+    "grupo": 75
+  },
+  {
+    "id": "00016",
+    "pdm": "LÁPIS DE COR",
+    "grupo": 75
+  },
+  {
+    "id": "00017",
+    "pdm": "MINA GRAFITE",
+    "grupo": 75
+  },
+  {
+    "id": "00018",
+    "pdm": "CORRETIVO LÍQUIDO",
+    "grupo": 75
+  },
+  {
+    "id": "00019",
+    "pdm": "CORRETIVO SECO",
+    "grupo": 75
+  },
+  {
+    "id": "00020",
+    "pdm": "PASTA ARQUIVO",
+    "grupo": 75
+  },
+  {
+    "id": "00021",
+    "pdm": "ETIQUETA ADESIVA",
+    "grupo": 75
+  },
+  {
+    "id": "00022",
+    "pdm": "ALMOFADA CARIMBO",
+    "grupo": 75
+  },
+  {
+    "id": "00024",
+    "pdm": "RÉGUA ESCRITÓRIO",
+    "grupo": 75
+  },
+  {
+    "id": "00025",
+    "pdm": "PAPEL ALMAÇO",
+    "grupo": 75
+  },
+  {
+    "id": "00026",
+    "pdm": "PAPEL CARBONO",
+    "grupo": 75
+  },
+  {
+    "id": "00027",
+    "pdm": "GRAMPEADOR",
+    "grupo": 75
+  },
+  {
+    "id": "00028",
+    "pdm": "GRAMPO GRAMPEADOR",
+    "grupo": 75
+  },
+  {
+    "id": "00029",
+    "pdm": "ESPIRAL ENCADERNAÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": "00031",
+    "pdm": "GIZ QUADRO NEGRO",
+    "grupo": 75
+  },
+  {
+    "id": "00032",
+    "pdm": "CINTA ELÁSTICA",
+    "grupo": 75
+  },
+  {
+    "id": "00033",
+    "pdm": "COLCHETE FIXAÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": "00034",
+    "pdm": "PAPEL RECADO AUTO-ADESIVO",
+    "grupo": 75
+  },
+  {
+    "id": "00035",
+    "pdm": "TINTA CARIMBO",
+    "grupo": 75
+  },
+  {
+    "id": "00036",
+    "pdm": "DIVISÓRIA ARQUIVO",
+    "grupo": 75
+  },
+  {
+    "id": "00037",
+    "pdm": "AGENDA",
+    "grupo": 75
+  },
+  {
+    "id": "00038",
+    "pdm": "ALFINETE MAPA",
+    "grupo": 75
+  },
+  {
+    "id": "00039",
+    "pdm": "CARIMBOS",
+    "grupo": 75
+  },
+  {
+    "id": "00040",
+    "pdm": "ETIQUETA GOMADA URGENTE",
+    "grupo": 75
+  },
+  {
+    "id": "00041",
+    "pdm": "PORTA-CARIMBO",
+    "grupo": 75
+  },
+  {
+    "id": "00042",
+    "pdm": "APAGADOR QUADRO MAGNÉTICO",
+    "grupo": 75
+  },
+  {
+    "id": "00043",
+    "pdm": "APAGADOR QUADRO NEGRO",
+    "grupo": 75
+  },
+  {
+    "id": "00044",
+    "pdm": "BANDEJA DOCUMENTOS",
+    "grupo": 75
+  },
+  {
+    "id": "00046",
+    "pdm": "APONTADOR LÁPIS",
+    "grupo": 75
+  },
+  {
+    "id": "00047",
+    "pdm": "PORTA-LÁPIS/CLIPE/LEMBRETE",
+    "grupo": 75
+  },
+  {
+    "id": "00053",
+    "pdm": "ENVELOPE",
+    "grupo": 75
+  },
+  {
+    "id": "00056",
+    "pdm": "PERFURADOR PAPEL",
+    "grupo": 75
+  },
+  {
+    "id": "00057",
+    "pdm": "PERFURADORA PAPEL PARA ESPIRAL",
+    "grupo": 75
+  },
+  {
+    "id": "00060",
+    "pdm": "CAPA CLASSIFICADORA",
+    "grupo": 75
+  },
+  {
+    "id": "00061",
+    "pdm": "ARQUIVO DISQUETE",
+    "grupo": 75
+  },
+  {
+    "id": "00063",
+    "pdm": "PASTA ARQUIVO REGISTRADOR",
+    "grupo": 75
+  },
+  {
+    "id": "00066",
+    "pdm": "BLOCO RASCUNHO",
+    "grupo": 75
+  },
+  {
+    "id": "00067",
+    "pdm": "CAPA PROCESSOS",
+    "grupo": 75
+  },
+  {
+    "id": "00068",
+    "pdm": "PAPEL ALTA ALVURA",
+    "grupo": 75
+  },
+  {
+    "id": "00069",
+    "pdm": "BLOCO RECEITUÁRIO",
+    "grupo": 75
+  },
+  {
+    "id": "00070",
+    "pdm": "BLOCO RECEITUÁRIO MÉDICO",
+    "grupo": 75
+  },
+  {
+    "id": "00071",
+    "pdm": "BLOCO FORMULÁRIO COMUNICAÇÃO INTERNA",
+    "grupo": 75
+  },
+  {
+    "id": "00073",
+    "pdm": "BLOCO RECIBO COM CANHOTO",
+    "grupo": 75
+  },
+  {
+    "id": "00074",
+    "pdm": "PAPEL AUTO-ADESIVO",
+    "grupo": 75
+  },
+  {
+    "id": "00075",
+    "pdm": "PAPEL CARTOLINA",
+    "grupo": 75
+  },
+  {
+    "id": "00076",
+    "pdm": "BLOCO MEMORANDO",
+    "grupo": 75
+  },
+  {
+    "id": "00077",
+    "pdm": "BLOCO LAUDO MÉDICO / TÉCNICO",
+    "grupo": 75
+  },
+  {
+    "id": "00078",
+    "pdm": "PAPEL MILIMETRADO",
+    "grupo": 75
+  },
+  {
+    "id": "00079",
+    "pdm": "PAPEL FLIP CHART",
+    "grupo": 75
+  },
+  {
+    "id": "00081",
+    "pdm": "CAIXA ARQUIVO",
+    "grupo": 75
+  },
+  {
+    "id": "00082",
+    "pdm": "ESTÊNCIL",
+    "grupo": 75
+  },
+  {
+    "id": "00083",
+    "pdm": "GARRA ENCADERNAÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": "00084",
+    "pdm": "CONJUNTO MULTIUSO ESCRITÓRIO",
+    "grupo": 75
+  },
+  {
+    "id": "00086",
+    "pdm": "PORTA-PAPEL",
+    "grupo": 75
+  },
+  {
+    "id": "00087",
+    "pdm": "CAPA ENCADERNAÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": "00088",
+    "pdm": "CAPA",
+    "grupo": 75
+  },
+  {
+    "id": "00089",
+    "pdm": "REGISTRADOR AZ",
+    "grupo": 75
+  },
+  {
+    "id": "00090",
+    "pdm": "FORMULÁRIO CONTÍNUO",
+    "grupo": 75
+  },
+  {
+    "id": "00091",
+    "pdm": "LÁPIS VIDROGRÁFICO",
+    "grupo": 75
+  },
+  {
+    "id": "00092",
+    "pdm": "LÁPIS CERA",
+    "grupo": 75
+  },
+  {
+    "id": "00093",
+    "pdm": "EXTENSÃO PARAFUSO PASTA",
+    "grupo": 75
+  },
+  {
+    "id": "00094",
+    "pdm": "PASTA FORMULÁRIO CONTÍNUO",
+    "grupo": 75
+  },
+  {
+    "id": "00095",
+    "pdm": "COLA BASTÃO",
+    "grupo": 75
+  },
+  {
+    "id": "00096",
+    "pdm": "COLA ESCOLAR",
+    "grupo": 75
+  },
+  {
+    "id": "00097",
+    "pdm": "PORTA-CARTÃO",
+    "grupo": 75
+  },
+  {
+    "id": "00098",
+    "pdm": "PORTA-ETIQUETA",
+    "grupo": 75
+  },
+  {
+    "id": "00099",
+    "pdm": "CANETA ESFEROGRÁFICA",
+    "grupo": 75
+  },
+  {
+    "id": "00104",
+    "pdm": "BOBINA MÁQUINA CALCULAR",
+    "grupo": 75
+  },
+  {
+    "id": "00105",
+    "pdm": "PAPEL SUPER BOND",
+    "grupo": 75
+  },
+  {
+    "id": "00106",
+    "pdm": "PORTA-FITA ADESIVA",
+    "grupo": 75
+  },
+  {
+    "id": "00107",
+    "pdm": "PRENDEDOR PAPEL",
+    "grupo": 75
+  },
+  {
+    "id": "00108",
+    "pdm": "PINCEL ATÔMICO",
+    "grupo": 75
+  },
+  {
+    "id": "00109",
+    "pdm": "PERCEVEJO",
+    "grupo": 75
+  },
+  {
+    "id": "00110",
+    "pdm": "FICHA",
+    "grupo": 75
+  },
+  {
+    "id": "00111",
+    "pdm": "BASE FITA ADESIVA",
+    "grupo": 75
+  },
+  {
+    "id": "00113",
+    "pdm": "CAVALETE PINTURA",
+    "grupo": 75
+  },
+  {
+    "id": "00114",
+    "pdm": "MOLHA-DEDOS",
+    "grupo": 75
+  },
+  {
+    "id": "00115",
+    "pdm": "PORTA-DISQUETE",
+    "grupo": 75
+  },
+  {
+    "id": "00116",
+    "pdm": "MARCADOR RETROPROJETOR",
+    "grupo": 75
+  },
+  {
+    "id": "00117",
+    "pdm": "GABARITO",
+    "grupo": 75
+  },
+  {
+    "id": "00118",
+    "pdm": "TRANSPARÊNCIA RETROPROJETOR",
+    "grupo": 75
+  },
+  {
+    "id": "00119",
+    "pdm": "ESTOJO DISQUETE",
+    "grupo": 75
+  },
+  {
+    "id": "00120",
+    "pdm": "GIZ CERA",
+    "grupo": 75
+  },
+  {
+    "id": "00124",
+    "pdm": "PASTA PVC LOMBADA",
+    "grupo": 75
+  },
+  {
+    "id": "00126",
+    "pdm": "PAPEL CÓPIA",
+    "grupo": 75
+  },
+  {
+    "id": "00127",
+    "pdm": "PAPEL A4",
+    "grupo": 75
+  },
+  {
+    "id": "00128",
+    "pdm": "FICHA PAUTADA",
+    "grupo": 75
+  },
+  {
+    "id": "00131",
+    "pdm": "PASTA PLÁSTICA",
+    "grupo": 75
+  },
+  {
+    "id": "00134",
+    "pdm": "CANETAS MARCA-TEXTOS",
+    "grupo": 75
+  },
+  {
+    "id": "00136",
+    "pdm": "FITA ADESIVA MÁGICA",
+    "grupo": 75
+  },
+  {
+    "id": "00137",
+    "pdm": "PASTA SUSPENSA FORMULÁRIO CONTÍNUO",
+    "grupo": 75
+  },
+  {
+    "id": "00138",
+    "pdm": "CADERNO PAUTADO",
+    "grupo": 75
+  },
+  {
+    "id": "00139",
+    "pdm": "ETIQUETA GOMADA TRIPLA",
+    "grupo": 75
+  },
+  {
+    "id": "00140",
+    "pdm": "LIVRO CORRESPONDÊNCIA",
+    "grupo": 75
+  },
+  {
+    "id": "00141",
+    "pdm": "BANDEJA EXPEDIENTE",
+    "grupo": 75
+  },
+  {
+    "id": "00144",
+    "pdm": "PAPEL TRIPLO OFÍCIO",
+    "grupo": 75
+  },
+  {
+    "id": "00146",
+    "pdm": "PAPEL CARTA",
+    "grupo": 75
+  },
+  {
+    "id": "00147",
+    "pdm": "FICHA SEM PAUTA",
+    "grupo": 75
+  },
+  {
+    "id": "00148",
+    "pdm": "GRAMPO PASTA",
+    "grupo": 75
+  },
+  {
+    "id": "00149",
+    "pdm": "FERRAGEM PASTA",
+    "grupo": 75
+  },
+  {
+    "id": "00150",
+    "pdm": "CLASSIFICADOR",
+    "grupo": 75
+  },
+  {
+    "id": "00152",
+    "pdm": "TRANSPARÊNCIA PROJEÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": "00153",
+    "pdm": "REFIL TINTA",
+    "grupo": 75
+  },
+  {
+    "id": "00154",
+    "pdm": "PARAFUSO ENCADERNAÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": "00155",
+    "pdm": "PASTA ARQUIVO MOLDURA TRANSPARÊNCIA",
+    "grupo": 75
+  },
+  {
+    "id": "00156",
+    "pdm": "PAPEL IMPRESSÃO GRÁFICA",
+    "grupo": 75
+  },
+  {
+    "id": "00158",
+    "pdm": "BLOCO PAUTADO",
+    "grupo": 75
+  },
+  {
+    "id": "00161",
+    "pdm": "EXTRATOR GRAMPOS",
+    "grupo": 75
+  },
+  {
+    "id": "00162",
+    "pdm": "ETIQUETA PASTA SUSPENSA",
+    "grupo": 75
+  },
+  {
+    "id": "00163",
+    "pdm": "CAPA ENCADERNAÇÃO, ENCARDENAÇÃO GERAL",
+    "grupo": 75
+  },
+  {
+    "id": "00169",
+    "pdm": "PAPEL AUTOCOPIATIVO",
+    "grupo": 75
+  },
+  {
+    "id": "00171",
+    "pdm": "CANETAS CORRETIVAS",
+    "grupo": 75
+  },
+  {
+    "id": "00173",
+    "pdm": "COLCHETE FIXADOR PAPEL",
+    "grupo": 75
+  },
+  {
+    "id": "00174",
+    "pdm": "FICHA PADRONIZADA",
+    "grupo": 75
+  },
+  {
+    "id": "00175",
+    "pdm": "GRAMPO TRILHO ENCADERNADOR",
+    "grupo": 75
+  },
+  {
+    "id": "00176",
+    "pdm": "LAPISEIRA",
+    "grupo": 75
+  },
+  {
+    "id": "00177",
+    "pdm": "LIMPA-TIPOS",
+    "grupo": 75
+  },
+  {
+    "id": "00178",
+    "pdm": "PASTA ARQUIVO TUBO",
+    "grupo": 75
+  },
+  {
+    "id": "00179",
+    "pdm": "PASTA CATÁLOGO",
+    "grupo": 75
+  },
+  {
+    "id": "00180",
+    "pdm": "MARCADOR HIDROGRÁFICO",
+    "grupo": 75
+  },
+  {
+    "id": "00181",
+    "pdm": "MARCADOR RETROPROJETORES",
+    "grupo": 75
+  },
+  {
+    "id": "00182",
+    "pdm": "PASTA ARQUIVO COM GRAMPO TRILHO",
+    "grupo": 75
+  },
+  {
+    "id": "00183",
+    "pdm": "PASTA CLASSIFICADORA",
+    "grupo": 75
+  },
+  {
+    "id": "00184",
+    "pdm": "PROTETOR GUIA PASTA DIVISÓRIA",
+    "grupo": 75
+  },
+  {
+    "id": "00186",
+    "pdm": "DIVISÓRIA CLASSIFICADORA",
+    "grupo": 75
+  },
+  {
+    "id": "00187",
+    "pdm": "LÂMINA INSERÇÃO PASTA ARQUIVO",
+    "grupo": 75
+  },
+  {
+    "id": "00192",
+    "pdm": "PAPEL XEROGRÁFICO",
+    "grupo": 75
+  },
+  {
+    "id": "00194",
+    "pdm": "NUMERADOR",
+    "grupo": 75
+  },
+  {
+    "id": "00195",
+    "pdm": "ALIMENTADOR PAPEL COPIADORA",
+    "grupo": 75
+  },
+  {
+    "id": "00196",
+    "pdm": "CADERNO",
+    "grupo": 75
+  },
+  {
+    "id": "00197",
+    "pdm": "DECALQUE",
+    "grupo": 75
+  },
+  {
+    "id": "00198",
+    "pdm": "ESPETO PAPEL",
+    "grupo": 75
+  },
+  {
+    "id": "00199",
+    "pdm": "FITA TELEIMPRESSORA",
+    "grupo": 75
+  },
+  {
+    "id": "00200",
+    "pdm": "LIVRO ATA",
+    "grupo": 75
+  },
+  {
+    "id": "00201",
+    "pdm": "LIVRO PROTOCOLO",
+    "grupo": 75
+  },
+  {
+    "id": "00202",
+    "pdm": "MOLDURA TRANSPARÊNCIA",
+    "grupo": 75
+  },
+  {
+    "id": "00203",
+    "pdm": "PENA CANETA",
+    "grupo": 75
+  },
+  {
+    "id": "00204",
+    "pdm": "ROTULADOR",
+    "grupo": 75
+  },
+  {
+    "id": "00205",
+    "pdm": "BORRACHA APAGADORA ESCRITA",
+    "grupo": 75
+  },
+  {
+    "id": "00245",
+    "pdm": "CAIXA BIBLIOGRÁFICA",
+    "grupo": 75
+  },
+  {
+    "id": "00246",
+    "pdm": "CARGA LÁPIS BORRACHA",
+    "grupo": 75
+  },
+  {
+    "id": "00247",
+    "pdm": "MARCADOR QUADRO BRANCO",
+    "grupo": 75
+  },
+  {
+    "id": "00248",
+    "pdm": "PORTA-ETIQUETA MAGNÉTICA",
+    "grupo": 75
+  },
+  {
+    "id": "00249",
+    "pdm": "TESOURA",
+    "grupo": 75
+  },
+  {
+    "id": "00250",
+    "pdm": "SUPORTE PASTA",
+    "grupo": 75
+  },
+  {
+    "id": "00251",
+    "pdm": "CANETA BORRACHA",
+    "grupo": 75
+  },
+  {
+    "id": "00252",
+    "pdm": "ÍNDICE PASTA ARQUIVO",
+    "grupo": 75
+  },
+  {
+    "id": "00254",
+    "pdm": "TINTA NUMERADOR-DATADOR METAL",
+    "grupo": 75
+  },
+  {
+    "id": "00255",
+    "pdm": "TINTA PINCEL MARCADOR",
+    "grupo": 75
+  },
+  {
+    "id": "00256",
+    "pdm": "BORRACHA PONTEIRA LÁPIS",
+    "grupo": 75
+  },
+  {
+    "id": "00257",
+    "pdm": "RISQUE RABISQUE",
+    "grupo": 75
+  },
+  {
+    "id": "00258",
+    "pdm": "TINTA CANETA",
+    "grupo": 75
+  },
+  {
+    "id": "00259",
+    "pdm": "TINTA PINCEL ATÔMICO",
+    "grupo": 75
+  },
+  {
+    "id": "00260",
+    "pdm": "RÉGUA GABARITO",
+    "grupo": 75
+  },
+  {
+    "id": "00261",
+    "pdm": "VISOR",
+    "grupo": 75
+  },
+  {
+    "id": "00262",
+    "pdm": "VISOR PASTA SUSPENSA",
+    "grupo": 75
+  },
+  {
+    "id": "00263",
+    "pdm": "VERNIZ CORRETOR ESTÊNCIL",
+    "grupo": 75
+  },
+  {
+    "id": "00264",
+    "pdm": "EXTRATOR PERCEVEJO",
+    "grupo": 75
+  },
+  {
+    "id": "00266",
+    "pdm": "ARMAÇÃO PASTA SUSPENSA",
+    "grupo": 75
+  },
+  {
+    "id": "00267",
+    "pdm": "PASTA ARGOLA",
+    "grupo": 75
+  },
+  {
+    "id": "00268",
+    "pdm": "PROTETOR E FIXADOR PAPEL",
+    "grupo": 75
+  },
+  {
+    "id": "00269",
+    "pdm": "SACO DOCUMENTO",
+    "grupo": 75
+  },
+  {
+    "id": "00271",
+    "pdm": "PAPEL DESENHO",
+    "grupo": 75
+  },
+  {
+    "id": "00272",
+    "pdm": "CANELETA ENCADERNAÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": "00273",
+    "pdm": "PASTA ENCADERNAÇÃO COM CANALETA",
+    "grupo": 75
+  },
+  {
+    "id": "00274",
+    "pdm": "PASTA TELEX",
+    "grupo": 75
+  },
+  {
+    "id": "00275",
+    "pdm": "FICHÁRIO MESA ESCRITÓRIO",
+    "grupo": 75
+  },
+  {
+    "id": "00276",
+    "pdm": "PAPEL CORRESPONDÊNCIA",
+    "grupo": 75
+  },
+  {
+    "id": "00277",
+    "pdm": "PRANCHETAS PORTATEIS",
+    "grupo": 75
+  },
+  {
+    "id": "00278",
+    "pdm": "CONJUNTO ALFABETO",
+    "grupo": 75
+  },
+  {
+    "id": "00279",
+    "pdm": "APAGADOR QUADRO BRANCO",
+    "grupo": 75
+  },
+  {
+    "id": "00280",
+    "pdm": "CAIXA CORRESPONDÊNCIA",
+    "grupo": 75
+  },
+  {
+    "id": "00281",
+    "pdm": "CARTUCHO CANETA TINTEIRO",
+    "grupo": 75
+  },
+  {
+    "id": "00282",
+    "pdm": "PINCEL DESENHO",
+    "grupo": 75
+  },
+  {
+    "id": "00307",
+    "pdm": "GOMEIRO MESA",
+    "grupo": 75
+  },
+  {
+    "id": "00308",
+    "pdm": "LETRA MAGNÉTICA",
+    "grupo": 75
+  },
+  {
+    "id": "00346",
+    "pdm": "BLOCO RECADO",
+    "grupo": 75
+  },
+  {
+    "id": "00347",
+    "pdm": "CARTÃO VISITA",
+    "grupo": 75
+  },
+  {
+    "id": "01167",
+    "pdm": "PELÍCULA AUTO-ADESIVA",
+    "grupo": 75
+  },
+  {
+    "id": "01170",
+    "pdm": "ETIQUETA TRANSPARENTE",
+    "grupo": 75
+  },
+  {
+    "id": "01211",
+    "pdm": "ABRIDOR ENVELOPE",
+    "grupo": 75
+  },
+  {
+    "id": "01213",
+    "pdm": "ABRIDOR FOLHA LIVRO",
+    "grupo": 75
+  },
+  {
+    "id": "01340",
+    "pdm": "BIBLIOCANTO",
+    "grupo": 75
+  },
+  {
+    "id": "01479",
+    "pdm": "CAVALETE",
+    "grupo": 75
+  },
+  {
+    "id": "01496",
+    "pdm": "ELÁSTICO",
+    "grupo": 75
+  },
+  {
+    "id": "01499",
+    "pdm": "ESTILETE",
+    "grupo": 75
+  },
+  {
+    "id": "01500",
+    "pdm": "LIVRO FISCAL",
+    "grupo": 75
+  },
+  {
+    "id": "01521",
+    "pdm": "FELTRO APAGADOR QUADRO BRANCO",
+    "grupo": 75
+  },
+  {
+    "id": "01563",
+    "pdm": "COLA EM FITA",
+    "grupo": 75
+  },
+  {
+    "id": "01590",
+    "pdm": "CANETA PONTA POROSA",
+    "grupo": 75
+  },
+  {
+    "id": "01591",
+    "pdm": "CANETA TINTEIRO",
+    "grupo": 75
+  },
+  {
+    "id": "02151",
+    "pdm": "AGENDA TELEFÔNICA",
+    "grupo": 75
+  },
+  {
+    "id": "02285",
+    "pdm": "ALGARISMO DE ACO",
+    "grupo": 75
+  },
+  {
+    "id": "02293",
+    "pdm": "ALGODÃO INDUSTRIAL",
+    "grupo": 75
+  },
+  {
+    "id": "02345",
+    "pdm": "ALMOFADA DE CARIMBO",
+    "grupo": 75
+  },
+  {
+    "id": "02352",
+    "pdm": "ALMOFADA COLETA IMPRESSÃO DIGITAL",
+    "grupo": 75
+  },
+  {
+    "id": "02630",
+    "pdm": "APAGADOR PARA PINCEL HIDROGRAFICO",
+    "grupo": 75
+  },
+  {
+    "id": "02872",
+    "pdm": "APARELHO ROTULADOR",
+    "grupo": 75
+  },
+  {
+    "id": "02905",
+    "pdm": "APOIO / SUPORTE - ETIQUETA MAGNÉTICA",
+    "grupo": 75
+  },
+  {
+    "id": "02909",
+    "pdm": "DISPENSER PAPEL BOBINADO",
+    "grupo": 75
+  },
+  {
+    "id": "02910",
+    "pdm": "APONTADOR MOTORIZADO DE LAPIS - FIXO",
+    "grupo": 75
+  },
+  {
+    "id": "03037",
+    "pdm": "ARQUIVO PASTA SUSPENSA - PAPELÃO / MADEIRA",
+    "grupo": 75
+  },
+  {
+    "id": "03413",
+    "pdm": "BASE PARA CARIMBO",
+    "grupo": 75
+  },
+  {
+    "id": "03414",
+    "pdm": "BASE DE CALENDÁRIO",
+    "grupo": 75
+  },
+  {
+    "id": "03596",
+    "pdm": "BLOCO COMUNICAÇÂO",
+    "grupo": 75
+  },
+  {
+    "id": "03618",
+    "pdm": "BLOCO FLIP CHART",
+    "grupo": 75
+  },
+  {
+    "id": "03634",
+    "pdm": "BOBINA DE ARAME PARA GRAMPEADOR",
+    "grupo": 75
+  },
+  {
+    "id": "03815",
+    "pdm": "BORRACHA PARA LÁPIS PERFUMADA",
+    "grupo": 75
+  },
+  {
+    "id": "03818",
+    "pdm": "ESQUADRO",
+    "grupo": 75
+  },
+  {
+    "id": "04093",
+    "pdm": "CADERNETA",
+    "grupo": 75
+  },
+  {
+    "id": "04094",
+    "pdm": "REFIL FOLHAS",
+    "grupo": 75
+  },
+  {
+    "id": "04115",
+    "pdm": "CAIXA CORRESPONDENCIA",
+    "grupo": 75
+  },
+  {
+    "id": "04406",
+    "pdm": "CANETA - MARCA EVIDÊNCIA",
+    "grupo": 75
+  },
+  {
+    "id": "04410",
+    "pdm": "CANETA COM TINTA PERFUMADA",
+    "grupo": 75
+  },
+  {
+    "id": "04412",
+    "pdm": "CANETA HIDROCOR",
+    "grupo": 75
+  },
+  {
+    "id": "04416",
+    "pdm": "CANETA PERMANENTE",
+    "grupo": 75
+  },
+  {
+    "id": "04439",
+    "pdm": "CAPA ENCADERNAÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": "04447",
+    "pdm": "CAPA ENCADERNADORA",
+    "grupo": 75
+  },
+  {
+    "id": "04449",
+    "pdm": "CAPA PROCESSO",
+    "grupo": 75
+  },
+  {
+    "id": "04542",
+    "pdm": "CARGA DE CANETA ESFEROGRAFICA",
+    "grupo": 75
+  },
+  {
+    "id": "04545",
+    "pdm": "COMPONENTES CARIMBO",
+    "grupo": 75
+  },
+  {
+    "id": "04649",
+    "pdm": "CARTAO DE INSTRUMENTO REGISTRADOR",
+    "grupo": 75
+  },
+  {
+    "id": "04650",
+    "pdm": "TARGETA",
+    "grupo": 75
+  },
+  {
+    "id": "04651",
+    "pdm": "CARTÃO REGISTRO PONTO",
+    "grupo": 75
+  },
+  {
+    "id": "04666",
+    "pdm": "CARTOLINA DE DESENHO",
+    "grupo": 75
+  },
+  {
+    "id": "04793",
+    "pdm": "CERTIFICADO",
+    "grupo": 75
+  },
+  {
+    "id": "05338",
+    "pdm": "COLCHETE FIXACAO",
+    "grupo": 75
+  },
+  {
+    "id": "05912",
+    "pdm": "CORRETOR DE ESTENCIL",
+    "grupo": 75
+  },
+  {
+    "id": "05921",
+    "pdm": "CORTADOR DE FERRO",
+    "grupo": 75
+  },
+  {
+    "id": "06164",
+    "pdm": "DIÁRIO CLASSE",
+    "grupo": 75
+  },
+  {
+    "id": "06239",
+    "pdm": "DIPLOMA",
+    "grupo": 75
+  },
+  {
+    "id": "06252",
+    "pdm": "DISCO DE APARELHO ROTULADOR",
+    "grupo": 75
+  },
+  {
+    "id": "06365",
+    "pdm": "DIVISORIA ARQUIVO",
+    "grupo": 75
+  },
+  {
+    "id": "06367",
+    "pdm": "DIVISORIA DE PUBLICACAO",
+    "grupo": 75
+  },
+  {
+    "id": "06588",
+    "pdm": "ENVELOPE PARA CONVITE",
+    "grupo": 75
+  },
+  {
+    "id": "06994",
+    "pdm": "ESPÁTULA PARA PAPEL",
+    "grupo": 75
+  },
+  {
+    "id": "07044",
+    "pdm": "ESPONJEIRA",
+    "grupo": 75
+  },
+  {
+    "id": "07150",
+    "pdm": "ESTOJO",
+    "grupo": 75
+  },
+  {
+    "id": "07151",
+    "pdm": "ESTOJO DE CANETA TINTEIRO",
+    "grupo": 75
+  },
+  {
+    "id": "07340",
+    "pdm": "FELTRO PARA APAGADOR DE QUADRO NEGRO",
+    "grupo": 75
+  },
+  {
+    "id": "07423",
+    "pdm": "FICHEIRO",
+    "grupo": 75
+  },
+  {
+    "id": "07428",
+    "pdm": "FILME FAC-SÍMILE",
+    "grupo": 75
+  },
+  {
+    "id": "07444",
+    "pdm": "FILME PARA TRANSPARENCIA",
+    "grupo": 75
+  },
+  {
+    "id": "07468",
+    "pdm": "FILTRO DE COPIADOR",
+    "grupo": 75
+  },
+  {
+    "id": "07547",
+    "pdm": "FITA POLIACETATO",
+    "grupo": 75
+  },
+  {
+    "id": "07551",
+    "pdm": "FITA ADESIVA VIDRARIA",
+    "grupo": 75
+  },
+  {
+    "id": "07554",
+    "pdm": "FITA ADESIVA MAGICA",
+    "grupo": 75
+  },
+  {
+    "id": "07580",
+    "pdm": "FITA GOMADA",
+    "grupo": 75
+  },
+  {
+    "id": "07584",
+    "pdm": "FITA MÁQUINA REGISTRADORA",
+    "grupo": 75
+  },
+  {
+    "id": "07586",
+    "pdm": "FITA",
+    "grupo": 75
+  },
+  {
+    "id": "07587",
+    "pdm": "FITA IMPRESSORA - RELOGIO CARIMBADOR",
+    "grupo": 75
+  },
+  {
+    "id": "07588",
+    "pdm": "TRANSFERIDOR ESCOLAR",
+    "grupo": 75
+  },
+  {
+    "id": "07604",
+    "pdm": "FITA RELÓGIO DATADOR / NUMERADOR",
+    "grupo": 75
+  },
+  {
+    "id": "07605",
+    "pdm": "FITA PARA TELETIPOS",
+    "grupo": 75
+  },
+  {
+    "id": "07741",
+    "pdm": "FORMULARIO BANCARIO",
+    "grupo": 75
+  },
+  {
+    "id": "07742",
+    "pdm": "FORMULARIO COMERCIAL",
+    "grupo": 75
+  },
+  {
+    "id": "07743",
+    "pdm": "FORMULARIO DE CALCULO TOPOGRAFICO",
+    "grupo": 75
+  },
+  {
+    "id": "07744",
+    "pdm": "FORMULÁRIO OFICIAL",
+    "grupo": 75
+  },
+  {
+    "id": "07745",
+    "pdm": "FORMULARIO PARA REGISTRO TOPOGRAFICO",
+    "grupo": 75
+  },
+  {
+    "id": "07746",
+    "pdm": "FORMULÁRIO PLANO",
+    "grupo": 75
+  },
+  {
+    "id": "07747",
+    "pdm": "FORMULARIO PLANO DA AREA DE FINANCA",
+    "grupo": 75
+  },
+  {
+    "id": "07748",
+    "pdm": "FORMULARIO PLANO DA AREA DE MATERIAL",
+    "grupo": 75
+  },
+  {
+    "id": "07749",
+    "pdm": "FORMULARIO PLANO DA AREA DE ORGANIZACAO",
+    "grupo": 75
+  },
+  {
+    "id": "07750",
+    "pdm": "FORMULARIO PLANO DA AREA DE PESSOAL",
+    "grupo": 75
+  },
+  {
+    "id": "07751",
+    "pdm": "FORMULARIO PLANO DA AREA DE PLANEJAMENTO",
+    "grupo": 75
+  },
+  {
+    "id": "07752",
+    "pdm": "FORMULARIO PLANO DA AREA DE RELACAO PUBLICA",
+    "grupo": 75
+  },
+  {
+    "id": "08027",
+    "pdm": "GOMA BRANCA DE ESCRITORIO",
+    "grupo": 75
+  },
+  {
+    "id": "08281",
+    "pdm": "ILHÓS",
+    "grupo": 75
+  },
+  {
+    "id": "08304",
+    "pdm": "IMPRESSO ADESIVO DE USO GERAL",
+    "grupo": 75
+  },
+  {
+    "id": "08305",
+    "pdm": "IMPRESSO PADRONIZADO",
+    "grupo": 75
+  },
+  {
+    "id": "08349",
+    "pdm": "INDICADOR DE QUADRO CROMADO ( EXPEDIENTE )",
+    "grupo": 75
+  },
+  {
+    "id": "08541",
+    "pdm": "KIT DE CANETAS CD",
+    "grupo": 75
+  },
+  {
+    "id": "08596",
+    "pdm": "LACRE DE SINETE",
+    "grupo": 75
+  },
+  {
+    "id": "08627",
+    "pdm": "LAMINA INSERCAO PASTA ARQUIVO",
+    "grupo": 75
+  },
+  {
+    "id": "08893",
+    "pdm": "LIVRO REGISTRO / CONTROLE",
+    "grupo": 75
+  },
+  {
+    "id": "08894",
+    "pdm": "LIVRO REGISTRO / CONTROLE - FOLHA SOLTA ( REFIL )",
+    "grupo": 75
+  },
+  {
+    "id": "09126",
+    "pdm": "MANUAL",
+    "grupo": 75
+  },
+  {
+    "id": "09369",
+    "pdm": "MARCADOR DE LIVRO",
+    "grupo": 75
+  },
+  {
+    "id": "09872",
+    "pdm": "MOLHADOR DE DEDO",
+    "grupo": 75
+  },
+  {
+    "id": 10367,
+    "pdm": "PAPEL DE RASCUNHO",
+    "grupo": 75
+  },
+  {
+    "id": 10389,
+    "pdm": "PAPEL RECADO",
+    "grupo": 75
+  },
+  {
+    "id": 10408,
+    "pdm": "FURADOR ARTESANAL",
+    "grupo": 75
+  },
+  {
+    "id": 10409,
+    "pdm": "PAPELEIRA MESA DE ESCRITÓRIO",
+    "grupo": 75
+  },
+  {
+    "id": 10476,
+    "pdm": "PASSAPORTE",
+    "grupo": 75
+  },
+  {
+    "id": 10490,
+    "pdm": "PASTA INTERCALADORA",
+    "grupo": 75
+  },
+  {
+    "id": 10493,
+    "pdm": "PASTA PLASTICA COM ELASTICO",
+    "grupo": 75
+  },
+  {
+    "id": 10598,
+    "pdm": "PELICULA FAX",
+    "grupo": 75
+  },
+  {
+    "id": 10664,
+    "pdm": "PERFURADOR CRACHÁ",
+    "grupo": 75
+  },
+  {
+    "id": 10736,
+    "pdm": "PINCEL QUADRO BRANCO / MAGNÉTICO",
+    "grupo": 75
+  },
+  {
+    "id": 11034,
+    "pdm": "PORTA-CLIPE",
+    "grupo": 75
+  },
+  {
+    "id": 11041,
+    "pdm": "PORTA-FICHÁRIO",
+    "grupo": 75
+  },
+  {
+    "id": 11047,
+    "pdm": "PORTA-ORIGINAL DE DOCUMENTO",
+    "grupo": 75
+  },
+  {
+    "id": 11050,
+    "pdm": "PORTA-PAPEL LEMBRETE",
+    "grupo": 75
+  },
+  {
+    "id": 11084,
+    "pdm": "PORTA PRONTUÁRIO",
+    "grupo": 75
+  },
+  {
+    "id": 11136,
+    "pdm": "PRANCHETA PARA PAPEL DE ANOTACAO",
+    "grupo": 75
+  },
+  {
+    "id": 11260,
+    "pdm": "PROLONGADOR DE LAPIS",
+    "grupo": 75
+  },
+  {
+    "id": 11346,
+    "pdm": "CANALETA PVC",
+    "grupo": 75
+  },
+  {
+    "id": 11474,
+    "pdm": "RECEPTOR PARA MAQUINA COPIADORA",
+    "grupo": 75
+  },
+  {
+    "id": 11530,
+    "pdm": "REFORÇO AUTO-ADESIVO",
+    "grupo": 75
+  },
+  {
+    "id": 11569,
+    "pdm": "RÉGUA COMUM",
+    "grupo": 75
+  },
+  {
+    "id": 11570,
+    "pdm": "RÉGUA DE CÁLCULO",
+    "grupo": 75
+  },
+  {
+    "id": 11576,
+    "pdm": "RÉGUA",
+    "grupo": 75
+  },
+  {
+    "id": 11578,
+    "pdm": "REGUA GABARITO PARA PROCESSAMENTO DE DADOS",
+    "grupo": 75
+  },
+  {
+    "id": 11636,
+    "pdm": "REMOVEDOR DE PELICULA DE MAQUINA COPIADORA",
+    "grupo": 75
+  },
+  {
+    "id": 11808,
+    "pdm": "ROLDANA PLASTICA PARA DUREX",
+    "grupo": 75
+  },
+  {
+    "id": 11809,
+    "pdm": "APLICADOR FITA",
+    "grupo": 75
+  },
+  {
+    "id": 11823,
+    "pdm": "LIMPADOR ROLO COPIADORA",
+    "grupo": 75
+  },
+  {
+    "id": 12019,
+    "pdm": "SEPARADOR DE CARTOLINA PARA FICHARIO",
+    "grupo": 75
+  },
+  {
+    "id": 12082,
+    "pdm": "SINALIZADOR DE FICHA",
+    "grupo": 75
+  },
+  {
+    "id": 12148,
+    "pdm": "SELO GRÁFICO",
+    "grupo": 75
+  },
+  {
+    "id": 12375,
+    "pdm": "SUPORTE DE APAGADOR DE QUADRO - BRANCO",
+    "grupo": 75
+  },
+  {
+    "id": 12417,
+    "pdm": "SUPORTE PARA TELEFONE",
+    "grupo": 75
+  },
+  {
+    "id": 12732,
+    "pdm": "REFIL PARA COLETOR IMPRESSÃO DIGITAL",
+    "grupo": 75
+  },
+  {
+    "id": 12738,
+    "pdm": "TINTA DE INSTRUMENTO REGISTRADOR",
+    "grupo": 75
+  },
+  {
+    "id": 12750,
+    "pdm": "TINTA NUMERADOR - DATADOR METAL",
+    "grupo": 75
+  },
+  {
+    "id": 12753,
+    "pdm": "TINTA PARA DUPLICADOR DIGITAL",
+    "grupo": 75
+  },
+  {
+    "id": 12756,
+    "pdm": "TINTEIRO DE MESA",
+    "grupo": 75
+  },
+  {
+    "id": 12987,
+    "pdm": "ACESSORIO / COMPONENTE / ENCADERNAÇÃO PROCESSO",
+    "grupo": 75
+  },
+  {
+    "id": 13570,
+    "pdm": "FITA PARA MÁQUINA DE ESCRITÓRIO",
+    "grupo": 75
+  },
+  {
+    "id": 13573,
+    "pdm": "GARRA ENCADERNACAO",
+    "grupo": 75
+  },
+  {
+    "id": 13580,
+    "pdm": "LÁPIS CÓPIA",
+    "grupo": 75
+  },
+  {
+    "id": 13612,
+    "pdm": "PASTA ARQUIVO - COM / SEM ELASTICO",
+    "grupo": 75
+  },
+  {
+    "id": 13613,
+    "pdm": "PASTA SUSPENSA",
+    "grupo": 75
+  },
+  {
+    "id": 13703,
+    "pdm": "PASTA PORTA-FOLHA",
+    "grupo": 75
+  },
+  {
+    "id": 13704,
+    "pdm": "PASTA DOCUMENTO",
+    "grupo": 75
+  },
+  {
+    "id": 13705,
+    "pdm": "PASTA POLIONDA",
+    "grupo": 75
+  },
+  {
+    "id": 13706,
+    "pdm": "LÁPIS DE CORES",
+    "grupo": 75
+  },
+  {
+    "id": 13707,
+    "pdm": "PASTA SANFONADA",
+    "grupo": 75
+  },
+  {
+    "id": 13724,
+    "pdm": "ROLO TINTA IMPRESSÃO PAPILAR",
+    "grupo": 75
+  },
+  {
+    "id": 13725,
+    "pdm": "DISPENSADOR FITA EVIDÊNCIA",
+    "grupo": 75
+  },
+  {
+    "id": 13733,
+    "pdm": "TINTA IMPRESSÃO PAPILAR",
+    "grupo": 75
+  },
+  {
+    "id": 13734,
+    "pdm": "DISPENSADOR FITA",
+    "grupo": 75
+  },
+  {
+    "id": 13735,
+    "pdm": "COLETOR IMPRESSÃO PALMAR",
+    "grupo": 75
+  },
+  {
+    "id": 13738,
+    "pdm": "FICHA COLETA IMPRESSÃO PALMAR E DIGITAL",
+    "grupo": 75
+  },
+  {
+    "id": 13740,
+    "pdm": "SUPORTE BORRACHA IMPRESSÃO",
+    "grupo": 75
+  },
+  {
+    "id": 13812,
+    "pdm": "GUIA FORMAÇÃO PROCESSO",
+    "grupo": 75
+  },
+  {
+    "id": 13817,
+    "pdm": "ELÁSTICO PROCESSO",
+    "grupo": 75
+  },
+  {
+    "id": 13824,
+    "pdm": "CARIMBO",
+    "grupo": 75
+  },
+  {
+    "id": 13851,
+    "pdm": "PAPEL OFÍCIO I",
+    "grupo": 75
+  },
+  {
+    "id": 13852,
+    "pdm": "PAPEL OFÍCIO",
+    "grupo": 75
+  },
+  {
+    "id": 13856,
+    "pdm": "ETIQUETA AUTO-ADESIVA",
+    "grupo": 75
+  },
+  {
+    "id": 13879,
+    "pdm": "FOLHA DESPACHO PROCESSO",
+    "grupo": 75
+  },
+  {
+    "id": 13887,
+    "pdm": "PASTA PORTA-REVISTA",
+    "grupo": 75
+  },
+  {
+    "id": 13907,
+    "pdm": "ROLETE ENTINTADO",
+    "grupo": 75
+  },
+  {
+    "id": 13908,
+    "pdm": "BLOCO REQUISIÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": 13912,
+    "pdm": "PASTA CARTOLINA",
+    "grupo": 75
+  },
+  {
+    "id": 13927,
+    "pdm": "PASTA EVENTOS",
+    "grupo": 75
+  },
+  {
+    "id": 14013,
+    "pdm": "PINCEL MARCADOR PERMANENTE CD",
+    "grupo": 75
+  },
+  {
+    "id": 14014,
+    "pdm": "PROTETOR CAPA PROCESSO",
+    "grupo": 75
+  },
+  {
+    "id": 14055,
+    "pdm": "ÍNDICE ALFABÉTICO",
+    "grupo": 75
+  },
+  {
+    "id": 14084,
+    "pdm": "PAPEL PROVA IMPRESSÃO",
+    "grupo": 75
+  },
+  {
+    "id": 14138,
+    "pdm": "CERTIFICADO PREMIAÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": 14185,
+    "pdm": "COLETOR IMPRESSÃO DIGITAL",
+    "grupo": 75
+  },
+  {
+    "id": 14224,
+    "pdm": "PAPEL A3",
+    "grupo": 75
+  },
+  {
+    "id": 14261,
+    "pdm": "PASTA VETRO LATERAL",
+    "grupo": 75
+  },
+  {
+    "id": 14281,
+    "pdm": "MARCADOR PÁGINA",
+    "grupo": 75
+  },
+  {
+    "id": 14301,
+    "pdm": "CANETA RETROPROJETOR",
+    "grupo": 75
+  },
+  {
+    "id": 14365,
+    "pdm": "FORMULÁRIO EXPOSIÇÃO MOTIVOS",
+    "grupo": 75
+  },
+  {
+    "id": 14367,
+    "pdm": "CADERNO SECRETÁRIA",
+    "grupo": 75
+  },
+  {
+    "id": 14375,
+    "pdm": "MARCADOR MAPA",
+    "grupo": 75
+  },
+  {
+    "id": 14409,
+    "pdm": "PAPEL CASCA OVO",
+    "grupo": 75
+  },
+  {
+    "id": 14468,
+    "pdm": "ESPIRAL DUPLO",
+    "grupo": 75
+  },
+  {
+    "id": 14490,
+    "pdm": "CAIXA GIZ",
+    "grupo": 75
+  },
+  {
+    "id": 14525,
+    "pdm": "CAVALETE IDENTIFICAÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": 14528,
+    "pdm": "LIVRO DE PONTO",
+    "grupo": 75
+  },
+  {
+    "id": 14578,
+    "pdm": "BLOCO RECIBO PAGAMENTO",
+    "grupo": 75
+  },
+  {
+    "id": 14579,
+    "pdm": "BLOCO NOTA FISCAL",
+    "grupo": 75
+  },
+  {
+    "id": 14592,
+    "pdm": "BLOCO REQUISIÇÃO VEÍCULO",
+    "grupo": 75
+  },
+  {
+    "id": 14617,
+    "pdm": "CHEQUE COMBUSTÍVEL",
+    "grupo": 75
+  },
+  {
+    "id": 14668,
+    "pdm": "PORTA-LÁPIS",
+    "grupo": 75
+  },
+  {
+    "id": 14673,
+    "pdm": "PAPEL FICHÁRIO",
+    "grupo": 75
+  },
+  {
+    "id": 14699,
+    "pdm": "PORTA OBJETO CONJUGADO",
+    "grupo": 75
+  },
+  {
+    "id": 14725,
+    "pdm": "PASTA SUSPENSA PENDULAR",
+    "grupo": 75
+  },
+  {
+    "id": 14768,
+    "pdm": "TESOURA ESCOLAR",
+    "grupo": 75
+  },
+  {
+    "id": 14794,
+    "pdm": "ETIQUETA GOMADA",
+    "grupo": 75
+  },
+  {
+    "id": 14824,
+    "pdm": "FILME FAX",
+    "grupo": 75
+  },
+  {
+    "id": 14828,
+    "pdm": "PAPEL CANSON",
+    "grupo": 75
+  },
+  {
+    "id": 14858,
+    "pdm": "BOBINA PAPEL IMPRESSORA",
+    "grupo": 75
+  },
+  {
+    "id": 14937,
+    "pdm": "PASTA PORTA-PROCESSO",
+    "grupo": 75
+  },
+  {
+    "id": 14982,
+    "pdm": "PASTA PVC",
+    "grupo": 75
+  },
+  {
+    "id": 15014,
+    "pdm": "CORRETIVO FITA",
+    "grupo": 75
+  },
+  {
+    "id": 15050,
+    "pdm": "BLOCO NOTA PRODUÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": 15150,
+    "pdm": "SUPORTE PARA LIVRO",
+    "grupo": 75
+  },
+  {
+    "id": 15159,
+    "pdm": "LIGA",
+    "grupo": 75
+  },
+  {
+    "id": 15214,
+    "pdm": "REFIL CARIMBO",
+    "grupo": 75
+  },
+  {
+    "id": 15236,
+    "pdm": "ESTOJO CD ROM",
+    "grupo": 75
+  },
+  {
+    "id": 15237,
+    "pdm": "CARTÃO PROTOCOLO",
+    "grupo": 75
+  },
+  {
+    "id": 15270,
+    "pdm": "PAPEL TRANSPARÊNCIA",
+    "grupo": 75
+  },
+  {
+    "id": 15281,
+    "pdm": "GIZ PASTEL",
+    "grupo": 75
+  },
+  {
+    "id": 15326,
+    "pdm": "BLOCO PROTOCOLO REMESSA",
+    "grupo": 75
+  },
+  {
+    "id": 15342,
+    "pdm": "PAPEL A2",
+    "grupo": 75
+  },
+  {
+    "id": 15384,
+    "pdm": "BLOCO COLETA AMOSTRAS",
+    "grupo": 75
+  },
+  {
+    "id": 15434,
+    "pdm": "CARTÃO EXAME MÉDICO PERICIAL",
+    "grupo": 75
+  },
+  {
+    "id": 15543,
+    "pdm": "LÂMINA ESTILETE",
+    "grupo": 75
+  },
+  {
+    "id": 15545,
+    "pdm": "APOIO PUNHO TECLADO",
+    "grupo": 75
+  },
+  {
+    "id": 15558,
+    "pdm": "BLOCO NOTIFICAÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": 15598,
+    "pdm": "REFIL PARA IMPRESSORA / COPIADORA OLIVETTI",
+    "grupo": 75
+  },
+  {
+    "id": 15644,
+    "pdm": "PROTETOR CAPA LIVRO",
+    "grupo": 75
+  },
+  {
+    "id": 15661,
+    "pdm": "PASTA TRANSPORTE PROCESSO",
+    "grupo": 75
+  },
+  {
+    "id": 15737,
+    "pdm": "REFIL RECARGA IMPRESSORA",
+    "grupo": 75
+  },
+  {
+    "id": 15848,
+    "pdm": "FITA IDENTIFICAÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": 15939,
+    "pdm": "CAPA PRONTUÁRIO",
+    "grupo": 75
+  },
+  {
+    "id": 15943,
+    "pdm": "FORMULÁRIO CONTROLE FREQÜÊNCIA",
+    "grupo": 75
+  },
+  {
+    "id": 16026,
+    "pdm": "PAPEL LEMBRETE",
+    "grupo": 75
+  },
+  {
+    "id": 16039,
+    "pdm": "BLOCO AVALIAÇÃO CAPACIDADE LABORATIVA",
+    "grupo": 75
+  },
+  {
+    "id": 16066,
+    "pdm": "ÍNDICE ANUAL",
+    "grupo": 75
+  },
+  {
+    "id": 16067,
+    "pdm": "ÍNDICE NUMÉRICO",
+    "grupo": 75
+  },
+  {
+    "id": 16069,
+    "pdm": "CARTÃO CORRESPONDÊNCIA",
+    "grupo": 75
+  },
+  {
+    "id": 16070,
+    "pdm": "FICHA CONTROLE BIBLIOGRÁFICO",
+    "grupo": 75
+  },
+  {
+    "id": 16081,
+    "pdm": "ELEMENTO IMPRESSÃO MÁQUINA ESCREVER",
+    "grupo": 75
+  },
+  {
+    "id": 16273,
+    "pdm": "BLOCO RECIBO ENTREGA - RE",
+    "grupo": 75
+  },
+  {
+    "id": 16357,
+    "pdm": "FITA MÁQUINA PROTOCOLADORA",
+    "grupo": 75
+  },
+  {
+    "id": 16372,
+    "pdm": "CARTÃO SPEED",
+    "grupo": 75
+  },
+  {
+    "id": 16392,
+    "pdm": "PAPEL NÃO CLORADO",
+    "grupo": 75
+  },
+  {
+    "id": 16413,
+    "pdm": "PAPEL DUPLO OFÍCIO",
+    "grupo": 75
+  },
+  {
+    "id": 16424,
+    "pdm": "APLICADOR ETIQUETAS CD / DVD",
+    "grupo": 75
+  },
+  {
+    "id": 16438,
+    "pdm": "PAPEL DUPLO CARTA",
+    "grupo": 75
+  },
+  {
+    "id": 16467,
+    "pdm": "CARTÃO FREQUÊNCIA",
+    "grupo": 75
+  },
+  {
+    "id": 16580,
+    "pdm": "PAPEL BRAILLE",
+    "grupo": 75
+  },
+  {
+    "id": 17224,
+    "pdm": "CAPA PADRONIZADA",
+    "grupo": 75
+  },
+  {
+    "id": 17225,
+    "pdm": "ACESSÓRIO E DISPOSITIVOS PARA ESCRITÓRIO",
+    "grupo": 75
+  },
+  {
+    "id": 17226,
+    "pdm": "FORMULÁRIOS OFICIAIS",
+    "grupo": 75
+  },
+  {
+    "id": 17227,
+    "pdm": "FORMULÁRIOS PADRONIZADOS",
+    "grupo": 75
+  },
+  {
+    "id": 17354,
+    "pdm": "REFIL FAX",
+    "grupo": 75
+  },
+  {
+    "id": 17542,
+    "pdm": "PAPEL ROLO",
+    "grupo": 75
+  },
+  {
+    "id": 17558,
+    "pdm": "MALETA ARQUIVO",
+    "grupo": 75
+  },
+  {
+    "id": 17616,
+    "pdm": "PORTA-CANETA",
+    "grupo": 75
+  },
+  {
+    "id": 17618,
+    "pdm": "SEPARADOR PASTAS",
+    "grupo": 75
+  },
+  {
+    "id": 17632,
+    "pdm": "CARTÃO-CONVITE",
+    "grupo": 75
+  },
+  {
+    "id": 17655,
+    "pdm": "REFIL ÍNDICE",
+    "grupo": 75
+  },
+  {
+    "id": 17737,
+    "pdm": "CABECEADO ENCADERNAÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": 17738,
+    "pdm": "PAPEL OFÍCIO 9",
+    "grupo": 75
+  },
+  {
+    "id": 17794,
+    "pdm": "TIQUETE",
+    "grupo": 75
+  },
+  {
+    "id": 17820,
+    "pdm": "BLOCO VALE REFEIÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": 17836,
+    "pdm": "URNA",
+    "grupo": 75
+  },
+  {
+    "id": 17846,
+    "pdm": "BLOCO DE INGRESSO PARA ENTRADA",
+    "grupo": 75
+  },
+  {
+    "id": 17892,
+    "pdm": "PORTA RECADO",
+    "grupo": 75
+  },
+  {
+    "id": 18065,
+    "pdm": "PRANCHETA PORTÁTIL",
+    "grupo": 75
+  },
+  {
+    "id": 18066,
+    "pdm": "EXTRATOR GRAMPO",
+    "grupo": 75
+  },
+  {
+    "id": 18071,
+    "pdm": "FITA ADESIVA",
+    "grupo": 75
+  },
+  {
+    "id": 18072,
+    "pdm": "CANETA CORRETIVA",
+    "grupo": 75
+  },
+  {
+    "id": 18073,
+    "pdm": "CANETA - INDICADOR",
+    "grupo": 75
+  },
+  {
+    "id": 18075,
+    "pdm": "CANETA MARCA-TEXTO",
+    "grupo": 75
+  },
+  {
+    "id": 18078,
+    "pdm": "CANETA HIDROGRÁFICA",
+    "grupo": 75
+  },
+  {
+    "id": 18210,
+    "pdm": "TINTA",
+    "grupo": 75
+  },
+  {
+    "id": 18258,
+    "pdm": "TINTA PARA CARIMBO",
+    "grupo": 75
+  },
+  {
+    "id": 18420,
+    "pdm": "FITA IDENTIFICAÇÃO CHAVE",
+    "grupo": 75
+  },
+  {
+    "id": 18462,
+    "pdm": "CANTEADOR",
+    "grupo": 75
+  },
+  {
+    "id": 18522,
+    "pdm": "PORTA ALFINETE",
+    "grupo": 75
+  },
+  {
+    "id": 18529,
+    "pdm": "CAPA AGENDA",
+    "grupo": 75
+  },
+  {
+    "id": 18574,
+    "pdm": "PASTA EXPOSIÇÃO",
+    "grupo": 75
+  },
+  {
+    "id": 18675,
+    "pdm": "APARELHO FIXADOR CLIPS",
+    "grupo": 75
+  },
+  {
+    "id": 18768,
+    "pdm": "LÁPIS",
+    "grupo": 75
+  },
+  {
+    "id": 18808,
+    "pdm": "MARCADOR TUBO",
+    "grupo": 75
+  },
+  {
+    "id": 19190,
+    "pdm": "PLACA CARIMBO",
+    "grupo": 75
+  }
+]

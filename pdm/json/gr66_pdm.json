@@ -1,0 +1,5777 @@
+[
+  {
+    "id": "00482",
+    "pdm": "RELÓGIO",
+    "grupo": 66
+  },
+  {
+    "id": "00483",
+    "pdm": "RELÓGIO PONTO",
+    "grupo": 66
+  },
+  {
+    "id": "00489",
+    "pdm": "BALANÇA PRECISÃO",
+    "grupo": 66
+  },
+  {
+    "id": "00490",
+    "pdm": "BALANÇA ANALÍTICA",
+    "grupo": 66
+  },
+  {
+    "id": "00491",
+    "pdm": "BALANÇA COMERCIAL",
+    "grupo": 66
+  },
+  {
+    "id": "00508",
+    "pdm": "TERMÔMETRO BIMETÁLICO INDUSTRIAL",
+    "grupo": 66
+  },
+  {
+    "id": "00509",
+    "pdm": "PRESSOSTATO",
+    "grupo": 66
+  },
+  {
+    "id": "00510",
+    "pdm": "PRESSOSTATO ALTA / MÉDIA PRESSÃO",
+    "grupo": 66
+  },
+  {
+    "id": "00511",
+    "pdm": "NÍVEL ÓTICO",
+    "grupo": 66
+  },
+  {
+    "id": "00512",
+    "pdm": "COMPASSO TÉCNICO",
+    "grupo": 66
+  },
+  {
+    "id": "00515",
+    "pdm": "BALÃO VOLUMÉTRICO",
+    "grupo": 66
+  },
+  {
+    "id": "00516",
+    "pdm": "BALÃO DESTILAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "00517",
+    "pdm": "BÉQUER",
+    "grupo": 66
+  },
+  {
+    "id": "00518",
+    "pdm": "PIPETA SOROLÓGICA (CONSULTAR INC 08874)",
+    "grupo": 66
+  },
+  {
+    "id": "00520",
+    "pdm": "TERMÔMETRO EXPANSÃO A GÁS BULBO FIXO",
+    "grupo": 66
+  },
+  {
+    "id": "00521",
+    "pdm": "TERMÔMETRO EXPANSÃO A GÁS LEITURA À DISTÂNCIA",
+    "grupo": 66
+  },
+  {
+    "id": "00522",
+    "pdm": "MANÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "00523",
+    "pdm": "TERMÔMETRO SOLO",
+    "grupo": 66
+  },
+  {
+    "id": "00524",
+    "pdm": "TERMÔMETRO VIDRO INDUSTRIAL",
+    "grupo": 66
+  },
+  {
+    "id": "00526",
+    "pdm": "AGITADOR MAGNÉTICO",
+    "grupo": 66
+  },
+  {
+    "id": "00527",
+    "pdm": "AGITADOR MECÂNICO",
+    "grupo": 66
+  },
+  {
+    "id": "00529",
+    "pdm": "ESTUFA",
+    "grupo": 66
+  },
+  {
+    "id": "00530",
+    "pdm": "MUFLA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "00541",
+    "pdm": "SONICADOR",
+    "grupo": 66
+  },
+  {
+    "id": "00545",
+    "pdm": "DISPENSADOR LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "00546",
+    "pdm": "EVAPORADOR ROTATIVO VÁCUO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "00547",
+    "pdm": "SONDA TRANSPIRAÇÃO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "00549",
+    "pdm": "BANHO MARIA.",
+    "grupo": 66
+  },
+  {
+    "id": "01198",
+    "pdm": "ASTROLÁBIO",
+    "grupo": 66
+  },
+  {
+    "id": "01226",
+    "pdm": "PRANCHETA DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": "01259",
+    "pdm": "PRISMA PARA TOPOGRAFIA",
+    "grupo": 66
+  },
+  {
+    "id": "01298",
+    "pdm": "SONDA",
+    "grupo": 66
+  },
+  {
+    "id": "01308",
+    "pdm": "CAPACÍMETRO DIGITAL",
+    "grupo": 66
+  },
+  {
+    "id": "01332",
+    "pdm": "CÂMARA DESINFESTAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "01338",
+    "pdm": "NEGATOSCÓPIO",
+    "grupo": 66
+  },
+  {
+    "id": "01681",
+    "pdm": "ACESSORIO DE LABORATORIO DE MICROFILMAGEM",
+    "grupo": 66
+  },
+  {
+    "id": "01685",
+    "pdm": "ACESSÓRIO DE MICROSCÓPIO",
+    "grupo": 66
+  },
+  {
+    "id": "01702",
+    "pdm": "ACESSORIO DE TESTE ELETRICO / ELETRONICO",
+    "grupo": 66
+  },
+  {
+    "id": "01855",
+    "pdm": "ESPECTRÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "02082",
+    "pdm": "ADAPTADOR DE COMPASSO DE DESENHISTA",
+    "grupo": 66
+  },
+  {
+    "id": "02087",
+    "pdm": "ADAPTADOR FILTRO",
+    "grupo": 66
+  },
+  {
+    "id": "02125",
+    "pdm": "AEROGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": "02126",
+    "pdm": "AEROGRAFO ( METEOROLOGIA)",
+    "grupo": 66
+  },
+  {
+    "id": "02127",
+    "pdm": "AEROGRAFO PARA PINTURA",
+    "grupo": 66
+  },
+  {
+    "id": "02132",
+    "pdm": "AEROMETRO PARA ANALISE QUIMICA",
+    "grupo": 66
+  },
+  {
+    "id": "02133",
+    "pdm": "AEROMETRO PARA LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "02136",
+    "pdm": "AEROMETRO PARA USO MEDICO",
+    "grupo": 66
+  },
+  {
+    "id": "02155",
+    "pdm": "AGLUTINOSCOPIO",
+    "grupo": 66
+  },
+  {
+    "id": "02172",
+    "pdm": "AGULHA",
+    "grupo": 66
+  },
+  {
+    "id": "02194",
+    "pdm": "AGULHA GRAVADORA DE ESTENCIL",
+    "grupo": 66
+  },
+  {
+    "id": "02242",
+    "pdm": "ALÇA BACTERIOLÓGICA",
+    "grupo": 66
+  },
+  {
+    "id": "02247",
+    "pdm": "ALCALINOMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "02267",
+    "pdm": "ALCOOLÔMETRO (CONSULTAR ALCOÔMETRO)",
+    "grupo": 66
+  },
+  {
+    "id": "02268",
+    "pdm": "ALCOÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "02281",
+    "pdm": "PINÇA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "02319",
+    "pdm": "ELETRODO",
+    "grupo": 66
+  },
+  {
+    "id": "02321",
+    "pdm": "ALIDADE NIVELADORA",
+    "grupo": 66
+  },
+  {
+    "id": "02351",
+    "pdm": "MONTADORA LÂMINA HISTOLÓGICA",
+    "grupo": 66
+  },
+  {
+    "id": "02354",
+    "pdm": "ALMOFARIZ",
+    "grupo": 66
+  },
+  {
+    "id": "02368",
+    "pdm": "ALTÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "02369",
+    "pdm": "ALTIMETRO DE AERONAVE",
+    "grupo": 66
+  },
+  {
+    "id": "02370",
+    "pdm": "ALTIMETRO PARA TOPOGRAFIA",
+    "grupo": 66
+  },
+  {
+    "id": "02403",
+    "pdm": "RESINA TROCA IÔNICA",
+    "grupo": 66
+  },
+  {
+    "id": "02435",
+    "pdm": "TIRA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "02440",
+    "pdm": "AMPERÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "02441",
+    "pdm": "AMPERIMETRO DE DEMANDA MAXIMA",
+    "grupo": 66
+  },
+  {
+    "id": "02443",
+    "pdm": "CITÔMETRO DE FLUXO",
+    "grupo": 66
+  },
+  {
+    "id": "02464",
+    "pdm": "ANALISADOR PARÂMETROS",
+    "grupo": 66
+  },
+  {
+    "id": "02465",
+    "pdm": "ANALISADOR DE ALTERNADOR",
+    "grupo": 66
+  },
+  {
+    "id": "02466",
+    "pdm": "ANALISADOR DE CIRCUITO DE BOBINA E RESISTÊNCIA",
+    "grupo": 66
+  },
+  {
+    "id": "02467",
+    "pdm": "CNALISADOR DE DESCARGA DE MOTOR A GASOLINA",
+    "grupo": 66
+  },
+  {
+    "id": "02469",
+    "pdm": "ANALISADOR DE DISTORSAO",
+    "grupo": 66
+  },
+  {
+    "id": "02470",
+    "pdm": "ANALISADOR DE ESPECTRO",
+    "grupo": 66
+  },
+  {
+    "id": "02472",
+    "pdm": "ANALISADOR DE GÁS",
+    "grupo": 66
+  },
+  {
+    "id": "02473",
+    "pdm": "ANALISADOR DE LINHA TELEFONICA",
+    "grupo": 66
+  },
+  {
+    "id": "02474",
+    "pdm": "ANALISADOR RPM E PERMANÊNCIA",
+    "grupo": 66
+  },
+  {
+    "id": "02475",
+    "pdm": "ANALISADOR LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "02478",
+    "pdm": "ANALISADOR EFICIÊNCIA VEGETAL - FLUORÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "02479",
+    "pdm": "ANALISADOR - PEÇA/COMPONENTE",
+    "grupo": 66
+  },
+  {
+    "id": "02481",
+    "pdm": "ANALISADOR QUÍMICO",
+    "grupo": 66
+  },
+  {
+    "id": "02512",
+    "pdm": "ANEMÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "02557",
+    "pdm": "ANTI - HIV - MÉTODO IMUNOENZIMÁTICO",
+    "grupo": 66
+  },
+  {
+    "id": "02636",
+    "pdm": "JOGO PENTE E ESPAÇADOR",
+    "grupo": 66
+  },
+  {
+    "id": "02637",
+    "pdm": "DETERMINADOR AÇÚCARES REDUTORES",
+    "grupo": 66
+  },
+  {
+    "id": "02644",
+    "pdm": "APARELHO AGITADOR - ANALISE QUIMICA",
+    "grupo": 66
+  },
+  {
+    "id": "02654",
+    "pdm": "APARELHO AUTOMACAO MICROBIOLOGIA",
+    "grupo": 66
+  },
+  {
+    "id": "02671",
+    "pdm": "BALÃO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "02672",
+    "pdm": "APARELHO ANÁLISE ELETROLÍTICA",
+    "grupo": 66
+  },
+  {
+    "id": "02673",
+    "pdm": "APARELHO ANÁLISE GRANULOMÉTRICA",
+    "grupo": 66
+  },
+  {
+    "id": "02674",
+    "pdm": "APARELHO DE AVALIAR A RESISTENCIA DE REVESTIMENTO A LUZ ( FADOMETRO )",
+    "grupo": 66
+  },
+  {
+    "id": "02681",
+    "pdm": "APARELHO DE COAGULAR SORO",
+    "grupo": 66
+  },
+  {
+    "id": "02684",
+    "pdm": "APARELHO CONTROLE COAGULAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "02688",
+    "pdm": "APARELHO CULTURA ANAERÓBICA",
+    "grupo": 66
+  },
+  {
+    "id": "02689",
+    "pdm": "APARELHO DESTILAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "02690",
+    "pdm": "PAPEL DE FILTRO",
+    "grupo": 66
+  },
+  {
+    "id": "02691",
+    "pdm": "APARELHO DE DETERMINACAO DE QUANTIDADE DE ENXOFRE",
+    "grupo": 66
+  },
+  {
+    "id": "02692",
+    "pdm": "APARELHO DETERMINAÇÃO PONTO DE FULGOR",
+    "grupo": 66
+  },
+  {
+    "id": "02693",
+    "pdm": "APARELHO DETERMINAÇÃO PONTO DE FUSÃO",
+    "grupo": 66
+  },
+  {
+    "id": "02698",
+    "pdm": "APARELHO DE ENSAIO DE ATRITO DE LUBRIFICANTE",
+    "grupo": 66
+  },
+  {
+    "id": "02699",
+    "pdm": "APARELHO ENSAIO LUBRIFICANTE / COMBUSTÍVEL",
+    "grupo": 66
+  },
+  {
+    "id": "02700",
+    "pdm": "APARELHO ENSAIO PONTO DE DERRAMAMENTO",
+    "grupo": 66
+  },
+  {
+    "id": "02701",
+    "pdm": "APARELHO DE ENSAIO DE TEOR DE GOMA DE GASOLINA",
+    "grupo": 66
+  },
+  {
+    "id": "02702",
+    "pdm": "APARELHO DE ENSAIO DE TORCAO DE ROLAMENTO",
+    "grupo": 66
+  },
+  {
+    "id": "02705",
+    "pdm": "APARELHO DE ENSAIO POR PARTICULA MAGNETICA",
+    "grupo": 66
+  },
+  {
+    "id": "02706",
+    "pdm": "APARELHO ENSAIOS FÍSICOS",
+    "grupo": 66
+  },
+  {
+    "id": "02707",
+    "pdm": "APARELHO DE ESTUDAR PROJECAO DO TERRENO",
+    "grupo": 66
+  },
+  {
+    "id": "02716",
+    "pdm": "APARELHO DE KIPP",
+    "grupo": 66
+  },
+  {
+    "id": "02720",
+    "pdm": "APARELHO MEIO DE CULTURA",
+    "grupo": 66
+  },
+  {
+    "id": "02722",
+    "pdm": "APARELHO DE MICROFRACIONAMENTO",
+    "grupo": 66
+  },
+  {
+    "id": "02732",
+    "pdm": "APARELHO RADAR - SONDA",
+    "grupo": 66
+  },
+  {
+    "id": "02734",
+    "pdm": "APARELHO DE RÁDIO - SONDA",
+    "grupo": 66
+  },
+  {
+    "id": "02744",
+    "pdm": "APARELHO TESTE INDUZIDO",
+    "grupo": 66
+  },
+  {
+    "id": "02753",
+    "pdm": "SISTEMA MICRODESTILAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "02759",
+    "pdm": "PERCOLADOR",
+    "grupo": 66
+  },
+  {
+    "id": "02765",
+    "pdm": "APARELHO DISSOLUÇÃO COMPRIMIDO USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "02784",
+    "pdm": "APARELHO EXTRATOR DE LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "02789",
+    "pdm": "APARELHO HEMOSSEDIMENTACAO",
+    "grupo": 66
+  },
+  {
+    "id": "02811",
+    "pdm": "ACUMULADOR DE AR COMPRIMIDO",
+    "grupo": 66
+  },
+  {
+    "id": "02820",
+    "pdm": "APARELHO APLICAÇÃO ELETROFORESE",
+    "grupo": 66
+  },
+  {
+    "id": "02823",
+    "pdm": "APARELHO CONTAGEM DE CÉLULAS SOMÁTICAS",
+    "grupo": 66
+  },
+  {
+    "id": "02824",
+    "pdm": "BANHO SECO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "02828",
+    "pdm": "APARELHO DETERMINAÇÃO PROTEÍNAS",
+    "grupo": 66
+  },
+  {
+    "id": "02830",
+    "pdm": "APARELHO PARA DOSAR PROTROMBINA",
+    "grupo": 66
+  },
+  {
+    "id": "02833",
+    "pdm": "APARELHO PARA ENSAIO DE DUREZA",
+    "grupo": 66
+  },
+  {
+    "id": "02834",
+    "pdm": "APARELHO PARA ENSAIO DE DUREZA - SHORE",
+    "grupo": 66
+  },
+  {
+    "id": "02836",
+    "pdm": "APARELHO HEMATOLOGIA",
+    "grupo": 66
+  },
+  {
+    "id": "02838",
+    "pdm": "APARELHO MEDIÇÃO DE ROTAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "02839",
+    "pdm": "APARELHO PARA MEDIR BITOLA DE FIOS",
+    "grupo": 66
+  },
+  {
+    "id": "02857",
+    "pdm": "CAPTOR DE GASES - LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "02867",
+    "pdm": "APARELHO RAIO X PORTATIL - USO INDUSTRIAL",
+    "grupo": 66
+  },
+  {
+    "id": "02884",
+    "pdm": "TRANSILUMINADOR",
+    "grupo": 66
+  },
+  {
+    "id": "02887",
+    "pdm": "APARELHO ULTRA - SONOGRAFIA ( USO INDUSTRIAL )",
+    "grupo": 66
+  },
+  {
+    "id": "02936",
+    "pdm": "AQUECEDOR TERMOMOLDAVEL",
+    "grupo": 66
+  },
+  {
+    "id": "02973",
+    "pdm": "ARANHA PANTOGRAFICA PARA DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": "02974",
+    "pdm": "ARANHA PARA NORMOGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": "02983",
+    "pdm": "PEÇA EQUIPAMENTO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "02999",
+    "pdm": "ELETROPORADOR",
+    "grupo": 66
+  },
+  {
+    "id": "03130",
+    "pdm": "AUTO - ANALISADOR DE USO MEDICO",
+    "grupo": 66
+  },
+  {
+    "id": "03138",
+    "pdm": "PROCESSADOR DE TECIDO",
+    "grupo": 66
+  },
+  {
+    "id": "03152",
+    "pdm": "AVENTAL - USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "03159",
+    "pdm": "AVEOMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "03165",
+    "pdm": "AZIMUTE",
+    "grupo": 66
+  },
+  {
+    "id": "03166",
+    "pdm": "AZIMUTE TELESCOPICO",
+    "grupo": 66
+  },
+  {
+    "id": "03198",
+    "pdm": "BAFÔMETRO / PEÇAS E ACESSÓRIOS",
+    "grupo": 66
+  },
+  {
+    "id": "03210",
+    "pdm": "BALANÇA",
+    "grupo": 66
+  },
+  {
+    "id": "03212",
+    "pdm": "BALANCA ANALITICA",
+    "grupo": 66
+  },
+  {
+    "id": "03213",
+    "pdm": "BALANCA ANALITICA - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "03215",
+    "pdm": "BALANÇA AR LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "03216",
+    "pdm": "SOLDA CONEXÃO BOLSA",
+    "grupo": 66
+  },
+  {
+    "id": "03217",
+    "pdm": "BALANCA DE LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "03218",
+    "pdm": "BALANÇA PRECISÃO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "03219",
+    "pdm": "CORADOR LÂMINAS",
+    "grupo": 66
+  },
+  {
+    "id": "03220",
+    "pdm": "BALANCA DE USO HUMANO OPERADA COM MOEDA ( FICHA )",
+    "grupo": 66
+  },
+  {
+    "id": "03222",
+    "pdm": "BALANÇA PESAR PESSOAS",
+    "grupo": 66
+  },
+  {
+    "id": "03223",
+    "pdm": "BALANÇA DOMÉSTICA",
+    "grupo": 66
+  },
+  {
+    "id": "03224",
+    "pdm": "BALANÇA ELETRONICA",
+    "grupo": 66
+  },
+  {
+    "id": "03225",
+    "pdm": "BALANÇA GRANATARIA",
+    "grupo": 66
+  },
+  {
+    "id": "03226",
+    "pdm": "BALANCA INDUSTRIAL",
+    "grupo": 66
+  },
+  {
+    "id": "03227",
+    "pdm": "BALANCA PARA TUBOS - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "03228",
+    "pdm": "BALANCA POSTAL",
+    "grupo": 66
+  },
+  {
+    "id": "03229",
+    "pdm": "BALANCA RODOVIARIA",
+    "grupo": 66
+  },
+  {
+    "id": "03230",
+    "pdm": "BALANCA TIPO DOMESTICA",
+    "grupo": 66
+  },
+  {
+    "id": "03241",
+    "pdm": "BALAO METEOROLOGICO",
+    "grupo": 66
+  },
+  {
+    "id": "03258",
+    "pdm": "BALIZA TOPOGRÁFICA",
+    "grupo": 66
+  },
+  {
+    "id": "03308",
+    "pdm": "BANDEJA",
+    "grupo": 66
+  },
+  {
+    "id": "03311",
+    "pdm": "BANDEJA DESCARTÁVEL VAPORIZAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "03313",
+    "pdm": "BANDEJA METALICA PARA DISSECACAO - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "03322",
+    "pdm": "COLUNA PURIFICAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "03346",
+    "pdm": "BAROGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": "03347",
+    "pdm": "BARÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "03402",
+    "pdm": "BARRIL VIDRO USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "03415",
+    "pdm": "AGREGÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "03419",
+    "pdm": "BASE DE TEODOLITO",
+    "grupo": 66
+  },
+  {
+    "id": "03423",
+    "pdm": "BASE CENTRAGEM FORÇADA USO TOPOGRÁFICO",
+    "grupo": 66
+  },
+  {
+    "id": "03433",
+    "pdm": "BASTÃO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "03435",
+    "pdm": "BASTÃO MIRA TOPOGRAFIA",
+    "grupo": 66
+  },
+  {
+    "id": "03482",
+    "pdm": "BATITERMOGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": "03483",
+    "pdm": "BATOTERMOGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": "03528",
+    "pdm": "BICO DE BÜNSEN",
+    "grupo": 66
+  },
+  {
+    "id": "03532",
+    "pdm": "BICO DE MECKER",
+    "grupo": 66
+  },
+  {
+    "id": "03541",
+    "pdm": "BIDISTILADOR",
+    "grupo": 66
+  },
+  {
+    "id": "03557",
+    "pdm": "BINÓCULO",
+    "grupo": 66
+  },
+  {
+    "id": "03558",
+    "pdm": "BINOCULO DE ALTO MAR",
+    "grupo": 66
+  },
+  {
+    "id": "03566",
+    "pdm": "EVAPORADOR ROTATIVO À VÁCUO",
+    "grupo": 66
+  },
+  {
+    "id": "03624",
+    "pdm": "BLOCO USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "03668",
+    "pdm": "SISTEMA ELETROFORESE",
+    "grupo": 66
+  },
+  {
+    "id": "03725",
+    "pdm": "BOMBA CALORIMETRICA",
+    "grupo": 66
+  },
+  {
+    "id": "03758",
+    "pdm": "PEÇA EQUIPAMENTO DIAGNÓSTICO CLÍNICO",
+    "grupo": 66
+  },
+  {
+    "id": "03794",
+    "pdm": "BOMBA ROTATIVA",
+    "grupo": 66
+  },
+  {
+    "id": "03809",
+    "pdm": "BOROSCOPIO",
+    "grupo": 66
+  },
+  {
+    "id": "03816",
+    "pdm": "BORRACHA NANKIM",
+    "grupo": 66
+  },
+  {
+    "id": "03955",
+    "pdm": "BULBO DE RESISTÊNCIA DE MEDIÇÃO DE PRESSÃO, TEMPER",
+    "grupo": 66
+  },
+  {
+    "id": "03964",
+    "pdm": "BURETA",
+    "grupo": 66
+  },
+  {
+    "id": "03965",
+    "pdm": "BÚSSOLA NAVEGAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "03966",
+    "pdm": "BÚSSOLA DE TOPOGRAFIA",
+    "grupo": 66
+  },
+  {
+    "id": "03971",
+    "pdm": "BUTIRÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "03994",
+    "pdm": "BARRILETE",
+    "grupo": 66
+  },
+  {
+    "id": "04048",
+    "pdm": "CABO DE CONEXÃO",
+    "grupo": 66
+  },
+  {
+    "id": "04068",
+    "pdm": "PESA FILTRO",
+    "grupo": 66
+  },
+  {
+    "id": "04097",
+    "pdm": "CADINHO",
+    "grupo": 66
+  },
+  {
+    "id": "04099",
+    "pdm": "CADINHOS - PLATINA",
+    "grupo": 66
+  },
+  {
+    "id": "04130",
+    "pdm": "CABINE DESSECADORA",
+    "grupo": 66
+  },
+  {
+    "id": "04219",
+    "pdm": "CALCULOGRAFO USO GERAL",
+    "grupo": 66
+  },
+  {
+    "id": "04258",
+    "pdm": "CALIBRADOR NÍVEL ÁUDIO - ANALISADOR ESPECTROS",
+    "grupo": 66
+  },
+  {
+    "id": "04300",
+    "pdm": "CÁLICE",
+    "grupo": 66
+  },
+  {
+    "id": "04304",
+    "pdm": "CALORÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "04326",
+    "pdm": "CÂMARA CLIMÁTICA",
+    "grupo": 66
+  },
+  {
+    "id": "04331",
+    "pdm": "CÂMARA FOTOESTABILIZADA FARMACÊUTICA",
+    "grupo": 66
+  },
+  {
+    "id": "04333",
+    "pdm": "CÂMARA NEWBAUER",
+    "grupo": 66
+  },
+  {
+    "id": "04336",
+    "pdm": "CAMARA DE REAGENTE",
+    "grupo": 66
+  },
+  {
+    "id": "04338",
+    "pdm": "CAMARA ESCURA DE RAIO X TIPO INDUSTRIAL",
+    "grupo": 66
+  },
+  {
+    "id": "04345",
+    "pdm": "CAMARA FRIGORIFICA DE LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "04347",
+    "pdm": "CÂMARA GERMINAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "04351",
+    "pdm": "CÂMARA CONTAGEM DE COLÔNIAS",
+    "grupo": 66
+  },
+  {
+    "id": "04352",
+    "pdm": "CÂMARA CONTAGEM",
+    "grupo": 66
+  },
+  {
+    "id": "04355",
+    "pdm": "CÂMARA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "04386",
+    "pdm": "CAMPANULA PARA MICROSCOPIO",
+    "grupo": 66
+  },
+  {
+    "id": "04403",
+    "pdm": "FILTRO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "04411",
+    "pdm": "CANETA CONTADOR - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "04414",
+    "pdm": "CANETA DESENHO ARQUITETÔNICO",
+    "grupo": 66
+  },
+  {
+    "id": "04415",
+    "pdm": "CANETA PLOTADORA",
+    "grupo": 66
+  },
+  {
+    "id": "04489",
+    "pdm": "CAPELA EXAUSTÃO GASES",
+    "grupo": 66
+  },
+  {
+    "id": "04493",
+    "pdm": "CÁPSULA DE EVAPORAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "04498",
+    "pdm": "CÁPSULA PORCELANA",
+    "grupo": 66
+  },
+  {
+    "id": "04501",
+    "pdm": "CÁPSULA FILTRAÇÃO USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "04646",
+    "pdm": "CARTAO / PAINEL AUTOMATIZADO - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "04647",
+    "pdm": "CARTAO COM MICROTUBO COM GEL PARA TIRAGEM SANGUINEA PESQUISA E DETERMINACAO DE ANTICORPOS",
+    "grupo": 66
+  },
+  {
+    "id": "04654",
+    "pdm": "CARTAO FILTRO - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "04655",
+    "pdm": "CARTÃO",
+    "grupo": 66
+  },
+  {
+    "id": "04663",
+    "pdm": "CAPELA EXAUSTÃO",
+    "grupo": 66
+  },
+  {
+    "id": "04667",
+    "pdm": "BANHO TERMOSTÁTICO",
+    "grupo": 66
+  },
+  {
+    "id": "04681",
+    "pdm": "ESTUFA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "04682",
+    "pdm": "CASA VEGETACAO / ESTUFA AGRICOLA - CONTROLE FOTOPERIODO",
+    "grupo": 66
+  },
+  {
+    "id": "04683",
+    "pdm": "CASA VEGETAÇÃO / ESTUFA AGRÍCOLA - SISTEMA CONTRO",
+    "grupo": 66
+  },
+  {
+    "id": "04684",
+    "pdm": "ESTUFA AGRICOLA - SISTEMA CONTRO",
+    "grupo": 66
+  },
+  {
+    "id": "04685",
+    "pdm": "CASA VEGETAÇÃO / ESTUFA AGRÍCOLA",
+    "grupo": 66
+  },
+  {
+    "id": "04693",
+    "pdm": "CASSETE BOLSA CRIOPRESERVAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "04699",
+    "pdm": "CATÁLOGO LETRASET",
+    "grupo": 66
+  },
+  {
+    "id": "04736",
+    "pdm": "FUNIL LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "04755",
+    "pdm": "CENTRÍFUGA ELÉTRICA",
+    "grupo": 66
+  },
+  {
+    "id": "04757",
+    "pdm": "BANDEJA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "04760",
+    "pdm": "ESCOVA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "04784",
+    "pdm": "MEMBRANA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "04798",
+    "pdm": "CESTA - USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "04897",
+    "pdm": "CHAVE DE TESTE ELÉTRICO",
+    "grupo": 66
+  },
+  {
+    "id": "05049",
+    "pdm": "CIRCULOGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": "05078",
+    "pdm": "CLINÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "05352",
+    "pdm": "ADAPTADOR LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "05354",
+    "pdm": "COLETOR VAPOR ORGÂNICO E GÁS",
+    "grupo": 66
+  },
+  {
+    "id": "05363",
+    "pdm": "PROVETA",
+    "grupo": 66
+  },
+  {
+    "id": "05368",
+    "pdm": "COLORÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "05370",
+    "pdm": "COLUNA CROMATOGRÁFICA",
+    "grupo": 66
+  },
+  {
+    "id": "05380",
+    "pdm": "COMBINADO B - 9",
+    "grupo": 66
+  },
+  {
+    "id": "05389",
+    "pdm": "COMPARADOR IMPEDÂNCIA",
+    "grupo": 66
+  },
+  {
+    "id": "05390",
+    "pdm": "REDUTOR DE PH",
+    "grupo": 66
+  },
+  {
+    "id": "05392",
+    "pdm": "COMPASSO GEMOLOGIA",
+    "grupo": 66
+  },
+  {
+    "id": "05472",
+    "pdm": "VISOR INFRAVERMELHO",
+    "grupo": 66
+  },
+  {
+    "id": "05526",
+    "pdm": "CASSETE LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "05537",
+    "pdm": "CONDENSADOR",
+    "grupo": 66
+  },
+  {
+    "id": "05546",
+    "pdm": "CONDUTIVÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "05561",
+    "pdm": "TERMOCICLADOR",
+    "grupo": 66
+  },
+  {
+    "id": "05590",
+    "pdm": "CONEXAO APARELHO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "05612",
+    "pdm": "CONEXAO DE VIDRO PARA LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "05631",
+    "pdm": "CONFIRMATORIO DETECCAO - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "05647",
+    "pdm": "CONJUNTO CALIBRAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "05654",
+    "pdm": "CONJUNTO (KIT) DETECÇÃO DROGAS",
+    "grupo": 66
+  },
+  {
+    "id": "05655",
+    "pdm": "CONJUNTO CONTROLE VETORES BIOLÓGICOS",
+    "grupo": 66
+  },
+  {
+    "id": "05661",
+    "pdm": "HIBRIDIZADOR",
+    "grupo": 66
+  },
+  {
+    "id": "05667",
+    "pdm": "CONJUNTO MOLDAGEM IMPRESSÕES PAPILARES",
+    "grupo": 66
+  },
+  {
+    "id": "05671",
+    "pdm": "CONJUNTO PESO",
+    "grupo": 66
+  },
+  {
+    "id": "05674",
+    "pdm": "CONJUNTO PUNÇÃO / MATRIZ COMPRESSÃO",
+    "grupo": 66
+  },
+  {
+    "id": "05675",
+    "pdm": "CONJUNTO REPARO INJETOR",
+    "grupo": 66
+  },
+  {
+    "id": "05679",
+    "pdm": "CONJUNTO ANÁLISE E CONTROLE ÁGUA",
+    "grupo": 66
+  },
+  {
+    "id": "05786",
+    "pdm": "CONTADOR MOVIMENTO MECÂNICO",
+    "grupo": 66
+  },
+  {
+    "id": "05787",
+    "pdm": "CONTADOR DE COLÔNIAS",
+    "grupo": 66
+  },
+  {
+    "id": "05788",
+    "pdm": "CONTADOR PULSO BANCADA",
+    "grupo": 66
+  },
+  {
+    "id": "05789",
+    "pdm": "CONTADOR DE PULSO PORTATIL",
+    "grupo": 66
+  },
+  {
+    "id": "05790",
+    "pdm": "CONTADOR DE REVOLUCAO",
+    "grupo": 66
+  },
+  {
+    "id": "05811",
+    "pdm": "INDICADOR CONTROLADOR VELOCIDADE",
+    "grupo": 66
+  },
+  {
+    "id": "05812",
+    "pdm": "CONTROLADOR ELETRICO DE TEMPERATURA",
+    "grupo": 66
+  },
+  {
+    "id": "05814",
+    "pdm": "CONTROLADOR PRESSÃO",
+    "grupo": 66
+  },
+  {
+    "id": "05815",
+    "pdm": "CONTROLADOR ELETRÔNICO DE TEMPERATURA",
+    "grupo": 66
+  },
+  {
+    "id": "05818",
+    "pdm": "CONTROLADOR",
+    "grupo": 66
+  },
+  {
+    "id": "05825",
+    "pdm": "CONTROLE GIROSCOPICO DIRECIONAL PARA SUPERFICIEACIONADO POR SISTEMA HIDRAULICO PARA AERONAVE",
+    "grupo": 66
+  },
+  {
+    "id": "05826",
+    "pdm": "CONTROLE GIROSCOPICO DIRECIONAL DE CURVA PARA AERONAVE",
+    "grupo": 66
+  },
+  {
+    "id": "05827",
+    "pdm": "CONTROLE GIROSCÓPICO DIRECIONAL DE NÍVEL PARA AERO",
+    "grupo": 66
+  },
+  {
+    "id": "05828",
+    "pdm": "CONTROLE GIROSCOPICO DIRECIONAL VERTICAL PARA AERONAVE",
+    "grupo": 66
+  },
+  {
+    "id": "05898",
+    "pdm": "CORRELATO PARA CAMARA AMBIENTAL",
+    "grupo": 66
+  },
+  {
+    "id": "05904",
+    "pdm": "CORRENTE DE AGRIMENSOR",
+    "grupo": 66
+  },
+  {
+    "id": "05916",
+    "pdm": "MÓDULO INCLUSÃO TECIDO",
+    "grupo": 66
+  },
+  {
+    "id": "05953",
+    "pdm": "LEITORA DE MICROPLACA",
+    "grupo": 66
+  },
+  {
+    "id": "05957",
+    "pdm": "CREATINIMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "05969",
+    "pdm": "BANHO ULTRATERMOSTÁTICO",
+    "grupo": 66
+  },
+  {
+    "id": "05976",
+    "pdm": "PONTE DE TITULAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "05982",
+    "pdm": "CRONOGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": "05983",
+    "pdm": "CRONOGRAFO DE PRECISAO",
+    "grupo": 66
+  },
+  {
+    "id": "05984",
+    "pdm": "CRONÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "05995",
+    "pdm": "CUBA APARELHO - USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "06003",
+    "pdm": "CUBETA",
+    "grupo": 66
+  },
+  {
+    "id": "06027",
+    "pdm": "CURVA FRANCESA",
+    "grupo": 66
+  },
+  {
+    "id": "06028",
+    "pdm": "CURVÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "06052",
+    "pdm": "COLUNA DEIONIZADOR ÁGUA",
+    "grupo": 66
+  },
+  {
+    "id": "06058",
+    "pdm": "DENSÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "06059",
+    "pdm": "DENSITÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "06067",
+    "pdm": "DERIVOMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "06072",
+    "pdm": "BANHO MARIA",
+    "grupo": 66
+  },
+  {
+    "id": "06099",
+    "pdm": "AGULHA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "06116",
+    "pdm": "FUNDO DESSECADOR",
+    "grupo": 66
+  },
+  {
+    "id": "06128",
+    "pdm": "CALIBRADOR RADIAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "06129",
+    "pdm": "DETECTOR RADIOATIVIDADE",
+    "grupo": 66
+  },
+  {
+    "id": "06130",
+    "pdm": "DETECTOR UMIDADE",
+    "grupo": 66
+  },
+  {
+    "id": "06141",
+    "pdm": "DETERMINADOR IMPUREZA",
+    "grupo": 66
+  },
+  {
+    "id": "06175",
+    "pdm": "FIBRA FOTÔNICA",
+    "grupo": 66
+  },
+  {
+    "id": "06196",
+    "pdm": "DIFRACTÓMETRO PEÇA / COMPONENTE - USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "06207",
+    "pdm": "DILATÓMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "06220",
+    "pdm": "DINAMÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "06221",
+    "pdm": "NADO FORÇADO",
+    "grupo": 66
+  },
+  {
+    "id": "06257",
+    "pdm": "RECIPIENTE LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "06295",
+    "pdm": "DISPENSADOR",
+    "grupo": 66
+  },
+  {
+    "id": "06304",
+    "pdm": "DISPOSITIVO DE ALARME DE SISTEMA DE COMBUSTIVEL DE MOTOR",
+    "grupo": 66
+  },
+  {
+    "id": "06305",
+    "pdm": "DISPOSITIVO DE ALARME DO SISTEMA DE OLEO DE MOTOR",
+    "grupo": 66
+  },
+  {
+    "id": "06332",
+    "pdm": "DISPOSITIVO LAVAGEM EQUIPAMENTO ENERGIZADO",
+    "grupo": 66
+  },
+  {
+    "id": "06342",
+    "pdm": "DISTANCIOMETRO PARA TOPOGRAFIA",
+    "grupo": 66
+  },
+  {
+    "id": "06394",
+    "pdm": "DOSADOR PIPETA",
+    "grupo": 66
+  },
+  {
+    "id": "06396",
+    "pdm": "DOSÍMETRO DIGITAL",
+    "grupo": 66
+  },
+  {
+    "id": "06403",
+    "pdm": "LAVADORA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "06445",
+    "pdm": "ELEMENTO DE MAGNETOSTRICAO",
+    "grupo": 66
+  },
+  {
+    "id": "06447",
+    "pdm": "ELEMENTO FILTRANTE",
+    "grupo": 66
+  },
+  {
+    "id": "06448",
+    "pdm": "ELEMENTO FILTRANTE",
+    "grupo": 66
+  },
+  {
+    "id": "06461",
+    "pdm": "ELETRODO MEDIÇÃO PH",
+    "grupo": 66
+  },
+  {
+    "id": "06468",
+    "pdm": "CROMATÓGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": "06486",
+    "pdm": "ELIPSE PARA DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": "06506",
+    "pdm": "EMBALAGEM LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "06616",
+    "pdm": "EPISOGRAFO ( DESENHO )",
+    "grupo": 66
+  },
+  {
+    "id": "06622",
+    "pdm": "EQUIPAMENTO - USO LABORATÓRIO GEMOLOGIA",
+    "grupo": 66
+  },
+  {
+    "id": "06627",
+    "pdm": "EQUIPAMENTO / ACESSORIO - DETECCAO RADIACAO NUCLE-AR",
+    "grupo": 66
+  },
+  {
+    "id": "06632",
+    "pdm": "EQUIPAMENTO / COMPONENTE - AUTOMAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "06639",
+    "pdm": "CONJUNTO PINHO PARA LEIS DE LENZ",
+    "grupo": 66
+  },
+  {
+    "id": "06642",
+    "pdm": "EQUIPAMENTO ANALISE DE AGUA",
+    "grupo": 66
+  },
+  {
+    "id": "06677",
+    "pdm": "EQUIPAMENTO DE CONTROLE DE PROCESSO",
+    "grupo": 66
+  },
+  {
+    "id": "06684",
+    "pdm": "EQUIPAMENTO DE DETECCAO DE MINA TERRESTRE",
+    "grupo": 66
+  },
+  {
+    "id": "06689",
+    "pdm": "EQUIPAMENTO DIAGNÓSTICO CLÍNICO",
+    "grupo": 66
+  },
+  {
+    "id": "06690",
+    "pdm": "EQUIPAMENTO DE ENSAIO INFRAVERMELHO",
+    "grupo": 66
+  },
+  {
+    "id": "06691",
+    "pdm": "EQUIPAMENTO DE ENSAIO MAGNAFLUX",
+    "grupo": 66
+  },
+  {
+    "id": "06692",
+    "pdm": "EQUIPAMENTO DE ENSAIO POR ULTRA - SOM",
+    "grupo": 66
+  },
+  {
+    "id": "06738",
+    "pdm": "EQUIPAMENTO DE RAIO X TIPO INDUSTRIAL",
+    "grupo": 66
+  },
+  {
+    "id": "06740",
+    "pdm": "EQUIPAMENTO DE REGISTRO DE NAVEGACAO",
+    "grupo": 66
+  },
+  {
+    "id": "06757",
+    "pdm": "EQUIPAMENTO MEDIÇÃO MAREGRÁFICA",
+    "grupo": 66
+  },
+  {
+    "id": "06788",
+    "pdm": "PROCESSADOR TECIDO",
+    "grupo": 66
+  },
+  {
+    "id": "06822",
+    "pdm": "EQUIPAMENTO PARA ENSAIO DE TRACAO",
+    "grupo": 66
+  },
+  {
+    "id": "06844",
+    "pdm": "EQUIPAMENTO RADIAC",
+    "grupo": 66
+  },
+  {
+    "id": "06845",
+    "pdm": "EQUIPAMENTO RADIAÇÃO NUCLEAR - PEÇA / ACESSÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "06855",
+    "pdm": "EQUIPAMENTO SEQUENCIAMENTO GENE - PECA / COMPONEN-TE",
+    "grupo": 66
+  },
+  {
+    "id": "06897",
+    "pdm": "ESCALA DE DESENHO DE ARQUITETURA E ENGENHARIA",
+    "grupo": 66
+  },
+  {
+    "id": "06898",
+    "pdm": "ESCALA PESAGEM",
+    "grupo": 66
+  },
+  {
+    "id": "06903",
+    "pdm": "ESCALÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "06904",
+    "pdm": "ESCALA",
+    "grupo": 66
+  },
+  {
+    "id": "06906",
+    "pdm": "ESCALIMETRO ( DESENHO )",
+    "grupo": 66
+  },
+  {
+    "id": "06921",
+    "pdm": "ESCLEROMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "06923",
+    "pdm": "ESCLEROSCOPIO",
+    "grupo": 66
+  },
+  {
+    "id": "06934",
+    "pdm": "ESCOVA",
+    "grupo": 66
+  },
+  {
+    "id": "06942",
+    "pdm": "ESCOVA DE DESENHISTA",
+    "grupo": 66
+  },
+  {
+    "id": "06965",
+    "pdm": "ESFUMINHO DE DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": "06990",
+    "pdm": "ESPÁTULA AÇO",
+    "grupo": 66
+  },
+  {
+    "id": "06991",
+    "pdm": "FRASCO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "06995",
+    "pdm": "ESPÁTULA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "06996",
+    "pdm": "SEQUENCIADOR",
+    "grupo": 66
+  },
+  {
+    "id": "07000",
+    "pdm": "ESPECTROCOLORIMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "07001",
+    "pdm": "ESPECTROFOTÔMETRO / PEÇAS E ACESSÓRIOS",
+    "grupo": 66
+  },
+  {
+    "id": "07002",
+    "pdm": "ESPECTRÔMETRO / PEÇAS / COMPONENTES",
+    "grupo": 66
+  },
+  {
+    "id": "07003",
+    "pdm": "ESPECTROSCOPIO",
+    "grupo": 66
+  },
+  {
+    "id": "07056",
+    "pdm": "ESQUADRO DE DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": "07059",
+    "pdm": "MICROSCÓPIO",
+    "grupo": 66
+  },
+  {
+    "id": "07079",
+    "pdm": "ESTAÇÃO DE METEOROLOGIA / ACESSÓRIOS",
+    "grupo": 66
+  },
+  {
+    "id": "07083",
+    "pdm": "ESTACAO REMOTA DE HIDROMETEOROLOGIA",
+    "grupo": 66
+  },
+  {
+    "id": "07084",
+    "pdm": "ESTACAO TOTAL DE TOPOGRAFIA",
+    "grupo": 66
+  },
+  {
+    "id": "07094",
+    "pdm": "ESTANTE TUBO ENSAIO",
+    "grupo": 66
+  },
+  {
+    "id": "07102",
+    "pdm": "ESTANTE PARA PIPETA",
+    "grupo": 66
+  },
+  {
+    "id": "07130",
+    "pdm": "ESTETOSCÓPIO ELETRÔNICO",
+    "grupo": 66
+  },
+  {
+    "id": "07134",
+    "pdm": "ESTILETE DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": "07139",
+    "pdm": "ESTILETE DE MATRIZ ESTENCIL",
+    "grupo": 66
+  },
+  {
+    "id": "07140",
+    "pdm": "ESTILETE DE MICROSCOPIA",
+    "grupo": 66
+  },
+  {
+    "id": "07154",
+    "pdm": "ESTOJO DE INSTRUMENTO DE DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": "07249",
+    "pdm": "EXTENSÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "07255",
+    "pdm": "EXTENSOR PARA COMPASSO",
+    "grupo": 66
+  },
+  {
+    "id": "07267",
+    "pdm": "EXTRATOR DE LETRASET",
+    "grupo": 66
+  },
+  {
+    "id": "07284",
+    "pdm": "FADOMETRO - APARELHO DE AVALIACAO DE RESISTENCIADE MATERIAL, A LUZ",
+    "grupo": 66
+  },
+  {
+    "id": "07419",
+    "pdm": "FIBROSCOPIO",
+    "grupo": 66
+  },
+  {
+    "id": "07431",
+    "pdm": "FILME LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "07441",
+    "pdm": "PLÁSTICO VEDAÇÃO USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "07450",
+    "pdm": "FILTRO LABORATÓRIO.",
+    "grupo": 66
+  },
+  {
+    "id": "07483",
+    "pdm": "FILTRO USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "07507",
+    "pdm": "FIO DE PROVA DE ADITAMENTO",
+    "grupo": 66
+  },
+  {
+    "id": "07541",
+    "pdm": "FIO PLATINA PURA",
+    "grupo": 66
+  },
+  {
+    "id": "07553",
+    "pdm": "FITA ADESIVA COM INDICADOR QUIMICO",
+    "grupo": 66
+  },
+  {
+    "id": "07564",
+    "pdm": "FITA DE COBRE DE ENSAIO DE CORROSAO",
+    "grupo": 66
+  },
+  {
+    "id": "07589",
+    "pdm": "FITA IMPRESSORA - TERMODATADOR",
+    "grupo": 66
+  },
+  {
+    "id": "07607",
+    "pdm": "FITA REATIVA",
+    "grupo": 66
+  },
+  {
+    "id": "07609",
+    "pdm": "FITA TESTE",
+    "grupo": 66
+  },
+  {
+    "id": "07610",
+    "pdm": "FITA TRANSPORTE IMPRESSOES REVELADAS",
+    "grupo": 66
+  },
+  {
+    "id": "07618",
+    "pdm": "FIXADOR CELULAR",
+    "grupo": 66
+  },
+  {
+    "id": "07625",
+    "pdm": "FLACONETE",
+    "grupo": 66
+  },
+  {
+    "id": "07637",
+    "pdm": "FLOABILOMETRO - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "07676",
+    "pdm": "FLUXÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "07802",
+    "pdm": "FOTOCLORIMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "07804",
+    "pdm": "FOTOCOLORÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "07808",
+    "pdm": "FOTOFLUORIMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "07812",
+    "pdm": "FOTÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "07813",
+    "pdm": "FOTOMETRO - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "07815",
+    "pdm": "FOTOMETRO OPTICO",
+    "grupo": 66
+  },
+  {
+    "id": "07825",
+    "pdm": "FRASCO DE VIDRO",
+    "grupo": 66
+  },
+  {
+    "id": "07826",
+    "pdm": "FRASCO LABORATÓRIO.",
+    "grupo": 66
+  },
+  {
+    "id": "07837",
+    "pdm": "FREQUENCÍMETRO DE BANCADA",
+    "grupo": 66
+  },
+  {
+    "id": "07838",
+    "pdm": "FREQUENCIMETRO DE PAINEL",
+    "grupo": 66
+  },
+  {
+    "id": "07839",
+    "pdm": "FREQUENCIMETRO PORTATIL",
+    "grupo": 66
+  },
+  {
+    "id": "07842",
+    "pdm": "FRIABILOMETRO - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "07866",
+    "pdm": "FUNIL LABORATÓRIO.",
+    "grupo": 66
+  },
+  {
+    "id": "07875",
+    "pdm": "SUPORTE LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "07891",
+    "pdm": "GABARITO DE DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": "07892",
+    "pdm": "GABARITO DE FLUXOGRAMA",
+    "grupo": 66
+  },
+  {
+    "id": "07912",
+    "pdm": "GALVANOMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "07927",
+    "pdm": "GARRA BURETA - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "07928",
+    "pdm": "GARRA CRIOGENICA",
+    "grupo": 66
+  },
+  {
+    "id": "07968",
+    "pdm": "GERADOR - GAS CARBONICO",
+    "grupo": 66
+  },
+  {
+    "id": "07969",
+    "pdm": "GERADOR ANAEROBIOSE - CULTURA BACTÉRIA",
+    "grupo": 66
+  },
+  {
+    "id": "07976",
+    "pdm": "GERADOR FORMA DE ONDA",
+    "grupo": 66
+  },
+  {
+    "id": "07978",
+    "pdm": "GERADOR DE PULSO",
+    "grupo": 66
+  },
+  {
+    "id": "07979",
+    "pdm": "GERADOR DE RUIDO",
+    "grupo": 66
+  },
+  {
+    "id": "07981",
+    "pdm": "GERADOR DE SINAL",
+    "grupo": 66
+  },
+  {
+    "id": "08041",
+    "pdm": "GRAL",
+    "grupo": 66
+  },
+  {
+    "id": "08054",
+    "pdm": "GRAFITE COLORIDO PARA DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": "08119",
+    "pdm": "GUARDA - SOL DE TOPOGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": "08168",
+    "pdm": "HARPA DE CABELO",
+    "grupo": 66
+  },
+  {
+    "id": "08189",
+    "pdm": "HEMACITOMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "08193",
+    "pdm": "HEMOGENEIZADOR",
+    "grupo": 66
+  },
+  {
+    "id": "08195",
+    "pdm": "HEMOGLOBINOMERO",
+    "grupo": 66
+  },
+  {
+    "id": "08196",
+    "pdm": "HEMOGLOBINOMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "08197",
+    "pdm": "HEMOMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "08225",
+    "pdm": "HIDRÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "08250",
+    "pdm": "TERMOHIGRÓGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": "08251",
+    "pdm": "HIGROMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "08252",
+    "pdm": "TERMOHIGRÔMETRO DIGITAL",
+    "grupo": 66
+  },
+  {
+    "id": "08253",
+    "pdm": "HIGROTERMOGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": "08269",
+    "pdm": "HORÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "08270",
+    "pdm": "HORIZONTE ARTIFICIAL DE AERONAVE",
+    "grupo": 66
+  },
+  {
+    "id": "08332",
+    "pdm": "INCUBADORA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "08333",
+    "pdm": "MICROCENTRÍFUGA",
+    "grupo": 66
+  },
+  {
+    "id": "08335",
+    "pdm": "INDICADOR AUTOMATICO DE NIVEL DE LIQUIDO",
+    "grupo": 66
+  },
+  {
+    "id": "08336",
+    "pdm": "INDICADOR BIOLÓGICO",
+    "grupo": 66
+  },
+  {
+    "id": "08337",
+    "pdm": "INDICADOR DE ALTITUDE PARA AERONAVE",
+    "grupo": 66
+  },
+  {
+    "id": "08340",
+    "pdm": "INDICADOR DE CURVA PARA AERONAVE",
+    "grupo": 66
+  },
+  {
+    "id": "08341",
+    "pdm": "INDICADOR DE FLUXO",
+    "grupo": 66
+  },
+  {
+    "id": "08342",
+    "pdm": "INDICADOR DE FLUXO DE OXIGENIO",
+    "grupo": 66
+  },
+  {
+    "id": "08344",
+    "pdm": "INDICADOR DE MISTURA DE COMBUSTIVEL DE MOTOR",
+    "grupo": 66
+  },
+  {
+    "id": "08346",
+    "pdm": "INDICADOR DE POSICAO DO VENTO PARA NAVEGACAO",
+    "grupo": 66
+  },
+  {
+    "id": "08347",
+    "pdm": "INDICADOR DE PRESSAO DE ADMISSAO DE MOTOR",
+    "grupo": 66
+  },
+  {
+    "id": "08348",
+    "pdm": "INDICADOR DE PRESSAO DE OLEO DE MOTOR",
+    "grupo": 66
+  },
+  {
+    "id": "08350",
+    "pdm": "INDICADOR DE VELOCIDADE ASCENCIONAL PARA AERONAVE",
+    "grupo": 66
+  },
+  {
+    "id": "08351",
+    "pdm": "INDICADOR DE VELOCIDADE DO AR PARA AERONAVE",
+    "grupo": 66
+  },
+  {
+    "id": "08352",
+    "pdm": "INDICADOR DIGITAL DE NIVEL DE LIQUIDO",
+    "grupo": 66
+  },
+  {
+    "id": "08354",
+    "pdm": "INDICADOR ELETRICO DE PRESSAO",
+    "grupo": 66
+  },
+  {
+    "id": "08355",
+    "pdm": "INDICADOR ELETRICO DE TEMPERATURA",
+    "grupo": 66
+  },
+  {
+    "id": "08356",
+    "pdm": "INDICADOR ELETRONICO DE PRESSAO",
+    "grupo": 66
+  },
+  {
+    "id": "08357",
+    "pdm": "INDICADOR TEMPERATURA E UMIDADE",
+    "grupo": 66
+  },
+  {
+    "id": "08358",
+    "pdm": "INDICADOR GIROSCOPICO DE ALTITUDE PARA AERONAVE",
+    "grupo": 66
+  },
+  {
+    "id": "08359",
+    "pdm": "INDICADOR MAGNETICO DE NIVEL DE LIQUIDO",
+    "grupo": 66
+  },
+  {
+    "id": "08360",
+    "pdm": "BLOCO PNEUMÁTICO",
+    "grupo": 66
+  },
+  {
+    "id": "08361",
+    "pdm": "INDICADOR ESTERILIZAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "08389",
+    "pdm": "MEDIDOR NÍVEL LÍQUIDO",
+    "grupo": 66
+  },
+  {
+    "id": "08390",
+    "pdm": "INSTRUMENTO DE ENSAIO EQUIPAMENTO DE COMUNICACAO",
+    "grupo": 66
+  },
+  {
+    "id": "08391",
+    "pdm": "INSTRUMENTO DE FOTOGRAMETRIA",
+    "grupo": 66
+  },
+  {
+    "id": "08392",
+    "pdm": "INSTRUMENTO DE GEODESIA",
+    "grupo": 66
+  },
+  {
+    "id": "08393",
+    "pdm": "INSTRUMENTO DE HIDROMETEOROLOGIA",
+    "grupo": 66
+  },
+  {
+    "id": "08394",
+    "pdm": "APARELHO MEDIÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "08395",
+    "pdm": "INSTRUMENTO DE MEDICAO DE TEOR ALCOOLICO PARA LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "08396",
+    "pdm": "INSTRUMENTO DE MOTOR DE AERONAVE",
+    "grupo": 66
+  },
+  {
+    "id": "08397",
+    "pdm": "INSTRUMENTO DE MOTOR DE EMBARCACAO",
+    "grupo": 66
+  },
+  {
+    "id": "08398",
+    "pdm": "INSTRUMENTO DE MOTOR DE VEICULO",
+    "grupo": 66
+  },
+  {
+    "id": "08399",
+    "pdm": "INSTRUMENTO DE OCEANOGRAFIA",
+    "grupo": 66
+  },
+  {
+    "id": "08401",
+    "pdm": "INSTRUMENTO DE SISMOGRAFIA",
+    "grupo": 66
+  },
+  {
+    "id": "08403",
+    "pdm": "PEÇAS / COMPONENTES TOPOGRAFIA",
+    "grupo": 66
+  },
+  {
+    "id": "08405",
+    "pdm": "INSTRUMENTO ELETRICO PAINEL DE VERIFICACAO, ENSAIOE MEDICAO DE APARELHO ELETRICO / ELETRONICO",
+    "grupo": 66
+  },
+  {
+    "id": "08407",
+    "pdm": "INSTRUMENTO ELETRONICO DE MEDICAO PARA PAINEL",
+    "grupo": 66
+  },
+  {
+    "id": "08408",
+    "pdm": "INSTRUMENTO ELETRONICO PAINEL DE VERIFICACAO, EN-SAIO E MEDICAO DE APARELHO ELETRICO / ELETRONICO",
+    "grupo": 66
+  },
+  {
+    "id": "08418",
+    "pdm": "LENTE - USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "08419",
+    "pdm": "INSTRUMENTO OPTICO PARA TOPOGRAFIA",
+    "grupo": 66
+  },
+  {
+    "id": "08421",
+    "pdm": "INSTRUMENTO PARA ANALISE CLINICA",
+    "grupo": 66
+  },
+  {
+    "id": "08422",
+    "pdm": "INSTRUMENTO TOTALIZADOR",
+    "grupo": 66
+  },
+  {
+    "id": "08423",
+    "pdm": "INSTRUMENTO PARA MEDIÇÃO DE PRESSÃO",
+    "grupo": 66
+  },
+  {
+    "id": "08424",
+    "pdm": "INSTRUMENTO PARA MEDICAO DE ROTACAO",
+    "grupo": 66
+  },
+  {
+    "id": "08493",
+    "pdm": "CENTRÍFUGA",
+    "grupo": 66
+  },
+  {
+    "id": "08548",
+    "pdm": "JOGO DE INSTRUMENTO DE DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": "08553",
+    "pdm": "CONJUNTO IDENTIFICADOR GRÃO",
+    "grupo": 66
+  },
+  {
+    "id": "08586",
+    "pdm": "LÃ - USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "08588",
+    "pdm": "CARTUCHO EXTRAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "08589",
+    "pdm": "LABORATORIO DIDATICO MOVEL",
+    "grupo": 66
+  },
+  {
+    "id": "08590",
+    "pdm": "MICRÓTOMO",
+    "grupo": 66
+  },
+  {
+    "id": "08592",
+    "pdm": "LABORATORIO PORTATIL",
+    "grupo": 66
+  },
+  {
+    "id": "08602",
+    "pdm": "LACTOMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "08608",
+    "pdm": "LAMINA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "08615",
+    "pdm": "LAMINA DE FACA DESCARTAVEL",
+    "grupo": 66
+  },
+  {
+    "id": "08617",
+    "pdm": "LÂMINA MICROSCÓPIO",
+    "grupo": 66
+  },
+  {
+    "id": "08624",
+    "pdm": "LÂMINA ESTILETE",
+    "grupo": 66
+  },
+  {
+    "id": "08632",
+    "pdm": "LÂMINA VIDRO - USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "08637",
+    "pdm": "LAMÍNULA",
+    "grupo": 66
+  },
+  {
+    "id": "08638",
+    "pdm": "CÂMARA FUCH ROSENTHAL",
+    "grupo": 66
+  },
+  {
+    "id": "08673",
+    "pdm": "LAMPARINA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "08734",
+    "pdm": "LATEX DETERMINACAO PROTEINA",
+    "grupo": 66
+  },
+  {
+    "id": "08742",
+    "pdm": "CONJUNTO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "08779",
+    "pdm": "LENTE DE AUMENTO",
+    "grupo": 66
+  },
+  {
+    "id": "08795",
+    "pdm": "LETRA FILME",
+    "grupo": 66
+  },
+  {
+    "id": "08803",
+    "pdm": "LEVANTADOR DOBRAVEL - IMPRESSOES REVELADAS",
+    "grupo": 66
+  },
+  {
+    "id": "08862",
+    "pdm": "ALFINETE ENTOMOLÓGICO",
+    "grupo": 66
+  },
+  {
+    "id": "08870",
+    "pdm": "LIOFILIZADOR",
+    "grupo": 66
+  },
+  {
+    "id": "08873",
+    "pdm": "LIQUEFATOR DE NITROGENIO",
+    "grupo": 66
+  },
+  {
+    "id": "08874",
+    "pdm": "PIPETA",
+    "grupo": 66
+  },
+  {
+    "id": "08877",
+    "pdm": "LIQUIDO DE LIMPEZA DE CANETA NANKIM",
+    "grupo": 66
+  },
+  {
+    "id": "08925",
+    "pdm": "CAIXA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "08943",
+    "pdm": "LUMINOMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "08944",
+    "pdm": "LUNETA",
+    "grupo": 66
+  },
+  {
+    "id": "08946",
+    "pdm": "LUNETA DE OBSERVAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": "08947",
+    "pdm": "LUNETA DE PONTARIA",
+    "grupo": 66
+  },
+  {
+    "id": "08948",
+    "pdm": "LUNETA TELESCOPICA",
+    "grupo": 66
+  },
+  {
+    "id": "08949",
+    "pdm": "LUPA",
+    "grupo": 66
+  },
+  {
+    "id": "08950",
+    "pdm": "LENTE CÂMERA TERMOGRÁFICA",
+    "grupo": 66
+  },
+  {
+    "id": "08954",
+    "pdm": "LUVA - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "08980",
+    "pdm": "LUXÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "08984",
+    "pdm": "LUZ MONOCROMATICA ( EQUIPAMENTO OPTICO )",
+    "grupo": 66
+  },
+  {
+    "id": "09118",
+    "pdm": "MANTA AQUECEDORA",
+    "grupo": 66
+  },
+  {
+    "id": "09185",
+    "pdm": "MAQUINA DE ENSAIO FISICO DE BORRACHA",
+    "grupo": 66
+  },
+  {
+    "id": "09257",
+    "pdm": "BLOCO DIGESTOR",
+    "grupo": 66
+  },
+  {
+    "id": "09327",
+    "pdm": "MICRODURÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "09328",
+    "pdm": "MÁQUINA UNIVERSAL ENSAIOS / PEÇAS E ACESSÓRIOS",
+    "grupo": 66
+  },
+  {
+    "id": "09370",
+    "pdm": "MARCADOR DE TEMPO",
+    "grupo": 66
+  },
+  {
+    "id": "09376",
+    "pdm": "MARCO - IDENTIFICACAO DE AREA",
+    "grupo": 66
+  },
+  {
+    "id": "09385",
+    "pdm": "SERINGA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "09402",
+    "pdm": "FILTRO PIPETA",
+    "grupo": 66
+  },
+  {
+    "id": "09437",
+    "pdm": "MATERIAL / EQUIPAMENTO / COMPONENTE - LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "09471",
+    "pdm": "EQUIPAMENTO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "09473",
+    "pdm": "MATERIAL METALICO RADIOATIVO",
+    "grupo": 66
+  },
+  {
+    "id": "09501",
+    "pdm": "MATERIAL LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "09517",
+    "pdm": "MECANISMO DE PILOTO AUTOMATICO PARA AERONAVE",
+    "grupo": 66
+  },
+  {
+    "id": "09527",
+    "pdm": "MEDIDOR BRILHO FILME DE TINTA / VERNIZ - USO LABO-RATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "09528",
+    "pdm": "MEDIDOR INTENSIDADE CAMPO",
+    "grupo": 66
+  },
+  {
+    "id": "09530",
+    "pdm": "MEDIDOR DE CAPACITANCIA",
+    "grupo": 66
+  },
+  {
+    "id": "09531",
+    "pdm": "MEDIDOR DE CONSUMO DE CORRENTE ELETRICA",
+    "grupo": 66
+  },
+  {
+    "id": "09532",
+    "pdm": "MEDIDOR DE CONSUMO DE CORRENTE, TIPO DOMESTICO",
+    "grupo": 66
+  },
+  {
+    "id": "09533",
+    "pdm": "MEDIDOR DEMANDA ELETRICIDADE",
+    "grupo": 66
+  },
+  {
+    "id": "09534",
+    "pdm": "MEDIDOR DE ENERGIA ELETRICA BIFASICA",
+    "grupo": 66
+  },
+  {
+    "id": "09535",
+    "pdm": "MEDIDOR DE ENERGIA ELETRICA MONOFASICO",
+    "grupo": 66
+  },
+  {
+    "id": "09536",
+    "pdm": "MEDIDOR DE ENERGIA ELETRICA POLIFASICO",
+    "grupo": 66
+  },
+  {
+    "id": "09537",
+    "pdm": "MEDIDOR DE ENERGIA ELETRICA REATIVA",
+    "grupo": 66
+  },
+  {
+    "id": "09538",
+    "pdm": "MEDIDOR DE ENERGIA ELETRICA TRIFASICO",
+    "grupo": 66
+  },
+  {
+    "id": "09540",
+    "pdm": "MEDIDOR ÍNDICE ACIDEZ",
+    "grupo": 66
+  },
+  {
+    "id": "09541",
+    "pdm": "MEDIDOR DE INTEMPERIE",
+    "grupo": 66
+  },
+  {
+    "id": "09542",
+    "pdm": "MEDIDOR GÁS (CONSULTAR POR MANÔMETRO)",
+    "grupo": 66
+  },
+  {
+    "id": "09543",
+    "pdm": "MEDIDOR NÍVEL SOM / VÍDEO",
+    "grupo": 66
+  },
+  {
+    "id": "09544",
+    "pdm": "MEDIDOR DE OXI-REDUCAO",
+    "grupo": 66
+  },
+  {
+    "id": "09545",
+    "pdm": "MEDIDOR DE PERDA DE RETORNO EM ALTA FREQUENCIA",
+    "grupo": 66
+  },
+  {
+    "id": "09546",
+    "pdm": "MEDIDOR DE POTÊNCIA",
+    "grupo": 66
+  },
+  {
+    "id": "09547",
+    "pdm": "MEDIDOR DE PRECIPITACAO PLUVIOMETRICA",
+    "grupo": 66
+  },
+  {
+    "id": "09548",
+    "pdm": "MEDIDOR DE PRESSÃO ABSOLUTA",
+    "grupo": 66
+  },
+  {
+    "id": "09549",
+    "pdm": "MEDIDOR DE RADIACAO SOLAR ( INSOLACAO )",
+    "grupo": 66
+  },
+  {
+    "id": "09550",
+    "pdm": "MEDIDOR DE RADIO - INTERFERENCIA E RADIO - RUIDO",
+    "grupo": 66
+  },
+  {
+    "id": "09551",
+    "pdm": "MEDIDOR DE RADIO INTERFERENCIA",
+    "grupo": 66
+  },
+  {
+    "id": "09553",
+    "pdm": "MEDIDOR DE RESISTENCIA DE ISOLAMENTO",
+    "grupo": 66
+  },
+  {
+    "id": "09554",
+    "pdm": "MEDIDOR DE RESISTENCIA ELETRICA DE TERRA",
+    "grupo": 66
+  },
+  {
+    "id": "09555",
+    "pdm": "MEDIDOR DE RIGIDEZ DIELETRICA DE OLEO",
+    "grupo": 66
+  },
+  {
+    "id": "09557",
+    "pdm": "MEDIDOR DE TENSAO INTEGRALIZADA",
+    "grupo": 66
+  },
+  {
+    "id": "09559",
+    "pdm": "MEDIDOR VAZÃO",
+    "grupo": 66
+  },
+  {
+    "id": "09560",
+    "pdm": "MEDIDOR DEFASADOR ÂNGULO DE FASE",
+    "grupo": 66
+  },
+  {
+    "id": "09561",
+    "pdm": "MEDIDOR DUREZA FILME DE TINTA / VERNIZ - USO LABO-RATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "09565",
+    "pdm": "MEDIDOR PARA NIVEL DE OLEO",
+    "grupo": 66
+  },
+  {
+    "id": "09567",
+    "pdm": "MEDIDOR RUGOSIDADE",
+    "grupo": 66
+  },
+  {
+    "id": "09568",
+    "pdm": "MEDIDOR VETORIAL DE IMPEDANCIA",
+    "grupo": 66
+  },
+  {
+    "id": "09569",
+    "pdm": "MEDIDOR VOLT - AMPER - OHM - COS PHI DE BANCADA",
+    "grupo": 66
+  },
+  {
+    "id": "09577",
+    "pdm": "MEGOHMETRO",
+    "grupo": 66
+  },
+  {
+    "id": "09584",
+    "pdm": "MEIO DE CULTURA BACTERIOLOGICA",
+    "grupo": 66
+  },
+  {
+    "id": "09591",
+    "pdm": "MEMBRANA ELETRODO - USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "09612",
+    "pdm": "MESA ANTIVIBRATORIA",
+    "grupo": 66
+  },
+  {
+    "id": "09622",
+    "pdm": "MESA DE AFERICAO DE MEDIDOR DE ENERGIA",
+    "grupo": 66
+  },
+  {
+    "id": "09627",
+    "pdm": "MESA DE DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": "09630",
+    "pdm": "MESA DE PILOTAGEM",
+    "grupo": 66
+  },
+  {
+    "id": "09644",
+    "pdm": "MESA OPTICA - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "09723",
+    "pdm": "CITOCENTRÍFUGA",
+    "grupo": 66
+  },
+  {
+    "id": "09724",
+    "pdm": "MICROCENTRÍFUGA.",
+    "grupo": 66
+  },
+  {
+    "id": "09741",
+    "pdm": "MICROGASOMETRO - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": "09747",
+    "pdm": "MICROPIPETA.",
+    "grupo": 66
+  },
+  {
+    "id": "09748",
+    "pdm": "MICROPIPETA",
+    "grupo": 66
+  },
+  {
+    "id": "09749",
+    "pdm": "PLACA DE PETRI",
+    "grupo": 66
+  },
+  {
+    "id": "09752",
+    "pdm": "MICROSCOPIO",
+    "grupo": 66
+  },
+  {
+    "id": "09753",
+    "pdm": "MICROSCÓPIO.",
+    "grupo": 66
+  },
+  {
+    "id": "09754",
+    "pdm": "PEÇAS E ACESSÓRIOS MICROSCÓPIO",
+    "grupo": 66
+  },
+  {
+    "id": "09756",
+    "pdm": "MICROSCÓPIO MONOCULAR",
+    "grupo": 66
+  },
+  {
+    "id": "09757",
+    "pdm": "MICROSCÓPIO TRINOCULAR",
+    "grupo": 66
+  },
+  {
+    "id": "09759",
+    "pdm": "MICROTUBO",
+    "grupo": 66
+  },
+  {
+    "id": "09778",
+    "pdm": "MIRA",
+    "grupo": 66
+  },
+  {
+    "id": "09779",
+    "pdm": "MIRA USO TOPOGRÁFICO",
+    "grupo": 66
+  },
+  {
+    "id": "09781",
+    "pdm": "MIRA HORIZONTAL USO TOPOGRAFICO",
+    "grupo": 66
+  },
+  {
+    "id": "09782",
+    "pdm": "MIRA LASER",
+    "grupo": 66
+  },
+  {
+    "id": "09783",
+    "pdm": "MIRA PARA CENTRAGEM FORCADA USO TOPOGRAFICO",
+    "grupo": 66
+  },
+  {
+    "id": "09819",
+    "pdm": "MOBILIÁRIO DE LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": "09882",
+    "pdm": "MONITOR DE FLUXO DE COLETA DE LIQUIDO",
+    "grupo": 66
+  },
+  {
+    "id": "09887",
+    "pdm": "MONITOR PARTICULA",
+    "grupo": 66
+  },
+  {
+    "id": 10007,
+    "pdm": "MUFLA",
+    "grupo": 66
+  },
+  {
+    "id": 10012,
+    "pdm": "MULTÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 10031,
+    "pdm": "NADIRSCOPIO",
+    "grupo": 66
+  },
+  {
+    "id": 10046,
+    "pdm": "NAVETA",
+    "grupo": 66
+  },
+  {
+    "id": 10047,
+    "pdm": "NAVETA DE PORCELANA",
+    "grupo": 66
+  },
+  {
+    "id": 10067,
+    "pdm": "NEFELOMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 10114,
+    "pdm": "NIVEL DE BOLHA USO TOPOGRAFICO",
+    "grupo": 66
+  },
+  {
+    "id": 10115,
+    "pdm": "NIVEL DE DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": 10126,
+    "pdm": "NORMOGRAFO COMPLETO",
+    "grupo": 66
+  },
+  {
+    "id": 10127,
+    "pdm": "NORMOGRAFO DE DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": 10139,
+    "pdm": "OBSTRUTOR FORNECIMENTO AGUA",
+    "grupo": 66
+  },
+  {
+    "id": 10142,
+    "pdm": "OCTANTE",
+    "grupo": 66
+  },
+  {
+    "id": 10150,
+    "pdm": "ODOGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": 10152,
+    "pdm": "ODOMETRO DE EMBARCACAO",
+    "grupo": 66
+  },
+  {
+    "id": 10228,
+    "pdm": "OSCILOGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": 10230,
+    "pdm": "OSCILOSCÓPIO",
+    "grupo": 66
+  },
+  {
+    "id": 10231,
+    "pdm": "OSMOMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 10235,
+    "pdm": "OTOCALORIMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 10265,
+    "pdm": "OZONIZADOR AGUA",
+    "grupo": 66
+  },
+  {
+    "id": 10308,
+    "pdm": "PAINEL HEMÁCIAS",
+    "grupo": 66
+  },
+  {
+    "id": 10333,
+    "pdm": "DISPENSETE",
+    "grupo": 66
+  },
+  {
+    "id": 10347,
+    "pdm": "PANTOGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": 10369,
+    "pdm": "PAPEL DE TORNASSOL AZUL",
+    "grupo": 66
+  },
+  {
+    "id": 10376,
+    "pdm": "PAPEL FILME - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 10378,
+    "pdm": "PAPEL GERMINAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 10384,
+    "pdm": "INDICADOR DE PH",
+    "grupo": 66
+  },
+  {
+    "id": 10479,
+    "pdm": "PASSOMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 10520,
+    "pdm": "PEAGÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 10525,
+    "pdm": "PECA / COMPONENTE - MESA ANTIVIBRATORIA",
+    "grupo": 66
+  },
+  {
+    "id": 10528,
+    "pdm": "PECA / COMPONENTE AGITADOR - LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 10554,
+    "pdm": "PECA/ACESSORIO FORNO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 10610,
+    "pdm": "PENA DE CANETA NORMOGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": 10611,
+    "pdm": "PENA NORMOGRAFO PARA DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": 10612,
+    "pdm": "PENA",
+    "grupo": 66
+  },
+  {
+    "id": 10613,
+    "pdm": "PENA PARA LETRA",
+    "grupo": 66
+  },
+  {
+    "id": 10615,
+    "pdm": "PENEIRA DE ENSAIO DE GRANULOMETRIA ( PENEIROMETRO)",
+    "grupo": 66
+  },
+  {
+    "id": 10619,
+    "pdm": "PENETRÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 10643,
+    "pdm": "PÊRA - PIPETA",
+    "grupo": 66
+  },
+  {
+    "id": 10673,
+    "pdm": "PERISCOPIO EXCETO DE SUBMARINO",
+    "grupo": 66
+  },
+  {
+    "id": 10679,
+    "pdm": "PÉROLA DE VIDRO - LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 10684,
+    "pdm": "PESA FILTRO.",
+    "grupo": 66
+  },
+  {
+    "id": 10686,
+    "pdm": "PESO DE BALANÇA",
+    "grupo": 66
+  },
+  {
+    "id": 10702,
+    "pdm": "PEÇAS E ACESSÓRIOS - PICNÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 10703,
+    "pdm": "PICNÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 10725,
+    "pdm": "PINCA EXTENAZ DE LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 10730,
+    "pdm": "PINÇA",
+    "grupo": 66
+  },
+  {
+    "id": 10755,
+    "pdm": "PIPETA LABORATÓRIO.",
+    "grupo": 66
+  },
+  {
+    "id": 10756,
+    "pdm": "CONTROLADOR PIPETA",
+    "grupo": 66
+  },
+  {
+    "id": 10757,
+    "pdm": "PIPETADOR",
+    "grupo": 66
+  },
+  {
+    "id": 10772,
+    "pdm": "PIROMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 10773,
+    "pdm": "PIROMETRO DIGITAL",
+    "grupo": 66
+  },
+  {
+    "id": 10774,
+    "pdm": "PIRÔMETRO ÓPTICO",
+    "grupo": 66
+  },
+  {
+    "id": 10805,
+    "pdm": "PLACA",
+    "grupo": 66
+  },
+  {
+    "id": 10813,
+    "pdm": "PLATAFORMA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 10838,
+    "pdm": "PLACA DE PETRI.",
+    "grupo": 66
+  },
+  {
+    "id": 10848,
+    "pdm": "PLACA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 10850,
+    "pdm": "PLACA IMUNODIFUSAO",
+    "grupo": 66
+  },
+  {
+    "id": 10880,
+    "pdm": "PLANIMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 10915,
+    "pdm": "PLUVIOMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 10942,
+    "pdm": "POLARIMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 10943,
+    "pdm": "POLARÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 10944,
+    "pdm": "PEÇAS E COMPONENTES PIPETADOR",
+    "grupo": 66
+  },
+  {
+    "id": 10945,
+    "pdm": "POLARÓGRAFO / PEÇAS / COMPONENTES",
+    "grupo": 66
+  },
+  {
+    "id": 10993,
+    "pdm": "FIBRA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 11003,
+    "pdm": "PONTE DE IMPEDANCIA RLC",
+    "grupo": 66
+  },
+  {
+    "id": 11010,
+    "pdm": "PONTEIRA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 11014,
+    "pdm": "PONTEIRA PIPETA",
+    "grupo": 66
+  },
+  {
+    "id": 11016,
+    "pdm": "PONTEIRA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 11051,
+    "pdm": "PORTA-PRISMA DE TOPOGRAFIA",
+    "grupo": 66
+  },
+  {
+    "id": 11065,
+    "pdm": "PORTA CASSETE - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 11077,
+    "pdm": "PORTA FUNIL - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 11090,
+    "pdm": "PORTA-CADINHO - GEMOLOGIA",
+    "grupo": 66
+  },
+  {
+    "id": 11092,
+    "pdm": "PORTA LÂMINA",
+    "grupo": 66
+  },
+  {
+    "id": 11117,
+    "pdm": "POTE",
+    "grupo": 66
+  },
+  {
+    "id": 11142,
+    "pdm": "PRATO DE BALANCA",
+    "grupo": 66
+  },
+  {
+    "id": 11201,
+    "pdm": "PREPARADOR AUTOMATICO - DISSOLUCAO COMPRIMIDO",
+    "grupo": 66
+  },
+  {
+    "id": 11206,
+    "pdm": "PRESSOSTATO ALTA PRESSAO",
+    "grupo": 66
+  },
+  {
+    "id": 11215,
+    "pdm": "PRISMA DE INSTRUMENTO OPTICO",
+    "grupo": 66
+  },
+  {
+    "id": 11327,
+    "pdm": "PROVETA.",
+    "grupo": 66
+  },
+  {
+    "id": 11329,
+    "pdm": "PSICRÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 11361,
+    "pdm": "QUADRO DE PILOTAGEM PARA NAVEGACAO",
+    "grupo": 66
+  },
+  {
+    "id": 11399,
+    "pdm": "RADIOSSONDA",
+    "grupo": 66
+  },
+  {
+    "id": 11415,
+    "pdm": "RAQUIALBUMINIMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 11478,
+    "pdm": "RECINTO ESPECIALMENTE DESIGNADO PARA SIMULAR",
+    "grupo": 66
+  },
+  {
+    "id": 11497,
+    "pdm": "RECIPIENTE LABORATORIAL",
+    "grupo": 66
+  },
+  {
+    "id": 11531,
+    "pdm": "REFRATÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 11548,
+    "pdm": "REGISTRADOR DE TEMPO",
+    "grupo": 66
+  },
+  {
+    "id": 11550,
+    "pdm": "REGISTRADOR ELETRICO DE PRESSAO",
+    "grupo": 66
+  },
+  {
+    "id": 11551,
+    "pdm": "REGISTRADOR ELETRICO DE TEMPERATURA",
+    "grupo": 66
+  },
+  {
+    "id": 11552,
+    "pdm": "REGISTRADOR ELETRONICO DE PRESSAO",
+    "grupo": 66
+  },
+  {
+    "id": 11553,
+    "pdm": "REGISTRADOR ELETRONICO DE TEMPERATURA / UMIDADE",
+    "grupo": 66
+  },
+  {
+    "id": 11554,
+    "pdm": "REGISTRADOR GRÁFICO - PEÇAS/ACESSÓRIOS",
+    "grupo": 66
+  },
+  {
+    "id": 11555,
+    "pdm": "REGISTRADOR PIROMETRICO",
+    "grupo": 66
+  },
+  {
+    "id": 11557,
+    "pdm": "REGISTRADOR TRANSIENTES SINAL ELETRONICO",
+    "grupo": 66
+  },
+  {
+    "id": 11567,
+    "pdm": "REGUA T PARA DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": 11572,
+    "pdm": "REGUA DE NIVELAR CONSTRUCAO DE ALVENARIA",
+    "grupo": 66
+  },
+  {
+    "id": 11573,
+    "pdm": "REGUA DE NORMOGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": 11574,
+    "pdm": "REGUA DE SINALIZACAO DE TRANSITO",
+    "grupo": 66
+  },
+  {
+    "id": 11577,
+    "pdm": "REGUA FRANCESA PARA DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": 11580,
+    "pdm": "RÉGUA MEDIÇAO MAREGRÁFICA / MÉTRICA",
+    "grupo": 66
+  },
+  {
+    "id": 11581,
+    "pdm": "REGUA PARALELA DE DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": 11582,
+    "pdm": "REGUA DE DESENHO",
+    "grupo": 66
+  },
+  {
+    "id": 11588,
+    "pdm": "REGULADOR DE PILOTO AUTOMATICO",
+    "grupo": 66
+  },
+  {
+    "id": 11619,
+    "pdm": "RELÓGIO CARIMBADOR",
+    "grupo": 66
+  },
+  {
+    "id": 11620,
+    "pdm": "RELÓGIO DATADOR",
+    "grupo": 66
+  },
+  {
+    "id": 11623,
+    "pdm": "RELÓGIO DE PONTO",
+    "grupo": 66
+  },
+  {
+    "id": 11624,
+    "pdm": "RELÓGIO DE VIGIA",
+    "grupo": 66
+  },
+  {
+    "id": 11625,
+    "pdm": "RELÓGIO PARA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 11650,
+    "pdm": "REPARTIDOR DE AMOSTRA - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 11651,
+    "pdm": "REPETIDOR DE ONDA",
+    "grupo": 66
+  },
+  {
+    "id": 11655,
+    "pdm": "REPIPETADOR",
+    "grupo": 66
+  },
+  {
+    "id": 11656,
+    "pdm": "REPLICADOR COLONIA BACTERIANA",
+    "grupo": 66
+  },
+  {
+    "id": 11662,
+    "pdm": "RESERVATORIO ÁGUA PURIFICADA- USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 11669,
+    "pdm": "RESERVATORIO PARA LIQUIDO - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 11671,
+    "pdm": "RESFRIADOR PARA BOLSA DE LIQUIDOS",
+    "grupo": 66
+  },
+  {
+    "id": 11712,
+    "pdm": "RETICULA DE INSTRUMENTO OPTICO",
+    "grupo": 66
+  },
+  {
+    "id": 11819,
+    "pdm": "ROLHA SILICONE",
+    "grupo": 66
+  },
+  {
+    "id": 11844,
+    "pdm": "ROTOR - USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 11885,
+    "pdm": "SACARIMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 11924,
+    "pdm": "SALINÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 12013,
+    "pdm": "SENSOR",
+    "grupo": 66
+  },
+  {
+    "id": 12016,
+    "pdm": "SENSOR TÉRMICO",
+    "grupo": 66
+  },
+  {
+    "id": 12020,
+    "pdm": "EQUIPAMENTO SEPARADOR DE SANGUE",
+    "grupo": 66
+  },
+  {
+    "id": 12026,
+    "pdm": "SEQUENCIA INICIADORA - POLIMERIZACAO ( PRIMER )",
+    "grupo": 66
+  },
+  {
+    "id": 12027,
+    "pdm": "SERINGA LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 12054,
+    "pdm": "SEXTANTE",
+    "grupo": 66
+  },
+  {
+    "id": 12094,
+    "pdm": "SINTONIZADOR DE FREQUENCIA",
+    "grupo": 66
+  },
+  {
+    "id": 12131,
+    "pdm": "SISTEMA DE TERMOMETRIA PARA GRAO AGRICOLA ( PORTATIL / INFORMATIZADO )",
+    "grupo": 66
+  },
+  {
+    "id": 12137,
+    "pdm": "SISTEMA ESPECTROMETRIA",
+    "grupo": 66
+  },
+  {
+    "id": 12138,
+    "pdm": "SISTEMA ESTERILIZACAO - MEIO CULTURA",
+    "grupo": 66
+  },
+  {
+    "id": 12139,
+    "pdm": "SISTEMA FILTRAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 12150,
+    "pdm": "SISTEMA INTEGRADO PARA TESTE DE MODEM ANALOGICO / DIGITAL",
+    "grupo": 66
+  },
+  {
+    "id": 12165,
+    "pdm": "SISTEMA TESTE TOPICO / TRANSDERMICO",
+    "grupo": 66
+  },
+  {
+    "id": 12403,
+    "pdm": "SUPORTE CAPACETE - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 12418,
+    "pdm": "SUPORTE TUBO ENSAIO",
+    "grupo": 66
+  },
+  {
+    "id": 12425,
+    "pdm": "SUPORTE TRANSPORTE IMPRESSOES REVELADAS",
+    "grupo": 66
+  },
+  {
+    "id": 12454,
+    "pdm": "TABELA DE TESTE",
+    "grupo": 66
+  },
+  {
+    "id": 12459,
+    "pdm": "TABLETE ELETRODO - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 12462,
+    "pdm": "TABUA DE DISSECACAO",
+    "grupo": 66
+  },
+  {
+    "id": 12479,
+    "pdm": "TACÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 12480,
+    "pdm": "TACOMETRO DE MOTORES HIDROMETROS",
+    "grupo": 66
+  },
+  {
+    "id": 12507,
+    "pdm": "TAMIS",
+    "grupo": 66
+  },
+  {
+    "id": 12527,
+    "pdm": "TAMPA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 12585,
+    "pdm": "TECNIGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": 12588,
+    "pdm": "TELA - USO LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 12596,
+    "pdm": "TELA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 12604,
+    "pdm": "TELEMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 12606,
+    "pdm": "ACESSÓRIOS / COMPONENTES TELESCÓPIO",
+    "grupo": 66
+  },
+  {
+    "id": 12623,
+    "pdm": "TEMPORIZADOR DE CALDEIRA",
+    "grupo": 66
+  },
+  {
+    "id": 12624,
+    "pdm": "TEMPORIZADOR PARA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 12625,
+    "pdm": "TENAZ LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 12636,
+    "pdm": "TEODOLITO",
+    "grupo": 66
+  },
+  {
+    "id": 12637,
+    "pdm": "TEODOLITO PARA METEOROLOGIA",
+    "grupo": 66
+  },
+  {
+    "id": 12659,
+    "pdm": "TERMO-RESISTÊNCIA",
+    "grupo": 66
+  },
+  {
+    "id": 12660,
+    "pdm": "TERMOANALISADOR",
+    "grupo": 66
+  },
+  {
+    "id": 12662,
+    "pdm": "TERMOCICLADOR.",
+    "grupo": 66
+  },
+  {
+    "id": 12663,
+    "pdm": "TERMOCOMPENSADOR",
+    "grupo": 66
+  },
+  {
+    "id": 12664,
+    "pdm": "TERMODENSIMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 12665,
+    "pdm": "TERMOGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": 12666,
+    "pdm": "TERMOHIGROMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 12667,
+    "pdm": "TERMOHIGRÔMETRO-ANEMÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 12668,
+    "pdm": "TERMÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 12669,
+    "pdm": "TERMÔMETRO - USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 12671,
+    "pdm": "TERMÔMETRO DE VIDRO",
+    "grupo": 66
+  },
+  {
+    "id": 12672,
+    "pdm": "TERMOMETRO EXPANSAO A GAS BULBO FIXO",
+    "grupo": 66
+  },
+  {
+    "id": 12673,
+    "pdm": "TERMOMETRO METEOROLOGICO",
+    "grupo": 66
+  },
+  {
+    "id": 12674,
+    "pdm": "TERMOMETRO PARA MOTOR",
+    "grupo": 66
+  },
+  {
+    "id": 12676,
+    "pdm": "FIO TERMOPAR",
+    "grupo": 66
+  },
+  {
+    "id": 12677,
+    "pdm": "TERMOSTATO",
+    "grupo": 66
+  },
+  {
+    "id": 12680,
+    "pdm": "TERRÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 12691,
+    "pdm": "TESTADOR DE VALVULA ELETRONICA",
+    "grupo": 66
+  },
+  {
+    "id": 12692,
+    "pdm": "TESTADOR",
+    "grupo": 66
+  },
+  {
+    "id": 12693,
+    "pdm": "TESTE LABORATORIAL",
+    "grupo": 66
+  },
+  {
+    "id": 12694,
+    "pdm": "TESTE PARA DIAGNOSTICO - LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 12695,
+    "pdm": "TESTE ANTI HBE",
+    "grupo": 66
+  },
+  {
+    "id": 12696,
+    "pdm": "TESTE RAPIDO DIAGNOSTICO VETERINARIO - BRUCELOSE / ANEMIA",
+    "grupo": 66
+  },
+  {
+    "id": 12697,
+    "pdm": "TESTE RAPIDO URINA - DETECCAO DROGA",
+    "grupo": 66
+  },
+  {
+    "id": 12789,
+    "pdm": "TITULADOR POTENCIÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 12853,
+    "pdm": "TRACADOR DE CURVA DE SEMICONDUTOR",
+    "grupo": 66
+  },
+  {
+    "id": 12869,
+    "pdm": "TRANSDUTOR CORRENTE",
+    "grupo": 66
+  },
+  {
+    "id": 12870,
+    "pdm": "TRANSDUTOR DE PRESSÃO",
+    "grupo": 66
+  },
+  {
+    "id": 12871,
+    "pdm": "TRANSDUTOR DE TEMPERATURA",
+    "grupo": 66
+  },
+  {
+    "id": 12872,
+    "pdm": "TRANSDUTOR TENSÃO",
+    "grupo": 66
+  },
+  {
+    "id": 12873,
+    "pdm": "TRANSDUTOR INERCIAL",
+    "grupo": 66
+  },
+  {
+    "id": 12874,
+    "pdm": "TRANSDUTOR LINEAR DE MEDIDA",
+    "grupo": 66
+  },
+  {
+    "id": 12875,
+    "pdm": "TRANSFERIDOR",
+    "grupo": 66
+  },
+  {
+    "id": 12901,
+    "pdm": "TRANSITO DE ENGENHEIRO ( INSTRUMENTO DE TOPOGRAFIA",
+    "grupo": 66
+  },
+  {
+    "id": 12905,
+    "pdm": "TRANSMISSOR MICROPROCESSADOR PRESSÃO MANOMÉTRICA",
+    "grupo": 66
+  },
+  {
+    "id": 12907,
+    "pdm": "TRANSMISSOR ELETRONICO DE PRESSAO",
+    "grupo": 66
+  },
+  {
+    "id": 12908,
+    "pdm": "TRANSMISSOR ELETRONICO DE TEMPERATURA",
+    "grupo": 66
+  },
+  {
+    "id": 12909,
+    "pdm": "TRANSMISSOR PH",
+    "grupo": 66
+  },
+  {
+    "id": 12910,
+    "pdm": "TRANSMISSOR PNEUMATICO DE PRESSAO",
+    "grupo": 66
+  },
+  {
+    "id": 12911,
+    "pdm": "TRANSMISSOR PNEUMATICO DE TEMPERATURA",
+    "grupo": 66
+  },
+  {
+    "id": 12912,
+    "pdm": "TRANSMISSOR REDOX",
+    "grupo": 66
+  },
+  {
+    "id": 12993,
+    "pdm": "TRIPE PARA EQUIPAMENTO DE TOPOGRAFIA",
+    "grupo": 66
+  },
+  {
+    "id": 13016,
+    "pdm": "CONCENTRADOR LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 13022,
+    "pdm": "TUBO - MEIO CULTURA",
+    "grupo": 66
+  },
+  {
+    "id": 13023,
+    "pdm": "TUBO - SOLUCAO PARA MICROBIOLOGIA",
+    "grupo": 66
+  },
+  {
+    "id": 13027,
+    "pdm": "TUBO CAPILAR USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 13029,
+    "pdm": "TUBO CAPILAR PARA COLETA DE MATERIAL POR CATETER",
+    "grupo": 66
+  },
+  {
+    "id": 13031,
+    "pdm": "TUBO COAGULACAO ATIVA",
+    "grupo": 66
+  },
+  {
+    "id": 13033,
+    "pdm": "TUBO PARA CENTRÍFUGA",
+    "grupo": 66
+  },
+  {
+    "id": 13062,
+    "pdm": "TUBO.",
+    "grupo": 66
+  },
+  {
+    "id": 13070,
+    "pdm": "TUBO DE PITOT",
+    "grupo": 66
+  },
+  {
+    "id": 13077,
+    "pdm": "TUBO DE QUARTZO",
+    "grupo": 66
+  },
+  {
+    "id": 13093,
+    "pdm": "TUBO VIDRO PARA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 13105,
+    "pdm": "TUBO DE MEMBRANA",
+    "grupo": 66
+  },
+  {
+    "id": 13114,
+    "pdm": "TUBO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 13127,
+    "pdm": "TUNEL DE VENTO",
+    "grupo": 66
+  },
+  {
+    "id": 13132,
+    "pdm": "TURBIDÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 13181,
+    "pdm": "UNIDADE FLUXO LAMINAR",
+    "grupo": 66
+  },
+  {
+    "id": 13220,
+    "pdm": "VACUÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 13392,
+    "pdm": "VERIFICADOR DE SEQUENCIA DE FASE",
+    "grupo": 66
+  },
+  {
+    "id": 13425,
+    "pdm": "VIDRACARIA DE LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 13426,
+    "pdm": "LÂMINA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 13430,
+    "pdm": "VIDRO BIOPSIA - LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 13431,
+    "pdm": "VIDRO RELÓGIO",
+    "grupo": 66
+  },
+  {
+    "id": 13453,
+    "pdm": "VISCOSÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 13456,
+    "pdm": "VISOR DE NÍVEL",
+    "grupo": 66
+  },
+  {
+    "id": 13473,
+    "pdm": "VIVEIRO AGRICOLA",
+    "grupo": 66
+  },
+  {
+    "id": 13479,
+    "pdm": "VOLTÍMETRO DIGITAL",
+    "grupo": 66
+  },
+  {
+    "id": 13507,
+    "pdm": "LUPA ELETRÔNICA",
+    "grupo": 66
+  },
+  {
+    "id": 13529,
+    "pdm": "APARELHO VÁCUO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 13536,
+    "pdm": "BERÇO COLORAÇÃO LÂMINAS",
+    "grupo": 66
+  },
+  {
+    "id": 13571,
+    "pdm": "GARRA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 13591,
+    "pdm": "MATERIAL / EQUIPAMENTO - LABORATÓRIO ADMINISTRAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 13592,
+    "pdm": "MATERIAL / EQUIPAMENTO - LABORATÓRIO ANÁLISE SOLO",
+    "grupo": 66
+  },
+  {
+    "id": 13593,
+    "pdm": "MATERIAL / EQUIPAMENTO - LABORATÓRIO APICULTURA",
+    "grupo": 66
+  },
+  {
+    "id": 13594,
+    "pdm": "MEDIDOR DE OXIGENIO (CONSULTAR POR MANÔMETRO)",
+    "grupo": 66
+  },
+  {
+    "id": 13607,
+    "pdm": "NIVEL DE PRECISAO USO TOPOGRAFICO",
+    "grupo": 66
+  },
+  {
+    "id": 13617,
+    "pdm": "PIPETA MANUAL (CONSULTAR INC 08874)",
+    "grupo": 66
+  },
+  {
+    "id": 13631,
+    "pdm": "RELÓGIO DE PROTOCOLO",
+    "grupo": 66
+  },
+  {
+    "id": 13638,
+    "pdm": "SONDA",
+    "grupo": 66
+  },
+  {
+    "id": 13641,
+    "pdm": "TERMOMETRO DE EXPANSAO A GAS",
+    "grupo": 66
+  },
+  {
+    "id": 13654,
+    "pdm": "NAVALHA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 13672,
+    "pdm": "METANÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 13673,
+    "pdm": "SISMÓGRAFO",
+    "grupo": 66
+  },
+  {
+    "id": 13674,
+    "pdm": "OXÍMETRO DIGITAL",
+    "grupo": 66
+  },
+  {
+    "id": 13715,
+    "pdm": "MATERIAL PESQUISA",
+    "grupo": 66
+  },
+  {
+    "id": 13727,
+    "pdm": "PÓ PAPILOSCOPIA",
+    "grupo": 66
+  },
+  {
+    "id": 13728,
+    "pdm": "PINCEL LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 13729,
+    "pdm": "TIRA PREENTINTADA",
+    "grupo": 66
+  },
+  {
+    "id": 13736,
+    "pdm": "APLICADOR PÓ MAGNÉTICO",
+    "grupo": 66
+  },
+  {
+    "id": 13741,
+    "pdm": "SUPORTE SECUNDÁRIO IMPRESSÃO",
+    "grupo": 66
+  },
+  {
+    "id": 13743,
+    "pdm": "RESINA TROCA IÔNICA.",
+    "grupo": 66
+  },
+  {
+    "id": 13747,
+    "pdm": "SUPORTE SECUNDÁRIO DOBRÁVEL",
+    "grupo": 66
+  },
+  {
+    "id": 13748,
+    "pdm": "CÂMARA DESCARTÁVEL",
+    "grupo": 66
+  },
+  {
+    "id": 13751,
+    "pdm": "CONJUNTO ELIMINADOR CIANOACRILATO",
+    "grupo": 66
+  },
+  {
+    "id": 13756,
+    "pdm": "CARTUCHO DESCARTÁVEL CIANOACRILATO",
+    "grupo": 66
+  },
+  {
+    "id": 13766,
+    "pdm": "TUBO DESCARTÁVEL COM IODO",
+    "grupo": 66
+  },
+  {
+    "id": 13767,
+    "pdm": "LEVANTADOR BORRACHA",
+    "grupo": 66
+  },
+  {
+    "id": 13774,
+    "pdm": "BULBO",
+    "grupo": 66
+  },
+  {
+    "id": 13775,
+    "pdm": "CADINHO TIPO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 13777,
+    "pdm": "CARTUCHO PORTA-PIPETA",
+    "grupo": 66
+  },
+  {
+    "id": 13778,
+    "pdm": "DESPRESADOR PIPETA",
+    "grupo": 66
+  },
+  {
+    "id": 13780,
+    "pdm": "ESTERILIZAÇÃO ( VER ENVELOPE, SACO OU PAPEL)",
+    "grupo": 66
+  },
+  {
+    "id": 13782,
+    "pdm": "PISTILO",
+    "grupo": 66
+  },
+  {
+    "id": 13784,
+    "pdm": "VÁLVULA IONIZAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 13787,
+    "pdm": "ANALISADOR ATIVIDADE ÁGUA",
+    "grupo": 66
+  },
+  {
+    "id": 13834,
+    "pdm": "TESTE BOWIE-DICK",
+    "grupo": 66
+  },
+  {
+    "id": 13859,
+    "pdm": "MÓDULO SÍNTESE FLUORODESOXIGLICOSE",
+    "grupo": 66
+  },
+  {
+    "id": 13872,
+    "pdm": "MÓDULO SISTEMA ALVO PRODUÇÃO FLUORDEOXIGLICOSE",
+    "grupo": 66
+  },
+  {
+    "id": 13874,
+    "pdm": "COLUNA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 13888,
+    "pdm": "ALONGA DE BORRACHA",
+    "grupo": 66
+  },
+  {
+    "id": 13901,
+    "pdm": "CONDENSADOR REFLUXO",
+    "grupo": 66
+  },
+  {
+    "id": 13902,
+    "pdm": "BALÃO LABORATÓRIO.",
+    "grupo": 66
+  },
+  {
+    "id": 13903,
+    "pdm": "TAMPA COM LUVA",
+    "grupo": 66
+  },
+  {
+    "id": 13928,
+    "pdm": "HASTE AGITAÇÃO COM HÉLICE",
+    "grupo": 66
+  },
+  {
+    "id": 13951,
+    "pdm": "CONJUNTO MOTOR CENTRÍFUGA",
+    "grupo": 66
+  },
+  {
+    "id": 13959,
+    "pdm": "TUBO ADAPTADOR LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 13962,
+    "pdm": "MEMBRANA FILTRANTE",
+    "grupo": 66
+  },
+  {
+    "id": 13963,
+    "pdm": "CRUZETA DE REDUÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 13973,
+    "pdm": "CALADOR COLETA AMOSTRA",
+    "grupo": 66
+  },
+  {
+    "id": 13974,
+    "pdm": "QUARTEADOR HOMOGENEIZAÇÃO AMOSTRAS",
+    "grupo": 66
+  },
+  {
+    "id": 13987,
+    "pdm": "TUBO ENSAIO",
+    "grupo": 66
+  },
+  {
+    "id": 14000,
+    "pdm": "CARTELA QUANTIFICAÇÃO COLIFORMES",
+    "grupo": 66
+  },
+  {
+    "id": 14002,
+    "pdm": "CELA",
+    "grupo": 66
+  },
+  {
+    "id": 14008,
+    "pdm": "MEDIDOR CONDUTIVIDADE",
+    "grupo": 66
+  },
+  {
+    "id": 14040,
+    "pdm": "CONECTOR FÊMEA",
+    "grupo": 66
+  },
+  {
+    "id": 14041,
+    "pdm": "CONECTOR ROSCA",
+    "grupo": 66
+  },
+  {
+    "id": 14043,
+    "pdm": "CONEXÃO CÔNICA",
+    "grupo": 66
+  },
+  {
+    "id": 14076,
+    "pdm": "ACESSÓRIO EVAPORADOR ROTATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 14107,
+    "pdm": "DATADOR",
+    "grupo": 66
+  },
+  {
+    "id": 14110,
+    "pdm": "ÊMBOLO DO DISPENSADOR",
+    "grupo": 66
+  },
+  {
+    "id": 14150,
+    "pdm": "BALANÇA MECÂNICA",
+    "grupo": 66
+  },
+  {
+    "id": 14152,
+    "pdm": "FRASCO PARA CULTURA CELULAR",
+    "grupo": 66
+  },
+  {
+    "id": 14154,
+    "pdm": "MICROMOTOR DO DISPENSADOR",
+    "grupo": 66
+  },
+  {
+    "id": 14160,
+    "pdm": "CORDOAMENTO RÉGUA PARALELA",
+    "grupo": 66
+  },
+  {
+    "id": 14208,
+    "pdm": "FUNDO PENEIRA GRANULOMÉTRICA",
+    "grupo": 66
+  },
+  {
+    "id": 14210,
+    "pdm": "PENEIRA GRANULOMÉTRICA",
+    "grupo": 66
+  },
+  {
+    "id": 14288,
+    "pdm": "MEDIDOR COMPRESSÃO",
+    "grupo": 66
+  },
+  {
+    "id": 14290,
+    "pdm": "MEDIDOR PRESSÃO",
+    "grupo": 66
+  },
+  {
+    "id": 14422,
+    "pdm": "SUPORTE PONTEIRA MICROPIPETA",
+    "grupo": 66
+  },
+  {
+    "id": 14458,
+    "pdm": "ACELERÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 14459,
+    "pdm": "ELEMENTO SENSOR",
+    "grupo": 66
+  },
+  {
+    "id": 14473,
+    "pdm": "PRESSOSTATO REGULÁVEL",
+    "grupo": 66
+  },
+  {
+    "id": 14484,
+    "pdm": "CONJUNTO METEOROLóGICO PORTáTIL",
+    "grupo": 66
+  },
+  {
+    "id": 14489,
+    "pdm": "BALANÇA ELETRÔNICA",
+    "grupo": 66
+  },
+  {
+    "id": 14523,
+    "pdm": "ESTUFA CULTURA BACTERIOLÓGICA",
+    "grupo": 66
+  },
+  {
+    "id": 14544,
+    "pdm": "MESA COORDENADA X/Y",
+    "grupo": 66
+  },
+  {
+    "id": 14596,
+    "pdm": "EXTRATOR FIBRA",
+    "grupo": 66
+  },
+  {
+    "id": 14606,
+    "pdm": "BANDEJA DENTADA PARA PIPETAS",
+    "grupo": 66
+  },
+  {
+    "id": 14633,
+    "pdm": "CONJUNTO AUXILIADOR PIPETAGEM",
+    "grupo": 66
+  },
+  {
+    "id": 14645,
+    "pdm": "PORTA-TUBO",
+    "grupo": 66
+  },
+  {
+    "id": 14652,
+    "pdm": "CHAPA AQUECEDORA PLATAFORMA",
+    "grupo": 66
+  },
+  {
+    "id": 14669,
+    "pdm": "BATERIA EXTRAÇÃO GORDURA BRUTA",
+    "grupo": 66
+  },
+  {
+    "id": 14679,
+    "pdm": "PAPEL GRÁFICO",
+    "grupo": 66
+  },
+  {
+    "id": 14680,
+    "pdm": "NEBULIZADOR",
+    "grupo": 66
+  },
+  {
+    "id": 14683,
+    "pdm": "MISTURADOR",
+    "grupo": 66
+  },
+  {
+    "id": 14692,
+    "pdm": "MESA AGITADORA",
+    "grupo": 66
+  },
+  {
+    "id": 14706,
+    "pdm": "FRASCO TEFLON",
+    "grupo": 66
+  },
+  {
+    "id": 14722,
+    "pdm": "PÊRA INSUFLADORA",
+    "grupo": 66
+  },
+  {
+    "id": 14723,
+    "pdm": "CUBA ELETROFORESE",
+    "grupo": 66
+  },
+  {
+    "id": 14746,
+    "pdm": "PESO PADRONIZADO AFERIÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 14776,
+    "pdm": "CÁPSULA BÚSSOLA NAVEGAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 14779,
+    "pdm": "PLACA AQUECIMENTO",
+    "grupo": 66
+  },
+  {
+    "id": 14782,
+    "pdm": "MÓDULO FLUXO LAMINAR",
+    "grupo": 66
+  },
+  {
+    "id": 14802,
+    "pdm": "TESTE ANTI HIV I/II",
+    "grupo": 66
+  },
+  {
+    "id": 14806,
+    "pdm": "TESTE AG HBS",
+    "grupo": 66
+  },
+  {
+    "id": 14807,
+    "pdm": "TESTE ANTI HBC",
+    "grupo": 66
+  },
+  {
+    "id": 14808,
+    "pdm": "TESTE ANTI HCV",
+    "grupo": 66
+  },
+  {
+    "id": 14809,
+    "pdm": "RELÓGIO TERMO-HIGRÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 14810,
+    "pdm": "TESTE ANTI HBS",
+    "grupo": 66
+  },
+  {
+    "id": 14813,
+    "pdm": "TESTE I/II",
+    "grupo": 66
+  },
+  {
+    "id": 14815,
+    "pdm": "COPO GRIFFIN",
+    "grupo": 66
+  },
+  {
+    "id": 14816,
+    "pdm": "COPO VIDRO",
+    "grupo": 66
+  },
+  {
+    "id": 14818,
+    "pdm": "CARTUCHO FILTRO DEIONIZADOR",
+    "grupo": 66
+  },
+  {
+    "id": 14825,
+    "pdm": "TERMOHIGRÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 14931,
+    "pdm": "DESTILADOR DE NITROGÊNIO",
+    "grupo": 66
+  },
+  {
+    "id": 14957,
+    "pdm": "CONEXÃO",
+    "grupo": 66
+  },
+  {
+    "id": 14962,
+    "pdm": "KITASSATO",
+    "grupo": 66
+  },
+  {
+    "id": 14967,
+    "pdm": "FILTRO CAPELA EXAUSTÃO",
+    "grupo": 66
+  },
+  {
+    "id": 14978,
+    "pdm": "RECIPIENTE PLÁSTICO",
+    "grupo": 66
+  },
+  {
+    "id": 14984,
+    "pdm": "TAMPA DESSECADOR",
+    "grupo": 66
+  },
+  {
+    "id": 15027,
+    "pdm": "BARRA MAGNÉTICA",
+    "grupo": 66
+  },
+  {
+    "id": 15028,
+    "pdm": "FILTRO ABSOLUTO",
+    "grupo": 66
+  },
+  {
+    "id": 15038,
+    "pdm": "CAPELA QUÍMICA",
+    "grupo": 66
+  },
+  {
+    "id": 15061,
+    "pdm": "SUPORTE MICROPIPETAS",
+    "grupo": 66
+  },
+  {
+    "id": 15062,
+    "pdm": "MESA/BANCA ENSAIO DISTRIBUIÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 15082,
+    "pdm": "MEDIDOR ÍNDICE FLUIDEZ",
+    "grupo": 66
+  },
+  {
+    "id": 15083,
+    "pdm": "PENEIRA PARA CLASSIFICAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 15132,
+    "pdm": "FILTRO ANALÍTICO",
+    "grupo": 66
+  },
+  {
+    "id": 15188,
+    "pdm": "CILINDRO ESTERILIZADOR",
+    "grupo": 66
+  },
+  {
+    "id": 15192,
+    "pdm": "ESTANTE PARA MICROTUBOS",
+    "grupo": 66
+  },
+  {
+    "id": 15215,
+    "pdm": "TROMBOPLASTINA CEREBRAL",
+    "grupo": 66
+  },
+  {
+    "id": 15263,
+    "pdm": "MATRIZ CONTATOS ELETRÔNICOS",
+    "grupo": 66
+  },
+  {
+    "id": 15274,
+    "pdm": "SISTEMA FOTODOCUMENTAÇÃO DE GÉIS",
+    "grupo": 66
+  },
+  {
+    "id": 15334,
+    "pdm": "BLOCO MICRODIGESTOR",
+    "grupo": 66
+  },
+  {
+    "id": 15357,
+    "pdm": "PRESILHA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 15361,
+    "pdm": "FASÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 15362,
+    "pdm": "MILIAMPERÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 15368,
+    "pdm": "WATTÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 15374,
+    "pdm": "ADAPTADOR",
+    "grupo": 66
+  },
+  {
+    "id": 15409,
+    "pdm": "DETERMINADOR USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 15426,
+    "pdm": "AGULHA BACTERIOLÓGICA.",
+    "grupo": 66
+  },
+  {
+    "id": 15427,
+    "pdm": "CÂNULA AMOSTRAGEM SANGUÍNEA",
+    "grupo": 66
+  },
+  {
+    "id": 15429,
+    "pdm": "BOLSA CRIOPRESERVAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 15433,
+    "pdm": "CAIXA USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 15437,
+    "pdm": "COLUNA PARA HPLC",
+    "grupo": 66
+  },
+  {
+    "id": 15438,
+    "pdm": "FRASCO DESSECAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 15439,
+    "pdm": "AGULHA BACTERIOLÓGICA",
+    "grupo": 66
+  },
+  {
+    "id": 15440,
+    "pdm": "TUBO CRIOPRESERVAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 15445,
+    "pdm": "GARRAFA",
+    "grupo": 66
+  },
+  {
+    "id": 15446,
+    "pdm": "FLUTUADOR USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 15449,
+    "pdm": "PRÉ-COLUNA PARA HPLC",
+    "grupo": 66
+  },
+  {
+    "id": 15450,
+    "pdm": "CASSETE AMOSTRA TECIDOS",
+    "grupo": 66
+  },
+  {
+    "id": 15451,
+    "pdm": "CÁPSULA ÓTICA",
+    "grupo": 66
+  },
+  {
+    "id": 15454,
+    "pdm": "NAVALHA PARA MICRÓTOMO",
+    "grupo": 66
+  },
+  {
+    "id": 15467,
+    "pdm": "PLACA PRINCIPAL RELÓGIO PONTO",
+    "grupo": 66
+  },
+  {
+    "id": 15557,
+    "pdm": "FRASCO POLIETILENO",
+    "grupo": 66
+  },
+  {
+    "id": 15559,
+    "pdm": "GRADE USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 15571,
+    "pdm": "COMPASSO ESCOLAR",
+    "grupo": 66
+  },
+  {
+    "id": 15572,
+    "pdm": "CARTUCHO EXTRAÇÃO.",
+    "grupo": 66
+  },
+  {
+    "id": 15595,
+    "pdm": "ESCALA IDENTIFICAR COR IMPRESSÃO",
+    "grupo": 66
+  },
+  {
+    "id": 15624,
+    "pdm": "PADRONIZADOR DE AMOSTRAS",
+    "grupo": 66
+  },
+  {
+    "id": 15631,
+    "pdm": "BANHO ULTRASSÔNICO",
+    "grupo": 66
+  },
+  {
+    "id": 15639,
+    "pdm": "AGITADOR ELETROMAGNÉTICO PENEIRA GRANULOMÉTRICA",
+    "grupo": 66
+  },
+  {
+    "id": 15675,
+    "pdm": "HASTE UNIVERSAL",
+    "grupo": 66
+  },
+  {
+    "id": 15693,
+    "pdm": "CONJUNTO FILTRAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 15727,
+    "pdm": "INDICADOR RESTRIÇÃO FILTRO AR",
+    "grupo": 66
+  },
+  {
+    "id": 15739,
+    "pdm": "CAPSULA PORCELANA",
+    "grupo": 66
+  },
+  {
+    "id": 15744,
+    "pdm": "ADAPTADOR SERINGA",
+    "grupo": 66
+  },
+  {
+    "id": 15746,
+    "pdm": "EQUIPAMENTO MONITORAÇÃO AMBIENTAL",
+    "grupo": 66
+  },
+  {
+    "id": 15750,
+    "pdm": "ESPÁTULA TÉRMICA",
+    "grupo": 66
+  },
+  {
+    "id": 15780,
+    "pdm": "PENEIRA VIBRATÓRIA",
+    "grupo": 66
+  },
+  {
+    "id": 15783,
+    "pdm": "POTENCIOSTATO",
+    "grupo": 66
+  },
+  {
+    "id": 15785,
+    "pdm": "CONJUNTO DETERMINAÇÃO QUÍMICA",
+    "grupo": 66
+  },
+  {
+    "id": 15791,
+    "pdm": "COLETOR DE FRAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 15794,
+    "pdm": "INSTRUMENTO MEDIR OZÔNIO",
+    "grupo": 66
+  },
+  {
+    "id": 15842,
+    "pdm": "RELÓGIO PULSO",
+    "grupo": 66
+  },
+  {
+    "id": 15871,
+    "pdm": "EXTRATOR LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 15887,
+    "pdm": "PAPEL ABSORVENTE",
+    "grupo": 66
+  },
+  {
+    "id": 15890,
+    "pdm": "MANGUEIRA NEBULIZADOR",
+    "grupo": 66
+  },
+  {
+    "id": 15896,
+    "pdm": "CLORÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 15898,
+    "pdm": "POTE USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 15914,
+    "pdm": "CONJUNTO PIPETA",
+    "grupo": 66
+  },
+  {
+    "id": 15918,
+    "pdm": "MEMBRANA.",
+    "grupo": 66
+  },
+  {
+    "id": 15942,
+    "pdm": "FILAMENTO TUNGSTÊNIO",
+    "grupo": 66
+  },
+  {
+    "id": 15954,
+    "pdm": "MULTÍMETRO AUTOMOTIVO",
+    "grupo": 66
+  },
+  {
+    "id": 15959,
+    "pdm": "CONDENSADOR LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 15979,
+    "pdm": "ROLHA",
+    "grupo": 66
+  },
+  {
+    "id": 15981,
+    "pdm": "DESSECADOR",
+    "grupo": 66
+  },
+  {
+    "id": 15986,
+    "pdm": "TETINA",
+    "grupo": 66
+  },
+  {
+    "id": 15987,
+    "pdm": "TORNEIRA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 16103,
+    "pdm": "RÉGUA DE ESCALA",
+    "grupo": 66
+  },
+  {
+    "id": 16129,
+    "pdm": "TUBO SILICONE",
+    "grupo": 66
+  },
+  {
+    "id": 16130,
+    "pdm": "SUPORTE MICROTUBO",
+    "grupo": 66
+  },
+  {
+    "id": 16131,
+    "pdm": "TUBO CENTRÍFUGA",
+    "grupo": 66
+  },
+  {
+    "id": 16134,
+    "pdm": "COLEÇÃO PESOS PADRÃO",
+    "grupo": 66
+  },
+  {
+    "id": 16136,
+    "pdm": "MEDIDOR BANCADA",
+    "grupo": 66
+  },
+  {
+    "id": 16138,
+    "pdm": "PAPEL FILTRO QUALITATIVO",
+    "grupo": 66
+  },
+  {
+    "id": 16181,
+    "pdm": "VÁLVULA BAIXA PRESSÃO",
+    "grupo": 66
+  },
+  {
+    "id": 16183,
+    "pdm": "COIFA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 16184,
+    "pdm": "BIOINDICADOR",
+    "grupo": 66
+  },
+  {
+    "id": 16249,
+    "pdm": "TANQUE METEOROLÓGICO",
+    "grupo": 66
+  },
+  {
+    "id": 16251,
+    "pdm": "ELETRÓLITO",
+    "grupo": 66
+  },
+  {
+    "id": 16254,
+    "pdm": "ELETRODO.",
+    "grupo": 66
+  },
+  {
+    "id": 16318,
+    "pdm": "POÇO TRANQÜILIZADOR",
+    "grupo": 66
+  },
+  {
+    "id": 16319,
+    "pdm": "PENETRADOR METALOGRÁFICO",
+    "grupo": 66
+  },
+  {
+    "id": 16345,
+    "pdm": "TANQUE PRESSURIZAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 16363,
+    "pdm": "CUBETA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 16365,
+    "pdm": "CONTADOR DE CÉLULAS",
+    "grupo": 66
+  },
+  {
+    "id": 16380,
+    "pdm": "APARELHO PARAMÉTRICO",
+    "grupo": 66
+  },
+  {
+    "id": 16400,
+    "pdm": "MEDIDOR VAZÃO LÍQUIDO",
+    "grupo": 66
+  },
+  {
+    "id": 16468,
+    "pdm": "MICROSCÓPIO METALOGRÁFICO",
+    "grupo": 66
+  },
+  {
+    "id": 16483,
+    "pdm": "MILIVOLTÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 16489,
+    "pdm": "BANHO TERMOSTÁTICO.",
+    "grupo": 66
+  },
+  {
+    "id": 16543,
+    "pdm": "MEGÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 17079,
+    "pdm": "CABO DE KOLLE",
+    "grupo": 66
+  },
+  {
+    "id": 17149,
+    "pdm": "INSTRUMENTOS DE NAVEGAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 17150,
+    "pdm": "INSTRUMENTOS DE VÔO",
+    "grupo": 66
+  },
+  {
+    "id": 17151,
+    "pdm": "MECANISMOS DE PILOTO AUTOMÁTICO E COMPONENTES GIROSCÓPICOSDE AERONAVES",
+    "grupo": 66
+  },
+  {
+    "id": 17152,
+    "pdm": "BANHO METABÓLICO",
+    "grupo": 66
+  },
+  {
+    "id": 17153,
+    "pdm": "INSTRUMENTO DE TESTE E DE MEDIÇÃO DE PROPRIEDADES ELÉTRICASE ELETRÔNICAS",
+    "grupo": 66
+  },
+  {
+    "id": 17154,
+    "pdm": "FLUORÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 17155,
+    "pdm": "EQUIPAMENTOS PARA TESTES DE PROPRIEDADES FÍSICAS",
+    "grupo": 66
+  },
+  {
+    "id": 17157,
+    "pdm": "DIVISÓRIA EXTENSORA",
+    "grupo": 66
+  },
+  {
+    "id": 17158,
+    "pdm": "INSTRUMENTOS PARA MEDIÇÃO DE TEMPO",
+    "grupo": 66
+  },
+  {
+    "id": 17159,
+    "pdm": "PEÇAS / ACESSÓRIOS EQUIPAMENTO A LASER",
+    "grupo": 66
+  },
+  {
+    "id": 17160,
+    "pdm": "INSTRUMENTOS GEOFÍSICOS",
+    "grupo": 66
+  },
+  {
+    "id": 17161,
+    "pdm": "INSTRUMENTOS E APARELHOS METEOROLÓGICOS",
+    "grupo": 66
+  },
+  {
+    "id": 17162,
+    "pdm": "PEÇA/ACESSÓRIO ACELERÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 17163,
+    "pdm": "SUPORTE PESO BALANÇA",
+    "grupo": 66
+  },
+  {
+    "id": 17164,
+    "pdm": "INSTRUMENTOS DE DESENHO, TOPOGRAFIA E CARTOGRAFIA",
+    "grupo": 66
+  },
+  {
+    "id": 17165,
+    "pdm": "INSTRUMENTOS PARA MEDIÇÃO DE FLUXO DE LÍQUIDO E GÁS, NÍVELDE LÍQUIDOS E DE MOVIMENTOS MECÂNICOS",
+    "grupo": 66
+  },
+  {
+    "id": 17166,
+    "pdm": "INSTRUMENTOS PARA MEDIÇÃO E CONTROLE DE PRESSÃO, TEMPERATURAE UMIDADE",
+    "grupo": 66
+  },
+  {
+    "id": 17167,
+    "pdm": "DIGESTOR LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 17193,
+    "pdm": "CONJUNTO LABORATÓRIO.",
+    "grupo": 66
+  },
+  {
+    "id": 17352,
+    "pdm": "AMOSTRADOR AUTOMÁTICO",
+    "grupo": 66
+  },
+  {
+    "id": 17410,
+    "pdm": "CENTRÍFUGA BUTIRÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 17442,
+    "pdm": "ROLHA ESPUMA",
+    "grupo": 66
+  },
+  {
+    "id": 17445,
+    "pdm": "MOTO EXAUSTOR",
+    "grupo": 66
+  },
+  {
+    "id": 17471,
+    "pdm": "SUCCIONADOR",
+    "grupo": 66
+  },
+  {
+    "id": 17472,
+    "pdm": "TEMPORIZADOR",
+    "grupo": 66
+  },
+  {
+    "id": 17473,
+    "pdm": "VÁLVULA DOSADORA",
+    "grupo": 66
+  },
+  {
+    "id": 17487,
+    "pdm": "EIXO TRAVA",
+    "grupo": 66
+  },
+  {
+    "id": 17489,
+    "pdm": "CUBA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 17490,
+    "pdm": "FRASCO DE CHAPMAN",
+    "grupo": 66
+  },
+  {
+    "id": 17493,
+    "pdm": "EBULIÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 17495,
+    "pdm": "PLACA LABORATORIO",
+    "grupo": 66
+  },
+  {
+    "id": 17497,
+    "pdm": "FRASCO LE CHATELIER",
+    "grupo": 66
+  },
+  {
+    "id": 17505,
+    "pdm": "TRIPÉ LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 17506,
+    "pdm": "SUPORTE BURETA",
+    "grupo": 66
+  },
+  {
+    "id": 17512,
+    "pdm": "PLACA ESTUFA",
+    "grupo": 66
+  },
+  {
+    "id": 17522,
+    "pdm": "PENTE ELETROFORESE",
+    "grupo": 66
+  },
+  {
+    "id": 17527,
+    "pdm": "KAPTOR FLEX",
+    "grupo": 66
+  },
+  {
+    "id": 17536,
+    "pdm": "CONJUNTO VÁLVULA INJETORA",
+    "grupo": 66
+  },
+  {
+    "id": 17537,
+    "pdm": "GARRA",
+    "grupo": 66
+  },
+  {
+    "id": 17540,
+    "pdm": "ESTANTE SECAGEM LÂMINAS",
+    "grupo": 66
+  },
+  {
+    "id": 17554,
+    "pdm": "MEDIDOR UMIDADE",
+    "grupo": 66
+  },
+  {
+    "id": 17556,
+    "pdm": "TESTADOR SOLDA",
+    "grupo": 66
+  },
+  {
+    "id": 17588,
+    "pdm": "ANILHA",
+    "grupo": 66
+  },
+  {
+    "id": 17589,
+    "pdm": "RODA FILTRO ÓTICO",
+    "grupo": 66
+  },
+  {
+    "id": 17592,
+    "pdm": "PAINEL DE CONTROLE",
+    "grupo": 66
+  },
+  {
+    "id": 17593,
+    "pdm": "ERLENMEYER",
+    "grupo": 66
+  },
+  {
+    "id": 17628,
+    "pdm": "CÂMARA ESCURA",
+    "grupo": 66
+  },
+  {
+    "id": 17634,
+    "pdm": "CILINDRO DE CLONAGEM",
+    "grupo": 66
+  },
+  {
+    "id": 17640,
+    "pdm": "MEDIDOR UMIDADE",
+    "grupo": 66
+  },
+  {
+    "id": 17647,
+    "pdm": "CARCAÇA",
+    "grupo": 66
+  },
+  {
+    "id": 17658,
+    "pdm": "PONTE MEDIÇÃO LCR",
+    "grupo": 66
+  },
+  {
+    "id": 17659,
+    "pdm": "DIVISOR DE FEIXE ÓTICO",
+    "grupo": 66
+  },
+  {
+    "id": 17661,
+    "pdm": "SEPTO",
+    "grupo": 66
+  },
+  {
+    "id": 17706,
+    "pdm": "SENSOR PRESSÃO",
+    "grupo": 66
+  },
+  {
+    "id": 17723,
+    "pdm": "UNIDADE DIGESTÃO AMOSTRAS",
+    "grupo": 66
+  },
+  {
+    "id": 17724,
+    "pdm": "ADAPTADOR ELETRÔNICO",
+    "grupo": 66
+  },
+  {
+    "id": 17725,
+    "pdm": "PLACA AQUISIÇÃO DADOS",
+    "grupo": 66
+  },
+  {
+    "id": 17730,
+    "pdm": "DIAFRAGMA",
+    "grupo": 66
+  },
+  {
+    "id": 17731,
+    "pdm": "MICROGARRA PNEUMÁTICA",
+    "grupo": 66
+  },
+  {
+    "id": 17732,
+    "pdm": "TUBO GRAFITE PIROLÍTICO",
+    "grupo": 66
+  },
+  {
+    "id": 17735,
+    "pdm": "PLACA MEDIÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 17743,
+    "pdm": "ANALISADOR DE ENERGIA ELÉTRICA",
+    "grupo": 66
+  },
+  {
+    "id": 17748,
+    "pdm": "LAVADORA - USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 17749,
+    "pdm": "CESTO - USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 17751,
+    "pdm": "CASSETE",
+    "grupo": 66
+  },
+  {
+    "id": 17774,
+    "pdm": "TRANSMISSOR PRESSÃO",
+    "grupo": 66
+  },
+  {
+    "id": 17783,
+    "pdm": "LAMINADORA",
+    "grupo": 66
+  },
+  {
+    "id": 17785,
+    "pdm": "FERMENTADOR",
+    "grupo": 66
+  },
+  {
+    "id": 17815,
+    "pdm": "ANEL LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 17831,
+    "pdm": "BASE DETECTOR FID (FLAME IONIZATION DETECTOR)",
+    "grupo": 66
+  },
+  {
+    "id": 17887,
+    "pdm": "DISPLAY MULTISONDAS",
+    "grupo": 66
+  },
+  {
+    "id": 17905,
+    "pdm": "AGITADOR",
+    "grupo": 66
+  },
+  {
+    "id": 17911,
+    "pdm": "CABINE SEGURANÇA BIOLÓGICA",
+    "grupo": 66
+  },
+  {
+    "id": 17912,
+    "pdm": "APARELHO MULTIFUNCIONAL",
+    "grupo": 66
+  },
+  {
+    "id": 17925,
+    "pdm": "MEDIDOR E BALANCEADOR VIBRAÇÕES",
+    "grupo": 66
+  },
+  {
+    "id": 17926,
+    "pdm": "ALINHADOR POLIAS",
+    "grupo": 66
+  },
+  {
+    "id": 17927,
+    "pdm": "ANALISADOR VIBRAÇÕES",
+    "grupo": 66
+  },
+  {
+    "id": 17928,
+    "pdm": "PRESSÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 17929,
+    "pdm": "MEDIDOR VELOCIDADE PULSOS ULTRA-SÔNICOS",
+    "grupo": 66
+  },
+  {
+    "id": 17931,
+    "pdm": "ESTAÇÃO TOTAL",
+    "grupo": 66
+  },
+  {
+    "id": 17932,
+    "pdm": "PENEIRADOR",
+    "grupo": 66
+  },
+  {
+    "id": 17941,
+    "pdm": "FIO USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 17946,
+    "pdm": "CÉLULA CARGA",
+    "grupo": 66
+  },
+  {
+    "id": 17959,
+    "pdm": "MÓDULO SÍNTESE",
+    "grupo": 66
+  },
+  {
+    "id": 17961,
+    "pdm": "DESCONGELADOR DE PLASMA E CRIOPRECIPITADO",
+    "grupo": 66
+  },
+  {
+    "id": 17981,
+    "pdm": "PLACA CROMATOGRÁFICA",
+    "grupo": 66
+  },
+  {
+    "id": 18100,
+    "pdm": "CRIOSTATO",
+    "grupo": 66
+  },
+  {
+    "id": 18127,
+    "pdm": "TOMADA GÁS/AR",
+    "grupo": 66
+  },
+  {
+    "id": 18197,
+    "pdm": "CABO DE KOLLE",
+    "grupo": 66
+  },
+  {
+    "id": 18206,
+    "pdm": "MARCADOR HIDROFÓBICO",
+    "grupo": 66
+  },
+  {
+    "id": 18303,
+    "pdm": "SUPORTE ELETRODO PH",
+    "grupo": 66
+  },
+  {
+    "id": 18308,
+    "pdm": "MÓDULO BLOCO DE AMOSTRAS",
+    "grupo": 66
+  },
+  {
+    "id": 18327,
+    "pdm": "PEÇA / ACESSÓRIO - RELÓGIO",
+    "grupo": 66
+  },
+  {
+    "id": 18354,
+    "pdm": "MEDIDOR VAZÃO ULTRA SÔNICO",
+    "grupo": 66
+  },
+  {
+    "id": 18362,
+    "pdm": "TESTE GENOTIPAGEM PARA HIV",
+    "grupo": 66
+  },
+  {
+    "id": 18363,
+    "pdm": "MUFA LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 18366,
+    "pdm": "PISSETA",
+    "grupo": 66
+  },
+  {
+    "id": 18376,
+    "pdm": "LASER - USO LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 18379,
+    "pdm": "DISPENSADOR DE PARAFINA",
+    "grupo": 66
+  },
+  {
+    "id": 18381,
+    "pdm": "PORTA-PINÇAS",
+    "grupo": 66
+  },
+  {
+    "id": 18512,
+    "pdm": "CONJUNTO DE PROTOCOLO",
+    "grupo": 66
+  },
+  {
+    "id": 18530,
+    "pdm": "MEDIDOR NÍVEL ELÉTRICO",
+    "grupo": 66
+  },
+  {
+    "id": 18544,
+    "pdm": "TELESCÓPIO",
+    "grupo": 66
+  },
+  {
+    "id": 18569,
+    "pdm": "ESPAÇADOR CUBA ELETROFORESE",
+    "grupo": 66
+  },
+  {
+    "id": 18588,
+    "pdm": "ELEMENTO DE POTÊNCIA",
+    "grupo": 66
+  },
+  {
+    "id": 18590,
+    "pdm": "MEDIDOR LABORATÓRIO",
+    "grupo": 66
+  },
+  {
+    "id": 18602,
+    "pdm": "SEQUENCÍMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 18607,
+    "pdm": "ROTOR CENTRÍFUGA",
+    "grupo": 66
+  },
+  {
+    "id": 18646,
+    "pdm": "ESPELHO DEFORMÁVEL",
+    "grupo": 66
+  },
+  {
+    "id": 18656,
+    "pdm": "PARALELO ÓPTICO",
+    "grupo": 66
+  },
+  {
+    "id": 18713,
+    "pdm": "ALICATE",
+    "grupo": 66
+  },
+  {
+    "id": 18764,
+    "pdm": "CABINE RASPAGEM",
+    "grupo": 66
+  },
+  {
+    "id": 18803,
+    "pdm": "CAPA PROTEÇÃO MICROSCÓPIO",
+    "grupo": 66
+  },
+  {
+    "id": 18846,
+    "pdm": "GERADOR RADIOFREQUÊNCIA",
+    "grupo": 66
+  },
+  {
+    "id": 18867,
+    "pdm": "CRONOTACÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 18878,
+    "pdm": "CÂMARA FERMENTAÇÃO",
+    "grupo": 66
+  },
+  {
+    "id": 18954,
+    "pdm": "NÚCLEO ANTIVIBRATÓRIO BALANÇA",
+    "grupo": 66
+  },
+  {
+    "id": 18961,
+    "pdm": "MICROSCÓPIO BINOCULAR",
+    "grupo": 66
+  },
+  {
+    "id": 18981,
+    "pdm": "CONJUNTO DETECTOR AUSÊNCIA ÁGUA EM COMBUSTÍVEL",
+    "grupo": 66
+  },
+  {
+    "id": 19006,
+    "pdm": "PEÇA / COMPONENTE FLUXÔMETRO",
+    "grupo": 66
+  },
+  {
+    "id": 19063,
+    "pdm": "PEÇA/COMPONENTE ESTERILIZADOR",
+    "grupo": 66
+  },
+  {
+    "id": 19205,
+    "pdm": "FILAMENTO DE MOLIBDÉNIO",
+    "grupo": 66
+  }
+]

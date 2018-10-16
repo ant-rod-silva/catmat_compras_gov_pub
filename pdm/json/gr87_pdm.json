@@ -1,0 +1,417 @@
+[
+  {
+    "id": "00994",
+    "pdm": "ADUBO ANIMAL",
+    "grupo": 87
+  },
+  {
+    "id": "00995",
+    "pdm": "FERTILIZANTE NATURAL",
+    "grupo": 87
+  },
+  {
+    "id": "00996",
+    "pdm": "VERMICULITA",
+    "grupo": 87
+  },
+  {
+    "id": "01009",
+    "pdm": "ALFAFA",
+    "grupo": 87
+  },
+  {
+    "id": "01010",
+    "pdm": "FARELO TRIGO",
+    "grupo": 87
+  },
+  {
+    "id": "01011",
+    "pdm": "GRAMA",
+    "grupo": 87
+  },
+  {
+    "id": "01012",
+    "pdm": "RAÇÃO ANIMAL",
+    "grupo": 87
+  },
+  {
+    "id": "01013",
+    "pdm": "RAÇÃO BALANCEADA BOVINA",
+    "grupo": 87
+  },
+  {
+    "id": "01015",
+    "pdm": "TERRA VEGETAL",
+    "grupo": 87
+  },
+  {
+    "id": "01554",
+    "pdm": "FERTILIZANTE UREIA",
+    "grupo": 87
+  },
+  {
+    "id": "02122",
+    "pdm": "ADUBO QUÍMICO",
+    "grupo": 87
+  },
+  {
+    "id": "02330",
+    "pdm": "ALIMENTO MANUFATURADO PARA ANIMAL",
+    "grupo": 87
+  },
+  {
+    "id": "02361",
+    "pdm": "PLANTA IN - NATURA",
+    "grupo": 87
+  },
+  {
+    "id": "03039",
+    "pdm": "ARRANJO DE FOLHAGEM",
+    "grupo": 87
+  },
+  {
+    "id": "03956",
+    "pdm": "BULBO EM FLOR",
+    "grupo": 87
+  },
+  {
+    "id": "03957",
+    "pdm": "BULBO EM REPOUSO VEGETATIVO",
+    "grupo": 87
+  },
+  {
+    "id": "03958",
+    "pdm": "BULBO EM VEGETACAO",
+    "grupo": 87
+  },
+  {
+    "id": "04688",
+    "pdm": "CASCA ARROZ",
+    "grupo": 87
+  },
+  {
+    "id": "05882",
+    "pdm": "COROA DE FLORES",
+    "grupo": 87
+  },
+  {
+    "id": "07077",
+    "pdm": "ESTACA NAO ENRAIZADA",
+    "grupo": 87
+  },
+  {
+    "id": "07293",
+    "pdm": "FARINHA PARA RACAO ANIMAL",
+    "grupo": 87
+  },
+  {
+    "id": "07324",
+    "pdm": "FAVA FORRAGEIRA",
+    "grupo": 87
+  },
+  {
+    "id": "07354",
+    "pdm": "FENO",
+    "grupo": 87
+  },
+  {
+    "id": "07641",
+    "pdm": "FLOR NATURAL",
+    "grupo": 87
+  },
+  {
+    "id": "07784",
+    "pdm": "FOSFATO BICÁLCICO",
+    "grupo": 87
+  },
+  {
+    "id": "07908",
+    "pdm": "GALHO FLORAL DE DECORACAO",
+    "grupo": 87
+  },
+  {
+    "id": "08373",
+    "pdm": "INIBIDOR DE GERMINACAO DE PLANTA",
+    "grupo": 87
+  },
+  {
+    "id": 10006,
+    "pdm": "MUDA DE PLANTA",
+    "grupo": 87
+  },
+  {
+    "id": 10213,
+    "pdm": "ÓLEO VEGETAL",
+    "grupo": 87
+  },
+  {
+    "id": 10285,
+    "pdm": "PAINCO IN - NATURA",
+    "grupo": 87
+  },
+  {
+    "id": 10318,
+    "pdm": "PALHA",
+    "grupo": 87
+  },
+  {
+    "id": 10884,
+    "pdm": "PLANTA ORNAMENTAL",
+    "grupo": 87
+  },
+  {
+    "id": 11379,
+    "pdm": "QUIRELA",
+    "grupo": 87
+  },
+  {
+    "id": 11385,
+    "pdm": "RACAO BALANCEADA BOVINA",
+    "grupo": 87
+  },
+  {
+    "id": 11386,
+    "pdm": "RACAO BALANCEADA FRANGO",
+    "grupo": 87
+  },
+  {
+    "id": 11387,
+    "pdm": "RACAO BALANCEADA GALINHA",
+    "grupo": 87
+  },
+  {
+    "id": 11388,
+    "pdm": "RACAO BALANCEADA PINTO",
+    "grupo": 87
+  },
+  {
+    "id": 11389,
+    "pdm": "RACAO BALANCEADA SUINA",
+    "grupo": 87
+  },
+  {
+    "id": 11438,
+    "pdm": "REBENTO EM FLOR",
+    "grupo": 87
+  },
+  {
+    "id": 11439,
+    "pdm": "REBENTO EM VEGETACAO",
+    "grupo": 87
+  },
+  {
+    "id": 11586,
+    "pdm": "REGULADOR CRESCIMENTO PLANTA",
+    "grupo": 87
+  },
+  {
+    "id": 11762,
+    "pdm": "RIZOMA EM FLOR",
+    "grupo": 87
+  },
+  {
+    "id": 11763,
+    "pdm": "RIZOMA EM REPOUSO VEGETATIVO",
+    "grupo": 87
+  },
+  {
+    "id": 11764,
+    "pdm": "RIZOMA EM VEGETACAO",
+    "grupo": 87
+  },
+  {
+    "id": 11999,
+    "pdm": "SEMENTE DE GIRASSOL IN - NATURA",
+    "grupo": 87
+  },
+  {
+    "id": 12000,
+    "pdm": "SEMENTE, MUDA E PLANTA VIVA",
+    "grupo": 87
+  },
+  {
+    "id": 12276,
+    "pdm": "SORGO / MILHETO",
+    "grupo": 87
+  },
+  {
+    "id": 13140,
+    "pdm": "TURFEIRA",
+    "grupo": 87
+  },
+  {
+    "id": 13521,
+    "pdm": "ADUBO VEGETAL",
+    "grupo": 87
+  },
+  {
+    "id": 13526,
+    "pdm": "ALIMENTO IN-NATURA PARA ANIMAL",
+    "grupo": 87
+  },
+  {
+    "id": 13566,
+    "pdm": "FARELO",
+    "grupo": 87
+  },
+  {
+    "id": 13569,
+    "pdm": "FERTILIZANTE SINTETICO",
+    "grupo": 87
+  },
+  {
+    "id": 13626,
+    "pdm": "RACAO ANIMAL",
+    "grupo": 87
+  },
+  {
+    "id": 13686,
+    "pdm": "RAÇÃO CANINA",
+    "grupo": 87
+  },
+  {
+    "id": 13689,
+    "pdm": "RAÇÃO COELHO",
+    "grupo": 87
+  },
+  {
+    "id": 13696,
+    "pdm": "RAÇÃO INICIAL FRANGO",
+    "grupo": 87
+  },
+  {
+    "id": 13839,
+    "pdm": "RAÇÃO OVINO",
+    "grupo": 87
+  },
+  {
+    "id": 13840,
+    "pdm": "RAÇÃO CAMUNDONGO",
+    "grupo": 87
+  },
+  {
+    "id": 14159,
+    "pdm": "RAÇÃO CONCENTRADA AVE",
+    "grupo": 87
+  },
+  {
+    "id": 14164,
+    "pdm": "SAL MINERAL",
+    "grupo": 87
+  },
+  {
+    "id": 14172,
+    "pdm": "RAÇÃO CONCENTRADA SUÍNO",
+    "grupo": 87
+  },
+  {
+    "id": 14410,
+    "pdm": "RAÇÃO BOVINA",
+    "grupo": 87
+  },
+  {
+    "id": 14412,
+    "pdm": "RAÇÃO PEIXE",
+    "grupo": 87
+  },
+  {
+    "id": 14497,
+    "pdm": "SUPLEMENTO ALIMENTAR ANIMAL",
+    "grupo": 87
+  },
+  {
+    "id": 14631,
+    "pdm": "RAÇÃO SUPLEMENTO SUINO",
+    "grupo": 87
+  },
+  {
+    "id": 14632,
+    "pdm": "RAÇÃO SUPLEMENTAR AVE",
+    "grupo": 87
+  },
+  {
+    "id": 14649,
+    "pdm": "RAÇÃO ANIMAL PELETIZADA",
+    "grupo": 87
+  },
+  {
+    "id": 14687,
+    "pdm": "MANDIOCA INTEGRAL - RASPA",
+    "grupo": 87
+  },
+  {
+    "id": 14698,
+    "pdm": "COCCIDIOSTÁTICO",
+    "grupo": 87
+  },
+  {
+    "id": 14734,
+    "pdm": "CEMENTE CAPIM",
+    "grupo": 87
+  },
+  {
+    "id": 14737,
+    "pdm": "SEMENTE CAPIM",
+    "grupo": 87
+  },
+  {
+    "id": 14753,
+    "pdm": "SEMENTE",
+    "grupo": 87
+  },
+  {
+    "id": 14969,
+    "pdm": "SUBSTRATO AGRÍCOLA",
+    "grupo": 87
+  },
+  {
+    "id": 15659,
+    "pdm": "SULFATO DE MANGANÊS",
+    "grupo": 87
+  },
+  {
+    "id": 15915,
+    "pdm": "COLMÉIA",
+    "grupo": 87
+  },
+  {
+    "id": 15934,
+    "pdm": "CAIXA PARA MELGUEIRA",
+    "grupo": 87
+  },
+  {
+    "id": 15935,
+    "pdm": "CAIXA PARA NINHO DE COLMÉIA",
+    "grupo": 87
+  },
+  {
+    "id": 16449,
+    "pdm": "ESPONJA FLORAL",
+    "grupo": 87
+  },
+  {
+    "id": 17289,
+    "pdm": "NÚCLEO RAÇÃO",
+    "grupo": 87
+  },
+  {
+    "id": 17290,
+    "pdm": "FERTILIZANTES",
+    "grupo": 87
+  },
+  {
+    "id": 17291,
+    "pdm": "SEMENTES E MUDAS DE PLANTAS",
+    "grupo": 87
+  },
+  {
+    "id": 17491,
+    "pdm": "RAÇÃO PÓS-LARVA",
+    "grupo": 87
+  },
+  {
+    "id": 19400,
+    "pdm": "CASCA PLANTA",
+    "grupo": 87
+  }
+]

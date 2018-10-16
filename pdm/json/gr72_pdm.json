@@ -1,0 +1,897 @@
+[
+  {
+    "id": "00121",
+    "pdm": "CESTO",
+    "grupo": 72
+  },
+  {
+    "id": "00700",
+    "pdm": "TÁBUA PASSAR ROUPA",
+    "grupo": 72
+  },
+  {
+    "id": "00745",
+    "pdm": "CAPACHO",
+    "grupo": 72
+  },
+  {
+    "id": "00746",
+    "pdm": "CARPETE",
+    "grupo": 72
+  },
+  {
+    "id": "00747",
+    "pdm": "ACOLCHOADO",
+    "grupo": 72
+  },
+  {
+    "id": "00748",
+    "pdm": "COLCHA CAMA",
+    "grupo": 72
+  },
+  {
+    "id": "00749",
+    "pdm": "COLCHÃO",
+    "grupo": 72
+  },
+  {
+    "id": "00750",
+    "pdm": "FRONHA",
+    "grupo": 72
+  },
+  {
+    "id": "00751",
+    "pdm": "LENÇOL CAMA",
+    "grupo": 72
+  },
+  {
+    "id": "00752",
+    "pdm": "TOALHA BANHO",
+    "grupo": 72
+  },
+  {
+    "id": "00753",
+    "pdm": "TOALHA MESA",
+    "grupo": 72
+  },
+  {
+    "id": "00754",
+    "pdm": "TOALHA ROSTO",
+    "grupo": 72
+  },
+  {
+    "id": "00755",
+    "pdm": "TAPETE BANHEIRO",
+    "grupo": 72
+  },
+  {
+    "id": "00756",
+    "pdm": "TRAVESSEIRO",
+    "grupo": 72
+  },
+  {
+    "id": "00757",
+    "pdm": "REVESTIMENTO PISO",
+    "grupo": 72
+  },
+  {
+    "id": "00758",
+    "pdm": "TAPETE",
+    "grupo": 72
+  },
+  {
+    "id": "00759",
+    "pdm": "FORRO GESSO",
+    "grupo": 72
+  },
+  {
+    "id": "00760",
+    "pdm": "PERSIANA",
+    "grupo": 72
+  },
+  {
+    "id": "00761",
+    "pdm": "SANCA",
+    "grupo": 72
+  },
+  {
+    "id": "00762",
+    "pdm": "CESTO ROUPA",
+    "grupo": 72
+  },
+  {
+    "id": "00764",
+    "pdm": "BALDE",
+    "grupo": 72
+  },
+  {
+    "id": "00766",
+    "pdm": "LAREIRA",
+    "grupo": 72
+  },
+  {
+    "id": "00767",
+    "pdm": "MÁQUINA COSTURA TECIDO",
+    "grupo": 72
+  },
+  {
+    "id": "00768",
+    "pdm": "SECADOR MÃOS",
+    "grupo": 72
+  },
+  {
+    "id": "00769",
+    "pdm": "SECADOR ROUPA TIPO VARAL",
+    "grupo": 72
+  },
+  {
+    "id": "00770",
+    "pdm": "FLOREIRA",
+    "grupo": 72
+  },
+  {
+    "id": "00771",
+    "pdm": "VAPORIZADOR",
+    "grupo": 72
+  },
+  {
+    "id": "00772",
+    "pdm": "VAPORIZADOR CAPILAR",
+    "grupo": 72
+  },
+  {
+    "id": "00789",
+    "pdm": "PASSADEIRA",
+    "grupo": 72
+  },
+  {
+    "id": "01333",
+    "pdm": "ESCORREDOR VIDROS",
+    "grupo": 72
+  },
+  {
+    "id": "01487",
+    "pdm": "TAPETE PELE",
+    "grupo": 72
+  },
+  {
+    "id": "01710",
+    "pdm": "ACESSORIO ESPECIALIZADO DE CORTINA",
+    "grupo": 72
+  },
+  {
+    "id": "02344",
+    "pdm": "ALMOFADA ASSENTO",
+    "grupo": 72
+  },
+  {
+    "id": "02826",
+    "pdm": "DISPENSER PAPEL TOALHA",
+    "grupo": 72
+  },
+  {
+    "id": "02900",
+    "pdm": "APLICADOR TIPO PISTOLA",
+    "grupo": 72
+  },
+  {
+    "id": "02996",
+    "pdm": "ARMAÇÃO CORTINADO USO DOMÉSTICO",
+    "grupo": 72
+  },
+  {
+    "id": "03070",
+    "pdm": "ARTIGO DE CORTINA",
+    "grupo": 72
+  },
+  {
+    "id": "03253",
+    "pdm": "BALDE DE RESIDUO INFLAMAVEL",
+    "grupo": 72
+  },
+  {
+    "id": "03255",
+    "pdm": "DISPENSER HIGIENIZADOR",
+    "grupo": 72
+  },
+  {
+    "id": "03257",
+    "pdm": "BALDE ZINCADO",
+    "grupo": 72
+  },
+  {
+    "id": "03537",
+    "pdm": "REPARO DISPENSER HIGIENIZADOR",
+    "grupo": 72
+  },
+  {
+    "id": "03639",
+    "pdm": "BOBINA MÁQUINA DE COSTURA",
+    "grupo": 72
+  },
+  {
+    "id": "03819",
+    "pdm": "BORRIFADOR",
+    "grupo": 72
+  },
+  {
+    "id": "04070",
+    "pdm": "CACHEPO DE PLANTA",
+    "grupo": 72
+  },
+  {
+    "id": "04113",
+    "pdm": "CAIXA COLETORA DE LIXO - FIBRA DE VIDRO",
+    "grupo": 72
+  },
+  {
+    "id": "04397",
+    "pdm": "CANDELABRO",
+    "grupo": 72
+  },
+  {
+    "id": "04458",
+    "pdm": "CAPACHO METALICO",
+    "grupo": 72
+  },
+  {
+    "id": "04597",
+    "pdm": "CARRO COLETOR LIXO",
+    "grupo": 72
+  },
+  {
+    "id": "04796",
+    "pdm": "CESTA DOMESTICA",
+    "grupo": 72
+  },
+  {
+    "id": "04799",
+    "pdm": "CESTA POLIDORA AUTOMOTIVA",
+    "grupo": 72
+  },
+  {
+    "id": "04800",
+    "pdm": "CESTA PARA ROUPA",
+    "grupo": 72
+  },
+  {
+    "id": "05286",
+    "pdm": "COBERTOR",
+    "grupo": 72
+  },
+  {
+    "id": "05374",
+    "pdm": "CORRENTE COMANDO PERSIANA",
+    "grupo": 72
+  },
+  {
+    "id": "05738",
+    "pdm": "CONJUNTO ROUPA DE CAMA",
+    "grupo": 72
+  },
+  {
+    "id": "05933",
+    "pdm": "CORTINA",
+    "grupo": 72
+  },
+  {
+    "id": "05934",
+    "pdm": "CORTINA DECORATIVA DE MADEIRA",
+    "grupo": 72
+  },
+  {
+    "id": "05935",
+    "pdm": "SANETA",
+    "grupo": 72
+  },
+  {
+    "id": "05936",
+    "pdm": "CORTINA DECORATIVA DE TECIDO - TIPO PAINEL",
+    "grupo": 72
+  },
+  {
+    "id": "06069",
+    "pdm": "DERRETEDOR CERA",
+    "grupo": 72
+  },
+  {
+    "id": "06293",
+    "pdm": "DISPENSADOR",
+    "grupo": 72
+  },
+  {
+    "id": "06294",
+    "pdm": "DISPENSER PARA COPO PLÁSTICO",
+    "grupo": 72
+  },
+  {
+    "id": "06561",
+    "pdm": "ENFEITE",
+    "grupo": 72
+  },
+  {
+    "id": "07152",
+    "pdm": "ESTOJO DE COSTURA",
+    "grupo": 72
+  },
+  {
+    "id": "07281",
+    "pdm": "FACA DESOPERCULADORA - APICOLA",
+    "grupo": 72
+  },
+  {
+    "id": "07375",
+    "pdm": "FERRAGEM DE CORTINA",
+    "grupo": 72
+  },
+  {
+    "id": "07399",
+    "pdm": "FERRO DE PASSAR",
+    "grupo": 72
+  },
+  {
+    "id": "07864",
+    "pdm": "FUNIL PLÁSTICO",
+    "grupo": 72
+  },
+  {
+    "id": "07867",
+    "pdm": "FUNIL",
+    "grupo": 72
+  },
+  {
+    "id": "07925",
+    "pdm": "GARFO DESOPERCULADOR - APICOLA",
+    "grupo": 72
+  },
+  {
+    "id": "08121",
+    "pdm": "GUARDANAPO DE PANO",
+    "grupo": 72
+  },
+  {
+    "id": "08124",
+    "pdm": "GUARNICAO DE MESA",
+    "grupo": 72
+  },
+  {
+    "id": "08729",
+    "pdm": "LATA DE LIXO",
+    "grupo": 72
+  },
+  {
+    "id": "08730",
+    "pdm": "LATA DE METAL PARA LIXO",
+    "grupo": 72
+  },
+  {
+    "id": "08869",
+    "pdm": "LINOLEO",
+    "grupo": 72
+  },
+  {
+    "id": "09121",
+    "pdm": "MANTA DE VIAGEM",
+    "grupo": 72
+  },
+  {
+    "id": "09445",
+    "pdm": "MATERIAL DE CAMA",
+    "grupo": 72
+  },
+  {
+    "id": "09910",
+    "pdm": "MOSQUITEIRO",
+    "grupo": 72
+  },
+  {
+    "id": "09915",
+    "pdm": "MOSTRUARIO / EXPOSITOR - ALIMENTO",
+    "grupo": 72
+  },
+  {
+    "id": "09916",
+    "pdm": "MOSTRUÁRIO / EXPOSITOR - PUBLICAÇÕES",
+    "grupo": 72
+  },
+  {
+    "id": 10274,
+    "pdm": "PÁ - LIXO",
+    "grupo": 72
+  },
+  {
+    "id": 10341,
+    "pdm": "PANO PRATO",
+    "grupo": 72
+  },
+  {
+    "id": 10342,
+    "pdm": "PANO",
+    "grupo": 72
+  },
+  {
+    "id": 10343,
+    "pdm": "PANO ORNAMENTAL DE MESA",
+    "grupo": 72
+  },
+  {
+    "id": 10365,
+    "pdm": "PAPEL DE PAREDE",
+    "grupo": 72
+  },
+  {
+    "id": 10519,
+    "pdm": "PÉ PARA MOBILIÁRIO",
+    "grupo": 72
+  },
+  {
+    "id": 10526,
+    "pdm": "COMPONENTE PERSIANA",
+    "grupo": 72
+  },
+  {
+    "id": 10682,
+    "pdm": "PERSIANA TIPO CORTINA",
+    "grupo": 72
+  },
+  {
+    "id": 10779,
+    "pdm": "PISO SINTÉTICO",
+    "grupo": 72
+  },
+  {
+    "id": 10782,
+    "pdm": "PISO EM RESINA",
+    "grupo": 72
+  },
+  {
+    "id": 11052,
+    "pdm": "PORTA-RETRATO",
+    "grupo": 72
+  },
+  {
+    "id": 11053,
+    "pdm": "PORTA-REVISTA",
+    "grupo": 72
+  },
+  {
+    "id": 11054,
+    "pdm": "PORTA-SAPATO",
+    "grupo": 72
+  },
+  {
+    "id": 11055,
+    "pdm": "ALÇA",
+    "grupo": 72
+  },
+  {
+    "id": 11086,
+    "pdm": "PORTA SAPATO DE PLASTICO",
+    "grupo": 72
+  },
+  {
+    "id": 11155,
+    "pdm": "PREGADOR DE ROUPA",
+    "grupo": 72
+  },
+  {
+    "id": 11480,
+    "pdm": "DISPENSER PARA LUVA",
+    "grupo": 72
+  },
+  {
+    "id": 11486,
+    "pdm": "RECIPIENTE TÉRMICO",
+    "grupo": 72
+  },
+  {
+    "id": 11487,
+    "pdm": "RECIPIENTE GRADUADO TIPO COMERCIAL DE METAL",
+    "grupo": 72
+  },
+  {
+    "id": 11488,
+    "pdm": "RECIPIENTE GRADUADO TIPO COMERCIAL DE PLASTICO",
+    "grupo": 72
+  },
+  {
+    "id": 11489,
+    "pdm": "RECIPIENTE GRADUADO TIPO DOMESTICO",
+    "grupo": 72
+  },
+  {
+    "id": 11490,
+    "pdm": "RECIPIENTE GRADUADO TIPO DOMESTICO DE METAL",
+    "grupo": 72
+  },
+  {
+    "id": 11491,
+    "pdm": "RECIPIENTE GRADUADO TIPO DOMESTICO DE PLASTICO",
+    "grupo": 72
+  },
+  {
+    "id": 11495,
+    "pdm": "LIXEIRA",
+    "grupo": 72
+  },
+  {
+    "id": 11498,
+    "pdm": "RECIPIENTE UTILITARIO DE TECIDO",
+    "grupo": 72
+  },
+  {
+    "id": 11542,
+    "pdm": "REGADOR",
+    "grupo": 72
+  },
+  {
+    "id": 11543,
+    "pdm": "REGADOR DE METAL",
+    "grupo": 72
+  },
+  {
+    "id": 11544,
+    "pdm": "REGADOR DE PLASTICO",
+    "grupo": 72
+  },
+  {
+    "id": 11734,
+    "pdm": "REVESTIMENTO / PISO - EPOXI",
+    "grupo": 72
+  },
+  {
+    "id": 11735,
+    "pdm": "REVESTIMENTO / PISO - VINIL",
+    "grupo": 72
+  },
+  {
+    "id": 11736,
+    "pdm": "REVESTIMENTO ALUMINIO",
+    "grupo": 72
+  },
+  {
+    "id": 11739,
+    "pdm": "REVESTIMENTO DE PAREDE",
+    "grupo": 72
+  },
+  {
+    "id": 11740,
+    "pdm": "REVESTIMENTO PAREDE",
+    "grupo": 72
+  },
+  {
+    "id": 11962,
+    "pdm": "SECADOR PORTÁTIL DE CABELO",
+    "grupo": 72
+  },
+  {
+    "id": 12392,
+    "pdm": "SUPORTE DE MATERIAL METALICO DE LENHA",
+    "grupo": 72
+  },
+  {
+    "id": 12399,
+    "pdm": "SUPORTE",
+    "grupo": 72
+  },
+  {
+    "id": 12413,
+    "pdm": "SUPORTE MONITOR VÍDEO",
+    "grupo": 72
+  },
+  {
+    "id": 12548,
+    "pdm": "TAPECARIA",
+    "grupo": 72
+  },
+  {
+    "id": 12550,
+    "pdm": "TAPETE DE BORRACHA",
+    "grupo": 72
+  },
+  {
+    "id": 12801,
+    "pdm": "TOLDO",
+    "grupo": 72
+  },
+  {
+    "id": 12851,
+    "pdm": "TOUCA TERMICA",
+    "grupo": 72
+  },
+  {
+    "id": 12980,
+    "pdm": "TRILHO CORTINA",
+    "grupo": 72
+  },
+  {
+    "id": 12985,
+    "pdm": "TRILHO PARA PERSIANA HORIZONTAL",
+    "grupo": 72
+  },
+  {
+    "id": 12986,
+    "pdm": "TRILHO PARA PERSIANA VERTICAL",
+    "grupo": 72
+  },
+  {
+    "id": 13209,
+    "pdm": "UTENSÍLIO DOMÉSTICO",
+    "grupo": 72
+  },
+  {
+    "id": 13210,
+    "pdm": "UTENSILIO DOMESTICO DE PAPEL",
+    "grupo": 72
+  },
+  {
+    "id": 13211,
+    "pdm": "UTENSÍLIO DOMÉSTICO DE PLÁSTICO",
+    "grupo": 72
+  },
+  {
+    "id": 13212,
+    "pdm": "UTENSILIO DOMESTICO TEXTIL",
+    "grupo": 72
+  },
+  {
+    "id": 13303,
+    "pdm": "PERFIL NÃO METÁLICO",
+    "grupo": 72
+  },
+  {
+    "id": 13320,
+    "pdm": "VASO DE PLANTA",
+    "grupo": 72
+  },
+  {
+    "id": 13371,
+    "pdm": "VENEZIANA",
+    "grupo": 72
+  },
+  {
+    "id": 13487,
+    "pdm": "XAXIM",
+    "grupo": 72
+  },
+  {
+    "id": 13937,
+    "pdm": "CESTO LIXO HOSPITALAR",
+    "grupo": 72
+  },
+  {
+    "id": 14011,
+    "pdm": "BALDE COM ESPREMEDOR",
+    "grupo": 72
+  },
+  {
+    "id": 14044,
+    "pdm": "CARRO LIMPEZA",
+    "grupo": 72
+  },
+  {
+    "id": 14046,
+    "pdm": "ESPREMEDOR LIMPEZA",
+    "grupo": 72
+  },
+  {
+    "id": 14052,
+    "pdm": "BALIZADOR FILA",
+    "grupo": 72
+  },
+  {
+    "id": 14140,
+    "pdm": "PORTA-PALETÓ",
+    "grupo": 72
+  },
+  {
+    "id": 14332,
+    "pdm": "TRILHO GAVETA",
+    "grupo": 72
+  },
+  {
+    "id": 14352,
+    "pdm": "PORTA-SABÃO",
+    "grupo": 72
+  },
+  {
+    "id": 14361,
+    "pdm": "FORRO MESA",
+    "grupo": 72
+  },
+  {
+    "id": 14371,
+    "pdm": "TOALHA MÃO",
+    "grupo": 72
+  },
+  {
+    "id": 14647,
+    "pdm": "ESTRADO MODULAR",
+    "grupo": 72
+  },
+  {
+    "id": 14733,
+    "pdm": "COLCHONETE",
+    "grupo": 72
+  },
+  {
+    "id": 15025,
+    "pdm": "CESTO LIXO",
+    "grupo": 72
+  },
+  {
+    "id": 15081,
+    "pdm": "CONJUNTO DELIMITADOR FILA",
+    "grupo": 72
+  },
+  {
+    "id": 15114,
+    "pdm": "COLETOR LIXO",
+    "grupo": 72
+  },
+  {
+    "id": 15396,
+    "pdm": "FORRO PARA BANDEJA",
+    "grupo": 72
+  },
+  {
+    "id": 15455,
+    "pdm": "CAPA",
+    "grupo": 72
+  },
+  {
+    "id": 15636,
+    "pdm": "DENTE MÁQUINA COSTURA",
+    "grupo": 72
+  },
+  {
+    "id": 15637,
+    "pdm": "CHAPA DO DENTE MÁQUINA COSTURA",
+    "grupo": 72
+  },
+  {
+    "id": 15723,
+    "pdm": "COLETOR COPO PLÁSTICO",
+    "grupo": 72
+  },
+  {
+    "id": 15740,
+    "pdm": "CONJUNTO LIXEIRA COLETA SELETIVA",
+    "grupo": 72
+  },
+  {
+    "id": 15747,
+    "pdm": "BANDEJA SUPORTE EQUIPAMENTOS",
+    "grupo": 72
+  },
+  {
+    "id": 15859,
+    "pdm": "CAMINHO MESA",
+    "grupo": 72
+  },
+  {
+    "id": 15860,
+    "pdm": "APOIO PRATO",
+    "grupo": 72
+  },
+  {
+    "id": 16135,
+    "pdm": "FITA PARA ACABAMENTO EM PISOS/CARPETES",
+    "grupo": 72
+  },
+  {
+    "id": 16174,
+    "pdm": "DEPÓSITO PLÁSTICO",
+    "grupo": 72
+  },
+  {
+    "id": 16553,
+    "pdm": "DISPENSER SACO DESCARTE ABSORVENTE",
+    "grupo": 72
+  },
+  {
+    "id": 16554,
+    "pdm": "DISPENSER PAPEL HIGIÊNICO",
+    "grupo": 72
+  },
+  {
+    "id": 16555,
+    "pdm": "DISPENSER PROTETOR ASSENTO SANITÁRIO",
+    "grupo": 72
+  },
+  {
+    "id": 16630,
+    "pdm": "REVESTIMENTO DE PAREDE - TÊXTIL",
+    "grupo": 72
+  },
+  {
+    "id": 17204,
+    "pdm": "UTENSÍLIOS DOMÉSTICOS",
+    "grupo": 72
+  },
+  {
+    "id": 17205,
+    "pdm": "REVESTIMENTOS PARA PISOS",
+    "grupo": 72
+  },
+  {
+    "id": 17206,
+    "pdm": "TAPEÇARIAS, CORTINAS E PERSIANAS",
+    "grupo": 72
+  },
+  {
+    "id": 17207,
+    "pdm": "DISPENSER ABSORVENTE HIGIÊNICO",
+    "grupo": 72
+  },
+  {
+    "id": 17208,
+    "pdm": "APARELHO VIÉS",
+    "grupo": 72
+  },
+  {
+    "id": 17455,
+    "pdm": "CABIDE PERSIANA",
+    "grupo": 72
+  },
+  {
+    "id": 17456,
+    "pdm": "BANDÔ PERSIANA",
+    "grupo": 72
+  },
+  {
+    "id": 17507,
+    "pdm": "PESO PARA PERSIANA",
+    "grupo": 72
+  },
+  {
+    "id": 17614,
+    "pdm": "PEDESTAL BANNER",
+    "grupo": 72
+  },
+  {
+    "id": 17639,
+    "pdm": "HIGIENIZADOR",
+    "grupo": 72
+  },
+  {
+    "id": 18230,
+    "pdm": "PRATO",
+    "grupo": 72
+  },
+  {
+    "id": 18253,
+    "pdm": "PROLONGADOR ESTRADO MODULAR",
+    "grupo": 72
+  },
+  {
+    "id": 18402,
+    "pdm": "PROTETOR TRAVESSEIRO",
+    "grupo": 72
+  },
+  {
+    "id": 18481,
+    "pdm": "GRAMA SINTÉTICA",
+    "grupo": 72
+  },
+  {
+    "id": 18651,
+    "pdm": "JOGO CAMA",
+    "grupo": 72
+  },
+  {
+    "id": 19047,
+    "pdm": "PEÇA ARTESANAL",
+    "grupo": 72
+  },
+  {
+    "id": 19220,
+    "pdm": "REFIL APLICADOR COLA",
+    "grupo": 72
+  },
+  {
+    "id": 19250,
+    "pdm": "TROCADOR FRALDAS",
+    "grupo": 72
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "id": "02047",
+    "pdm": "FERRO CHATO",
+    "grupo": 95
+  },
+  {
+    "id": "02240",
+    "pdm": "ALÇA METAL FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": "02956",
+    "pdm": "ARAME",
+    "grupo": 95
+  },
+  {
+    "id": "02958",
+    "pdm": "ARAME DE ACO INOXIDAVEL",
+    "grupo": 95
+  },
+  {
+    "id": "02959",
+    "pdm": "ARAME DE ACO PARA FIM MECANICO",
+    "grupo": 95
+  },
+  {
+    "id": "02960",
+    "pdm": "ARAME DE ACO PARA MOLA",
+    "grupo": 95
+  },
+  {
+    "id": "02961",
+    "pdm": "ARAME AÇO RECOZIDO",
+    "grupo": 95
+  },
+  {
+    "id": "02962",
+    "pdm": "ARAME",
+    "grupo": 95
+  },
+  {
+    "id": "02963",
+    "pdm": "ARAME DE COBRE",
+    "grupo": 95
+  },
+  {
+    "id": "02964",
+    "pdm": "ARAME DE FRENO",
+    "grupo": 95
+  },
+  {
+    "id": "02965",
+    "pdm": "ARAME DE GRAMPEAR",
+    "grupo": 95
+  },
+  {
+    "id": "02966",
+    "pdm": "ARAME DE METAL PRECIOSO",
+    "grupo": 95
+  },
+  {
+    "id": "02967",
+    "pdm": "ARAME DE NIQUEL",
+    "grupo": 95
+  },
+  {
+    "id": "02968",
+    "pdm": "ARAME DE ZINCO PARA METALIZACAO",
+    "grupo": 95
+  },
+  {
+    "id": "02969",
+    "pdm": "ARAME GALVANIZADO",
+    "grupo": 95
+  },
+  {
+    "id": "02972",
+    "pdm": "ARAME ZINCADO / ALAMBRADO",
+    "grupo": 95
+  },
+  {
+    "id": "02989",
+    "pdm": "ARGOLA METÁLICA",
+    "grupo": 95
+  },
+  {
+    "id": "03348",
+    "pdm": "BARRA DE ACO CARBONO PARA CONSTRUCAO MECANICA -ACIMA DE 50M",
+    "grupo": 95
+  },
+  {
+    "id": "03349",
+    "pdm": "BARRA METAL FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": "03350",
+    "pdm": "BARRA AÇO",
+    "grupo": 95
+  },
+  {
+    "id": "03351",
+    "pdm": "BARRA DE ACO COM SECAO OITAVADA",
+    "grupo": 95
+  },
+  {
+    "id": "03352",
+    "pdm": "BARRA DE ACO COM SECAO QUADRADA",
+    "grupo": 95
+  },
+  {
+    "id": "03353",
+    "pdm": "BARRA DE ACO COM SECAO REDONDA",
+    "grupo": 95
+  },
+  {
+    "id": "03354",
+    "pdm": "BARRA DE ACO COM SECAO SEXTAVADA",
+    "grupo": 95
+  },
+  {
+    "id": "03355",
+    "pdm": "BARRA DE ACO DE SECAO CRUZ",
+    "grupo": 95
+  },
+  {
+    "id": "03356",
+    "pdm": "BARRA DE ACO DE SECAO MEIA - CANA",
+    "grupo": 95
+  },
+  {
+    "id": "03357",
+    "pdm": "BARRA DE ACO DE SECAO RETANGULAR",
+    "grupo": 95
+  },
+  {
+    "id": "03358",
+    "pdm": "BARRA DE ACO MENOR QUE 3 POLEGADAS DE ESPESSURA",
+    "grupo": 95
+  },
+  {
+    "id": "03359",
+    "pdm": "BARRA CHATA",
+    "grupo": 95
+  },
+  {
+    "id": "03369",
+    "pdm": "BARRA DE FERRO MENOR QUE 3 POLEGADAS DE ESPESSURA",
+    "grupo": 95
+  },
+  {
+    "id": "03371",
+    "pdm": "BARRA DE LATAO",
+    "grupo": 95
+  },
+  {
+    "id": "03372",
+    "pdm": "BARRA DE MATERIAL METALICO NAO FERROSO - SECAO SEXTAVADA",
+    "grupo": 95
+  },
+  {
+    "id": "03373",
+    "pdm": "BARRA DE METAL FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": "03374",
+    "pdm": "BARRA METAL NÃO FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": "03375",
+    "pdm": "BARRA DE METAL NAO FERROSO COM SECAO OITAVADA",
+    "grupo": 95
+  },
+  {
+    "id": "03376",
+    "pdm": "BARRA METAL NAO FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": "03377",
+    "pdm": "BARRA DE METAL NAO FERROSO COM SECAO REDONDA",
+    "grupo": 95
+  },
+  {
+    "id": "03378",
+    "pdm": "BARRA DE METAL NAO FERROSO DE SECAO MEIA - CANA",
+    "grupo": 95
+  },
+  {
+    "id": "03379",
+    "pdm": "BARRA DE METAL NAO FERROSO DE SECAO RETANGULAR",
+    "grupo": 95
+  },
+  {
+    "id": "03380",
+    "pdm": "BARRA DE METAL NAO FERROSO SECAO SEMI - CIRCULAR",
+    "grupo": 95
+  },
+  {
+    "id": "03381",
+    "pdm": "BARRA METAL PRECIOSO",
+    "grupo": 95
+  },
+  {
+    "id": "03397",
+    "pdm": "BARRAS E PERFIS DE ACO INOXIDAVEL",
+    "grupo": 95
+  },
+  {
+    "id": "04404",
+    "pdm": "CANECO MEDIDOR / PASSADOR",
+    "grupo": 95
+  },
+  {
+    "id": "04432",
+    "pdm": "CANTONEIRA METAL FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": "04435",
+    "pdm": "CANTONEIRA METÁLICA",
+    "grupo": 95
+  },
+  {
+    "id": "04814",
+    "pdm": "CHAPA DE ACO CORRUGADA",
+    "grupo": 95
+  },
+  {
+    "id": "04815",
+    "pdm": "CHAPA DE ACO DE REVESTIMENTO DE PISO",
+    "grupo": 95
+  },
+  {
+    "id": "04816",
+    "pdm": "CHAPA AÇO INOXIDÁVEL",
+    "grupo": 95
+  },
+  {
+    "id": "04817",
+    "pdm": "CHAPA AÇO",
+    "grupo": 95
+  },
+  {
+    "id": "04818",
+    "pdm": "CHAPA PERFURADA",
+    "grupo": 95
+  },
+  {
+    "id": "04819",
+    "pdm": "CHAPA ALUMÍNIO",
+    "grupo": 95
+  },
+  {
+    "id": "04822",
+    "pdm": "CHAPA BLINDAGEM AÇO",
+    "grupo": 95
+  },
+  {
+    "id": "04823",
+    "pdm": "CHAPA BLINDAGEM FERRO",
+    "grupo": 95
+  },
+  {
+    "id": "04828",
+    "pdm": "CHAPA FERRO REVESTIMENTO DE PISO",
+    "grupo": 95
+  },
+  {
+    "id": "04832",
+    "pdm": "CHAPA METAL NÃO FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": "04833",
+    "pdm": "CHAPA METAL NÃO FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": "04834",
+    "pdm": "CHAPA DE LIGA MISTA DE METAIS",
+    "grupo": 95
+  },
+  {
+    "id": "04835",
+    "pdm": "CHAPA DE METAL NAO FERROSO PARA PISO",
+    "grupo": 95
+  },
+  {
+    "id": "04842",
+    "pdm": "CHAPA",
+    "grupo": 95
+  },
+  {
+    "id": "04844",
+    "pdm": "CHAPA GALVANIZADA",
+    "grupo": 95
+  },
+  {
+    "id": "04845",
+    "pdm": "CHAPA PARA PISO",
+    "grupo": 95
+  },
+  {
+    "id": "04847",
+    "pdm": "CHAPA PERFURADA",
+    "grupo": 95
+  },
+  {
+    "id": "04850",
+    "pdm": "CHAPA PRETA DE ACO",
+    "grupo": 95
+  },
+  {
+    "id": "06042",
+    "pdm": "DECANTADOR",
+    "grupo": 95
+  },
+  {
+    "id": "07073",
+    "pdm": "ESTACA DE ACO",
+    "grupo": 95
+  },
+  {
+    "id": "07074",
+    "pdm": "COLUNA METAL FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": "07118",
+    "pdm": "ESTEIRA TRANSPORTADORA",
+    "grupo": 95
+  },
+  {
+    "id": "07569",
+    "pdm": "FITA DE METAL PRECIOSO",
+    "grupo": 95
+  },
+  {
+    "id": "07600",
+    "pdm": "FITA METÁLICA",
+    "grupo": 95
+  },
+  {
+    "id": "07606",
+    "pdm": "FITA PERFURADA DE METAL NAO FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": "07695",
+    "pdm": "FOLHA METAL NÃO FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": "07697",
+    "pdm": "FOLHA METAL",
+    "grupo": 95
+  },
+  {
+    "id": "08770",
+    "pdm": "LENCOL - CHUMBO",
+    "grupo": 95
+  },
+  {
+    "id": "08825",
+    "pdm": "LIGA DE ARAME DE COBRE",
+    "grupo": 95
+  },
+  {
+    "id": 10649,
+    "pdm": "PERFIL ALUMÍNIO",
+    "grupo": 95
+  },
+  {
+    "id": 10650,
+    "pdm": "PERFIL METAL FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": 10651,
+    "pdm": "PERFIL ESTRUTURAL DE ACO PARA PLATAFORMA MARITIMA",
+    "grupo": 95
+  },
+  {
+    "id": 10653,
+    "pdm": "PERFIL METÁLICO NÃO FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": 10656,
+    "pdm": "PERFILADO AÇO",
+    "grupo": 95
+  },
+  {
+    "id": 10657,
+    "pdm": "PERFILADO DE FERRO - ESPESSURA ATE 3 POLEGADAS",
+    "grupo": 95
+  },
+  {
+    "id": 10780,
+    "pdm": "PISO ANTIDERRAPANTE - LAMINADO",
+    "grupo": 95
+  },
+  {
+    "id": 11129,
+    "pdm": "PRANCHA METAL FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": 12387,
+    "pdm": "SUPORTE",
+    "grupo": 95
+  },
+  {
+    "id": 12517,
+    "pdm": "TAMPA METAL",
+    "grupo": 95
+  },
+  {
+    "id": 12776,
+    "pdm": "TIRA DE METAL PRECIOSO",
+    "grupo": 95
+  },
+  {
+    "id": 12779,
+    "pdm": "TIRA PERFURADA DE ACO",
+    "grupo": 95
+  },
+  {
+    "id": 12780,
+    "pdm": "TIRA PERFURADA DE MATERIAL METALICO NAO FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": 13067,
+    "pdm": "TUBO DE METAL PRECIOSO",
+    "grupo": 95
+  },
+  {
+    "id": 13305,
+    "pdm": "VARETA DE METAL PRECIOSO",
+    "grupo": 95
+  },
+  {
+    "id": 13390,
+    "pdm": "VERGALHÃO",
+    "grupo": 95
+  },
+  {
+    "id": 13391,
+    "pdm": "VERGALHÃO ARMAÇÃO CONCRETO",
+    "grupo": 95
+  },
+  {
+    "id": 13746,
+    "pdm": "CANTONEIRA METAL NÃO FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": 14157,
+    "pdm": "BARRA LIGA MISTA METAIS",
+    "grupo": 95
+  },
+  {
+    "id": 14929,
+    "pdm": "FITA",
+    "grupo": 95
+  },
+  {
+    "id": 15414,
+    "pdm": "BARRA ALUMÍNIO",
+    "grupo": 95
+  },
+  {
+    "id": 15809,
+    "pdm": "FOLHA IMITAÇÃO METAL PRECIOSO",
+    "grupo": 95
+  },
+  {
+    "id": 16222,
+    "pdm": "ALÇA METAL NÃO FERROSO",
+    "grupo": 95
+  },
+  {
+    "id": 17318,
+    "pdm": "SUPORTE LABORATÓRIO",
+    "grupo": 95
+  },
+  {
+    "id": 17326,
+    "pdm": "ARAMES DE FERRO E DE AÇO, NÃO UTILIZÁVEIS EM ELETRICIDADE",
+    "grupo": 95
+  },
+  {
+    "id": 17327,
+    "pdm": "BARRAS E VERGALHÕES DE FERRO E DE AÇO",
+    "grupo": 95
+  },
+  {
+    "id": 17328,
+    "pdm": "PLACAS, CHAPAS, FITAS E LAMINADOS FINOS DE FERRO E DE AÇO",
+    "grupo": 95
+  },
+  {
+    "id": 17329,
+    "pdm": "PERFIS ESTRUTURAIS DE FERRO E AÇO",
+    "grupo": 95
+  },
+  {
+    "id": 17330,
+    "pdm": "ARAMES DE METAL NÃO FERROSO, NÃO UTILIZÁVEIS EM ELETRICIDADE",
+    "grupo": 95
+  },
+  {
+    "id": 17331,
+    "pdm": "BARRAS E VERGALHÕES DE METAIS NÃO FERROSOS",
+    "grupo": 95
+  },
+  {
+    "id": 17332,
+    "pdm": "PLACAS, CHAPAS, FITAS E LAMINADOS FINOS DE METAIS NÃO FERRO-SOS",
+    "grupo": 95
+  },
+  {
+    "id": 17333,
+    "pdm": "PERFIS ESTRUTURAIS DE METAIS NÃO FERROSOS",
+    "grupo": 95
+  },
+  {
+    "id": 17334,
+    "pdm": "PLACAS, CHAPAS, FITAS E LAMINADOS FINOS DE METAIS PRECIOSOS",
+    "grupo": 95
+  },
+  {
+    "id": 17390,
+    "pdm": "COLUNA ALUMÍNIO",
+    "grupo": 95
+  },
+  {
+    "id": 17504,
+    "pdm": "BARRA TITÂNIO",
+    "grupo": 95
+  },
+  {
+    "id": 17583,
+    "pdm": "CONJUNTO EMBUTIMENTO A FRIO",
+    "grupo": 95
+  },
+  {
+    "id": 19247,
+    "pdm": "ACESSÓRIO FITA METÁLICA",
+    "grupo": 95
+  }
+]

@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "00822",
+    "pdm": "BACALHAU",
+    "grupo": 89
+  },
+  {
+    "id": "00823",
+    "pdm": "CARNE BOVINA IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "00824",
+    "pdm": "CARNE IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "00825",
+    "pdm": "CARNE PORCO IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "00826",
+    "pdm": "CARNE FRANGO",
+    "grupo": 89
+  },
+  {
+    "id": "00827",
+    "pdm": "LINGUIÇA",
+    "grupo": 89
+  },
+  {
+    "id": "00828",
+    "pdm": "MORTADELA",
+    "grupo": 89
+  },
+  {
+    "id": "00829",
+    "pdm": "PRESUNTO",
+    "grupo": 89
+  },
+  {
+    "id": "00830",
+    "pdm": "SALSICHA",
+    "grupo": 89
+  },
+  {
+    "id": "00834",
+    "pdm": "CHANTILLY",
+    "grupo": 89
+  },
+  {
+    "id": "00835",
+    "pdm": "CREME DE LEITE",
+    "grupo": 89
+  },
+  {
+    "id": "00836",
+    "pdm": "COALHADA",
+    "grupo": 89
+  },
+  {
+    "id": "00837",
+    "pdm": "IOGURTE",
+    "grupo": 89
+  },
+  {
+    "id": "00838",
+    "pdm": "LEITE EM PÓ",
+    "grupo": 89
+  },
+  {
+    "id": "00839",
+    "pdm": "LEITE",
+    "grupo": 89
+  },
+  {
+    "id": "00840",
+    "pdm": "LEITE BOVINO PASTEURIZADO",
+    "grupo": 89
+  },
+  {
+    "id": "00841",
+    "pdm": "MANTEIGA",
+    "grupo": 89
+  },
+  {
+    "id": "00842",
+    "pdm": "QUEIJO",
+    "grupo": 89
+  },
+  {
+    "id": "00843",
+    "pdm": "REQUEIJÃO",
+    "grupo": 89
+  },
+  {
+    "id": "00844",
+    "pdm": "OVO",
+    "grupo": 89
+  },
+  {
+    "id": "00845",
+    "pdm": "OVO EM PÓ",
+    "grupo": 89
+  },
+  {
+    "id": "00846",
+    "pdm": "RICOTA",
+    "grupo": 89
+  },
+  {
+    "id": "00847",
+    "pdm": "DOCE LEITE",
+    "grupo": 89
+  },
+  {
+    "id": "00850",
+    "pdm": "AZEITE OLIVA",
+    "grupo": 89
+  },
+  {
+    "id": "00851",
+    "pdm": "MASSA TOMATE",
+    "grupo": 89
+  },
+  {
+    "id": "00852",
+    "pdm": "SAL",
+    "grupo": 89
+  },
+  {
+    "id": "00853",
+    "pdm": "VINAGRE",
+    "grupo": 89
+  },
+  {
+    "id": "00858",
+    "pdm": "MOLUSCO IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "00859",
+    "pdm": "PEIXE CONSERVA",
+    "grupo": 89
+  },
+  {
+    "id": "00860",
+    "pdm": "SALAME",
+    "grupo": 89
+  },
+  {
+    "id": "00879",
+    "pdm": "AMIDO",
+    "grupo": 89
+  },
+  {
+    "id": "00880",
+    "pdm": "ARROZ",
+    "grupo": 89
+  },
+  {
+    "id": "00881",
+    "pdm": "AVEIA",
+    "grupo": 89
+  },
+  {
+    "id": "00883",
+    "pdm": "BISCOITO",
+    "grupo": 89
+  },
+  {
+    "id": "00884",
+    "pdm": "CANJICA",
+    "grupo": 89
+  },
+  {
+    "id": "00885",
+    "pdm": "LENTILHA",
+    "grupo": 89
+  },
+  {
+    "id": "00886",
+    "pdm": "FARINHA MANDIOCA",
+    "grupo": 89
+  },
+  {
+    "id": "00887",
+    "pdm": "FARINHA MILHO",
+    "grupo": 89
+  },
+  {
+    "id": "00888",
+    "pdm": "FARINHA TRIGO",
+    "grupo": 89
+  },
+  {
+    "id": "00889",
+    "pdm": "FÉCULA",
+    "grupo": 89
+  },
+  {
+    "id": "00890",
+    "pdm": "FEIJÃO",
+    "grupo": 89
+  },
+  {
+    "id": "00891",
+    "pdm": "FUBÁ",
+    "grupo": 89
+  },
+  {
+    "id": "00892",
+    "pdm": "MACARRÃO",
+    "grupo": 89
+  },
+  {
+    "id": "00893",
+    "pdm": "MILHO PIPOCA",
+    "grupo": 89
+  },
+  {
+    "id": "00894",
+    "pdm": "PÃO QUEIJO",
+    "grupo": 89
+  },
+  {
+    "id": "00895",
+    "pdm": "PIZZA",
+    "grupo": 89
+  },
+  {
+    "id": "00896",
+    "pdm": "POLVILHO DOCE",
+    "grupo": 89
+  },
+  {
+    "id": "00897",
+    "pdm": "SAGU",
+    "grupo": 89
+  },
+  {
+    "id": "00898",
+    "pdm": "DOCE MASSA",
+    "grupo": 89
+  },
+  {
+    "id": "00899",
+    "pdm": "FRUTOSE",
+    "grupo": 89
+  },
+  {
+    "id": "00900",
+    "pdm": "GELÉIA MOCOTÓ",
+    "grupo": 89
+  },
+  {
+    "id": "00904",
+    "pdm": "CRUSTÁCEO IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "00905",
+    "pdm": "PEIXE IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "00908",
+    "pdm": "PÓ PUDIM",
+    "grupo": 89
+  },
+  {
+    "id": "00909",
+    "pdm": "GELATINA",
+    "grupo": 89
+  },
+  {
+    "id": "00910",
+    "pdm": "SORVETE",
+    "grupo": 89
+  },
+  {
+    "id": "00911",
+    "pdm": "CAFÉ",
+    "grupo": 89
+  },
+  {
+    "id": "00912",
+    "pdm": "CHOCOLATE",
+    "grupo": 89
+  },
+  {
+    "id": "00922",
+    "pdm": "FRUTA EM CALDA",
+    "grupo": 89
+  },
+  {
+    "id": "00923",
+    "pdm": "GELÉIA FRUTA",
+    "grupo": 89
+  },
+  {
+    "id": "00924",
+    "pdm": "PEIXE EM CONSERVA",
+    "grupo": 89
+  },
+  {
+    "id": "00925",
+    "pdm": "SOPA",
+    "grupo": 89
+  },
+  {
+    "id": "00926",
+    "pdm": "ADOÇANTE",
+    "grupo": 89
+  },
+  {
+    "id": "00927",
+    "pdm": "COGUMELO EM CONSERVA",
+    "grupo": 89
+  },
+  {
+    "id": "00928",
+    "pdm": "CREME FRUTAS INFANTIL",
+    "grupo": 89
+  },
+  {
+    "id": "00929",
+    "pdm": "SUPLEMENTO NUTRICIONAL",
+    "grupo": 89
+  },
+  {
+    "id": "00930",
+    "pdm": "GLICOSE",
+    "grupo": 89
+  },
+  {
+    "id": "00931",
+    "pdm": "LEGUME EM CONSERVA",
+    "grupo": 89
+  },
+  {
+    "id": "00932",
+    "pdm": "SOPA INFANTIL",
+    "grupo": 89
+  },
+  {
+    "id": "00933",
+    "pdm": "LEITE CONDENSADO",
+    "grupo": 89
+  },
+  {
+    "id": "00934",
+    "pdm": "LEITE CÔCO",
+    "grupo": 89
+  },
+  {
+    "id": "00935",
+    "pdm": "MEL ABELHA",
+    "grupo": 89
+  },
+  {
+    "id": "00936",
+    "pdm": "MILHO EM CONSERVA",
+    "grupo": 89
+  },
+  {
+    "id": "00937",
+    "pdm": "ÓLEO VEGETAL COMESTÍVEL",
+    "grupo": 89
+  },
+  {
+    "id": "00938",
+    "pdm": "CHOCOLATE PÓ",
+    "grupo": 89
+  },
+  {
+    "id": "00939",
+    "pdm": "AZEITONA",
+    "grupo": 89
+  },
+  {
+    "id": "00940",
+    "pdm": "CONDIMENTO",
+    "grupo": 89
+  },
+  {
+    "id": "00941",
+    "pdm": "MAIONESE",
+    "grupo": 89
+  },
+  {
+    "id": "00942",
+    "pdm": "MOLHO TOMATE",
+    "grupo": 89
+  },
+  {
+    "id": "00944",
+    "pdm": "ÁGUA COCO",
+    "grupo": 89
+  },
+  {
+    "id": "00945",
+    "pdm": "ÁGUA MINERAL",
+    "grupo": 89
+  },
+  {
+    "id": "00946",
+    "pdm": "GELO",
+    "grupo": 89
+  },
+  {
+    "id": "00947",
+    "pdm": "REFRIGERANTE",
+    "grupo": 89
+  },
+  {
+    "id": "00948",
+    "pdm": "SUCO",
+    "grupo": 89
+  },
+  {
+    "id": "00949",
+    "pdm": "ACHOCOLATADO",
+    "grupo": 89
+  },
+  {
+    "id": "00950",
+    "pdm": "CERVEJA",
+    "grupo": 89
+  },
+  {
+    "id": "00957",
+    "pdm": "CIGARRO",
+    "grupo": 89
+  },
+  {
+    "id": "01207",
+    "pdm": "FRUTA IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "01219",
+    "pdm": "ABÓBORA IN-NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "01265",
+    "pdm": "BOMBOM",
+    "grupo": 89
+  },
+  {
+    "id": "01637",
+    "pdm": "ACELGA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "02058",
+    "pdm": "AMENDOIM INDUSTRIAL",
+    "grupo": 89
+  },
+  {
+    "id": "02059",
+    "pdm": "ACUCAR CONFEITEIRO",
+    "grupo": 89
+  },
+  {
+    "id": "02060",
+    "pdm": "AÇÚCAR CRISTAL",
+    "grupo": 89
+  },
+  {
+    "id": "02061",
+    "pdm": "ACUCAR MASCAVO",
+    "grupo": 89
+  },
+  {
+    "id": "02062",
+    "pdm": "ACUCAR NAO REFINADO",
+    "grupo": 89
+  },
+  {
+    "id": "02063",
+    "pdm": "AÇÚCAR",
+    "grupo": 89
+  },
+  {
+    "id": "02156",
+    "pdm": "AGRIAO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "02164",
+    "pdm": "ÁGUA POTÁVEL",
+    "grupo": 89
+  },
+  {
+    "id": "02167",
+    "pdm": "ÁGUA TÔNICA",
+    "grupo": 89
+  },
+  {
+    "id": "02206",
+    "pdm": "AIPIM ( MANDIOCA ) - FOLHA",
+    "grupo": 89
+  },
+  {
+    "id": "02207",
+    "pdm": "AIPIM IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "02276",
+    "pdm": "ALFACE IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "02298",
+    "pdm": "ALHO EM PASTA",
+    "grupo": 89
+  },
+  {
+    "id": "02299",
+    "pdm": "ALHO EM PO",
+    "grupo": 89
+  },
+  {
+    "id": "02300",
+    "pdm": "ALHO PORRO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "02327",
+    "pdm": "ALIMENTO CONGELADO CONSUMO HUMANO",
+    "grupo": 89
+  },
+  {
+    "id": "02328",
+    "pdm": "ALIMENTO DIETÉTICO INDUSTRIALIZADO",
+    "grupo": 89
+  },
+  {
+    "id": "02329",
+    "pdm": "ALIMENTO INDUSTRIALIZADO DE CONSUMO INFANTIL",
+    "grupo": 89
+  },
+  {
+    "id": "02331",
+    "pdm": "ALIMENTO PARA CRIANÇA",
+    "grupo": 89
+  },
+  {
+    "id": "02339",
+    "pdm": "ALMEIRAO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "02355",
+    "pdm": "ALMONDEGA EM CONSERVA",
+    "grupo": 89
+  },
+  {
+    "id": "02384",
+    "pdm": "AMACIADOR DE CARNE",
+    "grupo": 89
+  },
+  {
+    "id": "02386",
+    "pdm": "AMACIADOR EM PO DE CARNE",
+    "grupo": 89
+  },
+  {
+    "id": "02397",
+    "pdm": "AMÊNDOA",
+    "grupo": 89
+  },
+  {
+    "id": "02398",
+    "pdm": "AMÊNDOA IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "02399",
+    "pdm": "AMENDOA SECA",
+    "grupo": 89
+  },
+  {
+    "id": "02400",
+    "pdm": "AMENDOIM IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "03043",
+    "pdm": "ARROZ IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "03151",
+    "pdm": "AVE CAÇA",
+    "grupo": 89
+  },
+  {
+    "id": "03209",
+    "pdm": "BALA",
+    "grupo": 89
+  },
+  {
+    "id": "03267",
+    "pdm": "BANANA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "03315",
+    "pdm": "BANHA DE ORIGEM ANIMAL",
+    "grupo": 89
+  },
+  {
+    "id": "03360",
+    "pdm": "BARRA CEREAL",
+    "grupo": 89
+  },
+  {
+    "id": "03437",
+    "pdm": "LEGUME INDUSTRIALIZADO",
+    "grupo": 89
+  },
+  {
+    "id": "03438",
+    "pdm": "BATATA FRITA EMBALADA",
+    "grupo": 89
+  },
+  {
+    "id": "03439",
+    "pdm": "BATATA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "03494",
+    "pdm": "BEBIDA ALCOÓLICA",
+    "grupo": 89
+  },
+  {
+    "id": "03495",
+    "pdm": "VINHO",
+    "grupo": 89
+  },
+  {
+    "id": "03509",
+    "pdm": "BERINGELA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "03510",
+    "pdm": "BERTALHA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "03516",
+    "pdm": "BETERRABA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "03678",
+    "pdm": "BOLINHO DE PEIXE PRE - PREPARADO",
+    "grupo": 89
+  },
+  {
+    "id": "03679",
+    "pdm": "BOLO ALIMENTÍCIO",
+    "grupo": 89
+  },
+  {
+    "id": "03876",
+    "pdm": "BROA DE FUBÁ",
+    "grupo": 89
+  },
+  {
+    "id": "03909",
+    "pdm": "BROCOLIS IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "03933",
+    "pdm": "BROTO DE FEIJAO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "04069",
+    "pdm": "CACAU IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "04100",
+    "pdm": "CAFE EM GRAO",
+    "grupo": 89
+  },
+  {
+    "id": "04101",
+    "pdm": "CAFÉ COM LEITE",
+    "grupo": 89
+  },
+  {
+    "id": "04102",
+    "pdm": "CAFE TORRADO",
+    "grupo": 89
+  },
+  {
+    "id": "04220",
+    "pdm": "CALDA",
+    "grupo": 89
+  },
+  {
+    "id": "04221",
+    "pdm": "CALDA DOCE PARA RECHEIO / COBERTURA",
+    "grupo": 89
+  },
+  {
+    "id": "04233",
+    "pdm": "CALDO TEMPERO CULINÁRIO",
+    "grupo": 89
+  },
+  {
+    "id": "04357",
+    "pdm": "CAMARAO PRE - PREPARADO",
+    "grupo": 89
+  },
+  {
+    "id": "04382",
+    "pdm": "CAMOMILA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "04507",
+    "pdm": "CARA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "04548",
+    "pdm": "CARNE",
+    "grupo": 89
+  },
+  {
+    "id": "04549",
+    "pdm": "CARNE AVE EM CONSERVA",
+    "grupo": 89
+  },
+  {
+    "id": "04550",
+    "pdm": "CARNE AVE INDUSTRIALIZADA",
+    "grupo": 89
+  },
+  {
+    "id": "04551",
+    "pdm": "CARNE AVE PROCESSADA",
+    "grupo": 89
+  },
+  {
+    "id": "04552",
+    "pdm": "CARNE GADO EM CONSERVA",
+    "grupo": 89
+  },
+  {
+    "id": "04553",
+    "pdm": "CARNE BENEFICIADA",
+    "grupo": 89
+  },
+  {
+    "id": "04554",
+    "pdm": "CARNE PROCESSADA",
+    "grupo": 89
+  },
+  {
+    "id": "04555",
+    "pdm": "CARNE PEIXE INDUSTRIALIZADA",
+    "grupo": 89
+  },
+  {
+    "id": "04556",
+    "pdm": "CARNE PEIXE PROCESSADA",
+    "grupo": 89
+  },
+  {
+    "id": "04557",
+    "pdm": "APRESUNTADO",
+    "grupo": 89
+  },
+  {
+    "id": "04558",
+    "pdm": "BACON DEFUMADO",
+    "grupo": 89
+  },
+  {
+    "id": "04559",
+    "pdm": "CARNE DEFUMADA",
+    "grupo": 89
+  },
+  {
+    "id": "04560",
+    "pdm": "PROTEÍNA TEXTURIZADA SOJA",
+    "grupo": 89
+  },
+  {
+    "id": "04695",
+    "pdm": "CASTANHA PARA ALIMENTACAO",
+    "grupo": 89
+  },
+  {
+    "id": "04716",
+    "pdm": "CEBOLA IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "04717",
+    "pdm": "CEBOLINHA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "04742",
+    "pdm": "CENOURA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "04790",
+    "pdm": "FIO DE OVOS",
+    "grupo": 89
+  },
+  {
+    "id": "04791",
+    "pdm": "CEREAL NATURAL",
+    "grupo": 89
+  },
+  {
+    "id": "04792",
+    "pdm": "CEREAL PREPARADO",
+    "grupo": 89
+  },
+  {
+    "id": "04794",
+    "pdm": "CESTA BÁSICA - GÊNEROS ALIMENTÍCIOS",
+    "grupo": 89
+  },
+  {
+    "id": "04805",
+    "pdm": "CHÁ ALIMENTAÇÃO",
+    "grupo": 89
+  },
+  {
+    "id": "04857",
+    "pdm": "CHARQUE",
+    "grupo": 89
+  },
+  {
+    "id": "04858",
+    "pdm": "CHARUTO",
+    "grupo": 89
+  },
+  {
+    "id": "04948",
+    "pdm": "CHEIRO VERDE IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "04949",
+    "pdm": "AVE DEFUMADA",
+    "grupo": 89
+  },
+  {
+    "id": "04952",
+    "pdm": "CHICORIA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "04961",
+    "pdm": "CHOCOLATE GRANULADO",
+    "grupo": 89
+  },
+  {
+    "id": "04962",
+    "pdm": "CHOCOLATE OVO",
+    "grupo": 89
+  },
+  {
+    "id": "04963",
+    "pdm": "CHOCOLATE PO",
+    "grupo": 89
+  },
+  {
+    "id": "04964",
+    "pdm": "CHUCHU IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "05285",
+    "pdm": "COALHO",
+    "grupo": 89
+  },
+  {
+    "id": "05293",
+    "pdm": "CÔCO RALADO",
+    "grupo": 89
+  },
+  {
+    "id": "05294",
+    "pdm": "CÔCO SECO",
+    "grupo": 89
+  },
+  {
+    "id": "05295",
+    "pdm": "COCO VERDE",
+    "grupo": 89
+  },
+  {
+    "id": "05301",
+    "pdm": "COENTRO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "05305",
+    "pdm": "COGUMELO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "05474",
+    "pdm": "COMPOSTO ALIMENTAR",
+    "grupo": 89
+  },
+  {
+    "id": "05542",
+    "pdm": "CONDIMENTO IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "05648",
+    "pdm": "DIETA INFANTIL",
+    "grupo": 89
+  },
+  {
+    "id": "05851",
+    "pdm": "CORANTE ALIMENTO",
+    "grupo": 89
+  },
+  {
+    "id": "05950",
+    "pdm": "COUVE IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "05986",
+    "pdm": "CRUSTACEO EM CONSERVA",
+    "grupo": 89
+  },
+  {
+    "id": "06064",
+    "pdm": "DERIVADO DE CARNE DE GADO",
+    "grupo": 89
+  },
+  {
+    "id": "06065",
+    "pdm": "DERIVADO DE CARNE DE PEIXE",
+    "grupo": 89
+  },
+  {
+    "id": "06152",
+    "pdm": "DEXTROSE",
+    "grupo": 89
+  },
+  {
+    "id": "06188",
+    "pdm": "DIETA BALANCEADA",
+    "grupo": 89
+  },
+  {
+    "id": "06374",
+    "pdm": "DOCE CONFEITADO",
+    "grupo": 89
+  },
+  {
+    "id": "06375",
+    "pdm": "DOCE CRISTALIZADO",
+    "grupo": 89
+  },
+  {
+    "id": "06870",
+    "pdm": "ERVA - MATE",
+    "grupo": 89
+  },
+  {
+    "id": "06871",
+    "pdm": "ERVA DOCE",
+    "grupo": 89
+  },
+  {
+    "id": "06872",
+    "pdm": "ERVAS",
+    "grupo": 89
+  },
+  {
+    "id": "06873",
+    "pdm": "ERVILHA EM CONSERVA",
+    "grupo": 89
+  },
+  {
+    "id": "06874",
+    "pdm": "ERVILHA IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "07018",
+    "pdm": "ESPINAFRE IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "07261",
+    "pdm": "EXTRATO ALIMENTÍCIO",
+    "grupo": 89
+  },
+  {
+    "id": "07291",
+    "pdm": "FARINHA DE ROSCA",
+    "grupo": 89
+  },
+  {
+    "id": "07292",
+    "pdm": "FARINHA DE ROSCA TEMPERADA",
+    "grupo": 89
+  },
+  {
+    "id": "07294",
+    "pdm": "FARINHA PRE-COZIDA DE MILHO - POLENTA",
+    "grupo": 89
+  },
+  {
+    "id": "07295",
+    "pdm": "FARINHA PREGELATINIZADA DE MILHO",
+    "grupo": 89
+  },
+  {
+    "id": "07366",
+    "pdm": "FERMENTO",
+    "grupo": 89
+  },
+  {
+    "id": "07425",
+    "pdm": "FIGO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "07426",
+    "pdm": "FILE DE PEIXE PRE - PREPARADO",
+    "grupo": 89
+  },
+  {
+    "id": "07638",
+    "pdm": "FLOCOS DE CEREAL",
+    "grupo": 89
+  },
+  {
+    "id": "07847",
+    "pdm": "FRUTA - CONCENTRADO / POLPA",
+    "grupo": 89
+  },
+  {
+    "id": "07848",
+    "pdm": "DOCE FRUTA",
+    "grupo": 89
+  },
+  {
+    "id": "07849",
+    "pdm": "FRUTA - SUCO",
+    "grupo": 89
+  },
+  {
+    "id": "07850",
+    "pdm": "FRUTA - XAROPE",
+    "grupo": 89
+  },
+  {
+    "id": "07851",
+    "pdm": "FRUTA CRISTALIZADA",
+    "grupo": 89
+  },
+  {
+    "id": "07852",
+    "pdm": "FRUTA DESIDRATADA",
+    "grupo": 89
+  },
+  {
+    "id": "07853",
+    "pdm": "FRUTA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "07854",
+    "pdm": "FRUTA SECA",
+    "grupo": 89
+  },
+  {
+    "id": "07909",
+    "pdm": "GALINHA ENSOPADA EM CONSERVA",
+    "grupo": 89
+  },
+  {
+    "id": "07956",
+    "pdm": "GELATINA ALIMENTÍCIA",
+    "grupo": 89
+  },
+  {
+    "id": "07959",
+    "pdm": "GELEIA",
+    "grupo": 89
+  },
+  {
+    "id": "07960",
+    "pdm": "GELO - ESCAMA / FLOCOS",
+    "grupo": 89
+  },
+  {
+    "id": "07963",
+    "pdm": "GÊNERO DE ALIMENTAÇÃO",
+    "grupo": 89
+  },
+  {
+    "id": "07987",
+    "pdm": "GERGELIM",
+    "grupo": 89
+  },
+  {
+    "id": "08022",
+    "pdm": "GLUTAMINA (VER CLASSE 6810, É MATÉRIA-PRIMA)",
+    "grupo": 89
+  },
+  {
+    "id": "08025",
+    "pdm": "GOIABA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "08028",
+    "pdm": "GOMA DE MASCAR ( CHICLETE )",
+    "grupo": 89
+  },
+  {
+    "id": "08036",
+    "pdm": "GORDURA COMESTIVEL",
+    "grupo": 89
+  },
+  {
+    "id": "08037",
+    "pdm": "GORDURA",
+    "grupo": 89
+  },
+  {
+    "id": "08088",
+    "pdm": "GRÃO DE BICO",
+    "grupo": 89
+  },
+  {
+    "id": "08272",
+    "pdm": "HORTALICA",
+    "grupo": 89
+  },
+  {
+    "id": "08369",
+    "pdm": "INHAME IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "08530",
+    "pdm": "JILO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "08722",
+    "pdm": "LARANJA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "08749",
+    "pdm": "LEGUME - PROCESSADO / CONGELADO / PRE - COZIDO",
+    "grupo": 89
+  },
+  {
+    "id": "08750",
+    "pdm": "LEGUME IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "08751",
+    "pdm": "LEGUME IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "08753",
+    "pdm": "LEITE BOVINO",
+    "grupo": 89
+  },
+  {
+    "id": "08755",
+    "pdm": "LEITE EM PO",
+    "grupo": 89
+  },
+  {
+    "id": "08756",
+    "pdm": "LEITE IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "08804",
+    "pdm": "EXTRATO DE LEVEDURA",
+    "grupo": 89
+  },
+  {
+    "id": "08814",
+    "pdm": "LICOR",
+    "grupo": 89
+  },
+  {
+    "id": "08928",
+    "pdm": "LOURO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "08935",
+    "pdm": "LULA PRE - PREPARADA",
+    "grupo": 89
+  },
+  {
+    "id": "08990",
+    "pdm": "MAÇÃ IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "09054",
+    "pdm": "MALTE",
+    "grupo": 89
+  },
+  {
+    "id": "09058",
+    "pdm": "MAMAO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "09088",
+    "pdm": "MANGA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "09114",
+    "pdm": "MANJERICÃO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "09380",
+    "pdm": "MARGARINA",
+    "grupo": 89
+  },
+  {
+    "id": "09382",
+    "pdm": "MARISCO FRESCO",
+    "grupo": 89
+  },
+  {
+    "id": "09426",
+    "pdm": "MASSA LASANHA",
+    "grupo": 89
+  },
+  {
+    "id": "09510",
+    "pdm": "MAXIXE IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "09587",
+    "pdm": "MELACO",
+    "grupo": 89
+  },
+  {
+    "id": "09588",
+    "pdm": "MELADO",
+    "grupo": 89
+  },
+  {
+    "id": "09764",
+    "pdm": "MILHO VERDE IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "09771",
+    "pdm": "MINGAU",
+    "grupo": 89
+  },
+  {
+    "id": "09788",
+    "pdm": "MISTURA SUPLEMENTAÇÃO ALIMENTAR",
+    "grupo": 89
+  },
+  {
+    "id": "09790",
+    "pdm": "MISTURA PARA PASTEL",
+    "grupo": 89
+  },
+  {
+    "id": "09791",
+    "pdm": "MISTURA ALIMENTÍCIA",
+    "grupo": 89
+  },
+  {
+    "id": "09792",
+    "pdm": "MISTURA SOLUVEL ALIMENTICIA",
+    "grupo": 89
+  },
+  {
+    "id": "09805",
+    "pdm": "MIUDO CONSERVA",
+    "grupo": 89
+  },
+  {
+    "id": "09806",
+    "pdm": "MIUDO DEFUMADO",
+    "grupo": 89
+  },
+  {
+    "id": "09807",
+    "pdm": "MIUDO FRESCO",
+    "grupo": 89
+  },
+  {
+    "id": "09808",
+    "pdm": "MIÚDOS",
+    "grupo": 89
+  },
+  {
+    "id": "09905",
+    "pdm": "MOQUECA DE ARRAIA PRE - PREPARADA",
+    "grupo": 89
+  },
+  {
+    "id": "09906",
+    "pdm": "MORANGO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": "09911",
+    "pdm": "MOSTARDA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 10004,
+    "pdm": "MUCILAGEM",
+    "grupo": 89
+  },
+  {
+    "id": 10029,
+    "pdm": "NABO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 10130,
+    "pdm": "NOZ",
+    "grupo": 89
+  },
+  {
+    "id": 10234,
+    "pdm": "OSTRA PRE - PREPARADA",
+    "grupo": 89
+  },
+  {
+    "id": 10280,
+    "pdm": "PACOTE DE RACAO HUMANA",
+    "grupo": 89
+  },
+  {
+    "id": 10351,
+    "pdm": "PÃO",
+    "grupo": 89
+  },
+  {
+    "id": 10481,
+    "pdm": "PASTA ALIMENTICIA",
+    "grupo": 89
+  },
+  {
+    "id": 10499,
+    "pdm": "PASTELAO",
+    "grupo": 89
+  },
+  {
+    "id": 10636,
+    "pdm": "PEPINO",
+    "grupo": 89
+  },
+  {
+    "id": 10637,
+    "pdm": "PEPINO IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 10701,
+    "pdm": "PICLES EM CONSERVA",
+    "grupo": 89
+  },
+  {
+    "id": 10715,
+    "pdm": "PIMENTAO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 10932,
+    "pdm": "PÓ PARA REFRESCO",
+    "grupo": 89
+  },
+  {
+    "id": 10933,
+    "pdm": "PÓ PARA SORVETE",
+    "grupo": 89
+  },
+  {
+    "id": 10988,
+    "pdm": "POLVO PRE - PREPARADO",
+    "grupo": 89
+  },
+  {
+    "id": 11228,
+    "pdm": "PRODUTO DE CONFEITARIA",
+    "grupo": 89
+  },
+  {
+    "id": 11239,
+    "pdm": "PRODUTO SOLUVEL",
+    "grupo": 89
+  },
+  {
+    "id": 11369,
+    "pdm": "QUEIJO RALADO",
+    "grupo": 89
+  },
+  {
+    "id": 11377,
+    "pdm": "QUIABO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 11381,
+    "pdm": "RABANETE IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 11390,
+    "pdm": "RAÇÃO HUMANA DE EMERGÊNCIA",
+    "grupo": 89
+  },
+  {
+    "id": 11400,
+    "pdm": "RAIZ - ALIMENTO",
+    "grupo": 89
+  },
+  {
+    "id": 11412,
+    "pdm": "RAPADURA",
+    "grupo": 89
+  },
+  {
+    "id": 11413,
+    "pdm": "RAPE",
+    "grupo": 89
+  },
+  {
+    "id": 11423,
+    "pdm": "RAVIOLI",
+    "grupo": 89
+  },
+  {
+    "id": 11475,
+    "pdm": "RECHEIO PREPARADO",
+    "grupo": 89
+  },
+  {
+    "id": 11533,
+    "pdm": "REFRESCO",
+    "grupo": 89
+  },
+  {
+    "id": 11534,
+    "pdm": "REFRESCO DE FRUTA A BASE DE LEITE ( VITAMINA )",
+    "grupo": 89
+  },
+  {
+    "id": 11657,
+    "pdm": "REPOLHO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 11838,
+    "pdm": "ROSQUINHA",
+    "grupo": 89
+  },
+  {
+    "id": 11855,
+    "pdm": "RUCULA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 11919,
+    "pdm": "SALGADOS DIVERSOS",
+    "grupo": 89
+  },
+  {
+    "id": 11927,
+    "pdm": "SALSA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 11928,
+    "pdm": "SALSAO IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 11933,
+    "pdm": "SANDUÍCHE",
+    "grupo": 89
+  },
+  {
+    "id": 12046,
+    "pdm": "SERRALHA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 12182,
+    "pdm": "SOJA",
+    "grupo": 89
+  },
+  {
+    "id": 12303,
+    "pdm": "SUCO ALIMENTICIO DE VEGETAL",
+    "grupo": 89
+  },
+  {
+    "id": 12364,
+    "pdm": "SUPLEMENTO ALIMENTAR - INFANTIL",
+    "grupo": 89
+  },
+  {
+    "id": 12438,
+    "pdm": "SURURU PRE - PREPARADO",
+    "grupo": 89
+  },
+  {
+    "id": 12481,
+    "pdm": "TAIOBA - IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 12618,
+    "pdm": "TEMPERO AROMATICO",
+    "grupo": 89
+  },
+  {
+    "id": 12619,
+    "pdm": "TEMPERO",
+    "grupo": 89
+  },
+  {
+    "id": 12620,
+    "pdm": "TEMPERO CULINARIO ( CONDIMENTO ) EM PO",
+    "grupo": 89
+  },
+  {
+    "id": 12621,
+    "pdm": "TEMPERO PARA SALADA",
+    "grupo": 89
+  },
+  {
+    "id": 12810,
+    "pdm": "TOMATE IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 12978,
+    "pdm": "TRIGO - ALIMENTACAO",
+    "grupo": 89
+  },
+  {
+    "id": 12992,
+    "pdm": "TRIPA",
+    "grupo": 89
+  },
+  {
+    "id": 13020,
+    "pdm": "TUBERCULO",
+    "grupo": 89
+  },
+  {
+    "id": 13141,
+    "pdm": "UISQUE",
+    "grupo": 89
+  },
+  {
+    "id": 13213,
+    "pdm": "UVA IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 13214,
+    "pdm": "UVA PASSA",
+    "grupo": 89
+  },
+  {
+    "id": 13234,
+    "pdm": "VAGEM IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 13335,
+    "pdm": "VEGETAL IN - NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 13388,
+    "pdm": "VERDURA IN NATURA",
+    "grupo": 89
+  },
+  {
+    "id": 13446,
+    "pdm": "VINHO MEDICINAL",
+    "grupo": 89
+  },
+  {
+    "id": 13525,
+    "pdm": "ALIMENTAÇÃO INFANTIL",
+    "grupo": 89
+  },
+  {
+    "id": 13527,
+    "pdm": "ALIMENTO INDUSTRIALIZADO CONSUMO HUMANO",
+    "grupo": 89
+  },
+  {
+    "id": 13550,
+    "pdm": "DOCE EM TABLETE",
+    "grupo": 89
+  },
+  {
+    "id": 13567,
+    "pdm": "FARINHA ALIMENTÍCIA",
+    "grupo": 89
+  },
+  {
+    "id": 13602,
+    "pdm": "MOLHO ALIMENTÍCIO",
+    "grupo": 89
+  },
+  {
+    "id": 13608,
+    "pdm": "OLEO COMESTIVEL",
+    "grupo": 89
+  },
+  {
+    "id": 13620,
+    "pdm": "POLVILHO AZEDO",
+    "grupo": 89
+  },
+  {
+    "id": 13624,
+    "pdm": "PREPARADO SOLUVEL PARA ALIMENTACAO",
+    "grupo": 89
+  },
+  {
+    "id": 13643,
+    "pdm": "VEGETAL EM CONSERVA",
+    "grupo": 89
+  },
+  {
+    "id": 13883,
+    "pdm": "FARINHA AVEIA",
+    "grupo": 89
+  },
+  {
+    "id": 13884,
+    "pdm": "FARINHA ARROZ",
+    "grupo": 89
+  },
+  {
+    "id": 13885,
+    "pdm": "FARINHA LÁCTEA",
+    "grupo": 89
+  },
+  {
+    "id": 13886,
+    "pdm": "MOLHO SHOYO",
+    "grupo": 89
+  },
+  {
+    "id": 14047,
+    "pdm": "FARINHA QUIBE",
+    "grupo": 89
+  },
+  {
+    "id": 14080,
+    "pdm": "MOLHO INGLÊS",
+    "grupo": 89
+  },
+  {
+    "id": 14248,
+    "pdm": "ALMÔNDEGA",
+    "grupo": 89
+  },
+  {
+    "id": 14424,
+    "pdm": "FERMENTO LIOFILIZADO",
+    "grupo": 89
+  },
+  {
+    "id": 14425,
+    "pdm": "ALIMENTO INFANTIL.",
+    "grupo": 89
+  },
+  {
+    "id": 14493,
+    "pdm": "MASSA PASTEL",
+    "grupo": 89
+  },
+  {
+    "id": 14581,
+    "pdm": "MILHO",
+    "grupo": 89
+  },
+  {
+    "id": 14583,
+    "pdm": "PURÊ TOMATE",
+    "grupo": 89
+  },
+  {
+    "id": 14584,
+    "pdm": "MOLHO PIMENTA",
+    "grupo": 89
+  },
+  {
+    "id": 14589,
+    "pdm": "PIMENTA DO REINO",
+    "grupo": 89
+  },
+  {
+    "id": 14612,
+    "pdm": "PÓ P/MARIA MOLE",
+    "grupo": 89
+  },
+  {
+    "id": 14619,
+    "pdm": "PASTA FRANGO",
+    "grupo": 89
+  },
+  {
+    "id": 14691,
+    "pdm": "ESPETINHO",
+    "grupo": 89
+  },
+  {
+    "id": 14695,
+    "pdm": "HAMBURGUER",
+    "grupo": 89
+  },
+  {
+    "id": 14916,
+    "pdm": "FARINHA CEREAIS",
+    "grupo": 89
+  },
+  {
+    "id": 14918,
+    "pdm": "MINGAU INSTANTÂNEO",
+    "grupo": 89
+  },
+  {
+    "id": 14922,
+    "pdm": "PÓ PARA FLAN",
+    "grupo": 89
+  },
+  {
+    "id": 14972,
+    "pdm": "ESTABILIZANTE ALIMENTAR",
+    "grupo": 89
+  },
+  {
+    "id": 15008,
+    "pdm": "BAGAÇO FRUTA",
+    "grupo": 89
+  },
+  {
+    "id": 15015,
+    "pdm": "CREME ARROZ",
+    "grupo": 89
+  },
+  {
+    "id": 15021,
+    "pdm": "SAL DE CURA",
+    "grupo": 89
+  },
+  {
+    "id": 15073,
+    "pdm": "FIXADOR COR",
+    "grupo": 89
+  },
+  {
+    "id": 15127,
+    "pdm": "ALBUMINA",
+    "grupo": 89
+  },
+  {
+    "id": 15203,
+    "pdm": "TORRADA",
+    "grupo": 89
+  },
+  {
+    "id": 15353,
+    "pdm": "SUPLEMENTO LEITE HUMANO",
+    "grupo": 89
+  },
+  {
+    "id": 15354,
+    "pdm": "LEITE SOJA",
+    "grupo": 89
+  },
+  {
+    "id": 15363,
+    "pdm": "ESPESSANTE ALIMENTAR",
+    "grupo": 89
+  },
+  {
+    "id": 15641,
+    "pdm": "FAROFA PRONTA",
+    "grupo": 89
+  },
+  {
+    "id": 15652,
+    "pdm": "MASSA PIZZA",
+    "grupo": 89
+  },
+  {
+    "id": 16061,
+    "pdm": "ERVA MATE",
+    "grupo": 89
+  },
+  {
+    "id": 16086,
+    "pdm": "SUPLEMENTO NUTRICIONAL.",
+    "grupo": 89
+  },
+  {
+    "id": 16142,
+    "pdm": "SUPLEMENTO ALIMENTAR",
+    "grupo": 89
+  },
+  {
+    "id": 16417,
+    "pdm": "CAMARÃO",
+    "grupo": 89
+  },
+  {
+    "id": 16418,
+    "pdm": "CAMARÃO SECO",
+    "grupo": 89
+  },
+  {
+    "id": 16650,
+    "pdm": "PASTEL",
+    "grupo": 89
+  },
+  {
+    "id": 16652,
+    "pdm": "GLICOSE",
+    "grupo": 89
+  },
+  {
+    "id": 17294,
+    "pdm": "CARNES, AVES E PEIXES",
+    "grupo": 89
+  },
+  {
+    "id": 17295,
+    "pdm": "OVOS E LATICÍNIOS",
+    "grupo": 89
+  },
+  {
+    "id": 17296,
+    "pdm": "FRUTAS, VERDURAS E LEGUMES",
+    "grupo": 89
+  },
+  {
+    "id": 17297,
+    "pdm": "PREPARADO PANIFICAÇÃO",
+    "grupo": 89
+  },
+  {
+    "id": 17298,
+    "pdm": "AÇUCAR, CONFEITOS, CASTANHAS, NOZES E SIMILARES",
+    "grupo": 89
+  },
+  {
+    "id": 17299,
+    "pdm": "GELEIAS, CONSERVAS E GELATINAS",
+    "grupo": 89
+  },
+  {
+    "id": 17300,
+    "pdm": "SOPAS E CALDOS",
+    "grupo": 89
+  },
+  {
+    "id": 17301,
+    "pdm": "DIETA ENTERAL",
+    "grupo": 89
+  },
+  {
+    "id": 17302,
+    "pdm": "ÓLEOS E GORDURAS COMESTÍVEIS",
+    "grupo": 89
+  },
+  {
+    "id": 17303,
+    "pdm": "CONDIMENTOS E PRODUTOS CORRELATOS",
+    "grupo": 89
+  },
+  {
+    "id": 17304,
+    "pdm": "CAFÉ, CHÁ E CHOCOLATE",
+    "grupo": 89
+  },
+  {
+    "id": 17305,
+    "pdm": "BEBIDAS NÃO ALCOÓLICAS",
+    "grupo": 89
+  },
+  {
+    "id": 17306,
+    "pdm": "BEBIDAS ALCOÓLICAS",
+    "grupo": 89
+  },
+  {
+    "id": 17307,
+    "pdm": "RAÇÕES EMBALADAS",
+    "grupo": 89
+  },
+  {
+    "id": 17308,
+    "pdm": "PRODUTOS DE TABACO",
+    "grupo": 89
+  },
+  {
+    "id": 17359,
+    "pdm": "AMENDOIM TORRADO",
+    "grupo": 89
+  },
+  {
+    "id": 17935,
+    "pdm": "ÔMEGA 3",
+    "grupo": 89
+  },
+  {
+    "id": 18608,
+    "pdm": "MASSA",
+    "grupo": 89
+  },
+  {
+    "id": 18653,
+    "pdm": "BEBIDA LÁCTEA",
+    "grupo": 89
+  },
+  {
+    "id": 18711,
+    "pdm": "PISTACHE",
+    "grupo": 89
+  },
+  {
+    "id": 18712,
+    "pdm": "ESPETINHO MISTO",
+    "grupo": 89
+  },
+  {
+    "id": 19385,
+    "pdm": "PICOLÉ",
+    "grupo": 89
+  }
+]

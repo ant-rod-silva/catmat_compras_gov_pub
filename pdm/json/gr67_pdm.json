@@ -1,0 +1,912 @@
+[
+  {
+    "id": "00297",
+    "pdm": "LEITORA MICROFILME",
+    "grupo": 67
+  },
+  {
+    "id": "00872",
+    "pdm": "EPISCÓPIO",
+    "grupo": 67
+  },
+  {
+    "id": "00906",
+    "pdm": "PROJETOR IMAGEM",
+    "grupo": 67
+  },
+  {
+    "id": "00907",
+    "pdm": "PROJETOR MULTIMÍDIA",
+    "grupo": 67
+  },
+  {
+    "id": "00915",
+    "pdm": "TELA PROJEÇÃO",
+    "grupo": 67
+  },
+  {
+    "id": "00916",
+    "pdm": "BOLSA",
+    "grupo": 67
+  },
+  {
+    "id": "00917",
+    "pdm": "PROJETOR DE SLIDE",
+    "grupo": 67
+  },
+  {
+    "id": "00921",
+    "pdm": "RETROPROJETOR",
+    "grupo": 67
+  },
+  {
+    "id": "00952",
+    "pdm": "CABO SINCRONISMO",
+    "grupo": 67
+  },
+  {
+    "id": "00953",
+    "pdm": "CONJUNTO LIMPEZA FOTOGRÁFICO",
+    "grupo": 67
+  },
+  {
+    "id": "00954",
+    "pdm": "PINCEL LIMPEZA",
+    "grupo": 67
+  },
+  {
+    "id": "00955",
+    "pdm": "TAMPA PROTETORA",
+    "grupo": 67
+  },
+  {
+    "id": "00956",
+    "pdm": "PÁRA-SOL",
+    "grupo": 67
+  },
+  {
+    "id": "00975",
+    "pdm": "BANDEJA REVELAÇÃO",
+    "grupo": 67
+  },
+  {
+    "id": "00976",
+    "pdm": "FILME REVELAÇÃO INSTANTÂNEA",
+    "grupo": 67
+  },
+  {
+    "id": "00977",
+    "pdm": "MOLDURA SLIDE",
+    "grupo": 67
+  },
+  {
+    "id": "00978",
+    "pdm": "FILME SLIDE",
+    "grupo": 67
+  },
+  {
+    "id": "00979",
+    "pdm": "TRIPÉ",
+    "grupo": 67
+  },
+  {
+    "id": "00980",
+    "pdm": "TRIPÉ PARA FLASH",
+    "grupo": 67
+  },
+  {
+    "id": "00993",
+    "pdm": "MÁQUINA FOTOGRÁFICA",
+    "grupo": 67
+  },
+  {
+    "id": "01024",
+    "pdm": "FILMADORA PORTÁTIL",
+    "grupo": 67
+  },
+  {
+    "id": "01025",
+    "pdm": "PORTA-RETRATOS",
+    "grupo": 67
+  },
+  {
+    "id": "01658",
+    "pdm": "ACESSÓRIO / COMPONENTE - MICROFILMAGEM",
+    "grupo": 67
+  },
+  {
+    "id": "01683",
+    "pdm": "CARTÃO MAGNÉTICO - MÁQUINA FOTOGRÁFICA",
+    "grupo": 67
+  },
+  {
+    "id": "02114",
+    "pdm": "ADITIVO FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": "02237",
+    "pdm": "FOLHA ENCAIXE FOTOGRAFIA",
+    "grupo": 67
+  },
+  {
+    "id": "02442",
+    "pdm": "AMPLIADOR DE FOTOGRAFIA",
+    "grupo": 67
+  },
+  {
+    "id": "02998",
+    "pdm": "ARMAÇÃO SLIDE",
+    "grupo": 67
+  },
+  {
+    "id": "03008",
+    "pdm": "ARMARIO DE ESTOCAGEM DE MATERIAL FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": "03009",
+    "pdm": "ARMARIO DE FOTOGRAFIA ( FOTOTECA )",
+    "grupo": 67
+  },
+  {
+    "id": "03015",
+    "pdm": "ARMARIO PARA FILME FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": "03102",
+    "pdm": "ASSOPRADOR DE AR",
+    "grupo": 67
+  },
+  {
+    "id": "03115",
+    "pdm": "ATIVADOR DE VISOR - COPIADOR",
+    "grupo": 67
+  },
+  {
+    "id": "03310",
+    "pdm": "BANDEJA DE SLIDE",
+    "grupo": 67
+  },
+  {
+    "id": "03464",
+    "pdm": "BATERIA - FLASH",
+    "grupo": 67
+  },
+  {
+    "id": "03862",
+    "pdm": "BRANQUEADOR FOTOGRÁFICO",
+    "grupo": 67
+  },
+  {
+    "id": "04038",
+    "pdm": "CABO DISPARADOR DE MAQUINA FOTOGRAFICA",
+    "grupo": 67
+  },
+  {
+    "id": "04322",
+    "pdm": "CAMARA DE AEROFOTOGRAMETRIA",
+    "grupo": 67
+  },
+  {
+    "id": "04325",
+    "pdm": "CAMARA DE CARTOGRAFIA",
+    "grupo": 67
+  },
+  {
+    "id": "04328",
+    "pdm": "CAMARA DE FILMAGEM - ESGOTO / GALERIA SUBTERRANEA",
+    "grupo": 67
+  },
+  {
+    "id": "04329",
+    "pdm": "CAMARA DE FILMAGEM - POCO ( AGUA / PETROLEO )",
+    "grupo": 67
+  },
+  {
+    "id": "04330",
+    "pdm": "CAMARA DE FOTOCOPIADORA",
+    "grupo": 67
+  },
+  {
+    "id": "04332",
+    "pdm": "CAMARA DE MICROFOTOGRAFIA",
+    "grupo": 67
+  },
+  {
+    "id": "04339",
+    "pdm": "CÂMARA ESCURA FOTOGRAFIA",
+    "grupo": 67
+  },
+  {
+    "id": "04341",
+    "pdm": "CAMARA FOTOGRAFICA DE AERONAVE",
+    "grupo": 67
+  },
+  {
+    "id": "04343",
+    "pdm": "CAMARA FOTOGRAFICA SUBMARINA",
+    "grupo": 67
+  },
+  {
+    "id": "04349",
+    "pdm": "CÂMARA MICROFILMADORA",
+    "grupo": 67
+  },
+  {
+    "id": "04353",
+    "pdm": "CAMARA PARA FILME DE REVELACAO E COPIAGEM INSTANTANEA",
+    "grupo": 67
+  },
+  {
+    "id": "04356",
+    "pdm": "CÂMARA ESCURA REVELAÇÃO",
+    "grupo": 67
+  },
+  {
+    "id": "04433",
+    "pdm": "CANTONEIRA FOTOGRAFIA",
+    "grupo": 67
+  },
+  {
+    "id": "04577",
+    "pdm": "CARRETEL PARA FILME",
+    "grupo": 67
+  },
+  {
+    "id": "04638",
+    "pdm": "CARROSSEL DE SLIDE",
+    "grupo": 67
+  },
+  {
+    "id": "04843",
+    "pdm": "CHAPA FOTOGRÁFICA REVELADA",
+    "grupo": 67
+  },
+  {
+    "id": "04856",
+    "pdm": "ÁLBUM",
+    "grupo": 67
+  },
+  {
+    "id": "05329",
+    "pdm": "COLADEIRA FILME",
+    "grupo": 67
+  },
+  {
+    "id": "05634",
+    "pdm": "CONJUGADOR DE IMAGEM FOTOGRAFICA",
+    "grupo": 67
+  },
+  {
+    "id": "05635",
+    "pdm": "CONJUGADOR DE IMAGENS",
+    "grupo": 67
+  },
+  {
+    "id": "05758",
+    "pdm": "CONJUNTO ILUMINACAO",
+    "grupo": 67
+  },
+  {
+    "id": "05774",
+    "pdm": "CONJUNTO REVELACAO",
+    "grupo": 67
+  },
+  {
+    "id": "05775",
+    "pdm": "CONJUNTO REVELACAO CIANOACRILATO",
+    "grupo": 67
+  },
+  {
+    "id": "05844",
+    "pdm": "COPIADORA MICROFICHA",
+    "grupo": 67
+  },
+  {
+    "id": "05928",
+    "pdm": "CORTADOR FOTOGRAFIA",
+    "grupo": 67
+  },
+  {
+    "id": "06333",
+    "pdm": "DISPOSITIVO VISOR FILME",
+    "grupo": 67
+  },
+  {
+    "id": "06580",
+    "pdm": "ENROLADEIRA - ELÉTRICA / MANUAL",
+    "grupo": 67
+  },
+  {
+    "id": "06612",
+    "pdm": "EPIDIASCOPIO",
+    "grupo": 67
+  },
+  {
+    "id": "06708",
+    "pdm": "EQUIPAMENTO DE MEDICAO E MONTAGEM DE FILME FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": "06709",
+    "pdm": "EQUIPAMENTO DE MICROFILMAGEM ( FOTOGRAFA PESSOA E DOCUMENTO SIMULTANEAMENTE ) PHOTOSCOPE",
+    "grupo": 67
+  },
+  {
+    "id": "06743",
+    "pdm": "EQUIPAMENTO / ACESSÓRIOS FOTOGRÁFICOS",
+    "grupo": 67
+  },
+  {
+    "id": "06785",
+    "pdm": "EQUIPAMENTO ESPECIALIZADO DE ENSAIO FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": "06895",
+    "pdm": "ESCALA - FOTOGRAFIA EVIDENCIA",
+    "grupo": 67
+  },
+  {
+    "id": "07066",
+    "pdm": "ESTABILIZADOR - FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": "07149",
+    "pdm": "ESTOJO ( KIT ) LIMPEZA LENTE - USO FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": "07156",
+    "pdm": "ESTOJO DE MARCACAO DE NEGATIVO FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": "07167",
+    "pdm": "ESTOJO PORTATIL DE ILUMINACAO FOTOGRAFICA",
+    "grupo": 67
+  },
+  {
+    "id": "07429",
+    "pdm": "FILME FOTOGRAFIA",
+    "grupo": 67
+  },
+  {
+    "id": "07430",
+    "pdm": "FILME / PELÍCULA IMPRESSÃO LASER",
+    "grupo": 67
+  },
+  {
+    "id": "07432",
+    "pdm": "FILME CINEANGIO",
+    "grupo": 67
+  },
+  {
+    "id": "07433",
+    "pdm": "FILME CINEMATOGRAFICO MUDO",
+    "grupo": 67
+  },
+  {
+    "id": "07434",
+    "pdm": "FILME CINEMATOGRAFICO REVELADO",
+    "grupo": 67
+  },
+  {
+    "id": "07435",
+    "pdm": "FILME CINEMATOGRAFICO SONORO",
+    "grupo": 67
+  },
+  {
+    "id": "07436",
+    "pdm": "FILME DE FOTOLITO",
+    "grupo": 67
+  },
+  {
+    "id": "07437",
+    "pdm": "FILME DE MICROFILMAGEM",
+    "grupo": 67
+  },
+  {
+    "id": "07438",
+    "pdm": "FILME POLIÉSTER",
+    "grupo": 67
+  },
+  {
+    "id": "07447",
+    "pdm": "FILME FOTOGRÁFICO PROCESSADO",
+    "grupo": 67
+  },
+  {
+    "id": "07473",
+    "pdm": "FILTRO",
+    "grupo": 67
+  },
+  {
+    "id": "07477",
+    "pdm": "FILTRO DE SELECAO DE COR",
+    "grupo": 67
+  },
+  {
+    "id": "07621",
+    "pdm": "FIXADOR FILME PARA FOTOLITO",
+    "grupo": 67
+  },
+  {
+    "id": "07622",
+    "pdm": "FIXADOR FOTOGRÁFICO",
+    "grupo": 67
+  },
+  {
+    "id": "07635",
+    "pdm": "FLASH",
+    "grupo": 67
+  },
+  {
+    "id": "07801",
+    "pdm": "FOTOCÉLULA",
+    "grupo": 67
+  },
+  {
+    "id": "07810",
+    "pdm": "FOTOGRAFIA PROFISSIONAL",
+    "grupo": 67
+  },
+  {
+    "id": "07811",
+    "pdm": "FOTOMAPA",
+    "grupo": 67
+  },
+  {
+    "id": "07814",
+    "pdm": "FOTÔMETRO FOTOGRÁFICO",
+    "grupo": 67
+  },
+  {
+    "id": "07957",
+    "pdm": "GELATINA - USO FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": "08280",
+    "pdm": "CÂMARA AUTOMÁTICA",
+    "grupo": 67
+  },
+  {
+    "id": "08284",
+    "pdm": "ILUMINADOR PARA FILMAGEM",
+    "grupo": 67
+  },
+  {
+    "id": "08307",
+    "pdm": "IMPRESSOR",
+    "grupo": 67
+  },
+  {
+    "id": "08377",
+    "pdm": "INICIALIZADOR ( START ) - FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": "08534",
+    "pdm": "JOGO DE ALGARISMO DE IMPRESSAO FOTOGRAFICA",
+    "grupo": 67
+  },
+  {
+    "id": "08549",
+    "pdm": "JOGO DE LETRA DE IMPRESSAO FOTOGRAFICA",
+    "grupo": 67
+  },
+  {
+    "id": "08721",
+    "pdm": "LAPIS PARA RETOQUE FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": "08778",
+    "pdm": "LENTE",
+    "grupo": 67
+  },
+  {
+    "id": "08787",
+    "pdm": "LENTE OBJETIVA DE MÁQUINA FOTOGRÁFICA",
+    "grupo": 67
+  },
+  {
+    "id": "08788",
+    "pdm": "LENTE PARA CAMARA FOTOGRAFICA",
+    "grupo": 67
+  },
+  {
+    "id": "09480",
+    "pdm": "MATERIAL PARA CARTOGRAFIA",
+    "grupo": 67
+  },
+  {
+    "id": "09631",
+    "pdm": "MESA DE RETOQUE DE NEGATIVO FOTOGRAFICO / FOTOLITO",
+    "grupo": 67
+  },
+  {
+    "id": "09659",
+    "pdm": "MESA REPRODUÇÃO FOTOGRÁFICA",
+    "grupo": 67
+  },
+  {
+    "id": "09730",
+    "pdm": "MICROFILME",
+    "grupo": 67
+  },
+  {
+    "id": 10068,
+    "pdm": "NEGATIVO DE FOTOIMPRESSAO",
+    "grupo": 67
+  },
+  {
+    "id": 10070,
+    "pdm": "NEGATOSCOPIO - SLIDE",
+    "grupo": 67
+  },
+  {
+    "id": 10137,
+    "pdm": "OBJETIVA DE MICROFILMAGEM",
+    "grupo": 67
+  },
+  {
+    "id": 10377,
+    "pdm": "PAPEL VIDEOIMPRESSÃO",
+    "grupo": 67
+  },
+  {
+    "id": 10421,
+    "pdm": "PARA-SOL",
+    "grupo": 67
+  },
+  {
+    "id": 10567,
+    "pdm": "PECA/COMPONENTE MAQUINA PROVA DE COR",
+    "grupo": 67
+  },
+  {
+    "id": 10594,
+    "pdm": "PEGADOR PARA FILME FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": 10604,
+    "pdm": "PELICULA REFLETIVA",
+    "grupo": 67
+  },
+  {
+    "id": 10735,
+    "pdm": "PINCEL LIMPEZA FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": 10939,
+    "pdm": "PO REVELACAO IMPRESSOES PAPILARES",
+    "grupo": 67
+  },
+  {
+    "id": 11046,
+    "pdm": "PORTA-NEGATIVO FILME",
+    "grupo": 67
+  },
+  {
+    "id": 11165,
+    "pdm": "PRENDEDOR DE CHAPA FOTOGRAFICA",
+    "grupo": 67
+  },
+  {
+    "id": 11197,
+    "pdm": "PRENSADOR FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": 11222,
+    "pdm": "PROCESSADORA DE MICROFILME",
+    "grupo": 67
+  },
+  {
+    "id": 11223,
+    "pdm": "PEÇAS / COMPONENTES PROCESSADORA FILME FOTOGRÁFICO",
+    "grupo": 67
+  },
+  {
+    "id": 11237,
+    "pdm": "PRODUTO QUIMICO PARA FOTOGRAFIA",
+    "grupo": 67
+  },
+  {
+    "id": 11256,
+    "pdm": "PROJETOR DE FILME",
+    "grupo": 67
+  },
+  {
+    "id": 11257,
+    "pdm": "PROJETOR DE FOTOMAPA",
+    "grupo": 67
+  },
+  {
+    "id": 11313,
+    "pdm": "PROTETOR DE LENTE DE MAQUINA FOTOGRAFICA",
+    "grupo": 67
+  },
+  {
+    "id": 11445,
+    "pdm": "REBOBINADOR FILME FOTOGRÁFICO",
+    "grupo": 67
+  },
+  {
+    "id": 11523,
+    "pdm": "REFLETOR ( FLASH )",
+    "grupo": 67
+  },
+  {
+    "id": 11565,
+    "pdm": "RÉGUA FOTOGRAFIA EVIDÊNCIA",
+    "grupo": 67
+  },
+  {
+    "id": 11703,
+    "pdm": "RESTITUIDOR PARA USO EM AEROFOTOGRAMETRIA",
+    "grupo": 67
+  },
+  {
+    "id": 11723,
+    "pdm": "RETOCADOR FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": 11728,
+    "pdm": "REVELADOR FILME FOTOGRÁFICO",
+    "grupo": 67
+  },
+  {
+    "id": 11729,
+    "pdm": "REVELADOR - IMPRESSAO DIGITAL",
+    "grupo": 67
+  },
+  {
+    "id": 11958,
+    "pdm": "SECADOR DE FOTOGRAFIA",
+    "grupo": 67
+  },
+  {
+    "id": 12007,
+    "pdm": "SENSITOMETRO",
+    "grupo": 67
+  },
+  {
+    "id": 12085,
+    "pdm": "SINCRONIZADOR DE SLIDE",
+    "grupo": 67
+  },
+  {
+    "id": 12169,
+    "pdm": "SLIDE - FOLHA DE ARQUIVO",
+    "grupo": 67
+  },
+  {
+    "id": 12248,
+    "pdm": "SOLUÇÃO REALÇADORA FLUORESCENTE",
+    "grupo": 67
+  },
+  {
+    "id": 12540,
+    "pdm": "TANQUE DE REVELACAO DE FOTOGRAFIA",
+    "grupo": 67
+  },
+  {
+    "id": 12605,
+    "pdm": "TELEMETRO FOTOGRAFICO",
+    "grupo": 67
+  },
+  {
+    "id": 12771,
+    "pdm": "TIRA CALIBRAGEM SENSITOMETRO",
+    "grupo": 67
+  },
+  {
+    "id": 12994,
+    "pdm": "TRIPE PARA FLASH",
+    "grupo": 67
+  },
+  {
+    "id": 13455,
+    "pdm": "VISOR DE MICROFILME",
+    "grupo": 67
+  },
+  {
+    "id": 13516,
+    "pdm": "ACESSORIO DE REVELACAO FOTOGRAFICA",
+    "grupo": 67
+  },
+  {
+    "id": 13518,
+    "pdm": "ACESSÓRIO FOTOGRÁFICO",
+    "grupo": 67
+  },
+  {
+    "id": 13539,
+    "pdm": "CÂMARA FILMAGEM / FILMADORA",
+    "grupo": 67
+  },
+  {
+    "id": 13632,
+    "pdm": "RETROPROJETOR - PECA / COMPONENTE",
+    "grupo": 67
+  },
+  {
+    "id": 13714,
+    "pdm": "VISOR ANTI-REFLEXIVO",
+    "grupo": 67
+  },
+  {
+    "id": 13719,
+    "pdm": "TELA IDENTIFICAÇÃO",
+    "grupo": 67
+  },
+  {
+    "id": 13745,
+    "pdm": "TELA CINEMATOGRÁFICA",
+    "grupo": 67
+  },
+  {
+    "id": 13761,
+    "pdm": "PÓ SUPERFÍCIE ADESIVA",
+    "grupo": 67
+  },
+  {
+    "id": 13762,
+    "pdm": "DIASAFLUORENO",
+    "grupo": 67
+  },
+  {
+    "id": 13849,
+    "pdm": "CÂMERA DIGITAL",
+    "grupo": 67
+  },
+  {
+    "id": 14089,
+    "pdm": "FILME PROVA IMPRESSÃO",
+    "grupo": 67
+  },
+  {
+    "id": 14090,
+    "pdm": "FILME ACABAMENTO PROVA",
+    "grupo": 67
+  },
+  {
+    "id": 14407,
+    "pdm": "PROTETOR NEGATIVO",
+    "grupo": 67
+  },
+  {
+    "id": 14566,
+    "pdm": "CÂMARA FOTOGRÁFICA DIGITAL",
+    "grupo": 67
+  },
+  {
+    "id": 14570,
+    "pdm": "CÂMERA FOTOGRÁFICA DIGITAL",
+    "grupo": 67
+  },
+  {
+    "id": 15202,
+    "pdm": "PAPEL FOTOGRÁFICO",
+    "grupo": 67
+  },
+  {
+    "id": 15490,
+    "pdm": "CILINDRO PROCESSADORA FILME",
+    "grupo": 67
+  },
+  {
+    "id": 15536,
+    "pdm": "FILTRO LENTE OBJETIVA",
+    "grupo": 67
+  },
+  {
+    "id": 15554,
+    "pdm": "FILME CINTILOGRAFIA",
+    "grupo": 67
+  },
+  {
+    "id": 16219,
+    "pdm": "LENTE RETROPROJETOR",
+    "grupo": 67
+  },
+  {
+    "id": 16404,
+    "pdm": "SUPORTE ADAPTAÇÃO TRIPÉ",
+    "grupo": 67
+  },
+  {
+    "id": 17168,
+    "pdm": "CÂMARAS CINEMATOGRÁFICAS",
+    "grupo": 67
+  },
+  {
+    "id": 17169,
+    "pdm": "CÂMARAS FOTOGRÁFICAS",
+    "grupo": 67
+  },
+  {
+    "id": 17170,
+    "pdm": "APRESENTADOR MULTIMÍDIA",
+    "grupo": 67
+  },
+  {
+    "id": 17171,
+    "pdm": "EQUIPAMENTO PARA REVELAÇÃO E ACABAMENTO FOTOGRÁFICO",
+    "grupo": 67
+  },
+  {
+    "id": 17172,
+    "pdm": "SUPRIMENTOS FOTOGRÁFICOS",
+    "grupo": 67
+  },
+  {
+    "id": 17173,
+    "pdm": "EQUIPAMENTO FOTOGRÁFICO E ACESSÓRIOS",
+    "grupo": 67
+  },
+  {
+    "id": 17174,
+    "pdm": "FILMES REVELADOS",
+    "grupo": 67
+  },
+  {
+    "id": 17175,
+    "pdm": "JOGOS E CONJUNTOS FOTOGRÁFICOS",
+    "grupo": 67
+  },
+  {
+    "id": 17551,
+    "pdm": "SISTEMA ILUMINAÇÃO - FOTOGRAFIA",
+    "grupo": 67
+  },
+  {
+    "id": 17642,
+    "pdm": "MESA ENROLADEIRA",
+    "grupo": 67
+  },
+  {
+    "id": 17646,
+    "pdm": "ESTOJO FOTOGRÁFICO",
+    "grupo": 67
+  },
+  {
+    "id": 17651,
+    "pdm": "PONTA TRANSPARENTE",
+    "grupo": 67
+  },
+  {
+    "id": 17754,
+    "pdm": "IMPRESSORA FOTOGRÁFICA",
+    "grupo": 67
+  },
+  {
+    "id": 17951,
+    "pdm": "CÂMARA FOTOGRÁFICA",
+    "grupo": 67
+  },
+  {
+    "id": 17987,
+    "pdm": "MONOPÉ",
+    "grupo": 67
+  },
+  {
+    "id": 18679,
+    "pdm": "MOLDURA TELA PROJEÇÃO",
+    "grupo": 67
+  },
+  {
+    "id": 18844,
+    "pdm": "PEÇA / ACESSÓRIO CÂMARA FOTOGRÁFICA / FILMADORA",
+    "grupo": 67
+  }
+]

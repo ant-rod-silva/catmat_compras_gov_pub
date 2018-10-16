@@ -1,0 +1,2347 @@
+[
+  {
+    "id": "00122",
+    "pdm": "TECLADO MICROCOMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": "00123",
+    "pdm": "CARTUCHO IMPRESSÃO",
+    "grupo": 70
+  },
+  {
+    "id": "00142",
+    "pdm": "TONALIZADOR",
+    "grupo": 70
+  },
+  {
+    "id": "00143",
+    "pdm": "TINTA OFSETE",
+    "grupo": 70
+  },
+  {
+    "id": "00206",
+    "pdm": "APONTADOR MICROCOMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": "00207",
+    "pdm": "CABO COAXIAL",
+    "grupo": 70
+  },
+  {
+    "id": "00208",
+    "pdm": "CABO REDE COMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": "00209",
+    "pdm": "CANETA ÓTICA",
+    "grupo": 70
+  },
+  {
+    "id": "00210",
+    "pdm": "CHAVEADORA",
+    "grupo": 70
+  },
+  {
+    "id": "00211",
+    "pdm": "CILINDRO MÁQUINA IMPRESSORA / COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": "00212",
+    "pdm": "CONCENTRADOR",
+    "grupo": 70
+  },
+  {
+    "id": "00213",
+    "pdm": "CONJUNTO MULTIMÍDIA",
+    "grupo": 70
+  },
+  {
+    "id": "00214",
+    "pdm": "CONVERSOR VÍDEO",
+    "grupo": 70
+  },
+  {
+    "id": "00215",
+    "pdm": "DESCARBONADOR",
+    "grupo": 70
+  },
+  {
+    "id": "00216",
+    "pdm": "DISCO MAGNÉTICO",
+    "grupo": 70
+  },
+  {
+    "id": "00217",
+    "pdm": "DISQUETE",
+    "grupo": 70
+  },
+  {
+    "id": "00219",
+    "pdm": "FITA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": "00220",
+    "pdm": "FITA MAGNÉTICA",
+    "grupo": 70
+  },
+  {
+    "id": "00221",
+    "pdm": "FONTE ALIMENTAÇÃO IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": "00222",
+    "pdm": "GABINETE",
+    "grupo": 70
+  },
+  {
+    "id": "00223",
+    "pdm": "IMPRESSORA JATO TINTA",
+    "grupo": 70
+  },
+  {
+    "id": "00224",
+    "pdm": "IMPRESSORA LASER",
+    "grupo": 70
+  },
+  {
+    "id": "00225",
+    "pdm": "IMPRESSORA MATRICIAL",
+    "grupo": 70
+  },
+  {
+    "id": "00226",
+    "pdm": "IMPRESSORA MULTIFUNCIONAL",
+    "grupo": 70
+  },
+  {
+    "id": "00227",
+    "pdm": "LEITORA CÓDIGO BARRA",
+    "grupo": 70
+  },
+  {
+    "id": "00228",
+    "pdm": "LEITORA DVD",
+    "grupo": 70
+  },
+  {
+    "id": "00230",
+    "pdm": "MONITOR VÍDEO",
+    "grupo": 70
+  },
+  {
+    "id": "00231",
+    "pdm": "PLACA REDE",
+    "grupo": 70
+  },
+  {
+    "id": "00232",
+    "pdm": "PROGRAMA APLICATIVO",
+    "grupo": 70
+  },
+  {
+    "id": "00233",
+    "pdm": "PROTETOR VARIAÇÃO TENSÃO",
+    "grupo": 70
+  },
+  {
+    "id": "00234",
+    "pdm": "PLACA COMUNICAÇÃO",
+    "grupo": 70
+  },
+  {
+    "id": "00235",
+    "pdm": "PLACA CONTROLADORA VÍDEO",
+    "grupo": 70
+  },
+  {
+    "id": "00236",
+    "pdm": "PLACA FAX MODEM",
+    "grupo": 70
+  },
+  {
+    "id": "00237",
+    "pdm": "ROTEADOR",
+    "grupo": 70
+  },
+  {
+    "id": "00238",
+    "pdm": "SCANNER",
+    "grupo": 70
+  },
+  {
+    "id": "00239",
+    "pdm": "SERVIDOR IMPRESSÃO",
+    "grupo": 70
+  },
+  {
+    "id": "00240",
+    "pdm": "MOUSE PAD",
+    "grupo": 70
+  },
+  {
+    "id": "00241",
+    "pdm": "TELA PROTEÇÃO MONITOR",
+    "grupo": 70
+  },
+  {
+    "id": "00242",
+    "pdm": "TORRE CD ROM",
+    "grupo": 70
+  },
+  {
+    "id": "00243",
+    "pdm": "UNIDADE CENTRAL PROCESSAMENTO",
+    "grupo": 70
+  },
+  {
+    "id": "00244",
+    "pdm": "UNIDADE DISCO",
+    "grupo": 70
+  },
+  {
+    "id": "00253",
+    "pdm": "TINTA MIMEÓGRAFO",
+    "grupo": 70
+  },
+  {
+    "id": "00283",
+    "pdm": "CHAVEADORAS",
+    "grupo": 70
+  },
+  {
+    "id": "00284",
+    "pdm": "TINTA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": "02041",
+    "pdm": "ACIONADOR DISCO MAGNÉTICO / ÓPTICO - PROCESSAMENTO",
+    "grupo": 70
+  },
+  {
+    "id": "02079",
+    "pdm": "PONTO DE ACESSO",
+    "grupo": 70
+  },
+  {
+    "id": "02083",
+    "pdm": "CADERNO DIGITAL/DIGITALIZADOR",
+    "grupo": 70
+  },
+  {
+    "id": "02092",
+    "pdm": "ADAPTADOR DE VOZ PARA EQUIPAMENTO DE PROCESSAMENTO DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": "02468",
+    "pdm": "ANALISADOR DE DISCO MAGNETICO PARA PROCESSAMENTO DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": "02471",
+    "pdm": "ANALISADOR DE FITA MAGNETICA",
+    "grupo": 70
+  },
+  {
+    "id": "02496",
+    "pdm": "ANEL DE GRAVACAO DE FITA MAGNETICA",
+    "grupo": 70
+  },
+  {
+    "id": "02511",
+    "pdm": "ANEL SUPORTE DE FITA MAGNETICA",
+    "grupo": 70
+  },
+  {
+    "id": "03020",
+    "pdm": "ARMAZENAMENTO FOTO ( SMARTMEDIA )",
+    "grupo": 70
+  },
+  {
+    "id": "03114",
+    "pdm": "ATIVADOR DE LEITORA / COPIADORA DE MICROFILME SISTEMA COM",
+    "grupo": 70
+  },
+  {
+    "id": "03116",
+    "pdm": "ATIVADOR/DESATIVADOR PARA LEITORA/COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": "03305",
+    "pdm": "BANDEJA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": "03436",
+    "pdm": "BASTIDOR EQUIPAMENTO PROCESSAMENTO DADOS",
+    "grupo": 70
+  },
+  {
+    "id": "04125",
+    "pdm": "CAIXA DE CONCENTRADOR DE TECLADO",
+    "grupo": 70
+  },
+  {
+    "id": "04132",
+    "pdm": "CAIXA DE FONTE DE CPU",
+    "grupo": 70
+  },
+  {
+    "id": "04257",
+    "pdm": "CALIBRADOR MONITOR",
+    "grupo": 70
+  },
+  {
+    "id": "04392",
+    "pdm": "CANAL DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": "04652",
+    "pdm": "CARTÃO PAPEL PERFURAÇÃO",
+    "grupo": 70
+  },
+  {
+    "id": "04671",
+    "pdm": "CARTUCHO TINTA FAX",
+    "grupo": 70
+  },
+  {
+    "id": "05015",
+    "pdm": "CINTA DE CARACTERES DE IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": "05042",
+    "pdm": "CANETA PARA TOQUE TELA",
+    "grupo": 70
+  },
+  {
+    "id": "05079",
+    "pdm": "CLIP CARTUCHO",
+    "grupo": 70
+  },
+  {
+    "id": "05287",
+    "pdm": "COBERTURA DE ACRILICO PARA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": "05384",
+    "pdm": "DIVISOR SINAL VÍDEO",
+    "grupo": 70
+  },
+  {
+    "id": "05409",
+    "pdm": "COMPONENTE DE ACESSO MEMORIA COMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": "05521",
+    "pdm": "COMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": "05522",
+    "pdm": "SWITCH",
+    "grupo": 70
+  },
+  {
+    "id": "05570",
+    "pdm": "CONECTOR / CABO ( FLAT CABLE ) - MICROCOMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": "05571",
+    "pdm": "CONECTOR / CABO IMPRESSORA - SERIAL / PARALELO",
+    "grupo": 70
+  },
+  {
+    "id": "05666",
+    "pdm": "CONJUNTO PARA PLOTTER",
+    "grupo": 70
+  },
+  {
+    "id": "05686",
+    "pdm": "CONJUNTO LIMPEZA DRIVE",
+    "grupo": 70
+  },
+  {
+    "id": "05732",
+    "pdm": "CONJUNTO MANUTENÇÃO IMPRESSORA / COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": "05780",
+    "pdm": "CONSOLE DE EQUIPAMENTO DE PROCESSAMENTO DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": "05809",
+    "pdm": "CONTROLADOR DE PROCESSO",
+    "grupo": 70
+  },
+  {
+    "id": "05819",
+    "pdm": "CONTROLADORA DE DISCO PARA COMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": "05980",
+    "pdm": "RADIOCROMATÓGRAFO",
+    "grupo": 70
+  },
+  {
+    "id": "06026",
+    "pdm": "CURSOR MESA DIGITALIZADORA",
+    "grupo": 70
+  },
+  {
+    "id": "06104",
+    "pdm": "DESMAGNETIZADOR DE FITA MAGNETICA",
+    "grupo": 70
+  },
+  {
+    "id": "06251",
+    "pdm": "DISCO COMPACTO - CD/DVD",
+    "grupo": 70
+  },
+  {
+    "id": "06337",
+    "pdm": "DISQUETE - URNA ELETRONICA",
+    "grupo": 70
+  },
+  {
+    "id": "06357",
+    "pdm": "DISTRIBUIDOR INTERNO OTICO",
+    "grupo": 70
+  },
+  {
+    "id": "06484",
+    "pdm": "ELIMINADOR DE ESTATICA - TECLADO ( INFORMATICA )",
+    "grupo": 70
+  },
+  {
+    "id": "06526",
+    "pdm": "EMISSOR DE SENHA - SISTEMA AUTO-ATENDIMENTO",
+    "grupo": 70
+  },
+  {
+    "id": "06634",
+    "pdm": "EQUIPAMENTO / COMPONENTE - PROCESSADOR DE IMAGEM ( SCANNER )",
+    "grupo": 70
+  },
+  {
+    "id": "06661",
+    "pdm": "EQUIPAMENTO DE AVALIACAO - QUALIDADE / ATENDIMENTO",
+    "grupo": 70
+  },
+  {
+    "id": "06669",
+    "pdm": "EQUIPAMENTO DE COLETA DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": "06727",
+    "pdm": "EQUIPAMENTO DE PROCESSAMENTO DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": "06775",
+    "pdm": "EQUIPAMENTO DISTRIBUIÇÂO CABOS",
+    "grupo": 70
+  },
+  {
+    "id": "06853",
+    "pdm": "EQUIPAMENTO SEGURANÇA REDE",
+    "grupo": 70
+  },
+  {
+    "id": "07086",
+    "pdm": "ESTAÇÃO TRABALHO PROCESSAMENTO DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": "07240",
+    "pdm": "EXPANSAO DE MEMORIA",
+    "grupo": 70
+  },
+  {
+    "id": "07440",
+    "pdm": "FILME IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": "07442",
+    "pdm": "CARTUCHO TONER COPIADORA / IMPRESSORA PANASONIC",
+    "grupo": 70
+  },
+  {
+    "id": "07565",
+    "pdm": "FITA DE CONTROLE DE SALTO DE CARRO AUTOMATICO",
+    "grupo": 70
+  },
+  {
+    "id": "07571",
+    "pdm": "CABO SATA",
+    "grupo": 70
+  },
+  {
+    "id": "07577",
+    "pdm": "SISTEMA CONTÍNUO TINTA IMPRESSORA / COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": "07582",
+    "pdm": "FITA GRAVAÇÃO DADOS",
+    "grupo": 70
+  },
+  {
+    "id": "07585",
+    "pdm": "FITA IMPRESSORA - CODIGO DE BARRA",
+    "grupo": 70
+  },
+  {
+    "id": "07590",
+    "pdm": "RIBBON",
+    "grupo": 70
+  },
+  {
+    "id": "07597",
+    "pdm": "FITA LIMPEZA DRIVE",
+    "grupo": 70
+  },
+  {
+    "id": "07711",
+    "pdm": "FONTE DE DISCO MAGNETICO",
+    "grupo": 70
+  },
+  {
+    "id": "07817",
+    "pdm": "CILINDRO FOTORRECEPTOR MÁQUINA COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": "08091",
+    "pdm": "GRAVADOR DISQUETE",
+    "grupo": 70
+  },
+  {
+    "id": "08092",
+    "pdm": "GRAVADOR FITA CASSETE",
+    "grupo": 70
+  },
+  {
+    "id": "08095",
+    "pdm": "GRAVADOR FITA MAGNÉTICA",
+    "grupo": 70
+  },
+  {
+    "id": "08308",
+    "pdm": "IMPRESSORA - BOBINA",
+    "grupo": 70
+  },
+  {
+    "id": "08309",
+    "pdm": "IMPRESSORA - CARTÃO / CRACHÁ",
+    "grupo": 70
+  },
+  {
+    "id": "08310",
+    "pdm": "IMPRESSORA IDENTIFICADORA",
+    "grupo": 70
+  },
+  {
+    "id": "08311",
+    "pdm": "IMPRESSORA CÓDIGO DE BARRAS",
+    "grupo": 70
+  },
+  {
+    "id": "08312",
+    "pdm": "IMPRESSORA - ESCRITA BRAILLE",
+    "grupo": 70
+  },
+  {
+    "id": "08313",
+    "pdm": "IMPRESSORA TÉRMICA",
+    "grupo": 70
+  },
+  {
+    "id": "08316",
+    "pdm": "IMPRESSORA DIGITAL",
+    "grupo": 70
+  },
+  {
+    "id": "08320",
+    "pdm": "IMPRESSORA 3D",
+    "grupo": 70
+  },
+  {
+    "id": "08353",
+    "pdm": "INDICADOR DIGITAL DE POSICAO",
+    "grupo": 70
+  },
+  {
+    "id": "08432",
+    "pdm": "INTERCALADORA DE CARTOES",
+    "grupo": 70
+  },
+  {
+    "id": "08435",
+    "pdm": "INTERFACE - PROCESSAMENTO / TRANSFERENCIA DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": "08442",
+    "pdm": "INTERPRETADORA CARTÕES",
+    "grupo": 70
+  },
+  {
+    "id": "08578",
+    "pdm": "CONJUNTO LIMPEZA IMPRESSORA / COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": "08760",
+    "pdm": "LEITORA DE CARACTERES MAGNETIZADORES",
+    "grupo": 70
+  },
+  {
+    "id": "08762",
+    "pdm": "LEITORA CARTÃO / PEÇAS E ACESSÓRIOS",
+    "grupo": 70
+  },
+  {
+    "id": "08763",
+    "pdm": "LEITORA DE FITA DE PAPEIS",
+    "grupo": 70
+  },
+  {
+    "id": "08766",
+    "pdm": "LEITORA ÓTICA",
+    "grupo": 70
+  },
+  {
+    "id": "08916",
+    "pdm": "LONA PARA PLOTER",
+    "grupo": 70
+  },
+  {
+    "id": "09164",
+    "pdm": "MAQUINA DE CLASSIFICAR CARTAO PERFURADO",
+    "grupo": 70
+  },
+  {
+    "id": "09171",
+    "pdm": "MAQUINA DE CONFERIR CARTAO PERFURADO",
+    "grupo": 70
+  },
+  {
+    "id": "09217",
+    "pdm": "MAQUINA DE REPRODUZIR CARTAO PERFURADO",
+    "grupo": 70
+  },
+  {
+    "id": "09227",
+    "pdm": "MAQUINA DE TRADUZIR CARTAO PERFURADO",
+    "grupo": 70
+  },
+  {
+    "id": "09325",
+    "pdm": "MÁQUINA RECARGA CARTUCHO",
+    "grupo": 70
+  },
+  {
+    "id": "09344",
+    "pdm": "MAQUINA PERFURADORA CARTAO - PROCESSAMENTO DADOS",
+    "grupo": 70
+  },
+  {
+    "id": "09345",
+    "pdm": "MAQUINA PERFURADORA SUMARIA",
+    "grupo": 70
+  },
+  {
+    "id": "09361",
+    "pdm": "MAQUINAS DE CARTAO PERFURADO PARA ENTRADA DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": "09372",
+    "pdm": "MARCADOR CARACTERES MAGNÉTICOS",
+    "grupo": 70
+  },
+  {
+    "id": "09592",
+    "pdm": "MEMORIA ADICIONAL",
+    "grupo": 70
+  },
+  {
+    "id": "09593",
+    "pdm": "MEMORIA AUXILIAR",
+    "grupo": 70
+  },
+  {
+    "id": "09594",
+    "pdm": "MEMÓRIA EM CARTÃO MAGNÉTICO",
+    "grupo": 70
+  },
+  {
+    "id": "09595",
+    "pdm": "MEMORIA EM DISCO",
+    "grupo": 70
+  },
+  {
+    "id": "09596",
+    "pdm": "MEMORIA EM DISCO CARTUCHO",
+    "grupo": 70
+  },
+  {
+    "id": "09597",
+    "pdm": "MEMÓRIA RAM",
+    "grupo": 70
+  },
+  {
+    "id": "09636",
+    "pdm": "MESA DIGITALIZADORA / COMPONENTES",
+    "grupo": 70
+  },
+  {
+    "id": "09725",
+    "pdm": "MICROCOMPUTADOR PESSOAL TIPO LAPTOP",
+    "grupo": 70
+  },
+  {
+    "id": "09726",
+    "pdm": "MICROCOMPUTADOR PESSOAL NOTEBOOK",
+    "grupo": 70
+  },
+  {
+    "id": "09773",
+    "pdm": "MINI COMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": "09838",
+    "pdm": "DEMODULADOR",
+    "grupo": 70
+  },
+  {
+    "id": "09839",
+    "pdm": "MODULO ADICIONAL",
+    "grupo": 70
+  },
+  {
+    "id": 10001,
+    "pdm": "MOUSE",
+    "grupo": 70
+  },
+  {
+    "id": 10014,
+    "pdm": "MULTIPLICADOR DE LINHA",
+    "grupo": 70
+  },
+  {
+    "id": 10293,
+    "pdm": "PAINEL DE CONTROLE PARA PROCESSAMENTO DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": 10295,
+    "pdm": "PAINEL DE ESTRUTURACAO DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": 10297,
+    "pdm": "PAINEL DE INFORMACAO DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": 10305,
+    "pdm": "PAINEL DIGITAL DE VOTACAO",
+    "grupo": 70
+  },
+  {
+    "id": 10307,
+    "pdm": "PAINEL ELETRONICO - SISTEMA AUTO-ATENDIMENTO",
+    "grupo": 70
+  },
+  {
+    "id": 10311,
+    "pdm": "PAINEL PERIFERICO",
+    "grupo": 70
+  },
+  {
+    "id": 10404,
+    "pdm": "MASTER PARA DUPLICADOR DIGITAL",
+    "grupo": 70
+  },
+  {
+    "id": 10530,
+    "pdm": "ADAPTADOR TECLADO",
+    "grupo": 70
+  },
+  {
+    "id": 10543,
+    "pdm": "PECA PARA UNIDADE DE ALIMENTACAO DE CPU",
+    "grupo": 70
+  },
+  {
+    "id": 10570,
+    "pdm": "PEÇAS E COMPONENTES COPIADORA / IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 10669,
+    "pdm": "PERFURADOR",
+    "grupo": 70
+  },
+  {
+    "id": 10670,
+    "pdm": "PERFURADOR FITA DE PAPEL",
+    "grupo": 70
+  },
+  {
+    "id": 10818,
+    "pdm": "CAPTADOR DE VÍDEO E ÁUDIO",
+    "grupo": 70
+  },
+  {
+    "id": 10824,
+    "pdm": "PLACA DE CIRCUITO LOGICO",
+    "grupo": 70
+  },
+  {
+    "id": 10830,
+    "pdm": "PLACA PCI",
+    "grupo": 70
+  },
+  {
+    "id": 10844,
+    "pdm": "PLACA DE TV/RADIO",
+    "grupo": 70
+  },
+  {
+    "id": 11133,
+    "pdm": "PRANCHA VOCALIZADORA (VOXTABLE)",
+    "grupo": 70
+  },
+  {
+    "id": 11243,
+    "pdm": "PROGRAMA ( SOFTWARE ) - SEGURANCA",
+    "grupo": 70
+  },
+  {
+    "id": 11244,
+    "pdm": "SOFTWARE ANALISADOR PROTOCOLO / REDE",
+    "grupo": 70
+  },
+  {
+    "id": 11245,
+    "pdm": "PROGRAMA ( SOFTWARE ) DE SISTEMA COMPILADOR",
+    "grupo": 70
+  },
+  {
+    "id": 11246,
+    "pdm": "PROGRAMA ( SOFTWARE ) DE SISTEMA INTERPRETADOR",
+    "grupo": 70
+  },
+  {
+    "id": 11247,
+    "pdm": "PROGRAMA ( SOFTWARE ) DE SISTEMA MONTADOR",
+    "grupo": 70
+  },
+  {
+    "id": 11248,
+    "pdm": "SOFTWARE",
+    "grupo": 70
+  },
+  {
+    "id": 11249,
+    "pdm": "PROGRAMA ( SOFTWARE ) GERENCIAMENTO REDE / CENTRAL ATENDIMENTO",
+    "grupo": 70
+  },
+  {
+    "id": 11250,
+    "pdm": "PROGRAMA ( SOFTWARE ) SEGURANCA / ANTIVIRUS",
+    "grupo": 70
+  },
+  {
+    "id": 11251,
+    "pdm": "PROGRAMA ( SOFTWARE ) BANCO DE DADOS SQL SERVER",
+    "grupo": 70
+  },
+  {
+    "id": 11284,
+    "pdm": "PROTECAO MEMORIA PARA UNIDADE DE PROCESSAMENTO DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": 11508,
+    "pdm": "REDE INFORMÁTICA - PEÇA / ACESSÓRIO",
+    "grupo": 70
+  },
+  {
+    "id": 11622,
+    "pdm": "RELÓGIO DE EQUIPAMENTO DE PROCESSAMENTO DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": 11765,
+    "pdm": "EQUIPAMENTO / ACESSÓRIO ROBÓTICO",
+    "grupo": 70
+  },
+  {
+    "id": 12050,
+    "pdm": "SERVIDOR DE REDE",
+    "grupo": 70
+  },
+  {
+    "id": 12100,
+    "pdm": "SISTEMA ( EQUIPAMENTO / SOFTWARE ) GERENCIAMENTO",
+    "grupo": 70
+  },
+  {
+    "id": 12129,
+    "pdm": "SISTEMA DE RECUPERACAO DE FORCA",
+    "grupo": 70
+  },
+  {
+    "id": 12130,
+    "pdm": "SISTEMA DE RECUPERACAO DE QUEDA DE TENSAO",
+    "grupo": 70
+  },
+  {
+    "id": 12147,
+    "pdm": "SISTEMA GLOBAL DE POSICIONAMENTO - GLOBAL",
+    "grupo": 70
+  },
+  {
+    "id": 12547,
+    "pdm": "CARTUCHO LIMPEZA",
+    "grupo": 70
+  },
+  {
+    "id": 12582,
+    "pdm": "TECLADO",
+    "grupo": 70
+  },
+  {
+    "id": 12646,
+    "pdm": "TERMINAIS DE VIDEO A/N",
+    "grupo": 70
+  },
+  {
+    "id": 12647,
+    "pdm": "TERMINAIS-IMPRESSORAS",
+    "grupo": 70
+  },
+  {
+    "id": 12652,
+    "pdm": "TERMINAL DE LEITURA - CARTAO INTELIGENTE ( SMART CARD )",
+    "grupo": 70
+  },
+  {
+    "id": 12653,
+    "pdm": "TERMINAL DE VIDEO",
+    "grupo": 70
+  },
+  {
+    "id": 12656,
+    "pdm": "TERMINAL GRAFICO DE PROCESSAMENTO DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": 12657,
+    "pdm": "ACIONADOR SENHA",
+    "grupo": 70
+  },
+  {
+    "id": 12754,
+    "pdm": "CARTUCHO TINTA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 12854,
+    "pdm": "FOTOPLOTER DIGITAL",
+    "grupo": 70
+  },
+  {
+    "id": 13153,
+    "pdm": "UNIDADE ARITIMETICA",
+    "grupo": 70
+  },
+  {
+    "id": 13154,
+    "pdm": "PEÇA/ACESSÓRIO/SUPRIMENTO ETIQUETADORA",
+    "grupo": 70
+  },
+  {
+    "id": 13156,
+    "pdm": "UNIDADE CENTRAL DE PROCESSAMENTO ( CPU )",
+    "grupo": 70
+  },
+  {
+    "id": 13164,
+    "pdm": "UNIDADE CD-ROM",
+    "grupo": 70
+  },
+  {
+    "id": 13165,
+    "pdm": "UNIDADE DE COMANDO",
+    "grupo": 70
+  },
+  {
+    "id": 13167,
+    "pdm": "MICROCOMPUTADOR PESSOAL NETBOOK",
+    "grupo": 70
+  },
+  {
+    "id": 13168,
+    "pdm": "UNIDADE DE CONTROLE DE FITA MAGNETICA",
+    "grupo": 70
+  },
+  {
+    "id": 13169,
+    "pdm": "UNIDADE LASER",
+    "grupo": 70
+  },
+  {
+    "id": 13171,
+    "pdm": "UNIDADE FITA MAGNETICA",
+    "grupo": 70
+  },
+  {
+    "id": 13172,
+    "pdm": "MÁQUINA ETIQUETADORA",
+    "grupo": 70
+  },
+  {
+    "id": 13173,
+    "pdm": "UNIDADE DE FITA MAGNETICA EM CARTUCHO",
+    "grupo": 70
+  },
+  {
+    "id": 13174,
+    "pdm": "UNIDADE DE GRAVAÇÃO EXTERNA / INTERNA",
+    "grupo": 70
+  },
+  {
+    "id": 13175,
+    "pdm": "UNIDADE DE LIMPEZA FITA MAGNETICA",
+    "grupo": 70
+  },
+  {
+    "id": 13182,
+    "pdm": "UNIDADE GRAVADORA CD / DVD",
+    "grupo": 70
+  },
+  {
+    "id": 13240,
+    "pdm": "VALIDADOR ELETRONICO DE BILHETE",
+    "grupo": 70
+  },
+  {
+    "id": 13509,
+    "pdm": "APAGADOR MEMÓRIA",
+    "grupo": 70
+  },
+  {
+    "id": 13510,
+    "pdm": "ACESSORIO DE CONTROLE DE CPU",
+    "grupo": 70
+  },
+  {
+    "id": 13560,
+    "pdm": "EQUIPAMENTO ELETRONICO DE DISTRIBUICAO DE DADOS ( REDE DE MICRO - HUB )",
+    "grupo": 70
+  },
+  {
+    "id": 13576,
+    "pdm": "IMPRESSORA - MATRICIAL ( IMPACTO ) / COMPONENTES",
+    "grupo": 70
+  },
+  {
+    "id": 13577,
+    "pdm": "ACESSÓRIO IMPRESSORA JATO DE TINTA",
+    "grupo": 70
+  },
+  {
+    "id": 13578,
+    "pdm": "IMPRESSORA / COMPONENTE - LASER",
+    "grupo": 70
+  },
+  {
+    "id": 13598,
+    "pdm": "ACESSÓRIO / COMPONENTE PARA MICROCOMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": 13649,
+    "pdm": "UNIDADE RESPOSTA AUDÍVEL - URA",
+    "grupo": 70
+  },
+  {
+    "id": 13687,
+    "pdm": "COLETOR DADOS",
+    "grupo": 70
+  },
+  {
+    "id": 13811,
+    "pdm": "COMPUTADOR - ESTAÇÃO TRABALHO",
+    "grupo": 70
+  },
+  {
+    "id": 13816,
+    "pdm": "CARTUCHO TINTA IMPRESSORA EPSON",
+    "grupo": 70
+  },
+  {
+    "id": 13818,
+    "pdm": "CARTUCHO TINTA IMPRESSORA HP",
+    "grupo": 70
+  },
+  {
+    "id": 13819,
+    "pdm": "CARTUCHO TINTA IMPRESSORA LEXMARK",
+    "grupo": 70
+  },
+  {
+    "id": 13820,
+    "pdm": "CARTUCHO TINTA IMPRESSORA CANON",
+    "grupo": 70
+  },
+  {
+    "id": 13822,
+    "pdm": "CARTUCHO TINTA IMPRESSORA XEROX",
+    "grupo": 70
+  },
+  {
+    "id": 13825,
+    "pdm": "CARTUCHO TONER IMPRESSORA EPSON",
+    "grupo": 70
+  },
+  {
+    "id": 13826,
+    "pdm": "CARTUCHO TONER IMPRESSORA / COPIADORA XEROX",
+    "grupo": 70
+  },
+  {
+    "id": 13828,
+    "pdm": "CARTUCHO TONER IMPRESSORA LEXMARK",
+    "grupo": 70
+  },
+  {
+    "id": 13832,
+    "pdm": "DRIVE FITA",
+    "grupo": 70
+  },
+  {
+    "id": 13833,
+    "pdm": "ROLO FUSOR",
+    "grupo": 70
+  },
+  {
+    "id": 13836,
+    "pdm": "EQUIPAMENTO VIDEOCONFERÊNCIA",
+    "grupo": 70
+  },
+  {
+    "id": 13837,
+    "pdm": "CARTUCHO TONER IMPRESSORA OKIDATA",
+    "grupo": 70
+  },
+  {
+    "id": 13853,
+    "pdm": "CARTUCHO TONER IMPRESSORA HP",
+    "grupo": 70
+  },
+  {
+    "id": 13854,
+    "pdm": "CABEÇA IMPRESSÃO FAX",
+    "grupo": 70
+  },
+  {
+    "id": 13855,
+    "pdm": "CARTUCHO TONER IMPRESSORA IBM",
+    "grupo": 70
+  },
+  {
+    "id": 13857,
+    "pdm": "VENTILADOR",
+    "grupo": 70
+  },
+  {
+    "id": 13862,
+    "pdm": "CARTUCHO TONER IMPRESSORA/COPIADORA KYOCERA",
+    "grupo": 70
+  },
+  {
+    "id": 13863,
+    "pdm": "CONJUNTO IMAGEM",
+    "grupo": 70
+  },
+  {
+    "id": 13875,
+    "pdm": "CARTUCHO TINTA IMPRESSORA TEKTRONIX",
+    "grupo": 70
+  },
+  {
+    "id": 13876,
+    "pdm": "BASTÃO CERA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 13891,
+    "pdm": "CARTUCHO TINTA IMPRESSORA OLIVETTI",
+    "grupo": 70
+  },
+  {
+    "id": 13921,
+    "pdm": "CONJUNTO CAPAS PROTETORAS",
+    "grupo": 70
+  },
+  {
+    "id": 13925,
+    "pdm": "CARTUCHO TONER IMPRESSORA UNISYS",
+    "grupo": 70
+  },
+  {
+    "id": 13941,
+    "pdm": "CARTUCHO TONER IMPRESSORA MINOLTA",
+    "grupo": 70
+  },
+  {
+    "id": 13943,
+    "pdm": "ÓLEO FUSOR - CILINDRO",
+    "grupo": 70
+  },
+  {
+    "id": 13952,
+    "pdm": "CARTUCHO TONER COPIADORA MINOLTA",
+    "grupo": 70
+  },
+  {
+    "id": 13991,
+    "pdm": "CARTÃO REDE",
+    "grupo": 70
+  },
+  {
+    "id": 13992,
+    "pdm": "FITA ENCADERNAÇÃO",
+    "grupo": 70
+  },
+  {
+    "id": 13993,
+    "pdm": "COMPARTILHADOR CPU",
+    "grupo": 70
+  },
+  {
+    "id": 14007,
+    "pdm": "CARTUCHO TONER IMPRESSORA / COPIADORA SHARP",
+    "grupo": 70
+  },
+  {
+    "id": 14009,
+    "pdm": "GAVETA DISCO RÍGIDO",
+    "grupo": 70
+  },
+  {
+    "id": 14018,
+    "pdm": "PLACA SOM MICROCOMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": 14019,
+    "pdm": "CARTUCHO TONER IMPRESSORA TEKTRONIX PHASER",
+    "grupo": 70
+  },
+  {
+    "id": 14050,
+    "pdm": "CARTUCHO TONER COPIADORA CANON",
+    "grupo": 70
+  },
+  {
+    "id": 14051,
+    "pdm": "CARTUCHO TONER IMPRESSORA APPLE",
+    "grupo": 70
+  },
+  {
+    "id": 14058,
+    "pdm": "FITA GRAVAÇÃO DADOS (DLT)",
+    "grupo": 70
+  },
+  {
+    "id": 14077,
+    "pdm": "CARTUCHO TONER COPIADORA / IMPRESSORA TOSHIBA",
+    "grupo": 70
+  },
+  {
+    "id": 14081,
+    "pdm": "MODEM ROTEADOR",
+    "grupo": 70
+  },
+  {
+    "id": 14148,
+    "pdm": "PLACA MÃE",
+    "grupo": 70
+  },
+  {
+    "id": 14149,
+    "pdm": "DRIVE DISQUETE",
+    "grupo": 70
+  },
+  {
+    "id": 14153,
+    "pdm": "ZIP DRIVE",
+    "grupo": 70
+  },
+  {
+    "id": 14176,
+    "pdm": "MICROCOMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": 14177,
+    "pdm": "COMUTADOR REDE",
+    "grupo": 70
+  },
+  {
+    "id": 14232,
+    "pdm": "DISCO COMPACTO GRAVADO",
+    "grupo": 70
+  },
+  {
+    "id": 14249,
+    "pdm": "CAIXA SOM",
+    "grupo": 70
+  },
+  {
+    "id": 14251,
+    "pdm": "FONTE ALIMENTAÇÃO PARA HUB",
+    "grupo": 70
+  },
+  {
+    "id": 14256,
+    "pdm": "PENTE DE MEMÓRIA",
+    "grupo": 70
+  },
+  {
+    "id": 14257,
+    "pdm": "CABO PARA MODEM",
+    "grupo": 70
+  },
+  {
+    "id": 14258,
+    "pdm": "CARTUCHO TONER IMPRESSORA / COPIADORA RICOH",
+    "grupo": 70
+  },
+  {
+    "id": 14259,
+    "pdm": "FONTE ALIMENTAÇÃO PARA MODEM",
+    "grupo": 70
+  },
+  {
+    "id": 14268,
+    "pdm": "MICROCHIP",
+    "grupo": 70
+  },
+  {
+    "id": 14300,
+    "pdm": "GABINETE PARA COMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": 14310,
+    "pdm": "DRIVE CD ROM",
+    "grupo": 70
+  },
+  {
+    "id": 14311,
+    "pdm": "UNIDADE DE TRANSFERÊNCIA",
+    "grupo": 70
+  },
+  {
+    "id": 14360,
+    "pdm": "CÂMARA DE VÍDEO",
+    "grupo": 70
+  },
+  {
+    "id": 14366,
+    "pdm": "LOMBADA ENCADERNADORA",
+    "grupo": 70
+  },
+  {
+    "id": 14381,
+    "pdm": "DISPOSITIVO ARMAZENAMENTO FITA",
+    "grupo": 70
+  },
+  {
+    "id": 14388,
+    "pdm": "MONITOR CRISTAL LÍQUIDO",
+    "grupo": 70
+  },
+  {
+    "id": 14420,
+    "pdm": "DIGITALIZADOR DE IMAGEM",
+    "grupo": 70
+  },
+  {
+    "id": 14426,
+    "pdm": "CARTUCHO TONER IMPRESSORA BROTHER",
+    "grupo": 70
+  },
+  {
+    "id": 14431,
+    "pdm": "PROCESSADOR",
+    "grupo": 70
+  },
+  {
+    "id": 14432,
+    "pdm": "FOTO REVELADOR",
+    "grupo": 70
+  },
+  {
+    "id": 14434,
+    "pdm": "ROLO LIMPADOR FUSOR",
+    "grupo": 70
+  },
+  {
+    "id": 14465,
+    "pdm": "COLAR FOTOCOPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 14466,
+    "pdm": "PLACA PARA COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 14503,
+    "pdm": "DISSIPADOR CALOR PROCESSADOR (COOLER)",
+    "grupo": 70
+  },
+  {
+    "id": 14524,
+    "pdm": "CARTUCHO TONER / REVELADOR COPIADORA GESTETNER",
+    "grupo": 70
+  },
+  {
+    "id": 14531,
+    "pdm": "CARTUCHO TONER IMPRESSORA / COPIADORA OLIVETTI",
+    "grupo": 70
+  },
+  {
+    "id": 14540,
+    "pdm": "CARTUCHO TINTA DUPLICADOR DIGITAL GESTETNER",
+    "grupo": 70
+  },
+  {
+    "id": 14555,
+    "pdm": "SOLUÇÃO FONTE",
+    "grupo": 70
+  },
+  {
+    "id": 14557,
+    "pdm": "CARTUCHO TONER / REVELADOR COPIADORA MITA",
+    "grupo": 70
+  },
+  {
+    "id": 14610,
+    "pdm": "ANALISADOR CABEAMENTO REDE",
+    "grupo": 70
+  },
+  {
+    "id": 14624,
+    "pdm": "GUIA BANDEJA MANUTENÇÃO",
+    "grupo": 70
+  },
+  {
+    "id": 14641,
+    "pdm": "FUSOR",
+    "grupo": 70
+  },
+  {
+    "id": 14676,
+    "pdm": "ALETA SAÍDA PAPEL IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 14697,
+    "pdm": "CÂMERA WEB",
+    "grupo": 70
+  },
+  {
+    "id": 14755,
+    "pdm": "ORGANIZADOR CABOS",
+    "grupo": 70
+  },
+  {
+    "id": 14786,
+    "pdm": "MICROCOMPUTADOR PRODUÇÃO",
+    "grupo": 70
+  },
+  {
+    "id": 14791,
+    "pdm": "FLAT CABLE",
+    "grupo": 70
+  },
+  {
+    "id": 14796,
+    "pdm": "MICROCOMPUTADOR PESSOAL - HANDHELD",
+    "grupo": 70
+  },
+  {
+    "id": 14805,
+    "pdm": "PLACA CAPTURA VÍDEO",
+    "grupo": 70
+  },
+  {
+    "id": 14811,
+    "pdm": "SERVIDOR ARQUIVO",
+    "grupo": 70
+  },
+  {
+    "id": 14820,
+    "pdm": "CAIXA MODULAR MONTAGEM SUPERFICIE",
+    "grupo": 70
+  },
+  {
+    "id": 14826,
+    "pdm": "UNIDADE CD RW",
+    "grupo": 70
+  },
+  {
+    "id": 14829,
+    "pdm": "MEMÓRIA PORTÁTIL MICROCOMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": 14834,
+    "pdm": "TOMADA HD",
+    "grupo": 70
+  },
+  {
+    "id": 14891,
+    "pdm": "CONJUNTO FUSOR COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 14905,
+    "pdm": "CARTUCHO TONER FOTOCOPIADORA KONICA",
+    "grupo": 70
+  },
+  {
+    "id": 14927,
+    "pdm": "UNIDADE IMAGEM",
+    "grupo": 70
+  },
+  {
+    "id": 15024,
+    "pdm": "FITA DETECÇÃO MAGNÉTICA",
+    "grupo": 70
+  },
+  {
+    "id": 15035,
+    "pdm": "CABO PARALELO",
+    "grupo": 70
+  },
+  {
+    "id": 15036,
+    "pdm": "CABO USB",
+    "grupo": 70
+  },
+  {
+    "id": 15042,
+    "pdm": "PLACA CAPTURA IMAGEM TV",
+    "grupo": 70
+  },
+  {
+    "id": 15080,
+    "pdm": "PROTETOR TELA MICROCOMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": 15089,
+    "pdm": "CONJUNTO COMPUTACIONAL INTEGRADO",
+    "grupo": 70
+  },
+  {
+    "id": 15111,
+    "pdm": "CONJUNTO CONTROLE ACESSO PESSOAL",
+    "grupo": 70
+  },
+  {
+    "id": 15129,
+    "pdm": "ROLO REVESTIMENTO PARA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 15145,
+    "pdm": "PLACA CONTROLADORA",
+    "grupo": 70
+  },
+  {
+    "id": 15148,
+    "pdm": "TOMADA DUPLICADORA PONTO",
+    "grupo": 70
+  },
+  {
+    "id": 15149,
+    "pdm": "TOMADA EMENDA",
+    "grupo": 70
+  },
+  {
+    "id": 15152,
+    "pdm": "CARTUCHO TONER IMPRESSORA DIGITAL XEIKON",
+    "grupo": 70
+  },
+  {
+    "id": 15154,
+    "pdm": "TRAVA SEGURANÇA",
+    "grupo": 70
+  },
+  {
+    "id": 15185,
+    "pdm": "GRAVADOR CD-ROM / DVD",
+    "grupo": 70
+  },
+  {
+    "id": 15186,
+    "pdm": "IMPRESSORA ESTAMPADORA CD",
+    "grupo": 70
+  },
+  {
+    "id": 15218,
+    "pdm": "APLLIANCE FIREWALL",
+    "grupo": 70
+  },
+  {
+    "id": 15256,
+    "pdm": "MECANISMO TRAÇÃO PAPEL IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 15258,
+    "pdm": "PLACA LÓGICA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 15260,
+    "pdm": "CARTUCHO TONER COPIADORA ALOS",
+    "grupo": 70
+  },
+  {
+    "id": 15287,
+    "pdm": "IMPRESSORA MONOCROMÁTICA",
+    "grupo": 70
+  },
+  {
+    "id": 15302,
+    "pdm": "CONJUNTO ENTINTADOR",
+    "grupo": 70
+  },
+  {
+    "id": 15313,
+    "pdm": "PROGRAMA (SOFTWARE) - SISTEMA MODELAGEM MOLECULAR",
+    "grupo": 70
+  },
+  {
+    "id": 15332,
+    "pdm": "FOTORRECEPTOR IMPRESSORA / COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 15347,
+    "pdm": "CONJUNTO DIDÁTICO MICROPROCESSADOR",
+    "grupo": 70
+  },
+  {
+    "id": 15358,
+    "pdm": "GUIA DESPRENDEDOR PAPEL",
+    "grupo": 70
+  },
+  {
+    "id": 15359,
+    "pdm": "DESPRENDEDOR PAPEL IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 15378,
+    "pdm": "COLETOR TONER",
+    "grupo": 70
+  },
+  {
+    "id": 15390,
+    "pdm": "COLARES DE CILINDRO PARA MÁQUINA COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 15410,
+    "pdm": "ADAPTADOR CONECTOR",
+    "grupo": 70
+  },
+  {
+    "id": 15412,
+    "pdm": "PLACA CONTROLADORA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 15417,
+    "pdm": "TELA ANTI-REFLEXIVA",
+    "grupo": 70
+  },
+  {
+    "id": 15444,
+    "pdm": "CONJUNTO CARTUCHO TONER IMPRESSORA / COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 15478,
+    "pdm": "CARTUCHO DE TINTA PARA PLOTTER",
+    "grupo": 70
+  },
+  {
+    "id": 15573,
+    "pdm": "CARTUCHO TONER COPIADORA TRIUNFO",
+    "grupo": 70
+  },
+  {
+    "id": 15597,
+    "pdm": "CARTUCHO TONER",
+    "grupo": 70
+  },
+  {
+    "id": 15615,
+    "pdm": "CONJUNTO TRANSPARÊNCIA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 15629,
+    "pdm": "PLACA DIGITALIZADORA",
+    "grupo": 70
+  },
+  {
+    "id": 15689,
+    "pdm": "CARTUCHO TINTA IMPRESSORA PRIMERA TECHNOLOGY",
+    "grupo": 70
+  },
+  {
+    "id": 15701,
+    "pdm": "CONJUNTO SUPRIMENTO IMPRESSORA LASER",
+    "grupo": 70
+  },
+  {
+    "id": 15712,
+    "pdm": "PASSA CABOS PARA RACK",
+    "grupo": 70
+  },
+  {
+    "id": 15714,
+    "pdm": "SOFTWARE ANÁLISE VOZ",
+    "grupo": 70
+  },
+  {
+    "id": 15730,
+    "pdm": "FELTRO DE IMPRESSÃO",
+    "grupo": 70
+  },
+  {
+    "id": 15741,
+    "pdm": "FITA LIMPEZA IMPRESSORA MICROCOMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": 15758,
+    "pdm": "PLACA SEPARADORA PAPEL",
+    "grupo": 70
+  },
+  {
+    "id": 15759,
+    "pdm": "ESTEIRA PARA MAQUINA FOTOCOPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 15760,
+    "pdm": "SUPORTE PARA MAQUINA FOTOCOPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 15766,
+    "pdm": "EQUIPAMENTO WIRELESS",
+    "grupo": 70
+  },
+  {
+    "id": 15771,
+    "pdm": "SENSOR PARA MÁQUINA FOTOCOPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 15778,
+    "pdm": "CORREIA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 15784,
+    "pdm": "ESTEIRA PARA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 15821,
+    "pdm": "BASE DE SUSTENTAÇÃO DO ROLO DE PRESSÃO",
+    "grupo": 70
+  },
+  {
+    "id": 15822,
+    "pdm": "PLACA ROTEADOR",
+    "grupo": 70
+  },
+  {
+    "id": 15825,
+    "pdm": "EQUIPAMENTO DISTRIBUIÇÃO CABOS",
+    "grupo": 70
+  },
+  {
+    "id": 15831,
+    "pdm": "CARTUCHO TONER IMPRESSORA TALLY",
+    "grupo": 70
+  },
+  {
+    "id": 15836,
+    "pdm": "CARTUCHO TINTA IMPRESSORA ENCAD",
+    "grupo": 70
+  },
+  {
+    "id": 15844,
+    "pdm": "CARTUCHO TINTA IMPRESSORA RIMA",
+    "grupo": 70
+  },
+  {
+    "id": 15845,
+    "pdm": "ROLO PRESSÃO PARA COPIADORA / IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 15879,
+    "pdm": "MEMÓRIA FLASH",
+    "grupo": 70
+  },
+  {
+    "id": 15895,
+    "pdm": "PLACA SWITCH",
+    "grupo": 70
+  },
+  {
+    "id": 15899,
+    "pdm": "MÓDULO MEMÓRIA",
+    "grupo": 70
+  },
+  {
+    "id": 15913,
+    "pdm": "LÂMINA LIMPEZA COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 15940,
+    "pdm": "DRIVE DVD ROM",
+    "grupo": 70
+  },
+  {
+    "id": 15941,
+    "pdm": "CARTUCHO TINTA COPIADORA RISOGRAPH",
+    "grupo": 70
+  },
+  {
+    "id": 15949,
+    "pdm": "CABO SCSI",
+    "grupo": 70
+  },
+  {
+    "id": 15951,
+    "pdm": "SOUND BLASTER",
+    "grupo": 70
+  },
+  {
+    "id": 16011,
+    "pdm": "PLACA PABX",
+    "grupo": 70
+  },
+  {
+    "id": 16033,
+    "pdm": "UNHA SEPARAÇÃO FUSOR COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 16035,
+    "pdm": "ROLO REVELAÇÃO COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 16037,
+    "pdm": "TERMISTOR COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 16038,
+    "pdm": "ROLO LIMPADOR COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 16074,
+    "pdm": "CABO KVM",
+    "grupo": 70
+  },
+  {
+    "id": 16094,
+    "pdm": "TRANSFORMADOR SAÍDA HORIZONTAL",
+    "grupo": 70
+  },
+  {
+    "id": 16102,
+    "pdm": "MÓDULO IMPRESSÃO",
+    "grupo": 70
+  },
+  {
+    "id": 16125,
+    "pdm": "CILINDRO LEITOR COPIADOR",
+    "grupo": 70
+  },
+  {
+    "id": 16140,
+    "pdm": "DISCO COMPACTO CARD",
+    "grupo": 70
+  },
+  {
+    "id": 16158,
+    "pdm": "PATCH PANEL",
+    "grupo": 70
+  },
+  {
+    "id": 16244,
+    "pdm": "TAMPA NOTEBOOK",
+    "grupo": 70
+  },
+  {
+    "id": 16253,
+    "pdm": "SELETOR / DISTRIBUIDOR VÍDEO",
+    "grupo": 70
+  },
+  {
+    "id": 16271,
+    "pdm": "TESTADOR ELETRÔNICO CARTUCHO",
+    "grupo": 70
+  },
+  {
+    "id": 16298,
+    "pdm": "BANDEJA FOTOCOPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 16316,
+    "pdm": "REPARO FOTOCOPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 16366,
+    "pdm": "CD GRAVADO",
+    "grupo": 70
+  },
+  {
+    "id": 16371,
+    "pdm": "PAD BOLSO",
+    "grupo": 70
+  },
+  {
+    "id": 16374,
+    "pdm": "PLACA PERIFÉRICA",
+    "grupo": 70
+  },
+  {
+    "id": 16382,
+    "pdm": "PLACA ADAPTADORA",
+    "grupo": 70
+  },
+  {
+    "id": 16383,
+    "pdm": "CARTÃO ADAPTADOR",
+    "grupo": 70
+  },
+  {
+    "id": 16386,
+    "pdm": "SOFTWARE RECONHECIMENTO VOZ",
+    "grupo": 70
+  },
+  {
+    "id": 16415,
+    "pdm": "FONTE ESTAÇÃO TRABALHO",
+    "grupo": 70
+  },
+  {
+    "id": 16431,
+    "pdm": "SOFTWARE APLICATIVO",
+    "grupo": 70
+  },
+  {
+    "id": 16452,
+    "pdm": "CARTUCHO TINTA IMPRESSORA CITIZEN",
+    "grupo": 70
+  },
+  {
+    "id": 16518,
+    "pdm": "CARTUCHO TONER IMPRESSORA NASHUA",
+    "grupo": 70
+  },
+  {
+    "id": 16521,
+    "pdm": "CONJUNTO TAMBOR IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 16523,
+    "pdm": "CONJUNTO TRANSFERÊNCIA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 16524,
+    "pdm": "CONJUNTO FUSOR IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 16530,
+    "pdm": "APARELHO MULTIFUNÇÃO(FAC-SÍMILE,COPIADOR",
+    "grupo": 70
+  },
+  {
+    "id": 16534,
+    "pdm": "IMPRESSORA ETIQUETA",
+    "grupo": 70
+  },
+  {
+    "id": 16564,
+    "pdm": "CARTUCHO TINTA IMPRESSORA BROTHER",
+    "grupo": 70
+  },
+  {
+    "id": 16602,
+    "pdm": "CABEÇA MAGNÉTICA",
+    "grupo": 70
+  },
+  {
+    "id": 16603,
+    "pdm": "PLACA DRIVE",
+    "grupo": 70
+  },
+  {
+    "id": 16619,
+    "pdm": "BLOCO FRONTAL COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 16620,
+    "pdm": "BLOCO DE CORONA COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 16621,
+    "pdm": "TERMOFUSE COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 16622,
+    "pdm": "CABO EXTENSOR MOUSE",
+    "grupo": 70
+  },
+  {
+    "id": 16628,
+    "pdm": "ENGRENAGEM ROLO FUSOR COPIADORA / IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 16629,
+    "pdm": "BUCHA ROLO FUSOR",
+    "grupo": 70
+  },
+  {
+    "id": 16641,
+    "pdm": "UNIDADE DE VENTILAÇÃO",
+    "grupo": 70
+  },
+  {
+    "id": 17185,
+    "pdm": "EQUIPAMENTOS DE ENTRADA E SAIDA DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": 17186,
+    "pdm": "GRUPO DE DISPOSITIVOS FUNCIONANDO COMO UM SISTEMA",
+    "grupo": 70
+  },
+  {
+    "id": 17187,
+    "pdm": "EQUIPAMENTOS DE APOIO",
+    "grupo": 70
+  },
+  {
+    "id": 17188,
+    "pdm": "UNIDADES CENTRAIS DE PROCESSAMENTO DE DADOS ANALÓGICOS",
+    "grupo": 70
+  },
+  {
+    "id": 17189,
+    "pdm": "UNIDADES CENTRAIS DE PROCESSAMENTO DIGITAIS",
+    "grupo": 70
+  },
+  {
+    "id": 17190,
+    "pdm": "UNIDADES CENTRAIS DE PROCESSAMENTO HÍBRIDAS",
+    "grupo": 70
+  },
+  {
+    "id": 17191,
+    "pdm": "UNIDADES DE ARMAZENAMENTO DE ENTRADA E SAÍDA DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": 17192,
+    "pdm": "SOFTWARE DE PROCESSAMENTO AUTOMÁTICO DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": 17194,
+    "pdm": "EQUIPAMENTOS PARA PERFURAÇÃO DE CARTÕES",
+    "grupo": 70
+  },
+  {
+    "id": 17195,
+    "pdm": "DISPOSITIVOS PARA CONTROLE DE MINI E MICROCOMPUTADORES",
+    "grupo": 70
+  },
+  {
+    "id": 17196,
+    "pdm": "ARTIGOS DIVERSOS PARA UM PROCESSAMENTO AUTOMÁTICO DE DADOS(PAD)",
+    "grupo": 70
+  },
+  {
+    "id": 17197,
+    "pdm": "COMPONENTES PARA PROCESSAMENTO AUTOMÁTICO DE DADOS",
+    "grupo": 70
+  },
+  {
+    "id": 17369,
+    "pdm": "BASE LEITORA CÓDIGO BARRA",
+    "grupo": 70
+  },
+  {
+    "id": 17458,
+    "pdm": "CINTA DE TRANSFERÊNCIA",
+    "grupo": 70
+  },
+  {
+    "id": 17502,
+    "pdm": "CONJUNTO IMPRESSÃO",
+    "grupo": 70
+  },
+  {
+    "id": 17541,
+    "pdm": "CARTUCHO TONER IMPRESSORA/COPIADORA 3M",
+    "grupo": 70
+  },
+  {
+    "id": 17613,
+    "pdm": "CONJUNTO EMBREAGEM",
+    "grupo": 70
+  },
+  {
+    "id": 17620,
+    "pdm": "CARTUCHO TINTA IMPRESSORA APOLLO",
+    "grupo": 70
+  },
+  {
+    "id": 17629,
+    "pdm": "ROLO GUIA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 17630,
+    "pdm": "MOLA IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 17633,
+    "pdm": "GRADE DE POLARIZAÇÃO",
+    "grupo": 70
+  },
+  {
+    "id": 17644,
+    "pdm": "CABO BLINDADO",
+    "grupo": 70
+  },
+  {
+    "id": 17652,
+    "pdm": "SERVIDOR APLICATIVO",
+    "grupo": 70
+  },
+  {
+    "id": 17653,
+    "pdm": "DISCO RÍGIDO REMOVÍVEL",
+    "grupo": 70
+  },
+  {
+    "id": 17662,
+    "pdm": "PLACA AQUISIÇÃO DE SINAIS",
+    "grupo": 70
+  },
+  {
+    "id": 17697,
+    "pdm": "MÓDULO DE ENTRADA DE SINAL",
+    "grupo": 70
+  },
+  {
+    "id": 17703,
+    "pdm": "ROLO ALIMENTADOR MÁQUINA COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 17762,
+    "pdm": "CONJUNTO ATUALIZAÇÃO MICROCOMPUTADOR",
+    "grupo": 70
+  },
+  {
+    "id": 17789,
+    "pdm": "CANETA MEMÓRIA",
+    "grupo": 70
+  },
+  {
+    "id": 17877,
+    "pdm": "RETENTOR UNIDADE REVELADORA",
+    "grupo": 70
+  },
+  {
+    "id": 17881,
+    "pdm": "UNIDADE DUPLEXADORA",
+    "grupo": 70
+  },
+  {
+    "id": 17890,
+    "pdm": "DIVISOR RF",
+    "grupo": 70
+  },
+  {
+    "id": 18048,
+    "pdm": "CARTUCHO DE TINTA",
+    "grupo": 70
+  },
+  {
+    "id": 18053,
+    "pdm": "MONITOR PARA AUTOMÓVEL",
+    "grupo": 70
+  },
+  {
+    "id": 18222,
+    "pdm": "RECARGA COPIADORA / IMPRESSORA",
+    "grupo": 70
+  },
+  {
+    "id": 18312,
+    "pdm": "CARTUCHO TINTA IMPRESSORA BEMATECH",
+    "grupo": 70
+  },
+  {
+    "id": 18339,
+    "pdm": "CARTUCHO TONER IMPRESSORA GENICOM",
+    "grupo": 70
+  },
+  {
+    "id": 18358,
+    "pdm": "CARTUCHO TONER IMPRESSORA SAMSUNG",
+    "grupo": 70
+  },
+  {
+    "id": 18374,
+    "pdm": "FIREWALL",
+    "grupo": 70
+  },
+  {
+    "id": 18378,
+    "pdm": "FIO MÚSCULO",
+    "grupo": 70
+  },
+  {
+    "id": 18382,
+    "pdm": "CILINDRO FOTOCONDUTOR",
+    "grupo": 70
+  },
+  {
+    "id": 18416,
+    "pdm": "DISPENSADOR DE SENHAS",
+    "grupo": 70
+  },
+  {
+    "id": 18439,
+    "pdm": "CARTUCHO TONER IMPRESSORA CANON",
+    "grupo": 70
+  },
+  {
+    "id": 18473,
+    "pdm": "CONJUNTO AQUECIMENTO COPIADORA",
+    "grupo": 70
+  },
+  {
+    "id": 18510,
+    "pdm": "GABINETE PROTEÇÃO CÂMERA",
+    "grupo": 70
+  },
+  {
+    "id": 18511,
+    "pdm": "SUPORTE DE PAREDE PARA CÂMERA",
+    "grupo": 70
+  },
+  {
+    "id": 18551,
+    "pdm": "CALIBRADOR",
+    "grupo": 70
+  },
+  {
+    "id": 18691,
+    "pdm": "CARTUCHO TINTA IMPRESSORA MITSUBISHI",
+    "grupo": 70
+  },
+  {
+    "id": 18753,
+    "pdm": "CARTUCHO TONER FAC-SÍMILE",
+    "grupo": 70
+  },
+  {
+    "id": 19049,
+    "pdm": "COMPARTIMENTO TONER REFUGADO",
+    "grupo": 70
+  },
+  {
+    "id": 19071,
+    "pdm": "CARTUCHO TONER IMPRESSORA OCÉ",
+    "grupo": 70
+  },
+  {
+    "id": 19085,
+    "pdm": "CARTUCHO TONER IMPRESSORA XANTÉ",
+    "grupo": 70
+  },
+  {
+    "id": 19246,
+    "pdm": "TABLET",
+    "grupo": 70
+  },
+  {
+    "id": 19474,
+    "pdm": "LEITOR DE LIVRO DIGITAL",
+    "grupo": 70
+  }
+]

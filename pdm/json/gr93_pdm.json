@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "00023",
+    "pdm": "PAPEL IMPRESSÃO",
+    "grupo": 93
+  },
+  {
+    "id": "00030",
+    "pdm": "PAPEL BOBINADO",
+    "grupo": 93
+  },
+  {
+    "id": "00048",
+    "pdm": "PAPEL COUCHÊ",
+    "grupo": 93
+  },
+  {
+    "id": "00049",
+    "pdm": "PAPEL VEGETAL",
+    "grupo": 93
+  },
+  {
+    "id": "00050",
+    "pdm": "PAPEL VERGÊ",
+    "grupo": 93
+  },
+  {
+    "id": "00055",
+    "pdm": "LENÇOL BORRACHA",
+    "grupo": 93
+  },
+  {
+    "id": "00058",
+    "pdm": "PLACA ACRÍLICA",
+    "grupo": 93
+  },
+  {
+    "id": "00064",
+    "pdm": "PAPEL APERGAMINHADO",
+    "grupo": 93
+  },
+  {
+    "id": "00065",
+    "pdm": "PAPEL SULFITE",
+    "grupo": 93
+  },
+  {
+    "id": "00125",
+    "pdm": "PAPEL JORNAL",
+    "grupo": 93
+  },
+  {
+    "id": "00129",
+    "pdm": "PAPEL COLOR PLUS",
+    "grupo": 93
+  },
+  {
+    "id": "00130",
+    "pdm": "PAPEL SEDA",
+    "grupo": 93
+  },
+  {
+    "id": "00132",
+    "pdm": "PAPEL LUMIPAPER FLUORESCENTE",
+    "grupo": 93
+  },
+  {
+    "id": "00133",
+    "pdm": "PAPEL DUPLICOLOR",
+    "grupo": 93
+  },
+  {
+    "id": "00145",
+    "pdm": "PAPEL CARTÃO",
+    "grupo": 93
+  },
+  {
+    "id": "00157",
+    "pdm": "PAPEL ELETROSSENSIBILIZADO",
+    "grupo": 93
+  },
+  {
+    "id": "00160",
+    "pdm": "CARTÃO BRISTOL",
+    "grupo": 93
+  },
+  {
+    "id": "00164",
+    "pdm": "PAPEL JORNAL PARDO",
+    "grupo": 93
+  },
+  {
+    "id": "00165",
+    "pdm": "PAPEL OFSETE RECICLADO",
+    "grupo": 93
+  },
+  {
+    "id": "00166",
+    "pdm": "PAPEL WESTERPRINT TELADO",
+    "grupo": 93
+  },
+  {
+    "id": "00167",
+    "pdm": "PAPEL SUPREMO",
+    "grupo": 93
+  },
+  {
+    "id": "00168",
+    "pdm": "PAPEL OFSETE",
+    "grupo": 93
+  },
+  {
+    "id": "00170",
+    "pdm": "PAPEL OPALINE",
+    "grupo": 93
+  },
+  {
+    "id": "00172",
+    "pdm": "CARTOLINA",
+    "grupo": 93
+  },
+  {
+    "id": "00188",
+    "pdm": "PAPEL DEBRÊ",
+    "grupo": 93
+  },
+  {
+    "id": "00189",
+    "pdm": "PAPEL KRAFT",
+    "grupo": 93
+  },
+  {
+    "id": "00190",
+    "pdm": "PAPEL MONOLÚCIDO",
+    "grupo": 93
+  },
+  {
+    "id": "00191",
+    "pdm": "PAPEL MANTEIGA",
+    "grupo": 93
+  },
+  {
+    "id": "00513",
+    "pdm": "ROLHA BORRACHA",
+    "grupo": 93
+  },
+  {
+    "id": "00670",
+    "pdm": "TELA",
+    "grupo": 93
+  },
+  {
+    "id": "01169",
+    "pdm": "LACRE MALOTE",
+    "grupo": 93
+  },
+  {
+    "id": "02055",
+    "pdm": "MÓDULO VEDAÇÃO",
+    "grupo": 93
+  },
+  {
+    "id": "02985",
+    "pdm": "ARGAMASSA REFRATARIA",
+    "grupo": 93
+  },
+  {
+    "id": "03062",
+    "pdm": "ISOLAMENTO TÉRMICO",
+    "grupo": 93
+  },
+  {
+    "id": "03064",
+    "pdm": "ESFERA",
+    "grupo": 93
+  },
+  {
+    "id": "03066",
+    "pdm": "TAMPA PLÁSTICA",
+    "grupo": 93
+  },
+  {
+    "id": "03083",
+    "pdm": "ASBESTO",
+    "grupo": 93
+  },
+  {
+    "id": "03199",
+    "pdm": "BAGACO VEGETAL",
+    "grupo": 93
+  },
+  {
+    "id": "03238",
+    "pdm": "BALÃO INFLÁVEL AR FRIO",
+    "grupo": 93
+  },
+  {
+    "id": "03240",
+    "pdm": "BALÃO INFLÁVEL GÁS",
+    "grupo": 93
+  },
+  {
+    "id": "03320",
+    "pdm": "BANHEIRA USO INFANTIL",
+    "grupo": 93
+  },
+  {
+    "id": "03384",
+    "pdm": "BARRA DE PLÁSTICO",
+    "grupo": 93
+  },
+  {
+    "id": "03386",
+    "pdm": "BARRA VIDRO",
+    "grupo": 93
+  },
+  {
+    "id": "03432",
+    "pdm": "BASTÃO PLÁSTICO",
+    "grupo": 93
+  },
+  {
+    "id": "03595",
+    "pdm": "BLOCO BRUTO DE VIDRO PARA LENTE OPTICA",
+    "grupo": 93
+  },
+  {
+    "id": "03597",
+    "pdm": "BLOCO DE ASBESTO",
+    "grupo": 93
+  },
+  {
+    "id": "03598",
+    "pdm": "BLOCO BORRACHA NATURAL",
+    "grupo": 93
+  },
+  {
+    "id": "03599",
+    "pdm": "BLOCO BORRACHA SINTÉTICA",
+    "grupo": 93
+  },
+  {
+    "id": "03603",
+    "pdm": "BLOCO DE CORTICA",
+    "grupo": 93
+  },
+  {
+    "id": "03613",
+    "pdm": "BLOCO PLÁSTICO",
+    "grupo": 93
+  },
+  {
+    "id": "03616",
+    "pdm": "BLOCO DE VIDRO",
+    "grupo": 93
+  },
+  {
+    "id": "03811",
+    "pdm": "BORRACHA VEDAÇÃO VEÍCULO",
+    "grupo": 93
+  },
+  {
+    "id": "03851",
+    "pdm": "BOX BANHEIRO",
+    "grupo": 93
+  },
+  {
+    "id": "04149",
+    "pdm": "CAIXA PLÁSTICA",
+    "grupo": 93
+  },
+  {
+    "id": "04170",
+    "pdm": "CAIXA PROTETORA EQUIPAMENTO ELETRÔNICO",
+    "grupo": 93
+  },
+  {
+    "id": "04175",
+    "pdm": "CAIXA TÉRMICA",
+    "grupo": 93
+  },
+  {
+    "id": "04644",
+    "pdm": "CARTAO - IMPRESSAO / ENCADERNACAO",
+    "grupo": 93
+  },
+  {
+    "id": "04656",
+    "pdm": "CARTÃO IDENTIFICAÇÃO - PLÁSTICO / PVC",
+    "grupo": 93
+  },
+  {
+    "id": "04658",
+    "pdm": "CARTÃO SUPREMO",
+    "grupo": 93
+  },
+  {
+    "id": "04812",
+    "pdm": "CHAPA ACRÍLICA",
+    "grupo": 93
+  },
+  {
+    "id": "04820",
+    "pdm": "CHAPA AMIANTO",
+    "grupo": 93
+  },
+  {
+    "id": "04821",
+    "pdm": "CHAPA DE ASBESTO",
+    "grupo": 93
+  },
+  {
+    "id": "04824",
+    "pdm": "CHAPA DE BORRACHA",
+    "grupo": 93
+  },
+  {
+    "id": "04825",
+    "pdm": "CHAPA DE BORRACHA NATURAL",
+    "grupo": 93
+  },
+  {
+    "id": "04826",
+    "pdm": "CHAPA DE BORRACHA SINTETICA",
+    "grupo": 93
+  },
+  {
+    "id": "04827",
+    "pdm": "FOLHA CORTIÇA",
+    "grupo": 93
+  },
+  {
+    "id": "04831",
+    "pdm": "CHAPA MATERIAL PLÁSTICO",
+    "grupo": 93
+  },
+  {
+    "id": "04848",
+    "pdm": "CHAPA POLICARBONATO",
+    "grupo": 93
+  },
+  {
+    "id": "04849",
+    "pdm": "CHAPA POLIESTIRENO",
+    "grupo": 93
+  },
+  {
+    "id": "04851",
+    "pdm": "CHAPA PVC",
+    "grupo": 93
+  },
+  {
+    "id": "05009",
+    "pdm": "CIMENTO REFRATÁRIO",
+    "grupo": 93
+  },
+  {
+    "id": "05528",
+    "pdm": "CONCRETO REFRATÁRIO",
+    "grupo": 93
+  },
+  {
+    "id": "07051",
+    "pdm": "PLACA ESPUMA",
+    "grupo": 93
+  },
+  {
+    "id": "07591",
+    "pdm": "FITA ISOLAMENTO DE AREA",
+    "grupo": 93
+  },
+  {
+    "id": "07640",
+    "pdm": "FLOR ARTIFICIAL",
+    "grupo": 93
+  },
+  {
+    "id": "07691",
+    "pdm": "FOLHA DE ASBESTO",
+    "grupo": 93
+  },
+  {
+    "id": "07692",
+    "pdm": "FOLHA DE BORRACHA NATURAL",
+    "grupo": 93
+  },
+  {
+    "id": "07693",
+    "pdm": "FOLHA DE BORRACHA SINTETICA",
+    "grupo": 93
+  },
+  {
+    "id": "07694",
+    "pdm": "FOLHA DE CORTICA",
+    "grupo": 93
+  },
+  {
+    "id": "07932",
+    "pdm": "ESTOJO PLÁSTICO",
+    "grupo": 93
+  },
+  {
+    "id": "08175",
+    "pdm": "HASTE DE PLASTICO",
+    "grupo": 93
+  },
+  {
+    "id": "08177",
+    "pdm": "HASTE DE VIDRO",
+    "grupo": 93
+  },
+  {
+    "id": "08505",
+    "pdm": "FOLHA ISOPOR",
+    "grupo": 93
+  },
+  {
+    "id": "08567",
+    "pdm": "JUNTA CÔNICA",
+    "grupo": 93
+  },
+  {
+    "id": "08613",
+    "pdm": "LÂMINA BORRACHA",
+    "grupo": 93
+  },
+  {
+    "id": "08772",
+    "pdm": "LENCOL BORRACHA",
+    "grupo": 93
+  },
+  {
+    "id": "08958",
+    "pdm": "LUVA BORRACHA",
+    "grupo": 93
+  },
+  {
+    "id": "09091",
+    "pdm": "MANGUEIRA - LÁTEX",
+    "grupo": 93
+  },
+  {
+    "id": "09122",
+    "pdm": "MANTA POLIÉSTER",
+    "grupo": 93
+  },
+  {
+    "id": "09460",
+    "pdm": "MATERIAL FABRICADO COM BORRACHA NATURAL",
+    "grupo": 93
+  },
+  {
+    "id": "09461",
+    "pdm": "BORRACHA GRANULADA",
+    "grupo": 93
+  },
+  {
+    "id": "09714",
+    "pdm": "MICA BENEFICIADA",
+    "grupo": 93
+  },
+  {
+    "id": "09865",
+    "pdm": "MOLDE DE BORRACHA",
+    "grupo": 93
+  },
+  {
+    "id": "09867",
+    "pdm": "MOLDE PARA INJECAO DE PRODUTO",
+    "grupo": 93
+  },
+  {
+    "id": 10000,
+    "pdm": "MOURAO POLIPROPILENO",
+    "grupo": 93
+  },
+  {
+    "id": 10353,
+    "pdm": "PAPEL",
+    "grupo": 93
+  },
+  {
+    "id": 10358,
+    "pdm": "PAPEL GELATINA",
+    "grupo": 93
+  },
+  {
+    "id": 10359,
+    "pdm": "PAPEL CALIBRADO",
+    "grupo": 93
+  },
+  {
+    "id": 10360,
+    "pdm": "PAPEL CAMURÇA",
+    "grupo": 93
+  },
+  {
+    "id": 10361,
+    "pdm": "PAPEL CELOFANE",
+    "grupo": 93
+  },
+  {
+    "id": 10364,
+    "pdm": "PAPEL CREPOM",
+    "grupo": 93
+  },
+  {
+    "id": 10366,
+    "pdm": "PAPEL ESPELHO",
+    "grupo": 93
+  },
+  {
+    "id": 10375,
+    "pdm": "PAPEL FANTASIA",
+    "grupo": 93
+  },
+  {
+    "id": 10379,
+    "pdm": "PAPEL GLOSSY",
+    "grupo": 93
+  },
+  {
+    "id": 10382,
+    "pdm": "PAPEL HELIOGRÁFICO",
+    "grupo": 93
+  },
+  {
+    "id": 10386,
+    "pdm": "PAPEL JAPONÊS",
+    "grupo": 93
+  },
+  {
+    "id": 10387,
+    "pdm": "PAPEL LAMINADO",
+    "grupo": 93
+  },
+  {
+    "id": 10390,
+    "pdm": "PAPEL MARRAKECH",
+    "grupo": 93
+  },
+  {
+    "id": 10391,
+    "pdm": "PAPEL OFF-SET",
+    "grupo": 93
+  },
+  {
+    "id": 10393,
+    "pdm": "PAPEL IMPRESSÃO LIVRO",
+    "grupo": 93
+  },
+  {
+    "id": 10394,
+    "pdm": "PAPEL PLOTER",
+    "grupo": 93
+  },
+  {
+    "id": 10395,
+    "pdm": "PAPEL PARA TIPOGRAFIA",
+    "grupo": 93
+  },
+  {
+    "id": 10396,
+    "pdm": "PAPEL PARDO",
+    "grupo": 93
+  },
+  {
+    "id": 10397,
+    "pdm": "PAPEL PAUTADO",
+    "grupo": 93
+  },
+  {
+    "id": 10400,
+    "pdm": "PAPEL PRETO",
+    "grupo": 93
+  },
+  {
+    "id": 10401,
+    "pdm": "PAPEL RECICLADO",
+    "grupo": 93
+  },
+  {
+    "id": 10402,
+    "pdm": "PAPEL TELADOS",
+    "grupo": 93
+  },
+  {
+    "id": 10403,
+    "pdm": "PAPEL TÉRMICO",
+    "grupo": 93
+  },
+  {
+    "id": 10405,
+    "pdm": "PAPEL TERMOSENSÍVEL",
+    "grupo": 93
+  },
+  {
+    "id": 10406,
+    "pdm": "PAPELÃO",
+    "grupo": 93
+  },
+  {
+    "id": 10407,
+    "pdm": "PAPELAO HIDRAULICO",
+    "grupo": 93
+  },
+  {
+    "id": 10599,
+    "pdm": "PELICULA FILTRO SOLAR",
+    "grupo": 93
+  },
+  {
+    "id": 10652,
+    "pdm": "PERFIL ESTRUTURAL",
+    "grupo": 93
+  },
+  {
+    "id": 10829,
+    "pdm": "PLACA CORTE",
+    "grupo": 93
+  },
+  {
+    "id": 10840,
+    "pdm": "PLACA PASTA DOCUMENTO",
+    "grupo": 93
+  },
+  {
+    "id": 10845,
+    "pdm": "PLACA DE VIDRO",
+    "grupo": 93
+  },
+  {
+    "id": 10891,
+    "pdm": "FILME PLÁSTICO",
+    "grupo": 93
+  },
+  {
+    "id": 10892,
+    "pdm": "PLÁSTICO PARA CRACHÁ",
+    "grupo": 93
+  },
+  {
+    "id": 10961,
+    "pdm": "POLIESTER",
+    "grupo": 93
+  },
+  {
+    "id": 11112,
+    "pdm": "POSTE POLIPROPILENO",
+    "grupo": 93
+  },
+  {
+    "id": 11316,
+    "pdm": "PROTETOR EMBORRACHADO",
+    "grupo": 93
+  },
+  {
+    "id": 11320,
+    "pdm": "PROTETOR MICROCAMERA - DESCARTAVEL",
+    "grupo": 93
+  },
+  {
+    "id": 11352,
+    "pdm": "PVC - PELÍCULA / FILME",
+    "grupo": 93
+  },
+  {
+    "id": 11817,
+    "pdm": "ROLHA",
+    "grupo": 93
+  },
+  {
+    "id": 11818,
+    "pdm": "ROLHA PLASTICO",
+    "grupo": 93
+  },
+  {
+    "id": 11828,
+    "pdm": "ROLO SINTETICO",
+    "grupo": 93
+  },
+  {
+    "id": 12099,
+    "pdm": "SISAL",
+    "grupo": 93
+  },
+  {
+    "id": 12422,
+    "pdm": "SUPORTE TETO",
+    "grupo": 93
+  },
+  {
+    "id": 12555,
+    "pdm": "TARUGO ACRILICO",
+    "grupo": 93
+  },
+  {
+    "id": 12560,
+    "pdm": "TARUGO",
+    "grupo": 93
+  },
+  {
+    "id": 12590,
+    "pdm": "TELA DE PLASTICO ( TECIDO )",
+    "grupo": 93
+  },
+  {
+    "id": 12723,
+    "pdm": "TIJOLO - REFRATARIO",
+    "grupo": 93
+  },
+  {
+    "id": 12772,
+    "pdm": "TIRA DE BORRACHA",
+    "grupo": 93
+  },
+  {
+    "id": 12773,
+    "pdm": "BORRACHA SILICONADA",
+    "grupo": 93
+  },
+  {
+    "id": 12774,
+    "pdm": "TIRA DE CORTICA",
+    "grupo": 93
+  },
+  {
+    "id": 13025,
+    "pdm": "TUBO ACRÍLICO",
+    "grupo": 93
+  },
+  {
+    "id": 13091,
+    "pdm": "TUBO DE VIDRO",
+    "grupo": 93
+  },
+  {
+    "id": 13110,
+    "pdm": "TUBO PLASTICO",
+    "grupo": 93
+  },
+  {
+    "id": 13307,
+    "pdm": "VARETA DE VIDRO",
+    "grupo": 93
+  },
+  {
+    "id": 13434,
+    "pdm": "VIDRO",
+    "grupo": 93
+  },
+  {
+    "id": 13713,
+    "pdm": "PLÁSTICO REPROGRAFIA",
+    "grupo": 93
+  },
+  {
+    "id": 13848,
+    "pdm": "FLOCOS ISOPOR",
+    "grupo": 93
+  },
+  {
+    "id": 13850,
+    "pdm": "PLÁSTICO ADESIVO",
+    "grupo": 93
+  },
+  {
+    "id": 13881,
+    "pdm": "LACRE TERMO-RETRÁTIL",
+    "grupo": 93
+  },
+  {
+    "id": 14045,
+    "pdm": "PAPEL WESTERLEDGER",
+    "grupo": 93
+  },
+  {
+    "id": 14048,
+    "pdm": "PAPEL WESTERPOST",
+    "grupo": 93
+  },
+  {
+    "id": 14175,
+    "pdm": "CAIXA PALETE",
+    "grupo": 93
+  },
+  {
+    "id": 14276,
+    "pdm": "PAPEL CARTÃO THORCHONS",
+    "grupo": 93
+  },
+  {
+    "id": 14277,
+    "pdm": "PAPEL CARTÃO PERGAMENATA",
+    "grupo": 93
+  },
+  {
+    "id": 14278,
+    "pdm": "PAPEL CARTÃO OPALINE",
+    "grupo": 93
+  },
+  {
+    "id": 14279,
+    "pdm": "PAPEL CARTÃO OLIMPO",
+    "grupo": 93
+  },
+  {
+    "id": 14280,
+    "pdm": "PAPEL GAINSBOROUGH",
+    "grupo": 93
+  },
+  {
+    "id": 14282,
+    "pdm": "PAPEL ÍNDIGO CROMÁTICO",
+    "grupo": 93
+  },
+  {
+    "id": 14283,
+    "pdm": "PAPEL LORENZO",
+    "grupo": 93
+  },
+  {
+    "id": 14285,
+    "pdm": "PAPEL ZETA MARTELADO",
+    "grupo": 93
+  },
+  {
+    "id": 14286,
+    "pdm": "PAPEL PÉRSICO",
+    "grupo": 93
+  },
+  {
+    "id": 14287,
+    "pdm": "PAPEL QUEST BRIGHT WHITE",
+    "grupo": 93
+  },
+  {
+    "id": 14295,
+    "pdm": "PAPEL TELADO",
+    "grupo": 93
+  },
+  {
+    "id": 14296,
+    "pdm": "PAPEL TELADO NETUNO ITÁLIA",
+    "grupo": 93
+  },
+  {
+    "id": 14326,
+    "pdm": "PAPEL LINHO",
+    "grupo": 93
+  },
+  {
+    "id": 14401,
+    "pdm": "PAPEL COURO",
+    "grupo": 93
+  },
+  {
+    "id": 14402,
+    "pdm": "PAPEL AQUARELA ITALIANO",
+    "grupo": 93
+  },
+  {
+    "id": 14405,
+    "pdm": "PAPEL AMBASSADOR",
+    "grupo": 93
+  },
+  {
+    "id": 14476,
+    "pdm": "TELA NÁILON",
+    "grupo": 93
+  },
+  {
+    "id": 14567,
+    "pdm": "TUBO GEOMECÂNICO",
+    "grupo": 93
+  },
+  {
+    "id": 14574,
+    "pdm": "CAP GEOMECÂNICO",
+    "grupo": 93
+  },
+  {
+    "id": 14603,
+    "pdm": "PAPEL CARTÃO PERGAMENATA NATURALE",
+    "grupo": 93
+  },
+  {
+    "id": 14764,
+    "pdm": "PAPEL SEMI KRAFT",
+    "grupo": 93
+  },
+  {
+    "id": 14795,
+    "pdm": "PAPEL COLOR SET",
+    "grupo": 93
+  },
+  {
+    "id": 14827,
+    "pdm": "PAPEL GESSADO",
+    "grupo": 93
+  },
+  {
+    "id": 15300,
+    "pdm": "BOLA ISOPOR",
+    "grupo": 93
+  },
+  {
+    "id": 15311,
+    "pdm": "PAPEL PREMIUM GOSSY PHOTO PAPER",
+    "grupo": 93
+  },
+  {
+    "id": 15314,
+    "pdm": "PAPEL PHOTO QUALITY GLOSSY FILM",
+    "grupo": 93
+  },
+  {
+    "id": 15411,
+    "pdm": "MANTA ANTIESTÁTICA",
+    "grupo": 93
+  },
+  {
+    "id": 15648,
+    "pdm": "PAPEL MATA-BORRÃO",
+    "grupo": 93
+  },
+  {
+    "id": 15711,
+    "pdm": "PAPEL FICHA OURO",
+    "grupo": 93
+  },
+  {
+    "id": 15793,
+    "pdm": "PAPEL FAX",
+    "grupo": 93
+  },
+  {
+    "id": 15799,
+    "pdm": "PAPEL TRIPLEX",
+    "grupo": 93
+  },
+  {
+    "id": 15801,
+    "pdm": "PAPEL DUPLEX",
+    "grupo": 93
+  },
+  {
+    "id": 15802,
+    "pdm": "PAPEL CARTONA",
+    "grupo": 93
+  },
+  {
+    "id": 15803,
+    "pdm": "PAPEL CARMEN",
+    "grupo": 93
+  },
+  {
+    "id": 15805,
+    "pdm": "PAPEL DOBRADURA",
+    "grupo": 93
+  },
+  {
+    "id": 15923,
+    "pdm": "PAPEL ALFA CHEQUE",
+    "grupo": 93
+  },
+  {
+    "id": 16490,
+    "pdm": "PAPEL POLEN PRINT",
+    "grupo": 93
+  },
+  {
+    "id": 16551,
+    "pdm": "BOBINA AUTO-REFRATOR",
+    "grupo": 93
+  },
+  {
+    "id": 17315,
+    "pdm": "PAPÉIS E PAPELÕES",
+    "grupo": 93
+  },
+  {
+    "id": 17316,
+    "pdm": "ARTIGOS DE BORRACHA",
+    "grupo": 93
+  },
+  {
+    "id": 17317,
+    "pdm": "ESPAÇADOR",
+    "grupo": 93
+  },
+  {
+    "id": 17319,
+    "pdm": "MATERIAIS REFRATÁRIOS E DE ACABAMENTO SUPERFICIAL CONTRAFO- GO",
+    "grupo": 93
+  },
+  {
+    "id": 17320,
+    "pdm": "MATERIAIS DIVERSOS NÃO METÁLICOS",
+    "grupo": 93
+  },
+  {
+    "id": 17521,
+    "pdm": "PAPEL INGRES",
+    "grupo": 93
+  },
+  {
+    "id": 17523,
+    "pdm": "PAPEL EMBORRACHADO",
+    "grupo": 93
+  },
+  {
+    "id": 17557,
+    "pdm": "PAPEL CHAMBRIL",
+    "grupo": 93
+  },
+  {
+    "id": 17601,
+    "pdm": "PAPEL CREPEL",
+    "grupo": 93
+  },
+  {
+    "id": 17716,
+    "pdm": "PAPEL GOFFRATA",
+    "grupo": 93
+  },
+  {
+    "id": 17717,
+    "pdm": "PAPEL POLYESTER",
+    "grupo": 93
+  },
+  {
+    "id": 17718,
+    "pdm": "PAPEL GRANITO",
+    "grupo": 93
+  },
+  {
+    "id": 17719,
+    "pdm": "PAPEL METÁLICO",
+    "grupo": 93
+  },
+  {
+    "id": 17954,
+    "pdm": "PAPEL SEGURANÇA",
+    "grupo": 93
+  },
+  {
+    "id": 18322,
+    "pdm": "TAPA-FURO",
+    "grupo": 93
+  },
+  {
+    "id": 18356,
+    "pdm": "SUPORTE",
+    "grupo": 93
+  },
+  {
+    "id": 18357,
+    "pdm": "COLUNA",
+    "grupo": 93
+  },
+  {
+    "id": 18359,
+    "pdm": "CONE",
+    "grupo": 93
+  },
+  {
+    "id": 18587,
+    "pdm": "PAPEL GLACÊ",
+    "grupo": 93
+  },
+  {
+    "id": 18760,
+    "pdm": "ACABAMENTO CABEÇA PARAFUSO",
+    "grupo": 93
+  },
+  {
+    "id": 18929,
+    "pdm": "MANTA",
+    "grupo": 93
+  }
+]

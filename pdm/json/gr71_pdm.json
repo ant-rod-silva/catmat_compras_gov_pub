@@ -1,0 +1,1392 @@
+[
+  {
+    "id": "00317",
+    "pdm": "ESCRIVANINHA",
+    "grupo": 71
+  },
+  {
+    "id": "07148",
+    "pdm": "ESTOFADO",
+    "grupo": 71
+  },
+  {
+    "id": "03034",
+    "pdm": "ARQUIVO MICROFILMES",
+    "grupo": 71
+  },
+  {
+    "id": "00337",
+    "pdm": "ESPELHO",
+    "grupo": 71
+  },
+  {
+    "id": 11362,
+    "pdm": "QUADRO GIZ",
+    "grupo": 71
+  },
+  {
+    "id": "09823",
+    "pdm": "BRAÇO MOBILIÁRIO",
+    "grupo": 71
+  },
+  {
+    "id": "00315",
+    "pdm": "CAMA",
+    "grupo": 71
+  },
+  {
+    "id": "00331",
+    "pdm": "CADEIRA",
+    "grupo": 71
+  },
+  {
+    "id": "04081",
+    "pdm": "CADEIRA ESPREGUICADEIRA",
+    "grupo": 71
+  },
+  {
+    "id": 12177,
+    "pdm": "SOFÁ",
+    "grupo": 71
+  },
+  {
+    "id": 10981,
+    "pdm": "POLTRONA ESCRITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": "00338",
+    "pdm": "GUARDA-ROUPA",
+    "grupo": 71
+  },
+  {
+    "id": "09677",
+    "pdm": "MESINHA DE CENTRO",
+    "grupo": 71
+  },
+  {
+    "id": "07011",
+    "pdm": "ESPELHO PARA MOBILIARIO",
+    "grupo": 71
+  },
+  {
+    "id": "05036",
+    "pdm": "CINZEIRO PAPELEIRO",
+    "grupo": 71
+  },
+  {
+    "id": "09820",
+    "pdm": "MOBILIÁRIO DE REFEITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": 13601,
+    "pdm": "MOBILIARIO DE COZINHA",
+    "grupo": 71
+  },
+  {
+    "id": "00344",
+    "pdm": "QUADRO CARTÃO PONTO",
+    "grupo": 71
+  },
+  {
+    "id": "07180",
+    "pdm": "ESTRADO DE CAMA",
+    "grupo": 71
+  },
+  {
+    "id": "00339",
+    "pdm": "MESA APAGADOR",
+    "grupo": 71
+  },
+  {
+    "id": "03016",
+    "pdm": "ARMÁRIO PARA ROUPA",
+    "grupo": 71
+  },
+  {
+    "id": "03030",
+    "pdm": "ARQUIVO CORRESPONDÊNCIA",
+    "grupo": 71
+  },
+  {
+    "id": "00333",
+    "pdm": "COFRE",
+    "grupo": 71
+  },
+  {
+    "id": "00335",
+    "pdm": "FICHÁRIO",
+    "grupo": 71
+  },
+  {
+    "id": "00319",
+    "pdm": "ARMÁRIO ESTANTE",
+    "grupo": 71
+  },
+  {
+    "id": 13596,
+    "pdm": "CONJUNTO MESAS ESCRITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": "00313",
+    "pdm": "CADEIRA ESCRITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": "00311",
+    "pdm": "BANCO DESENHISTA",
+    "grupo": 71
+  },
+  {
+    "id": "07631",
+    "pdm": "FLANELOGRAFO",
+    "grupo": 71
+  },
+  {
+    "id": "00314",
+    "pdm": "CADEIRA DESENHISTA",
+    "grupo": 71
+  },
+  {
+    "id": "03014",
+    "pdm": "ARMARIO MAPA (MAPOTECA)",
+    "grupo": 71
+  },
+  {
+    "id": "00318",
+    "pdm": "MESA MICROCOMPUTADOR",
+    "grupo": 71
+  },
+  {
+    "id": "00322",
+    "pdm": "MESA IMPRESSORA MICROCOMPUTADOR",
+    "grupo": 71
+  },
+  {
+    "id": "00326",
+    "pdm": "MESA MÁQUINA DATILOGRAFIA",
+    "grupo": 71
+  },
+  {
+    "id": "03283",
+    "pdm": "BANCO PARA CINZEIRO TIPO PEDESTAL",
+    "grupo": 71
+  },
+  {
+    "id": "03270",
+    "pdm": "BANCADA CAIXA REGISTRADORA",
+    "grupo": 71
+  },
+  {
+    "id": "09829",
+    "pdm": "MOBILIARIO PEDRA",
+    "grupo": 71
+  },
+  {
+    "id": "09816",
+    "pdm": "MOBILIARIO DE ARGILA",
+    "grupo": 71
+  },
+  {
+    "id": "09813",
+    "pdm": "MOBILIARIO CONCRETO",
+    "grupo": 71
+  },
+  {
+    "id": "09623",
+    "pdm": "MESA PARA BALANÇA",
+    "grupo": 71
+  },
+  {
+    "id": "09811",
+    "pdm": "MOBILIÁRIO ACAMPAMENTO",
+    "grupo": 71
+  },
+  {
+    "id": "04661",
+    "pdm": "CARTEIRA ESCOLAR",
+    "grupo": 71
+  },
+  {
+    "id": "04080",
+    "pdm": "CADEIRA ESCOLAR",
+    "grupo": 71
+  },
+  {
+    "id": 11358,
+    "pdm": "PORTA-CARTAZ",
+    "grupo": 71
+  },
+  {
+    "id": 13599,
+    "pdm": "TRIBUNA",
+    "grupo": 71
+  },
+  {
+    "id": 13600,
+    "pdm": "MOBILIÁRIO BIBLIOTECA",
+    "grupo": 71
+  },
+  {
+    "id": "06889",
+    "pdm": "ESCADA PISCINA",
+    "grupo": 71
+  },
+  {
+    "id": 11064,
+    "pdm": "PORTA CARGAS",
+    "grupo": 71
+  },
+  {
+    "id": "00327",
+    "pdm": "ARCA",
+    "grupo": 71
+  },
+  {
+    "id": "06910",
+    "pdm": "ESCANINHO",
+    "grupo": 71
+  },
+  {
+    "id": "00367",
+    "pdm": "ARMÁRIO BANHEIRO",
+    "grupo": 71
+  },
+  {
+    "id": "09822",
+    "pdm": "MOBILIARIO E CORTINADO DE VAGAO FERROVIARIO",
+    "grupo": 71
+  },
+  {
+    "id": "03028",
+    "pdm": "ARQUIVO CARTAO MAGNETICO",
+    "grupo": 71
+  },
+  {
+    "id": "03033",
+    "pdm": "ARQUIVO CD / DVD-ROM",
+    "grupo": 71
+  },
+  {
+    "id": "03031",
+    "pdm": "ARQUIVO DISCO MAGNETICO",
+    "grupo": 71
+  },
+  {
+    "id": "04315",
+    "pdm": "CAMA METALICA TIPO ESTRADO",
+    "grupo": 71
+  },
+  {
+    "id": "04314",
+    "pdm": "CAMA METALICA NAO DOBRAVEL",
+    "grupo": 71
+  },
+  {
+    "id": "00332",
+    "pdm": "CADEIRA METÁLICA DOBRÁVEL",
+    "grupo": 71
+  },
+  {
+    "id": 12381,
+    "pdm": "SUPORTE DE CINZEIRO DE PEDESTAL",
+    "grupo": 71
+  },
+  {
+    "id": "06678",
+    "pdm": "EQUIPAMENTO DE CORREIO ( MOBILIARIO DE ESCRITORIO)",
+    "grupo": 71
+  },
+  {
+    "id": "00323",
+    "pdm": "ARMÁRIO COPA/COZINHA",
+    "grupo": 71
+  },
+  {
+    "id": 11140,
+    "pdm": "MÓDULO PRATELEIRA",
+    "grupo": 71
+  },
+  {
+    "id": "09817",
+    "pdm": "MOBILIARIO DE CERAMICA",
+    "grupo": 71
+  },
+  {
+    "id": "09830",
+    "pdm": "MOBILIÁRIO TEATRO",
+    "grupo": 71
+  },
+  {
+    "id": "03243",
+    "pdm": "BALCÃO CASA COMÉRCIO",
+    "grupo": 71
+  },
+  {
+    "id": "09814",
+    "pdm": "MOBILIÁRIO DE INFORMÁTICA",
+    "grupo": 71
+  },
+  {
+    "id": "01217",
+    "pdm": "ABAFADOR IMPRESSORA",
+    "grupo": 71
+  },
+  {
+    "id": 11089,
+    "pdm": "PORTA-BIBLIA",
+    "grupo": 71
+  },
+  {
+    "id": 12270,
+    "pdm": "SOMIE",
+    "grupo": 71
+  },
+  {
+    "id": 12388,
+    "pdm": "SUPORTE DE FERRO DE ENGOMAR",
+    "grupo": 71
+  },
+  {
+    "id": 12777,
+    "pdm": "TIRA IDENTIFICACAO MAPOTECA",
+    "grupo": 71
+  },
+  {
+    "id": "07012",
+    "pdm": "ESPELHO PARA PAREDE",
+    "grupo": 71
+  },
+  {
+    "id": "04313",
+    "pdm": "CAMA METALICA DE MOLA",
+    "grupo": 71
+  },
+  {
+    "id": "03948",
+    "pdm": "BUFFET",
+    "grupo": 71
+  },
+  {
+    "id": "00312",
+    "pdm": "BANQUETA",
+    "grupo": 71
+  },
+  {
+    "id": "00316",
+    "pdm": "CAMA BELICHE",
+    "grupo": 71
+  },
+  {
+    "id": "00329",
+    "pdm": "BIOMBO",
+    "grupo": 71
+  },
+  {
+    "id": 12395,
+    "pdm": "SUPORTE DE VIDEOCASSETE / TELEVISAO",
+    "grupo": 71
+  },
+  {
+    "id": 12179,
+    "pdm": "SOFA 1 LUGAR",
+    "grupo": 71
+  },
+  {
+    "id": 12180,
+    "pdm": "SOFA 2 LUGARES",
+    "grupo": 71
+  },
+  {
+    "id": 12181,
+    "pdm": "SOFA 3 LUGARES",
+    "grupo": 71
+  },
+  {
+    "id": "09661",
+    "pdm": "MESA TELEFONE",
+    "grupo": 71
+  },
+  {
+    "id": "00309",
+    "pdm": "ARMÁRIO AÇO",
+    "grupo": 71
+  },
+  {
+    "id": "00328",
+    "pdm": "ARMÁRIO ESCRITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": "03017",
+    "pdm": "ARMARIO PASTA SUSPENSA",
+    "grupo": 71
+  },
+  {
+    "id": "00310",
+    "pdm": "ARQUIVO ESCRITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": 12402,
+    "pdm": "SUPORTE FITA MAGNETICA",
+    "grupo": 71
+  },
+  {
+    "id": "08707",
+    "pdm": "LANDSCAPE",
+    "grupo": 71
+  },
+  {
+    "id": 11135,
+    "pdm": "PRANCHETA PARA DESENHO",
+    "grupo": 71
+  },
+  {
+    "id": 10314,
+    "pdm": "PAINEL EXPOSITOR",
+    "grupo": 71
+  },
+  {
+    "id": 10984,
+    "pdm": "POLTRONA",
+    "grupo": 71
+  },
+  {
+    "id": 10985,
+    "pdm": "POLTRONA FIXA",
+    "grupo": 71
+  },
+  {
+    "id": 10982,
+    "pdm": "POLTRONA ESPALDAR MÉDIO COM BRAÇO",
+    "grupo": 71
+  },
+  {
+    "id": 10983,
+    "pdm": "POLTRONA ESPALDAR ALTO SEM BRACO",
+    "grupo": 71
+  },
+  {
+    "id": 10986,
+    "pdm": "POLTRONA GIRATÓRIA COM BRAÇOS",
+    "grupo": 71
+  },
+  {
+    "id": 10987,
+    "pdm": "POLTRONA GIRATÓRIA SEM BRACO",
+    "grupo": 71
+  },
+  {
+    "id": "09825",
+    "pdm": "MOBILIARIO FIBRA DE VIDRO",
+    "grupo": 71
+  },
+  {
+    "id": "09828",
+    "pdm": "MOBILIARIO MATERIAL PLASTICO - PISCINA / JARDIM (CADEIRA / MESA)",
+    "grupo": 71
+  },
+  {
+    "id": "09824",
+    "pdm": "MOBILIÁRIO FERRO / MADEIRA - PISCINA / JARDIM",
+    "grupo": 71
+  },
+  {
+    "id": "05383",
+    "pdm": "CÔMODA",
+    "grupo": 71
+  },
+  {
+    "id": 11363,
+    "pdm": "QUADRO MAGNÉTICO",
+    "grupo": 71
+  },
+  {
+    "id": "05073",
+    "pdm": "CLAVICULÁRIO",
+    "grupo": 71
+  },
+  {
+    "id": 11938,
+    "pdm": "SAPATEIRA",
+    "grupo": 71
+  },
+  {
+    "id": "00330",
+    "pdm": "CABIDE DE PÉ",
+    "grupo": 71
+  },
+  {
+    "id": "00336",
+    "pdm": "GAVETEIRO MÓVEL",
+    "grupo": 71
+  },
+  {
+    "id": "09869",
+    "pdm": "MOLDURA",
+    "grupo": 71
+  },
+  {
+    "id": "00325",
+    "pdm": "CABIDE GUARDA-ROUPA",
+    "grupo": 71
+  },
+  {
+    "id": "03249",
+    "pdm": "BALCÃO TÉRMICO",
+    "grupo": 71
+  },
+  {
+    "id": "03245",
+    "pdm": "BALCÃO DOMÉSTICO",
+    "grupo": 71
+  },
+  {
+    "id": "09812",
+    "pdm": "MOBILIARIO AERONAVE",
+    "grupo": 71
+  },
+  {
+    "id": "09138",
+    "pdm": "MAPOTECA",
+    "grupo": 71
+  },
+  {
+    "id": "00343",
+    "pdm": "POLTRONA AUDITÓRIO DOBRÁVEL COM PRANCHETA",
+    "grupo": 71
+  },
+  {
+    "id": "03247",
+    "pdm": "BALCÃO NÃO TÉRMICO",
+    "grupo": 71
+  },
+  {
+    "id": "04307",
+    "pdm": "CAMA COMUM",
+    "grupo": 71
+  },
+  {
+    "id": 10632,
+    "pdm": "PENTEADEIRA",
+    "grupo": 71
+  },
+  {
+    "id": "03032",
+    "pdm": "ARQUIVO FITA MAGNÉTICA",
+    "grupo": 71
+  },
+  {
+    "id": "03508",
+    "pdm": "BERÇO",
+    "grupo": 71
+  },
+  {
+    "id": "03564",
+    "pdm": "BIOMBO DE FORMICA",
+    "grupo": 71
+  },
+  {
+    "id": 12178,
+    "pdm": "SOFA COM MAIS DE 3 LUGARES",
+    "grupo": 71
+  },
+  {
+    "id": "03029",
+    "pdm": "ARQUIVO CHAPA OFF - SET",
+    "grupo": 71
+  },
+  {
+    "id": "00334",
+    "pdm": "ESTANTE METÁLICA",
+    "grupo": 71
+  },
+  {
+    "id": "07202",
+    "pdm": "ESTRUTURA ESTANTE ACO",
+    "grupo": 71
+  },
+  {
+    "id": "07989",
+    "pdm": "GESSO - COLUNA / PEDESTAL / CANTONEIRA",
+    "grupo": 71
+  },
+  {
+    "id": "04619",
+    "pdm": "CARRO PASTA SUSPENSA COM / SEM TAMPA DE ACRILICO",
+    "grupo": 71
+  },
+  {
+    "id": "09655",
+    "pdm": "MESA PARA TELEVISÃO / VÍDEOCASSETE",
+    "grupo": 71
+  },
+  {
+    "id": 12411,
+    "pdm": "SUPORTE PARA DISCO LASER (COMPACT DISK - CD)",
+    "grupo": 71
+  },
+  {
+    "id": 12412,
+    "pdm": "SUPORTE PARA FITA CASSETE",
+    "grupo": 71
+  },
+  {
+    "id": "09607",
+    "pdm": "MESA CABECEIRA",
+    "grupo": 71
+  },
+  {
+    "id": "09667",
+    "pdm": "MESA-DE-CABECEIRA DE MADEIRA (CRIADO MUDO)",
+    "grupo": 71
+  },
+  {
+    "id": "03280",
+    "pdm": "BANCO ESTRUTURA FERRO - USO GERAL",
+    "grupo": 71
+  },
+  {
+    "id": "09638",
+    "pdm": "MESA FERRO FUNDIDO - USO GERAL",
+    "grupo": 71
+  },
+  {
+    "id": "07680",
+    "pdm": "FOGAREIRO FERRO FUNDIDO",
+    "grupo": 71
+  },
+  {
+    "id": "09606",
+    "pdm": "MÓVEL MULTIUSO",
+    "grupo": 71
+  },
+  {
+    "id": "03274",
+    "pdm": "BANCADA MONTAGENS MANUAIS / TESTES",
+    "grupo": 71
+  },
+  {
+    "id": "09641",
+    "pdm": "MESA MADEIRA",
+    "grupo": 71
+  },
+  {
+    "id": "00341",
+    "pdm": "MESA REUNIÃO QUADRADA",
+    "grupo": 71
+  },
+  {
+    "id": "01709",
+    "pdm": "ACESSORIO ERGONOMICO",
+    "grupo": 71
+  },
+  {
+    "id": "03285",
+    "pdm": "BANCO REGULÁVEL ATIVIDADES EM PÉ",
+    "grupo": 71
+  },
+  {
+    "id": 12370,
+    "pdm": "SUPORTE / NOBREAK",
+    "grupo": 71
+  },
+  {
+    "id": 12414,
+    "pdm": "SUPORTE PAPEL / DOCUMENTO",
+    "grupo": 71
+  },
+  {
+    "id": 12416,
+    "pdm": "SUPORTE PARA TECLADO",
+    "grupo": 71
+  },
+  {
+    "id": "00345",
+    "pdm": "MESA METÁLICA APOIO",
+    "grupo": 71
+  },
+  {
+    "id": 11780,
+    "pdm": "RODÍZIO TRILHO",
+    "grupo": 71
+  },
+  {
+    "id": "01657",
+    "pdm": "ACESSORIO / COMPONENTE - MESA MICROCOMPUTADOR",
+    "grupo": 71
+  },
+  {
+    "id": "00376",
+    "pdm": "ARQUIVO DESLIZANTE PEÇAS / ACESSÓRIOS",
+    "grupo": 71
+  },
+  {
+    "id": "07098",
+    "pdm": "ESTANTE DESLIZANTE - MECANICA",
+    "grupo": 71
+  },
+  {
+    "id": "05302",
+    "pdm": "COFRE / ARMARIO ANTICHAMA - GAVETEIRO",
+    "grupo": 71
+  },
+  {
+    "id": "05303",
+    "pdm": "COFRE ANTICHAMA",
+    "grupo": 71
+  },
+  {
+    "id": "06909",
+    "pdm": "ARQUIVO ESCANINHOS",
+    "grupo": 71
+  },
+  {
+    "id": 11915,
+    "pdm": "SALA COFRE BLINDADA",
+    "grupo": 71
+  },
+  {
+    "id": "07097",
+    "pdm": "ESTANTE DESLIZANTE - ELETROELETRONICA",
+    "grupo": 71
+  },
+  {
+    "id": "07101",
+    "pdm": "ESTANTE MULTIMÍDIA",
+    "grupo": 71
+  },
+  {
+    "id": "00324",
+    "pdm": "BALCÃO ATENDIMENTO",
+    "grupo": 71
+  },
+  {
+    "id": "03246",
+    "pdm": "BALCÃO",
+    "grupo": 71
+  },
+  {
+    "id": "09642",
+    "pdm": "MESA MANIPULAÇÃO / PREPARAÇÃO ALIMENTOS",
+    "grupo": 71
+  },
+  {
+    "id": "07085",
+    "pdm": "MÓDULO ESTAÇÃO TRABALHO - DIVISÓRIA / MÓDULO",
+    "grupo": 71
+  },
+  {
+    "id": 13563,
+    "pdm": "ESTANTE",
+    "grupo": 71
+  },
+  {
+    "id": "09635",
+    "pdm": "MESA DESOPERCULADORA - APÍCOLA",
+    "grupo": 71
+  },
+  {
+    "id": "00218",
+    "pdm": "ESTANTE",
+    "grupo": 71
+  },
+  {
+    "id": "04091",
+    "pdm": "POLTRONA RECLINÁVEL",
+    "grupo": 71
+  },
+  {
+    "id": "07099",
+    "pdm": "ESTANTE MADEIRA",
+    "grupo": 71
+  },
+  {
+    "id": "04662",
+    "pdm": "CARTEIRA ESCOLAR - COMPONENTE",
+    "grupo": 71
+  },
+  {
+    "id": "06073",
+    "pdm": "DESCANSO PÉS",
+    "grupo": 71
+  },
+  {
+    "id": "04079",
+    "pdm": "CADEIRA EMPILHÁVEL",
+    "grupo": 71
+  },
+  {
+    "id": "03248",
+    "pdm": "BALCÃO TÉRMICO - PEÇAS/ACESSÓRIOS",
+    "grupo": 71
+  },
+  {
+    "id": 12420,
+    "pdm": "SUPORTE PASTA SUSPENSA",
+    "grupo": 71
+  },
+  {
+    "id": "09668",
+    "pdm": "MESA / BANCA - GEMOLOGIA",
+    "grupo": 71
+  },
+  {
+    "id": "09611",
+    "pdm": "MESA",
+    "grupo": 71
+  },
+  {
+    "id": "01336",
+    "pdm": "MESA TÉRMICA",
+    "grupo": 71
+  },
+  {
+    "id": "01334",
+    "pdm": "MESA HIGIENIZAÇÃO",
+    "grupo": 71
+  },
+  {
+    "id": "01337",
+    "pdm": "PLACA SUCÇÃO",
+    "grupo": 71
+  },
+  {
+    "id": "09660",
+    "pdm": "MESA REUNIÃO RETANGULAR",
+    "grupo": 71
+  },
+  {
+    "id": "03035",
+    "pdm": "EXTENSÃO MESA ESCRITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": "04110",
+    "pdm": "CAIXA CD-ROM",
+    "grupo": 71
+  },
+  {
+    "id": "01335",
+    "pdm": "MESA SUCÇÃO",
+    "grupo": 71
+  },
+  {
+    "id": 13597,
+    "pdm": "MESA DE REUNIÃO",
+    "grupo": 71
+  },
+  {
+    "id": "01454",
+    "pdm": "QUADRO BRANCO",
+    "grupo": 71
+  },
+  {
+    "id": "04084",
+    "pdm": "CADEIRA FIXA SEM BRACO",
+    "grupo": 71
+  },
+  {
+    "id": "04083",
+    "pdm": "CADEIRA COM BRAÇO",
+    "grupo": 71
+  },
+  {
+    "id": 15005,
+    "pdm": "ESTAÇÃO TRABALHO / DIVISÓRIAS MOBILIÁRIOS DIVERSOS",
+    "grupo": 71
+  },
+  {
+    "id": 15304,
+    "pdm": "ARMÁRIO VESTIÁRIO",
+    "grupo": 71
+  },
+  {
+    "id": 15315,
+    "pdm": "CONJUNTO ARMAÇÃO MESA",
+    "grupo": 71
+  },
+  {
+    "id": 13726,
+    "pdm": "MESA APOIO",
+    "grupo": 71
+  },
+  {
+    "id": "00321",
+    "pdm": "MESA ESCRITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": 14785,
+    "pdm": "ESTAÇÃO TRABALHO",
+    "grupo": 71
+  },
+  {
+    "id": 18698,
+    "pdm": "MESA-SISTEMA MODULAR ESTAÇÃO DE TRABALHO-GERENCIAL",
+    "grupo": 71
+  },
+  {
+    "id": 18699,
+    "pdm": "MESA FUNCIONAL-SISTEMA MODULAR",
+    "grupo": 71
+  },
+  {
+    "id": 14303,
+    "pdm": "CADEIRA DIGITADOR",
+    "grupo": 71
+  },
+  {
+    "id": 17368,
+    "pdm": "CONJUNTO ESCOLAR",
+    "grupo": 71
+  },
+  {
+    "id": 16315,
+    "pdm": "CADEIRA SOBRE LONGARINA",
+    "grupo": 71
+  },
+  {
+    "id": 14334,
+    "pdm": "MESA",
+    "grupo": 71
+  },
+  {
+    "id": 15290,
+    "pdm": "ARMÁRIO",
+    "grupo": 71
+  },
+  {
+    "id": 14399,
+    "pdm": "QUADRO AVISOS",
+    "grupo": 71
+  },
+  {
+    "id": "00342",
+    "pdm": "MESA REUNIÃO REDONDA",
+    "grupo": 71
+  },
+  {
+    "id": 17803,
+    "pdm": "MESA CANTO",
+    "grupo": 71
+  },
+  {
+    "id": 14395,
+    "pdm": "MESA COPA/COZINHA",
+    "grupo": 71
+  },
+  {
+    "id": 14242,
+    "pdm": "MÓDULO DE TRABALHO PARA ESCRITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": 18470,
+    "pdm": "SUPORTE PLÁSTICO",
+    "grupo": 71
+  },
+  {
+    "id": 14238,
+    "pdm": "CONJUNTO CADEIRAS ESPERA",
+    "grupo": 71
+  },
+  {
+    "id": 17203,
+    "pdm": "TRILHO",
+    "grupo": 71
+  },
+  {
+    "id": 13678,
+    "pdm": "CADEIRA FIXA",
+    "grupo": 71
+  },
+  {
+    "id": 15327,
+    "pdm": "BANCO",
+    "grupo": 71
+  },
+  {
+    "id": 13769,
+    "pdm": "CABIDEIRO",
+    "grupo": 71
+  },
+  {
+    "id": 14421,
+    "pdm": "PRATELEIRA",
+    "grupo": 71
+  },
+  {
+    "id": 18058,
+    "pdm": "COLETOR DE OBJETOS",
+    "grupo": 71
+  },
+  {
+    "id": 16082,
+    "pdm": "MESA REFEITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": 16565,
+    "pdm": "MESA LABORATÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": 15333,
+    "pdm": "MÓDULO PARA COZINHA",
+    "grupo": 71
+  },
+  {
+    "id": 18749,
+    "pdm": "MESA ESCOLAR",
+    "grupo": 71
+  },
+  {
+    "id": 16348,
+    "pdm": "QUADRO",
+    "grupo": 71
+  },
+  {
+    "id": 17656,
+    "pdm": "PEDESTAL",
+    "grupo": 71
+  },
+  {
+    "id": 17199,
+    "pdm": "PEÇA MOBÍLIA",
+    "grupo": 71
+  },
+  {
+    "id": 19380,
+    "pdm": "SALA TELEPRESENÇA / VÍDEO CONFERÊNCIA",
+    "grupo": 71
+  },
+  {
+    "id": 17198,
+    "pdm": "MOBILIÁRIO DOMÉSTICO",
+    "grupo": 71
+  },
+  {
+    "id": 17200,
+    "pdm": "MOBILIARIOS ESCOLAR",
+    "grupo": 71
+  },
+  {
+    "id": 17201,
+    "pdm": "ESTANTES E ARMAÇÕES PARA ALMOXARIFADOS",
+    "grupo": 71
+  },
+  {
+    "id": 17202,
+    "pdm": "ARMÁRIOS E ESTANTES",
+    "grupo": 71
+  },
+  {
+    "id": "00320",
+    "pdm": "ARQUIVO MÓVEL FOLHA FORMATADA",
+    "grupo": 71
+  },
+  {
+    "id": "00340",
+    "pdm": "MESA REUNIÃO OVAL",
+    "grupo": 71
+  },
+  {
+    "id": 13688,
+    "pdm": "MESA JANTAR COM CADEIRAS",
+    "grupo": 71
+  },
+  {
+    "id": 13905,
+    "pdm": "MESA AUXILIAR",
+    "grupo": 71
+  },
+  {
+    "id": 13906,
+    "pdm": "MESA TAMPO VIDRO",
+    "grupo": 71
+  },
+  {
+    "id": 14006,
+    "pdm": "ARMÁRIO ARQUIVO",
+    "grupo": 71
+  },
+  {
+    "id": 14131,
+    "pdm": "PEDESTAL IDENTIFICADOR",
+    "grupo": 71
+  },
+  {
+    "id": 14250,
+    "pdm": "MÓDULO DE TRABALHO",
+    "grupo": 71
+  },
+  {
+    "id": 14362,
+    "pdm": "QUADRO CHAVES",
+    "grupo": 71
+  },
+  {
+    "id": 14370,
+    "pdm": "COFRE PAPELÃO",
+    "grupo": 71
+  },
+  {
+    "id": 14397,
+    "pdm": "MESA CENTRO",
+    "grupo": 71
+  },
+  {
+    "id": 14428,
+    "pdm": "TAMPO MOBILIÁRIO",
+    "grupo": 71
+  },
+  {
+    "id": 14433,
+    "pdm": "MÓVEL MULTIUSO.",
+    "grupo": 71
+  },
+  {
+    "id": 14659,
+    "pdm": "MESA SECRETARIA",
+    "grupo": 71
+  },
+  {
+    "id": 14660,
+    "pdm": "GRADE CARTEIRA ESCOLAR",
+    "grupo": 71
+  },
+  {
+    "id": 14663,
+    "pdm": "ENCOSTO CADEIRA ESCOLAR",
+    "grupo": 71
+  },
+  {
+    "id": 14662,
+    "pdm": "ASSENTO CADEIRA ESCOLAR",
+    "grupo": 71
+  },
+  {
+    "id": 14769,
+    "pdm": "TAMPO CARTEIRA ESCOLAR",
+    "grupo": 71
+  },
+  {
+    "id": 14945,
+    "pdm": "QUADRO BRANCO ELETRÔNICO",
+    "grupo": 71
+  },
+  {
+    "id": 14946,
+    "pdm": "BANCADA COM PIA E ARMÁRIO",
+    "grupo": 71
+  },
+  {
+    "id": 14955,
+    "pdm": "SOBRETAMPO ARMÁRIO MODULADO",
+    "grupo": 71
+  },
+  {
+    "id": 15010,
+    "pdm": "MESA PROFESSOR",
+    "grupo": 71
+  },
+  {
+    "id": 15174,
+    "pdm": "CONEXÃO MESAS",
+    "grupo": 71
+  },
+  {
+    "id": 15208,
+    "pdm": "ARMÁRIO COMPACTADOR DESLIZANTE",
+    "grupo": 71
+  },
+  {
+    "id": 15213,
+    "pdm": "CADEIRA COM PRANCHETA",
+    "grupo": 71
+  },
+  {
+    "id": 15295,
+    "pdm": "PORTA ARMÁRIO ESCRITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": 15306,
+    "pdm": "PAINEL ESTRUTURADO",
+    "grupo": 71
+  },
+  {
+    "id": 15325,
+    "pdm": "MESA COZINHA",
+    "grupo": 71
+  },
+  {
+    "id": 15329,
+    "pdm": "CONCHA CADEIRA ESCOLAR",
+    "grupo": 71
+  },
+  {
+    "id": 15338,
+    "pdm": "PLATAFORMA MONTAGEM BALCÃO",
+    "grupo": 71
+  },
+  {
+    "id": 15339,
+    "pdm": "CADEIRA REFEITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": 15546,
+    "pdm": "SUPORTE TEXTO MICROCOMPUTADOR",
+    "grupo": 71
+  },
+  {
+    "id": 15663,
+    "pdm": "SOFÁ-CAMA",
+    "grupo": 71
+  },
+  {
+    "id": 15876,
+    "pdm": "GABINETE MULTIMÍDIA",
+    "grupo": 71
+  },
+  {
+    "id": 15936,
+    "pdm": "CAMA METÁLICA DOBRÁVEL",
+    "grupo": 71
+  },
+  {
+    "id": 16322,
+    "pdm": "MESA PLÁSTICA",
+    "grupo": 71
+  },
+  {
+    "id": 16407,
+    "pdm": "BALCÃO TALHERES",
+    "grupo": 71
+  },
+  {
+    "id": 16454,
+    "pdm": "GAVETEIRO FIXO",
+    "grupo": 71
+  },
+  {
+    "id": 16464,
+    "pdm": "MESA PARA AUDITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": 16465,
+    "pdm": "BANCADA EQUIPAMENTO ELETRÔNICO",
+    "grupo": 71
+  },
+  {
+    "id": 16498,
+    "pdm": "PRANCHETA PARA POLTRONA AUDITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": 16504,
+    "pdm": "CADEIRA CONCHA",
+    "grupo": 71
+  },
+  {
+    "id": 16552,
+    "pdm": "PLACA MESA",
+    "grupo": 71
+  },
+  {
+    "id": 16569,
+    "pdm": "GABINETE MULTIUSO",
+    "grupo": 71
+  },
+  {
+    "id": 16587,
+    "pdm": "BASE GIRATÓRIA POLTRONA",
+    "grupo": 71
+  },
+  {
+    "id": 16599,
+    "pdm": "GAVETA RETRÁTIL TECLADO",
+    "grupo": 71
+  },
+  {
+    "id": 16647,
+    "pdm": "MESA DECORAÇÃO",
+    "grupo": 71
+  },
+  {
+    "id": 16648,
+    "pdm": "APARADOR DECORAÇÃO",
+    "grupo": 71
+  },
+  {
+    "id": 17360,
+    "pdm": "TRILHO ARMÁRIO",
+    "grupo": 71
+  },
+  {
+    "id": 17384,
+    "pdm": "QUADRO FLIP CHART",
+    "grupo": 71
+  },
+  {
+    "id": 17389,
+    "pdm": "CABECEIRA CAMA",
+    "grupo": 71
+  },
+  {
+    "id": 17448,
+    "pdm": "ARMÁRIO MADEIRA",
+    "grupo": 71
+  },
+  {
+    "id": 17694,
+    "pdm": "LOUSA INTERATIVA",
+    "grupo": 71
+  },
+  {
+    "id": 17763,
+    "pdm": "PÉ ARMÁRIO",
+    "grupo": 71
+  },
+  {
+    "id": 17811,
+    "pdm": "ACESSÓRIO BIOMBO",
+    "grupo": 71
+  },
+  {
+    "id": 17844,
+    "pdm": "COLCHÃO INFLÁVEL",
+    "grupo": 71
+  },
+  {
+    "id": 18313,
+    "pdm": "CABO TELESCÓPICO",
+    "grupo": 71
+  },
+  {
+    "id": 18365,
+    "pdm": "POLTRONA AUDITÓRIO",
+    "grupo": 71
+  },
+  {
+    "id": 18637,
+    "pdm": "PUFE",
+    "grupo": 71
+  },
+  {
+    "id": 18909,
+    "pdm": "CADEIRA ASCENSORISTA",
+    "grupo": 71
+  },
+  {
+    "id": 19039,
+    "pdm": "CABIDE MAPOTECA",
+    "grupo": 71
+  }
+]

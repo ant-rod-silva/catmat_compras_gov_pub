@@ -1,0 +1,342 @@
+[
+  {
+    "id": "01210",
+    "pdm": "ABSORVENTE HIGIÊNICO",
+    "grupo": 85
+  },
+  {
+    "id": "02160",
+    "pdm": "MAQUIAGEM",
+    "grupo": 85
+  },
+  {
+    "id": "02310",
+    "pdm": "ALICATE DE MANICURE",
+    "grupo": 85
+  },
+  {
+    "id": "02315",
+    "pdm": "ALICATE PARA CORTAR UNHA",
+    "grupo": 85
+  },
+  {
+    "id": "02316",
+    "pdm": "ALICATE PARA CUTICULA",
+    "grupo": 85
+  },
+  {
+    "id": "02676",
+    "pdm": "APARELHO BARBEAR",
+    "grupo": 85
+  },
+  {
+    "id": "02677",
+    "pdm": "APARELHO DE BARBEAR DESCARTAVEL",
+    "grupo": 85
+  },
+  {
+    "id": "02678",
+    "pdm": "APARELHO DE BARBEAR ELETRICO",
+    "grupo": 85
+  },
+  {
+    "id": "02821",
+    "pdm": "APARELHO BARBEAR DESCARTÁVEL",
+    "grupo": 85
+  },
+  {
+    "id": "03071",
+    "pdm": "CAPA CORTE CABELO",
+    "grupo": 85
+  },
+  {
+    "id": "03072",
+    "pdm": "ARTIGO DE MANICURE",
+    "grupo": 85
+  },
+  {
+    "id": "03073",
+    "pdm": "ARTIGO DE PEDICURE",
+    "grupo": 85
+  },
+  {
+    "id": "03076",
+    "pdm": "ARTIGO DE TOUCADOR PARA EMBELEZAMENTO",
+    "grupo": 85
+  },
+  {
+    "id": "04813",
+    "pdm": "CHAPA ALISAR CABELO",
+    "grupo": 85
+  },
+  {
+    "id": "05367",
+    "pdm": "COLÔNIA TOALETE",
+    "grupo": 85
+  },
+  {
+    "id": "05541",
+    "pdm": "CONDICIONADOR CABELOS",
+    "grupo": 85
+  },
+  {
+    "id": "05662",
+    "pdm": "ROLO PARA CABELO",
+    "grupo": 85
+  },
+  {
+    "id": "05729",
+    "pdm": "CONJUNTO HIGIENE",
+    "grupo": 85
+  },
+  {
+    "id": "05959",
+    "pdm": "CREME DE BARBA",
+    "grupo": 85
+  },
+  {
+    "id": "05960",
+    "pdm": "CREME DEPILATORIO",
+    "grupo": 85
+  },
+  {
+    "id": "06061",
+    "pdm": "DENTIFRÍCIO",
+    "grupo": 85
+  },
+  {
+    "id": "06110",
+    "pdm": "DESODORANTE",
+    "grupo": 85
+  },
+  {
+    "id": "06937",
+    "pdm": "ESCOVA BANHO",
+    "grupo": 85
+  },
+  {
+    "id": "06938",
+    "pdm": "ESCOVA CABELO",
+    "grupo": 85
+  },
+  {
+    "id": "06941",
+    "pdm": "ESCOVA DENTAL",
+    "grupo": 85
+  },
+  {
+    "id": "06946",
+    "pdm": "ESCOVA ROUPA",
+    "grupo": 85
+  },
+  {
+    "id": "06947",
+    "pdm": "ESCOVA UNHA",
+    "grupo": 85
+  },
+  {
+    "id": "06970",
+    "pdm": "ESMALTE DE UNHA",
+    "grupo": 85
+  },
+  {
+    "id": "07511",
+    "pdm": "FIO DENTAL",
+    "grupo": 85
+  },
+  {
+    "id": "07576",
+    "pdm": "FITA DENTAL",
+    "grupo": 85
+  },
+  {
+    "id": "07954",
+    "pdm": "GEL PARA TOUCADOR",
+    "grupo": 85
+  },
+  {
+    "id": "08122",
+    "pdm": "GUARDANAPO DE PAPEL",
+    "grupo": 85
+  },
+  {
+    "id": "08178",
+    "pdm": "HASTE FLEXÍVEL",
+    "grupo": 85
+  },
+  {
+    "id": "08612",
+    "pdm": "LÂMINA BARBEAR",
+    "grupo": 85
+  },
+  {
+    "id": "08768",
+    "pdm": "LENCO DE PAPEL",
+    "grupo": 85
+  },
+  {
+    "id": "08839",
+    "pdm": "LIMA UNHA",
+    "grupo": 85
+  },
+  {
+    "id": "08896",
+    "pdm": "LIXA UNHA",
+    "grupo": 85
+  },
+  {
+    "id": "08900",
+    "pdm": "LOCAO DE BARBA",
+    "grupo": 85
+  },
+  {
+    "id": "08902",
+    "pdm": "LOCAO PARA LIMPEZA DE PELE",
+    "grupo": 85
+  },
+  {
+    "id": 10045,
+    "pdm": "NAVALHA",
+    "grupo": 85
+  },
+  {
+    "id": 10370,
+    "pdm": "PAPEL DE USO EM ATIVIDADES DE TOUCADOR",
+    "grupo": 85
+  },
+  {
+    "id": 10371,
+    "pdm": "PAPEL DE USO FACIAL",
+    "grupo": 85
+  },
+  {
+    "id": 10383,
+    "pdm": "PAPEL HIGIÊNICO",
+    "grupo": 85
+  },
+  {
+    "id": 10630,
+    "pdm": "PENTE DE CABELO",
+    "grupo": 85
+  },
+  {
+    "id": 10663,
+    "pdm": "PERFUME",
+    "grupo": 85
+  },
+  {
+    "id": 10733,
+    "pdm": "PINCEL",
+    "grupo": 85
+  },
+  {
+    "id": 11199,
+    "pdm": "PREPARADO PARA BARBA",
+    "grupo": 85
+  },
+  {
+    "id": 11862,
+    "pdm": "SABAO DE BARBA",
+    "grupo": 85
+  },
+  {
+    "id": 11869,
+    "pdm": "SABONETE",
+    "grupo": 85
+  },
+  {
+    "id": 11870,
+    "pdm": "SABONETE LÍQUIDO",
+    "grupo": 85
+  },
+  {
+    "id": 12487,
+    "pdm": "TALCO DE TOUCADOR",
+    "grupo": 85
+  },
+  {
+    "id": 12489,
+    "pdm": "TALCO PARA BARBA",
+    "grupo": 85
+  },
+  {
+    "id": 12681,
+    "pdm": "TESOURA CORTE CABELO",
+    "grupo": 85
+  },
+  {
+    "id": 12682,
+    "pdm": "TESOURA MANICURE",
+    "grupo": 85
+  },
+  {
+    "id": 12792,
+    "pdm": "TOALHA DE PAPEL",
+    "grupo": 85
+  },
+  {
+    "id": 12849,
+    "pdm": "TOUCA BANHO",
+    "grupo": 85
+  },
+  {
+    "id": 13484,
+    "pdm": "XAMPU",
+    "grupo": 85
+  },
+  {
+    "id": 14305,
+    "pdm": "DESODORIZADOR SANITÁRIO",
+    "grupo": 85
+  },
+  {
+    "id": 15570,
+    "pdm": "LENÇO DESCARTÁVEL",
+    "grupo": 85
+  },
+  {
+    "id": 16164,
+    "pdm": "PROTETOR ASSENTO SANITÁRIO",
+    "grupo": 85
+  },
+  {
+    "id": 17286,
+    "pdm": "SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS",
+    "grupo": 85
+  },
+  {
+    "id": 17287,
+    "pdm": "ARTIGOS PARA HIGIENE PESSOAL",
+    "grupo": 85
+  },
+  {
+    "id": 17288,
+    "pdm": "ARTIGOS DE PAPEL PARA HIGIENE",
+    "grupo": 85
+  },
+  {
+    "id": 17440,
+    "pdm": "EMULSÃO EMOLIENTE",
+    "grupo": 85
+  },
+  {
+    "id": 17721,
+    "pdm": "APLICADOR TINTURA",
+    "grupo": 85
+  },
+  {
+    "id": 17722,
+    "pdm": "GRAMPO CABELO",
+    "grupo": 85
+  },
+  {
+    "id": 17729,
+    "pdm": "PRENDEDOR DE CABELO",
+    "grupo": 85
+  },
+  {
+    "id": 18409,
+    "pdm": "REFIL ABSORVENTE HIGIÊNICO",
+    "grupo": 85
+  }
+]

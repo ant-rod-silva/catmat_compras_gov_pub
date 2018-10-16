@@ -1,0 +1,892 @@
+[
+  {
+    "id": "00185",
+    "pdm": "TINTA NANQUIM",
+    "grupo": 80
+  },
+  {
+    "id": "01205",
+    "pdm": "ARGAMASSA",
+    "grupo": 80
+  },
+  {
+    "id": "01299",
+    "pdm": "SOLVENTE",
+    "grupo": 80
+  },
+  {
+    "id": "01469",
+    "pdm": "AGUARRÁS",
+    "grupo": 80
+  },
+  {
+    "id": "01475",
+    "pdm": "SOLVENTE INDUSTRIAL",
+    "grupo": 80
+  },
+  {
+    "id": "01480",
+    "pdm": "CORANTE TINTA",
+    "grupo": 80
+  },
+  {
+    "id": "01501",
+    "pdm": "TINTA ACRÍLICA",
+    "grupo": 80
+  },
+  {
+    "id": "01502",
+    "pdm": "ZARCÃO",
+    "grupo": 80
+  },
+  {
+    "id": "01508",
+    "pdm": "MASSA CORRIDA",
+    "grupo": 80
+  },
+  {
+    "id": "01509",
+    "pdm": "SELADOR TINTA PREDIAL",
+    "grupo": 80
+  },
+  {
+    "id": "01522",
+    "pdm": "FIXADOR TINTA",
+    "grupo": 80
+  },
+  {
+    "id": "01565",
+    "pdm": "MASSA PONÇAR MADEIRA",
+    "grupo": 80
+  },
+  {
+    "id": "01566",
+    "pdm": "ÓLEO LINHAÇA",
+    "grupo": 80
+  },
+  {
+    "id": "01567",
+    "pdm": "BROXA PINTURA",
+    "grupo": 80
+  },
+  {
+    "id": "01568",
+    "pdm": "ESCOVA PINTURA",
+    "grupo": 80
+  },
+  {
+    "id": "01570",
+    "pdm": "PINCEL ARTE PLÁSTICA",
+    "grupo": 80
+  },
+  {
+    "id": "01571",
+    "pdm": "PISTOLA PINTURA ARTÍSTICA",
+    "grupo": 80
+  },
+  {
+    "id": "01572",
+    "pdm": "ROLO PINTURA PREDIAL",
+    "grupo": 80
+  },
+  {
+    "id": "01573",
+    "pdm": "TRINCHA",
+    "grupo": 80
+  },
+  {
+    "id": "01574",
+    "pdm": "GOMA ARÁBICA",
+    "grupo": 80
+  },
+  {
+    "id": "01592",
+    "pdm": "MASSA AUTOMOTIVA",
+    "grupo": 80
+  },
+  {
+    "id": "01593",
+    "pdm": "MASSA POLIR",
+    "grupo": 80
+  },
+  {
+    "id": "01594",
+    "pdm": "REMOVEDOR TINTA",
+    "grupo": 80
+  },
+  {
+    "id": "01595",
+    "pdm": "TINTA LACA",
+    "grupo": 80
+  },
+  {
+    "id": "01596",
+    "pdm": "TINTA MARÍTIMA",
+    "grupo": 80
+  },
+  {
+    "id": "01597",
+    "pdm": "TINTA ÓLEO",
+    "grupo": 80
+  },
+  {
+    "id": "01598",
+    "pdm": "TINTA SERIGRÁFICA",
+    "grupo": 80
+  },
+  {
+    "id": "02104",
+    "pdm": "ADESIVO COLAGEM",
+    "grupo": 80
+  },
+  {
+    "id": "02105",
+    "pdm": "ADESIVO DE GAXETA",
+    "grupo": 80
+  },
+  {
+    "id": "02106",
+    "pdm": "ADESIVO JUNTA MOTOR",
+    "grupo": 80
+  },
+  {
+    "id": "02107",
+    "pdm": "ADESIVO USO GERAL",
+    "grupo": 80
+  },
+  {
+    "id": "02292",
+    "pdm": "ALGODAO DE ENVERNIZAMENTO",
+    "grupo": 80
+  },
+  {
+    "id": "02552",
+    "pdm": "ANTI - GRIMPAGEM",
+    "grupo": 80
+  },
+  {
+    "id": "02576",
+    "pdm": "ANTICORROSIVO",
+    "grupo": 80
+  },
+  {
+    "id": "03262",
+    "pdm": "BÁLSAMO DO CANADÁ",
+    "grupo": 80
+  },
+  {
+    "id": "03306",
+    "pdm": "BANDEJA PINTURA",
+    "grupo": 80
+  },
+  {
+    "id": "04034",
+    "pdm": "CABO ROLO DE PINTURA",
+    "grupo": 80
+  },
+  {
+    "id": "04776",
+    "pdm": "CERA DE CORREAME ( PRESERVATIVO )",
+    "grupo": 80
+  },
+  {
+    "id": "04777",
+    "pdm": "CERA DE CORREIA",
+    "grupo": 80
+  },
+  {
+    "id": "05307",
+    "pdm": "COLA COURO",
+    "grupo": 80
+  },
+  {
+    "id": "05308",
+    "pdm": "ADESIVO MONOCOMPONENTE",
+    "grupo": 80
+  },
+  {
+    "id": "05310",
+    "pdm": "COLA PLÁSTICA DE GLOGEM",
+    "grupo": 80
+  },
+  {
+    "id": "05311",
+    "pdm": "COLA DE CASEINA",
+    "grupo": 80
+  },
+  {
+    "id": "05312",
+    "pdm": "COLA ISOPOR",
+    "grupo": 80
+  },
+  {
+    "id": "05313",
+    "pdm": "COLA JUNTA MOTOR",
+    "grupo": 80
+  },
+  {
+    "id": "05314",
+    "pdm": "COLA MADEIRA",
+    "grupo": 80
+  },
+  {
+    "id": "05315",
+    "pdm": "COLA GRANULADA",
+    "grupo": 80
+  },
+  {
+    "id": "05316",
+    "pdm": "COLA INSTANTÂNEA",
+    "grupo": 80
+  },
+  {
+    "id": "05317",
+    "pdm": "COLA LÍQUIDA",
+    "grupo": 80
+  },
+  {
+    "id": "05318",
+    "pdm": "COLA NATURAL",
+    "grupo": 80
+  },
+  {
+    "id": "05319",
+    "pdm": "COLA FÓRMICA",
+    "grupo": 80
+  },
+  {
+    "id": "05320",
+    "pdm": "COLA PARA PINTURA",
+    "grupo": 80
+  },
+  {
+    "id": "05322",
+    "pdm": "COLA PLÁSTICA",
+    "grupo": 80
+  },
+  {
+    "id": "05325",
+    "pdm": "COLA SELADORA CADARCO - EQUIPAMENTO GRAFICO",
+    "grupo": 80
+  },
+  {
+    "id": "05326",
+    "pdm": "COLA SILICONE",
+    "grupo": 80
+  },
+  {
+    "id": "05327",
+    "pdm": "COLA SINTÉTICA",
+    "grupo": 80
+  },
+  {
+    "id": "05328",
+    "pdm": "COLA EPÓXI",
+    "grupo": 80
+  },
+  {
+    "id": "05475",
+    "pdm": "COMPOSTO ANTI - ADERENTE",
+    "grupo": 80
+  },
+  {
+    "id": "05477",
+    "pdm": "COMPOSTO ANTICORROSÃO",
+    "grupo": 80
+  },
+  {
+    "id": "05479",
+    "pdm": "COMPOSTO REVESTIMENTO MADEIRA",
+    "grupo": 80
+  },
+  {
+    "id": "05480",
+    "pdm": "COMPOSTO REVESTIMENTO TECIDO",
+    "grupo": 80
+  },
+  {
+    "id": "05481",
+    "pdm": "PAPELÃO GUARNITAL VELUMÓIDE",
+    "grupo": 80
+  },
+  {
+    "id": "05482",
+    "pdm": "COMPOSTO VEDAÇÃO TANQUE",
+    "grupo": 80
+  },
+  {
+    "id": "05483",
+    "pdm": "COMPOSTO VEDAÇÃO TUBULAÇÃO",
+    "grupo": 80
+  },
+  {
+    "id": "05484",
+    "pdm": "COMPOSTO DE VITRIFICAR",
+    "grupo": 80
+  },
+  {
+    "id": "05486",
+    "pdm": "COMPOSTO REVESTIMENTO METAIS",
+    "grupo": 80
+  },
+  {
+    "id": "05487",
+    "pdm": "COMPOSTO PRESERVATIVO",
+    "grupo": 80
+  },
+  {
+    "id": "05488",
+    "pdm": "COMPOSTO PRESERVATIVO CONTRA FOGO",
+    "grupo": 80
+  },
+  {
+    "id": "05493",
+    "pdm": "COMPOSTO RESISTENTE A AGUA",
+    "grupo": 80
+  },
+  {
+    "id": "05494",
+    "pdm": "COMPOSTO RESISTENTE A INTEMPÉRIES",
+    "grupo": 80
+  },
+  {
+    "id": "05495",
+    "pdm": "COMPOSTO RESISTENTE AO FOGO",
+    "grupo": 80
+  },
+  {
+    "id": "05496",
+    "pdm": "COMPOSTO SELANTE",
+    "grupo": 80
+  },
+  {
+    "id": "06210",
+    "pdm": "DILUENTE TINTA",
+    "grupo": 80
+  },
+  {
+    "id": "06249",
+    "pdm": "DISCO ADESIVO",
+    "grupo": 80
+  },
+  {
+    "id": "06536",
+    "pdm": "EMULSÃO ADESIVA",
+    "grupo": 80
+  },
+  {
+    "id": "06537",
+    "pdm": "EMULSÃO ASFÁLTICA",
+    "grupo": 80
+  },
+  {
+    "id": "07338",
+    "pdm": "FELTRO ASFALTICO",
+    "grupo": 80
+  },
+  {
+    "id": "07549",
+    "pdm": "FITA ADESIVA",
+    "grupo": 80
+  },
+  {
+    "id": "07550",
+    "pdm": "FITA ADESIVA - SILICONE",
+    "grupo": 80
+  },
+  {
+    "id": "07552",
+    "pdm": "FITA ADESIVA ANTICORROSIVA",
+    "grupo": 80
+  },
+  {
+    "id": "08030",
+    "pdm": "GOMA GRÁFICA",
+    "grupo": 80
+  },
+  {
+    "id": "08031",
+    "pdm": "GOMA LACA",
+    "grupo": 80
+  },
+  {
+    "id": "08032",
+    "pdm": "GOMA PLÁSTICA",
+    "grupo": 80
+  },
+  {
+    "id": "08295",
+    "pdm": "IMPERMEABILIZANTE",
+    "grupo": 80
+  },
+  {
+    "id": "08364",
+    "pdm": "INDUTOR",
+    "grupo": 80
+  },
+  {
+    "id": "09119",
+    "pdm": "MANTA ASFÁLTICA",
+    "grupo": 80
+  },
+  {
+    "id": "09419",
+    "pdm": "MASSA DE PONCAR TINTA PARA MARCACAO DO TRAFEGO",
+    "grupo": 80
+  },
+  {
+    "id": "09420",
+    "pdm": "MASSA VEDAÇÃO",
+    "grupo": 80
+  },
+  {
+    "id": "09421",
+    "pdm": "MASSA NIVELADORA",
+    "grupo": 80
+  },
+  {
+    "id": "09422",
+    "pdm": "MASSA MARITIMA",
+    "grupo": 80
+  },
+  {
+    "id": "09425",
+    "pdm": "MASSA PLÁSTICA",
+    "grupo": 80
+  },
+  {
+    "id": "09429",
+    "pdm": "ADESIVO SELANTE ELÁSTICO",
+    "grupo": 80
+  },
+  {
+    "id": "09436",
+    "pdm": "MATERIAL",
+    "grupo": 80
+  },
+  {
+    "id": 10075,
+    "pdm": "NEOPRENE EXPANDIDO",
+    "grupo": 80
+  },
+  {
+    "id": 10184,
+    "pdm": "OLEO DE OITICICA",
+    "grupo": 80
+  },
+  {
+    "id": 10191,
+    "pdm": "OLEO DE TUNGUE",
+    "grupo": 80
+  },
+  {
+    "id": 10211,
+    "pdm": "OLEO SECATIVO",
+    "grupo": 80
+  },
+  {
+    "id": 10706,
+    "pdm": "PIGMENTO DE COLORIR TINTA",
+    "grupo": 80
+  },
+  {
+    "id": 10707,
+    "pdm": "PIGMENTO DE VERMICULITE EXPANDIDA",
+    "grupo": 80
+  },
+  {
+    "id": 10731,
+    "pdm": "PINCEL",
+    "grupo": 80
+  },
+  {
+    "id": 10734,
+    "pdm": "PINCEL PINTURA PREDIAL",
+    "grupo": 80
+  },
+  {
+    "id": 10751,
+    "pdm": "PINTURA A BASE DE COLA",
+    "grupo": 80
+  },
+  {
+    "id": 10792,
+    "pdm": "PISTOLA APLICADORA",
+    "grupo": 80
+  },
+  {
+    "id": 10963,
+    "pdm": "POLIETILENO - SACO / REVESTIMENTO",
+    "grupo": 80
+  },
+  {
+    "id": 10964,
+    "pdm": "POLIETILENO DE PROTECAO DE GASODUTO",
+    "grupo": 80
+  },
+  {
+    "id": 10966,
+    "pdm": "POLIETILENO PARA PROTECAO DE OLEODUTO",
+    "grupo": 80
+  },
+  {
+    "id": 11211,
+    "pdm": "SOLUÇÃO ASFÁLTICA",
+    "grupo": 80
+  },
+  {
+    "id": 11212,
+    "pdm": "PRIMER",
+    "grupo": 80
+  },
+  {
+    "id": 11348,
+    "pdm": "ADESIVO CONEXÃO HIDRÁULICA",
+    "grupo": 80
+  },
+  {
+    "id": 11428,
+    "pdm": "REAGENTE PARA TINTA",
+    "grupo": 80
+  },
+  {
+    "id": 11516,
+    "pdm": "REDUTOR DE TINTA",
+    "grupo": 80
+  },
+  {
+    "id": 11964,
+    "pdm": "SECANTE",
+    "grupo": 80
+  },
+  {
+    "id": 11965,
+    "pdm": "SECANTE DE VERNIZ ASFALTICO",
+    "grupo": 80
+  },
+  {
+    "id": 11979,
+    "pdm": "SELADOR",
+    "grupo": 80
+  },
+  {
+    "id": 12061,
+    "pdm": "SÍLICA GEL",
+    "grupo": 80
+  },
+  {
+    "id": 12066,
+    "pdm": "SILICONE ADESIVO",
+    "grupo": 80
+  },
+  {
+    "id": 12184,
+    "pdm": "SOLDA A FRIO",
+    "grupo": 80
+  },
+  {
+    "id": 12213,
+    "pdm": "SOLUÇÃO USO GRÁFICO",
+    "grupo": 80
+  },
+  {
+    "id": 12257,
+    "pdm": "SOLVENTE DE TINTA A BASE DE MALTA",
+    "grupo": 80
+  },
+  {
+    "id": 12258,
+    "pdm": "SOLVENTE DE TINTA DE TECIDO",
+    "grupo": 80
+  },
+  {
+    "id": 12259,
+    "pdm": "SOLVENTE TINTA GRÁFICA",
+    "grupo": 80
+  },
+  {
+    "id": 12261,
+    "pdm": "SOLVENTE MARITIMO",
+    "grupo": 80
+  },
+  {
+    "id": 12262,
+    "pdm": "SOLVENTE PARA CONSTRUCAO CIVIL",
+    "grupo": 80
+  },
+  {
+    "id": 12263,
+    "pdm": "SOLVENTE PARA TINTA",
+    "grupo": 80
+  },
+  {
+    "id": 12586,
+    "pdm": "TEFLON",
+    "grupo": 80
+  },
+  {
+    "id": 12733,
+    "pdm": "TINTA BASE ÁGUA",
+    "grupo": 80
+  },
+  {
+    "id": 12734,
+    "pdm": "TINTA AQUARELA",
+    "grupo": 80
+  },
+  {
+    "id": 12735,
+    "pdm": "TINTA ARTÍSTICA",
+    "grupo": 80
+  },
+  {
+    "id": 12736,
+    "pdm": "TINTA BASE / PRIMER",
+    "grupo": 80
+  },
+  {
+    "id": 12737,
+    "pdm": "TINTA DEMARCAÇÃO SINALIZAÇÃO",
+    "grupo": 80
+  },
+  {
+    "id": 12740,
+    "pdm": "TINTA DE MARCACAO DE ROUPA",
+    "grupo": 80
+  },
+  {
+    "id": 12741,
+    "pdm": "TINTA GUACHE",
+    "grupo": 80
+  },
+  {
+    "id": 12742,
+    "pdm": "TINTA AUTOMOTIVA",
+    "grupo": 80
+  },
+  {
+    "id": 12743,
+    "pdm": "TINTA DE PINTURA DE CALCADO",
+    "grupo": 80
+  },
+  {
+    "id": 12744,
+    "pdm": "TINTA DE PINTURA DE PNEU",
+    "grupo": 80
+  },
+  {
+    "id": 12745,
+    "pdm": "TINTA PINTURA PREDIAL",
+    "grupo": 80
+  },
+  {
+    "id": 12746,
+    "pdm": "TINTA ESMALTE",
+    "grupo": 80
+  },
+  {
+    "id": 12747,
+    "pdm": "TINTA FOSFORESCENTE",
+    "grupo": 80
+  },
+  {
+    "id": 12748,
+    "pdm": "TINTA GRÁFICA",
+    "grupo": 80
+  },
+  {
+    "id": 12749,
+    "pdm": "TINTA INDUSTRIAL",
+    "grupo": 80
+  },
+  {
+    "id": 12752,
+    "pdm": "TINTA PARA CONSTRUCAO CIVIL",
+    "grupo": 80
+  },
+  {
+    "id": 12755,
+    "pdm": "TINTA",
+    "grupo": 80
+  },
+  {
+    "id": 13397,
+    "pdm": "VERNIZ INDUSTRIAL",
+    "grupo": 80
+  },
+  {
+    "id": 13399,
+    "pdm": "VERNIZ",
+    "grupo": 80
+  },
+  {
+    "id": 13730,
+    "pdm": "REMOVEDOR TINTA IMPRESSÃO DIGITAL",
+    "grupo": 80
+  },
+  {
+    "id": 13732,
+    "pdm": "AMACIADOR TINTA",
+    "grupo": 80
+  },
+  {
+    "id": 13894,
+    "pdm": "COLA",
+    "grupo": 80
+  },
+  {
+    "id": 13917,
+    "pdm": "REMOVEDOR FERRUGEM",
+    "grupo": 80
+  },
+  {
+    "id": 13942,
+    "pdm": "COLA FUSÃO A QUENTE",
+    "grupo": 80
+  },
+  {
+    "id": 13986,
+    "pdm": "IMPERMEABILIZANTE/REJUVENESCEDOR BORRACHA",
+    "grupo": 80
+  },
+  {
+    "id": 13988,
+    "pdm": "ADESIVO VULCANIZAÇÃO BORRACHA",
+    "grupo": 80
+  },
+  {
+    "id": 14168,
+    "pdm": "MASSA ZARCÃO",
+    "grupo": 80
+  },
+  {
+    "id": 14378,
+    "pdm": "TINTA GRAFITE",
+    "grupo": 80
+  },
+  {
+    "id": 14406,
+    "pdm": "FILME BIORIENTADO",
+    "grupo": 80
+  },
+  {
+    "id": 14797,
+    "pdm": "COLA PARA ENVELOPADORA",
+    "grupo": 80
+  },
+  {
+    "id": 15204,
+    "pdm": "TINTA CONDUTIVA",
+    "grupo": 80
+  },
+  {
+    "id": 15254,
+    "pdm": "TINTA ALUMÍNIO",
+    "grupo": 80
+  },
+  {
+    "id": 15394,
+    "pdm": "CONJUNTO (KIT) - PINTURA",
+    "grupo": 80
+  },
+  {
+    "id": 15565,
+    "pdm": "ADESIVO TERMOPLÁSTICO",
+    "grupo": 80
+  },
+  {
+    "id": 15751,
+    "pdm": "COLA ORIGEM ANIMAL",
+    "grupo": 80
+  },
+  {
+    "id": 15768,
+    "pdm": "MANTA ELASTÔMERO",
+    "grupo": 80
+  },
+  {
+    "id": 15797,
+    "pdm": "TINTA TATUAGEM",
+    "grupo": 80
+  },
+  {
+    "id": 16034,
+    "pdm": "PASTA ANTIDECALCANTE",
+    "grupo": 80
+  },
+  {
+    "id": 16338,
+    "pdm": "REVESTIMENTO TEXTURA",
+    "grupo": 80
+  },
+  {
+    "id": 16435,
+    "pdm": "FUNDO NIVELADOR",
+    "grupo": 80
+  },
+  {
+    "id": 16566,
+    "pdm": "ENEGRECEDOR",
+    "grupo": 80
+  },
+  {
+    "id": 17249,
+    "pdm": "TINGIDOR",
+    "grupo": 80
+  },
+  {
+    "id": 17250,
+    "pdm": "PINCEL PARA ARTISTAS E PINTORES",
+    "grupo": 80
+  },
+  {
+    "id": 17251,
+    "pdm": "COMPOSTOS PRESERVATIVOS E VEDANTES",
+    "grupo": 80
+  },
+  {
+    "id": 17252,
+    "pdm": "ADESIVO VEDA-CALHA",
+    "grupo": 80
+  },
+  {
+    "id": 17550,
+    "pdm": "COAGULANTE DE TINTA",
+    "grupo": 80
+  },
+  {
+    "id": 17649,
+    "pdm": "TINTA EMBORRACHAMENTO AUTOMOTIVO",
+    "grupo": 80
+  },
+  {
+    "id": 18211,
+    "pdm": "COLA DE ISOPOR",
+    "grupo": 80
+  },
+  {
+    "id": 18304,
+    "pdm": "CAMPO DUBLADO",
+    "grupo": 80
+  },
+  {
+    "id": 18334,
+    "pdm": "CAMISA ROLO",
+    "grupo": 80
+  },
+  {
+    "id": 18516,
+    "pdm": "TINTA PINTURA FACIAL",
+    "grupo": 80
+  },
+  {
+    "id": 18517,
+    "pdm": "PINTURA DEDO",
+    "grupo": 80
+  },
+  {
+    "id": 19218,
+    "pdm": "CONTROLE DE LIXAMENTO",
+    "grupo": 80
+  }
+]

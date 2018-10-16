@@ -1,0 +1,11197 @@
+[
+  {
+    "id": "00013",
+    "pdm": "ÁCIDO BENZÓICO",
+    "grupo": 68
+  },
+  {
+    "id": "00045",
+    "pdm": "ÁCIDO BÓRICO",
+    "grupo": 68
+  },
+  {
+    "id": "00085",
+    "pdm": "ACETATO DE ETILA",
+    "grupo": 68
+  },
+  {
+    "id": "00265",
+    "pdm": "ACETATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "00364",
+    "pdm": "PARATIONA METÍLICA",
+    "grupo": 68
+  },
+  {
+    "id": "00366",
+    "pdm": "HALOSULFUROM",
+    "grupo": 68
+  },
+  {
+    "id": "00474",
+    "pdm": "LUMINOL",
+    "grupo": 68
+  },
+  {
+    "id": "00475",
+    "pdm": "MERCAPTOETANOL",
+    "grupo": 68
+  },
+  {
+    "id": "00709",
+    "pdm": "ÁCIDO ACÉTICO",
+    "grupo": 68
+  },
+  {
+    "id": "00711",
+    "pdm": "ÁCIDO FÓRMICO",
+    "grupo": 68
+  },
+  {
+    "id": "00712",
+    "pdm": "ÁCIDO FLUORÍDRICO",
+    "grupo": 68
+  },
+  {
+    "id": "00713",
+    "pdm": "ÁCIDO NÍTRICO",
+    "grupo": 68
+  },
+  {
+    "id": "00714",
+    "pdm": "AMILORIDA",
+    "grupo": 68
+  },
+  {
+    "id": "00716",
+    "pdm": "NITROBENZILDENAMINO",
+    "grupo": 68
+  },
+  {
+    "id": "00717",
+    "pdm": "CARBONATO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": "00719",
+    "pdm": "ÁLCOOL BENZÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "00720",
+    "pdm": "DISSULFETO DE DIETILA",
+    "grupo": 68
+  },
+  {
+    "id": "00721",
+    "pdm": "CLORETO DE ANTIMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "00722",
+    "pdm": "CORANTE",
+    "grupo": 68
+  },
+  {
+    "id": "00723",
+    "pdm": "EPINASTINA",
+    "grupo": 68
+  },
+  {
+    "id": "00724",
+    "pdm": "ÁCIDO CAPRÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "00725",
+    "pdm": "CICLOFOSFAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "00726",
+    "pdm": "CÚRCUMA",
+    "grupo": 68
+  },
+  {
+    "id": "00727",
+    "pdm": "MISTURA URUCUM E CÚRCUMA",
+    "grupo": 68
+  },
+  {
+    "id": "00728",
+    "pdm": "URUCUM",
+    "grupo": 68
+  },
+  {
+    "id": "00729",
+    "pdm": "CLOXACILINA",
+    "grupo": 68
+  },
+  {
+    "id": "00730",
+    "pdm": "ÁCIDO ANTRANÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "00731",
+    "pdm": "FENAZINA",
+    "grupo": 68
+  },
+  {
+    "id": "00732",
+    "pdm": "HIDROXILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "00733",
+    "pdm": "ACETATO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": "00734",
+    "pdm": "CARTAPE",
+    "grupo": 68
+  },
+  {
+    "id": "00735",
+    "pdm": "RITONAVIR",
+    "grupo": 68
+  },
+  {
+    "id": "00736",
+    "pdm": "ÍNDIO",
+    "grupo": 68
+  },
+  {
+    "id": "00737",
+    "pdm": "IRÍDIO",
+    "grupo": 68
+  },
+  {
+    "id": "00738",
+    "pdm": "GÁLIO",
+    "grupo": 68
+  },
+  {
+    "id": "00739",
+    "pdm": "NITRATO DE PRATA SOLUÇÃO (VER CLASSE 6810)",
+    "grupo": 68
+  },
+  {
+    "id": "00740",
+    "pdm": "RUTINA",
+    "grupo": 68
+  },
+  {
+    "id": "00741",
+    "pdm": "CLORPROMAZINA",
+    "grupo": 68
+  },
+  {
+    "id": "00742",
+    "pdm": "SULFITO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "00743",
+    "pdm": "METAMITRONA",
+    "grupo": 68
+  },
+  {
+    "id": "00744",
+    "pdm": "ÓXIDO DE TÁLIO",
+    "grupo": 68
+  },
+  {
+    "id": "00773",
+    "pdm": "CLORETO DE FERRO",
+    "grupo": 68
+  },
+  {
+    "id": "00774",
+    "pdm": "COBALTO",
+    "grupo": 68
+  },
+  {
+    "id": "00775",
+    "pdm": "ENXOFRE",
+    "grupo": 68
+  },
+  {
+    "id": "00776",
+    "pdm": "FENOL",
+    "grupo": 68
+  },
+  {
+    "id": "00777",
+    "pdm": "FLUOROANILINA",
+    "grupo": 68
+  },
+  {
+    "id": "00778",
+    "pdm": "IODOANILINA",
+    "grupo": 68
+  },
+  {
+    "id": "00779",
+    "pdm": "IODOFENOL",
+    "grupo": 68
+  },
+  {
+    "id": "00780",
+    "pdm": "FLUORETO DE 4-(2-AMINOETIL)BENZENOSULFONILA",
+    "grupo": 68
+  },
+  {
+    "id": "00782",
+    "pdm": "GLICEROL",
+    "grupo": 68
+  },
+  {
+    "id": "00786",
+    "pdm": "HIDROQUINONA (BENZENO-1,4-DIOL)",
+    "grupo": 68
+  },
+  {
+    "id": "00787",
+    "pdm": "HIDRÓXIDO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "00788",
+    "pdm": "ÁCIDO CLORÍDRICO",
+    "grupo": 68
+  },
+  {
+    "id": "00790",
+    "pdm": "HIPOCLORITO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "00791",
+    "pdm": "MERCÚRIO",
+    "grupo": 68
+  },
+  {
+    "id": "00792",
+    "pdm": "ÓXIDO DE ÓSMIO",
+    "grupo": 68
+  },
+  {
+    "id": "00794",
+    "pdm": "NITRATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "00795",
+    "pdm": "PROPANO",
+    "grupo": 68
+  },
+  {
+    "id": "00796",
+    "pdm": "PARAFINA",
+    "grupo": 68
+  },
+  {
+    "id": "00797",
+    "pdm": "SULFATO DE ALUMÍNIO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "00798",
+    "pdm": "TEREBENTINA",
+    "grupo": 68
+  },
+  {
+    "id": "00799",
+    "pdm": "URÉIA",
+    "grupo": 68
+  },
+  {
+    "id": "00800",
+    "pdm": "METACRILOILA",
+    "grupo": 68
+  },
+  {
+    "id": "00802",
+    "pdm": "TÁLIO",
+    "grupo": 68
+  },
+  {
+    "id": "00809",
+    "pdm": "CROMO",
+    "grupo": 68
+  },
+  {
+    "id": "00848",
+    "pdm": "ACETONA",
+    "grupo": 68
+  },
+  {
+    "id": "00873",
+    "pdm": "OXAZOLIDINONA",
+    "grupo": 68
+  },
+  {
+    "id": "00875",
+    "pdm": "ÉTER DIETÍLICO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "00876",
+    "pdm": "CLORITO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "00877",
+    "pdm": "POTÁSSIO METÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": "00902",
+    "pdm": "CLORETO DE IODO",
+    "grupo": 68
+  },
+  {
+    "id": "00943",
+    "pdm": "ESTEARATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "01231",
+    "pdm": "DIETILENOTRIAMINA (DETA)",
+    "grupo": 68
+  },
+  {
+    "id": "01238",
+    "pdm": "FUCOSE",
+    "grupo": 68
+  },
+  {
+    "id": "01250",
+    "pdm": "TETRAFLUORBORATO DE TETRAMIBICOBRE I",
+    "grupo": 68
+  },
+  {
+    "id": "01251",
+    "pdm": "METAMIDOFÓS",
+    "grupo": 68
+  },
+  {
+    "id": "01498",
+    "pdm": "N-(2-HIDROXIETIL)ETILENODIAMINOTRIACÉTICO",
+    "grupo": 68
+  },
+  {
+    "id": "01555",
+    "pdm": "ANIDRIDO MALEICO",
+    "grupo": 68
+  },
+  {
+    "id": "01589",
+    "pdm": "ITÉRBIO",
+    "grupo": 68
+  },
+  {
+    "id": "01604",
+    "pdm": "HEXADECANO",
+    "grupo": 68
+  },
+  {
+    "id": "01608",
+    "pdm": "CLORETO DE METILTIONÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01613",
+    "pdm": "ÁCIDO MESO-2,3-DIMERCAPTOSUCCÍNICO (DMSA)",
+    "grupo": 68
+  },
+  {
+    "id": "01614",
+    "pdm": "NITRATO DE PALÁDIO II",
+    "grupo": 68
+  },
+  {
+    "id": "01616",
+    "pdm": "ÁLCOOL DODECÍLICO (LAURÍLICO)",
+    "grupo": 68
+  },
+  {
+    "id": "01618",
+    "pdm": "PÚRPURA DE FTALEÍNA",
+    "grupo": 68
+  },
+  {
+    "id": "01619",
+    "pdm": "ESTIRENO",
+    "grupo": 68
+  },
+  {
+    "id": "01620",
+    "pdm": "METACRILATO",
+    "grupo": 68
+  },
+  {
+    "id": "01623",
+    "pdm": "SORBITOL",
+    "grupo": 68
+  },
+  {
+    "id": "01624",
+    "pdm": "SALICILALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "01625",
+    "pdm": "BUTIRALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "01626",
+    "pdm": "PROPIONALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "01627",
+    "pdm": "CRESOL",
+    "grupo": 68
+  },
+  {
+    "id": "01628",
+    "pdm": "VALEROLACTONA",
+    "grupo": 68
+  },
+  {
+    "id": "01629",
+    "pdm": "ÁCIDO SUCCÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": "01630",
+    "pdm": "ÁCIDO ALFA-CETOGLUTÁRICO",
+    "grupo": 68
+  },
+  {
+    "id": "01632",
+    "pdm": "DIMETOMORFE",
+    "grupo": 68
+  },
+  {
+    "id": "01633",
+    "pdm": "DOPAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "01634",
+    "pdm": "FENANTROLINA",
+    "grupo": 68
+  },
+  {
+    "id": "01635",
+    "pdm": "ÁCIDO GLICÓLICO",
+    "grupo": 68
+  },
+  {
+    "id": "01636",
+    "pdm": "PROLINA",
+    "grupo": 68
+  },
+  {
+    "id": "01638",
+    "pdm": "DASATINIBE",
+    "grupo": 68
+  },
+  {
+    "id": "01639",
+    "pdm": "DIMETILFENOL",
+    "grupo": 68
+  },
+  {
+    "id": "01646",
+    "pdm": "IMATINIBE",
+    "grupo": 68
+  },
+  {
+    "id": "01676",
+    "pdm": "METAIODOBENZILGUANIDINA (MIBG)",
+    "grupo": 68
+  },
+  {
+    "id": "01678",
+    "pdm": "N,N-1,2 DIETILENO-L-CISTEÍNA DIETIL ÉSTER (ECD)",
+    "grupo": 68
+  },
+  {
+    "id": "01711",
+    "pdm": "CLARIFICANTE",
+    "grupo": 68
+  },
+  {
+    "id": "01727",
+    "pdm": "ACETALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "01728",
+    "pdm": "ÁCIDO SULFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": "01732",
+    "pdm": "CIANETO DE COBRE",
+    "grupo": 68
+  },
+  {
+    "id": "01734",
+    "pdm": "ÓXIDO DE CÉRIO(IV)",
+    "grupo": 68
+  },
+  {
+    "id": "01735",
+    "pdm": "ACETATO DE PRATA",
+    "grupo": 68
+  },
+  {
+    "id": "01736",
+    "pdm": "ACETATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01740",
+    "pdm": "ACETANILIDA",
+    "grupo": 68
+  },
+  {
+    "id": "01741",
+    "pdm": "FLUORETO DE CÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": "01743",
+    "pdm": "ACETATO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": "01745",
+    "pdm": "N,N'-METILENOBIS(ACRILAMIDA)",
+    "grupo": 68
+  },
+  {
+    "id": "01746",
+    "pdm": "ACETATO DE CHUMBO",
+    "grupo": 68
+  },
+  {
+    "id": "01748",
+    "pdm": "PICOXISTROBINA",
+    "grupo": 68
+  },
+  {
+    "id": "01749",
+    "pdm": "ACETATO DE MANGANÊS",
+    "grupo": 68
+  },
+  {
+    "id": "01750",
+    "pdm": "ÁCIDO BUTÍRICO",
+    "grupo": 68
+  },
+  {
+    "id": "01752",
+    "pdm": "ERITROPOIETINA",
+    "grupo": 68
+  },
+  {
+    "id": "01753",
+    "pdm": "ESPIRONOLACTONA",
+    "grupo": 68
+  },
+  {
+    "id": "01754",
+    "pdm": "ESTREPTOZOCINA",
+    "grupo": 68
+  },
+  {
+    "id": "01755",
+    "pdm": "1-TIOGLICEROL",
+    "grupo": 68
+  },
+  {
+    "id": "01756",
+    "pdm": "SULFATO DE CHUMBO",
+    "grupo": 68
+  },
+  {
+    "id": "01757",
+    "pdm": "CARBONATO DE MAGNÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": "01758",
+    "pdm": "POLI(HIDROCLORETO DE ALILAMINA)",
+    "grupo": 68
+  },
+  {
+    "id": "01759",
+    "pdm": "ÁCIDO POLI(VINILSULFÔNICO)",
+    "grupo": 68
+  },
+  {
+    "id": "01760",
+    "pdm": "SULFATO DE ALUMÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01761",
+    "pdm": "NITRATO DE ZINCO",
+    "grupo": 68
+  },
+  {
+    "id": "01762",
+    "pdm": "SULFATO DE NÍQUEL",
+    "grupo": 68
+  },
+  {
+    "id": "01763",
+    "pdm": "CLORETO DE PALÁDIO II",
+    "grupo": 68
+  },
+  {
+    "id": "01764",
+    "pdm": "PERÓXIDO DE BÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": "01765",
+    "pdm": "2-BUTANONA (METIL-ETIL-CETONA)",
+    "grupo": 68
+  },
+  {
+    "id": "01766",
+    "pdm": "ACETATO DE COBALTO",
+    "grupo": 68
+  },
+  {
+    "id": "01768",
+    "pdm": "POLI(CLORETO DE DIALILDIMETILAMÔNIO)",
+    "grupo": 68
+  },
+  {
+    "id": "01770",
+    "pdm": "QUINURAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "01771",
+    "pdm": "BIOTINA",
+    "grupo": 68
+  },
+  {
+    "id": "01772",
+    "pdm": "MICROPEROXIDASE",
+    "grupo": 68
+  },
+  {
+    "id": "01773",
+    "pdm": "HEXACLOROETANO",
+    "grupo": 68
+  },
+  {
+    "id": "01774",
+    "pdm": "SILICETO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": "01776",
+    "pdm": "DIETILCARBAMAZINA",
+    "grupo": 68
+  },
+  {
+    "id": "01777",
+    "pdm": "ÁCIDO POLIACRÍLICO (PAA)",
+    "grupo": 68
+  },
+  {
+    "id": "01778",
+    "pdm": "POLIMETILENO POLIFENILISOCIANATO",
+    "grupo": 68
+  },
+  {
+    "id": "01780",
+    "pdm": "ACETONITRILA DEUTERADA",
+    "grupo": 68
+  },
+  {
+    "id": "01781",
+    "pdm": "PROPANOSSULFONATO",
+    "grupo": 68
+  },
+  {
+    "id": "01783",
+    "pdm": "METANOL DEUTERADO",
+    "grupo": 68
+  },
+  {
+    "id": "01784",
+    "pdm": "CARBAZOL",
+    "grupo": 68
+  },
+  {
+    "id": "01785",
+    "pdm": "GLUTATIONA",
+    "grupo": 68
+  },
+  {
+    "id": "01788",
+    "pdm": "ANISALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "01789",
+    "pdm": "ÁCIDO FÍTICO",
+    "grupo": 68
+  },
+  {
+    "id": "01790",
+    "pdm": "ACESSULFAMO",
+    "grupo": 68
+  },
+  {
+    "id": "01791",
+    "pdm": "CLORETO DE CÁLCIO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "01792",
+    "pdm": "ÁCIDO TRIFLUOROACÉTICO (TFA)",
+    "grupo": 68
+  },
+  {
+    "id": "01793",
+    "pdm": "ACETATO DE ZIRCÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01794",
+    "pdm": "CLORGILINA",
+    "grupo": 68
+  },
+  {
+    "id": "01796",
+    "pdm": "ACETATO DE MERCÚRIO",
+    "grupo": 68
+  },
+  {
+    "id": "01797",
+    "pdm": "MERBROMINA",
+    "grupo": 68
+  },
+  {
+    "id": "01798",
+    "pdm": "ACETATO DE VINILA",
+    "grupo": 68
+  },
+  {
+    "id": "01799",
+    "pdm": "CUPFERRON",
+    "grupo": 68
+  },
+  {
+    "id": "01801",
+    "pdm": "DAIDZENA",
+    "grupo": 68
+  },
+  {
+    "id": "01803",
+    "pdm": "NITRATO CÉRICO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01804",
+    "pdm": "ANIDRIDO PROPIÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": "01805",
+    "pdm": "ÁCIDO CAPRÓICO",
+    "grupo": 68
+  },
+  {
+    "id": "01806",
+    "pdm": "ÓXIDO DE DISPRÓSIO",
+    "grupo": 68
+  },
+  {
+    "id": "01807",
+    "pdm": "TIDIAZUROM",
+    "grupo": 68
+  },
+  {
+    "id": "01808",
+    "pdm": "2,2-BIQUINOLINA",
+    "grupo": 68
+  },
+  {
+    "id": "01809",
+    "pdm": "ÓXIDO DE LIMONENO",
+    "grupo": 68
+  },
+  {
+    "id": "01811",
+    "pdm": "N-ALFA-TOSIL-L-LISINA-CLOROMETILCETONA",
+    "grupo": 68
+  },
+  {
+    "id": "01812",
+    "pdm": "TEMBOTRIONA",
+    "grupo": 68
+  },
+  {
+    "id": "01813",
+    "pdm": "DIISOPROPIL AZODICARBOXILATO (DIAD)",
+    "grupo": 68
+  },
+  {
+    "id": "01814",
+    "pdm": "TIMINA",
+    "grupo": 68
+  },
+  {
+    "id": "01816",
+    "pdm": "IMAZAMOXI",
+    "grupo": 68
+  },
+  {
+    "id": "01817",
+    "pdm": "N-BENZOIL-L-TIROSINA-PARANITROANILIDA",
+    "grupo": 68
+  },
+  {
+    "id": "01818",
+    "pdm": "OXALATO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": "01819",
+    "pdm": "ACETATO DE ZINCO",
+    "grupo": 68
+  },
+  {
+    "id": "01821",
+    "pdm": "ACETILACETONATO DE HOLMIO",
+    "grupo": 68
+  },
+  {
+    "id": "01822",
+    "pdm": "CLORETO DE HOLMIO",
+    "grupo": 68
+  },
+  {
+    "id": "01823",
+    "pdm": "ACETILACETONATO DE RUTÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01825",
+    "pdm": "ACETILCOLINA",
+    "grupo": 68
+  },
+  {
+    "id": "01826",
+    "pdm": "ÓXIDO DE BÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": "01827",
+    "pdm": "ÓXIDO DE BERÍLIO",
+    "grupo": 68
+  },
+  {
+    "id": "01828",
+    "pdm": "ÓXIDO DE COBALTO",
+    "grupo": 68
+  },
+  {
+    "id": "01829",
+    "pdm": "ÓXIDO DE ESTRÔNCIO",
+    "grupo": 68
+  },
+  {
+    "id": "01830",
+    "pdm": "ÓXIDO DE HÁFNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01831",
+    "pdm": "ÓXIDO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": "01832",
+    "pdm": "ÓXIDO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "01833",
+    "pdm": "ÓXIDO DE TUNGSTÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01834",
+    "pdm": "ÓXIDO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "01835",
+    "pdm": "ACETOFENONA",
+    "grupo": 68
+  },
+  {
+    "id": "01836",
+    "pdm": "ÁCIDO 3-NITROFTÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": "01837",
+    "pdm": "4,4'-METILENOBIS(N,N-DIMETILANILINA)",
+    "grupo": 68
+  },
+  {
+    "id": "01839",
+    "pdm": "ACETATO DE BÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": "01840",
+    "pdm": "ACETATO DE ANTIMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01842",
+    "pdm": "ACETATO DE BISMUTO",
+    "grupo": 68
+  },
+  {
+    "id": "01843",
+    "pdm": "TRIANCINOLONA",
+    "grupo": 68
+  },
+  {
+    "id": "01844",
+    "pdm": "ACETATO DE CÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": "01845",
+    "pdm": "ACETATO DE FERRO",
+    "grupo": 68
+  },
+  {
+    "id": "01846",
+    "pdm": "ACETATO DE ESTANHO",
+    "grupo": 68
+  },
+  {
+    "id": "01847",
+    "pdm": "ACETONITRILA",
+    "grupo": 68
+  },
+  {
+    "id": "01848",
+    "pdm": "AZADIRACTINA",
+    "grupo": 68
+  },
+  {
+    "id": "01849",
+    "pdm": "ACETATO DE RUBÍDIO",
+    "grupo": 68
+  },
+  {
+    "id": "01850",
+    "pdm": "ACETATO DE SILÍCIO",
+    "grupo": 68
+  },
+  {
+    "id": "01853",
+    "pdm": "ÓXIDO DE ÍNDIO E ESTANHO",
+    "grupo": 68
+  },
+  {
+    "id": "01854",
+    "pdm": "ACICLOVIR",
+    "grupo": 68
+  },
+  {
+    "id": "01856",
+    "pdm": "ÁCIDO ÚRICO",
+    "grupo": 68
+  },
+  {
+    "id": "01857",
+    "pdm": "BROMETO DE DIMETILDIOCTADECILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01858",
+    "pdm": "PADRÃO DE AGROTÓXICO",
+    "grupo": 68
+  },
+  {
+    "id": "01859",
+    "pdm": "ÁCIDO CAFÊICO",
+    "grupo": 68
+  },
+  {
+    "id": "01860",
+    "pdm": "ÁCIDO ACÉTICO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "01861",
+    "pdm": "CLORETO DE OCTANOÍLA",
+    "grupo": 68
+  },
+  {
+    "id": "01862",
+    "pdm": "SULFATO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": "01863",
+    "pdm": "ÁCIDO 1,2-CICLOHEXILENO DINITRO-TETRACÉTICO (CDTA)",
+    "grupo": 68
+  },
+  {
+    "id": "01864",
+    "pdm": "ÁCIDO DICLOROISOCIANÚRICO (DCIA)",
+    "grupo": 68
+  },
+  {
+    "id": "01865",
+    "pdm": "BROMATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "01866",
+    "pdm": "SALICILATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "01867",
+    "pdm": "NITRATO DE COBRE II",
+    "grupo": 68
+  },
+  {
+    "id": "01868",
+    "pdm": "GENISTEÍNA",
+    "grupo": 68
+  },
+  {
+    "id": "01870",
+    "pdm": "BENZALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "01871",
+    "pdm": "ÓXIDO DE FERRO III",
+    "grupo": 68
+  },
+  {
+    "id": "01873",
+    "pdm": "FORMIATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01875",
+    "pdm": "ÓXIDO DE MANGANÊS",
+    "grupo": 68
+  },
+  {
+    "id": "01876",
+    "pdm": "ÓXIDO DE NÍQUEL",
+    "grupo": 68
+  },
+  {
+    "id": "01877",
+    "pdm": "ÓXIDO DE CÁDMIO",
+    "grupo": 68
+  },
+  {
+    "id": "01878",
+    "pdm": "ÓXIDO DE PRATA",
+    "grupo": 68
+  },
+  {
+    "id": "01879",
+    "pdm": "ÓXIDO DE TITÂNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01880",
+    "pdm": "ÓXIDO DE FÓSFORO V",
+    "grupo": 68
+  },
+  {
+    "id": "01881",
+    "pdm": "ÓXIDO DE ALUMÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01882",
+    "pdm": "BROMETO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": "01883",
+    "pdm": "CHUMBO",
+    "grupo": 68
+  },
+  {
+    "id": "01884",
+    "pdm": "TIOSEMICARBAZIDA",
+    "grupo": 68
+  },
+  {
+    "id": "01885",
+    "pdm": "CIANETO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "01886",
+    "pdm": "CICLOHEXILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "01887",
+    "pdm": "CICLOPENTANO",
+    "grupo": 68
+  },
+  {
+    "id": "01888",
+    "pdm": "HEXAMETILDISILAZANO",
+    "grupo": 68
+  },
+  {
+    "id": "01889",
+    "pdm": "ÁCIDO IÓDICO",
+    "grupo": 68
+  },
+  {
+    "id": "01890",
+    "pdm": "ÓXIDO DE CHUMBO",
+    "grupo": 68
+  },
+  {
+    "id": "01891",
+    "pdm": "ÁCIDO CÍTRICO",
+    "grupo": 68
+  },
+  {
+    "id": "01892",
+    "pdm": "ÁCIDO DIGLICÓLICO",
+    "grupo": 68
+  },
+  {
+    "id": "01893",
+    "pdm": "SULFATO DE BÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": "01895",
+    "pdm": "COLCHICINA",
+    "grupo": 68
+  },
+  {
+    "id": "01896",
+    "pdm": "CICLOPENTANONA",
+    "grupo": 68
+  },
+  {
+    "id": "01897",
+    "pdm": "CARBONATO DE DIETILA",
+    "grupo": 68
+  },
+  {
+    "id": "01898",
+    "pdm": "CETILTRIMETILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01899",
+    "pdm": "CLORETO DE CETILTRIMETILAMÔNIO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "01900",
+    "pdm": "FLUDIOXONIL",
+    "grupo": 68
+  },
+  {
+    "id": "01901",
+    "pdm": "DIMETILCICLOPENTASILOXANO",
+    "grupo": 68
+  },
+  {
+    "id": "01902",
+    "pdm": "SULFAMATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01903",
+    "pdm": "UBIQUICIDINA",
+    "grupo": 68
+  },
+  {
+    "id": "01904",
+    "pdm": "ÁCIDO 3-MERCAPTOPROPIÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": "01905",
+    "pdm": "ÁCIDO CROMOTRÓPICO",
+    "grupo": 68
+  },
+  {
+    "id": "01906",
+    "pdm": "ÁCIDO DIETILENO TRIAMINO PENTACÉTICO",
+    "grupo": 68
+  },
+  {
+    "id": "01907",
+    "pdm": "ÁCIDO CLORANÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "01908",
+    "pdm": "2,2-DIFENIL-1-PICRILHIDRAZIL (DPPH)",
+    "grupo": 68
+  },
+  {
+    "id": "01909",
+    "pdm": "BACITRACINA",
+    "grupo": 68
+  },
+  {
+    "id": "01910",
+    "pdm": "4-METOXICINAMATO DE 2-ETILHEXILA (OCTINOXATO)",
+    "grupo": 68
+  },
+  {
+    "id": "01911",
+    "pdm": "SINVASTATINA",
+    "grupo": 68
+  },
+  {
+    "id": "01912",
+    "pdm": "TIOCONAZOL",
+    "grupo": 68
+  },
+  {
+    "id": "01914",
+    "pdm": "PERÓXIDO DE BENZOÍLA",
+    "grupo": 68
+  },
+  {
+    "id": "01917",
+    "pdm": "CLORETO DE BISMUTO III",
+    "grupo": 68
+  },
+  {
+    "id": "01918",
+    "pdm": "ÁCIDO ESTEÁRICO",
+    "grupo": 68
+  },
+  {
+    "id": "01919",
+    "pdm": "FORBOL 12-MIRISTATO 13-ACETATO",
+    "grupo": 68
+  },
+  {
+    "id": "01920",
+    "pdm": "SULFETO DE CARBONO",
+    "grupo": 68
+  },
+  {
+    "id": "01921",
+    "pdm": "DICICLOPENTADIENO",
+    "grupo": 68
+  },
+  {
+    "id": "01922",
+    "pdm": "DIFENILTIOCARBAZONA",
+    "grupo": 68
+  },
+  {
+    "id": "01923",
+    "pdm": "ETILBENZENO",
+    "grupo": 68
+  },
+  {
+    "id": "01924",
+    "pdm": "SILICATO DE MAGNÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": "01925",
+    "pdm": "URACILA",
+    "grupo": 68
+  },
+  {
+    "id": "01926",
+    "pdm": "1,2-BIS(DIFENILFOSFINO)ETANE (DPPE)",
+    "grupo": 68
+  },
+  {
+    "id": "01928",
+    "pdm": "ÁCIDO BICINCHONÍNICO (BCA)",
+    "grupo": 68
+  },
+  {
+    "id": "01929",
+    "pdm": "ÁCIDO CLOROGÊNICO",
+    "grupo": 68
+  },
+  {
+    "id": "01931",
+    "pdm": "ÁCIDO SULFANÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "01932",
+    "pdm": "OXAZOL",
+    "grupo": 68
+  },
+  {
+    "id": "01933",
+    "pdm": "ÁCIDO FOSFOTÚNGSTICO (PTA)",
+    "grupo": 68
+  },
+  {
+    "id": "01935",
+    "pdm": "ÉTER DIETÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "01936",
+    "pdm": "CLORETO DE CHUMBO",
+    "grupo": 68
+  },
+  {
+    "id": "01937",
+    "pdm": "ÁCIDO FLUOSSILÍCICO",
+    "grupo": 68
+  },
+  {
+    "id": "01939",
+    "pdm": "ÁCIDO NAFTALOACÉTICO (NAA)",
+    "grupo": 68
+  },
+  {
+    "id": "01940",
+    "pdm": "FLUORESCEÍNA",
+    "grupo": 68
+  },
+  {
+    "id": "01941",
+    "pdm": "FTALATO DE DIETILA (DEP)",
+    "grupo": 68
+  },
+  {
+    "id": "01942",
+    "pdm": "RODAMINA B",
+    "grupo": 68
+  },
+  {
+    "id": "01943",
+    "pdm": "9,10-BIS(FENILETINIL)ANTRACENO",
+    "grupo": 68
+  },
+  {
+    "id": "01944",
+    "pdm": "CLORETO DE OXALILA",
+    "grupo": 68
+  },
+  {
+    "id": "01945",
+    "pdm": "TRIS(2-2BIPIRIDIL)DICLORORUTÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01946",
+    "pdm": "CLORETO DE METANOSSULFONILA",
+    "grupo": 68
+  },
+  {
+    "id": "01947",
+    "pdm": "1,3-DIFENILISOBENZOFURANO",
+    "grupo": 68
+  },
+  {
+    "id": "01948",
+    "pdm": "SULFETO DE CÁDMIO",
+    "grupo": 68
+  },
+  {
+    "id": "01949",
+    "pdm": "5,6,11,12-TETRAFENILNAFTACENO",
+    "grupo": 68
+  },
+  {
+    "id": "01950",
+    "pdm": "CICLOPENTANEDIONA",
+    "grupo": 68
+  },
+  {
+    "id": "01951",
+    "pdm": "SILICATO DE SÓDIO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "01952",
+    "pdm": "ÁCIDO INDOL-3-BUTÍRICO",
+    "grupo": 68
+  },
+  {
+    "id": "01953",
+    "pdm": "ÁCIDO 5-HIDROXINDOL-3-ACÉTICO (5-HIAA)",
+    "grupo": 68
+  },
+  {
+    "id": "01954",
+    "pdm": "ÁCIDO HOMOVANÍLICO (HVA)",
+    "grupo": 68
+  },
+  {
+    "id": "01955",
+    "pdm": "ESCOPOLAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "01956",
+    "pdm": "HEXACOSANO",
+    "grupo": 68
+  },
+  {
+    "id": "01957",
+    "pdm": "BORO",
+    "grupo": 68
+  },
+  {
+    "id": "01958",
+    "pdm": "ACETILACETONATO DE CROMO",
+    "grupo": 68
+  },
+  {
+    "id": "01959",
+    "pdm": "OCTILFENOXIPOLIETOXIETANOL",
+    "grupo": 68
+  },
+  {
+    "id": "01961",
+    "pdm": "ÁCIDO ABSCÍSICO",
+    "grupo": 68
+  },
+  {
+    "id": "01962",
+    "pdm": "ÁCIDO DIFENILAMINO SULFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": "01963",
+    "pdm": "ÁCIDO 3-(TRIMETILSILIL) PROPIÔNICO-2,2,3,3-D4",
+    "grupo": 68
+  },
+  {
+    "id": "01964",
+    "pdm": "SESQUIOLEATO DE SORBITANO",
+    "grupo": 68
+  },
+  {
+    "id": "01965",
+    "pdm": "CONDROITINA",
+    "grupo": 68
+  },
+  {
+    "id": "01966",
+    "pdm": "ÁCIDO TRICLOROISOCIANÚRICO (TCIA)",
+    "grupo": 68
+  },
+  {
+    "id": "01967",
+    "pdm": "3-AMINO-7-(DIMETILAMINO)-2-METILFENAZINA",
+    "grupo": 68
+  },
+  {
+    "id": "01968",
+    "pdm": "OXICLORETO DE COBRE",
+    "grupo": 68
+  },
+  {
+    "id": "01969",
+    "pdm": "IPRODIONA",
+    "grupo": 68
+  },
+  {
+    "id": "01970",
+    "pdm": "TRIFLOXISTROBINA",
+    "grupo": 68
+  },
+  {
+    "id": "01971",
+    "pdm": "TIOFANATO-METÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "01973",
+    "pdm": "CAPTANA",
+    "grupo": 68
+  },
+  {
+    "id": "01974",
+    "pdm": "MANCOZEBE",
+    "grupo": 68
+  },
+  {
+    "id": "01975",
+    "pdm": "TEBUCONAZOL",
+    "grupo": 68
+  },
+  {
+    "id": "01976",
+    "pdm": "CRESOXIM METÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "01977",
+    "pdm": "DITIANONA",
+    "grupo": 68
+  },
+  {
+    "id": "01978",
+    "pdm": "FENTIONA",
+    "grupo": 68
+  },
+  {
+    "id": "01979",
+    "pdm": "PARAQUATE",
+    "grupo": 68
+  },
+  {
+    "id": "01980",
+    "pdm": "GLIFOSATO",
+    "grupo": 68
+  },
+  {
+    "id": "01981",
+    "pdm": "METIRAM",
+    "grupo": 68
+  },
+  {
+    "id": "01982",
+    "pdm": "ÁLCOOL OCTÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "01983",
+    "pdm": "GLIOXAL",
+    "grupo": 68
+  },
+  {
+    "id": "01984",
+    "pdm": "ÁCIDO CLORÍDRICO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "01985",
+    "pdm": "LUFENUROM",
+    "grupo": 68
+  },
+  {
+    "id": "01986",
+    "pdm": "ESPINOSADE",
+    "grupo": 68
+  },
+  {
+    "id": "01987",
+    "pdm": "FOSFETO DE ALUMÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": "01988",
+    "pdm": "ÁCIDO 2,4-DICLOROFENOXIACÉTICO",
+    "grupo": 68
+  },
+  {
+    "id": "01989",
+    "pdm": "TRIFLUMUROM",
+    "grupo": 68
+  },
+  {
+    "id": "01990",
+    "pdm": "1,6-DIAMINOHEXANO",
+    "grupo": 68
+  },
+  {
+    "id": "01991",
+    "pdm": "ÁCIDO LINOLÊICO",
+    "grupo": 68
+  },
+  {
+    "id": "01992",
+    "pdm": "ÁCIDO LÁTICO",
+    "grupo": 68
+  },
+  {
+    "id": "01993",
+    "pdm": "NITROBENZENO",
+    "grupo": 68
+  },
+  {
+    "id": "01994",
+    "pdm": "ÁCIDO SULFUROSO",
+    "grupo": 68
+  },
+  {
+    "id": "01995",
+    "pdm": "ÁCIDO LINOLÊNICO",
+    "grupo": 68
+  },
+  {
+    "id": "01996",
+    "pdm": "ÁCIDO 2,6-DIPICOLÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": "01997",
+    "pdm": "ÁCIDO MALEICO (CIS-BUTENODIOICO)",
+    "grupo": 68
+  },
+  {
+    "id": "01998",
+    "pdm": "CEFOTAXIMA",
+    "grupo": 68
+  },
+  {
+    "id": "01999",
+    "pdm": "ÁCIDO MALÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": "02001",
+    "pdm": "ÁCIDO MOLÍBDICO",
+    "grupo": 68
+  },
+  {
+    "id": "02002",
+    "pdm": "ÁCIDO CLOROSULFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": "02003",
+    "pdm": "NICOSSULFUROM",
+    "grupo": 68
+  },
+  {
+    "id": "02004",
+    "pdm": "ÁCIDO GLICIRRÍZICO",
+    "grupo": 68
+  },
+  {
+    "id": "02005",
+    "pdm": "ÁCIDO NALIDÍXICO",
+    "grupo": 68
+  },
+  {
+    "id": "02007",
+    "pdm": "AZITROMICINA",
+    "grupo": 68
+  },
+  {
+    "id": "02009",
+    "pdm": "ÁCIDO NICOTÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": "02011",
+    "pdm": "ÁCIDO OLÉICO",
+    "grupo": 68
+  },
+  {
+    "id": "02012",
+    "pdm": "ÁCIDO 2,7-BIS(2-ARSONOFENILAZO)CROMOTRÓPICO",
+    "grupo": 68
+  },
+  {
+    "id": "02013",
+    "pdm": "ÁCIDO OXÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": "02014",
+    "pdm": "ÁCIDO P-CUMÁRICO",
+    "grupo": 68
+  },
+  {
+    "id": "02015",
+    "pdm": "ÁCIDO TÂNICO",
+    "grupo": 68
+  },
+  {
+    "id": "02016",
+    "pdm": "GALANTAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "02017",
+    "pdm": "ÁCIDO PERACÉTICO",
+    "grupo": 68
+  },
+  {
+    "id": "02018",
+    "pdm": "ÁCIDO PERCLÓRICO",
+    "grupo": 68
+  },
+  {
+    "id": "02019",
+    "pdm": "ÁCIDO PERIÓDICO",
+    "grupo": 68
+  },
+  {
+    "id": "02020",
+    "pdm": "ÁCIDO PÍCRICO",
+    "grupo": 68
+  },
+  {
+    "id": "02021",
+    "pdm": "ÁCIO TIOGLICÓLICO",
+    "grupo": 68
+  },
+  {
+    "id": "02022",
+    "pdm": "4-FLUOROBENZILA",
+    "grupo": 68
+  },
+  {
+    "id": "02024",
+    "pdm": "ÁCIDO ROSÓLICO",
+    "grupo": 68
+  },
+  {
+    "id": "02026",
+    "pdm": "CARBONATO DE COBRE",
+    "grupo": 68
+  },
+  {
+    "id": "02027",
+    "pdm": "ÁCIDO SALICÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "02028",
+    "pdm": "ÁCIDO SULFÂMICO",
+    "grupo": 68
+  },
+  {
+    "id": "02029",
+    "pdm": "ÁCIDO 5-SULFOSALICÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "02030",
+    "pdm": "ÁCIDO TARTÁRICO (2,3-DI-HIDROXIBUTANODIOICO)",
+    "grupo": 68
+  },
+  {
+    "id": "02033",
+    "pdm": "DISPRÓSIO",
+    "grupo": 68
+  },
+  {
+    "id": "02037",
+    "pdm": "ÁCIDO P-NITROBENZÓICO",
+    "grupo": 68
+  },
+  {
+    "id": "02038",
+    "pdm": "ÁCIDO 3-N-MORFOLINO PROPANSULFÔNICO (MOPS)",
+    "grupo": 68
+  },
+  {
+    "id": "02039",
+    "pdm": "ACIDULANTE",
+    "grupo": 68
+  },
+  {
+    "id": "02112",
+    "pdm": "AGENTE FOSFATIZANTE",
+    "grupo": 68
+  },
+  {
+    "id": "02113",
+    "pdm": "ADITIVO DE ELASTOMETRO",
+    "grupo": 68
+  },
+  {
+    "id": "02115",
+    "pdm": "ADITIVO LUBRIFICANTE",
+    "grupo": 68
+  },
+  {
+    "id": "02116",
+    "pdm": "ADITIVO",
+    "grupo": 68
+  },
+  {
+    "id": "02117",
+    "pdm": "ADITIVO RADIADOR",
+    "grupo": 68
+  },
+  {
+    "id": "02131",
+    "pdm": "N,N-(DIMETIL)ETILENODIAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "02134",
+    "pdm": "FTALATO DE DIBUTILA",
+    "grupo": 68
+  },
+  {
+    "id": "02152",
+    "pdm": "UMECTANTE",
+    "grupo": 68
+  },
+  {
+    "id": "02154",
+    "pdm": "DIFENOCONAZOL",
+    "grupo": 68
+  },
+  {
+    "id": "02157",
+    "pdm": "P-TOLUIDINA",
+    "grupo": 68
+  },
+  {
+    "id": "02159",
+    "pdm": "HIDRÓXIDO DE CÁLCIO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "02163",
+    "pdm": "HIDRÓXIDO DE SÓDIO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "02165",
+    "pdm": "ÉSTER METÍLICO DA N-OMEGA-NITRO-L-ARGININA",
+    "grupo": 68
+  },
+  {
+    "id": "02210",
+    "pdm": "METOXIACETOFENONA",
+    "grupo": 68
+  },
+  {
+    "id": "02243",
+    "pdm": "FURFURAL",
+    "grupo": 68
+  },
+  {
+    "id": "02250",
+    "pdm": "ÁLCOOL AMÍLICO (PENTÍLICO)",
+    "grupo": 68
+  },
+  {
+    "id": "02251",
+    "pdm": "PIRIDINAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "02253",
+    "pdm": "ARTESUNATO",
+    "grupo": 68
+  },
+  {
+    "id": "02254",
+    "pdm": "ÁCIDO GLICURÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": "02255",
+    "pdm": "ÁLCOOL POLIVINÍLICO (PVA)",
+    "grupo": 68
+  },
+  {
+    "id": "02256",
+    "pdm": "ÁLCOOL CETOESTEARÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "02257",
+    "pdm": "ÁCIDO MEDRÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": "02258",
+    "pdm": "URIDINA",
+    "grupo": 68
+  },
+  {
+    "id": "02260",
+    "pdm": "ÁLCOOL CETÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "02261",
+    "pdm": "ALILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "02262",
+    "pdm": "BENZILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "02263",
+    "pdm": "ÁLCOOL PROPÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "02264",
+    "pdm": "CODEÍNA",
+    "grupo": 68
+  },
+  {
+    "id": "02265",
+    "pdm": "ÁLCOOL METÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "02266",
+    "pdm": "ÁLCOOL CAPRÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "02269",
+    "pdm": "TIRAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "02270",
+    "pdm": "BENZENOSSULFONAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "02287",
+    "pdm": "ALGICIDA",
+    "grupo": 68
+  },
+  {
+    "id": "02289",
+    "pdm": "FURALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "02332",
+    "pdm": "TRIAZOFÓS",
+    "grupo": 68
+  },
+  {
+    "id": "02373",
+    "pdm": "1-AMINO HIDANTOÍNA",
+    "grupo": 68
+  },
+  {
+    "id": "02374",
+    "pdm": "NEOSTIGMINA",
+    "grupo": 68
+  },
+  {
+    "id": "02375",
+    "pdm": "CICLOPENTOLATO",
+    "grupo": 68
+  },
+  {
+    "id": "02376",
+    "pdm": "ESTAVUDINA",
+    "grupo": 68
+  },
+  {
+    "id": "02377",
+    "pdm": "CLOROBENZENO",
+    "grupo": 68
+  },
+  {
+    "id": "02389",
+    "pdm": "DEMECOLCINA",
+    "grupo": 68
+  },
+  {
+    "id": "02390",
+    "pdm": "AMARELO TARTRAZINA",
+    "grupo": 68
+  },
+  {
+    "id": "02407",
+    "pdm": "METILDOPA",
+    "grupo": 68
+  },
+  {
+    "id": "02412",
+    "pdm": "AMILOSE",
+    "grupo": 68
+  },
+  {
+    "id": "02413",
+    "pdm": "DIETANOLAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "02415",
+    "pdm": "ÁC.6-HIDROX-2,5,7,8-TETRAMETILCROMANO-2CARBOXÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "02416",
+    "pdm": "TETRAQUIS(TRIFENILFOSFINA)PALÁDIO(0)",
+    "grupo": 68
+  },
+  {
+    "id": "02425",
+    "pdm": "AMONÍACO",
+    "grupo": 68
+  },
+  {
+    "id": "02426",
+    "pdm": "PULEGONA",
+    "grupo": 68
+  },
+  {
+    "id": "02427",
+    "pdm": "IOIMBINA HIDROCLORETO",
+    "grupo": 68
+  },
+  {
+    "id": "02437",
+    "pdm": "BICARBONATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "02438",
+    "pdm": "ÁCIDO BEHENICO",
+    "grupo": 68
+  },
+  {
+    "id": "02439",
+    "pdm": "ACETATO DE AMILA",
+    "grupo": 68
+  },
+  {
+    "id": "02461",
+    "pdm": "DECANOL",
+    "grupo": 68
+  },
+  {
+    "id": "02513",
+    "pdm": "ANFOTERICINA B",
+    "grupo": 68
+  },
+  {
+    "id": "02518",
+    "pdm": "ANFÓTERO BETAÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": "02519",
+    "pdm": "ANIDRIDO ACÉTICO",
+    "grupo": 68
+  },
+  {
+    "id": "02520",
+    "pdm": "PENTAERITRITOL",
+    "grupo": 68
+  },
+  {
+    "id": "02521",
+    "pdm": "NITROANILINA",
+    "grupo": 68
+  },
+  {
+    "id": "02530",
+    "pdm": "ANIDRIDO FTÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": "02531",
+    "pdm": "ANLODIPINO",
+    "grupo": 68
+  },
+  {
+    "id": "02550",
+    "pdm": "ANTI - CONGELANTE",
+    "grupo": 68
+  },
+  {
+    "id": "02553",
+    "pdm": "MELATONINA",
+    "grupo": 68
+  },
+  {
+    "id": "02555",
+    "pdm": "3-METOXIPROPILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "02598",
+    "pdm": "BENZETÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "02605",
+    "pdm": "ANTIMONIATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "02608",
+    "pdm": "ALFACIPERMETRINA",
+    "grupo": 68
+  },
+  {
+    "id": "02609",
+    "pdm": "ANTIMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "02613",
+    "pdm": "PEFLOXACINO",
+    "grupo": 68
+  },
+  {
+    "id": "02757",
+    "pdm": "2-METOXIETANOL",
+    "grupo": 68
+  },
+  {
+    "id": "02760",
+    "pdm": "FENAMIDONA",
+    "grupo": 68
+  },
+  {
+    "id": "02793",
+    "pdm": "ISOPRENALINA",
+    "grupo": 68
+  },
+  {
+    "id": "02794",
+    "pdm": "BUPROFEZINA",
+    "grupo": 68
+  },
+  {
+    "id": "02799",
+    "pdm": "ÁLCOOL (S)-(-)-PERÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "02812",
+    "pdm": "ÁCIDO METILNORBORNENO-2,3-DICARBOXÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "02815",
+    "pdm": "(1S,2S,4R)-(+)-LIMONENO-1,2-DIOL",
+    "grupo": 68
+  },
+  {
+    "id": "02817",
+    "pdm": "ÓXIDO DE ARSÊNIO III",
+    "grupo": 68
+  },
+  {
+    "id": "02850",
+    "pdm": "MOXIDECTINA",
+    "grupo": 68
+  },
+  {
+    "id": "02851",
+    "pdm": "TETRACOSANOATO DE METILA",
+    "grupo": 68
+  },
+  {
+    "id": "02856",
+    "pdm": "NITROFENOL",
+    "grupo": 68
+  },
+  {
+    "id": "02869",
+    "pdm": "ORCINOL (5-METILBENZENO-1,3-DIOL)",
+    "grupo": 68
+  },
+  {
+    "id": "02955",
+    "pdm": "MEPIRAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "02987",
+    "pdm": "ARGILA ATIVADA",
+    "grupo": 68
+  },
+  {
+    "id": "03061",
+    "pdm": "ARSÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": "03085",
+    "pdm": "FENPROPATRINA",
+    "grupo": 68
+  },
+  {
+    "id": "03088",
+    "pdm": "ASPARTAME",
+    "grupo": 68
+  },
+  {
+    "id": "03107",
+    "pdm": "ATENOLOL",
+    "grupo": 68
+  },
+  {
+    "id": "03164",
+    "pdm": "AZIDA SÓDICA",
+    "grupo": 68
+  },
+  {
+    "id": "03168",
+    "pdm": "AZOBENZENO",
+    "grupo": 68
+  },
+  {
+    "id": "03170",
+    "pdm": "AZUL DE HIDROXINAFTOL",
+    "grupo": 68
+  },
+  {
+    "id": "03171",
+    "pdm": "AZUL BRILHANTE",
+    "grupo": 68
+  },
+  {
+    "id": "03172",
+    "pdm": "AZUL BRILHANTE CELESTINO",
+    "grupo": 68
+  },
+  {
+    "id": "03173",
+    "pdm": "AZUL BRILHANTE DE CRESIL",
+    "grupo": 68
+  },
+  {
+    "id": "03174",
+    "pdm": "AZUL BRILHANTE DE COOMASSIE",
+    "grupo": 68
+  },
+  {
+    "id": "03175",
+    "pdm": "AZUL DA CHINA",
+    "grupo": 68
+  },
+  {
+    "id": "03176",
+    "pdm": "AZUL DE ALGODAO",
+    "grupo": 68
+  },
+  {
+    "id": "03177",
+    "pdm": "AZUL DE BROMOCRESOL",
+    "grupo": 68
+  },
+  {
+    "id": "03178",
+    "pdm": "AZUL DE BROMOFENOL",
+    "grupo": 68
+  },
+  {
+    "id": "03179",
+    "pdm": "AZUL DE BROMOTIMOL",
+    "grupo": 68
+  },
+  {
+    "id": "03180",
+    "pdm": "METORFANO",
+    "grupo": 68
+  },
+  {
+    "id": "03181",
+    "pdm": "AZUL DE LOEFLER",
+    "grupo": 68
+  },
+  {
+    "id": "03183",
+    "pdm": "AZUL DE NILO",
+    "grupo": 68
+  },
+  {
+    "id": "03184",
+    "pdm": "AZUL DE TETRAZOLIO",
+    "grupo": 68
+  },
+  {
+    "id": "03185",
+    "pdm": "AZUL DE TIAZOLIL",
+    "grupo": 68
+  },
+  {
+    "id": "03186",
+    "pdm": "AZUL DE TIMOL",
+    "grupo": 68
+  },
+  {
+    "id": "03187",
+    "pdm": "AZUL DE TIONINA",
+    "grupo": 68
+  },
+  {
+    "id": "03188",
+    "pdm": "AZUL DE TOLUIDINA",
+    "grupo": 68
+  },
+  {
+    "id": "03189",
+    "pdm": "AZUL DE TRIPAN",
+    "grupo": 68
+  },
+  {
+    "id": "03191",
+    "pdm": "CARBARIL",
+    "grupo": 68
+  },
+  {
+    "id": "03194",
+    "pdm": "BETA-CAROTENO",
+    "grupo": 68
+  },
+  {
+    "id": "03197",
+    "pdm": "PERCABONATO DE O-TERC-BUTILO E DE O-2-ETILEXILO",
+    "grupo": 68
+  },
+  {
+    "id": "03260",
+    "pdm": "ANIDRIDO TETRAFLUOROFTÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": "03265",
+    "pdm": "ANIDRIDO DIFTÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": "03266",
+    "pdm": "DIANIDRIDO BIFENILTETRACARBOXÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "03327",
+    "pdm": "ANIDRIDO BUTILFTÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": "03344",
+    "pdm": "PREDNISONA",
+    "grupo": 68
+  },
+  {
+    "id": "03345",
+    "pdm": "BÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": "03404",
+    "pdm": "BROMEXINA",
+    "grupo": 68
+  },
+  {
+    "id": "03422",
+    "pdm": "FLUMEQUINA",
+    "grupo": 68
+  },
+  {
+    "id": "03487",
+    "pdm": "BAUXITA SINTETIZADA",
+    "grupo": 68
+  },
+  {
+    "id": "03498",
+    "pdm": "BENZENO",
+    "grupo": 68
+  },
+  {
+    "id": "03499",
+    "pdm": "BENZIDINA",
+    "grupo": 68
+  },
+  {
+    "id": "03500",
+    "pdm": "BENZINA",
+    "grupo": 68
+  },
+  {
+    "id": "03501",
+    "pdm": "6-BENZILAMINOPURINA",
+    "grupo": 68
+  },
+  {
+    "id": "03502",
+    "pdm": "BENZIMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "03505",
+    "pdm": "ANTRACENO",
+    "grupo": 68
+  },
+  {
+    "id": "03507",
+    "pdm": "BENZOÍNA",
+    "grupo": 68
+  },
+  {
+    "id": "03513",
+    "pdm": "CICLODEXTRINA",
+    "grupo": 68
+  },
+  {
+    "id": "03515",
+    "pdm": "BETAMETASONA",
+    "grupo": 68
+  },
+  {
+    "id": "03518",
+    "pdm": "IODETO DE MERCÚRIO II",
+    "grupo": 68
+  },
+  {
+    "id": "03520",
+    "pdm": "BICARBONATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "03521",
+    "pdm": "BICARBONATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "03539",
+    "pdm": "BOROHIDRETO DE TETRABUTILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "03540",
+    "pdm": "2,2-AZINO BIS(ÁCIDO 3-ETILBENZOTIAZOLINA-6-SUFÔNIC",
+    "grupo": 68
+  },
+  {
+    "id": "03548",
+    "pdm": "BICARBONATO DE SÓDIO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "03549",
+    "pdm": "ÓXIDO DE ANTIMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "03550",
+    "pdm": "TRIAZINA",
+    "grupo": 68
+  },
+  {
+    "id": "03552",
+    "pdm": "BIFTALATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "03559",
+    "pdm": "OXICLORETO DE FÓSFORO",
+    "grupo": 68
+  },
+  {
+    "id": "03561",
+    "pdm": "BIODEGRADADOR",
+    "grupo": 68
+  },
+  {
+    "id": "03571",
+    "pdm": "BISSULFATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "03573",
+    "pdm": "BISSULFATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "03574",
+    "pdm": "BISSULFITO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "03587",
+    "pdm": "BISMUTO",
+    "grupo": 68
+  },
+  {
+    "id": "03804",
+    "pdm": "BORATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "03863",
+    "pdm": "4-METOXIACETOFENONA",
+    "grupo": 68
+  },
+  {
+    "id": "03911",
+    "pdm": "BROMETO DE CETILTRIMETILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "03912",
+    "pdm": "ÁCIDO 8-ANILINO-1-NAFTHALENOSULFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": "03913",
+    "pdm": "BROMETO DE ETÍDIO",
+    "grupo": 68
+  },
+  {
+    "id": "03914",
+    "pdm": "AZUL DE TIMOL",
+    "grupo": 68
+  },
+  {
+    "id": "03916",
+    "pdm": "NITRATO DE ALUMÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": "03919",
+    "pdm": "BROMETO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "03923",
+    "pdm": "BROMETO DE IODO",
+    "grupo": 68
+  },
+  {
+    "id": "03925",
+    "pdm": "BROMO",
+    "grupo": 68
+  },
+  {
+    "id": "03926",
+    "pdm": "BROMOANILINA",
+    "grupo": 68
+  },
+  {
+    "id": "03928",
+    "pdm": "BROMONAFTALENO",
+    "grupo": 68
+  },
+  {
+    "id": "03930",
+    "pdm": "BROMOSUCCINIMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "03969",
+    "pdm": "TERC-BUTIL-HIDROQUINONA",
+    "grupo": 68
+  },
+  {
+    "id": "03970",
+    "pdm": "TRIBUTILFOSFINA",
+    "grupo": 68
+  },
+  {
+    "id": "04066",
+    "pdm": "BATOCUPROÍNA (BCP)",
+    "grupo": 68
+  },
+  {
+    "id": "04098",
+    "pdm": "CÁDMIO",
+    "grupo": 68
+  },
+  {
+    "id": "04103",
+    "pdm": "CAFEÍNA",
+    "grupo": 68
+  },
+  {
+    "id": "04185",
+    "pdm": "6-METOXI-2,5,7,8-TETRAMETILCROMANO-2-CARBOXILATO",
+    "grupo": 68
+  },
+  {
+    "id": "04186",
+    "pdm": "CAL SODADA",
+    "grupo": 68
+  },
+  {
+    "id": "04212",
+    "pdm": "ÁCIDO TRANS-MUCÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": "04213",
+    "pdm": "CROMATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "04232",
+    "pdm": "BROMETO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "04234",
+    "pdm": "MISTURA MIT/CMIT",
+    "grupo": 68
+  },
+  {
+    "id": "04235",
+    "pdm": "ÓLEO PARA PULVERIZAÇÃO AGRÍCOLA",
+    "grupo": 68
+  },
+  {
+    "id": "04236",
+    "pdm": "CALDO MALONATO - FENILALANINA",
+    "grupo": 68
+  },
+  {
+    "id": "04237",
+    "pdm": "CALDO SABOURAUD",
+    "grupo": 68
+  },
+  {
+    "id": "04238",
+    "pdm": "CALDO SELENITO",
+    "grupo": 68
+  },
+  {
+    "id": "04239",
+    "pdm": "CALDO TRIPTICASE",
+    "grupo": 68
+  },
+  {
+    "id": "04309",
+    "pdm": "DIMETIL-ACETILENODICARBOXILATO",
+    "grupo": 68
+  },
+  {
+    "id": "04310",
+    "pdm": "FUMARONITRILA",
+    "grupo": 68
+  },
+  {
+    "id": "04316",
+    "pdm": "CARBONATO DE CÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": "04318",
+    "pdm": "ÁCIDO LEVULÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": "04337",
+    "pdm": "FTALOCIANINA",
+    "grupo": 68
+  },
+  {
+    "id": "04390",
+    "pdm": "3-(2-BENZOTIAZOLIL)-7-(DIETILAMINO)CUMARINA",
+    "grupo": 68
+  },
+  {
+    "id": "04391",
+    "pdm": "OCTAETILPORFIRINA DE PLATINA",
+    "grupo": 68
+  },
+  {
+    "id": "04393",
+    "pdm": "CANAMICINA",
+    "grupo": 68
+  },
+  {
+    "id": "04417",
+    "pdm": "CÂNFORA",
+    "grupo": 68
+  },
+  {
+    "id": "04511",
+    "pdm": "CARBOXINA",
+    "grupo": 68
+  },
+  {
+    "id": "04512",
+    "pdm": "ANIDRIDO METILFTÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": "04513",
+    "pdm": "ANIDRIDO TRIMETÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "04514",
+    "pdm": "CARBONATO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": "04515",
+    "pdm": "CARBONATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "04516",
+    "pdm": "CARBONATO DE BÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": "04518",
+    "pdm": "CARBONATO DE NÍQUEL",
+    "grupo": 68
+  },
+  {
+    "id": "04519",
+    "pdm": "CARBONATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "04521",
+    "pdm": "L-FUCITOL",
+    "grupo": 68
+  },
+  {
+    "id": "04522",
+    "pdm": "CARBOXIMETILCELULOSE (CMC)",
+    "grupo": 68
+  },
+  {
+    "id": "04524",
+    "pdm": "CARBURETO DE SILÍCIO",
+    "grupo": 68
+  },
+  {
+    "id": "04529",
+    "pdm": "CARBURETO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": "04530",
+    "pdm": "CARBONATO DE BISMUTO",
+    "grupo": 68
+  },
+  {
+    "id": "04565",
+    "pdm": "GLUFOSINATO",
+    "grupo": 68
+  },
+  {
+    "id": "04672",
+    "pdm": "CARVÃO ATIVADO",
+    "grupo": 68
+  },
+  {
+    "id": "04694",
+    "pdm": "ÁCIDO DECANODIÓICO",
+    "grupo": 68
+  },
+  {
+    "id": "04697",
+    "pdm": "CATALISADOR",
+    "grupo": 68
+  },
+  {
+    "id": "04718",
+    "pdm": "CEFTAZIDIMA",
+    "grupo": 68
+  },
+  {
+    "id": "04721",
+    "pdm": "CEFALEXINA",
+    "grupo": 68
+  },
+  {
+    "id": "04739",
+    "pdm": "MESO-ERITRITOL",
+    "grupo": 68
+  },
+  {
+    "id": "04740",
+    "pdm": "CELULOSE",
+    "grupo": 68
+  },
+  {
+    "id": "04741",
+    "pdm": "CEFAZOLINA",
+    "grupo": 68
+  },
+  {
+    "id": "04781",
+    "pdm": "CERA EMULSIFICANTE",
+    "grupo": 68
+  },
+  {
+    "id": "04960",
+    "pdm": "CEFTRIAXONA",
+    "grupo": 68
+  },
+  {
+    "id": "04979",
+    "pdm": "CIANETO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "04980",
+    "pdm": "CIANOACRILATO",
+    "grupo": 68
+  },
+  {
+    "id": "04983",
+    "pdm": "CICLAMATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "04986",
+    "pdm": "CICLOHEXENO",
+    "grupo": 68
+  },
+  {
+    "id": "05053",
+    "pdm": "TETRACLOROPLATINATO(II) DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "05054",
+    "pdm": "SAMÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": "05059",
+    "pdm": "CITRATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "05064",
+    "pdm": "CITRATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "05065",
+    "pdm": "CITRATO DE MAGNÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": "05074",
+    "pdm": "CLORANTRANILIPROLE",
+    "grupo": 68
+  },
+  {
+    "id": "05088",
+    "pdm": "NITRATO DE CÁDMIO",
+    "grupo": 68
+  },
+  {
+    "id": "05093",
+    "pdm": "HIDRATO DE CLORAL",
+    "grupo": 68
+  },
+  {
+    "id": "05096",
+    "pdm": "CLORANFENICOL",
+    "grupo": 68
+  },
+  {
+    "id": "05098",
+    "pdm": "CLORATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "05100",
+    "pdm": "CLORETO DE ALUMÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": "05101",
+    "pdm": "CLORETO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "05102",
+    "pdm": "CLORETO DE CÁDMIO",
+    "grupo": 68
+  },
+  {
+    "id": "05103",
+    "pdm": "CLORETO DE BÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": "05104",
+    "pdm": "CLORETO DE BENZALCÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "05105",
+    "pdm": "CLORETO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": "05106",
+    "pdm": "CLORETO DE CETILPIRIDÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": "05107",
+    "pdm": "FLOXURIDINA",
+    "grupo": 68
+  },
+  {
+    "id": "05108",
+    "pdm": "CLORETO DE CROMO",
+    "grupo": 68
+  },
+  {
+    "id": "05109",
+    "pdm": "CLORETO DE ESTRÔNCIO",
+    "grupo": 68
+  },
+  {
+    "id": "05110",
+    "pdm": "PIRUVATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "05111",
+    "pdm": "CLORETO DE HIDROXILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "05113",
+    "pdm": "CLORETO DE MERCÚRIO",
+    "grupo": 68
+  },
+  {
+    "id": "05115",
+    "pdm": "CLORETO DE NÍQUEL",
+    "grupo": 68
+  },
+  {
+    "id": "05117",
+    "pdm": "CLORETO DE RUTÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": "05120",
+    "pdm": "3-AMINOTRIAZOL",
+    "grupo": 68
+  },
+  {
+    "id": "05121",
+    "pdm": "CLORETO DE FERRO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "05122",
+    "pdm": "CLORETO DE POLIVINILA (PVC)",
+    "grupo": 68
+  },
+  {
+    "id": "05123",
+    "pdm": "CLORETO DE ZINCO",
+    "grupo": 68
+  },
+  {
+    "id": "05124",
+    "pdm": "NAFCILINA",
+    "grupo": 68
+  },
+  {
+    "id": "05125",
+    "pdm": "CLORETO DE ESTANHO",
+    "grupo": 68
+  },
+  {
+    "id": "05126",
+    "pdm": "FERRO ELEMENTAR",
+    "grupo": 68
+  },
+  {
+    "id": "05127",
+    "pdm": "ÁCIDO FÓLICO",
+    "grupo": 68
+  },
+  {
+    "id": "05128",
+    "pdm": "AZOMETINA-H",
+    "grupo": 68
+  },
+  {
+    "id": "05133",
+    "pdm": "OSELTAMIVIR",
+    "grupo": 68
+  },
+  {
+    "id": "05135",
+    "pdm": "BIFLUORETO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "05136",
+    "pdm": "CLOTRIMAZOL",
+    "grupo": 68
+  },
+  {
+    "id": "05139",
+    "pdm": "DODECILBENZENOSSULFONATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "05140",
+    "pdm": "BIPERIDENO",
+    "grupo": 68
+  },
+  {
+    "id": "05142",
+    "pdm": "ZIRCÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "05143",
+    "pdm": "RÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "05147",
+    "pdm": "CÉRIO",
+    "grupo": 68
+  },
+  {
+    "id": "05149",
+    "pdm": "BROMADIOLONA",
+    "grupo": 68
+  },
+  {
+    "id": "05150",
+    "pdm": "DIFLUBENZURONA",
+    "grupo": 68
+  },
+  {
+    "id": "05152",
+    "pdm": "CLOROSUCCINIMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "05153",
+    "pdm": "PIRIPROXIFENO",
+    "grupo": 68
+  },
+  {
+    "id": "05155",
+    "pdm": "MANOSE",
+    "grupo": 68
+  },
+  {
+    "id": "05157",
+    "pdm": "N-ALFA-BENZOIL-DL-ARGININA-4-NITROANILIDA",
+    "grupo": 68
+  },
+  {
+    "id": "05159",
+    "pdm": "S-METOPRENE",
+    "grupo": 68
+  },
+  {
+    "id": "05161",
+    "pdm": "BRODIFACUM",
+    "grupo": 68
+  },
+  {
+    "id": "05163",
+    "pdm": "DELTAMETRINA",
+    "grupo": 68
+  },
+  {
+    "id": "05167",
+    "pdm": "DIFENILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "05169",
+    "pdm": "ETOFENPROXI",
+    "grupo": 68
+  },
+  {
+    "id": "05170",
+    "pdm": "DODECENILA",
+    "grupo": 68
+  },
+  {
+    "id": "05171",
+    "pdm": "TETRADECENIL ACETATO",
+    "grupo": 68
+  },
+  {
+    "id": "05173",
+    "pdm": "MINOXIDIL",
+    "grupo": 68
+  },
+  {
+    "id": "05175",
+    "pdm": "VANCOMICINA",
+    "grupo": 68
+  },
+  {
+    "id": "05176",
+    "pdm": "CARIOFILENO",
+    "grupo": 68
+  },
+  {
+    "id": "05177",
+    "pdm": "CIPROFLOXACINO",
+    "grupo": 68
+  },
+  {
+    "id": "05179",
+    "pdm": "TIOCIANATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "05180",
+    "pdm": "CICLOPENTENONA",
+    "grupo": 68
+  },
+  {
+    "id": "05181",
+    "pdm": "TIODICARBE",
+    "grupo": 68
+  },
+  {
+    "id": "05182",
+    "pdm": "ÁCIDO 5,5-DITIOBIS(2-NITROBENZÓICO)",
+    "grupo": 68
+  },
+  {
+    "id": "05183",
+    "pdm": "ÁCIDO PIRÚVICO",
+    "grupo": 68
+  },
+  {
+    "id": "05184",
+    "pdm": "AZOXISTROBINA",
+    "grupo": 68
+  },
+  {
+    "id": "05185",
+    "pdm": "6-(DIMETIL)AMINOPURINA",
+    "grupo": 68
+  },
+  {
+    "id": "05188",
+    "pdm": "FLUBENDIAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "05192",
+    "pdm": "ÁCIDO MÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": "05193",
+    "pdm": "FOSETIL",
+    "grupo": 68
+  },
+  {
+    "id": "05196",
+    "pdm": "PERCLORATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "05198",
+    "pdm": "IODOSUCCINIMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "05201",
+    "pdm": "ÁCIDO BÓRICO",
+    "grupo": 68
+  },
+  {
+    "id": "05202",
+    "pdm": "FIPRONIL",
+    "grupo": 68
+  },
+  {
+    "id": "05203",
+    "pdm": "IMIBENCONAZOL",
+    "grupo": 68
+  },
+  {
+    "id": "05208",
+    "pdm": "CARBOXIFENIL-TRIFLUOROBORATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "05209",
+    "pdm": "CIMOXANIL",
+    "grupo": 68
+  },
+  {
+    "id": "05210",
+    "pdm": "ABAMECTINA",
+    "grupo": 68
+  },
+  {
+    "id": "05213",
+    "pdm": "HIDRÓXIDO DE COBRE",
+    "grupo": 68
+  },
+  {
+    "id": "05219",
+    "pdm": "N-(1-NAFTIL)ETILENODIAMINA DICLORIDRATO",
+    "grupo": 68
+  },
+  {
+    "id": "05220",
+    "pdm": "TERT-BUTÓXIDO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "05221",
+    "pdm": "ORNITINA",
+    "grupo": 68
+  },
+  {
+    "id": "05224",
+    "pdm": "ACETOACETATO DE ETILA",
+    "grupo": 68
+  },
+  {
+    "id": "05225",
+    "pdm": "NOVOBIOCINA",
+    "grupo": 68
+  },
+  {
+    "id": "05227",
+    "pdm": "O-FORMATO DE TRIMETILA",
+    "grupo": 68
+  },
+  {
+    "id": "05228",
+    "pdm": "METOXIFENILTRIFLUOROBORATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "05230",
+    "pdm": "1,8-DIAZABICICLO[5.4.0]UNDEC-7-ENO (DBU)",
+    "grupo": 68
+  },
+  {
+    "id": "05233",
+    "pdm": "2-HIDROXIADAMANTANO",
+    "grupo": 68
+  },
+  {
+    "id": "05234",
+    "pdm": "TARTARATO DE DIETILA",
+    "grupo": 68
+  },
+  {
+    "id": "05236",
+    "pdm": "CLORFENAPIR",
+    "grupo": 68
+  },
+  {
+    "id": "05239",
+    "pdm": "ÁCIDO BARBITÚRICO",
+    "grupo": 68
+  },
+  {
+    "id": "05240",
+    "pdm": "CIANATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "05242",
+    "pdm": "ÉRBIO",
+    "grupo": 68
+  },
+  {
+    "id": "05243",
+    "pdm": "ÓXIDO DE PRASEODÍMIO",
+    "grupo": 68
+  },
+  {
+    "id": "05244",
+    "pdm": "ÁCIDO IODOBENZÓICO",
+    "grupo": 68
+  },
+  {
+    "id": "05245",
+    "pdm": "ÁCIDO CLOROPERBENZÓICO",
+    "grupo": 68
+  },
+  {
+    "id": "05246",
+    "pdm": "NITROFTALONITRILA",
+    "grupo": 68
+  },
+  {
+    "id": "05248",
+    "pdm": "METIL VINIL CETONA",
+    "grupo": 68
+  },
+  {
+    "id": "05249",
+    "pdm": "NOREPINEFRINA",
+    "grupo": 68
+  },
+  {
+    "id": "05250",
+    "pdm": "BIS(TRIMETILSILIL)AMIDETO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "05252",
+    "pdm": "METILFTALONITRILA",
+    "grupo": 68
+  },
+  {
+    "id": "05253",
+    "pdm": "PEROXIMONOSULFATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "05256",
+    "pdm": "AMINOFTALONITRILA",
+    "grupo": 68
+  },
+  {
+    "id": "05257",
+    "pdm": "HIDROXIFTALONITRILA",
+    "grupo": 68
+  },
+  {
+    "id": "05258",
+    "pdm": "ÓXIDO DE EURÓPIO",
+    "grupo": 68
+  },
+  {
+    "id": "05259",
+    "pdm": "IODETO DE SAMÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": "05260",
+    "pdm": "FERROCIANETO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "05261",
+    "pdm": "ÓXIDO DE ÉRBIO",
+    "grupo": 68
+  },
+  {
+    "id": "05263",
+    "pdm": "BIFENTRINA",
+    "grupo": 68
+  },
+  {
+    "id": "05265",
+    "pdm": "SEMICARBAZIDA",
+    "grupo": 68
+  },
+  {
+    "id": "05266",
+    "pdm": "SOLUÇÃO LIMPEZA",
+    "grupo": 68
+  },
+  {
+    "id": "05267",
+    "pdm": "TRICLOROETANO",
+    "grupo": 68
+  },
+  {
+    "id": "05268",
+    "pdm": "MERCAPTAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "05270",
+    "pdm": "ANISOL",
+    "grupo": 68
+  },
+  {
+    "id": "05271",
+    "pdm": "DIIODOMETANO",
+    "grupo": 68
+  },
+  {
+    "id": "05273",
+    "pdm": "DIMETILGLIOXIMA",
+    "grupo": 68
+  },
+  {
+    "id": "05274",
+    "pdm": "CLOROQUINA",
+    "grupo": 68
+  },
+  {
+    "id": "05292",
+    "pdm": "COBRE",
+    "grupo": 68
+  },
+  {
+    "id": "05296",
+    "pdm": "CLOPIDOGREL",
+    "grupo": 68
+  },
+  {
+    "id": "05297",
+    "pdm": "HEXANOSSULFONATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "05298",
+    "pdm": "BROMO-TRIMETILSILANO",
+    "grupo": 68
+  },
+  {
+    "id": "05299",
+    "pdm": "AMPICILINA",
+    "grupo": 68
+  },
+  {
+    "id": "05333",
+    "pdm": "LINUROM",
+    "grupo": 68
+  },
+  {
+    "id": "05344",
+    "pdm": "COLECALCIFEROL",
+    "grupo": 68
+  },
+  {
+    "id": "05347",
+    "pdm": "COLESTEROL",
+    "grupo": 68
+  },
+  {
+    "id": "05348",
+    "pdm": "TRIFLUORETO DE BORO-DIETIL-ETERATO",
+    "grupo": 68
+  },
+  {
+    "id": "05365",
+    "pdm": "COCOAMIDOPROPIL BETAÍNA",
+    "grupo": 68
+  },
+  {
+    "id": "05459",
+    "pdm": "EXCIPIENTE PARA PRODUÇÃO DE MEDICAMENTO",
+    "grupo": 68
+  },
+  {
+    "id": "05464",
+    "pdm": "COMPONENTE PARA CORRIGIR A DUREZA DA AGUA",
+    "grupo": 68
+  },
+  {
+    "id": "05467",
+    "pdm": "1,4-DIOXANO-2,5-DIONA",
+    "grupo": 68
+  },
+  {
+    "id": "05478",
+    "pdm": "COMPOSTO CONTRA NEVOEIRO",
+    "grupo": 68
+  },
+  {
+    "id": "05485",
+    "pdm": "2-ETIL-HEXANOATO DE COBRE",
+    "grupo": 68
+  },
+  {
+    "id": "05489",
+    "pdm": "COMPOSTO QUÍMICO",
+    "grupo": 68
+  },
+  {
+    "id": "05490",
+    "pdm": "COMPOSTO QUÍMICO*",
+    "grupo": 68
+  },
+  {
+    "id": "05491",
+    "pdm": "COMPOSTO QUÍMICO**",
+    "grupo": 68
+  },
+  {
+    "id": "05492",
+    "pdm": "CLOMIFENO",
+    "grupo": 68
+  },
+  {
+    "id": "05805",
+    "pdm": "CLORETO DE LAUROÍLA",
+    "grupo": 68
+  },
+  {
+    "id": "05878",
+    "pdm": "CLORETO DE NEODIMIO",
+    "grupo": 68
+  },
+  {
+    "id": "05913",
+    "pdm": "CORRETOR LIMPEZA",
+    "grupo": 68
+  },
+  {
+    "id": "05931",
+    "pdm": "BETA-CIFLUTRINA",
+    "grupo": 68
+  },
+  {
+    "id": "05932",
+    "pdm": "CASUGAMICINA",
+    "grupo": 68
+  },
+  {
+    "id": "05958",
+    "pdm": "CREATININA",
+    "grupo": 68
+  },
+  {
+    "id": "05962",
+    "pdm": "CREOSOTO",
+    "grupo": 68
+  },
+  {
+    "id": "05964",
+    "pdm": "CARBOXI-PTIO SAL DE POTASSIO",
+    "grupo": 68
+  },
+  {
+    "id": "05971",
+    "pdm": "HÓLMIO",
+    "grupo": 68
+  },
+  {
+    "id": "05972",
+    "pdm": "1,1,2-TRICLORO-TRIFLUOROETANO",
+    "grupo": 68
+  },
+  {
+    "id": "05977",
+    "pdm": "ADIPATO DE ETILA",
+    "grupo": 68
+  },
+  {
+    "id": "05978",
+    "pdm": "CROMATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "05979",
+    "pdm": "CROMATO DE POTÁSSIO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "05981",
+    "pdm": "CROMOGLICATO DISSÓDICO",
+    "grupo": 68
+  },
+  {
+    "id": "05985",
+    "pdm": "CROSCARMELOSE A (VER INC 05459)",
+    "grupo": 68
+  },
+  {
+    "id": "06015",
+    "pdm": "CURCUMA",
+    "grupo": 68
+  },
+  {
+    "id": "06049",
+    "pdm": "LEVAMISOL",
+    "grupo": 68
+  },
+  {
+    "id": "06070",
+    "pdm": "DESACIDIFICADOR DE PAPEL",
+    "grupo": 68
+  },
+  {
+    "id": "06096",
+    "pdm": "DESINCROSTANTE",
+    "grupo": 68
+  },
+  {
+    "id": "06097",
+    "pdm": "ÓXIDO DE ESTANHO E ANTIMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "06098",
+    "pdm": "ACETATO DE ISOPENTILA",
+    "grupo": 68
+  },
+  {
+    "id": "06100",
+    "pdm": "ÁCIDO IODOHIPÚRICO",
+    "grupo": 68
+  },
+  {
+    "id": "06105",
+    "pdm": "IODETO DE COBRE",
+    "grupo": 68
+  },
+  {
+    "id": "06109",
+    "pdm": "DESODORANTE / AROMATIZANTE DE AMBIENTE",
+    "grupo": 68
+  },
+  {
+    "id": "06113",
+    "pdm": "ÉTER DI-ISOPROPÍLICO (2-ISOPROPOXIPROPANO)",
+    "grupo": 68
+  },
+  {
+    "id": "06137",
+    "pdm": "DETERGENTE SANEANTE",
+    "grupo": 68
+  },
+  {
+    "id": "06151",
+    "pdm": "DEXTRINA",
+    "grupo": 68
+  },
+  {
+    "id": "06154",
+    "pdm": "DIACETATO DE FLUORESCEÍNA",
+    "grupo": 68
+  },
+  {
+    "id": "06163",
+    "pdm": "CIPROCONAZOL",
+    "grupo": 68
+  },
+  {
+    "id": "06165",
+    "pdm": "4-DIMETILAMINOBENZALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "06166",
+    "pdm": "SULFATO DE DIMETILA (DMS)",
+    "grupo": 68
+  },
+  {
+    "id": "06167",
+    "pdm": "ÁCIDO TIOBARBITÚRICO",
+    "grupo": 68
+  },
+  {
+    "id": "06172",
+    "pdm": "ÁCIDO TETRAFLUOROFTÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": "06173",
+    "pdm": "DICARBOXIMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "06176",
+    "pdm": "IODO-FTALONITRILA",
+    "grupo": 68
+  },
+  {
+    "id": "06179",
+    "pdm": "ÁCIDO SULFOFTÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": "06181",
+    "pdm": "DICLOROMETANO",
+    "grupo": 68
+  },
+  {
+    "id": "06182",
+    "pdm": "CARBONATO DE RUBÍDIO",
+    "grupo": 68
+  },
+  {
+    "id": "06183",
+    "pdm": "ÁCIDO 2,3-NAFTALENODIÓICO",
+    "grupo": 68
+  },
+  {
+    "id": "06184",
+    "pdm": "ÁCIDO DICLOROFTÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": "06185",
+    "pdm": "DICROMATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "06186",
+    "pdm": "DICROMATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "06189",
+    "pdm": "CLORETO DE CÉRIO(III)",
+    "grupo": 68
+  },
+  {
+    "id": "06190",
+    "pdm": "DIETIL P-NITROFENIL FOSFATO",
+    "grupo": 68
+  },
+  {
+    "id": "06192",
+    "pdm": "DIETILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "06193",
+    "pdm": "DIETILENOGLICOL",
+    "grupo": 68
+  },
+  {
+    "id": "06194",
+    "pdm": "DIFENILANTRACENO",
+    "grupo": 68
+  },
+  {
+    "id": "06195",
+    "pdm": "DIFENIDRAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "06197",
+    "pdm": "ISOXAFLUTOLE",
+    "grupo": 68
+  },
+  {
+    "id": "06201",
+    "pdm": "ACETILACETONATO DE PLATINA",
+    "grupo": 68
+  },
+  {
+    "id": "06202",
+    "pdm": "ACETILACETONATO DE RÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "06206",
+    "pdm": "CLORIMURON ETÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "06208",
+    "pdm": "ACETILACETONATO DE CHUMBO",
+    "grupo": 68
+  },
+  {
+    "id": "06209",
+    "pdm": "TEPRALOXIDIM",
+    "grupo": 68
+  },
+  {
+    "id": "06211",
+    "pdm": "BIS(2-ETILHEXIL)FOSFATO",
+    "grupo": 68
+  },
+  {
+    "id": "06212",
+    "pdm": "DILUENTE DE VACINA",
+    "grupo": 68
+  },
+  {
+    "id": "06214",
+    "pdm": "ÁCIDO 8-MERCAPTOOCTANÓICO",
+    "grupo": 68
+  },
+  {
+    "id": "06215",
+    "pdm": "1,2-DIMETOXIETANO",
+    "grupo": 68
+  },
+  {
+    "id": "06217",
+    "pdm": "DIMETILSULFÓXIDO (DMSO)",
+    "grupo": 68
+  },
+  {
+    "id": "06224",
+    "pdm": "DIOCTIL ADIPATO (DOA)",
+    "grupo": 68
+  },
+  {
+    "id": "06227",
+    "pdm": "N-(3-DIMETILAMINOPROPIL)-N-ETILCARBODIIMIDA (EDC)",
+    "grupo": 68
+  },
+  {
+    "id": "06228",
+    "pdm": "1,4-DIOXANO",
+    "grupo": 68
+  },
+  {
+    "id": "06229",
+    "pdm": "CLORETO DE VANÁDIO",
+    "grupo": 68
+  },
+  {
+    "id": "06230",
+    "pdm": "ÁCIDO 12-MERCAPTODODECANÓICO",
+    "grupo": 68
+  },
+  {
+    "id": "06231",
+    "pdm": "FLUOROBENZENO",
+    "grupo": 68
+  },
+  {
+    "id": "06232",
+    "pdm": "BROMOETANO",
+    "grupo": 68
+  },
+  {
+    "id": "06235",
+    "pdm": "ACETILACETONATO DE IRÍDIO",
+    "grupo": 68
+  },
+  {
+    "id": "06236",
+    "pdm": "ACETILACETONATO DE PALÁDIO II",
+    "grupo": 68
+  },
+  {
+    "id": "06237",
+    "pdm": "ÁCIDO 6-MERCAPTOHEXANÓICO",
+    "grupo": 68
+  },
+  {
+    "id": "06238",
+    "pdm": "N,N-DICICLOHEXILCARBODIIMIDA (DCC)",
+    "grupo": 68
+  },
+  {
+    "id": "06247",
+    "pdm": "DIHIDRO-RODAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "06340",
+    "pdm": "DISSULFETO DE CARBONO",
+    "grupo": 68
+  },
+  {
+    "id": "06359",
+    "pdm": "DIUROM",
+    "grupo": 68
+  },
+  {
+    "id": "06377",
+    "pdm": "DOCUSATO",
+    "grupo": 68
+  },
+  {
+    "id": "06426",
+    "pdm": "HEPTANOL",
+    "grupo": 68
+  },
+  {
+    "id": "06442",
+    "pdm": "CLORETO DE COBRE",
+    "grupo": 68
+  },
+  {
+    "id": "06539",
+    "pdm": "MAGNÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": "06540",
+    "pdm": "BENZILPENICILINA",
+    "grupo": 68
+  },
+  {
+    "id": "06541",
+    "pdm": "EMULSIFICANTE ALCALINO",
+    "grupo": 68
+  },
+  {
+    "id": "06611",
+    "pdm": "EOSINA AMARELADA Y",
+    "grupo": 68
+  },
+  {
+    "id": "06776",
+    "pdm": "PALMITATO",
+    "grupo": 68
+  },
+  {
+    "id": "06829",
+    "pdm": "BENZOATO DE METILA",
+    "grupo": 68
+  },
+  {
+    "id": "06868",
+    "pdm": "ERITROMICINA",
+    "grupo": 68
+  },
+  {
+    "id": "06920",
+    "pdm": "ESCÂNDIO",
+    "grupo": 68
+  },
+  {
+    "id": "06922",
+    "pdm": "ESTRÔNCIO",
+    "grupo": 68
+  },
+  {
+    "id": "06925",
+    "pdm": "FLUORETO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": "06926",
+    "pdm": "PERCLORATO DE ZINCO",
+    "grupo": 68
+  },
+  {
+    "id": "07063",
+    "pdm": "CLOROTIAZIDA",
+    "grupo": 68
+  },
+  {
+    "id": "07064",
+    "pdm": "ESSÊNCIA AROMÁTICA",
+    "grupo": 68
+  },
+  {
+    "id": "07065",
+    "pdm": "NICOTINAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "07072",
+    "pdm": "ÁCIDO ARSÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": "07091",
+    "pdm": "ESTANHO",
+    "grupo": 68
+  },
+  {
+    "id": "07107",
+    "pdm": "RADIONUCLÍDEO",
+    "grupo": 68
+  },
+  {
+    "id": "07108",
+    "pdm": "9-HIDROXIMETIL-ANTRACENO",
+    "grupo": 68
+  },
+  {
+    "id": "07122",
+    "pdm": "ESTREPTOMICINA",
+    "grupo": 68
+  },
+  {
+    "id": "07125",
+    "pdm": "ESTERILIZANTE QUÍMICO",
+    "grupo": 68
+  },
+  {
+    "id": "07190",
+    "pdm": "RIBITOL",
+    "grupo": 68
+  },
+  {
+    "id": "07216",
+    "pdm": "ETAMBUTOL",
+    "grupo": 68
+  },
+  {
+    "id": "07219",
+    "pdm": "METANO ARSONATO ÁCIDO MONOSSÓDICO (MSMA)",
+    "grupo": 68
+  },
+  {
+    "id": "07220",
+    "pdm": "PENTANEDIONA",
+    "grupo": 68
+  },
+  {
+    "id": "07235",
+    "pdm": "EUGENOL [2-METOXI-4-(2-PROPEN-1-IL)FENOL]",
+    "grupo": 68
+  },
+  {
+    "id": "07236",
+    "pdm": "OCTADIENOL",
+    "grupo": 68
+  },
+  {
+    "id": "07262",
+    "pdm": "EXTRATO",
+    "grupo": 68
+  },
+  {
+    "id": "07263",
+    "pdm": "ÁCIDO TRIFLUOROMETANOSULFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": "07264",
+    "pdm": "EXTRATO CORANTE",
+    "grupo": 68
+  },
+  {
+    "id": "07265",
+    "pdm": "ACETILACETONATO DE CÉRIO",
+    "grupo": 68
+  },
+  {
+    "id": "07266",
+    "pdm": "ENALAPRILATO",
+    "grupo": 68
+  },
+  {
+    "id": "07320",
+    "pdm": "5-FLUORURACILA",
+    "grupo": 68
+  },
+  {
+    "id": "07321",
+    "pdm": "TENOXICAM",
+    "grupo": 68
+  },
+  {
+    "id": "07343",
+    "pdm": "FLUORENO",
+    "grupo": 68
+  },
+  {
+    "id": "07344",
+    "pdm": "PIRONA",
+    "grupo": 68
+  },
+  {
+    "id": "07346",
+    "pdm": "ACETATO DE FENILMERCÚRIO",
+    "grupo": 68
+  },
+  {
+    "id": "07347",
+    "pdm": "ACRILATO (PROPENOATO)",
+    "grupo": 68
+  },
+  {
+    "id": "07349",
+    "pdm": "FERROCENO",
+    "grupo": 68
+  },
+  {
+    "id": "07350",
+    "pdm": "FENILEFRINA",
+    "grupo": 68
+  },
+  {
+    "id": "07352",
+    "pdm": "ACIBENZOLAR-S-METÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "07353",
+    "pdm": "EPOXICONAZOL",
+    "grupo": 68
+  },
+  {
+    "id": "07356",
+    "pdm": "FENOXAPROPE-P-ETÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "07357",
+    "pdm": "FENOLFTALEÍNA",
+    "grupo": 68
+  },
+  {
+    "id": "07358",
+    "pdm": "TETRAMETRINA",
+    "grupo": 68
+  },
+  {
+    "id": "07359",
+    "pdm": "O-FENILENODIAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "07361",
+    "pdm": "FLUMIOXAZINA",
+    "grupo": 68
+  },
+  {
+    "id": "07365",
+    "pdm": "FENTOLAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "07394",
+    "pdm": "FERROCIANETO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "07395",
+    "pdm": "FERRICIANETO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "07404",
+    "pdm": "FLOCUMAFENO",
+    "grupo": 68
+  },
+  {
+    "id": "07417",
+    "pdm": "CUMACLORO",
+    "grupo": 68
+  },
+  {
+    "id": "07418",
+    "pdm": "CUMAFENO",
+    "grupo": 68
+  },
+  {
+    "id": "07643",
+    "pdm": "FLUORETO DE MAGNÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": "07648",
+    "pdm": "FLUIDIFICANTE PARA CONCRETO",
+    "grupo": 68
+  },
+  {
+    "id": "07651",
+    "pdm": "FLUIDO INERTE",
+    "grupo": 68
+  },
+  {
+    "id": "07654",
+    "pdm": "CIALOFOPE",
+    "grupo": 68
+  },
+  {
+    "id": "07655",
+    "pdm": "IMAZAQUIM",
+    "grupo": 68
+  },
+  {
+    "id": "07657",
+    "pdm": "DISOFENINA",
+    "grupo": 68
+  },
+  {
+    "id": "07658",
+    "pdm": "FLUCONAZOL",
+    "grupo": 68
+  },
+  {
+    "id": "07659",
+    "pdm": "1,3,5-TRI-HIDROXIBENZENO (FLOROGLUCINOL)",
+    "grupo": 68
+  },
+  {
+    "id": "07661",
+    "pdm": "FLUORETO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": "07665",
+    "pdm": "FLUORETO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "07666",
+    "pdm": "ÁCIDO GLIBERÉLICO",
+    "grupo": 68
+  },
+  {
+    "id": "07710",
+    "pdm": "FONTE RADIOATIVA",
+    "grupo": 68
+  },
+  {
+    "id": "07731",
+    "pdm": "ANISIDINA",
+    "grupo": 68
+  },
+  {
+    "id": "07732",
+    "pdm": "FENILENODIAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "07737",
+    "pdm": "PROMICIDONA",
+    "grupo": 68
+  },
+  {
+    "id": "07739",
+    "pdm": "FORMALDEÍDO (FORMOL)",
+    "grupo": 68
+  },
+  {
+    "id": "07780",
+    "pdm": "CLORETO DE PRATA",
+    "grupo": 68
+  },
+  {
+    "id": "07781",
+    "pdm": "FOSFATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "07782",
+    "pdm": "ANIDRIDO DO ÁCIDO FÓRMICO",
+    "grupo": 68
+  },
+  {
+    "id": "07783",
+    "pdm": "HIPOFOSFITO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "07785",
+    "pdm": "1-METIL-2-PIRROLIDONA",
+    "grupo": 68
+  },
+  {
+    "id": "07786",
+    "pdm": "FOSFATO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": "07788",
+    "pdm": "NITROIMIDAZOL",
+    "grupo": 68
+  },
+  {
+    "id": "07789",
+    "pdm": "FOSFATO DE TETRABUTILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "07792",
+    "pdm": "TARTARATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "07796",
+    "pdm": "HEXAMETILFOSFORAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "07798",
+    "pdm": "ESTILBENO",
+    "grupo": 68
+  },
+  {
+    "id": "07835",
+    "pdm": "GÁS REFRIGERAÇÃO",
+    "grupo": 68
+  },
+  {
+    "id": "07857",
+    "pdm": "FLUOROFENOL",
+    "grupo": 68
+  },
+  {
+    "id": "07863",
+    "pdm": "PROPANIL",
+    "grupo": 68
+  },
+  {
+    "id": "07901",
+    "pdm": "GALACTOSE",
+    "grupo": 68
+  },
+  {
+    "id": "07903",
+    "pdm": "METIL-MORFOLINA",
+    "grupo": 68
+  },
+  {
+    "id": "07911",
+    "pdm": "CIANOBORO-HIDRETO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "07918",
+    "pdm": "GADOLÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": "07920",
+    "pdm": "FENOBARBITAL",
+    "grupo": 68
+  },
+  {
+    "id": "07937",
+    "pdm": "SULFETO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "07938",
+    "pdm": "HIDROXIETILA",
+    "grupo": 68
+  },
+  {
+    "id": "07939",
+    "pdm": "CICLOSPORINA",
+    "grupo": 68
+  },
+  {
+    "id": "07940",
+    "pdm": "PIRROLIDINA",
+    "grupo": 68
+  },
+  {
+    "id": "07941",
+    "pdm": "GÁS LACRIMOGÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": "07942",
+    "pdm": "GÁS LIQUEFEITO DE PETRÓLEO - GLP",
+    "grupo": 68
+  },
+  {
+    "id": "07943",
+    "pdm": "ESTEARATO",
+    "grupo": 68
+  },
+  {
+    "id": "07953",
+    "pdm": "CARVEOL",
+    "grupo": 68
+  },
+  {
+    "id": "07958",
+    "pdm": "METIL-MALEIMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "07997",
+    "pdm": "CLOTIANIDINA",
+    "grupo": 68
+  },
+  {
+    "id": "08001",
+    "pdm": "AZAMETIFÓS",
+    "grupo": 68
+  },
+  {
+    "id": "08003",
+    "pdm": "GLICINA",
+    "grupo": 68
+  },
+  {
+    "id": "08005",
+    "pdm": "CLORETO DE (METOXIMETIL)TRIFENILFOSFÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "08011",
+    "pdm": "GLICOSAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "08014",
+    "pdm": "COLÁGENO",
+    "grupo": 68
+  },
+  {
+    "id": "08021",
+    "pdm": "GLUTARALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "08026",
+    "pdm": "GOMA",
+    "grupo": 68
+  },
+  {
+    "id": "08114",
+    "pdm": "GUAIACOL",
+    "grupo": 68
+  },
+  {
+    "id": "08163",
+    "pdm": "HÁFNIO",
+    "grupo": 68
+  },
+  {
+    "id": "08204",
+    "pdm": "HEXAMETILENOTETRAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "08206",
+    "pdm": "HEXAFLUOROFOSFATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "08207",
+    "pdm": "HEXANO",
+    "grupo": 68
+  },
+  {
+    "id": "08208",
+    "pdm": "CLORETO DE ÉRBIO",
+    "grupo": 68
+  },
+  {
+    "id": "08213",
+    "pdm": "4-NITROFENIL",
+    "grupo": 68
+  },
+  {
+    "id": "08214",
+    "pdm": "HIALURONATO DE SÓDIO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "08216",
+    "pdm": "LIGA DE DEVERDAS",
+    "grupo": 68
+  },
+  {
+    "id": "08217",
+    "pdm": "LIGA DE RANEY",
+    "grupo": 68
+  },
+  {
+    "id": "08218",
+    "pdm": "DIMETILACETOFENONA",
+    "grupo": 68
+  },
+  {
+    "id": "08219",
+    "pdm": "ÓXIDO DE TÂNTALO",
+    "grupo": 68
+  },
+  {
+    "id": "08223",
+    "pdm": "BUTANODITIOL",
+    "grupo": 68
+  },
+  {
+    "id": "08227",
+    "pdm": "DIHIDROXINAFTALENO",
+    "grupo": 68
+  },
+  {
+    "id": "08229",
+    "pdm": "HIDROXITOLUENO BUTILADO (BHT)",
+    "grupo": 68
+  },
+  {
+    "id": "08230",
+    "pdm": "HIDRÓXIDO DE ALUMÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": "08232",
+    "pdm": "SILICATO DE ALUMÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": "08234",
+    "pdm": "HIDRÓXIDO DE TETRAMETILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "08235",
+    "pdm": "HIDRÓXIDO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "08237",
+    "pdm": "HIDROXIETILCELULOSE",
+    "grupo": 68
+  },
+  {
+    "id": "08238",
+    "pdm": "HIDRÓXIDO DE MAGNÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": "08239",
+    "pdm": "HIDRÓXIDO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "08240",
+    "pdm": "HIDRÓXIDO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": "08241",
+    "pdm": "HIDRETO DE DI-ISOBUTIL ALUMÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": "08242",
+    "pdm": "HIDRÓXIDO DE BÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": "08243",
+    "pdm": "CLORETO DE COLINA",
+    "grupo": 68
+  },
+  {
+    "id": "08244",
+    "pdm": "NITRATO DE TÁLIO",
+    "grupo": 68
+  },
+  {
+    "id": "08245",
+    "pdm": "HIDRETO DE ALUMÍNIO E LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": "08246",
+    "pdm": "DODECIL(TRIMETIL)AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "08247",
+    "pdm": "DIFLUOROACETOFENONA",
+    "grupo": 68
+  },
+  {
+    "id": "08255",
+    "pdm": "TRIETIL FOSFATO",
+    "grupo": 68
+  },
+  {
+    "id": "08257",
+    "pdm": "HIPOCLORITO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": "08259",
+    "pdm": "TIMOL",
+    "grupo": 68
+  },
+  {
+    "id": "08260",
+    "pdm": "TIOSSULFATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "08264",
+    "pdm": "HIDRAZIDA",
+    "grupo": 68
+  },
+  {
+    "id": "08288",
+    "pdm": "PIROCATECOL (BENZENO-1,2-DIOL)",
+    "grupo": 68
+  },
+  {
+    "id": "08296",
+    "pdm": "IMPERMEABILIZANTE / ESTABILIZANTE - SOLO",
+    "grupo": 68
+  },
+  {
+    "id": "08331",
+    "pdm": "INCORPORADOR DE AR PARA CONCRETO",
+    "grupo": 68
+  },
+  {
+    "id": "08372",
+    "pdm": "INIBIDOR DE CORROSÃO",
+    "grupo": 68
+  },
+  {
+    "id": "08374",
+    "pdm": "ISOBUTIRALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "08375",
+    "pdm": "INIBIDOR PARA OLEO ISOLANTE",
+    "grupo": 68
+  },
+  {
+    "id": "08376",
+    "pdm": "ÁCIDO ROSMARÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": "08380",
+    "pdm": "BETAÍNA",
+    "grupo": 68
+  },
+  {
+    "id": "08429",
+    "pdm": "LINAGLIPTINA",
+    "grupo": 68
+  },
+  {
+    "id": "08459",
+    "pdm": "1-OCTANO SULFONATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "08465",
+    "pdm": "4,5-DIOCTOXI-1,2-DICIANOBENZENO",
+    "grupo": 68
+  },
+  {
+    "id": "08466",
+    "pdm": "NITROFTALIMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "08467",
+    "pdm": "IODATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "08468",
+    "pdm": "IODETO DE ZINCO",
+    "grupo": 68
+  },
+  {
+    "id": "08470",
+    "pdm": "IODETO DE CHUMBO",
+    "grupo": 68
+  },
+  {
+    "id": "08471",
+    "pdm": "IODETO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "08472",
+    "pdm": "DICLOROFTALIMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "08473",
+    "pdm": "1,1,2,2-TETRAMETILDISILANO",
+    "grupo": 68
+  },
+  {
+    "id": "08474",
+    "pdm": "ÁCIDO OXOLÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": "08480",
+    "pdm": "IMAZETAPIR",
+    "grupo": 68
+  },
+  {
+    "id": "08481",
+    "pdm": "IMAZAPIR",
+    "grupo": 68
+  },
+  {
+    "id": "08500",
+    "pdm": "ISOLEUCINA",
+    "grupo": 68
+  },
+  {
+    "id": "08503",
+    "pdm": "2,2,4-TRIMETILPENTANO (ISO-OCTANO)",
+    "grupo": 68
+  },
+  {
+    "id": "08504",
+    "pdm": "ISOCIANATO",
+    "grupo": 68
+  },
+  {
+    "id": "08507",
+    "pdm": "IMIDAZOLIDINILUREIA",
+    "grupo": 68
+  },
+  {
+    "id": "08510",
+    "pdm": "GUANIDINA",
+    "grupo": 68
+  },
+  {
+    "id": "08515",
+    "pdm": "ITRACONAZOL",
+    "grupo": 68
+  },
+  {
+    "id": "08576",
+    "pdm": "ESTEARATO DE ZINCO",
+    "grupo": 68
+  },
+  {
+    "id": "08591",
+    "pdm": "ERGOCALCIFEROL",
+    "grupo": 68
+  },
+  {
+    "id": "08597",
+    "pdm": "LACTATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "08600",
+    "pdm": "RIBOFLAVINA",
+    "grupo": 68
+  },
+  {
+    "id": "08601",
+    "pdm": "LACTATO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": "08603",
+    "pdm": "LACTOSE",
+    "grupo": 68
+  },
+  {
+    "id": "08604",
+    "pdm": "GARCINOL",
+    "grupo": 68
+  },
+  {
+    "id": "08708",
+    "pdm": "LANETTE",
+    "grupo": 68
+  },
+  {
+    "id": "08709",
+    "pdm": "LECITINA",
+    "grupo": 68
+  },
+  {
+    "id": "08711",
+    "pdm": "LANTÂNIO",
+    "grupo": 68
+  },
+  {
+    "id": "08737",
+    "pdm": "LAURIL ÉTER SULFATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "08738",
+    "pdm": "LAURILSULFATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "08739",
+    "pdm": "NITRITO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "08748",
+    "pdm": "DECANOATO DE METILA",
+    "grupo": 68
+  },
+  {
+    "id": "08793",
+    "pdm": "TETRAFENILBORATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "08800",
+    "pdm": "DIETILDITIOCARBAMATO DE PRATA",
+    "grupo": 68
+  },
+  {
+    "id": "08809",
+    "pdm": "LEVOFLOXACINO",
+    "grupo": 68
+  },
+  {
+    "id": "08813",
+    "pdm": "METILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "08815",
+    "pdm": "NICOTINA",
+    "grupo": 68
+  },
+  {
+    "id": "08816",
+    "pdm": "ÁCIDO QUÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": "08817",
+    "pdm": "ÁCIDO 2-(N-MORFOLINO)ETANOSULFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": "08818",
+    "pdm": "PERCLORATO DE COBALTO",
+    "grupo": 68
+  },
+  {
+    "id": "08821",
+    "pdm": "PRAZOSINA",
+    "grupo": 68
+  },
+  {
+    "id": "08823",
+    "pdm": "LIGA ÁUREA",
+    "grupo": 68
+  },
+  {
+    "id": "08849",
+    "pdm": "LIMPADOR CONTATO ELÉTRICO/ELETRÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": "08850",
+    "pdm": "LIMPADOR DE CHAPA DE IMPRESSAO GRAFICA",
+    "grupo": 68
+  },
+  {
+    "id": "08875",
+    "pdm": "DIVINILBENZENO",
+    "grupo": 68
+  },
+  {
+    "id": "08923",
+    "pdm": "LOSARTANA",
+    "grupo": 68
+  },
+  {
+    "id": "08936",
+    "pdm": "LUTÉCIO",
+    "grupo": 68
+  },
+  {
+    "id": "08977",
+    "pdm": "CARBONATO DE CHUMBO II",
+    "grupo": 68
+  },
+  {
+    "id": "09019",
+    "pdm": "EMULSIFICANTE",
+    "grupo": 68
+  },
+  {
+    "id": "09020",
+    "pdm": "ÁCIDO FENILBORÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": "09030",
+    "pdm": "N-ETILMALEIMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "09032",
+    "pdm": "MALATIONA",
+    "grupo": 68
+  },
+  {
+    "id": "09033",
+    "pdm": "CIPERMETRINA",
+    "grupo": 68
+  },
+  {
+    "id": "09034",
+    "pdm": "TEMEFÓS",
+    "grupo": 68
+  },
+  {
+    "id": "09036",
+    "pdm": "PERMETRINA",
+    "grupo": 68
+  },
+  {
+    "id": "09037",
+    "pdm": "FENITROTIONA",
+    "grupo": 68
+  },
+  {
+    "id": "09039",
+    "pdm": "BENDIOCARBE",
+    "grupo": 68
+  },
+  {
+    "id": "09041",
+    "pdm": "ESFENVALERATO",
+    "grupo": 68
+  },
+  {
+    "id": "09042",
+    "pdm": "NICLOSAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": "09043",
+    "pdm": "PIRIMIFÓS-METÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": "09052",
+    "pdm": "R-(+)-3-BROMO-2-METILPROPIONATO DE METILA",
+    "grupo": 68
+  },
+  {
+    "id": "09055",
+    "pdm": "1-VINIL-2-PIRROLIDONA (MONÔMERO)",
+    "grupo": 68
+  },
+  {
+    "id": "09056",
+    "pdm": "MALTOSE",
+    "grupo": 68
+  },
+  {
+    "id": "09089",
+    "pdm": "MANGANÊS",
+    "grupo": 68
+  },
+  {
+    "id": "09111",
+    "pdm": "D-MANITOL",
+    "grupo": 68
+  },
+  {
+    "id": "09433",
+    "pdm": "DODINA",
+    "grupo": 68
+  },
+  {
+    "id": "09434",
+    "pdm": "NONADECANOATO",
+    "grupo": 68
+  },
+  {
+    "id": "09497",
+    "pdm": "GALACTOSAMINA",
+    "grupo": 68
+  },
+  {
+    "id": "09499",
+    "pdm": "QUINAZOLINA",
+    "grupo": 68
+  },
+  {
+    "id": "09500",
+    "pdm": "ACETATO DE CÁDMIO",
+    "grupo": 68
+  },
+  {
+    "id": "09600",
+    "pdm": "MENTOL",
+    "grupo": 68
+  },
+  {
+    "id": "09602",
+    "pdm": "SULFATO DE PALÁDIO II",
+    "grupo": 68
+  },
+  {
+    "id": "09679",
+    "pdm": "METABISSULFITO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "09681",
+    "pdm": "PIRACLOSTROBINA",
+    "grupo": 68
+  },
+  {
+    "id": "09689",
+    "pdm": "METAPERIODATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": "09690",
+    "pdm": "METAPERIODATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "09691",
+    "pdm": "CARNITINA",
+    "grupo": 68
+  },
+  {
+    "id": "09692",
+    "pdm": "SUCCINATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "09693",
+    "pdm": "BITARTARATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": "09694",
+    "pdm": "XANTINA",
+    "grupo": 68
+  },
+  {
+    "id": "09695",
+    "pdm": "DICLORVÓS",
+    "grupo": 68
+  },
+  {
+    "id": "09698",
+    "pdm": "CICLOSERINA",
+    "grupo": 68
+  },
+  {
+    "id": "09704",
+    "pdm": "METOXIPROPANO",
+    "grupo": 68
+  },
+  {
+    "id": "09708",
+    "pdm": "PARALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": "09709",
+    "pdm": "METRIBUZIM",
+    "grupo": 68
+  },
+  {
+    "id": "09710",
+    "pdm": "ESPIROMESIFENO",
+    "grupo": 68
+  },
+  {
+    "id": "09711",
+    "pdm": "ACETAMIPRIDO",
+    "grupo": 68
+  },
+  {
+    "id": "09713",
+    "pdm": "METOL",
+    "grupo": 68
+  },
+  {
+    "id": "09784",
+    "pdm": "MIRISTATO DE ISOPROPILA",
+    "grupo": 68
+  },
+  {
+    "id": "09789",
+    "pdm": "MISTURA GASOSA",
+    "grupo": 68
+  },
+  {
+    "id": "09793",
+    "pdm": "MISTURA URUCUM E CURCUMA",
+    "grupo": 68
+  },
+  {
+    "id": "09800",
+    "pdm": "CLOBETASOL PROPIONATO",
+    "grupo": 68
+  },
+  {
+    "id": "09874",
+    "pdm": "MOLIBDATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": "09875",
+    "pdm": "ÓXIDO DE MOLIBDÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": "09890",
+    "pdm": "GLICERILA",
+    "grupo": 68
+  },
+  {
+    "id": "09891",
+    "pdm": "ÁCIDO VALPRÓICO",
+    "grupo": 68
+  },
+  {
+    "id": "09893",
+    "pdm": "ISOSSORBIDA",
+    "grupo": 68
+  },
+  {
+    "id": 10025,
+    "pdm": "MUREXIDA (PURPURATO DE AMÔNIO)",
+    "grupo": 68
+  },
+  {
+    "id": 10036,
+    "pdm": "HIDROXIPIRIMIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 10065,
+    "pdm": "ÁCIDO ACETILNEURAMÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": 10066,
+    "pdm": "EPRINOMECTINA",
+    "grupo": 68
+  },
+  {
+    "id": 10074,
+    "pdm": "NEOMICINA",
+    "grupo": 68
+  },
+  {
+    "id": 10078,
+    "pdm": "1-INDANONA",
+    "grupo": 68
+  },
+  {
+    "id": 10081,
+    "pdm": "BETA-NICOTINAMIDA ADENINA DINUCLEOTÍDEO",
+    "grupo": 68
+  },
+  {
+    "id": 10087,
+    "pdm": "PIRIMIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 10088,
+    "pdm": "ÁLCOOL ESTEARÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 10089,
+    "pdm": "SULFATO DE CÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": 10091,
+    "pdm": "NÍQUEL",
+    "grupo": 68
+  },
+  {
+    "id": 10096,
+    "pdm": "NITRATO DE MERCÚRIO",
+    "grupo": 68
+  },
+  {
+    "id": 10097,
+    "pdm": "NITRATO DE COBALTO",
+    "grupo": 68
+  },
+  {
+    "id": 10098,
+    "pdm": "NITRATO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": 10099,
+    "pdm": "FENARIMOL",
+    "grupo": 68
+  },
+  {
+    "id": 10100,
+    "pdm": "NITRATO DE CROMO",
+    "grupo": 68
+  },
+  {
+    "id": 10103,
+    "pdm": "QUINOLINA",
+    "grupo": 68
+  },
+  {
+    "id": 10104,
+    "pdm": "1-NITROSO 2-NAFTOL",
+    "grupo": 68
+  },
+  {
+    "id": 10107,
+    "pdm": "PIRROLIDONA",
+    "grupo": 68
+  },
+  {
+    "id": 10108,
+    "pdm": "NITRATO DE GÁLIO",
+    "grupo": 68
+  },
+  {
+    "id": 10111,
+    "pdm": "BUTENO",
+    "grupo": 68
+  },
+  {
+    "id": 10118,
+    "pdm": "NITROPRUSSETO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 10122,
+    "pdm": "FEROMONIO",
+    "grupo": 68
+  },
+  {
+    "id": 10123,
+    "pdm": "NOVALUROM",
+    "grupo": 68
+  },
+  {
+    "id": 10143,
+    "pdm": "OCTOPAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 10164,
+    "pdm": "ETANOLAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 10176,
+    "pdm": "ÓLEO VEGETAL",
+    "grupo": 68
+  },
+  {
+    "id": 10180,
+    "pdm": "ALACLORO",
+    "grupo": 68
+  },
+  {
+    "id": 10181,
+    "pdm": "1-OCTADECENO",
+    "grupo": 68
+  },
+  {
+    "id": 10185,
+    "pdm": "OLEATO",
+    "grupo": 68
+  },
+  {
+    "id": 10188,
+    "pdm": "CREATINA",
+    "grupo": 68
+  },
+  {
+    "id": 10207,
+    "pdm": "OLEILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 10208,
+    "pdm": "OCTANO",
+    "grupo": 68
+  },
+  {
+    "id": 10212,
+    "pdm": "NIMODIPINO",
+    "grupo": 68
+  },
+  {
+    "id": 10221,
+    "pdm": "ORCINOL",
+    "grupo": 68
+  },
+  {
+    "id": 10224,
+    "pdm": "O-TOLIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 10237,
+    "pdm": "OURO",
+    "grupo": 68
+  },
+  {
+    "id": 10238,
+    "pdm": "OXACILINA",
+    "grupo": 68
+  },
+  {
+    "id": 10239,
+    "pdm": "IODOCETAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 10240,
+    "pdm": "OXALATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 10246,
+    "pdm": "ÓXIDO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": 10247,
+    "pdm": "CLONIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 10248,
+    "pdm": "ÓXIDO DE DEUTÉRIO",
+    "grupo": 68
+  },
+  {
+    "id": 10249,
+    "pdm": "ÓXIDO DE MERCÚRIO II",
+    "grupo": 68
+  },
+  {
+    "id": 10250,
+    "pdm": "ÓXIDO DE HOLMIO",
+    "grupo": 68
+  },
+  {
+    "id": 10251,
+    "pdm": "ÓXIDO DE SILÍCIO",
+    "grupo": 68
+  },
+  {
+    "id": 10252,
+    "pdm": "CETILPIRIDÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": 10253,
+    "pdm": "ÓXIDO DE ÍTRIO",
+    "grupo": 68
+  },
+  {
+    "id": 10254,
+    "pdm": "ÓXIDO DE GÁLIO",
+    "grupo": 68
+  },
+  {
+    "id": 10255,
+    "pdm": "OXICLORETO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": 10256,
+    "pdm": "RANITIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 10257,
+    "pdm": "ÁCIDO INDOLACÉTICO",
+    "grupo": 68
+  },
+  {
+    "id": 10264,
+    "pdm": "OXSORALEN",
+    "grupo": 68
+  },
+  {
+    "id": 10326,
+    "pdm": "PALÁDIO",
+    "grupo": 68
+  },
+  {
+    "id": 10327,
+    "pdm": "CLORETO DE CARBONILA",
+    "grupo": 68
+  },
+  {
+    "id": 10330,
+    "pdm": "OCTIL-DIMETIL-PABA",
+    "grupo": 68
+  },
+  {
+    "id": 10349,
+    "pdm": "ACETATO DE PALÁDIO",
+    "grupo": 68
+  },
+  {
+    "id": 10350,
+    "pdm": "ÁCIDO CLOROPLATÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": 10423,
+    "pdm": "ENDOSSULFAM",
+    "grupo": 68
+  },
+  {
+    "id": 10460,
+    "pdm": "ÁCIDO P-AMINOBENZÓICO",
+    "grupo": 68
+  },
+  {
+    "id": 10489,
+    "pdm": "PASTA DE RETOQUE DE CHAPA DE IMPRESSAO GRAFICA",
+    "grupo": 68
+  },
+  {
+    "id": 10501,
+    "pdm": "METIDATIONA",
+    "grupo": 68
+  },
+  {
+    "id": 10573,
+    "pdm": "PECTINA",
+    "grupo": 68
+  },
+  {
+    "id": 10623,
+    "pdm": "PENCICUROM",
+    "grupo": 68
+  },
+  {
+    "id": 10625,
+    "pdm": "HALOXIFOPE-P-METÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 10628,
+    "pdm": "PENTANO",
+    "grupo": 68
+  },
+  {
+    "id": 10646,
+    "pdm": "DIMETILAMINO",
+    "grupo": 68
+  },
+  {
+    "id": 10647,
+    "pdm": "PERCLORATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 10648,
+    "pdm": "PERCARBONATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 10659,
+    "pdm": "CARBONATO DE PRATA",
+    "grupo": 68
+  },
+  {
+    "id": 10660,
+    "pdm": "HIDRÓXIDO DE CÉRIO",
+    "grupo": 68
+  },
+  {
+    "id": 10661,
+    "pdm": "ÓXIDO DE TÚLIO",
+    "grupo": 68
+  },
+  {
+    "id": 10662,
+    "pdm": "PERBORATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 10675,
+    "pdm": "PERMANGANATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 10680,
+    "pdm": "PERÓXIDO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 10681,
+    "pdm": "PERÓXIDO DE HIDROGÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": 10683,
+    "pdm": "PERSULFATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 10691,
+    "pdm": "HEPTANOSSULFONATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 10692,
+    "pdm": "2-PENTANONA",
+    "grupo": 68
+  },
+  {
+    "id": 10693,
+    "pdm": "1-METILBIGUANIDA",
+    "grupo": 68
+  },
+  {
+    "id": 10694,
+    "pdm": "SORBITANA",
+    "grupo": 68
+  },
+  {
+    "id": 10712,
+    "pdm": "PILOCARPINA",
+    "grupo": 68
+  },
+  {
+    "id": 10752,
+    "pdm": "METILPIPERIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 10764,
+    "pdm": "PIRROL",
+    "grupo": 68
+  },
+  {
+    "id": 10765,
+    "pdm": "PIRIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 10766,
+    "pdm": "PIROXICAM",
+    "grupo": 68
+  },
+  {
+    "id": 10769,
+    "pdm": "BENZOQUINONA",
+    "grupo": 68
+  },
+  {
+    "id": 10770,
+    "pdm": "PIROFOSFATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 10771,
+    "pdm": "PIROSULFATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 10775,
+    "pdm": "ÁCIDO PIROGÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": 10895,
+    "pdm": "PLASTIFICANTE IMPERMEABILIZANTE PARA CONCRETO",
+    "grupo": 68
+  },
+  {
+    "id": 10896,
+    "pdm": "PLASTIFICANTE RETARDADOR PARA CONCRETO",
+    "grupo": 68
+  },
+  {
+    "id": 10906,
+    "pdm": "PLATINA",
+    "grupo": 68
+  },
+  {
+    "id": 10927,
+    "pdm": "FISOSTIGMINA",
+    "grupo": 68
+  },
+  {
+    "id": 10929,
+    "pdm": "ÓSMIO",
+    "grupo": 68
+  },
+  {
+    "id": 10930,
+    "pdm": "PARTÍCULAS MAGNÉTICAS",
+    "grupo": 68
+  },
+  {
+    "id": 10931,
+    "pdm": "PIRENO",
+    "grupo": 68
+  },
+  {
+    "id": 10934,
+    "pdm": "PROPINEBE",
+    "grupo": 68
+  },
+  {
+    "id": 10935,
+    "pdm": "1-CLORO-3-METIL-2-BUTENO",
+    "grupo": 68
+  },
+  {
+    "id": 10936,
+    "pdm": "FUROSEMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 10938,
+    "pdm": "PÓ ANTIMACULADOR MATRIZ",
+    "grupo": 68
+  },
+  {
+    "id": 10940,
+    "pdm": "PODOFILINA",
+    "grupo": 68
+  },
+  {
+    "id": 10955,
+    "pdm": "POLIAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 10965,
+    "pdm": "POLIETILENOGLICOL (MACROGOL)",
+    "grupo": 68
+  },
+  {
+    "id": 10969,
+    "pdm": "CONJUNTO DE POLÍMEROS",
+    "grupo": 68
+  },
+  {
+    "id": 10972,
+    "pdm": "PROPANONITRILA",
+    "grupo": 68
+  },
+  {
+    "id": 10974,
+    "pdm": "BETANECOL",
+    "grupo": 68
+  },
+  {
+    "id": 10975,
+    "pdm": "CICLOPROPAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 10978,
+    "pdm": "POVIDONA (POLIVINILPIRROLIDONA)",
+    "grupo": 68
+  },
+  {
+    "id": 11113,
+    "pdm": "VANILINA",
+    "grupo": 68
+  },
+  {
+    "id": 11137,
+    "pdm": "PRATA",
+    "grupo": 68
+  },
+  {
+    "id": 11145,
+    "pdm": "PRAVASTATINA",
+    "grupo": 68
+  },
+  {
+    "id": 11147,
+    "pdm": "PRAZIQUANTEL",
+    "grupo": 68
+  },
+  {
+    "id": 11172,
+    "pdm": "EUCALIPTOL",
+    "grupo": 68
+  },
+  {
+    "id": 11208,
+    "pdm": "PROCIMIDONA",
+    "grupo": 68
+  },
+  {
+    "id": 11209,
+    "pdm": "PRIMAQUINA",
+    "grupo": 68
+  },
+  {
+    "id": 11216,
+    "pdm": "4-AMINOFENOL",
+    "grupo": 68
+  },
+  {
+    "id": 11219,
+    "pdm": "PROCAINAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 11224,
+    "pdm": "PROPAMOCARBE",
+    "grupo": 68
+  },
+  {
+    "id": 11225,
+    "pdm": "SULFAMETAZINA",
+    "grupo": 68
+  },
+  {
+    "id": 11229,
+    "pdm": "SETOXIDIM",
+    "grupo": 68
+  },
+  {
+    "id": 11231,
+    "pdm": "AZUL DE NITROTETRAZÓLIO",
+    "grupo": 68
+  },
+  {
+    "id": 11232,
+    "pdm": "ESTOJO DETECTAÇÃO CLORO / PH",
+    "grupo": 68
+  },
+  {
+    "id": 11234,
+    "pdm": "3,3-DIAMINOBENZIDINA (DAB)",
+    "grupo": 68
+  },
+  {
+    "id": 11235,
+    "pdm": "DIETIL-M-TOLUAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 11238,
+    "pdm": "TRIPOLIFOSFATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 11240,
+    "pdm": "CLORIDRATO DE -(-)ISOPROTERENOL",
+    "grupo": 68
+  },
+  {
+    "id": 11241,
+    "pdm": "PROFOXIDIM",
+    "grupo": 68
+  },
+  {
+    "id": 11263,
+    "pdm": "BIS(1,5-CICLOOCTADIENO)NIQUEL(0)",
+    "grupo": 68
+  },
+  {
+    "id": 11264,
+    "pdm": "TETRACIANOBENZENO",
+    "grupo": 68
+  },
+  {
+    "id": 11270,
+    "pdm": "TETRAPROPILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 11271,
+    "pdm": "PROPILENOGLICOL",
+    "grupo": 68
+  },
+  {
+    "id": 11272,
+    "pdm": "PROPILPARABENO (4-HIDROXIBENZOATO DE PROPILA)",
+    "grupo": 68
+  },
+  {
+    "id": 11273,
+    "pdm": "PROPILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 11278,
+    "pdm": "PROPILETILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 11279,
+    "pdm": "2,3-DICLORO-5,6-DICIANO-P-BENZOQUINONA",
+    "grupo": 68
+  },
+  {
+    "id": 11280,
+    "pdm": "ISOPROPÓXIDO DE TITÂNIO",
+    "grupo": 68
+  },
+  {
+    "id": 11281,
+    "pdm": "CARFENTRAZONA",
+    "grupo": 68
+  },
+  {
+    "id": 11282,
+    "pdm": "BENZOINOXIMA",
+    "grupo": 68
+  },
+  {
+    "id": 11298,
+    "pdm": "CLORETO DE ALUMÍNIO FTALOCIANINA",
+    "grupo": 68
+  },
+  {
+    "id": 11299,
+    "pdm": "BUTÓXIDO DE TITÂNIO IV",
+    "grupo": 68
+  },
+  {
+    "id": 11318,
+    "pdm": "CLORETO DE SAMÁRIO III",
+    "grupo": 68
+  },
+  {
+    "id": 11330,
+    "pdm": "PSORALENO",
+    "grupo": 68
+  },
+  {
+    "id": 11421,
+    "pdm": "PIRITIOBAQUE",
+    "grupo": 68
+  },
+  {
+    "id": 11422,
+    "pdm": "ATRAZINA",
+    "grupo": 68
+  },
+  {
+    "id": 11425,
+    "pdm": "CLORETO DE RÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 11427,
+    "pdm": "REAGENTE RADIOMÉTRICO",
+    "grupo": 68
+  },
+  {
+    "id": 11430,
+    "pdm": "ANIDRIDO BUTÍRICO",
+    "grupo": 68
+  },
+  {
+    "id": 11431,
+    "pdm": "BROMETO DE NITROBENZILA",
+    "grupo": 68
+  },
+  {
+    "id": 11432,
+    "pdm": "REATIVO COAGULAÇÃO",
+    "grupo": 68
+  },
+  {
+    "id": 11515,
+    "pdm": "REDUTOR",
+    "grupo": 68
+  },
+  {
+    "id": 11605,
+    "pdm": "DIFENIL-HIDRAZINA",
+    "grupo": 68
+  },
+  {
+    "id": 11672,
+    "pdm": "(3-GLICIDILOXIPROPIL) TRIMETOXISILANO",
+    "grupo": 68
+  },
+  {
+    "id": 11674,
+    "pdm": "RESINA",
+    "grupo": 68
+  },
+  {
+    "id": 11679,
+    "pdm": "RESINA SÓLIDA",
+    "grupo": 68
+  },
+  {
+    "id": 11693,
+    "pdm": "ÓXIDO DE GADOLÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": 11704,
+    "pdm": "RETARDADOR",
+    "grupo": 68
+  },
+  {
+    "id": 11748,
+    "pdm": "RIBOSE-5-FOSFATO",
+    "grupo": 68
+  },
+  {
+    "id": 11779,
+    "pdm": "TIAMETOXAM",
+    "grupo": 68
+  },
+  {
+    "id": 11831,
+    "pdm": "ÁCIDO RODIZÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": 11858,
+    "pdm": "RUBÍDIO",
+    "grupo": 68
+  },
+  {
+    "id": 11859,
+    "pdm": "RUTÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": 11861,
+    "pdm": "SABAO DE ALUMINIO ( GELATINIZANTE DE GASOLINA )",
+    "grupo": 68
+  },
+  {
+    "id": 11886,
+    "pdm": "SACARINA",
+    "grupo": 68
+  },
+  {
+    "id": 11887,
+    "pdm": "SACAROSE",
+    "grupo": 68
+  },
+  {
+    "id": 11910,
+    "pdm": "SAFRANINA",
+    "grupo": 68
+  },
+  {
+    "id": 11914,
+    "pdm": "BENZIL-ETANOLAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 11920,
+    "pdm": "AZINA DE SALICILALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": 11921,
+    "pdm": "SALICILATO DE METILA",
+    "grupo": 68
+  },
+  {
+    "id": 11923,
+    "pdm": "D-(-)-SALICINA",
+    "grupo": 68
+  },
+  {
+    "id": 11947,
+    "pdm": "3-PENTANONA",
+    "grupo": 68
+  },
+  {
+    "id": 11951,
+    "pdm": "METALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": 11963,
+    "pdm": "SECANTE",
+    "grupo": 68
+  },
+  {
+    "id": 11982,
+    "pdm": "SELÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": 11983,
+    "pdm": "SELENITO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 12048,
+    "pdm": "SEROTONINA",
+    "grupo": 68
+  },
+  {
+    "id": 12065,
+    "pdm": "SILICONE",
+    "grupo": 68
+  },
+  {
+    "id": 12068,
+    "pdm": "SILOXANO",
+    "grupo": 68
+  },
+  {
+    "id": 12175,
+    "pdm": "SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 12176,
+    "pdm": "METOTREXATO",
+    "grupo": 68
+  },
+  {
+    "id": 12194,
+    "pdm": "FLAVOPIRIDOL",
+    "grupo": 68
+  },
+  {
+    "id": 12195,
+    "pdm": "ÁCIDO DEOXICÓLICO",
+    "grupo": 68
+  },
+  {
+    "id": 12196,
+    "pdm": "CARBENICILINA",
+    "grupo": 68
+  },
+  {
+    "id": 12197,
+    "pdm": "SOLUCAO ACIDA DE LITOGRAFIA",
+    "grupo": 68
+  },
+  {
+    "id": 12199,
+    "pdm": "CICLOHEXANODIONA",
+    "grupo": 68
+  },
+  {
+    "id": 12200,
+    "pdm": "CINARIZINA",
+    "grupo": 68
+  },
+  {
+    "id": 12201,
+    "pdm": "BIIODATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 12202,
+    "pdm": "OXADIAZONA",
+    "grupo": 68
+  },
+  {
+    "id": 12203,
+    "pdm": "MICLOBUTANIL",
+    "grupo": 68
+  },
+  {
+    "id": 12204,
+    "pdm": "VALERALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": 12206,
+    "pdm": "ÁCIDO 4,5-DIHIDROXI-1,3-BENZENOSULFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": 12208,
+    "pdm": "BUTIROLACTONA",
+    "grupo": 68
+  },
+  {
+    "id": 12209,
+    "pdm": "DICLORANA",
+    "grupo": 68
+  },
+  {
+    "id": 12210,
+    "pdm": "SOLUÇÃO",
+    "grupo": 68
+  },
+  {
+    "id": 12211,
+    "pdm": "SOLUCAO DE BATERIA",
+    "grupo": 68
+  },
+  {
+    "id": 12214,
+    "pdm": "SOLUCAO DE PREPARAR MATRIZ LITOGRAFICA",
+    "grupo": 68
+  },
+  {
+    "id": 12215,
+    "pdm": "BENTAZONA",
+    "grupo": 68
+  },
+  {
+    "id": 12216,
+    "pdm": "CLETODIM",
+    "grupo": 68
+  },
+  {
+    "id": 12217,
+    "pdm": "PENOXSULAM",
+    "grupo": 68
+  },
+  {
+    "id": 12218,
+    "pdm": "PIRAZOSSULFUROM ETÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 12219,
+    "pdm": "S-METOLACLORO",
+    "grupo": 68
+  },
+  {
+    "id": 12220,
+    "pdm": "6-GINGEROL",
+    "grupo": 68
+  },
+  {
+    "id": 12221,
+    "pdm": "ISOPROPÓXIDO DE ALUMÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": 12222,
+    "pdm": "CARBOXAMILIDA",
+    "grupo": 68
+  },
+  {
+    "id": 12225,
+    "pdm": "NITROMETANO",
+    "grupo": 68
+  },
+  {
+    "id": 12226,
+    "pdm": "CARVONA",
+    "grupo": 68
+  },
+  {
+    "id": 12227,
+    "pdm": "2,2-BIPERIDINA-4,4-DICARBOXIALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": 12228,
+    "pdm": "X-GLUCURONIDEO",
+    "grupo": 68
+  },
+  {
+    "id": 12229,
+    "pdm": "SELENETO DE CÁDMIO",
+    "grupo": 68
+  },
+  {
+    "id": 12230,
+    "pdm": "PERCLORATO DE CÁDMIO",
+    "grupo": 68
+  },
+  {
+    "id": 12231,
+    "pdm": "HEXADECILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 12232,
+    "pdm": "FENIL-HIDRAZINA",
+    "grupo": 68
+  },
+  {
+    "id": 12233,
+    "pdm": "CALDA USO AGRÍCOLA",
+    "grupo": 68
+  },
+  {
+    "id": 12234,
+    "pdm": "LUBRIFICANTE MINERAL",
+    "grupo": 68
+  },
+  {
+    "id": 12236,
+    "pdm": "DIOCTILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 12237,
+    "pdm": "PIPERIDONA",
+    "grupo": 68
+  },
+  {
+    "id": 12238,
+    "pdm": "ÁLCOOL LAURÍLICO ETOXILADO",
+    "grupo": 68
+  },
+  {
+    "id": 12242,
+    "pdm": "FTALATO DE DIMETILA",
+    "grupo": 68
+  },
+  {
+    "id": 12243,
+    "pdm": "TEBUTIUROM",
+    "grupo": 68
+  },
+  {
+    "id": 12244,
+    "pdm": "BENZANILIDA",
+    "grupo": 68
+  },
+  {
+    "id": 12245,
+    "pdm": "SILANO",
+    "grupo": 68
+  },
+  {
+    "id": 12246,
+    "pdm": "ETILPARABENO",
+    "grupo": 68
+  },
+  {
+    "id": 12250,
+    "pdm": "DANSILCADAVERINA",
+    "grupo": 68
+  },
+  {
+    "id": 12251,
+    "pdm": "BUTILPARABENO",
+    "grupo": 68
+  },
+  {
+    "id": 12252,
+    "pdm": "TETRACLOROPALADATO(II) DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 12253,
+    "pdm": "ÁCIDO SINÁPICO",
+    "grupo": 68
+  },
+  {
+    "id": 12256,
+    "pdm": "ACETATO DE BUTILA",
+    "grupo": 68
+  },
+  {
+    "id": 12260,
+    "pdm": "DEFEROXAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 12284,
+    "pdm": "BUTENAL",
+    "grupo": 68
+  },
+  {
+    "id": 12300,
+    "pdm": "HIDROCORTISONA",
+    "grupo": 68
+  },
+  {
+    "id": 12308,
+    "pdm": "DICLOFOPE",
+    "grupo": 68
+  },
+  {
+    "id": 12309,
+    "pdm": "ENXOFRE",
+    "grupo": 68
+  },
+  {
+    "id": 12311,
+    "pdm": "SUBGALATO DE BISMUTO",
+    "grupo": 68
+  },
+  {
+    "id": 12313,
+    "pdm": "BIOPESTICIDA",
+    "grupo": 68
+  },
+  {
+    "id": 12316,
+    "pdm": "PIRIMETANIL",
+    "grupo": 68
+  },
+  {
+    "id": 12317,
+    "pdm": "SULFANILAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 12319,
+    "pdm": "ÁCIDO P-TOLUENOSULFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": 12321,
+    "pdm": "SULFATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 12322,
+    "pdm": "BISSACARATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 12323,
+    "pdm": "NITRATO DE RÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 12324,
+    "pdm": "SULFATO DE CÉRIO",
+    "grupo": 68
+  },
+  {
+    "id": 12325,
+    "pdm": "SULFATO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": 12326,
+    "pdm": "SULFATO DE COBALTO",
+    "grupo": 68
+  },
+  {
+    "id": 12327,
+    "pdm": "SULFATO DE COBRE II",
+    "grupo": 68
+  },
+  {
+    "id": 12331,
+    "pdm": "IBUPROFENO",
+    "grupo": 68
+  },
+  {
+    "id": 12332,
+    "pdm": "SULFATO DE FERRO III",
+    "grupo": 68
+  },
+  {
+    "id": 12336,
+    "pdm": "SULFATO DE MAGNÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": 12337,
+    "pdm": "NITRATO DE ÍTRIO",
+    "grupo": 68
+  },
+  {
+    "id": 12338,
+    "pdm": "SULFATO DE MANGANÊS",
+    "grupo": 68
+  },
+  {
+    "id": 12340,
+    "pdm": "BIS(TRIMETILSILIL)AMIDETO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": 12341,
+    "pdm": "FLUORETO DE TETRABUTILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 12342,
+    "pdm": "ÁCIDO ETILENOGLICOL-BIS(2-AMINOETIL-ÉTER)",
+    "grupo": 68
+  },
+  {
+    "id": 12345,
+    "pdm": "SULFATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 12346,
+    "pdm": "SULFATO DE PRATA",
+    "grupo": 68
+  },
+  {
+    "id": 12347,
+    "pdm": "CICLOHEXADIENO",
+    "grupo": 68
+  },
+  {
+    "id": 12348,
+    "pdm": "TRIBUTIL-ESTANHO",
+    "grupo": 68
+  },
+  {
+    "id": 12349,
+    "pdm": "QUINCLORAQUE",
+    "grupo": 68
+  },
+  {
+    "id": 12351,
+    "pdm": "3-NITROFENILTRIFLUORBORATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 12352,
+    "pdm": "SULFATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 12353,
+    "pdm": "SULFATO DE AMÔNIO E ALUMÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": 12354,
+    "pdm": "BROMETO DE ESTANHO",
+    "grupo": 68
+  },
+  {
+    "id": 12355,
+    "pdm": "ANIDRIDO TRIFLUOROMETANOSULFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": 12356,
+    "pdm": "SULFATO DE ZINCO",
+    "grupo": 68
+  },
+  {
+    "id": 12358,
+    "pdm": "XENÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 12359,
+    "pdm": "SULFENTRAZONA",
+    "grupo": 68
+  },
+  {
+    "id": 12362,
+    "pdm": "SUPER PLASTIFICANTE PARA CONCRETO",
+    "grupo": 68
+  },
+  {
+    "id": 12458,
+    "pdm": "TABLETE DE PURIFICACAO DE AGUA",
+    "grupo": 68
+  },
+  {
+    "id": 12484,
+    "pdm": "5-BROMO-4-CLORO-3-INDOLIL A-D-GALACTOPIRANOSÍDEO",
+    "grupo": 68
+  },
+  {
+    "id": 12488,
+    "pdm": "ÁCIDO 3,5-DINITROBENZÓICO",
+    "grupo": 68
+  },
+  {
+    "id": 12490,
+    "pdm": "PIRIDOXAL",
+    "grupo": 68
+  },
+  {
+    "id": 12554,
+    "pdm": "IODOACETOFENONA",
+    "grupo": 68
+  },
+  {
+    "id": 12561,
+    "pdm": "3-FENILFENOL",
+    "grupo": 68
+  },
+  {
+    "id": 12562,
+    "pdm": "GLICONATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 12563,
+    "pdm": "BROMOACETOFENONA",
+    "grupo": 68
+  },
+  {
+    "id": 12595,
+    "pdm": "DIMETOATO",
+    "grupo": 68
+  },
+  {
+    "id": 12613,
+    "pdm": "TELÚRIO",
+    "grupo": 68
+  },
+  {
+    "id": 12614,
+    "pdm": "TELURETO DE ZINCO",
+    "grupo": 68
+  },
+  {
+    "id": 12616,
+    "pdm": "TELURITO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 12631,
+    "pdm": "ÓXIDO DE SELÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": 12633,
+    "pdm": "CUMARINA",
+    "grupo": 68
+  },
+  {
+    "id": 12640,
+    "pdm": "BUTILFTALONITRILA",
+    "grupo": 68
+  },
+  {
+    "id": 12641,
+    "pdm": "TÉRBIO",
+    "grupo": 68
+  },
+  {
+    "id": 12642,
+    "pdm": "2-METIL-2-METOXIPROPANO",
+    "grupo": 68
+  },
+  {
+    "id": 12643,
+    "pdm": "TÚLIO",
+    "grupo": 68
+  },
+  {
+    "id": 12675,
+    "pdm": "TEFLUBENZURONA",
+    "grupo": 68
+  },
+  {
+    "id": 12701,
+    "pdm": "TETRABORATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 12705,
+    "pdm": "BROMETO DE TETRABUTILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 12706,
+    "pdm": "TETRACLORETO DE CARBONO",
+    "grupo": 68
+  },
+  {
+    "id": 12707,
+    "pdm": "HEXAMETIL-DISILANO",
+    "grupo": 68
+  },
+  {
+    "id": 12708,
+    "pdm": "TETRACLOROETENO (TETRACLOROETILENO)",
+    "grupo": 68
+  },
+  {
+    "id": 12709,
+    "pdm": "TETRACLOROFENOL",
+    "grupo": 68
+  },
+  {
+    "id": 12711,
+    "pdm": "TETRAETOXISSILANO (TEOS)",
+    "grupo": 68
+  },
+  {
+    "id": 12714,
+    "pdm": "LAMBDA-CIALOTRINA",
+    "grupo": 68
+  },
+  {
+    "id": 12718,
+    "pdm": "ÁCIDO 2-ANTRAQUINONOCARBOXÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 12724,
+    "pdm": "1-(2-TIAZOLILAZO)-2-NAFTOL",
+    "grupo": 68
+  },
+  {
+    "id": 12725,
+    "pdm": "TIMOLFTALEÍNA",
+    "grupo": 68
+  },
+  {
+    "id": 12730,
+    "pdm": "PERCLORATO DE COBRE",
+    "grupo": 68
+  },
+  {
+    "id": 12731,
+    "pdm": "P-TOLUENOSSULFONATO DE METILA",
+    "grupo": 68
+  },
+  {
+    "id": 12751,
+    "pdm": "TITANATO DE BÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": 12757,
+    "pdm": "ÁCIDO SULFÚRICO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": 12760,
+    "pdm": "CARBACOL",
+    "grupo": 68
+  },
+  {
+    "id": 12764,
+    "pdm": "ÁCIDO BROMOMETIL-BENZÓICO",
+    "grupo": 68
+  },
+  {
+    "id": 12765,
+    "pdm": "N-HIDROXISULFOSUCCINIMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 12767,
+    "pdm": "PIRIDINILPIRAZINA",
+    "grupo": 68
+  },
+  {
+    "id": 12786,
+    "pdm": "TIROSINA",
+    "grupo": 68
+  },
+  {
+    "id": 12790,
+    "pdm": "SULFETO DE COBRE",
+    "grupo": 68
+  },
+  {
+    "id": 12804,
+    "pdm": "TOLUENO",
+    "grupo": 68
+  },
+  {
+    "id": 12947,
+    "pdm": "TREALOSE",
+    "grupo": 68
+  },
+  {
+    "id": 12958,
+    "pdm": "TREONINA",
+    "grupo": 68
+  },
+  {
+    "id": 12965,
+    "pdm": "TRIBROMOMETANO",
+    "grupo": 68
+  },
+  {
+    "id": 12966,
+    "pdm": "D-LUCIFERINA SINTÉTICA",
+    "grupo": 68
+  },
+  {
+    "id": 12967,
+    "pdm": "TRISSULFETO DE ANTIMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 12969,
+    "pdm": "TRIFLUOR-IODO-METANO",
+    "grupo": 68
+  },
+  {
+    "id": 12970,
+    "pdm": "TRICLOROETILENO (TCE)",
+    "grupo": 68
+  },
+  {
+    "id": 12971,
+    "pdm": "TRICLOROFENOL (TCP)",
+    "grupo": 68
+  },
+  {
+    "id": 12973,
+    "pdm": "TRICAPRILMETILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 12974,
+    "pdm": "TRIETANOLAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 12988,
+    "pdm": "TRIMETILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 12995,
+    "pdm": "DIFENILETANODIONA",
+    "grupo": 68
+  },
+  {
+    "id": 12997,
+    "pdm": "ÁCIDO CIANÚRICO",
+    "grupo": 68
+  },
+  {
+    "id": 12999,
+    "pdm": "TRIS(HIDROXIMETIL)AMINOMETANO",
+    "grupo": 68
+  },
+  {
+    "id": 13128,
+    "pdm": "TUNGSTATO",
+    "grupo": 68
+  },
+  {
+    "id": 13188,
+    "pdm": "4-NITROFENIL-BETA-D-GLICURONÍDEO",
+    "grupo": 68
+  },
+  {
+    "id": 13238,
+    "pdm": "ANIDRIDO SUCCÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": 13241,
+    "pdm": "SULFETO DE ZINCO",
+    "grupo": 68
+  },
+  {
+    "id": 13315,
+    "pdm": "ÁCIDO 2-CLOROETILFOSFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": 13316,
+    "pdm": "VANADATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 13317,
+    "pdm": "BILIRRUBINA",
+    "grupo": 68
+  },
+  {
+    "id": 13369,
+    "pdm": "ÁCIDO IODÍDRICO",
+    "grupo": 68
+  },
+  {
+    "id": 13370,
+    "pdm": "CLOMAZONA",
+    "grupo": 68
+  },
+  {
+    "id": 13385,
+    "pdm": "HEPTANO-1-TIOL",
+    "grupo": 68
+  },
+  {
+    "id": 13386,
+    "pdm": "TIOFENO",
+    "grupo": 68
+  },
+  {
+    "id": 13393,
+    "pdm": "DIETIL-ETOXIMETILENO MALONATO",
+    "grupo": 68
+  },
+  {
+    "id": 13449,
+    "pdm": "MALONATO DE DIMETILA",
+    "grupo": 68
+  },
+  {
+    "id": 13451,
+    "pdm": "FORMIATO DE ETILA",
+    "grupo": 68
+  },
+  {
+    "id": 13464,
+    "pdm": "ÁCIDO ERÚCICO",
+    "grupo": 68
+  },
+  {
+    "id": 13465,
+    "pdm": "OXINITRATO DE ZIRCÔNIO IV",
+    "grupo": 68
+  },
+  {
+    "id": 13486,
+    "pdm": "ÁCIDO FTÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": 13489,
+    "pdm": "XILENO",
+    "grupo": 68
+  },
+  {
+    "id": 13490,
+    "pdm": "D-(+)-XILOSE",
+    "grupo": 68
+  },
+  {
+    "id": 13496,
+    "pdm": "ZINCO",
+    "grupo": 68
+  },
+  {
+    "id": 13522,
+    "pdm": "BROMOBENZENO",
+    "grupo": 68
+  },
+  {
+    "id": 13541,
+    "pdm": "CLORETO DE MANGANÊS",
+    "grupo": 68
+  },
+  {
+    "id": 13574,
+    "pdm": "FENILETANOL",
+    "grupo": 68
+  },
+  {
+    "id": 13575,
+    "pdm": "ÁCIDO ETILENODIAMINO DIACÉTICO",
+    "grupo": 68
+  },
+  {
+    "id": 13656,
+    "pdm": "ÉTER DIOCTÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 13661,
+    "pdm": "SALICILATO DE OCTILA",
+    "grupo": 68
+  },
+  {
+    "id": 13662,
+    "pdm": "4-BROMOFENILTRIFLUOROBORATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 13676,
+    "pdm": "DIFENILCARBAMATO",
+    "grupo": 68
+  },
+  {
+    "id": 13744,
+    "pdm": "HIDRETO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 13750,
+    "pdm": "REAGENTE P/ PRODUÇÃO RADIOFÁRMACO",
+    "grupo": 68
+  },
+  {
+    "id": 13752,
+    "pdm": "CATALISADOR MOLDAGEM",
+    "grupo": 68
+  },
+  {
+    "id": 13753,
+    "pdm": "NAFTILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 13754,
+    "pdm": "RÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": 13755,
+    "pdm": "NINIDRINA",
+    "grupo": 68
+  },
+  {
+    "id": 13757,
+    "pdm": "DISSOLUTIVO PÓ ESPECIAL",
+    "grupo": 68
+  },
+  {
+    "id": 13758,
+    "pdm": "REVELADOR IMPRESSÃO",
+    "grupo": 68
+  },
+  {
+    "id": 13760,
+    "pdm": "TUBO CARGA BUTANO",
+    "grupo": 68
+  },
+  {
+    "id": 13763,
+    "pdm": "SÍLICA",
+    "grupo": 68
+  },
+  {
+    "id": 13764,
+    "pdm": "REVELADOR FÍSICO",
+    "grupo": 68
+  },
+  {
+    "id": 13765,
+    "pdm": "ESBIOTRINA",
+    "grupo": 68
+  },
+  {
+    "id": 13785,
+    "pdm": "CARBONATO DE ZINCO",
+    "grupo": 68
+  },
+  {
+    "id": 13806,
+    "pdm": "SOMATOSTATINA",
+    "grupo": 68
+  },
+  {
+    "id": 13807,
+    "pdm": "AROMATIZANTE ARTIFICIAL",
+    "grupo": 68
+  },
+  {
+    "id": 13873,
+    "pdm": "ÉTER DE PETRÓLEO",
+    "grupo": 68
+  },
+  {
+    "id": 13914,
+    "pdm": "ANTRANILATO DE MENTILA",
+    "grupo": 68
+  },
+  {
+    "id": 13920,
+    "pdm": "BROMETO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 13946,
+    "pdm": "CARBONITRILA",
+    "grupo": 68
+  },
+  {
+    "id": 13947,
+    "pdm": "NORFLOXACINO",
+    "grupo": 68
+  },
+  {
+    "id": 13950,
+    "pdm": "REPELENTE DE INSETO",
+    "grupo": 68
+  },
+  {
+    "id": 13961,
+    "pdm": "UMBELIFERONA",
+    "grupo": 68
+  },
+  {
+    "id": 13964,
+    "pdm": "AMBROXOL CLORIDRATO",
+    "grupo": 68
+  },
+  {
+    "id": 13966,
+    "pdm": "METOXIAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 13967,
+    "pdm": "GEMIFLOXACINO",
+    "grupo": 68
+  },
+  {
+    "id": 13979,
+    "pdm": "1-CLORO-2,3-EPOXIPROPANO",
+    "grupo": 68
+  },
+  {
+    "id": 13996,
+    "pdm": "ÁCIDO PIPERAZINO-1,4-BIS(ETANO-2-SULFÔNICO)",
+    "grupo": 68
+  },
+  {
+    "id": 13998,
+    "pdm": "N-LAUROILSARCOSINATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 14016,
+    "pdm": "IODOPIRIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 14122,
+    "pdm": "DICARBONATO DE DI-TERC-BUTILA",
+    "grupo": 68
+  },
+  {
+    "id": 14127,
+    "pdm": "NITRATO DE CHUMBO",
+    "grupo": 68
+  },
+  {
+    "id": 14128,
+    "pdm": "NAFTALENO",
+    "grupo": 68
+  },
+  {
+    "id": 14141,
+    "pdm": "ÁCIDO SULFÚRICO",
+    "grupo": 68
+  },
+  {
+    "id": 14221,
+    "pdm": "HIDRÓXIDO DE TETRABUTILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 14235,
+    "pdm": "DETERGENTE ENZIMÁTICO",
+    "grupo": 68
+  },
+  {
+    "id": 14322,
+    "pdm": "TRICINA",
+    "grupo": 68
+  },
+  {
+    "id": 14368,
+    "pdm": "4-NITROCATECOL SULFATO DIPOTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 14369,
+    "pdm": "SITAGLIPTINA",
+    "grupo": 68
+  },
+  {
+    "id": 14400,
+    "pdm": "MALEATO DE DIMETILA",
+    "grupo": 68
+  },
+  {
+    "id": 14435,
+    "pdm": "GÁS REFRIGERANTE",
+    "grupo": 68
+  },
+  {
+    "id": 14445,
+    "pdm": "4-NITROFENIL-BETA-D-XILOPIRANOSE",
+    "grupo": 68
+  },
+  {
+    "id": 14454,
+    "pdm": "HIDROGENOSULFATO DE TETRABUTILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 14457,
+    "pdm": "CLORETO DE TEREFTALOÍLA",
+    "grupo": 68
+  },
+  {
+    "id": 14475,
+    "pdm": "GENETICINA",
+    "grupo": 68
+  },
+  {
+    "id": 14483,
+    "pdm": "CLORETO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 14487,
+    "pdm": "DESINFETANTE",
+    "grupo": 68
+  },
+  {
+    "id": 14492,
+    "pdm": "AMICARBAZONA",
+    "grupo": 68
+  },
+  {
+    "id": 14504,
+    "pdm": "ÁCIDO 2,2'-BIPIRIDINA-4,4'-DICARBOXÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 14518,
+    "pdm": "AMINOACETOFENONA",
+    "grupo": 68
+  },
+  {
+    "id": 14548,
+    "pdm": "6(Y,Y-DIMETILALILAMINO)PURINA",
+    "grupo": 68
+  },
+  {
+    "id": 14553,
+    "pdm": "ÁCIDO NITRILOTRIACÉTICO",
+    "grupo": 68
+  },
+  {
+    "id": 14556,
+    "pdm": "GERMÂNIO",
+    "grupo": 68
+  },
+  {
+    "id": 14561,
+    "pdm": "HEPTADECANOATO DE METILA",
+    "grupo": 68
+  },
+  {
+    "id": 14562,
+    "pdm": "CLORAMINA T",
+    "grupo": 68
+  },
+  {
+    "id": 14564,
+    "pdm": "NEUTRALIZANTE QUÍMICO",
+    "grupo": 68
+  },
+  {
+    "id": 14573,
+    "pdm": "PIRIDOXINA",
+    "grupo": 68
+  },
+  {
+    "id": 14580,
+    "pdm": "ÁCIDO CANFOR-10-SULFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": 14587,
+    "pdm": "LACTACISTINA",
+    "grupo": 68
+  },
+  {
+    "id": 14590,
+    "pdm": "RINCOFOROL",
+    "grupo": 68
+  },
+  {
+    "id": 14616,
+    "pdm": "CARBONATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 14618,
+    "pdm": "ISOTIOCIANATO DE 2-FENILETILA",
+    "grupo": 68
+  },
+  {
+    "id": 14642,
+    "pdm": "CLORETO DE OURO",
+    "grupo": 68
+  },
+  {
+    "id": 14643,
+    "pdm": "NITROANILIDA",
+    "grupo": 68
+  },
+  {
+    "id": 14654,
+    "pdm": "CARBENDAZIM",
+    "grupo": 68
+  },
+  {
+    "id": 14656,
+    "pdm": "VILDAGLIPTINA",
+    "grupo": 68
+  },
+  {
+    "id": 14664,
+    "pdm": "ÁCIDO METANOSSULFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": 14672,
+    "pdm": "FLUAZINAM",
+    "grupo": 68
+  },
+  {
+    "id": 14682,
+    "pdm": "5'-TRIFOSFATO DE ADENOSINA",
+    "grupo": 68
+  },
+  {
+    "id": 14702,
+    "pdm": "FLUORETO DE FENILMETILSULFONILA (PMSF)",
+    "grupo": 68
+  },
+  {
+    "id": 14730,
+    "pdm": "CITRATO DE FERRO",
+    "grupo": 68
+  },
+  {
+    "id": 14738,
+    "pdm": "HIDRÓXIDO DE TRIETILAMÔNIO (TEA)-OH",
+    "grupo": 68
+  },
+  {
+    "id": 14747,
+    "pdm": "ÓXIDO DE TRIOCTILFOSFINO (TOPO)",
+    "grupo": 68
+  },
+  {
+    "id": 14752,
+    "pdm": "3,4-DIIDRO-2H-PIRANO",
+    "grupo": 68
+  },
+  {
+    "id": 14758,
+    "pdm": "ÁCIDO SÓRBICO",
+    "grupo": 68
+  },
+  {
+    "id": 14762,
+    "pdm": "CLORETO DE COBALTO II",
+    "grupo": 68
+  },
+  {
+    "id": 14763,
+    "pdm": "ESTAQUIOSE",
+    "grupo": 68
+  },
+  {
+    "id": 14803,
+    "pdm": "HEXENO",
+    "grupo": 68
+  },
+  {
+    "id": 14814,
+    "pdm": "DICROMATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 14817,
+    "pdm": "BROMATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 14917,
+    "pdm": "IODOBENZENO",
+    "grupo": 68
+  },
+  {
+    "id": 14919,
+    "pdm": "ÁCIDO (HIDROXIETIL)PIPERAZINA ETANOSULFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": 14920,
+    "pdm": "FRUTOSE",
+    "grupo": 68
+  },
+  {
+    "id": 14935,
+    "pdm": "NITRITO DE ALUMÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": 14936,
+    "pdm": "GÁS COMPRIMIDO",
+    "grupo": 68
+  },
+  {
+    "id": 14942,
+    "pdm": "ARABITOL",
+    "grupo": 68
+  },
+  {
+    "id": 14953,
+    "pdm": "OXALATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 14974,
+    "pdm": "TOPIRAMATO",
+    "grupo": 68
+  },
+  {
+    "id": 14975,
+    "pdm": "SULFATO DE LANTÂNIO",
+    "grupo": 68
+  },
+  {
+    "id": 14976,
+    "pdm": "OXALATO DE DIETILA",
+    "grupo": 68
+  },
+  {
+    "id": 14979,
+    "pdm": "SULFETO DE FERRO",
+    "grupo": 68
+  },
+  {
+    "id": 14989,
+    "pdm": "ÁCIDO GRAXOS",
+    "grupo": 68
+  },
+  {
+    "id": 15009,
+    "pdm": "INTERFERONA",
+    "grupo": 68
+  },
+  {
+    "id": 15011,
+    "pdm": "NITRATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 15013,
+    "pdm": "NEGRO DE ERIOCROMO T",
+    "grupo": 68
+  },
+  {
+    "id": 15018,
+    "pdm": "ÁCIDO CLOROBENZÓICO",
+    "grupo": 68
+  },
+  {
+    "id": 15019,
+    "pdm": "ÉTER DIFENÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 15020,
+    "pdm": "BOROHIDRETO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 15032,
+    "pdm": "O-TOLIDINA DILUÍDA",
+    "grupo": 68
+  },
+  {
+    "id": 15043,
+    "pdm": "BASE",
+    "grupo": 68
+  },
+  {
+    "id": 15044,
+    "pdm": "ACRILONITRILA (PROPENONITRILA)",
+    "grupo": 68
+  },
+  {
+    "id": 15051,
+    "pdm": "ÁLCOOL DE LANOLINA ACETILADO",
+    "grupo": 68
+  },
+  {
+    "id": 15053,
+    "pdm": "VALINA",
+    "grupo": 68
+  },
+  {
+    "id": 15054,
+    "pdm": "METIONINA",
+    "grupo": 68
+  },
+  {
+    "id": 15055,
+    "pdm": "TIROXINA",
+    "grupo": 68
+  },
+  {
+    "id": 15056,
+    "pdm": "PROPICONAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 15057,
+    "pdm": "IODETO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 15059,
+    "pdm": "LIOTIRONINA",
+    "grupo": 68
+  },
+  {
+    "id": 15060,
+    "pdm": "TRIPTOFANO",
+    "grupo": 68
+  },
+  {
+    "id": 15066,
+    "pdm": "SULFATO DE FERRO II E AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 15067,
+    "pdm": "ÁCIDO ASPÁRTICO",
+    "grupo": 68
+  },
+  {
+    "id": 15068,
+    "pdm": "ÁCIDO GLUTÂMICO",
+    "grupo": 68
+  },
+  {
+    "id": 15076,
+    "pdm": "TIOCIANATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 15079,
+    "pdm": "TARTARATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 15088,
+    "pdm": "TARTARATO DE SÓDIO E POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 15090,
+    "pdm": "DICLOROFENOL",
+    "grupo": 68
+  },
+  {
+    "id": 15091,
+    "pdm": "ÁCIDO METAFOSFÓRICO",
+    "grupo": 68
+  },
+  {
+    "id": 15097,
+    "pdm": "HIDRAMETILNONA",
+    "grupo": 68
+  },
+  {
+    "id": 15098,
+    "pdm": "TETRACOSANO",
+    "grupo": 68
+  },
+  {
+    "id": 15099,
+    "pdm": "TRIFENIL BISMUTO",
+    "grupo": 68
+  },
+  {
+    "id": 15102,
+    "pdm": "L-GLUTAMATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 15107,
+    "pdm": "L-CISTEÍNA",
+    "grupo": 68
+  },
+  {
+    "id": 15109,
+    "pdm": "L-CISTINA",
+    "grupo": 68
+  },
+  {
+    "id": 15110,
+    "pdm": "FENILALANINA",
+    "grupo": 68
+  },
+  {
+    "id": 15113,
+    "pdm": "LEUCINA",
+    "grupo": 68
+  },
+  {
+    "id": 15116,
+    "pdm": "ALANINA",
+    "grupo": 68
+  },
+  {
+    "id": 15117,
+    "pdm": "ARGININA",
+    "grupo": 68
+  },
+  {
+    "id": 15118,
+    "pdm": "L-GLUTAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 15119,
+    "pdm": "ASPARAGINA",
+    "grupo": 68
+  },
+  {
+    "id": 15120,
+    "pdm": "LISINA",
+    "grupo": 68
+  },
+  {
+    "id": 15121,
+    "pdm": "1,10-FENANTROLINA (ORTO-FENANTROLINA)",
+    "grupo": 68
+  },
+  {
+    "id": 15126,
+    "pdm": "CLOROTALONIL",
+    "grupo": 68
+  },
+  {
+    "id": 15128,
+    "pdm": "NITRATO DE FERRO",
+    "grupo": 68
+  },
+  {
+    "id": 15131,
+    "pdm": "MALONONITRILA",
+    "grupo": 68
+  },
+  {
+    "id": 15133,
+    "pdm": "SULFATO DE AMÔNIO E FERRO",
+    "grupo": 68
+  },
+  {
+    "id": 15135,
+    "pdm": "NEODÍMIO",
+    "grupo": 68
+  },
+  {
+    "id": 15137,
+    "pdm": "FERRITO DE COBALTO",
+    "grupo": 68
+  },
+  {
+    "id": 15139,
+    "pdm": "TETRAHIDROFURANO (THF)",
+    "grupo": 68
+  },
+  {
+    "id": 15140,
+    "pdm": "ACETILACETONATO DE COBALTO",
+    "grupo": 68
+  },
+  {
+    "id": 15143,
+    "pdm": "DIFENILMETANOL",
+    "grupo": 68
+  },
+  {
+    "id": 15151,
+    "pdm": "4-FENILBUT-3-EN-2-ONA (BENZILIDENOACETONA)",
+    "grupo": 68
+  },
+  {
+    "id": 15166,
+    "pdm": "IMINOTIOLANO",
+    "grupo": 68
+  },
+  {
+    "id": 15181,
+    "pdm": "AMINOLEVULINATO",
+    "grupo": 68
+  },
+  {
+    "id": 15182,
+    "pdm": "CONJUNTO PADRÃO TURBIDEZ",
+    "grupo": 68
+  },
+  {
+    "id": 15183,
+    "pdm": "GLICLAZIDA",
+    "grupo": 68
+  },
+  {
+    "id": 15197,
+    "pdm": "PENTANOL",
+    "grupo": 68
+  },
+  {
+    "id": 15222,
+    "pdm": "TETRACONAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 15262,
+    "pdm": "SULFATO DE CROMO III E POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 15267,
+    "pdm": "IMIDACLOPRIDO",
+    "grupo": 68
+  },
+  {
+    "id": 15316,
+    "pdm": "TEOFILINA",
+    "grupo": 68
+  },
+  {
+    "id": 15320,
+    "pdm": "1,2 DICLOROBENZENO",
+    "grupo": 68
+  },
+  {
+    "id": 15335,
+    "pdm": "MOLIBDATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 15344,
+    "pdm": "DIMETILANILINA",
+    "grupo": 68
+  },
+  {
+    "id": 15348,
+    "pdm": "RAMNOSE",
+    "grupo": 68
+  },
+  {
+    "id": 15366,
+    "pdm": "ÁCIDO HEXACLOROPLATÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": 15367,
+    "pdm": "CICLOHEXANONA",
+    "grupo": 68
+  },
+  {
+    "id": 15377,
+    "pdm": "TIOCIANATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 15400,
+    "pdm": "BROMOBENZONITRILA",
+    "grupo": 68
+  },
+  {
+    "id": 15405,
+    "pdm": "DESODORIZADOR",
+    "grupo": 68
+  },
+  {
+    "id": 15428,
+    "pdm": "ÁCIDO LÁURICO",
+    "grupo": 68
+  },
+  {
+    "id": 15441,
+    "pdm": "BICUCULINA",
+    "grupo": 68
+  },
+  {
+    "id": 15452,
+    "pdm": "PICROTOXINA",
+    "grupo": 68
+  },
+  {
+    "id": 15453,
+    "pdm": "CROMATO DE BÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": 15466,
+    "pdm": "CLOROFÓRMIO",
+    "grupo": 68
+  },
+  {
+    "id": 15468,
+    "pdm": "D-GLICOSE, 6-FOSFATO",
+    "grupo": 68
+  },
+  {
+    "id": 15551,
+    "pdm": "LOVASTATINA",
+    "grupo": 68
+  },
+  {
+    "id": 15552,
+    "pdm": "PERCLORATO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": 15553,
+    "pdm": "EURÓPIO",
+    "grupo": 68
+  },
+  {
+    "id": 15563,
+    "pdm": "ÁGUA DESMINERALIZADA",
+    "grupo": 68
+  },
+  {
+    "id": 15576,
+    "pdm": "ÓXIDO DE ESCÂNDIO",
+    "grupo": 68
+  },
+  {
+    "id": 15578,
+    "pdm": "SULFATO DE MERCÚRIO II",
+    "grupo": 68
+  },
+  {
+    "id": 15600,
+    "pdm": "CARBAMOILA",
+    "grupo": 68
+  },
+  {
+    "id": 15601,
+    "pdm": "FLAVONA (2-FENILCROMONA)",
+    "grupo": 68
+  },
+  {
+    "id": 15603,
+    "pdm": "CASEÍNA",
+    "grupo": 68
+  },
+  {
+    "id": 15605,
+    "pdm": "HISTAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 15607,
+    "pdm": "INDANO",
+    "grupo": 68
+  },
+  {
+    "id": 15608,
+    "pdm": "LAURIL POLIGLICOSÍDEO",
+    "grupo": 68
+  },
+  {
+    "id": 15609,
+    "pdm": "ANTRONA",
+    "grupo": 68
+  },
+  {
+    "id": 15610,
+    "pdm": "N,N,N,N-TETRAMETIL-ETILENODIAMINA (TEMED)",
+    "grupo": 68
+  },
+  {
+    "id": 15611,
+    "pdm": "ETÓXIDO DE NIÓBIO",
+    "grupo": 68
+  },
+  {
+    "id": 15612,
+    "pdm": "ÁCIDO BROMÍDRICO",
+    "grupo": 68
+  },
+  {
+    "id": 15614,
+    "pdm": "PERSULFATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 15617,
+    "pdm": "FOMESAFEM",
+    "grupo": 68
+  },
+  {
+    "id": 15622,
+    "pdm": "ÓXIDO DE RÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": 15646,
+    "pdm": "CLORPIRIFÓS",
+    "grupo": 68
+  },
+  {
+    "id": 15647,
+    "pdm": "CLORETO DE LANTÂNIO III",
+    "grupo": 68
+  },
+  {
+    "id": 15649,
+    "pdm": "TETRACLOROETANO",
+    "grupo": 68
+  },
+  {
+    "id": 15650,
+    "pdm": "DIÓXIDO DE CLORO",
+    "grupo": 68
+  },
+  {
+    "id": 15651,
+    "pdm": "ÁCIDO METACRÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 15669,
+    "pdm": "ÁCIDO ACONÍTICO",
+    "grupo": 68
+  },
+  {
+    "id": 15670,
+    "pdm": "PERCLORATO DE NÍQUEL",
+    "grupo": 68
+  },
+  {
+    "id": 15671,
+    "pdm": "ÁCIDO FERRÚLICO",
+    "grupo": 68
+  },
+  {
+    "id": 15672,
+    "pdm": "FLUORETO DE ESTANHO",
+    "grupo": 68
+  },
+  {
+    "id": 15673,
+    "pdm": "FÓSFORO",
+    "grupo": 68
+  },
+  {
+    "id": 15674,
+    "pdm": "1,1,3,3-TETRAMETILDISILAZANO",
+    "grupo": 68
+  },
+  {
+    "id": 15676,
+    "pdm": "2-CLOROETOXI-TRIMETILSILANO",
+    "grupo": 68
+  },
+  {
+    "id": 15678,
+    "pdm": "ACRILAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 15680,
+    "pdm": "OXICLORETO DE ZIRCÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 15690,
+    "pdm": "ÁCIDO PALMÍTICO",
+    "grupo": 68
+  },
+  {
+    "id": 15715,
+    "pdm": "DECANTADOR",
+    "grupo": 68
+  },
+  {
+    "id": 15720,
+    "pdm": "BENZONITRILA",
+    "grupo": 68
+  },
+  {
+    "id": 15725,
+    "pdm": "LIMPA BORDA",
+    "grupo": 68
+  },
+  {
+    "id": 15738,
+    "pdm": "PREDNISOLONA",
+    "grupo": 68
+  },
+  {
+    "id": 15774,
+    "pdm": "TIOACETATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 15787,
+    "pdm": "TARTARATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 15788,
+    "pdm": "BISFENOL",
+    "grupo": 68
+  },
+  {
+    "id": 15792,
+    "pdm": "CLORETO DE MAGNÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": 15804,
+    "pdm": "SILÍCIO",
+    "grupo": 68
+  },
+  {
+    "id": 15810,
+    "pdm": "PERSULFATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 15830,
+    "pdm": "CLORETO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": 15832,
+    "pdm": "ETILENOGLICOL (ETANO-1,2-DIOL)",
+    "grupo": 68
+  },
+  {
+    "id": 15841,
+    "pdm": "ÁCIDO TARTRÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": 15843,
+    "pdm": "ÁCIDO BETA HIDROXIPIRÚVICO",
+    "grupo": 68
+  },
+  {
+    "id": 15872,
+    "pdm": "4-NITROFENOL",
+    "grupo": 68
+  },
+  {
+    "id": 15897,
+    "pdm": "2,2´-AZOBIS(2-METILPROPIONITRILA)",
+    "grupo": 68
+  },
+  {
+    "id": 15904,
+    "pdm": "LÍQUIDO PENETRANTE",
+    "grupo": 68
+  },
+  {
+    "id": 15910,
+    "pdm": "MEDROXIPROGESTERONA",
+    "grupo": 68
+  },
+  {
+    "id": 15929,
+    "pdm": "ÓXIDO DE MAGNÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": 15933,
+    "pdm": "HEXAMETAFOSFATO SÓDIO (SHMP)",
+    "grupo": 68
+  },
+  {
+    "id": 15944,
+    "pdm": "3-CARBOXIFENIL-TRIFLUOROBORATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 15965,
+    "pdm": "CLORETO DE EURÓPIO",
+    "grupo": 68
+  },
+  {
+    "id": 15994,
+    "pdm": "FOSFATO DE AMÔNIO E SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 16059,
+    "pdm": "ÁCIDO CLOROACÉTICO",
+    "grupo": 68
+  },
+  {
+    "id": 16062,
+    "pdm": "ÁCIDO FOSFÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": 16063,
+    "pdm": "ÁCIDO FOSFÔNICO DE METILENO",
+    "grupo": 68
+  },
+  {
+    "id": 16064,
+    "pdm": "GERADOR DE RADIONUCLÍDEO",
+    "grupo": 68
+  },
+  {
+    "id": 16071,
+    "pdm": "ÓXIDO DE LUTÉCIO",
+    "grupo": 68
+  },
+  {
+    "id": 16095,
+    "pdm": "HIDROCLOROTIAZIDA",
+    "grupo": 68
+  },
+  {
+    "id": 16097,
+    "pdm": "DIAZEPAM",
+    "grupo": 68
+  },
+  {
+    "id": 16098,
+    "pdm": "CARBAMAZEPINA",
+    "grupo": 68
+  },
+  {
+    "id": 16099,
+    "pdm": "ALBENDAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 16100,
+    "pdm": "ANTIPIRINA (FENAZONA)",
+    "grupo": 68
+  },
+  {
+    "id": 16101,
+    "pdm": "BENZOATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 16104,
+    "pdm": "AMITRIPTILINA",
+    "grupo": 68
+  },
+  {
+    "id": 16105,
+    "pdm": "METILPARABENO (4-HIDROXIBENZOATO DE METILA)",
+    "grupo": 68
+  },
+  {
+    "id": 16113,
+    "pdm": "TETRACAÍNA",
+    "grupo": 68
+  },
+  {
+    "id": 16116,
+    "pdm": "ÓXIDO DE BORO",
+    "grupo": 68
+  },
+  {
+    "id": 16126,
+    "pdm": "CHUMBO TETRAETILA",
+    "grupo": 68
+  },
+  {
+    "id": 16139,
+    "pdm": "IODETO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 16143,
+    "pdm": "LAURIL ÉTER SULFOSUCCINATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 16147,
+    "pdm": "FENTANILA",
+    "grupo": 68
+  },
+  {
+    "id": 16148,
+    "pdm": "CLORETO DE TRICICLOHEXILA",
+    "grupo": 68
+  },
+  {
+    "id": 16150,
+    "pdm": "IODOFÓRMIO",
+    "grupo": 68
+  },
+  {
+    "id": 16156,
+    "pdm": "TRIBUTIL FOSFATO",
+    "grupo": 68
+  },
+  {
+    "id": 16159,
+    "pdm": "OLEATO DE METILA",
+    "grupo": 68
+  },
+  {
+    "id": 16160,
+    "pdm": "NITRATO DE PRATA",
+    "grupo": 68
+  },
+  {
+    "id": 16161,
+    "pdm": "NITRATO DE BISMUTO",
+    "grupo": 68
+  },
+  {
+    "id": 16163,
+    "pdm": "P-FENILENODIAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 16178,
+    "pdm": "ACETILACETONATO DE FERRO",
+    "grupo": 68
+  },
+  {
+    "id": 16187,
+    "pdm": "BITARTARATO DE COLINA",
+    "grupo": 68
+  },
+  {
+    "id": 16204,
+    "pdm": "TERPINEOL",
+    "grupo": 68
+  },
+  {
+    "id": 16230,
+    "pdm": "ESPESSANTE QUÍMICO",
+    "grupo": 68
+  },
+  {
+    "id": 16231,
+    "pdm": "FENILSELENILA",
+    "grupo": 68
+  },
+  {
+    "id": 16234,
+    "pdm": "FENILETILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 16240,
+    "pdm": "PINENO",
+    "grupo": 68
+  },
+  {
+    "id": 16242,
+    "pdm": "TIOACETAMIDA (TAA)",
+    "grupo": 68
+  },
+  {
+    "id": 16250,
+    "pdm": "4-AMINOANTIPIRINA (4-AA)",
+    "grupo": 68
+  },
+  {
+    "id": 16258,
+    "pdm": "ÓXIDO DE VANÁDIO",
+    "grupo": 68
+  },
+  {
+    "id": 16278,
+    "pdm": "ÁCIDO 2-TIOFÊNICOCARBOXÍLICO HIDRAZIDA",
+    "grupo": 68
+  },
+  {
+    "id": 16292,
+    "pdm": "CLOROPLATINATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 16320,
+    "pdm": "VANÁDIO",
+    "grupo": 68
+  },
+  {
+    "id": 16321,
+    "pdm": "TRIMETILCLOROSILANO",
+    "grupo": 68
+  },
+  {
+    "id": 16324,
+    "pdm": "TRIETILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 16331,
+    "pdm": "4-(DIMETIL)AMINOPIRIDINA (DMAP)",
+    "grupo": 68
+  },
+  {
+    "id": 16335,
+    "pdm": "CLORETO DE ISOPROPILA",
+    "grupo": 68
+  },
+  {
+    "id": 16337,
+    "pdm": "DIETILDITIOCARBAMATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 16341,
+    "pdm": "D-GALACTOPIRANOSÍDEO",
+    "grupo": 68
+  },
+  {
+    "id": 16343,
+    "pdm": "DIETILPIROCARBONATO (DEPC)",
+    "grupo": 68
+  },
+  {
+    "id": 16349,
+    "pdm": "TRAPIDIL",
+    "grupo": 68
+  },
+  {
+    "id": 16351,
+    "pdm": "ÁCIDO 3-AMINO-2,3-DIIDROBENZÓICO",
+    "grupo": 68
+  },
+  {
+    "id": 16367,
+    "pdm": "3-AMINOBENZONITRILA",
+    "grupo": 68
+  },
+  {
+    "id": 16370,
+    "pdm": "IODO",
+    "grupo": 68
+  },
+  {
+    "id": 16387,
+    "pdm": "COPOLÍMERO POLIETILENOGLICOL-POLIPROPILENOGLICOL",
+    "grupo": 68
+  },
+  {
+    "id": 16405,
+    "pdm": "CLOROFENOL",
+    "grupo": 68
+  },
+  {
+    "id": 16421,
+    "pdm": "PARAFORMALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": 16425,
+    "pdm": "CRIPTOXANTINA",
+    "grupo": 68
+  },
+  {
+    "id": 16427,
+    "pdm": "SULFATO DE ALUMÍNIO E POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 16436,
+    "pdm": "METRONIZADOL",
+    "grupo": 68
+  },
+  {
+    "id": 16439,
+    "pdm": "VERMELHO DE FENOL",
+    "grupo": 68
+  },
+  {
+    "id": 16440,
+    "pdm": "ÁCIDO 3,5-DINITROSALICÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 16441,
+    "pdm": "1,4-BENZENODIMETANOL",
+    "grupo": 68
+  },
+  {
+    "id": 16443,
+    "pdm": "ÁCIDO MANDÉLICO",
+    "grupo": 68
+  },
+  {
+    "id": 16444,
+    "pdm": "ÁCIDO FURÓICO",
+    "grupo": 68
+  },
+  {
+    "id": 16445,
+    "pdm": "ETILNITROSURÉIA",
+    "grupo": 68
+  },
+  {
+    "id": 16446,
+    "pdm": "INDENO",
+    "grupo": 68
+  },
+  {
+    "id": 16448,
+    "pdm": "METABISSULFITO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 16456,
+    "pdm": "PICLORAM",
+    "grupo": 68
+  },
+  {
+    "id": 16458,
+    "pdm": "DODECANO",
+    "grupo": 68
+  },
+  {
+    "id": 16469,
+    "pdm": "ESCULINA",
+    "grupo": 68
+  },
+  {
+    "id": 16470,
+    "pdm": "RAFINOSE",
+    "grupo": 68
+  },
+  {
+    "id": 16471,
+    "pdm": "ALANTOÍNA",
+    "grupo": 68
+  },
+  {
+    "id": 16477,
+    "pdm": "FLUORETO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 16485,
+    "pdm": "CARBOFURANO",
+    "grupo": 68
+  },
+  {
+    "id": 16488,
+    "pdm": "BIS(TRIMETILSILIL)AMIDETO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 16495,
+    "pdm": "SORBATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 16499,
+    "pdm": "TETRAMETILSILANO",
+    "grupo": 68
+  },
+  {
+    "id": 16508,
+    "pdm": "BROMETO DE TÁLIO",
+    "grupo": 68
+  },
+  {
+    "id": 16509,
+    "pdm": "2,3-BUTANEDIONA",
+    "grupo": 68
+  },
+  {
+    "id": 16515,
+    "pdm": "ÓXIDO DE TÉRBIO",
+    "grupo": 68
+  },
+  {
+    "id": 16520,
+    "pdm": "HIPOCLORITO DE SÓDIO DILUÍDO",
+    "grupo": 68
+  },
+  {
+    "id": 16527,
+    "pdm": "IOXINIL",
+    "grupo": 68
+  },
+  {
+    "id": 16528,
+    "pdm": "ARSENIATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 16546,
+    "pdm": "LACTATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 16578,
+    "pdm": "TRIFENILFOSFINA",
+    "grupo": 68
+  },
+  {
+    "id": 16601,
+    "pdm": "ÁCIDO 1-BUTANOSSULFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": 16610,
+    "pdm": "ÁCIDO BUTILBORÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": 16611,
+    "pdm": "PROPIL GALATO",
+    "grupo": 68
+  },
+  {
+    "id": 16612,
+    "pdm": "CARBONATO DE COBALTO",
+    "grupo": 68
+  },
+  {
+    "id": 16623,
+    "pdm": "DIARESCEÍNA",
+    "grupo": 68
+  },
+  {
+    "id": 16633,
+    "pdm": "ARSINA",
+    "grupo": 68
+  },
+  {
+    "id": 16634,
+    "pdm": "DITIOOXAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 16642,
+    "pdm": "TETRAFLUORETANO",
+    "grupo": 68
+  },
+  {
+    "id": 16645,
+    "pdm": "CARBONIL CIANETO",
+    "grupo": 68
+  },
+  {
+    "id": 16656,
+    "pdm": "ÓXIDO DE NEODÍMIO",
+    "grupo": 68
+  },
+  {
+    "id": 16714,
+    "pdm": "PROPIONATO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": 16954,
+    "pdm": "CLORETO DE DINITROBENZOÍLA",
+    "grupo": 68
+  },
+  {
+    "id": 17135,
+    "pdm": "MEFLOQUINA",
+    "grupo": 68
+  },
+  {
+    "id": 17138,
+    "pdm": "BETA-NAFTIL",
+    "grupo": 68
+  },
+  {
+    "id": 17176,
+    "pdm": "MESOTRIONA",
+    "grupo": 68
+  },
+  {
+    "id": 17177,
+    "pdm": "TEICOPLANINA",
+    "grupo": 68
+  },
+  {
+    "id": 17178,
+    "pdm": "FLUAZIFOPE-P-BUTÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 17179,
+    "pdm": "SULFLURAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 17180,
+    "pdm": "HIDROXIQUINOLINA",
+    "grupo": 68
+  },
+  {
+    "id": 17266,
+    "pdm": "PRALETRINA",
+    "grupo": 68
+  },
+  {
+    "id": 17335,
+    "pdm": "D-XILULOSE",
+    "grupo": 68
+  },
+  {
+    "id": 17340,
+    "pdm": "METOMIL",
+    "grupo": 68
+  },
+  {
+    "id": 17353,
+    "pdm": "INDOL",
+    "grupo": 68
+  },
+  {
+    "id": 17355,
+    "pdm": "DECAHIDRONAFTALENO",
+    "grupo": 68
+  },
+  {
+    "id": 17385,
+    "pdm": "DITIOTREITOL",
+    "grupo": 68
+  },
+  {
+    "id": 17386,
+    "pdm": "ETILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 17387,
+    "pdm": "CLORETO DE CÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": 17394,
+    "pdm": "CIANAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 17396,
+    "pdm": "FORMAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 17397,
+    "pdm": "TRIETILENOGLICOL",
+    "grupo": 68
+  },
+  {
+    "id": 17398,
+    "pdm": "FUMARATO DE DIETILA",
+    "grupo": 68
+  },
+  {
+    "id": 17399,
+    "pdm": "SAPONINA",
+    "grupo": 68
+  },
+  {
+    "id": 17400,
+    "pdm": "CLORETO DE 4-NITROBENZENOSSULFONILA",
+    "grupo": 68
+  },
+  {
+    "id": 17401,
+    "pdm": "RIBOSE",
+    "grupo": 68
+  },
+  {
+    "id": 17402,
+    "pdm": "ÁCIDO CINÂMICO",
+    "grupo": 68
+  },
+  {
+    "id": 17403,
+    "pdm": "ISOPROPIL-BETA-D-TIOGALACTOPIRANOSÍDIO (IPTG)",
+    "grupo": 68
+  },
+  {
+    "id": 17404,
+    "pdm": "ADENOSINA",
+    "grupo": 68
+  },
+  {
+    "id": 17405,
+    "pdm": "N,N-DIMETILFORMAMIDA (DMF)",
+    "grupo": 68
+  },
+  {
+    "id": 17406,
+    "pdm": "ÁCIDO FUMÁRICO (TRANS-BUTENODIOICO)",
+    "grupo": 68
+  },
+  {
+    "id": 17407,
+    "pdm": "BROMETO DE ISOPROPILA",
+    "grupo": 68
+  },
+  {
+    "id": 17409,
+    "pdm": "LEVODOPA",
+    "grupo": 68
+  },
+  {
+    "id": 17413,
+    "pdm": "ÁCIDO URSÓLICO",
+    "grupo": 68
+  },
+  {
+    "id": 17414,
+    "pdm": "CLORETO DE TRIMESOÍLA",
+    "grupo": 68
+  },
+  {
+    "id": 17415,
+    "pdm": "HIDROSSULFITO DE SÓDIO (DITIONITO DE SÓDIO)",
+    "grupo": 68
+  },
+  {
+    "id": 17417,
+    "pdm": "DIESTEARATO DE POLIETILENO GLICOL",
+    "grupo": 68
+  },
+  {
+    "id": 17419,
+    "pdm": "ÁCIDO 5-AMINOLEVULÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": 17420,
+    "pdm": "PIRAZINA",
+    "grupo": 68
+  },
+  {
+    "id": 17421,
+    "pdm": "BIS[N,N-BIS(CARBOXIMETIL)AMINOMETIL]FLUORESCEÍNA",
+    "grupo": 68
+  },
+  {
+    "id": 17422,
+    "pdm": "3-CLOROPENTAN-2,4-DIONA",
+    "grupo": 68
+  },
+  {
+    "id": 17423,
+    "pdm": "(2,2,6,6-TETRAMETILPIPERIDIN-1-IL)OXILA (TEMPO)",
+    "grupo": 68
+  },
+  {
+    "id": 17425,
+    "pdm": "PANTOPRAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 17432,
+    "pdm": "GERADOR DE TECNÉCIO 99MTC",
+    "grupo": 68
+  },
+  {
+    "id": 17437,
+    "pdm": "DESCRISTALIZADOR",
+    "grupo": 68
+  },
+  {
+    "id": 17449,
+    "pdm": "IMIDAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 17450,
+    "pdm": "TRIFLOXISULFUROM",
+    "grupo": 68
+  },
+  {
+    "id": 17454,
+    "pdm": "ARSENITO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 17459,
+    "pdm": "DISSULFETO DE GLUTATIONA",
+    "grupo": 68
+  },
+  {
+    "id": 17460,
+    "pdm": "CUMATETRALIL",
+    "grupo": 68
+  },
+  {
+    "id": 17461,
+    "pdm": "2,2-DIMETOXIPROPANO",
+    "grupo": 68
+  },
+  {
+    "id": 17462,
+    "pdm": "TALCO - USO FARMACÊUTICO",
+    "grupo": 68
+  },
+  {
+    "id": 17463,
+    "pdm": "IODATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 17464,
+    "pdm": "ÁCIDO FLUOROBENZÓICO",
+    "grupo": 68
+  },
+  {
+    "id": 17475,
+    "pdm": "CAPTOPRIL",
+    "grupo": 68
+  },
+  {
+    "id": 17479,
+    "pdm": "GLIBENCLAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 17482,
+    "pdm": "DECANODIOL",
+    "grupo": 68
+  },
+  {
+    "id": 17483,
+    "pdm": "DICLOFENACO",
+    "grupo": 68
+  },
+  {
+    "id": 17484,
+    "pdm": "SULFATO DE CÁDMIO",
+    "grupo": 68
+  },
+  {
+    "id": 17494,
+    "pdm": "NAFTOL",
+    "grupo": 68
+  },
+  {
+    "id": 17500,
+    "pdm": "DULCITOL",
+    "grupo": 68
+  },
+  {
+    "id": 17501,
+    "pdm": "RESORCINOL (BENZENO-1,3-DIOL)",
+    "grupo": 68
+  },
+  {
+    "id": 17503,
+    "pdm": "ÓXIDO DE SAMÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": 17508,
+    "pdm": "CLORETO DE ALILA",
+    "grupo": 68
+  },
+  {
+    "id": 17509,
+    "pdm": "CLORETO DE BENZOÍLA",
+    "grupo": 68
+  },
+  {
+    "id": 17510,
+    "pdm": "HEPTANO",
+    "grupo": 68
+  },
+  {
+    "id": 17514,
+    "pdm": "FURANO",
+    "grupo": 68
+  },
+  {
+    "id": 17515,
+    "pdm": "VORICONAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 17517,
+    "pdm": "FORMIATO DE METILA",
+    "grupo": 68
+  },
+  {
+    "id": 17518,
+    "pdm": "CARBONATO DE ESTRÔNCIO",
+    "grupo": 68
+  },
+  {
+    "id": 17519,
+    "pdm": "CARBONATO DE MANGANÊS",
+    "grupo": 68
+  },
+  {
+    "id": 17520,
+    "pdm": "CINAMALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": 17524,
+    "pdm": "PROFENOFÓS",
+    "grupo": 68
+  },
+  {
+    "id": 17525,
+    "pdm": "ESTRICNINA",
+    "grupo": 68
+  },
+  {
+    "id": 17528,
+    "pdm": "CICLOHEXANOL",
+    "grupo": 68
+  },
+  {
+    "id": 17529,
+    "pdm": "HIDRAZINA",
+    "grupo": 68
+  },
+  {
+    "id": 17532,
+    "pdm": "NITRATO DE MANGANÊS",
+    "grupo": 68
+  },
+  {
+    "id": 17533,
+    "pdm": "ÓXIDO DE LANTÂNIO",
+    "grupo": 68
+  },
+  {
+    "id": 17543,
+    "pdm": "FOSFINA (FOSFANO)",
+    "grupo": 68
+  },
+  {
+    "id": 17553,
+    "pdm": "AMIDOGLICOLATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 17563,
+    "pdm": "TUNGSTÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": 17565,
+    "pdm": "LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": 17567,
+    "pdm": "ÓXIDO DE TELÚRIO",
+    "grupo": 68
+  },
+  {
+    "id": 17568,
+    "pdm": "SILICATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 17576,
+    "pdm": "URETANA",
+    "grupo": 68
+  },
+  {
+    "id": 17577,
+    "pdm": "DICIANO-NAFTALENO",
+    "grupo": 68
+  },
+  {
+    "id": 17578,
+    "pdm": "BUTIL-ACETIL-AMINOPROPIONATO DE ETILA",
+    "grupo": 68
+  },
+  {
+    "id": 17579,
+    "pdm": "TERT-BUTILDIMETILSILANO",
+    "grupo": 68
+  },
+  {
+    "id": 17580,
+    "pdm": "CICLO-HEXENONA",
+    "grupo": 68
+  },
+  {
+    "id": 17581,
+    "pdm": "1-AMINOPROPAN-2-OL (AMINOPROPANOL)",
+    "grupo": 68
+  },
+  {
+    "id": 17595,
+    "pdm": "PASTA ANTIPEGA",
+    "grupo": 68
+  },
+  {
+    "id": 17609,
+    "pdm": "PRASEODÍMIO",
+    "grupo": 68
+  },
+  {
+    "id": 17612,
+    "pdm": "CARBIDOPA",
+    "grupo": 68
+  },
+  {
+    "id": 17657,
+    "pdm": "METANOLATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 17670,
+    "pdm": "SULFATO DE FERRO",
+    "grupo": 68
+  },
+  {
+    "id": 17671,
+    "pdm": "2,4-BIS(DIFENILFOSFINO)PENTANO",
+    "grupo": 68
+  },
+  {
+    "id": 17672,
+    "pdm": "ÁCIDO QUINOLÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": 17673,
+    "pdm": "SULFETO DE MERCÚRIO",
+    "grupo": 68
+  },
+  {
+    "id": 17674,
+    "pdm": "NIÓBIO",
+    "grupo": 68
+  },
+  {
+    "id": 17676,
+    "pdm": "BUTIL-LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": 17683,
+    "pdm": "ÁCIDO OLEANÓLICO",
+    "grupo": 68
+  },
+  {
+    "id": 17695,
+    "pdm": "ÁCIDO 4-AZIDOBENZÓICO",
+    "grupo": 68
+  },
+  {
+    "id": 17698,
+    "pdm": "TERPINENO",
+    "grupo": 68
+  },
+  {
+    "id": 17705,
+    "pdm": "ÓXIDO DE COBRE",
+    "grupo": 68
+  },
+  {
+    "id": 17715,
+    "pdm": "HEXAFLUOROPROPANOL",
+    "grupo": 68
+  },
+  {
+    "id": 17755,
+    "pdm": "NEVIRAPINA",
+    "grupo": 68
+  },
+  {
+    "id": 17788,
+    "pdm": "MOLIBDÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": 17798,
+    "pdm": "CATALISADOR QUÍMICO",
+    "grupo": 68
+  },
+  {
+    "id": 17804,
+    "pdm": "TRIFENILTETRAZÓLIO",
+    "grupo": 68
+  },
+  {
+    "id": 17814,
+    "pdm": "BUTIL ESTANHO",
+    "grupo": 68
+  },
+  {
+    "id": 17823,
+    "pdm": "CAMPTOTECINA",
+    "grupo": 68
+  },
+  {
+    "id": 17829,
+    "pdm": "CLORETO DE TITÂNIO",
+    "grupo": 68
+  },
+  {
+    "id": 17830,
+    "pdm": "PERCLORATO DE MAGNÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": 17832,
+    "pdm": "ÁCIDO TRICLOROACÉTICO",
+    "grupo": 68
+  },
+  {
+    "id": 17833,
+    "pdm": "GLICOSE",
+    "grupo": 68
+  },
+  {
+    "id": 17835,
+    "pdm": "MANGIFERINA",
+    "grupo": 68
+  },
+  {
+    "id": 17837,
+    "pdm": "ARABINOSE",
+    "grupo": 68
+  },
+  {
+    "id": 17838,
+    "pdm": "BENZOCAÍNA",
+    "grupo": 68
+  },
+  {
+    "id": 17845,
+    "pdm": "ÁLCOOL BUTÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 17847,
+    "pdm": "ACETILACETONA",
+    "grupo": 68
+  },
+  {
+    "id": 17854,
+    "pdm": "IVERMECTINA",
+    "grupo": 68
+  },
+  {
+    "id": 17855,
+    "pdm": "SULFATO CÉRICO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 17856,
+    "pdm": "HEXAMETILDISILOXANO",
+    "grupo": 68
+  },
+  {
+    "id": 17868,
+    "pdm": "SULFONATO DE BÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": 17878,
+    "pdm": "HEXAFLUOROSILICATO",
+    "grupo": 68
+  },
+  {
+    "id": 17882,
+    "pdm": "DEXAMETASONA",
+    "grupo": 68
+  },
+  {
+    "id": 17895,
+    "pdm": "TETRAZÓLIO",
+    "grupo": 68
+  },
+  {
+    "id": 17899,
+    "pdm": "SULFETO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 17914,
+    "pdm": "ÁCIDO ACETILSALICÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 17917,
+    "pdm": "GÁS NATURAL VEICULAR",
+    "grupo": 68
+  },
+  {
+    "id": 17936,
+    "pdm": "DIPIRONA SÓDICA",
+    "grupo": 68
+  },
+  {
+    "id": 17938,
+    "pdm": "CETOCONAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 17960,
+    "pdm": "2-AMINO-2-METIL-1-PROPANOL (AMP)",
+    "grupo": 68
+  },
+  {
+    "id": 17984,
+    "pdm": "AGENTE ESPUMANTE",
+    "grupo": 68
+  },
+  {
+    "id": 17985,
+    "pdm": "DISPERSANTE QUÍMICO",
+    "grupo": 68
+  },
+  {
+    "id": 17986,
+    "pdm": "TITÂNIO",
+    "grupo": 68
+  },
+  {
+    "id": 18025,
+    "pdm": "NAFTOLBENZEÍNA",
+    "grupo": 68
+  },
+  {
+    "id": 18033,
+    "pdm": "CITRATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 18034,
+    "pdm": "TIAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 18037,
+    "pdm": "CLORETO DE IRÍDIO",
+    "grupo": 68
+  },
+  {
+    "id": 18040,
+    "pdm": "SULFATO DE HIDROXILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 18064,
+    "pdm": "BUTANONA",
+    "grupo": 68
+  },
+  {
+    "id": 18070,
+    "pdm": "FENOXIETANOL",
+    "grupo": 68
+  },
+  {
+    "id": 18091,
+    "pdm": "ÁCIDO ASCÓRBICO",
+    "grupo": 68
+  },
+  {
+    "id": 18114,
+    "pdm": "PARACETAMOL (ACETAMINOFENO)",
+    "grupo": 68
+  },
+  {
+    "id": 18115,
+    "pdm": "BENZOATO DE BENZILA",
+    "grupo": 68
+  },
+  {
+    "id": 18116,
+    "pdm": "LIDOCAÍNA",
+    "grupo": 68
+  },
+  {
+    "id": 18117,
+    "pdm": "MEBENDAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 18118,
+    "pdm": "METOCLOPRAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 18119,
+    "pdm": "PERMETRINA",
+    "grupo": 68
+  },
+  {
+    "id": 18120,
+    "pdm": "RIFAMPICINA",
+    "grupo": 68
+  },
+  {
+    "id": 18121,
+    "pdm": "AMINOFILINA",
+    "grupo": 68
+  },
+  {
+    "id": 18124,
+    "pdm": "ÁCIDO CIANOACÉTICO",
+    "grupo": 68
+  },
+  {
+    "id": 18125,
+    "pdm": "CAPROLACTAM",
+    "grupo": 68
+  },
+  {
+    "id": 18129,
+    "pdm": "BUTILATO DE HIDROXIANISOL",
+    "grupo": 68
+  },
+  {
+    "id": 18131,
+    "pdm": "ÁCIDO ETILENODIAMINOTETRACÉTICO (EDTA)",
+    "grupo": 68
+  },
+  {
+    "id": 18132,
+    "pdm": "QUININA",
+    "grupo": 68
+  },
+  {
+    "id": 18133,
+    "pdm": "METSULFUROM METÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 18135,
+    "pdm": "SULFAMETOXAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 18136,
+    "pdm": "IODOPOVIDONA (PVPI)",
+    "grupo": 68
+  },
+  {
+    "id": 18137,
+    "pdm": "NITRATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 18138,
+    "pdm": "OFLOXACINO",
+    "grupo": 68
+  },
+  {
+    "id": 18139,
+    "pdm": "PIRAZINAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 18140,
+    "pdm": "PROPRANOLOL",
+    "grupo": 68
+  },
+  {
+    "id": 18141,
+    "pdm": "PROMETAZINA",
+    "grupo": 68
+  },
+  {
+    "id": 18142,
+    "pdm": "MICONAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 18143,
+    "pdm": "MEGLUMINA",
+    "grupo": 68
+  },
+  {
+    "id": 18144,
+    "pdm": "PETROLATO",
+    "grupo": 68
+  },
+  {
+    "id": 18146,
+    "pdm": "MANITOL",
+    "grupo": 68
+  },
+  {
+    "id": 18147,
+    "pdm": "ENALAPRIL",
+    "grupo": 68
+  },
+  {
+    "id": 18148,
+    "pdm": "ISONIAZIDA",
+    "grupo": 68
+  },
+  {
+    "id": 18149,
+    "pdm": "ESTEARATO DE MAGNÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": 18150,
+    "pdm": "DIFETIALONA",
+    "grupo": 68
+  },
+  {
+    "id": 18151,
+    "pdm": "TACROLIMO",
+    "grupo": 68
+  },
+  {
+    "id": 18152,
+    "pdm": "NAFAZOLINA",
+    "grupo": 68
+  },
+  {
+    "id": 18153,
+    "pdm": "CLORETO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 18154,
+    "pdm": "AMOXICILINA",
+    "grupo": 68
+  },
+  {
+    "id": 18155,
+    "pdm": "GENTAMICINA",
+    "grupo": 68
+  },
+  {
+    "id": 18156,
+    "pdm": "TRIMETOPRIMA",
+    "grupo": 68
+  },
+  {
+    "id": 18157,
+    "pdm": "ATROPINA",
+    "grupo": 68
+  },
+  {
+    "id": 18158,
+    "pdm": "OMEPRAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 18159,
+    "pdm": "CÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": 18160,
+    "pdm": "CLAVULANATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 18161,
+    "pdm": "NISTATINA",
+    "grupo": 68
+  },
+  {
+    "id": 18162,
+    "pdm": "FENACETINA",
+    "grupo": 68
+  },
+  {
+    "id": 18164,
+    "pdm": "GLICINATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 18165,
+    "pdm": "LACTOFEM",
+    "grupo": 68
+  },
+  {
+    "id": 18166,
+    "pdm": "TRICLOSANA",
+    "grupo": 68
+  },
+  {
+    "id": 18167,
+    "pdm": "NITRATO DE CÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": 18168,
+    "pdm": "POLÍMERO",
+    "grupo": 68
+  },
+  {
+    "id": 18169,
+    "pdm": "N-FENILTIOURÉIA",
+    "grupo": 68
+  },
+  {
+    "id": 18172,
+    "pdm": "CIMETIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 18173,
+    "pdm": "DICLOROETANO",
+    "grupo": 68
+  },
+  {
+    "id": 18174,
+    "pdm": "ETILENODIAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 18175,
+    "pdm": "METFORMINA",
+    "grupo": 68
+  },
+  {
+    "id": 18176,
+    "pdm": "TETRACICLINA",
+    "grupo": 68
+  },
+  {
+    "id": 18177,
+    "pdm": "DIISOPROPIL-CARBIIMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 18178,
+    "pdm": "ÓLEO VEGETAL",
+    "grupo": 68
+  },
+  {
+    "id": 18181,
+    "pdm": "ALUMÍNIO",
+    "grupo": 68
+  },
+  {
+    "id": 18182,
+    "pdm": "CLORO-NITROBENZENO",
+    "grupo": 68
+  },
+  {
+    "id": 18186,
+    "pdm": "LANOLINA",
+    "grupo": 68
+  },
+  {
+    "id": 18187,
+    "pdm": "ACETATO DE DEXAMETASONA",
+    "grupo": 68
+  },
+  {
+    "id": 18189,
+    "pdm": "ÁLCOOL ETÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 18190,
+    "pdm": "TETRAOXALATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 18193,
+    "pdm": "AGUARRÁS MINERAL",
+    "grupo": 68
+  },
+  {
+    "id": 18212,
+    "pdm": "BROMETO DE CIANOGÊNIO",
+    "grupo": 68
+  },
+  {
+    "id": 18215,
+    "pdm": "PIROFOSFATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 18217,
+    "pdm": "CARBONETO DE TITÂNIO",
+    "grupo": 68
+  },
+  {
+    "id": 18224,
+    "pdm": "CIS-1,2-BIS(DIFENILFOSFINO)ETENO",
+    "grupo": 68
+  },
+  {
+    "id": 18241,
+    "pdm": "DIEPOXIBUTANO",
+    "grupo": 68
+  },
+  {
+    "id": 18242,
+    "pdm": "DIGLICINA",
+    "grupo": 68
+  },
+  {
+    "id": 18245,
+    "pdm": "ACETATO DE URANILA",
+    "grupo": 68
+  },
+  {
+    "id": 18246,
+    "pdm": "ÁCIDO 3,6-DICLORO-2-METOXIBENZÓICO",
+    "grupo": 68
+  },
+  {
+    "id": 18252,
+    "pdm": "AMIDO",
+    "grupo": 68
+  },
+  {
+    "id": 18256,
+    "pdm": "CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": 18259,
+    "pdm": "1-(2-PIRIDILAZO)-2-NAFTOL",
+    "grupo": 68
+  },
+  {
+    "id": 18267,
+    "pdm": "PENTILENETETRAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 18269,
+    "pdm": "ÓXIDO DE CROMO",
+    "grupo": 68
+  },
+  {
+    "id": 18270,
+    "pdm": "NITRATO DE MAGNÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": 18277,
+    "pdm": "CLORETO DE NIÓBIO",
+    "grupo": 68
+  },
+  {
+    "id": 18292,
+    "pdm": "CROTALINA",
+    "grupo": 68
+  },
+  {
+    "id": 18299,
+    "pdm": "NITRATO DE NÍQUEL",
+    "grupo": 68
+  },
+  {
+    "id": 18300,
+    "pdm": "ÁCIDO BROMOBENZÓICO",
+    "grupo": 68
+  },
+  {
+    "id": 18301,
+    "pdm": "ÁCIDO FLUOROBÓRICO",
+    "grupo": 68
+  },
+  {
+    "id": 18306,
+    "pdm": "HEXADECANODIOL",
+    "grupo": 68
+  },
+  {
+    "id": 18314,
+    "pdm": "HIDRÓXIDO DE CÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": 18315,
+    "pdm": "4-NITROQUINOLINA-N-ÓXIDO",
+    "grupo": 68
+  },
+  {
+    "id": 18316,
+    "pdm": "VERAPAMIL",
+    "grupo": 68
+  },
+  {
+    "id": 18331,
+    "pdm": "ÓLEO DE SILICONE",
+    "grupo": 68
+  },
+  {
+    "id": 18341,
+    "pdm": "ADENINA",
+    "grupo": 68
+  },
+  {
+    "id": 18348,
+    "pdm": "ACETATO DE COBRE II",
+    "grupo": 68
+  },
+  {
+    "id": 18367,
+    "pdm": "ACETATO DE MAGNÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": 18375,
+    "pdm": "PAPAÍNA",
+    "grupo": 68
+  },
+  {
+    "id": 18383,
+    "pdm": "CLORETO DE ÍTRIO",
+    "grupo": 68
+  },
+  {
+    "id": 18384,
+    "pdm": "FTALDIALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": 18385,
+    "pdm": "3-METILACRILOXIPROPILTRIMETOXI-SILANO",
+    "grupo": 68
+  },
+  {
+    "id": 18386,
+    "pdm": "3-AMINOPROPIL-TRIMETOXISILANO",
+    "grupo": 68
+  },
+  {
+    "id": 18390,
+    "pdm": "ISOPARAFINA",
+    "grupo": 68
+  },
+  {
+    "id": 18394,
+    "pdm": "4,4-METILENOBIS(2,6-BI-TERC-BUTILFENOL)",
+    "grupo": 68
+  },
+  {
+    "id": 18395,
+    "pdm": "N-SUCCIMIDIL 3-(2-PIRIDILDITIL) PROPIONATO",
+    "grupo": 68
+  },
+  {
+    "id": 18397,
+    "pdm": "2,2-METILENOBIS(6-TERC-BUTIL-4-METILFENOL)",
+    "grupo": 68
+  },
+  {
+    "id": 18398,
+    "pdm": "NITRATO DE LANTÂNIO",
+    "grupo": 68
+  },
+  {
+    "id": 18399,
+    "pdm": "IODETO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": 18400,
+    "pdm": "ÁCIDO GÁLICO",
+    "grupo": 68
+  },
+  {
+    "id": 18410,
+    "pdm": "P-NITROANILINA",
+    "grupo": 68
+  },
+  {
+    "id": 18411,
+    "pdm": "NITRITO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 18412,
+    "pdm": "HISTIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 18413,
+    "pdm": "IODOMETANO",
+    "grupo": 68
+  },
+  {
+    "id": 18414,
+    "pdm": "BENZOFURANO",
+    "grupo": 68
+  },
+  {
+    "id": 18415,
+    "pdm": "FOSFATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 18417,
+    "pdm": "DINITROBENZENO",
+    "grupo": 68
+  },
+  {
+    "id": 18418,
+    "pdm": "ÁCIDO GLICÉRICO",
+    "grupo": 68
+  },
+  {
+    "id": 18419,
+    "pdm": "TOCOFEROL",
+    "grupo": 68
+  },
+  {
+    "id": 18421,
+    "pdm": "BISMUTATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 18422,
+    "pdm": "2-BROMOETILBENZENO",
+    "grupo": 68
+  },
+  {
+    "id": 18423,
+    "pdm": "CLORETO DE NITROBENZOÍLA",
+    "grupo": 68
+  },
+  {
+    "id": 18424,
+    "pdm": "CLORETO DE ACETILA",
+    "grupo": 68
+  },
+  {
+    "id": 18425,
+    "pdm": "CLORETO DE BENZENOSULFONILA",
+    "grupo": 68
+  },
+  {
+    "id": 18426,
+    "pdm": "CLORETO DE BENZILA",
+    "grupo": 68
+  },
+  {
+    "id": 18428,
+    "pdm": "CLORETO DE TIONILA",
+    "grupo": 68
+  },
+  {
+    "id": 18429,
+    "pdm": "CLORETO DE P-TOLUENOSSULFONILA (PTSC)",
+    "grupo": 68
+  },
+  {
+    "id": 18430,
+    "pdm": "2,4-DINITROFENILHIDRAZINA (2,4-DNPH)",
+    "grupo": 68
+  },
+  {
+    "id": 18431,
+    "pdm": "TARTARATO DE ANTIMÔNIO E POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 18432,
+    "pdm": "TIMIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 18434,
+    "pdm": "CLOROETENO",
+    "grupo": 68
+  },
+  {
+    "id": 18435,
+    "pdm": "FLUORETO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 18440,
+    "pdm": "CICLOOCTADIENO",
+    "grupo": 68
+  },
+  {
+    "id": 18447,
+    "pdm": "BETA PROPIOLACTONA",
+    "grupo": 68
+  },
+  {
+    "id": 18449,
+    "pdm": "2-AMINOETILDIFENIL-BORATO",
+    "grupo": 68
+  },
+  {
+    "id": 18451,
+    "pdm": "ACETATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 18454,
+    "pdm": "ÓXIDO DE ZINCO",
+    "grupo": 68
+  },
+  {
+    "id": 18461,
+    "pdm": "ÓXIDO DE ZIRCÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 18463,
+    "pdm": "3-HIDROXI-L-TIROSINA (L-DOPA)",
+    "grupo": 68
+  },
+  {
+    "id": 18465,
+    "pdm": "ÍTRIO",
+    "grupo": 68
+  },
+  {
+    "id": 18478,
+    "pdm": "ESPALHANTE ADESIVO",
+    "grupo": 68
+  },
+  {
+    "id": 18483,
+    "pdm": "GLICONATO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": 18488,
+    "pdm": "ÓXIDO DE CROMO III",
+    "grupo": 68
+  },
+  {
+    "id": 18489,
+    "pdm": "ÓXIDO DE ESTANHO",
+    "grupo": 68
+  },
+  {
+    "id": 18490,
+    "pdm": "ÓXIDO DE ÍNDIO",
+    "grupo": 68
+  },
+  {
+    "id": 18491,
+    "pdm": "ÁCIDO AURINTRICARBOXÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 18492,
+    "pdm": "ÁCIDO ADÍPICO",
+    "grupo": 68
+  },
+  {
+    "id": 18493,
+    "pdm": "ÓXIDO DE NIÓBIO",
+    "grupo": 68
+  },
+  {
+    "id": 18494,
+    "pdm": "ÓXIDO DE BISMUTO",
+    "grupo": 68
+  },
+  {
+    "id": 18495,
+    "pdm": "SULFETO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 18507,
+    "pdm": "DIMETILIMIDAZÓLIO",
+    "grupo": 68
+  },
+  {
+    "id": 18508,
+    "pdm": "INOSITOL",
+    "grupo": 68
+  },
+  {
+    "id": 18509,
+    "pdm": "NITRATO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": 18515,
+    "pdm": "ALIZARINA DILUÍDA",
+    "grupo": 68
+  },
+  {
+    "id": 18518,
+    "pdm": "CLOREXIDINA DIGLICONATO",
+    "grupo": 68
+  },
+  {
+    "id": 18520,
+    "pdm": "COBALTONITRITO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 18528,
+    "pdm": "BORODEUTÉRIO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 18532,
+    "pdm": "NIMESULIDA",
+    "grupo": 68
+  },
+  {
+    "id": 18534,
+    "pdm": "ÁCIDO 2,5-DIHIDROXIBENZÓICO",
+    "grupo": 68
+  },
+  {
+    "id": 18538,
+    "pdm": "FOSFATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 18539,
+    "pdm": "N-ACETIL-L-CISTEÍNA",
+    "grupo": 68
+  },
+  {
+    "id": 18541,
+    "pdm": "CERA NÃO IÔNICA",
+    "grupo": 68
+  },
+  {
+    "id": 18556,
+    "pdm": "NONANAL",
+    "grupo": 68
+  },
+  {
+    "id": 18568,
+    "pdm": "ARSINATO",
+    "grupo": 68
+  },
+  {
+    "id": 18570,
+    "pdm": "FLUORETO DE BISMUTO",
+    "grupo": 68
+  },
+  {
+    "id": 18575,
+    "pdm": "CLORATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 18576,
+    "pdm": "CITRATO DE CHUMBO",
+    "grupo": 68
+  },
+  {
+    "id": 18579,
+    "pdm": "ÁCIDO TETRACLOROÁURICO",
+    "grupo": 68
+  },
+  {
+    "id": 18580,
+    "pdm": "FLUOROBORATO",
+    "grupo": 68
+  },
+  {
+    "id": 18581,
+    "pdm": "ÁCIDO CRÔMICO",
+    "grupo": 68
+  },
+  {
+    "id": 18597,
+    "pdm": "ÁLCOOL PERÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 18601,
+    "pdm": "ACETATO DE NÍQUEL II",
+    "grupo": 68
+  },
+  {
+    "id": 18603,
+    "pdm": "ÁCIDO FOSFOMOLÍBDICO",
+    "grupo": 68
+  },
+  {
+    "id": 18605,
+    "pdm": "MORFOLINA",
+    "grupo": 68
+  },
+  {
+    "id": 18610,
+    "pdm": "NITRATO DE EURÓPIO III",
+    "grupo": 68
+  },
+  {
+    "id": 18611,
+    "pdm": "ÓLEO DE COPAÍBA (VER INC 18178 DA CLASSE 6810)",
+    "grupo": 68
+  },
+  {
+    "id": 18612,
+    "pdm": "BORATO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": 18616,
+    "pdm": "RETINOL",
+    "grupo": 68
+  },
+  {
+    "id": 18617,
+    "pdm": "TIOGLICOLATO",
+    "grupo": 68
+  },
+  {
+    "id": 18618,
+    "pdm": "DIAZÓXIDO",
+    "grupo": 68
+  },
+  {
+    "id": 18619,
+    "pdm": "IODONONANO",
+    "grupo": 68
+  },
+  {
+    "id": 18620,
+    "pdm": "TRIBROMOETANOL",
+    "grupo": 68
+  },
+  {
+    "id": 18621,
+    "pdm": "CLARIFICANTE VÍNICO",
+    "grupo": 68
+  },
+  {
+    "id": 18622,
+    "pdm": "FLAVANOL (2-FENILCROMANOL)",
+    "grupo": 68
+  },
+  {
+    "id": 18623,
+    "pdm": "QUERCETINA",
+    "grupo": 68
+  },
+  {
+    "id": 18625,
+    "pdm": "2-VINILPIRIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 18644,
+    "pdm": "ALOPURINOL",
+    "grupo": 68
+  },
+  {
+    "id": 18658,
+    "pdm": "DEXTROSE",
+    "grupo": 68
+  },
+  {
+    "id": 18673,
+    "pdm": "BIPIRIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 18674,
+    "pdm": "CICLOHEXANO",
+    "grupo": 68
+  },
+  {
+    "id": 18692,
+    "pdm": "TÂNTALO",
+    "grupo": 68
+  },
+  {
+    "id": 18693,
+    "pdm": "DIETANOLAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 18694,
+    "pdm": "ACETATO DE TÁLIO",
+    "grupo": 68
+  },
+  {
+    "id": 18695,
+    "pdm": "BUTILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 18700,
+    "pdm": "ÁCIDO 2-MERCAPTOPROPIÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": 18701,
+    "pdm": "ÁCIDO CARBOXILÍCO",
+    "grupo": 68
+  },
+  {
+    "id": 18703,
+    "pdm": "TETRAOCTILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 18705,
+    "pdm": "SULFATO DE POLIMIXINA B",
+    "grupo": 68
+  },
+  {
+    "id": 18706,
+    "pdm": "TIOSSULFATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 18718,
+    "pdm": "SULFADIAZINA DE PRATA",
+    "grupo": 68
+  },
+  {
+    "id": 18722,
+    "pdm": "DI-HIDROCARVONA",
+    "grupo": 68
+  },
+  {
+    "id": 18729,
+    "pdm": "OXALATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 18730,
+    "pdm": "ÁCIDO PROPIÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": 18731,
+    "pdm": "HIDRETO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": 18772,
+    "pdm": "BENZAMIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 18776,
+    "pdm": "HEXANODI-HIDRAZIDA",
+    "grupo": 68
+  },
+  {
+    "id": 18777,
+    "pdm": "ANILINA",
+    "grupo": 68
+  },
+  {
+    "id": 18778,
+    "pdm": "ÁCIDO MIRÍSTICO",
+    "grupo": 68
+  },
+  {
+    "id": 18783,
+    "pdm": "CICLOHEXIMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 18784,
+    "pdm": "L-CANAVANINA",
+    "grupo": 68
+  },
+  {
+    "id": 18785,
+    "pdm": "CARBAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 18802,
+    "pdm": "TIOUREIA",
+    "grupo": 68
+  },
+  {
+    "id": 18807,
+    "pdm": "ÁCIDO FOSFÓRICO",
+    "grupo": 68
+  },
+  {
+    "id": 18810,
+    "pdm": "ETIONAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 18834,
+    "pdm": "ÁCIDO HEPTAFLUOROBUTÍRICO",
+    "grupo": 68
+  },
+  {
+    "id": 18843,
+    "pdm": "BENZOFENONA",
+    "grupo": 68
+  },
+  {
+    "id": 18865,
+    "pdm": "ASCORBATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 18871,
+    "pdm": "ÁCIDO XIQUÍMICO",
+    "grupo": 68
+  },
+  {
+    "id": 18880,
+    "pdm": "GLICEROFOSFATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 18887,
+    "pdm": "ANIDRIDO TRIFLUOROACÉTICO (TFAA)",
+    "grupo": 68
+  },
+  {
+    "id": 18911,
+    "pdm": "PASTA",
+    "grupo": 68
+  },
+  {
+    "id": 18956,
+    "pdm": "ACETATO DE METILA",
+    "grupo": 68
+  },
+  {
+    "id": 18957,
+    "pdm": "ÁCIDO PENICILÂMICO",
+    "grupo": 68
+  },
+  {
+    "id": 19021,
+    "pdm": "O-TOLUIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 19031,
+    "pdm": "ÓXIDO DE PROPILENO",
+    "grupo": 68
+  },
+  {
+    "id": 19048,
+    "pdm": "ALFA-NAFTIL",
+    "grupo": 68
+  },
+  {
+    "id": 19050,
+    "pdm": "CITRAL (3,7-DIMETILOCTA-2,6-DIEN-1-AL)",
+    "grupo": 68
+  },
+  {
+    "id": 19051,
+    "pdm": "CITRATO DE FERRO III E AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 19068,
+    "pdm": "NITRATO DE BÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": 19074,
+    "pdm": "ÁCIDO TUNGSTOSILÍCICO",
+    "grupo": 68
+  },
+  {
+    "id": 19075,
+    "pdm": "HEXANOL",
+    "grupo": 68
+  },
+  {
+    "id": 19076,
+    "pdm": "N,N-DIETILENODIAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 19077,
+    "pdm": "4-IODOFENOL",
+    "grupo": 68
+  },
+  {
+    "id": 19078,
+    "pdm": "PERCLORATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 19079,
+    "pdm": "BUTILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 19080,
+    "pdm": "N-OCTILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 19081,
+    "pdm": "ÁCIDO ACRÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 19084,
+    "pdm": "PERCLORATO DE MANGANÊS",
+    "grupo": 68
+  },
+  {
+    "id": 19099,
+    "pdm": "ALLOXAN (2,4,5,6(1H,3H)-PIRIMIDINATETRONA)",
+    "grupo": 68
+  },
+  {
+    "id": 19100,
+    "pdm": "ÁCIDO DL-FLUOROCÍTRICO",
+    "grupo": 68
+  },
+  {
+    "id": 19101,
+    "pdm": "DIFENILCARBAZONA",
+    "grupo": 68
+  },
+  {
+    "id": 19110,
+    "pdm": "DIFENILCARBAZIDA",
+    "grupo": 68
+  },
+  {
+    "id": 19115,
+    "pdm": "NITRATO DE ESTRÔNCIO",
+    "grupo": 68
+  },
+  {
+    "id": 19116,
+    "pdm": "NITRATO DE CÉRIO(III)",
+    "grupo": 68
+  },
+  {
+    "id": 19119,
+    "pdm": "PIRROLIDINODITIOCARBAMATO DE AMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 19120,
+    "pdm": "EPIAMASTATINA",
+    "grupo": 68
+  },
+  {
+    "id": 19129,
+    "pdm": "4-METILPENTAN-2-ONA",
+    "grupo": 68
+  },
+  {
+    "id": 19130,
+    "pdm": "ÁCIDO 2-AMINO-4-(S-BUTILSULFONIMIDOIL)BUTANÓICO",
+    "grupo": 68
+  },
+  {
+    "id": 19134,
+    "pdm": "IODETO DE ACETILTIOCOLINA",
+    "grupo": 68
+  },
+  {
+    "id": 19135,
+    "pdm": "HIDRÓXIDO DE CÁLCIO",
+    "grupo": 68
+  },
+  {
+    "id": 19148,
+    "pdm": "HIPOTAURINA",
+    "grupo": 68
+  },
+  {
+    "id": 19154,
+    "pdm": "3-AMINOPROPIL-TRIETOXISILANO",
+    "grupo": 68
+  },
+  {
+    "id": 19165,
+    "pdm": "DESOXICOLATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 19264,
+    "pdm": "FOSMETE",
+    "grupo": 68
+  },
+  {
+    "id": 19265,
+    "pdm": "MILBEMECTINA",
+    "grupo": 68
+  },
+  {
+    "id": 19267,
+    "pdm": "CLODINAFOPE-PROPARGIL",
+    "grupo": 68
+  },
+  {
+    "id": 19268,
+    "pdm": "IODOSSULFUROM-METÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 19286,
+    "pdm": "ATRATIVO DE PRAGA",
+    "grupo": 68
+  },
+  {
+    "id": 19302,
+    "pdm": "DIQUATE",
+    "grupo": 68
+  },
+  {
+    "id": 19303,
+    "pdm": "ETOXISSULFUROM",
+    "grupo": 68
+  },
+  {
+    "id": 19304,
+    "pdm": "IMAZAPIQUE",
+    "grupo": 68
+  },
+  {
+    "id": 19305,
+    "pdm": "PENDIMETALINA",
+    "grupo": 68
+  },
+  {
+    "id": 19312,
+    "pdm": "LAURILSULFATO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": 19313,
+    "pdm": "ÉTER DIBUTÍLICO",
+    "grupo": 68
+  },
+  {
+    "id": 19314,
+    "pdm": "ETÓXIDO DE TITÂNIO",
+    "grupo": 68
+  },
+  {
+    "id": 19315,
+    "pdm": "BROMOBUTANO",
+    "grupo": 68
+  },
+  {
+    "id": 19316,
+    "pdm": "TRIFLUORETO DE BORO",
+    "grupo": 68
+  },
+  {
+    "id": 19317,
+    "pdm": "T-BUTILA",
+    "grupo": 68
+  },
+  {
+    "id": 19319,
+    "pdm": "SULFATO DE ÍNDIO",
+    "grupo": 68
+  },
+  {
+    "id": 19320,
+    "pdm": "OCTANAL",
+    "grupo": 68
+  },
+  {
+    "id": 19321,
+    "pdm": "DECANAL",
+    "grupo": 68
+  },
+  {
+    "id": 19323,
+    "pdm": "TIABENDAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 19324,
+    "pdm": "ERGOSTEROL",
+    "grupo": 68
+  },
+  {
+    "id": 19325,
+    "pdm": "TERC-BUTILA",
+    "grupo": 68
+  },
+  {
+    "id": 19326,
+    "pdm": "ACETAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 19327,
+    "pdm": "HIGROMICINA B",
+    "grupo": 68
+  },
+  {
+    "id": 19328,
+    "pdm": "ÁCIDO PANTOTÊNICO",
+    "grupo": 68
+  },
+  {
+    "id": 19330,
+    "pdm": "CARBONO",
+    "grupo": 68
+  },
+  {
+    "id": 19331,
+    "pdm": "ANTRAQUINONA",
+    "grupo": 68
+  },
+  {
+    "id": 19332,
+    "pdm": "ACETILACETONATO DE ESTANHO",
+    "grupo": 68
+  },
+  {
+    "id": 19333,
+    "pdm": "ÁCIDO TIOFENOACÉTICO",
+    "grupo": 68
+  },
+  {
+    "id": 19334,
+    "pdm": "ÁCIDO BENZENOSSULFÔNICO",
+    "grupo": 68
+  },
+  {
+    "id": 19335,
+    "pdm": "HEXANAL",
+    "grupo": 68
+  },
+  {
+    "id": 19336,
+    "pdm": "TERBINAFINA",
+    "grupo": 68
+  },
+  {
+    "id": 19339,
+    "pdm": "LACTATO DE LÍTIO",
+    "grupo": 68
+  },
+  {
+    "id": 19340,
+    "pdm": "ÁCIDO PIPEMÍDICO",
+    "grupo": 68
+  },
+  {
+    "id": 19341,
+    "pdm": "DIAZINONA",
+    "grupo": 68
+  },
+  {
+    "id": 19342,
+    "pdm": "OXIFLUORFEM",
+    "grupo": 68
+  },
+  {
+    "id": 19343,
+    "pdm": "TIACLOPRIDO",
+    "grupo": 68
+  },
+  {
+    "id": 19344,
+    "pdm": "OLANZAPINA",
+    "grupo": 68
+  },
+  {
+    "id": 19345,
+    "pdm": "SILDENAFILA",
+    "grupo": 68
+  },
+  {
+    "id": 19347,
+    "pdm": "SERINA",
+    "grupo": 68
+  },
+  {
+    "id": 19349,
+    "pdm": "TIMEROSAL",
+    "grupo": 68
+  },
+  {
+    "id": 19358,
+    "pdm": "ACEFATO",
+    "grupo": 68
+  },
+  {
+    "id": 19363,
+    "pdm": "FORATO",
+    "grupo": 68
+  },
+  {
+    "id": 19364,
+    "pdm": "FOSFETO DE MAGNÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": 19370,
+    "pdm": "AMETRINA",
+    "grupo": 68
+  },
+  {
+    "id": 19371,
+    "pdm": "SAFLUFENACIL",
+    "grupo": 68
+  },
+  {
+    "id": 19386,
+    "pdm": "PROPOXUR",
+    "grupo": 68
+  },
+  {
+    "id": 19387,
+    "pdm": "ARTEMÉTER",
+    "grupo": 68
+  },
+  {
+    "id": 19388,
+    "pdm": "EPINEFRINA",
+    "grupo": 68
+  },
+  {
+    "id": 19389,
+    "pdm": "LUMEFANTRINA",
+    "grupo": 68
+  },
+  {
+    "id": 19390,
+    "pdm": "MALONDIALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": 19391,
+    "pdm": "DOXICICLINA",
+    "grupo": 68
+  },
+  {
+    "id": 19392,
+    "pdm": "BACLOFENO",
+    "grupo": 68
+  },
+  {
+    "id": 19393,
+    "pdm": "METACICLINA",
+    "grupo": 68
+  },
+  {
+    "id": 19394,
+    "pdm": "ÁCIDO SILÍCICO",
+    "grupo": 68
+  },
+  {
+    "id": 19395,
+    "pdm": "CISTAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 19396,
+    "pdm": "ÁCIDO HIPÚRICO",
+    "grupo": 68
+  },
+  {
+    "id": 19397,
+    "pdm": "ÁCIDO BENZOILFÓRMICO",
+    "grupo": 68
+  },
+  {
+    "id": 19398,
+    "pdm": "INSETICIDA",
+    "grupo": 68
+  },
+  {
+    "id": 19401,
+    "pdm": "TRIFLUMIZOL",
+    "grupo": 68
+  },
+  {
+    "id": 19402,
+    "pdm": "TOCOTRIENOL",
+    "grupo": 68
+  },
+  {
+    "id": 19403,
+    "pdm": "DIHIDROETÍDIO",
+    "grupo": 68
+  },
+  {
+    "id": 19405,
+    "pdm": "INDOXACARBE",
+    "grupo": 68
+  },
+  {
+    "id": 19406,
+    "pdm": "FOLPETE",
+    "grupo": 68
+  },
+  {
+    "id": 19407,
+    "pdm": "TRICICLAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 19408,
+    "pdm": "SULFONATO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 19409,
+    "pdm": "5'-TRIFOSFATO DE GUANOSINA",
+    "grupo": 68
+  },
+  {
+    "id": 19410,
+    "pdm": "TRIFLURALINA",
+    "grupo": 68
+  },
+  {
+    "id": 19413,
+    "pdm": "CIFENOTRINA",
+    "grupo": 68
+  },
+  {
+    "id": 19414,
+    "pdm": "IMINOCTADINA",
+    "grupo": 68
+  },
+  {
+    "id": 19418,
+    "pdm": "EXTRATO",
+    "grupo": 68
+  },
+  {
+    "id": 19421,
+    "pdm": "SULFONAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 19422,
+    "pdm": "DIMETILAMINOETANOL",
+    "grupo": 68
+  },
+  {
+    "id": 19423,
+    "pdm": "MELEZITOSE",
+    "grupo": 68
+  },
+  {
+    "id": 19424,
+    "pdm": "BUTANO",
+    "grupo": 68
+  },
+  {
+    "id": 19425,
+    "pdm": "METILBUTANO",
+    "grupo": 68
+  },
+  {
+    "id": 19427,
+    "pdm": "CUMENO",
+    "grupo": 68
+  },
+  {
+    "id": 19428,
+    "pdm": "LACTULOSE",
+    "grupo": 68
+  },
+  {
+    "id": 19429,
+    "pdm": "QUIMPIROLE",
+    "grupo": 68
+  },
+  {
+    "id": 19432,
+    "pdm": "ÓXIDO DE COBRE I",
+    "grupo": 68
+  },
+  {
+    "id": 19433,
+    "pdm": "IODONITROTETRAZÓLIO",
+    "grupo": 68
+  },
+  {
+    "id": 19434,
+    "pdm": "IODETO DE CÉSIO",
+    "grupo": 68
+  },
+  {
+    "id": 19435,
+    "pdm": "HEPTANONA",
+    "grupo": 68
+  },
+  {
+    "id": 19436,
+    "pdm": "FLUOROACETAMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 19437,
+    "pdm": "BROMOMETANO",
+    "grupo": 68
+  },
+  {
+    "id": 19438,
+    "pdm": "TADALAFILA",
+    "grupo": 68
+  },
+  {
+    "id": 19439,
+    "pdm": "TESTOSTERONA",
+    "grupo": 68
+  },
+  {
+    "id": 19440,
+    "pdm": "CARBONATO DE PROPILENO",
+    "grupo": 68
+  },
+  {
+    "id": 19441,
+    "pdm": "TETRAFLUOROBORATO DE TETRAETILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 19442,
+    "pdm": "TETRACLOROAURATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 19443,
+    "pdm": "METIL CINAMATO",
+    "grupo": 68
+  },
+  {
+    "id": 19444,
+    "pdm": "OXIBENZONA",
+    "grupo": 68
+  },
+  {
+    "id": 19446,
+    "pdm": "ÁLCOOL PROPARGIL",
+    "grupo": 68
+  },
+  {
+    "id": 19447,
+    "pdm": "BROMODECANO",
+    "grupo": 68
+  },
+  {
+    "id": 19448,
+    "pdm": "DIMETILBENZILAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 19450,
+    "pdm": "CARBOSULFANO",
+    "grupo": 68
+  },
+  {
+    "id": 19451,
+    "pdm": "MEPIQUATE",
+    "grupo": 68
+  },
+  {
+    "id": 19452,
+    "pdm": "DIAFENTIUROM",
+    "grupo": 68
+  },
+  {
+    "id": 19453,
+    "pdm": "ETEFOM",
+    "grupo": 68
+  },
+  {
+    "id": 19454,
+    "pdm": "CIANTRANILIPROLE",
+    "grupo": 68
+  },
+  {
+    "id": 19455,
+    "pdm": "BISPIRIBAQUE",
+    "grupo": 68
+  },
+  {
+    "id": 19456,
+    "pdm": "PROMETRINA",
+    "grupo": 68
+  },
+  {
+    "id": 19457,
+    "pdm": "ESPINETORAM",
+    "grupo": 68
+  },
+  {
+    "id": 19458,
+    "pdm": "CLORMEQUATE CLORETO",
+    "grupo": 68
+  },
+  {
+    "id": 19460,
+    "pdm": "CIFLUMETOFEM",
+    "grupo": 68
+  },
+  {
+    "id": 19461,
+    "pdm": "FENPIROXIMATO",
+    "grupo": 68
+  },
+  {
+    "id": 19462,
+    "pdm": "FLUORETO DE BÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": 19463,
+    "pdm": "ÁCIDO HEPTADECANÓICO",
+    "grupo": 68
+  },
+  {
+    "id": 19464,
+    "pdm": "HIPURIL HISTIDIL LEUCINA",
+    "grupo": 68
+  },
+  {
+    "id": 19467,
+    "pdm": "SALVINORINA",
+    "grupo": 68
+  },
+  {
+    "id": 19469,
+    "pdm": "METCONAZOL",
+    "grupo": 68
+  },
+  {
+    "id": 19470,
+    "pdm": "TOSILAZIRIDINA",
+    "grupo": 68
+  },
+  {
+    "id": 19471,
+    "pdm": "DIFENILFOSFINO DE POTÁSSIO",
+    "grupo": 68
+  },
+  {
+    "id": 19476,
+    "pdm": "TETRABROMETO DE CARBONO",
+    "grupo": 68
+  },
+  {
+    "id": 19488,
+    "pdm": "DICLOROISOCIANURATO DE SÓDIO",
+    "grupo": 68
+  },
+  {
+    "id": 19491,
+    "pdm": "FINASTERIDA",
+    "grupo": 68
+  },
+  {
+    "id": 19492,
+    "pdm": "LORATADINA",
+    "grupo": 68
+  },
+  {
+    "id": 19493,
+    "pdm": "CLARITROMICINA",
+    "grupo": 68
+  },
+  {
+    "id": 19494,
+    "pdm": "MELOXICAM",
+    "grupo": 68
+  },
+  {
+    "id": 19495,
+    "pdm": "CLOMIPRAMINA",
+    "grupo": 68
+  },
+  {
+    "id": 19496,
+    "pdm": "NITROSALICILALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": 19497,
+    "pdm": "NITROBENZALDEÍDO",
+    "grupo": 68
+  },
+  {
+    "id": 19498,
+    "pdm": "BROMETO DE CINAMILA",
+    "grupo": 68
+  },
+  {
+    "id": 19499,
+    "pdm": "PIROFOSFATO TETRAETIL",
+    "grupo": 68
+  },
+  {
+    "id": 19500,
+    "pdm": "NONANO",
+    "grupo": 68
+  },
+  {
+    "id": 19501,
+    "pdm": "DOMPERIDONA",
+    "grupo": 68
+  },
+  {
+    "id": 19502,
+    "pdm": "DOXAZOSINA",
+    "grupo": 68
+  },
+  {
+    "id": 19503,
+    "pdm": "TEANINA",
+    "grupo": 68
+  },
+  {
+    "id": 19504,
+    "pdm": "PIRITIONA",
+    "grupo": 68
+  },
+  {
+    "id": 19505,
+    "pdm": "SIMETICONA",
+    "grupo": 68
+  },
+  {
+    "id": 19506,
+    "pdm": "INSUMOS QUÍMICOS/BIOLÓGICOS",
+    "grupo": 68
+  },
+  {
+    "id": 19508,
+    "pdm": "NITRATO DE SAMÁRIO",
+    "grupo": 68
+  },
+  {
+    "id": 19509,
+    "pdm": "CATEQUINA",
+    "grupo": 68
+  },
+  {
+    "id": 19510,
+    "pdm": "IDITOL",
+    "grupo": 68
+  },
+  {
+    "id": 19514,
+    "pdm": "PIRIDAZINA",
+    "grupo": 68
+  },
+  {
+    "id": 19515,
+    "pdm": "TETRAETILAMÔNIO",
+    "grupo": 68
+  },
+  {
+    "id": 19518,
+    "pdm": "CLORMADINONA",
+    "grupo": 68
+  },
+  {
+    "id": 19519,
+    "pdm": "REBAUDIOSÍDEO",
+    "grupo": 68
+  },
+  {
+    "id": 19520,
+    "pdm": "SUCRALOSE",
+    "grupo": 68
+  },
+  {
+    "id": 19521,
+    "pdm": "BOLDENONA",
+    "grupo": 68
+  },
+  {
+    "id": 19522,
+    "pdm": "MEGESTROL",
+    "grupo": 68
+  },
+  {
+    "id": 19523,
+    "pdm": "MELENGESTROL",
+    "grupo": 68
+  },
+  {
+    "id": 19524,
+    "pdm": "TREMBOLONA",
+    "grupo": 68
+  },
+  {
+    "id": 19525,
+    "pdm": "CIMATEROL",
+    "grupo": 68
+  },
+  {
+    "id": 19526,
+    "pdm": "FTALIMIDA",
+    "grupo": 68
+  },
+  {
+    "id": 19527,
+    "pdm": "ESTRADIOL",
+    "grupo": 68
+  },
+  {
+    "id": 19528,
+    "pdm": "ATAZANAVIR",
+    "grupo": 68
+  },
+  {
+    "id": 19529,
+    "pdm": "ZEARALENOL",
+    "grupo": 68
+  },
+  {
+    "id": 19530,
+    "pdm": "NANDROLONA",
+    "grupo": 68
+  },
+  {
+    "id": 19532,
+    "pdm": "PAROMOMICINA",
+    "grupo": 68
+  },
+  {
+    "id": 19534,
+    "pdm": "PRAMIPEXOL",
+    "grupo": 68
+  },
+  {
+    "id": 19536,
+    "pdm": "QUINALIZARINA",
+    "grupo": 68
+  },
+  {
+    "id": 19537,
+    "pdm": "MESITILO",
+    "grupo": 68
+  },
+  {
+    "id": 19538,
+    "pdm": "NONACOSANO",
+    "grupo": 68
+  },
+  {
+    "id": 19539,
+    "pdm": "NEOTAME",
+    "grupo": 68
+  },
+  {
+    "id": 19540,
+    "pdm": "ESTEVIOL",
+    "grupo": 68
+  },
+  {
+    "id": 19541,
+    "pdm": "DIQUATE",
+    "grupo": 68
+  },
+  {
+    "id": 19542,
+    "pdm": "HEXESTROL",
+    "grupo": 68
+  },
+  {
+    "id": 19543,
+    "pdm": "PINACOL ÉSTER",
+    "grupo": 68
+  },
+  {
+    "id": 19544,
+    "pdm": "AZUL DE BROMOFENOL",
+    "grupo": 68
+  },
+  {
+    "id": 19545,
+    "pdm": "SITOSTEROL",
+    "grupo": 68
+  },
+  {
+    "id": 19547,
+    "pdm": "ENDOSSULFAN",
+    "grupo": 68
+  }
+]

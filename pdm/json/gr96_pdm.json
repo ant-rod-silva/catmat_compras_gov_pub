@@ -1,0 +1,307 @@
+[
+  {
+    "id": "02401",
+    "pdm": "AMIANTO",
+    "grupo": 96
+  },
+  {
+    "id": "02402",
+    "pdm": "AMIANTO EM ESTADO BRUTO",
+    "grupo": 96
+  },
+  {
+    "id": "02404",
+    "pdm": "AMIANTO EM PO",
+    "grupo": 96
+  },
+  {
+    "id": "02981",
+    "pdm": "AREIA - FILTRACAO DE AGUA",
+    "grupo": 96
+  },
+  {
+    "id": "02986",
+    "pdm": "ARGILA",
+    "grupo": 96
+  },
+  {
+    "id": "03082",
+    "pdm": "ASBESTO",
+    "grupo": 96
+  },
+  {
+    "id": "03365",
+    "pdm": "BARRA FERRO E ACO",
+    "grupo": 96
+  },
+  {
+    "id": "03366",
+    "pdm": "BARRA DE FERRO E ACO EM BRUTO",
+    "grupo": 96
+  },
+  {
+    "id": "03367",
+    "pdm": "BARRA DE FERRO E ACO PARA LAMINA",
+    "grupo": 96
+  },
+  {
+    "id": "03368",
+    "pdm": "BARRA DE FERRO E ACO REDONDA PARA TUBO SEM COSTURA",
+    "grupo": 96
+  },
+  {
+    "id": "03382",
+    "pdm": "BARRA DE METAL PRECIOSO NA FORMA PRIMARIA",
+    "grupo": 96
+  },
+  {
+    "id": "03486",
+    "pdm": "BAUXITA",
+    "grupo": 96
+  },
+  {
+    "id": "03605",
+    "pdm": "BLOCO DE FERRO E ACO",
+    "grupo": 96
+  },
+  {
+    "id": "03606",
+    "pdm": "BLOCO DE FERRO E ACO EM ESTADO BRUTO",
+    "grupo": 96
+  },
+  {
+    "id": "03633",
+    "pdm": "BOBINA - ACO INOXIDAVEL",
+    "grupo": 96
+  },
+  {
+    "id": "04210",
+    "pdm": "CALCÁRIO",
+    "grupo": 96
+  },
+  {
+    "id": "04708",
+    "pdm": "CAULIM (VER SILICATO DE ALUMÍNIO)",
+    "grupo": 96
+  },
+  {
+    "id": "04971",
+    "pdm": "CHUMBO",
+    "grupo": 96
+  },
+  {
+    "id": "06379",
+    "pdm": "DOLOMITA",
+    "grupo": 96
+  },
+  {
+    "id": "07396",
+    "pdm": "FERRO CONSTRUÇÃO CIVIL",
+    "grupo": 96
+  },
+  {
+    "id": "07397",
+    "pdm": "FERRO - NIQUEL",
+    "grupo": 96
+  },
+  {
+    "id": "07398",
+    "pdm": "FERRO - SILÍCIO",
+    "grupo": 96
+  },
+  {
+    "id": "08053",
+    "pdm": "GRAFITE",
+    "grupo": 96
+  },
+  {
+    "id": "08858",
+    "pdm": "LINGOTE DE ACO",
+    "grupo": 96
+  },
+  {
+    "id": "08859",
+    "pdm": "LINGOTE DE FERRO",
+    "grupo": 96
+  },
+  {
+    "id": "08860",
+    "pdm": "LINGOTE DE MATERIAL METALICO NAO FERROSO",
+    "grupo": 96
+  },
+  {
+    "id": "08861",
+    "pdm": "LINGOTE DE METAL PRECIOSO NA FORMA PRIMARIA",
+    "grupo": 96
+  },
+  {
+    "id": "09683",
+    "pdm": "METAL PRECIOSO",
+    "grupo": 96
+  },
+  {
+    "id": "09715",
+    "pdm": "MICA NAO BENEFICIADA",
+    "grupo": 96
+  },
+  {
+    "id": "09769",
+    "pdm": "MINERIO DE FERRO",
+    "grupo": 96
+  },
+  {
+    "id": "09770",
+    "pdm": "MINERIO NAO FERROSO",
+    "grupo": 96
+  },
+  {
+    "id": 10695,
+    "pdm": "PETRÓLEO CRU",
+    "grupo": 96
+  },
+  {
+    "id": 10926,
+    "pdm": "PÓ METÁLICO",
+    "grupo": 96
+  },
+  {
+    "id": 12289,
+    "pdm": "SUCATA - CHUMBO",
+    "grupo": 96
+  },
+  {
+    "id": 12290,
+    "pdm": "SUCATA DE ACO COMUM",
+    "grupo": 96
+  },
+  {
+    "id": 12291,
+    "pdm": "SUCATA DE ACO ESPECIAL",
+    "grupo": 96
+  },
+  {
+    "id": 12292,
+    "pdm": "SUCATA DE ALUMINIO",
+    "grupo": 96
+  },
+  {
+    "id": 12293,
+    "pdm": "SUCATA DE BRONZE",
+    "grupo": 96
+  },
+  {
+    "id": 12294,
+    "pdm": "SUCATA DE COBRE",
+    "grupo": 96
+  },
+  {
+    "id": 12295,
+    "pdm": "SUCATA DE FERRO",
+    "grupo": 96
+  },
+  {
+    "id": 12296,
+    "pdm": "SUCATA DE LATAO",
+    "grupo": 96
+  },
+  {
+    "id": 12297,
+    "pdm": "SUCATA DE ZINCO",
+    "grupo": 96
+  },
+  {
+    "id": 12556,
+    "pdm": "TARUGO DE AÇO",
+    "grupo": 96
+  },
+  {
+    "id": 12557,
+    "pdm": "TARUGO DE FERRO",
+    "grupo": 96
+  },
+  {
+    "id": 12559,
+    "pdm": "TARUGO METÁLICO",
+    "grupo": 96
+  },
+  {
+    "id": 12775,
+    "pdm": "TIRA DE FERRO E ACO PARA TUBO",
+    "grupo": 96
+  },
+  {
+    "id": 13063,
+    "pdm": "TUBO DE LATAO",
+    "grupo": 96
+  },
+  {
+    "id": 13199,
+    "pdm": "URANIO",
+    "grupo": 96
+  },
+  {
+    "id": 13491,
+    "pdm": "XISTO BETUMINOSO",
+    "grupo": 96
+  },
+  {
+    "id": 14486,
+    "pdm": "TARUGO",
+    "grupo": 96
+  },
+  {
+    "id": 15160,
+    "pdm": "CALCÁRIO DOLOMITICO",
+    "grupo": 96
+  },
+  {
+    "id": 15176,
+    "pdm": "TERRA DIATOMÁCEA",
+    "grupo": 96
+  },
+  {
+    "id": 17336,
+    "pdm": "MINERAIS NATURAIS E SINTÉTICOS",
+    "grupo": 96
+  },
+  {
+    "id": 17337,
+    "pdm": "ADITIVOS METÁLICOS E LIGAS BÁSICAS",
+    "grupo": 96
+  },
+  {
+    "id": 17338,
+    "pdm": "PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE FERRO E DEAÇO",
+    "grupo": 96
+  },
+  {
+    "id": 17339,
+    "pdm": "REFINADOS E PRODUTOS SEMI-ACABADOS DE METAIS BÁSICOS NÃOFERROSOS",
+    "grupo": 96
+  },
+  {
+    "id": 17341,
+    "pdm": "SUCATA DE FERRO E DE AÇO",
+    "grupo": 96
+  },
+  {
+    "id": 17342,
+    "pdm": "SUCATA DE METAIS NÃO FERROSOS",
+    "grupo": 96
+  },
+  {
+    "id": 17839,
+    "pdm": "CINTA ISOLANTE",
+    "grupo": 96
+  },
+  {
+    "id": 17840,
+    "pdm": "SELO SEGURANÇA",
+    "grupo": 96
+  },
+  {
+    "id": 19378,
+    "pdm": "LIGA METÁLICA",
+    "grupo": 96
+  }
+]

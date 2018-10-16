@@ -1,0 +1,372 @@
+[
+  {
+    "id": "00286",
+    "pdm": "CALCULADORA ELETRÔNICA",
+    "grupo": 74
+  },
+  {
+    "id": "00287",
+    "pdm": "MÁQUINA AUTENTICADORA",
+    "grupo": 74
+  },
+  {
+    "id": "00288",
+    "pdm": "COPIADORA",
+    "grupo": 74
+  },
+  {
+    "id": "00289",
+    "pdm": "COPIADORA HELIOGRÁFICA",
+    "grupo": 74
+  },
+  {
+    "id": "00290",
+    "pdm": "CONTADORA TIQUETES",
+    "grupo": 74
+  },
+  {
+    "id": "00291",
+    "pdm": "MÁQUINA DE CONTAR DINHEIRO",
+    "grupo": 74
+  },
+  {
+    "id": "00292",
+    "pdm": "FRAGMENTADORA PAPEL",
+    "grupo": 74
+  },
+  {
+    "id": "00294",
+    "pdm": "IMPRESSORA CHEQUE",
+    "grupo": 74
+  },
+  {
+    "id": "00296",
+    "pdm": "LEITORA MICROFICHAS",
+    "grupo": 74
+  },
+  {
+    "id": "00298",
+    "pdm": "MÁQUINA AUTENTICADORA PERFURADORA",
+    "grupo": 74
+  },
+  {
+    "id": "00299",
+    "pdm": "MÁQUINA CONTABILIDADE",
+    "grupo": 74
+  },
+  {
+    "id": "00300",
+    "pdm": "MÁQUINA CORTAR PAPEL",
+    "grupo": 74
+  },
+  {
+    "id": "00301",
+    "pdm": "MÁQUINA ESCREVER",
+    "grupo": 74
+  },
+  {
+    "id": "00302",
+    "pdm": "MÁQUINA PROTOCOLADORA",
+    "grupo": 74
+  },
+  {
+    "id": "00303",
+    "pdm": "MÁQUINA FRANQUEADORA",
+    "grupo": 74
+  },
+  {
+    "id": "00304",
+    "pdm": "MÁQUINA ESCREVER ELETRÔNICA",
+    "grupo": 74
+  },
+  {
+    "id": "00305",
+    "pdm": "MÁQUINA ESCREVER ELETRÔNICA PROFISSIONAL",
+    "grupo": 74
+  },
+  {
+    "id": "00306",
+    "pdm": "CARIMBO DATADOR",
+    "grupo": 74
+  },
+  {
+    "id": "03038",
+    "pdm": "ARQUIVO VISUAL GIRATÓRIO",
+    "grupo": 74
+  },
+  {
+    "id": "03608",
+    "pdm": "BLOCO DE MAQUINA NUMERADORA",
+    "grupo": 74
+  },
+  {
+    "id": "03620",
+    "pdm": "BLOCO IMPRESSOR MÁQUINA CALCULADORA",
+    "grupo": 74
+  },
+  {
+    "id": "04448",
+    "pdm": "CAPA MÁQUINA CALCULAR",
+    "grupo": 74
+  },
+  {
+    "id": "05379",
+    "pdm": "COMBINACAO DE MAQUINAS DE GRAVACAO E REPRODUCAO DESOM PARA USO EM ESCRITORIO",
+    "grupo": 74
+  },
+  {
+    "id": "06307",
+    "pdm": "DISPOSITIVO ARMAZENAR CÓPIA",
+    "grupo": 74
+  },
+  {
+    "id": "06314",
+    "pdm": "DISPOSITIVO DE RECUPERAR COPIA",
+    "grupo": 74
+  },
+  {
+    "id": "06412",
+    "pdm": "DUPLICADORA DIGITAL GRÁFICA",
+    "grupo": 74
+  },
+  {
+    "id": "06413",
+    "pdm": "DUPLICADOR DE COPIA A ESTENCIL",
+    "grupo": 74
+  },
+  {
+    "id": "06414",
+    "pdm": "DUPLICADOR CÓPIA",
+    "grupo": 74
+  },
+  {
+    "id": "06741",
+    "pdm": "EQUIPAMENTO DE REGISTRO VISIVEL A MOTOR",
+    "grupo": 74
+  },
+  {
+    "id": "06742",
+    "pdm": "EQUIPAMENTO DE REGISTRO VISIVEL MANUAL",
+    "grupo": 74
+  },
+  {
+    "id": "07421",
+    "pdm": "FICHARIO DE INDICE VISIVEL",
+    "grupo": 74
+  },
+  {
+    "id": "07422",
+    "pdm": "FICHARIO DE INDICE VISIVEL ROTATIVO",
+    "grupo": 74
+  },
+  {
+    "id": "08094",
+    "pdm": "GRAVADOR DE TRANSPARENCIA",
+    "grupo": 74
+  },
+  {
+    "id": "08317",
+    "pdm": "IMPRESSORA FISCAL",
+    "grupo": 74
+  },
+  {
+    "id": "09154",
+    "pdm": "MÁQUINA CALCULAR",
+    "grupo": 74
+  },
+  {
+    "id": "09157",
+    "pdm": "MAQUINA CORTAR PAPEL",
+    "grupo": 74
+  },
+  {
+    "id": "09167",
+    "pdm": "MAQUINA DE COMPOSICAO DE TEXTO PARA ESCRITORIO",
+    "grupo": 74
+  },
+  {
+    "id": "09173",
+    "pdm": "MAQUINA DE COPIA FOTOSTATICA",
+    "grupo": 74
+  },
+  {
+    "id": "09180",
+    "pdm": "MAQUINA DE DITAR",
+    "grupo": 74
+  },
+  {
+    "id": "09183",
+    "pdm": "MAQUINA DE ENDERECAR",
+    "grupo": 74
+  },
+  {
+    "id": "09186",
+    "pdm": "MAQUINA DE ESCREVER - IMPRESSAO ACOPLADA VIDEO",
+    "grupo": 74
+  },
+  {
+    "id": "09187",
+    "pdm": "MÁQUINA ESCREVER MECÂNICA",
+    "grupo": 74
+  },
+  {
+    "id": "09188",
+    "pdm": "MAQUINA DE ESCREVER - REPETICAO AUTOMATICA",
+    "grupo": 74
+  },
+  {
+    "id": "09189",
+    "pdm": "MAQUINA DE ESCREVER - VARIOS TIPOS IMPRESSAO",
+    "grupo": 74
+  },
+  {
+    "id": "09190",
+    "pdm": "MÁQUINA ESCREVER BRAILLE",
+    "grupo": 74
+  },
+  {
+    "id": "09201",
+    "pdm": "MAQUINA DE GRAVACAO DE SOM PARA USO EM ESCRITORIO",
+    "grupo": 74
+  },
+  {
+    "id": "09221",
+    "pdm": "SELADORA FILME",
+    "grupo": 74
+  },
+  {
+    "id": "09253",
+    "pdm": "MAQUINA ESCREVER ELETRICA MARGARIDA",
+    "grupo": 74
+  },
+  {
+    "id": "09254",
+    "pdm": "MAQUINA ESCREVER ELETRONICA PROFISSIONAL",
+    "grupo": 74
+  },
+  {
+    "id": "09258",
+    "pdm": "MÁQUINA GRAVADORA",
+    "grupo": 74
+  },
+  {
+    "id": "09341",
+    "pdm": "MAQUINA PARA SEPARAR MOEDA",
+    "grupo": 74
+  },
+  {
+    "id": "09353",
+    "pdm": "REGISTRADORA / CALCULADORA / PEÇAS E ACESSÓRIOS",
+    "grupo": 74
+  },
+  {
+    "id": 11522,
+    "pdm": "REFILADORA - GRÁFICO",
+    "grupo": 74
+  },
+  {
+    "id": 12110,
+    "pdm": "SISTEMA DE ARQUIVAMENTO DE PASTA CAIXA FICHA TIPO DESLIZANTE",
+    "grupo": 74
+  },
+  {
+    "id": 12146,
+    "pdm": "SISTEMA FORMA COMPOSER",
+    "grupo": 74
+  },
+  {
+    "id": 12156,
+    "pdm": "SISTEMA PARA ARMAZENAR COPIA",
+    "grupo": 74
+  },
+  {
+    "id": 12160,
+    "pdm": "SISTEMA PARA RECUPERAR COPIA",
+    "grupo": 74
+  },
+  {
+    "id": 12608,
+    "pdm": "TELETIPO",
+    "grupo": 74
+  },
+  {
+    "id": 12610,
+    "pdm": "TELEX",
+    "grupo": 74
+  },
+  {
+    "id": 13422,
+    "pdm": "VÍDEO DE EDITOR DE TEXTO",
+    "grupo": 74
+  },
+  {
+    "id": 14325,
+    "pdm": "LEITOR / COPIADOR MIROFICHA",
+    "grupo": 74
+  },
+  {
+    "id": 14385,
+    "pdm": "CHANCELADOR MARCA D'ÁGUA",
+    "grupo": 74
+  },
+  {
+    "id": 14634,
+    "pdm": "MÁQUINA ASSINAR",
+    "grupo": 74
+  },
+  {
+    "id": 15371,
+    "pdm": "PLACA PRINCIPAL MÁQUINA ESCREVER",
+    "grupo": 74
+  },
+  {
+    "id": 15380,
+    "pdm": "PLACA PRINT BOARD",
+    "grupo": 74
+  },
+  {
+    "id": 15875,
+    "pdm": "FOTOCOPIADORA IMPRESSORA",
+    "grupo": 74
+  },
+  {
+    "id": 16563,
+    "pdm": "CALCULADORA",
+    "grupo": 74
+  },
+  {
+    "id": 17215,
+    "pdm": "MÁQUINAS DE CONTABILIDADE E DE CALCULAR",
+    "grupo": 74
+  },
+  {
+    "id": 17217,
+    "pdm": "MÁQUINAS DE ESCREVER E DE COMPOSIÇÃO PARA ESCRITÓRIO",
+    "grupo": 74
+  },
+  {
+    "id": 17218,
+    "pdm": "MAQUINAS DE REPROGRAFIA",
+    "grupo": 74
+  },
+  {
+    "id": 17220,
+    "pdm": "EQUIPAMENTOS DE SISTEMAS DE INFORMAÇÕES PARA ESCRITÓRIOS",
+    "grupo": 74
+  },
+  {
+    "id": 17221,
+    "pdm": "MÁQUINAS DE GRAVAÇÃO E REPRODUÇÃO DE SOM PARA USO EM ESCRI-TÓRIO",
+    "grupo": 74
+  },
+  {
+    "id": 17222,
+    "pdm": "ARQUIVOS VISUAIS",
+    "grupo": 74
+  },
+  {
+    "id": 17223,
+    "pdm": "MÁQUINAS DIVERSAS PARA ESCRITÓRIO",
+    "grupo": 74
+  }
+]

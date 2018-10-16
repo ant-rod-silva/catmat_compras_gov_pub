@@ -1,0 +1,587 @@
+[
+  {
+    "id": "03117",
+    "pdm": "ATLAS GEOGRÁFICO",
+    "grupo": 76
+  },
+  {
+    "id": "04240",
+    "pdm": "CALENDÁRIO",
+    "grupo": 76
+  },
+  {
+    "id": "04538",
+    "pdm": "CARDÁPIO",
+    "grupo": 76
+  },
+  {
+    "id": "04640",
+    "pdm": "CARTA GRÁFICA",
+    "grupo": 76
+  },
+  {
+    "id": "04641",
+    "pdm": "CARTA NÁUTICA",
+    "grupo": 76
+  },
+  {
+    "id": "04642",
+    "pdm": "CARTA NAVEGAÇÃO AÉREA",
+    "grupo": 76
+  },
+  {
+    "id": "04643",
+    "pdm": "CARTA TOPOGRÁFICA",
+    "grupo": 76
+  },
+  {
+    "id": "04645",
+    "pdm": "CARTAO - POSTAL",
+    "grupo": 76
+  },
+  {
+    "id": "04659",
+    "pdm": "CARTAZ",
+    "grupo": 76
+  },
+  {
+    "id": "06041",
+    "pdm": "DECALCOMANIA",
+    "grupo": 76
+  },
+  {
+    "id": "06170",
+    "pdm": "DICIONÁRIO",
+    "grupo": 76
+  },
+  {
+    "id": "06549",
+    "pdm": "ENCICLOPÉDIA",
+    "grupo": 76
+  },
+  {
+    "id": "06998",
+    "pdm": "ESPECIFICACAO DE ENTIDADE NAO OFICIAL",
+    "grupo": 76
+  },
+  {
+    "id": "06999",
+    "pdm": "ESPECIFICACAO DE ENTIDADES OFICIAIS",
+    "grupo": 76
+  },
+  {
+    "id": "07224",
+    "pdm": "ETIQUETA IMPRESSA",
+    "grupo": 76
+  },
+  {
+    "id": "07227",
+    "pdm": "ETIQUETA PERSONALIZADA",
+    "grupo": 76
+  },
+  {
+    "id": "07700",
+    "pdm": "FOLHETO DE MUSICA",
+    "grupo": 76
+  },
+  {
+    "id": "07701",
+    "pdm": "FOLHETO NAO TECNICO",
+    "grupo": 76
+  },
+  {
+    "id": "07702",
+    "pdm": "FOLHETO TECNICO",
+    "grupo": 76
+  },
+  {
+    "id": "08016",
+    "pdm": "GLOBO GEOGRAFICO",
+    "grupo": 76
+  },
+  {
+    "id": "08306",
+    "pdm": "IMPRESSO PRONTO",
+    "grupo": 76
+  },
+  {
+    "id": "08564",
+    "pdm": "JORNAL",
+    "grupo": 76
+  },
+  {
+    "id": "08882",
+    "pdm": "LISTA DE CLASSIFICAÇÃO",
+    "grupo": 76
+  },
+  {
+    "id": "08883",
+    "pdm": "LISTA DE ESTOQUE",
+    "grupo": 76
+  },
+  {
+    "id": "08884",
+    "pdm": "LISTA DE INFORMACOES SOBRE AUTORIDADES",
+    "grupo": 76
+  },
+  {
+    "id": "08885",
+    "pdm": "LIVRO E FOLHETOS",
+    "grupo": 76
+  },
+  {
+    "id": "08887",
+    "pdm": "LIVRO DE HINOS",
+    "grupo": 76
+  },
+  {
+    "id": "08888",
+    "pdm": "LIVRO DE MUSICA",
+    "grupo": 76
+  },
+  {
+    "id": "08889",
+    "pdm": "LIVRO DIDATICO ESCOLAR",
+    "grupo": 76
+  },
+  {
+    "id": "08890",
+    "pdm": "LIVRO NAO TECNICO",
+    "grupo": 76
+  },
+  {
+    "id": "08891",
+    "pdm": "LIVRO PARADIDATICO",
+    "grupo": 76
+  },
+  {
+    "id": "08892",
+    "pdm": "LIVRO RARO - NACIONAL / IMPORTADO",
+    "grupo": 76
+  },
+  {
+    "id": "08895",
+    "pdm": "LIVRO TÉCNICO",
+    "grupo": 76
+  },
+  {
+    "id": "09127",
+    "pdm": "MANUAL DE INSTRUÇÃO",
+    "grupo": 76
+  },
+  {
+    "id": "09128",
+    "pdm": "MANUAL DE ORGANIZAÇÃO",
+    "grupo": 76
+  },
+  {
+    "id": "09129",
+    "pdm": "MANUAL DE PESSOAL",
+    "grupo": 76
+  },
+  {
+    "id": "09130",
+    "pdm": "MANUAL TÉCNICO DE INSPEÇÃO",
+    "grupo": 76
+  },
+  {
+    "id": "09131",
+    "pdm": "MANUAL TÉCNICO DE MANUTENÇÃO",
+    "grupo": 76
+  },
+  {
+    "id": "09132",
+    "pdm": "MANUAL TÉCNICO DE OPERAÇÃO",
+    "grupo": 76
+  },
+  {
+    "id": "09133",
+    "pdm": "MANUAL TÉCNICO DE SUPRIMENTO",
+    "grupo": 76
+  },
+  {
+    "id": "09134",
+    "pdm": "MAPA",
+    "grupo": 76
+  },
+  {
+    "id": "09135",
+    "pdm": "MAPA DE INSTRUCAO",
+    "grupo": 76
+  },
+  {
+    "id": "09136",
+    "pdm": "MAPA GEOGRÁFICO",
+    "grupo": 76
+  },
+  {
+    "id": "09729",
+    "pdm": "MICROFICHA",
+    "grupo": 76
+  },
+  {
+    "id": "09731",
+    "pdm": "MICROFILME REVELADO",
+    "grupo": 76
+  },
+  {
+    "id": 10124,
+    "pdm": "NORMA TÉCNICA",
+    "grupo": 76
+  },
+  {
+    "id": 10125,
+    "pdm": "NORMA TECNICA OFICIAL",
+    "grupo": 76
+  },
+  {
+    "id": 10222,
+    "pdm": "ORDEM TECNICA",
+    "grupo": 76
+  },
+  {
+    "id": 10881,
+    "pdm": "PLANTA DE ENGENHARIA",
+    "grupo": 76
+  },
+  {
+    "id": 11253,
+    "pdm": "PROGRAMA DE EVENTO",
+    "grupo": 76
+  },
+  {
+    "id": 11254,
+    "pdm": "PROGRAMA IMPRESSO",
+    "grupo": 76
+  },
+  {
+    "id": 11332,
+    "pdm": "PUBLICAÇÃO PERIÓDICA",
+    "grupo": 76
+  },
+  {
+    "id": 11333,
+    "pdm": "PUBLICAÇÃO TÉCNICA",
+    "grupo": 76
+  },
+  {
+    "id": 11604,
+    "pdm": "REGULAMENTO",
+    "grupo": 76
+  },
+  {
+    "id": 11742,
+    "pdm": "REVISTA",
+    "grupo": 76
+  },
+  {
+    "id": 11846,
+    "pdm": "RÓTULO IMPRESSO",
+    "grupo": 76
+  },
+  {
+    "id": 11993,
+    "pdm": "SELO POSTAL",
+    "grupo": 76
+  },
+  {
+    "id": 12698,
+    "pdm": "TESTES PSICOLÓGICOS",
+    "grupo": 76
+  },
+  {
+    "id": 13926,
+    "pdm": "FITA RECUPERAÇÃO OBRA ARTE",
+    "grupo": 76
+  },
+  {
+    "id": 14073,
+    "pdm": "BULA",
+    "grupo": 76
+  },
+  {
+    "id": 14163,
+    "pdm": "FITA GRAVADA",
+    "grupo": 76
+  },
+  {
+    "id": 14166,
+    "pdm": "FITA VÍDEO GRAVADA",
+    "grupo": 76
+  },
+  {
+    "id": 14180,
+    "pdm": "LIVRO DE PSICOLOGIA",
+    "grupo": 76
+  },
+  {
+    "id": 14182,
+    "pdm": "LIVRO DE RELIGIÃO",
+    "grupo": 76
+  },
+  {
+    "id": 14183,
+    "pdm": "LIVRO DE MATEMÁTICA",
+    "grupo": 76
+  },
+  {
+    "id": 14187,
+    "pdm": "LIVRO DE TEOLOGIA",
+    "grupo": 76
+  },
+  {
+    "id": 14189,
+    "pdm": "LIVRO DE CIÊNCIAS SOCIAIS",
+    "grupo": 76
+  },
+  {
+    "id": 14190,
+    "pdm": "LIVRO DE ESTATÍSTICA",
+    "grupo": 76
+  },
+  {
+    "id": 14191,
+    "pdm": "LIVRO DE POLÍTICA",
+    "grupo": 76
+  },
+  {
+    "id": 14192,
+    "pdm": "LIVRO DE ECONOMIA",
+    "grupo": 76
+  },
+  {
+    "id": 14193,
+    "pdm": "LIVRO DE COMÉRCIO",
+    "grupo": 76
+  },
+  {
+    "id": 14194,
+    "pdm": "LIVRO DE DIREITO",
+    "grupo": 76
+  },
+  {
+    "id": 14195,
+    "pdm": "LIVRO DE ADMINISTRAÇÃO E GOVERNO",
+    "grupo": 76
+  },
+  {
+    "id": 14196,
+    "pdm": "LIVRO DE ASSUNTOS MILITARES",
+    "grupo": 76
+  },
+  {
+    "id": 14197,
+    "pdm": "LIVRO DE ASSISTÊNCIA SOCIAL",
+    "grupo": 76
+  },
+  {
+    "id": 14198,
+    "pdm": "LIVRO DE SEGURO",
+    "grupo": 76
+  },
+  {
+    "id": 14199,
+    "pdm": "LIVRO DE EDUCAÇÃO",
+    "grupo": 76
+  },
+  {
+    "id": 14200,
+    "pdm": "LIVRO DE FOLCLORE",
+    "grupo": 76
+  },
+  {
+    "id": 14201,
+    "pdm": "LIVRO DE CIÊNCIAS NATURAIS",
+    "grupo": 76
+  },
+  {
+    "id": 14202,
+    "pdm": "LIVRO DE CIÊNCIAS APLICADAS",
+    "grupo": 76
+  },
+  {
+    "id": 14203,
+    "pdm": "LIVRO DE MEDICINA",
+    "grupo": 76
+  },
+  {
+    "id": 14204,
+    "pdm": "LIVRO DE TECNOLOGIA",
+    "grupo": 76
+  },
+  {
+    "id": 14205,
+    "pdm": "LIVRO DE ARTES",
+    "grupo": 76
+  },
+  {
+    "id": 14206,
+    "pdm": "LIVRO DE RECREAÇÃO",
+    "grupo": 76
+  },
+  {
+    "id": 14207,
+    "pdm": "LIVRO DE DIVERSÕES",
+    "grupo": 76
+  },
+  {
+    "id": 14209,
+    "pdm": "LIVRO DE ESPORTES",
+    "grupo": 76
+  },
+  {
+    "id": 14212,
+    "pdm": "LIVRO DE LÍNGUA",
+    "grupo": 76
+  },
+  {
+    "id": 14213,
+    "pdm": "LIVRO DE LINGUÍSTICA",
+    "grupo": 76
+  },
+  {
+    "id": 14214,
+    "pdm": "LIVRO DE LITERATURA",
+    "grupo": 76
+  },
+  {
+    "id": 14215,
+    "pdm": "LIVRO DE GEOGRAFIA",
+    "grupo": 76
+  },
+  {
+    "id": 14217,
+    "pdm": "LIVRO DE BIOGRAFIA",
+    "grupo": 76
+  },
+  {
+    "id": 14218,
+    "pdm": "LIVRO DE HISTÓRIA",
+    "grupo": 76
+  },
+  {
+    "id": 14364,
+    "pdm": "LIVRO DE ADMINISTRAÇÃO",
+    "grupo": 76
+  },
+  {
+    "id": 14373,
+    "pdm": "LIVRO DE INFORMÁTICA",
+    "grupo": 76
+  },
+  {
+    "id": 14507,
+    "pdm": "LIVRO FILOSOFIA E PSICOLOGIA",
+    "grupo": 76
+  },
+  {
+    "id": 14508,
+    "pdm": "LIVRO RELIGIÃO E TEOLOGIA",
+    "grupo": 76
+  },
+  {
+    "id": 14509,
+    "pdm": "LIVRO C. SOC/ESTAT/POLÍT/ECON/COMÉRCIO E DIREITO",
+    "grupo": 76
+  },
+  {
+    "id": 14510,
+    "pdm": "LIVRO ADM/GOV/ASS MIL/ASSIST SOC/SEG/EDUC/FOLCLORE",
+    "grupo": 76
+  },
+  {
+    "id": 14511,
+    "pdm": "LIVRO MATEMÁTICA E CIÊNCIAS NATURAIS",
+    "grupo": 76
+  },
+  {
+    "id": 14512,
+    "pdm": "LIVRO CIÊNCIAS APLICADAS/MEDICINA E TECNOLOGIA",
+    "grupo": 76
+  },
+  {
+    "id": 14513,
+    "pdm": "LIVRO ARTES/RECREAÇÃO/DIVERSÕES E ESPORTES",
+    "grupo": 76
+  },
+  {
+    "id": 14514,
+    "pdm": "LIVRO LÍNGUA/LINGUÍSTICA E LITERATURA",
+    "grupo": 76
+  },
+  {
+    "id": 14515,
+    "pdm": "LIVRO GEOGRAFIA/BIOGRAFIA/HISTÓRIA",
+    "grupo": 76
+  },
+  {
+    "id": 14516,
+    "pdm": "LIVRO INFORMÁTICA",
+    "grupo": 76
+  },
+  {
+    "id": 15399,
+    "pdm": "AEROGRAMA",
+    "grupo": 76
+  },
+  {
+    "id": 15691,
+    "pdm": "FAIXA DIVULGAÇÃO DE EVENTOS",
+    "grupo": 76
+  },
+  {
+    "id": 17228,
+    "pdm": "LIVRO",
+    "grupo": 76
+  },
+  {
+    "id": 17229,
+    "pdm": "JORNAIS E PERIÓDICOS",
+    "grupo": 76
+  },
+  {
+    "id": 17230,
+    "pdm": "MAPAS, CARTAS E GLOBOS GEOGRÁFICOS",
+    "grupo": 76
+  },
+  {
+    "id": 17231,
+    "pdm": "MAPAS AERONÁUTICOS, CARTAS E PRODUTOS GEODÉSICOS",
+    "grupo": 76
+  },
+  {
+    "id": 17232,
+    "pdm": "MAPAS HIDROGRÁFICOS, CARTAS E PRODUTOS GEODÉSICOS",
+    "grupo": 76
+  },
+  {
+    "id": 17233,
+    "pdm": "MAPAS TOPOGRÁFICOS, CARTAS E PRODUTOS GEODÉSICOS",
+    "grupo": 76
+  },
+  {
+    "id": 17234,
+    "pdm": "MAPAS DIGITAIS, CARTAS E PRODUTOS GEODÉSICOS",
+    "grupo": 76
+  },
+  {
+    "id": 17235,
+    "pdm": "DESENHOS E ESPECIFICAÇÕES",
+    "grupo": 76
+  },
+  {
+    "id": 17236,
+    "pdm": "FOLHAS E LIVROS DE MÚSICA",
+    "grupo": 76
+  },
+  {
+    "id": 17237,
+    "pdm": "MICROFILMES REVELADOS",
+    "grupo": 76
+  },
+  {
+    "id": 17238,
+    "pdm": "IMPRESSOS DIVERSOS",
+    "grupo": 76
+  }
+]

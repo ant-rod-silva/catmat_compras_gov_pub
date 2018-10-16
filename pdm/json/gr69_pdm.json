@@ -1,0 +1,327 @@
+[
+  {
+    "id": "02382",
+    "pdm": "ALVO DE TIRO",
+    "grupo": 69
+  },
+  {
+    "id": "02383",
+    "pdm": "BASE ALVO DE TIRO",
+    "grupo": 69
+  },
+  {
+    "id": "02682",
+    "pdm": "APARELHO COMUNICAÇÃO PARA TREINAMENTO",
+    "grupo": 69
+  },
+  {
+    "id": "02714",
+    "pdm": "APARELHO INSTRUÇÃO DE COMUNICAÇÃO",
+    "grupo": 69
+  },
+  {
+    "id": "02715",
+    "pdm": "APARELHO DE INSTRUCAO DE RADAR",
+    "grupo": 69
+  },
+  {
+    "id": "02725",
+    "pdm": "APARELHO NAVEGAÇÃO PARA TREINAMENTO",
+    "grupo": 69
+  },
+  {
+    "id": "02733",
+    "pdm": "APARELHO DE RADAR PARA TREINAMENTO",
+    "grupo": 69
+  },
+  {
+    "id": "02747",
+    "pdm": "APARELHO DE TREINAR ATERRISSAGEM",
+    "grupo": 69
+  },
+  {
+    "id": "02748",
+    "pdm": "APARELHO DE TREINAR BOMBARDEIO",
+    "grupo": 69
+  },
+  {
+    "id": "02749",
+    "pdm": "APARELHO DE TREINAR PILOTAGEM",
+    "grupo": 69
+  },
+  {
+    "id": "02750",
+    "pdm": "APARELHO DE TREINAR TIRO DE CANHAO",
+    "grupo": 69
+  },
+  {
+    "id": "05742",
+    "pdm": "CONJUNTO DE TREINAMENTO DE MISSIL GUIADO",
+    "grupo": 69
+  },
+  {
+    "id": "06316",
+    "pdm": "DISPOSITIVO DE TREINAMENTO DE DERIVOMETRO",
+    "grupo": 69
+  },
+  {
+    "id": "06317",
+    "pdm": "DISPOSITIVO DE TREINAMENTO DE NAVEGACAO CELESTIAL",
+    "grupo": 69
+  },
+  {
+    "id": "06318",
+    "pdm": "DISPOSITIVO TREINAMENTO DE PILOTO AUTOMÁTICO",
+    "grupo": 69
+  },
+  {
+    "id": "06725",
+    "pdm": "EQUIPAMENTO DE PRATICA DE CODIGO DE COMUNICACAO",
+    "grupo": 69
+  },
+  {
+    "id": "06767",
+    "pdm": "EQUIPAMENTO DE TREINAMENTO - INSTRUMENTO DE AERONAVE",
+    "grupo": 69
+  },
+  {
+    "id": "06768",
+    "pdm": "EQUIPAMENTO DE TREINAMENTO DE INSTRUMENTO DE VOO",
+    "grupo": 69
+  },
+  {
+    "id": "06769",
+    "pdm": "EQUIPAMENTO DE TREINAMENTO DE NAVEGACAO",
+    "grupo": 69
+  },
+  {
+    "id": "06770",
+    "pdm": "EQUIPAMENTO DE TREINAMENTO DE SISTEMA HIDRAULICO",
+    "grupo": 69
+  },
+  {
+    "id": "06771",
+    "pdm": "EQUIPAMENTO DE TREINAMENTO EM MOTOR",
+    "grupo": 69
+  },
+  {
+    "id": "06839",
+    "pdm": "EQUIPAMENTO PARA TREINAMENTO DE VEICULO",
+    "grupo": 69
+  },
+  {
+    "id": "07058",
+    "pdm": "EQUIPAMENTOS/ACESSÓRIOS SIMULAÇÃO ACIDENTES",
+    "grupo": 69
+  },
+  {
+    "id": "07439",
+    "pdm": "FILME EDUCACIONAL",
+    "grupo": 69
+  },
+  {
+    "id": "07445",
+    "pdm": "FILME PARA TREINAMENTO",
+    "grupo": 69
+  },
+  {
+    "id": "07986",
+    "pdm": "GERADORES DE FUMAÇA",
+    "grupo": 69
+  },
+  {
+    "id": "08579",
+    "pdm": "KIT ELETRÔNICO",
+    "grupo": 69
+  },
+  {
+    "id": "09137",
+    "pdm": "MAPA PARA TREINAMENTO",
+    "grupo": 69
+  },
+  {
+    "id": "09458",
+    "pdm": "MATERIAL DIDATICO - ESQUELETO / SIMULADOR MEDICO /",
+    "grupo": 69
+  },
+  {
+    "id": "09835",
+    "pdm": "EQUIPAMENTO DE INSTRUÇÃO",
+    "grupo": 69
+  },
+  {
+    "id": "09836",
+    "pdm": "MODELO TAMANHO REDUZIDO",
+    "grupo": 69
+  },
+  {
+    "id": "09837",
+    "pdm": "MODELO ANATÔMICO PARA FINS DIDÁTICOS",
+    "grupo": 69
+  },
+  {
+    "id": "09993",
+    "pdm": "MOTOR SECCIONADO DE TREINAMENTO",
+    "grupo": 69
+  },
+  {
+    "id": 10022,
+    "pdm": "MUNICAO SECCIONADA",
+    "grupo": 69
+  },
+  {
+    "id": 10597,
+    "pdm": "PELICULA CINEMATOGRAFICA PARA TREINAMENTO",
+    "grupo": 69
+  },
+  {
+    "id": 10601,
+    "pdm": "PELICULA FOTOGRAFICA",
+    "grupo": 69
+  },
+  {
+    "id": 10843,
+    "pdm": "PLACA DE TREINAMENTO EM CIRCUITO",
+    "grupo": 69
+  },
+  {
+    "id": 10883,
+    "pdm": "PLANTA PARA TREINAMENTO",
+    "grupo": 69
+  },
+  {
+    "id": 11141,
+    "pdm": "PRATICA EM CODIGO TELEGRAFICO",
+    "grupo": 69
+  },
+  {
+    "id": 11252,
+    "pdm": "PROGRAMA / PRODUCAO - EDUCATIVO, INSTITUCIONAL",
+    "grupo": 69
+  },
+  {
+    "id": 12071,
+    "pdm": "SIMULADOR",
+    "grupo": 69
+  },
+  {
+    "id": 12072,
+    "pdm": "SIMULADOR DE POSICAO DE ANTENA",
+    "grupo": 69
+  },
+  {
+    "id": 12948,
+    "pdm": "TREINADOR DE RADAR DE BUSCA",
+    "grupo": 69
+  },
+  {
+    "id": 12949,
+    "pdm": "TREINADOR DE RADAR SUPERSONICO",
+    "grupo": 69
+  },
+  {
+    "id": 12950,
+    "pdm": "TREINADOR DE VOO SIMULADO ( LINK TRAINER )",
+    "grupo": 69
+  },
+  {
+    "id": 12951,
+    "pdm": "TREINADOR PARA RADAR DE DETECCAO",
+    "grupo": 69
+  },
+  {
+    "id": 12952,
+    "pdm": "TREINADOR PARA RADAR DE NAVEGACAO",
+    "grupo": 69
+  },
+  {
+    "id": 12953,
+    "pdm": "TREINAMENTO EM RADAR",
+    "grupo": 69
+  },
+  {
+    "id": 13720,
+    "pdm": "CONJUNTO INSTRUÇÃO",
+    "grupo": 69
+  },
+  {
+    "id": 14299,
+    "pdm": "EQUIPAMENTO ALVO MÓVEL",
+    "grupo": 69
+  },
+  {
+    "id": 16111,
+    "pdm": "OBRÉIA",
+    "grupo": 69
+  },
+  {
+    "id": 16556,
+    "pdm": "LUDIÃO",
+    "grupo": 69
+  },
+  {
+    "id": 16557,
+    "pdm": "PISTA LOOPING",
+    "grupo": 69
+  },
+  {
+    "id": 16560,
+    "pdm": "PONTEIRA - ESCRITA BRAILE",
+    "grupo": 69
+  },
+  {
+    "id": 16561,
+    "pdm": "PUNÇÃO - ESCRITA BRAILE",
+    "grupo": 69
+  },
+  {
+    "id": 16572,
+    "pdm": "CONJUNTO PLANETÁRIO",
+    "grupo": 69
+  },
+  {
+    "id": 16573,
+    "pdm": "GUIA ASSINATURA",
+    "grupo": 69
+  },
+  {
+    "id": 16575,
+    "pdm": "SOROBAN - DEFICIENTE VISUAL",
+    "grupo": 69
+  },
+  {
+    "id": 16576,
+    "pdm": "REGLETE - DEFICIENTE VISUAL",
+    "grupo": 69
+  },
+  {
+    "id": 16586,
+    "pdm": "PÊNDULO DE NEWTON",
+    "grupo": 69
+  },
+  {
+    "id": 16607,
+    "pdm": "MODELO PARA ESTUDO",
+    "grupo": 69
+  },
+  {
+    "id": 17181,
+    "pdm": "ACESSÓRIOS PARA ESTUDO/TREINAMENTO",
+    "grupo": 69
+  },
+  {
+    "id": 17182,
+    "pdm": "ACESSÓRIOS PARA TREINAMENTO DE ARMAMENTO",
+    "grupo": 69
+  },
+  {
+    "id": 17183,
+    "pdm": "ACESSÓRIOS PARA TREINAMENTO OPERACIONAL",
+    "grupo": 69
+  },
+  {
+    "id": 17184,
+    "pdm": "ACESSÓRIOS PARA TREINAMENTO DE COMUNICAÇÕES",
+    "grupo": 69
+  }
+]

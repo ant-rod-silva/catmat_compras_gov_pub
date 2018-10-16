@@ -1,0 +1,857 @@
+[
+  {
+    "id": "00059",
+    "pdm": "CINZEIRO MESA",
+    "grupo": 99
+  },
+  {
+    "id": "00159",
+    "pdm": "CARTÃO",
+    "grupo": 99
+  },
+  {
+    "id": "00781",
+    "pdm": "GELO SECO",
+    "grupo": 99
+  },
+  {
+    "id": "00801",
+    "pdm": "APARELHO REPELENTE",
+    "grupo": 99
+  },
+  {
+    "id": "01355",
+    "pdm": "CARRO TRANSPORTE",
+    "grupo": 99
+  },
+  {
+    "id": "01356",
+    "pdm": "CHARRETE",
+    "grupo": 99
+  },
+  {
+    "id": "01582",
+    "pdm": "GLITTER",
+    "grupo": 99
+  },
+  {
+    "id": "01610",
+    "pdm": "COLETOR RESÍDUOS ARMA DE FOGO",
+    "grupo": 99
+  },
+  {
+    "id": "01642",
+    "pdm": "ACENDEDOR DE CIGARRO",
+    "grupo": 99
+  },
+  {
+    "id": "02049",
+    "pdm": "ACONDICIONADOR MORTUARIO",
+    "grupo": 99
+  },
+  {
+    "id": "02067",
+    "pdm": "ACUMULADOR E ACESSÓRIO",
+    "grupo": 99
+  },
+  {
+    "id": "02102",
+    "pdm": "ADESIVO PROPAGANDA",
+    "grupo": 99
+  },
+  {
+    "id": "02347",
+    "pdm": "ALMOFADA DE ESQUIFE",
+    "grupo": 99
+  },
+  {
+    "id": "02364",
+    "pdm": "ALTAR",
+    "grupo": 99
+  },
+  {
+    "id": "02395",
+    "pdm": "ÂMBULA",
+    "grupo": 99
+  },
+  {
+    "id": "02497",
+    "pdm": "LACRE ANEL IDENTIFICAÇÃO (ANILHA)",
+    "grupo": 99
+  },
+  {
+    "id": "02599",
+    "pdm": "ANTIGUIDADE PARA COLECAO",
+    "grupo": 99
+  },
+  {
+    "id": "02743",
+    "pdm": "APARELHO DE TAPE",
+    "grupo": 99
+  },
+  {
+    "id": "02903",
+    "pdm": "APLICADOR RESINA / FILME",
+    "grupo": 99
+  },
+  {
+    "id": "03063",
+    "pdm": "CANTONEIRA",
+    "grupo": 99
+  },
+  {
+    "id": "03077",
+    "pdm": "ARTIGO MORTUÁRIO",
+    "grupo": 99
+  },
+  {
+    "id": "03239",
+    "pdm": "BALAO INFLAVEL A AR QUENTE PARA PROPAGANDA AEREA",
+    "grupo": 99
+  },
+  {
+    "id": "03364",
+    "pdm": "PROTETOR AUTO-ADESIVO",
+    "grupo": 99
+  },
+  {
+    "id": "03530",
+    "pdm": "BICO MAMADEIRA",
+    "grupo": 99
+  },
+  {
+    "id": "03692",
+    "pdm": "BOLSA DE DESPOJO HUMANO",
+    "grupo": 99
+  },
+  {
+    "id": "03724",
+    "pdm": "BOMBA ASPIRADORA MORTUÁRIA",
+    "grupo": 99
+  },
+  {
+    "id": "03825",
+    "pdm": "ALFINETE LAPELA",
+    "grupo": 99
+  },
+  {
+    "id": "04071",
+    "pdm": "CADARÇO",
+    "grupo": 99
+  },
+  {
+    "id": "04133",
+    "pdm": "CAIXA FUMO DE CACHIMBO",
+    "grupo": 99
+  },
+  {
+    "id": "04155",
+    "pdm": "CAIXA FUNERARIA",
+    "grupo": 99
+  },
+  {
+    "id": "04163",
+    "pdm": "CAIXA PARA CIGARRO",
+    "grupo": 99
+  },
+  {
+    "id": "04301",
+    "pdm": "CÁLICE RELIGIOSO",
+    "grupo": 99
+  },
+  {
+    "id": "04398",
+    "pdm": "CANDELABRO RELIGIOSO",
+    "grupo": 99
+  },
+  {
+    "id": "04657",
+    "pdm": "CARTÃO MAGNÉTICO / INTELIGENTE ( SMART CARD )",
+    "grupo": 99
+  },
+  {
+    "id": "04789",
+    "pdm": "CERDA",
+    "grupo": 99
+  },
+  {
+    "id": "04957",
+    "pdm": "PORTA LACRE SEGURANÇA",
+    "grupo": 99
+  },
+  {
+    "id": "04973",
+    "pdm": "CHUPETA",
+    "grupo": 99
+  },
+  {
+    "id": "04989",
+    "pdm": "CIGARREIRA",
+    "grupo": 99
+  },
+  {
+    "id": "05034",
+    "pdm": "CINZEIRO",
+    "grupo": 99
+  },
+  {
+    "id": "05035",
+    "pdm": "CINZEIRO TIPO MOBILIÁRIO",
+    "grupo": 99
+  },
+  {
+    "id": "05345",
+    "pdm": "COLECAO",
+    "grupo": 99
+  },
+  {
+    "id": "05709",
+    "pdm": "CONJUNTO DE DISTRIBUICAO DE CEIA ( RELIGIOSO )",
+    "grupo": 99
+  },
+  {
+    "id": "06047",
+    "pdm": "GUARDE-REIO",
+    "grupo": 99
+  },
+  {
+    "id": "06345",
+    "pdm": "DISTINTIVO DE USO NAO PESSOAL",
+    "grupo": 99
+  },
+  {
+    "id": "06619",
+    "pdm": "EQUIPAMENTO - ESCRITA/LEITURA BRAILLE",
+    "grupo": 99
+  },
+  {
+    "id": "06993",
+    "pdm": "ESPATULA DE LIMPEZA DE CACHIMBO",
+    "grupo": 99
+  },
+  {
+    "id": "06997",
+    "pdm": "ESPATULA RELIGIOSA",
+    "grupo": 99
+  },
+  {
+    "id": "07049",
+    "pdm": "ESPUMA",
+    "grupo": 99
+  },
+  {
+    "id": "07060",
+    "pdm": "ESQUIFE",
+    "grupo": 99
+  },
+  {
+    "id": "07061",
+    "pdm": "ESQUIFE DE TRANSLADO",
+    "grupo": 99
+  },
+  {
+    "id": "07104",
+    "pdm": "ESTÁTUA",
+    "grupo": 99
+  },
+  {
+    "id": "07616",
+    "pdm": "FIVELA",
+    "grupo": 99
+  },
+  {
+    "id": "07649",
+    "pdm": "FLUIDO DE ISQUEIRO",
+    "grupo": 99
+  },
+  {
+    "id": "07721",
+    "pdm": "FONTE ORNAMENTAL",
+    "grupo": 99
+  },
+  {
+    "id": "07795",
+    "pdm": "FÓSFORO",
+    "grupo": 99
+  },
+  {
+    "id": "07797",
+    "pdm": "FOSFORO DE USO DOMESTICO",
+    "grupo": 99
+  },
+  {
+    "id": "07860",
+    "pdm": "FUMO DE CACHIMBO",
+    "grupo": 99
+  },
+  {
+    "id": "07861",
+    "pdm": "FUMO ENROLADO",
+    "grupo": 99
+  },
+  {
+    "id": "07894",
+    "pdm": "GABARITO EM BRAILLE",
+    "grupo": 99
+  },
+  {
+    "id": "07961",
+    "pdm": "GELO REUTILIZÁVEL",
+    "grupo": 99
+  },
+  {
+    "id": "07962",
+    "pdm": "GEMA NATURAL",
+    "grupo": 99
+  },
+  {
+    "id": "07993",
+    "pdm": "GESSO",
+    "grupo": 99
+  },
+  {
+    "id": "08277",
+    "pdm": "IDENTIFICADOR DE SEPULTURA",
+    "grupo": 99
+  },
+  {
+    "id": "08293",
+    "pdm": "IMÓVEL",
+    "grupo": 99
+  },
+  {
+    "id": "08381",
+    "pdm": "INSIGNIA DE USO NAO PESSOAL",
+    "grupo": 99
+  },
+  {
+    "id": "08513",
+    "pdm": "ISQUEIRO PORTATIL",
+    "grupo": 99
+  },
+  {
+    "id": "08563",
+    "pdm": "JOIA",
+    "grupo": 99
+  },
+  {
+    "id": "08718",
+    "pdm": "LAPIDE",
+    "grupo": 99
+  },
+  {
+    "id": "08796",
+    "pdm": "LETREIRO LUMINOSO",
+    "grupo": 99
+  },
+  {
+    "id": "08797",
+    "pdm": "LETREIRO LUMINOSO EM ACRILICO",
+    "grupo": 99
+  },
+  {
+    "id": "08798",
+    "pdm": "LETREIRO NAO LUMINOSO",
+    "grupo": 99
+  },
+  {
+    "id": "08886",
+    "pdm": "LIVRO DE COLECAO",
+    "grupo": 99
+  },
+  {
+    "id": "08912",
+    "pdm": "LOGOTIPO",
+    "grupo": 99
+  },
+  {
+    "id": "09057",
+    "pdm": "MAMADEIRA",
+    "grupo": 99
+  },
+  {
+    "id": "09085",
+    "pdm": "MANEQUIM",
+    "grupo": 99
+  },
+  {
+    "id": "09366",
+    "pdm": "MARCADOR DE CANTO PARA ALMOXARIFADO",
+    "grupo": 99
+  },
+  {
+    "id": "09377",
+    "pdm": "MARCO DE CONCRETO",
+    "grupo": 99
+  },
+  {
+    "id": "09498",
+    "pdm": "MATERIAL SEGURANCA NACIONAL",
+    "grupo": 99
+  },
+  {
+    "id": "09786",
+    "pdm": "MISSAL",
+    "grupo": 99
+  },
+  {
+    "id": "09842",
+    "pdm": "MOEDA DE COLECAO",
+    "grupo": 99
+  },
+  {
+    "id": "09904",
+    "pdm": "MONUMENTO DE CEMITERIO",
+    "grupo": 99
+  },
+  {
+    "id": "09914",
+    "pdm": "MOSTRUARIO",
+    "grupo": 99
+  },
+  {
+    "id": 10138,
+    "pdm": "OBRA DE ARTE",
+    "grupo": 99
+  },
+  {
+    "id": 10155,
+    "pdm": "OFICINA RURAL COM BASE PARA ACOPLAMENTO AO TRATOR",
+    "grupo": 99
+  },
+  {
+    "id": 10289,
+    "pdm": "PAINEL ANÚNCIO",
+    "grupo": 99
+  },
+  {
+    "id": 10302,
+    "pdm": "PAINEL DE SISTEMA INFORMATIVO DE VOO ( SIV)",
+    "grupo": 99
+  },
+  {
+    "id": 10392,
+    "pdm": "PAPEL PARA CIGARRO",
+    "grupo": 99
+  },
+  {
+    "id": 10456,
+    "pdm": "PARAMENTA RELIGIOSOS",
+    "grupo": 99
+  },
+  {
+    "id": 10457,
+    "pdm": "VESTES LITÚRGICAS",
+    "grupo": 99
+  },
+  {
+    "id": 10504,
+    "pdm": "PATENA",
+    "grupo": 99
+  },
+  {
+    "id": 10517,
+    "pdm": "PAVIO DE ISQUEIRO",
+    "grupo": 99
+  },
+  {
+    "id": 10534,
+    "pdm": "PECA DE HISTORIA NATURAL",
+    "grupo": 99
+  },
+  {
+    "id": 10536,
+    "pdm": "PECA DE JOALHEIRO",
+    "grupo": 99
+  },
+  {
+    "id": 10542,
+    "pdm": "PECA PARA MUSEU",
+    "grupo": 99
+  },
+  {
+    "id": 10584,
+    "pdm": "PEDRA DE ISQUEIRO",
+    "grupo": 99
+  },
+  {
+    "id": 10587,
+    "pdm": "PEDRA ORNAMENTAL",
+    "grupo": 99
+  },
+  {
+    "id": 10591,
+    "pdm": "PEDRA PRECIOSA LAPIDADA",
+    "grupo": 99
+  },
+  {
+    "id": 10801,
+    "pdm": "PITEIRA",
+    "grupo": 99
+  },
+  {
+    "id": 10808,
+    "pdm": "PLACA ALFABETICA DE AREA DE ESTOCAGEM",
+    "grupo": 99
+  },
+  {
+    "id": 10809,
+    "pdm": "PLACA ALFABETICA PARA UNIDADE DE ESTOCAGEM",
+    "grupo": 99
+  },
+  {
+    "id": 10817,
+    "pdm": "PLACA COMEMORATIVA",
+    "grupo": 99
+  },
+  {
+    "id": 10819,
+    "pdm": "PLACA DE ALERTA DE SEGURANCA",
+    "grupo": 99
+  },
+  {
+    "id": 10832,
+    "pdm": "PLACA IDENTIFICAÇÃO",
+    "grupo": 99
+  },
+  {
+    "id": 10839,
+    "pdm": "PLACA",
+    "grupo": 99
+  },
+  {
+    "id": 10841,
+    "pdm": "PLACA DE SINALIZAÇÃO DE TRÁFEGO - PEDESTRE / CARGA",
+    "grupo": 99
+  },
+  {
+    "id": 10849,
+    "pdm": "PLACA IDENTIFICACAO - CODIGO BARRA / PATRIMONIO",
+    "grupo": 99
+  },
+  {
+    "id": 10851,
+    "pdm": "PLACA INDICADORA PARA ALTA TENSAO",
+    "grupo": 99
+  },
+  {
+    "id": 10855,
+    "pdm": "PLACA LOCALIZADORA DE POSTO DE GASOLINA",
+    "grupo": 99
+  },
+  {
+    "id": 10856,
+    "pdm": "PLACA LOCALIZADORA DE SAIDA DE EMERGENCIA",
+    "grupo": 99
+  },
+  {
+    "id": 10858,
+    "pdm": "PLACA NUMERICA PARA AREA DE ESTOCAGEM",
+    "grupo": 99
+  },
+  {
+    "id": 10859,
+    "pdm": "PLACA NUMERICA PARA UNIDADE DE ESTOCAGEM",
+    "grupo": 99
+  },
+  {
+    "id": 10873,
+    "pdm": "PLACAR ELETRONICO POLIESPORTIVO",
+    "grupo": 99
+  },
+  {
+    "id": 10885,
+    "pdm": "PLAQUETA DE IDENTIFICACAO DE MOTOR",
+    "grupo": 99
+  },
+  {
+    "id": 10886,
+    "pdm": "PLAQUETA DE IDENTIFICACAO PATRIMONIAL",
+    "grupo": 99
+  },
+  {
+    "id": 10887,
+    "pdm": "PLAQUETA DE MATERIAL METALICO EM BRANCO PARA GRAVACAO",
+    "grupo": 99
+  },
+  {
+    "id": 10888,
+    "pdm": "PLAQUETA PARA CARTAO DE IDENTIDADE",
+    "grupo": 99
+  },
+  {
+    "id": 10989,
+    "pdm": "PÓLVORA",
+    "grupo": 99
+  },
+  {
+    "id": 11017,
+    "pdm": "PONTEIRA",
+    "grupo": 99
+  },
+  {
+    "id": 11032,
+    "pdm": "PORTA-CACHIMBO",
+    "grupo": 99
+  },
+  {
+    "id": 11166,
+    "pdm": "PRENDEDOR DE CRACHA",
+    "grupo": 99
+  },
+  {
+    "id": 11321,
+    "pdm": "PROTETOR CERDAS",
+    "grupo": 99
+  },
+  {
+    "id": 11338,
+    "pdm": "PULSEIRA IDENTIFICAÇÃO",
+    "grupo": 99
+  },
+  {
+    "id": 11822,
+    "pdm": "ROLO DE BORRACHA",
+    "grupo": 99
+  },
+  {
+    "id": 11874,
+    "pdm": "SACA - CUBO",
+    "grupo": 99
+  },
+  {
+    "id": 11906,
+    "pdm": "COBRE CORPO",
+    "grupo": 99
+  },
+  {
+    "id": 11989,
+    "pdm": "SELO ADUANEIRO",
+    "grupo": 99
+  },
+  {
+    "id": 12384,
+    "pdm": "SUPORTE DE ESQUIFE",
+    "grupo": 99
+  },
+  {
+    "id": 12451,
+    "pdm": "TABACO MANUFATURADO",
+    "grupo": 99
+  },
+  {
+    "id": 12520,
+    "pdm": "TAMPA",
+    "grupo": 99
+  },
+  {
+    "id": 12541,
+    "pdm": "EQUIPAMENTO / ACESSÓRIOS - PISCICULTURA",
+    "grupo": 99
+  },
+  {
+    "id": 12794,
+    "pdm": "TOALHA ALTAR",
+    "grupo": 99
+  },
+  {
+    "id": 12955,
+    "pdm": "TRENO DE TRACAO ANIMAL",
+    "grupo": 99
+  },
+  {
+    "id": 13125,
+    "pdm": "TUMULO",
+    "grupo": 99
+  },
+  {
+    "id": 13201,
+    "pdm": "URNA CREMATORIA",
+    "grupo": 99
+  },
+  {
+    "id": 13202,
+    "pdm": "URNA FUNERÁRIA",
+    "grupo": 99
+  },
+  {
+    "id": 13447,
+    "pdm": "VINHO SACRAMENTAL",
+    "grupo": 99
+  },
+  {
+    "id": 13531,
+    "pdm": "POTE",
+    "grupo": 99
+  },
+  {
+    "id": 13717,
+    "pdm": "INDICADOR FOTOGRAFIA",
+    "grupo": 99
+  },
+  {
+    "id": 13718,
+    "pdm": "NUMERADOR FOTOGRAFIA",
+    "grupo": 99
+  },
+  {
+    "id": 13878,
+    "pdm": "ETIQUETA IDENTIFICAÇÃO",
+    "grupo": 99
+  },
+  {
+    "id": 14585,
+    "pdm": "LANÇA HISTÓRICA",
+    "grupo": 99
+  },
+  {
+    "id": 14602,
+    "pdm": "SÍMBOLO IDENTIFICADOR PRÉDIO",
+    "grupo": 99
+  },
+  {
+    "id": 14614,
+    "pdm": "PLACA HOMENAGEM",
+    "grupo": 99
+  },
+  {
+    "id": 14909,
+    "pdm": "ENGRENAGEM",
+    "grupo": 99
+  },
+  {
+    "id": 15147,
+    "pdm": "BABADOR",
+    "grupo": 99
+  },
+  {
+    "id": 15349,
+    "pdm": "MATERIAL ADQUIRIDO PELA MARINHA DO BRASIL",
+    "grupo": 99
+  },
+  {
+    "id": 15988,
+    "pdm": "SUPORTE PLACA IDENTIFICAÇÃO",
+    "grupo": 99
+  },
+  {
+    "id": 16141,
+    "pdm": "IMÃ",
+    "grupo": 99
+  },
+  {
+    "id": 16259,
+    "pdm": "BALANCIM",
+    "grupo": 99
+  },
+  {
+    "id": 16549,
+    "pdm": "BRASÃO INSTITUCIONAL",
+    "grupo": 99
+  },
+  {
+    "id": 16671,
+    "pdm": "CONJUNTO TÁTICO-OPERACIONAL",
+    "grupo": 99
+  },
+  {
+    "id": 16898,
+    "pdm": "PEÇAS / ACESSÓRIOS EQUIPAMENTOS ESPECIALIZADOS",
+    "grupo": 99
+  },
+  {
+    "id": 16913,
+    "pdm": "FICHA / MOEDA",
+    "grupo": 99
+  },
+  {
+    "id": 17343,
+    "pdm": "ARTIGO PROMOCIONAL",
+    "grupo": 99
+  },
+  {
+    "id": 17344,
+    "pdm": "ARTIGOS DE JOALHERIA",
+    "grupo": 99
+  },
+  {
+    "id": 17345,
+    "pdm": "ARTIGOS PARA COLECIONADORES E/OU HISTÓRICOS",
+    "grupo": 99
+  },
+  {
+    "id": 17346,
+    "pdm": "ARTIGOS PARA FUMANTES",
+    "grupo": 99
+  },
+  {
+    "id": 17347,
+    "pdm": "EQUIPAMENTOS E ARTIGOS RELIGIOSOS",
+    "grupo": 99
+  },
+  {
+    "id": 17348,
+    "pdm": "EQUIPAMENTOS E ARTIGOS MORTUÁRIOS E DE CEMITÉRIO",
+    "grupo": 99
+  },
+  {
+    "id": 17349,
+    "pdm": "SERVICO",
+    "grupo": 99
+  },
+  {
+    "id": 17350,
+    "pdm": "BRINDE",
+    "grupo": 99
+  },
+  {
+    "id": 17758,
+    "pdm": "TOTEM IDENTIFICAÇÃO",
+    "grupo": 99
+  },
+  {
+    "id": 17795,
+    "pdm": "ESCALA CORES",
+    "grupo": 99
+  },
+  {
+    "id": 18044,
+    "pdm": "BILHETE PASSAGEM",
+    "grupo": 99
+  },
+  {
+    "id": 18326,
+    "pdm": "RÉPLICAS DIVERSAS",
+    "grupo": 99
+  },
+  {
+    "id": 18482,
+    "pdm": "CAPA PROTETORA",
+    "grupo": 99
+  },
+  {
+    "id": 18585,
+    "pdm": "CONTROLE REMOTO",
+    "grupo": 99
+  },
+  {
+    "id": 18629,
+    "pdm": "CRUCIFIXO",
+    "grupo": 99
+  },
+  {
+    "id": 18751,
+    "pdm": "CONJUNTO ZARABATANA",
+    "grupo": 99
+  },
+  {
+    "id": 19001,
+    "pdm": "PANÓPLIA",
+    "grupo": 99
+  },
+  {
+    "id": 19179,
+    "pdm": "CÉDULA / MOEDA",
+    "grupo": 99
+  }
+]

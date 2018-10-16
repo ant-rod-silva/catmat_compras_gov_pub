@@ -1,0 +1,867 @@
+[
+  {
+    "id": "01202",
+    "pdm": "ARMAÇÃO TOLDO",
+    "grupo": 83
+  },
+  {
+    "id": "01222",
+    "pdm": "ABRIDOR CASA BOTÃO",
+    "grupo": 83
+  },
+  {
+    "id": "01481",
+    "pdm": "CRETONE",
+    "grupo": 83
+  },
+  {
+    "id": "01482",
+    "pdm": "TECIDO EM ALGODÃO CRÚ",
+    "grupo": 83
+  },
+  {
+    "id": "01483",
+    "pdm": "FELTRO",
+    "grupo": 83
+  },
+  {
+    "id": "01484",
+    "pdm": "RENDA",
+    "grupo": 83
+  },
+  {
+    "id": "01485",
+    "pdm": "TESOURA COSTURA",
+    "grupo": 83
+  },
+  {
+    "id": "01488",
+    "pdm": "MOLDE CALÇADO",
+    "grupo": 83
+  },
+  {
+    "id": "01489",
+    "pdm": "SOLADO PRÉ-FABRICADO",
+    "grupo": 83
+  },
+  {
+    "id": "01490",
+    "pdm": "MASTRO BANDEIRA",
+    "grupo": 83
+  },
+  {
+    "id": "01510",
+    "pdm": "CAMBRAIA ALGODÃO",
+    "grupo": 83
+  },
+  {
+    "id": "01511",
+    "pdm": "FLANELA TECIDO",
+    "grupo": 83
+  },
+  {
+    "id": "01512",
+    "pdm": "LINHA BORDADO",
+    "grupo": 83
+  },
+  {
+    "id": "01513",
+    "pdm": "LINHA COSTURA",
+    "grupo": 83
+  },
+  {
+    "id": "01514",
+    "pdm": "LINHA NÁILON",
+    "grupo": 83
+  },
+  {
+    "id": "01515",
+    "pdm": "LINHA TRICÔ",
+    "grupo": 83
+  },
+  {
+    "id": "01516",
+    "pdm": "LINHO",
+    "grupo": 83
+  },
+  {
+    "id": "01517",
+    "pdm": "VELUDO",
+    "grupo": 83
+  },
+  {
+    "id": "01523",
+    "pdm": "AGULHA CROCHÊ",
+    "grupo": 83
+  },
+  {
+    "id": "01524",
+    "pdm": "ENTRETELA",
+    "grupo": 83
+  },
+  {
+    "id": "01525",
+    "pdm": "ELÁSTICO VESTUÁRIO",
+    "grupo": 83
+  },
+  {
+    "id": "01526",
+    "pdm": "FITA",
+    "grupo": 83
+  },
+  {
+    "id": "01527",
+    "pdm": "LINHA CROCHÊ",
+    "grupo": 83
+  },
+  {
+    "id": "01529",
+    "pdm": "BARRACA ACAMPAMENTO",
+    "grupo": 83
+  },
+  {
+    "id": "01533",
+    "pdm": "COBERTURA BARRACA",
+    "grupo": 83
+  },
+  {
+    "id": "01534",
+    "pdm": "ENCERADO COBERTURA",
+    "grupo": 83
+  },
+  {
+    "id": "01536",
+    "pdm": "AGULHA COSTURA",
+    "grupo": 83
+  },
+  {
+    "id": "01537",
+    "pdm": "ZÍPER",
+    "grupo": 83
+  },
+  {
+    "id": "01538",
+    "pdm": "ALFINETE COSTURA",
+    "grupo": 83
+  },
+  {
+    "id": "01539",
+    "pdm": "AGULHA MÁQUINA COSTURA",
+    "grupo": 83
+  },
+  {
+    "id": "01540",
+    "pdm": "COLCHETE",
+    "grupo": 83
+  },
+  {
+    "id": "01541",
+    "pdm": "FITA MÉTRICA COSTURA",
+    "grupo": 83
+  },
+  {
+    "id": "01543",
+    "pdm": "ESTACA BARRACA ACAMPAMENTO",
+    "grupo": 83
+  },
+  {
+    "id": "01544",
+    "pdm": "GUARDA-SOL",
+    "grupo": 83
+  },
+  {
+    "id": "01575",
+    "pdm": "AGULHA TRICÔ",
+    "grupo": 83
+  },
+  {
+    "id": "01576",
+    "pdm": "BOTÃO VESTUÁRIO",
+    "grupo": 83
+  },
+  {
+    "id": "01577",
+    "pdm": "FIVELA",
+    "grupo": 83
+  },
+  {
+    "id": "01578",
+    "pdm": "OMBREIRA",
+    "grupo": 83
+  },
+  {
+    "id": "01579",
+    "pdm": "VIDRILHO",
+    "grupo": 83
+  },
+  {
+    "id": "01580",
+    "pdm": "VIÉS",
+    "grupo": 83
+  },
+  {
+    "id": "01581",
+    "pdm": "BANDEIRA",
+    "grupo": 83
+  },
+  {
+    "id": "01599",
+    "pdm": "RETALHO TECIDO",
+    "grupo": 83
+  },
+  {
+    "id": "02168",
+    "pdm": "AGULHA DE COSTURA",
+    "grupo": 83
+  },
+  {
+    "id": "02177",
+    "pdm": "AGULHA COURO VAZADOR",
+    "grupo": 83
+  },
+  {
+    "id": "02181",
+    "pdm": "AGULHA DE BORDAR",
+    "grupo": 83
+  },
+  {
+    "id": "02184",
+    "pdm": "AGULHA DE ESTOFAR",
+    "grupo": 83
+  },
+  {
+    "id": "02187",
+    "pdm": "AGULHA DE MAQUINA DE COSTURA INDUSTRIAL OVERLOQUE",
+    "grupo": 83
+  },
+  {
+    "id": "02188",
+    "pdm": "AGULHA DE NAILON ( NYLON ) - PESCA",
+    "grupo": 83
+  },
+  {
+    "id": "02190",
+    "pdm": "AGULHA DE TAPECARIA",
+    "grupo": 83
+  },
+  {
+    "id": "02197",
+    "pdm": "AGULHA PARA BORDAR",
+    "grupo": 83
+  },
+  {
+    "id": "02198",
+    "pdm": "AGULHA PARA ESTOFAR",
+    "grupo": 83
+  },
+  {
+    "id": "02280",
+    "pdm": "ALFINETE DE SEGURANCA",
+    "grupo": 83
+  },
+  {
+    "id": "02296",
+    "pdm": "ALGODAO EM PASTA PARA FORRO",
+    "grupo": 83
+  },
+  {
+    "id": "02349",
+    "pdm": "ALMOFADA DE OMBRO ( OMBREIRA )",
+    "grupo": 83
+  },
+  {
+    "id": "03160",
+    "pdm": "AVIAMENTO PARA COSTURA",
+    "grupo": 83
+  },
+  {
+    "id": "03272",
+    "pdm": "BANCADA DE REPARO EM CALCADO",
+    "grupo": 83
+  },
+  {
+    "id": "03289",
+    "pdm": "BANDEIRA CÓDIGO INTERNACIONAL DE SINAIS",
+    "grupo": 83
+  },
+  {
+    "id": "03290",
+    "pdm": "BANDEIRA SINALIZAÇÃO",
+    "grupo": 83
+  },
+  {
+    "id": "03292",
+    "pdm": "BANDEIRA SINALIZAÇÃO DE TRÁFEGO",
+    "grupo": 83
+  },
+  {
+    "id": "03294",
+    "pdm": "BANDEIRA INSTITUCIONAL",
+    "grupo": 83
+  },
+  {
+    "id": "03295",
+    "pdm": "BANDEIRA SEMAFÓRICA",
+    "grupo": 83
+  },
+  {
+    "id": "03296",
+    "pdm": "BANDEIROLA",
+    "grupo": 83
+  },
+  {
+    "id": "03297",
+    "pdm": "BANDEIROLA DE USO CIVICO",
+    "grupo": 83
+  },
+  {
+    "id": "03298",
+    "pdm": "BANDEIROLA DE USO ESPORTIVO",
+    "grupo": 83
+  },
+  {
+    "id": "03390",
+    "pdm": "BARRACA COMPLETA",
+    "grupo": 83
+  },
+  {
+    "id": "03391",
+    "pdm": "BARRACA COMPLETA PARA 4 PESSOAS",
+    "grupo": 83
+  },
+  {
+    "id": "03392",
+    "pdm": "BARRACA COMPLETA PARA 6 PESSOAS",
+    "grupo": 83
+  },
+  {
+    "id": "03393",
+    "pdm": "BARRACA DE FEIRA",
+    "grupo": 83
+  },
+  {
+    "id": "03394",
+    "pdm": "BARRACA DE LONA",
+    "grupo": 83
+  },
+  {
+    "id": "03399",
+    "pdm": "BARRETINA",
+    "grupo": 83
+  },
+  {
+    "id": "03568",
+    "pdm": "BIQUEIRA DE CALCADO",
+    "grupo": 83
+  },
+  {
+    "id": "03805",
+    "pdm": "BORDADO PARA COSTURA",
+    "grupo": 83
+  },
+  {
+    "id": "03830",
+    "pdm": "BOTAO DE ESTOFAMENTO",
+    "grupo": 83
+  },
+  {
+    "id": "03831",
+    "pdm": "BOTÃO DE PRESSÃO",
+    "grupo": 83
+  },
+  {
+    "id": "03832",
+    "pdm": "BOTAO DE VESTUARIO",
+    "grupo": 83
+  },
+  {
+    "id": "03837",
+    "pdm": "BOTAO PARA ESTOFAMENTO",
+    "grupo": 83
+  },
+  {
+    "id": "04072",
+    "pdm": "CADARCO DE CALCADO",
+    "grupo": 83
+  },
+  {
+    "id": "04581",
+    "pdm": "CARRETILHA DE USO EM COSTURA",
+    "grupo": 83
+  },
+  {
+    "id": "05339",
+    "pdm": "COLCHETE PARA VESTUARIO",
+    "grupo": 83
+  },
+  {
+    "id": "05866",
+    "pdm": "CORDAO PARA CALCADO",
+    "grupo": 83
+  },
+  {
+    "id": "05943",
+    "pdm": "COURINO",
+    "grupo": 83
+  },
+  {
+    "id": "05944",
+    "pdm": "COURO ACHARCADO ( ENVERNIZADO )",
+    "grupo": 83
+  },
+  {
+    "id": "05945",
+    "pdm": "COURO CRU",
+    "grupo": 83
+  },
+  {
+    "id": "05946",
+    "pdm": "CAMURÇA",
+    "grupo": 83
+  },
+  {
+    "id": "05947",
+    "pdm": "COURO PARA CALCADO",
+    "grupo": 83
+  },
+  {
+    "id": "05948",
+    "pdm": "COURO ESTOFAMENTO",
+    "grupo": 83
+  },
+  {
+    "id": "05949",
+    "pdm": "COURO PARA VESTUARIO",
+    "grupo": 83
+  },
+  {
+    "id": "05952",
+    "pdm": "COXIM DE PELE",
+    "grupo": 83
+  },
+  {
+    "id": "06046",
+    "pdm": "DEDAL",
+    "grupo": 83
+  },
+  {
+    "id": "06441",
+    "pdm": "ELASTICO PARA CALCADO",
+    "grupo": 83
+  },
+  {
+    "id": "06586",
+    "pdm": "ENTREFORRO",
+    "grupo": 83
+  },
+  {
+    "id": "07050",
+    "pdm": "ESPUMA - FLOCOS",
+    "grupo": 83
+  },
+  {
+    "id": "07089",
+    "pdm": "ESTANDARTE",
+    "grupo": 83
+  },
+  {
+    "id": "07615",
+    "pdm": "FIVELA DE CALCADO",
+    "grupo": 83
+  },
+  {
+    "id": "07626",
+    "pdm": "FAIXA PROPAGANDA",
+    "grupo": 83
+  },
+  {
+    "id": "07627",
+    "pdm": "FLAMULA COMEMORATIVA",
+    "grupo": 83
+  },
+  {
+    "id": "07628",
+    "pdm": "FLAMULA DE PROPAGANDA",
+    "grupo": 83
+  },
+  {
+    "id": "07629",
+    "pdm": "FLAMULA DISTINTIVA",
+    "grupo": 83
+  },
+  {
+    "id": "07726",
+    "pdm": "FORMA CALÇADO",
+    "grupo": 83
+  },
+  {
+    "id": "07769",
+    "pdm": "FORRO / LAMINADO - CALCADO",
+    "grupo": 83
+  },
+  {
+    "id": "07845",
+    "pdm": "FRISA ( TECIDO )",
+    "grupo": 83
+  },
+  {
+    "id": "07904",
+    "pdm": "GALHARDETE DE CODIGO INTERNACIONAL DE SINAL",
+    "grupo": 83
+  },
+  {
+    "id": "07999",
+    "pdm": "GIZ DE ALFAIATE",
+    "grupo": 83
+  },
+  {
+    "id": "08120",
+    "pdm": "PEÇA / COMPONENTE GUARDA-SOL",
+    "grupo": 83
+  },
+  {
+    "id": "08282",
+    "pdm": "ILHOS DE USO EM TECIDO",
+    "grupo": 83
+  },
+  {
+    "id": "08542",
+    "pdm": "JOGO DE COSTURA DE EMERGENCIA",
+    "grupo": 83
+  },
+  {
+    "id": "08594",
+    "pdm": "LACO PARA CALCADO",
+    "grupo": 83
+  },
+  {
+    "id": "08865",
+    "pdm": "LINHA DE COSER",
+    "grupo": 83
+  },
+  {
+    "id": "08867",
+    "pdm": "LINHA PARA TAPECARIA",
+    "grupo": 83
+  },
+  {
+    "id": "08914",
+    "pdm": "LONA",
+    "grupo": 83
+  },
+  {
+    "id": "08961",
+    "pdm": "LUVA DE COURO",
+    "grupo": 83
+  },
+  {
+    "id": "09049",
+    "pdm": "MALHA TUBULAR CONFECÇÃO PUNHO",
+    "grupo": 83
+  },
+  {
+    "id": "09120",
+    "pdm": "MANTA DE LÃ",
+    "grupo": 83
+  },
+  {
+    "id": "09448",
+    "pdm": "MATERIAL DE COUDELARIA",
+    "grupo": 83
+  },
+  {
+    "id": 10028,
+    "pdm": "MUSGO DE ESTOFAMENTO BENEFICIADO",
+    "grupo": 83
+  },
+  {
+    "id": 10039,
+    "pdm": "NAPA",
+    "grupo": 83
+  },
+  {
+    "id": 10162,
+    "pdm": "OLEADO",
+    "grupo": 83
+  },
+  {
+    "id": 10284,
+    "pdm": "PAINA",
+    "grupo": 83
+  },
+  {
+    "id": 10324,
+    "pdm": "PALMILHA",
+    "grupo": 83
+  },
+  {
+    "id": 10511,
+    "pdm": "PAU DE BANDEIRA",
+    "grupo": 83
+  },
+  {
+    "id": 10512,
+    "pdm": "PAU DE BARRACA",
+    "grupo": 83
+  },
+  {
+    "id": 10596,
+    "pdm": "PELE DE ANIMAL NAO BENEFICIADA",
+    "grupo": 83
+  },
+  {
+    "id": 10605,
+    "pdm": "PELUCIA - CALCADO",
+    "grupo": 83
+  },
+  {
+    "id": 10606,
+    "pdm": "PELUCIA - TECIDO",
+    "grupo": 83
+  },
+  {
+    "id": 10634,
+    "pdm": "PENUGEM BENEFICIADA",
+    "grupo": 83
+  },
+  {
+    "id": 10952,
+    "pdm": "POLIA DE BANDEIRA",
+    "grupo": 83
+  },
+  {
+    "id": 11013,
+    "pdm": "PONTEIRA DE MASTRO DE BANDEIRA",
+    "grupo": 83
+  },
+  {
+    "id": 11835,
+    "pdm": "ROSETA DE BANDEIRA",
+    "grupo": 83
+  },
+  {
+    "id": 11899,
+    "pdm": "SACO DE PELE",
+    "grupo": 83
+  },
+  {
+    "id": 11930,
+    "pdm": "SALTO PRE - FABRICADO DE CALCADO",
+    "grupo": 83
+  },
+  {
+    "id": 11934,
+    "pdm": "SANFONA EM MALHA",
+    "grupo": 83
+  },
+  {
+    "id": 12391,
+    "pdm": "SUPORTE DE MASTRO DE BANDEIRA",
+    "grupo": 83
+  },
+  {
+    "id": 12469,
+    "pdm": "TACAO",
+    "grupo": 83
+  },
+  {
+    "id": 12485,
+    "pdm": "TALABARTE DE BANDEIRA",
+    "grupo": 83
+  },
+  {
+    "id": 12565,
+    "pdm": "TECIDO BRIM",
+    "grupo": 83
+  },
+  {
+    "id": 12566,
+    "pdm": "TECIDO ORGANZA",
+    "grupo": 83
+  },
+  {
+    "id": 12567,
+    "pdm": "TECIDO DE FIBRA NATURAL",
+    "grupo": 83
+  },
+  {
+    "id": 12568,
+    "pdm": "TNT",
+    "grupo": 83
+  },
+  {
+    "id": 12569,
+    "pdm": "TECIDO DE MALHA",
+    "grupo": 83
+  },
+  {
+    "id": 12570,
+    "pdm": "TECIDO DE MALHA SINTETICA",
+    "grupo": 83
+  },
+  {
+    "id": 12571,
+    "pdm": "TECIDO DE MORIM",
+    "grupo": 83
+  },
+  {
+    "id": 12572,
+    "pdm": "TECIDO ENCADERNAÇÃO",
+    "grupo": 83
+  },
+  {
+    "id": 12573,
+    "pdm": "TECIDO COTELEM",
+    "grupo": 83
+  },
+  {
+    "id": 12574,
+    "pdm": "TECIDO TERBRIM",
+    "grupo": 83
+  },
+  {
+    "id": 12575,
+    "pdm": "TECIDO FELPUDO",
+    "grupo": 83
+  },
+  {
+    "id": 12578,
+    "pdm": "TECIDO OXIFORDINE",
+    "grupo": 83
+  },
+  {
+    "id": 12580,
+    "pdm": "TECIDO TULE",
+    "grupo": 83
+  },
+  {
+    "id": 12592,
+    "pdm": "TELA DE PINTURA",
+    "grupo": 83
+  },
+  {
+    "id": 12864,
+    "pdm": "TRANCADO DE PELE",
+    "grupo": 83
+  },
+  {
+    "id": 13143,
+    "pdm": "UMBELA DE TOPOGRAFO",
+    "grupo": 83
+  },
+  {
+    "id": 13366,
+    "pdm": "VELCRO",
+    "grupo": 83
+  },
+  {
+    "id": 13452,
+    "pdm": "VIRA",
+    "grupo": 83
+  },
+  {
+    "id": 13497,
+    "pdm": "ZIPER",
+    "grupo": 83
+  },
+  {
+    "id": 13505,
+    "pdm": "ALFINETE SEGURANÇA",
+    "grupo": 83
+  },
+  {
+    "id": 13985,
+    "pdm": "LONA EMBORRACHADA",
+    "grupo": 83
+  },
+  {
+    "id": 14236,
+    "pdm": "LONA PLÁSTICA",
+    "grupo": 83
+  },
+  {
+    "id": 14347,
+    "pdm": "ESPUMA LÁTEX",
+    "grupo": 83
+  },
+  {
+    "id": 14688,
+    "pdm": "TECIDO DE PIQUET",
+    "grupo": 83
+  },
+  {
+    "id": 14711,
+    "pdm": "FERRAGEM HASTEAMENTO BANDEIRA",
+    "grupo": 83
+  },
+  {
+    "id": 14789,
+    "pdm": "TECIDO ALGODÃO",
+    "grupo": 83
+  },
+  {
+    "id": 15252,
+    "pdm": "TECIDO DE CORDURA",
+    "grupo": 83
+  },
+  {
+    "id": 16487,
+    "pdm": "FLORÃO DE BANDEIRA",
+    "grupo": 83
+  },
+  {
+    "id": 17262,
+    "pdm": "TECIDO",
+    "grupo": 83
+  },
+  {
+    "id": 17263,
+    "pdm": "FIOS E LINHAS",
+    "grupo": 83
+  },
+  {
+    "id": 17264,
+    "pdm": "MIUDEZAS E AVIAMENTOS PARA COSTURA",
+    "grupo": 83
+  },
+  {
+    "id": 17265,
+    "pdm": "MATERIAIS PARA ESTOFAMENTO E ACOLCHOAMENTO",
+    "grupo": 83
+  },
+  {
+    "id": 17267,
+    "pdm": "COURO SINTÉTICO",
+    "grupo": 83
+  },
+  {
+    "id": 17268,
+    "pdm": "MATERIAIS PARA CALÇADOS",
+    "grupo": 83
+  },
+  {
+    "id": 17269,
+    "pdm": "BARRACAS E ENCERADOS",
+    "grupo": 83
+  },
+  {
+    "id": 17270,
+    "pdm": "BANDEIRAS, FLAMULAS E PAVILHOES",
+    "grupo": 83
+  },
+  {
+    "id": 17635,
+    "pdm": "CURSOR PARA ZÍPER",
+    "grupo": 83
+  },
+  {
+    "id": 17636,
+    "pdm": "FIO",
+    "grupo": 83
+  },
+  {
+    "id": 18466,
+    "pdm": "TECIDO CAMUFLADO",
+    "grupo": 83
+  }
+]
