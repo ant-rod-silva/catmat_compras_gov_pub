@@ -1,452 +1,457 @@
 [
   {
-    "91": 91,
-    "00588": "00589",
-    "ÓLEO DIESEL ÁRTICO": "ÓLEO DIESEL MARÍTIMO"
+    "id": "00588",
+    "pdm": "ÓLEO DIESEL ÁRTICO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "00609",
-    "ÓLEO DIESEL ÁRTICO": "GRAXA"
+    "id": "00589",
+    "pdm": "ÓLEO DIESEL MARÍTIMO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "00611",
-    "ÓLEO DIESEL ÁRTICO": "ÓLEO ISOLANTE"
+    "id": "00609",
+    "pdm": "GRAXA",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "00644",
-    "ÓLEO DIESEL ÁRTICO": "GÁS LIQUEFEITO DE PETRÓLEO - GLP"
+    "id": "00611",
+    "pdm": "ÓLEO ISOLANTE",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "00645",
-    "ÓLEO DIESEL ÁRTICO": "GASOLINA AVIAÇÃO"
+    "id": "00644",
+    "pdm": "GÁS LIQUEFEITO DE PETRÓLEO - GLP",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "00646",
-    "ÓLEO DIESEL ÁRTICO": "ÓLEO DIESEL"
+    "id": "00645",
+    "pdm": "GASOLINA AVIAÇÃO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "00680",
-    "ÓLEO DIESEL ÁRTICO": "GASOLINA COMUM"
+    "id": "00646",
+    "pdm": "ÓLEO DIESEL",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "00681",
-    "ÓLEO DIESEL ÁRTICO": "CERA"
+    "id": "00680",
+    "pdm": "GASOLINA COMUM",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "00682",
-    "ÓLEO DIESEL ÁRTICO": "CERA ABELHA"
+    "id": "00681",
+    "pdm": "CERA",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "00683",
-    "ÓLEO DIESEL ÁRTICO": "CERA ABELHA ALVEOLADA"
+    "id": "00682",
+    "pdm": "CERA ABELHA",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "00701",
-    "ÓLEO DIESEL ÁRTICO": "QUEROSENE"
+    "id": "00683",
+    "pdm": "CERA ABELHA ALVEOLADA",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "00793",
-    "ÓLEO DIESEL ÁRTICO": "NAFTA"
+    "id": "00701",
+    "pdm": "QUEROSENE",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "02248",
-    "ÓLEO DIESEL ÁRTICO": "ALCATRAO VEGETAL"
+    "id": "00793",
+    "pdm": "NAFTA",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "02249",
-    "ÓLEO DIESEL ÁRTICO": "ÁLCOOL ANIDRO COMBUSTÍVEL"
+    "id": "02248",
+    "pdm": "ALCATRAO VEGETAL",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "03870",
-    "ÓLEO DIESEL ÁRTICO": "BRIQUETE"
+    "id": "02249",
+    "pdm": "ÁLCOOL ANIDRO COMBUSTÍVEL",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "04673",
-    "ÓLEO DIESEL ÁRTICO": "CARVÃO COQUE"
+    "id": "03870",
+    "pdm": "BRIQUETE",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "04675",
-    "ÓLEO DIESEL ÁRTICO": "CARVÃO MINERAL"
+    "id": "04673",
+    "pdm": "CARVÃO COQUE",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "04676",
-    "ÓLEO DIESEL ÁRTICO": "CARVÃO VEGETAL"
+    "id": "04675",
+    "pdm": "CARVÃO MINERAL",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "04775",
-    "ÓLEO DIESEL ÁRTICO": "CERA / CONSERVANTE"
+    "id": "04676",
+    "pdm": "CARVÃO VEGETAL",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "04778",
-    "ÓLEO DIESEL ÁRTICO": "CERA DE ORIGEM ANIMAL"
+    "id": "04775",
+    "pdm": "CERA / CONSERVANTE",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "05381",
-    "ÓLEO DIESEL ÁRTICO": "COMBUSTÍVEL ILUMINAÇÃO"
+    "id": "04778",
+    "pdm": "CERA DE ORIGEM ANIMAL",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "06696",
-    "ÓLEO DIESEL ÁRTICO": "EQUIPAMENTO DE FILTRAGEM DE OLEO"
+    "id": "05381",
+    "pdm": "COMBUSTÍVEL ILUMINAÇÃO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "07650",
-    "ÓLEO DIESEL ÁRTICO": "FLUIDO DE SISTEMA DE FREIO"
+    "id": "06696",
+    "pdm": "EQUIPAMENTO DE FILTRAGEM DE OLEO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "07652",
-    "ÓLEO DIESEL ÁRTICO": "FLUÍDO PARA APLICAÇÃO ESPECÍFICA"
+    "id": "07650",
+    "pdm": "FLUIDO DE SISTEMA DE FREIO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "07944",
-    "ÓLEO DIESEL ÁRTICO": "GASOLINA A BASE DE PETROLEO DE VEICULO DE COMBATE"
+    "id": "07652",
+    "pdm": "FLUÍDO PARA APLICAÇÃO ESPECÍFICA",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "07945",
-    "ÓLEO DIESEL ÁRTICO": "GASOLINA ESPECIAL"
+    "id": "07944",
+    "pdm": "GASOLINA A BASE DE PETROLEO DE VEICULO DE COMBATE",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "08038",
-    "ÓLEO DIESEL ÁRTICO": "GORDURA DE FAZER SABAO"
+    "id": "07945",
+    "pdm": "GASOLINA ESPECIAL",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "08097",
-    "ÓLEO DIESEL ÁRTICO": "GRAXA - SILICONE"
+    "id": "08038",
+    "pdm": "GORDURA DE FAZER SABAO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "08098",
-    "ÓLEO DIESEL ÁRTICO": "GRAXA DE LA"
+    "id": "08097",
+    "pdm": "GRAXA - SILICONE",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "08099",
-    "ÓLEO DIESEL ÁRTICO": "GRAXA DE LA ( LANOLINA )"
+    "id": "08098",
+    "pdm": "GRAXA DE LA",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": "08775",
-    "ÓLEO DIESEL ÁRTICO": "LENHA"
+    "id": "08099",
+    "pdm": "GRAXA DE LA ( LANOLINA )",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10165,
-    "ÓLEO DIESEL ÁRTICO": "OLEO - COMBUSTIVEL GRADUACAO COMERCIAL BUNKER"
+    "id": "08775",
+    "pdm": "LENHA",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10166,
-    "ÓLEO DIESEL ÁRTICO": "OLEO - COMBUSTIVEL LEVE PARA QUEIMADOR"
+    "id": 10165,
+    "pdm": "OLEO - COMBUSTIVEL GRADUACAO COMERCIAL BUNKER",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10167,
-    "ÓLEO DIESEL ÁRTICO": "OLEO - COMBUSTIVEL PESADO APLICACAO EM CALDEIRA"
+    "id": 10166,
+    "pdm": "OLEO - COMBUSTIVEL LEVE PARA QUEIMADOR",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10168,
-    "ÓLEO DIESEL ÁRTICO": "OLEO - COMBUSTIVEL PESADO PARA QUEIMADOR"
+    "id": 10167,
+    "pdm": "OLEO - COMBUSTIVEL PESADO APLICACAO EM CALDEIRA",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10169,
-    "ÓLEO DIESEL ÁRTICO": "OLEO - COMBUSTIVEL VEICULO"
+    "id": 10168,
+    "pdm": "OLEO - COMBUSTIVEL PESADO PARA QUEIMADOR",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10170,
-    "ÓLEO DIESEL ÁRTICO": "OLEO BOMBA SISTEMA COLETA A VACUO"
+    "id": 10169,
+    "pdm": "OLEO - COMBUSTIVEL VEICULO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10171,
-    "ÓLEO DIESEL ÁRTICO": "OLEO BUNKER"
+    "id": 10170,
+    "pdm": "OLEO BOMBA SISTEMA COLETA A VACUO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10172,
-    "ÓLEO DIESEL ÁRTICO": "ÓLEO COMBUSTÍVEL"
+    "id": 10171,
+    "pdm": "OLEO BUNKER",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10177,
-    "ÓLEO DIESEL ÁRTICO": "ÓLEO COCO"
+    "id": 10172,
+    "pdm": "ÓLEO COMBUSTÍVEL",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10178,
-    "ÓLEO DIESEL ÁRTICO": "ÓLEO DE PEROBA"
+    "id": 10177,
+    "pdm": "ÓLEO COCO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10179,
-    "ÓLEO DIESEL ÁRTICO": "OLEO DE COCO VOLATIL"
+    "id": 10178,
+    "pdm": "ÓLEO DE PEROBA",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10182,
-    "ÓLEO DIESEL ÁRTICO": "OLEO DE ILUMINACAO"
+    "id": 10179,
+    "pdm": "OLEO DE COCO VOLATIL",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10186,
-    "ÓLEO DIESEL ÁRTICO": "OLEO DE PARAFINA"
+    "id": 10182,
+    "pdm": "OLEO DE ILUMINACAO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10187,
-    "ÓLEO DIESEL ÁRTICO": "OLEO DE PEIXE"
+    "id": 10186,
+    "pdm": "OLEO DE PARAFINA",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10192,
-    "ÓLEO DIESEL ÁRTICO": "OLEO DIESEL"
+    "id": 10187,
+    "pdm": "OLEO DE PEIXE",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10193,
-    "ÓLEO DIESEL ÁRTICO": "OLEO DIESEL ARTICO"
+    "id": 10192,
+    "pdm": "OLEO DIESEL",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10194,
-    "ÓLEO DIESEL ÁRTICO": "ÓLEO COMBUSTÍVEL NÁUTICO"
+    "id": 10193,
+    "pdm": "OLEO DIESEL ARTICO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10195,
-    "ÓLEO DIESEL ÁRTICO": "OLEO GRAFITADO"
+    "id": 10194,
+    "pdm": "ÓLEO COMBUSTÍVEL NÁUTICO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10196,
-    "ÓLEO DIESEL ÁRTICO": "ÓLEO LUBRIFICANTE - MÁQUINA COPIADORA / IMPRESSORA"
+    "id": 10195,
+    "pdm": "OLEO GRAFITADO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10197,
-    "ÓLEO DIESEL ÁRTICO": "ÓLEO LUBRIFICANTE AUTOMOTIVO"
+    "id": 10196,
+    "pdm": "ÓLEO LUBRIFICANTE - MÁQUINA COPIADORA / IMPRESSORA",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10198,
-    "ÓLEO DIESEL ÁRTICO": "ÓLEO LUBRIFICANTE"
+    "id": 10197,
+    "pdm": "ÓLEO LUBRIFICANTE AUTOMOTIVO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10199,
-    "ÓLEO DIESEL ÁRTICO": "OLEO LUBRIFICANTE DE AERONAVE"
+    "id": 10198,
+    "pdm": "ÓLEO LUBRIFICANTE",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10200,
-    "ÓLEO DIESEL ÁRTICO": "OLEO LUBRIFICANTE DE EMBARCACAO"
+    "id": 10199,
+    "pdm": "OLEO LUBRIFICANTE DE AERONAVE",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10201,
-    "ÓLEO DIESEL ÁRTICO": "OLEO LUBRIFICANTE DE LAPIDACAO"
+    "id": 10200,
+    "pdm": "OLEO LUBRIFICANTE DE EMBARCACAO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10202,
-    "ÓLEO DIESEL ÁRTICO": "OLEO LUBRIFICANTE DE USO FERROVIARIO"
+    "id": 10201,
+    "pdm": "OLEO LUBRIFICANTE DE LAPIDACAO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10203,
-    "ÓLEO DIESEL ÁRTICO": "OLEO LUBRIFICANTE DE USO INDUSTRIAL"
+    "id": 10202,
+    "pdm": "OLEO LUBRIFICANTE DE USO FERROVIARIO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10204,
-    "ÓLEO DIESEL ÁRTICO": "LUBRIFICANTE ODONTOLÓGICO"
+    "id": 10203,
+    "pdm": "OLEO LUBRIFICANTE DE USO INDUSTRIAL",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10205,
-    "ÓLEO DIESEL ÁRTICO": "OLEO LUBRIFICANTE PARA SISTEMA HIDRAULICO"
+    "id": 10204,
+    "pdm": "LUBRIFICANTE ODONTOLÓGICO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10206,
-    "ÓLEO DIESEL ÁRTICO": "OLEO LUBRIFICANTE SOLIDO"
+    "id": 10205,
+    "pdm": "OLEO LUBRIFICANTE PARA SISTEMA HIDRAULICO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10209,
-    "ÓLEO DIESEL ÁRTICO": "ÓLEO REFRIGERANTE"
+    "id": 10206,
+    "pdm": "OLEO LUBRIFICANTE SOLIDO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 10210,
-    "ÓLEO DIESEL ÁRTICO": "OLEO PARA SISTEMA DE CAMBIO"
+    "id": 10209,
+    "pdm": "ÓLEO REFRIGERANTE",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 11266,
-    "ÓLEO DIESEL ÁRTICO": "PROPELENTE A GRANEL DE USO NAO ESPECIFICO EM MISSI"
+    "id": 10210,
+    "pdm": "OLEO PARA SISTEMA DE CAMBIO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 11267,
-    "ÓLEO DIESEL ÁRTICO": "PROPELENTE LIQUIDO A GRANEL A BASE DE PETROLEO"
+    "id": 11266,
+    "pdm": "PROPELENTE A GRANEL DE USO NAO ESPECIFICO EM MISSI",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 11269,
-    "ÓLEO DIESEL ÁRTICO": "PROPELENTE LIQUIDO EMBALADO A BASE DE PETROLEO"
+    "id": 11267,
+    "pdm": "PROPELENTE LIQUIDO A GRANEL A BASE DE PETROLEO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 11954,
-    "ÓLEO DIESEL ÁRTICO": "SEBO"
+    "id": 11269,
+    "pdm": "PROPELENTE LIQUIDO EMBALADO A BASE DE PETROLEO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 11955,
-    "ÓLEO DIESEL ÁRTICO": "SEBO ETEREO"
+    "id": 11954,
+    "pdm": "SEBO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 11956,
-    "ÓLEO DIESEL ÁRTICO": "SEBO VOLATIL"
+    "id": 11955,
+    "pdm": "SEBO ETEREO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 12457,
-    "ÓLEO DIESEL ÁRTICO": "TABLETE DE AQUECER ALIMENTO"
+    "id": 11956,
+    "pdm": "SEBO VOLATIL",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 13318,
-    "ÓLEO DIESEL ÁRTICO": "VASELINA SOLIDA (VER PETROLATO)"
+    "id": 12457,
+    "pdm": "TABLETE DE AQUECER ALIMENTO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 13542,
-    "ÓLEO DIESEL ÁRTICO": "COMBUSTIVEL PARA AVIACAO"
+    "id": 13318,
+    "pdm": "VASELINA SOLIDA (VER PETROLATO)",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 13860,
-    "ÓLEO DIESEL ÁRTICO": "GASOLINA COMUM C"
+    "id": 13542,
+    "pdm": "COMBUSTIVEL PARA AVIACAO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 13864,
-    "ÓLEO DIESEL ÁRTICO": "GASOLINA PREMIUM C"
+    "id": 13860,
+    "pdm": "GASOLINA COMUM C",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 13990,
-    "ÓLEO DIESEL ÁRTICO": "SOLUÇÃO LUBRIFICANTE"
+    "id": 13864,
+    "pdm": "GASOLINA PREMIUM C",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 14780,
-    "ÓLEO DIESEL ÁRTICO": "DESENGRIMPANTE"
+    "id": 13990,
+    "pdm": "SOLUÇÃO LUBRIFICANTE",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 15031,
-    "ÓLEO DIESEL ÁRTICO": "ÓLEO ANTICORROSIVO"
+    "id": 14780,
+    "pdm": "DESENGRIMPANTE",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 15209,
-    "ÓLEO DIESEL ÁRTICO": "CONJUNTO LUBRIFICAÇÃO"
+    "id": 15031,
+    "pdm": "ÓLEO ANTICORROSIVO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 15406,
-    "ÓLEO DIESEL ÁRTICO": "ÓLEO LEVE-BTX(BENZENO,TOLUENO E XILENO)"
+    "id": 15209,
+    "pdm": "CONJUNTO LUBRIFICAÇÃO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 15457,
-    "ÓLEO DIESEL ÁRTICO": "ÁLCOOL ETÍLICO HIDRATADO COMBUSTÍVEL"
+    "id": 15406,
+    "pdm": "ÓLEO LEVE-BTX(BENZENO,TOLUENO E XILENO)",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 15604,
-    "ÓLEO DIESEL ÁRTICO": "GRAFITE"
+    "id": 15457,
+    "pdm": "ÁLCOOL ETÍLICO HIDRATADO COMBUSTÍVEL",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 15748,
-    "ÓLEO DIESEL ÁRTICO": "CERA SEMI-SINTÉTICA"
+    "id": 15604,
+    "pdm": "GRAFITE",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 16128,
-    "ÓLEO DIESEL ÁRTICO": "CONDICIONADOR METAIS"
+    "id": 15748,
+    "pdm": "CERA SEMI-SINTÉTICA",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 16172,
-    "ÓLEO DIESEL ÁRTICO": "FLUIDO HIDRÁULICO"
+    "id": 16128,
+    "pdm": "CONDICIONADOR METAIS",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 17309,
-    "ÓLEO DIESEL ÁRTICO": "COMBUSTÍVEIS SÓLIDOS"
+    "id": 16172,
+    "pdm": "FLUIDO HIDRÁULICO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 17310,
-    "ÓLEO DIESEL ÁRTICO": "COMBUSTÍVEIS E PROPELENTES LÍQUIDOS À BASE DE PETRÓLEO"
+    "id": 17309,
+    "pdm": "COMBUSTÍVEIS SÓLIDOS",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 17311,
-    "ÓLEO DIESEL ÁRTICO": "COMBUSTÍVEIS PROPELENTES LÍQUIDOS E OXIDANTES Á BASE QUÍMICA"
+    "id": 17310,
+    "pdm": "COMBUSTÍVEIS E PROPELENTES LÍQUIDOS À BASE DE PETRÓLEO",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 17312,
-    "ÓLEO DIESEL ÁRTICO": "BIODIESEL"
+    "id": 17311,
+    "pdm": "COMBUSTÍVEIS PROPELENTES LÍQUIDOS E OXIDANTES Á BASE QUÍMICA",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 17313,
-    "ÓLEO DIESEL ÁRTICO": "ÓLEOS E GRAXAS PARA CORTE, LUBRIFICAÇÃO E SISTEMAS HIDRÁULI-COS"
+    "id": 17312,
+    "pdm": "BIODIESEL",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 17314,
-    "ÓLEO DIESEL ÁRTICO": "CERAS, ÓLEOS E GORDURAS DIVERSAS"
+    "id": 17313,
+    "pdm": "ÓLEOS E GRAXAS PARA CORTE, LUBRIFICAÇÃO E SISTEMAS HIDRÁULI-COS",
+    "grupo": 91
   },
   {
-    "91": 91,
-    "00588": 18328,
-    "ÓLEO DIESEL ÁRTICO": "PASTA LUBRIFICANTE"
+    "id": 17314,
+    "pdm": "CERAS, ÓLEOS E GORDURAS DIVERSAS",
+    "grupo": 91
+  },
+  {
+    "id": 18328,
+    "pdm": "PASTA LUBRIFICANTE",
+    "grupo": 91
   }
 ]
