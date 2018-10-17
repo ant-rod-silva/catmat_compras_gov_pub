@@ -4,6 +4,11 @@ Catálogo de materiais obtidos da API de Compras Governamentais em formato cvs e
 
 Os dados foram extraídos nos dias 01 e 02 de outubro de 2018
 
+#### Definição
+
+### PDM (padrão descritivo de material)
+Um PDM tem como objetivo padronizar e automatizar a atualização da descrição curta e longa do material e facilitar a busca dos materiais.
+
 #### Grupos:
 
 
