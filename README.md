@@ -6,7 +6,7 @@ Os dados foram extraídos nos dias 01 e 02 de outubro de 2018
 
 #### Definição
 
-### PDM (padrão descritivo de material)
+### PDM (padrão descritivo de material) / MDM (Master Data Management)
 Um PDM tem como objetivo padronizar e automatizar a atualização da descrição curta e longa do material e facilitar a busca dos materiais.
 
 ![pdm](http://www.lkm.com.br/img/solucoessap/pdm.png)
