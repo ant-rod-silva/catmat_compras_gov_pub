@@ -97,6 +97,15 @@ Este método objetiva a identificação única e classificação de todos os mat
 - 96: MINÉRIOS, MINERAIS E SEUS PRODUTOS PRIMÁRIOS: **364 itens**
 - 99: DIVERSOS: **2305 itens**
 
+#### Exemplo de coleta de dados usando Python e Pandas
+
+```
+import pandas as pd
+url = 'https://raw.githubusercontent.com/rodrigosantosbr/catmat_compras_gov/master/csv/materiais-grupo-10-armamento.csv'
+materiais_data = pd.read_csv(url, delimiter = ',', names=['id', 'material','grupo','classe','pdm','status','sustentavel'])
+materiais_data[['id','material']]
+```
+
 #### Exemplo de busca por grupo
 
 http://compras.dados.gov.br/materiais/v1/materiais.html?grupo=10
