@@ -104,6 +104,8 @@ import pandas as pd
 url = 'https://raw.githubusercontent.com/rodrigosantosbr/catmat_compras_gov/master/csv/materiais-grupo-10-armamento.csv'
 materiais_data = pd.read_csv(url, delimiter = ',', names=['id', 'material','grupo','classe','pdm','status','sustentavel'])
 materiais_data[['id','material']]
+materiais_ativos = materiais_data[materiais_data.status == 'Ativo']
+print materiais_ativos
 ```
 
 #### Exemplo de busca por grupo
