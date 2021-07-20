@@ -18,6 +18,8 @@ Este método objetiva a identificação única e classificação de todos os mat
 
 
 - 10: ARMAMENTO: **189 itens**
+http://compras.dados.gov.br/materiais/v1/materiais.html?grupo=10
+
 - 11: MATERIAIS BÉLICOS NUCLEARES: **25 itens**
 - 12: EQUIPAMENTOS DE TIRO: **23 itens**
 - 13: MUNIÇÕES E EXPLOSIVOS: **105 itens**
